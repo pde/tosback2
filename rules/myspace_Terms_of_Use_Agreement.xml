@@ -1,0 +1,7 @@
+<sitename name="www1.myspace.com">
+  <docname name="Terms of Use Agreement">
+    <url name="http://www1.myspace.com/index.cfm?fuseaction=misc.terms">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

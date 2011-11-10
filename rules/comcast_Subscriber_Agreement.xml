@@ -1,0 +1,7 @@
+<sitename name="www.comcast.net">
+  <docname name="Subscriber Agreement">
+    <url name="http://www.comcast.net/terms/subscriber/">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

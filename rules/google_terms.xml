@@ -1,0 +1,7 @@
+<sitename name="google.com">
+  <docname name="Terms of Service">
+    <url name="http://www.google.com/accounts/TOS">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

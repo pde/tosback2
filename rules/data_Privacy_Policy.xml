@@ -1,0 +1,7 @@
+<sitename name="www.data.gov">
+  <docname name="Privacy Policy">
+    <url name="http://www.data.gov/privacypolicy">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

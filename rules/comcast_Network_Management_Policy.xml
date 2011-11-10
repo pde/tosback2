@@ -1,0 +1,7 @@
+<sitename name="www.comcast.net">
+  <docname name="Network Management Policy">
+    <url name="http://www.comcast.net/terms/network/">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

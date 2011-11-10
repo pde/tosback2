@@ -1,0 +1,7 @@
+<sitename name="www.apple.com">
+  <docname name="iTunes Terms Of Sale">
+    <url name="http://www.apple.com/legal/itunes/us/sales.html">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

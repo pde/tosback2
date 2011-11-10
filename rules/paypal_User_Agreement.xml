@@ -1,0 +1,7 @@
+<sitename name="cms.paypal.com">
+  <docname name="User Agreement">
+    <url name="https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/UserAgreement_full&locale.x=en_US">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
