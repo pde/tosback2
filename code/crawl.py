@@ -23,7 +23,7 @@ class TOSCrawler(object):
     def read(self, file_name):
         """Parses XML file."""
         # TODO(dta) test on many-to-one urls
-        xmlData = etree.parse(CODE_PATH + "../rules/" + file_name)
+        xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
         self.data = {}
         for node in xmlData.iter():
             self.data[str(node.tag)] = node.attrib['name']
@@ -50,7 +50,7 @@ class TOSCrawler(object):
         reltarget = os.path.join("crawls", sitename, docname)
         if os.path.isdir(target):
             # rm -rf the previous crawl state
-            shutils.rmtree(target)
+            shutil.rmtree(target)
         os.makedirs(target)
 
         # 2. Do wget lookup
