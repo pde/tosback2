@@ -106,6 +106,8 @@ def main():
 
         gitrepo.index.add(crawl_paths)
         commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
+        os.environ["GIT_AUTHOR_NAME"]="Robbie Robot"
+        os.environ["GIT_AUTHOR_EMAIL"]="robots@dev.null"
         committed = gitrepo.index.commit(commit_msg)
 
 
