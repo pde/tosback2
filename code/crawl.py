@@ -106,12 +106,18 @@ def main():
 
         map(gitrepo.index.add, crawl_paths)
         commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
-        commit = index.commit(commit_msg)
+        committed = index.commit(commit_msg)
 
 
     finally:
         original_branch.checkout()
-        
-
+        if not committed and ("--keep-failed" not in sys.argv):
+            # We didn't finish the crawl; unless the user asked for it we
+            # won't keep the result
+            gitrepo.branches[branchname].delete(gitrepo,branchname)
+            if branchname in gitrepo.branches:
+                print "Failed to delete crawl branch", branchname, 
+                print "for mysterious reasons"
+            # PS -- who on earth designed this API
 
 main()
