@@ -106,7 +106,7 @@ def main():
 
         gitrepo.index.add(crawl_paths)
         commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
-        committed = index.commit(commit_msg)
+        committed = gitrepo.index.commit(commit_msg)
 
 
     finally:
