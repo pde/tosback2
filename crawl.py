@@ -40,6 +40,7 @@ class TOSCrawler(threading.Thread):
         sitename = data["sitename"]
         assert "docname" in data, "Every rule needs a sitename"
         docname = data["docname"]
+        recurse = "norecurse" not in data
 
         # 1. Prepare a directory for the crawl results
         target = os.path.join(operating_path,"..","crawls",sitename,docname)
@@ -52,7 +53,24 @@ class TOSCrawler(threading.Thread):
         # TODO: do wget lookup
         print "Crawling %s\n" % url
         # todo add 
-        args = ['wget', '-H', '-p', '-e', 'robots=off', '-o', '%s_wget.log' % url, '-U', random.choice(UAs), url]
+        args = [
+            'wget', 
+            # Obtain images, CSS, etc, even from other domains
+            '--page-requisites',
+            '--span-hosts',
+            # Obtain the Terms of Service, even if j.random crawler is blocked
+            '--execute', 'robots=off', 
+            '--user-agent', random.choice(UAs), 
+            # Put results in the right place
+            '--directory-prefix', target,         
+            # '--output-file', '%s_wget.log' % url,   # URLs are not safe filenames
+            '--output-file', 'crawled-terms-of-service.html'
+            # Format things for historical/offline browsing
+            '--convert-links',
+            '--adjust-extension',
+            url]
+        if recurse:
+            args[-1:-1] = ['--recursive', '--level', '1']
         subprocess.call(args)
         os.path.chdir(operating_path)
         # TODO(dta): rename directory tree, manipulate files
