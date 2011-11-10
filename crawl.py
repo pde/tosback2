@@ -28,6 +28,22 @@ class TOSCrawler(threading.Thread):
             UAs = GLOBAL_UAS
         if 'xpath' in data:
             xpath = data['xpath']
+
+        assert "sitename" in data, "Every rule needs a sitename"
+        sitename = data["sitename"]
+        assert "docname" in data, "Every rule needs a sitename"
+        sitename = data["docname"]
+
+        # figure out what branch we're on
+        # if dirty, git stash
+        # cd crawl/sitename/docname
+        # rm -rf .
+        # wget output goes here
+        # git commit .
+        # git checkout original branch
+        # if was dirty, git stash pop
+
+
         # TODO: do wget lookup
         print "Crawling %s\n" % url
         # todo add 
