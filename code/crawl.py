@@ -47,11 +47,12 @@ class TOSCrawler(object):
 
         # 1. Prepare a directory for the crawl results
         target = os.path.join(CODE_PATH,"..","crawls",sitename,docname)
+        rawtarget = os.path.join(CODE_PATH,"..","crawls",sitename,docname,"raw")
         reltarget = os.path.join("crawls", sitename, docname)
         if os.path.isdir(target):
             # rm -rf the previous crawl state
             shutil.rmtree(target)
-        os.makedirs(target)
+        os.makedirs(rawtarget)
 
         # 2. Do wget lookup
         print "Crawling %s\n" % url
@@ -64,9 +65,9 @@ class TOSCrawler(object):
             '--execute', 'robots=off', 
             '--user-agent', random.choice(UAs), 
             # Put results in the right place
-            '--directory-prefix', target,         
+            '--directory-prefix', rawtarget,
             # '--output-file', '%s_wget.log' % url,   # URLs are not safe filenames
-            '--output-file', 'crawled-terms-of-service.html',
+            '--output-file=' + os.path.join(target,"wget.log"),
             # Format things for historical/offline browsing
             '--convert-links',
             '--adjust-extension',
