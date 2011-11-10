@@ -6,6 +6,7 @@ import git
 import time
 import os,os.path,shutil
 import sys
+from lxml import etree
 
 # TODO(dta) use multiprocessing module
 # at some point in the future
@@ -21,11 +22,11 @@ class TOSCrawler(object):
 
     def read(self, file_name):
         """Parses XML file."""
-        # set self.data
-        # TODO for testing: refactor to unit test
-        self.data = {'sitename': 'facebook',
-                     'docname': 'Terms of Service',
-                     'url': 'www.facebook.com/terms.php'}
+        # TODO(dta) test on many-to-one urls
+        xmlData = etree.parse(file_name)
+        data = {}
+        for node in xmlData.iter():
+            self.data[str(node.tag)] = node.attrib['name']
 
     def process(self):
         # 0. Determine parameters for this crawl
