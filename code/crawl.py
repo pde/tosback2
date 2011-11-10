@@ -104,7 +104,7 @@ def main():
 
         # 4. commit results
 
-        map(gitrepo.index.add, crawl_paths)
+        gitrepo.index.add(crawl_paths)
         commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
         committed = index.commit(commit_msg)
 
