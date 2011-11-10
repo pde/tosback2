@@ -66,7 +66,7 @@ class TOSCrawler(object):
             # Put results in the right place
             '--directory-prefix', target,         
             # '--output-file', '%s_wget.log' % url,   # URLs are not safe filenames
-            '--output-file', 'crawled-terms-of-service.html'
+            '--output-file', 'crawled-terms-of-service.html',
             # Format things for historical/offline browsing
             '--convert-links',
             '--adjust-extension',
