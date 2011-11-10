@@ -12,7 +12,7 @@ from lxml import etree
 # at some point in the future
 
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
-OPERATING_PATH = os.path.dirname(sys.argv[0])
+CODE_PATH = os.path.dirname(sys.argv[0])
 
 class TOSCrawler(object):
     """Class to process xml files sequentially"""
@@ -46,7 +46,8 @@ class TOSCrawler(object):
             UAs = GLOBAL_UAS
 
         # 1. Prepare a directory for the crawl results
-        target = os.path.join(OPERATING_PATH,"..","crawls",sitename,docname)
+        target = os.path.join(CODE_PATH,"..","crawls",sitename,docname)
+        reltarget = os.path.join("crawls", sitename, docname)
         if os.path.isdir(target):
             # rm -rf the previous crawl state
             shutils.rmtree(target)
@@ -74,25 +75,43 @@ class TOSCrawler(object):
             args[-1:-1] = ['--recursive', '--level', '1']
         print "calling ", args
         subprocess.call(args)
+        return reltarget
         # TODO(dta): rename directory tree, manipulate files
 
 
 def main():
     # 1. make a git branch to work in
     branchname = "crawl-" + time.strftime("%Y-%m-%d-%H-%M-%S")
-    gitrepo = git.Repo("..")
-    gitrepo.create_head(branchname)
-    gitrepo.branches[branchname].checkout()
+    repopath=os.path.join(CODE_PATH,"..")
+    gitrepo = git.Repo(repopath)
+    committed = False
+    original_branch = gitrepo.active_branch
+    try:
+        gitrepo.create_head(branchname)
+        gitrepo.branches[branchname].checkout()
 
-    # 2. initialize TOSCrawler
-    t = TOSCrawler()
+        # 2. initialize TOSCrawler
+        t = TOSCrawler()
 
-    # 3. Traverse
-    for fi in os.listdir("../rules"):
-        if fi[-4:]!=".xml": continue
-        print "Reading %s" % fi
-        t.read(fi)
-        t.process()
+        # 3. Traverse
+        crawl_paths = []
+        for fi in os.listdir(os.path.join(CODE_PATH,"..","rules")):
+            if fi[-4:]!=".xml": continue
+            print "Reading %s" % fi
+            t.read(fi)
+            path = t.process()
+            crawl_paths.append(path)
+
+        # 4. commit results
+
+        map(gitrepo.index.add, crawl_paths)
+        commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
+        commit = index.commit(commit_msg)
+
+
+    finally:
+        original_branch.checkout()
+        
 
 
 main()
