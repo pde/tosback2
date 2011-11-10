@@ -45,12 +45,11 @@ class TOSCrawler(object):
             UAs = GLOBAL_UAS
 
         # 1. Prepare a directory for the crawl results
-        target = os.path.join(operating_path,"..","crawls",sitename,docname)
+        target = os.path.join(OPERATING_PATH,"..","crawls",sitename,docname)
         if os.path.isdir(target):
             # rm -rf the previous crawl state
             shutils.rmtree(target)
         os.path.mkdirs(target)
-        os.path.chdir(target)
 
         # 2. Do wget lookup
         print "Crawling %s\n" % url
@@ -72,8 +71,8 @@ class TOSCrawler(object):
             url]
         if recurse:
             args[-1:-1] = ['--recursive', '--level', '1']
+        print "calling ", args
         subprocess.call(args)
-        os.path.chdir(operating_path)
         # TODO(dta): rename directory tree, manipulate files
 
 
@@ -81,7 +80,8 @@ def main():
     # 1. make a git branch to work in
     branchname = "crawl-" + time.strftime("%Y-%m-%d-%H-%M-%S")
     gitrepo = git.Repo("..")
-    gitrepo.branches[branchname]
+    gitrepo.create_head(branchname)
+    gitrepo.branches[branchname].checkout()
 
     # 2. initialize TOSCrawler
     t = TOSCrawler()
