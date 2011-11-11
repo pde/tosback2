@@ -1,6 +1,6 @@
 <sitename name="www.verizonwireless.com">
   <docname name="Wireless Customer Agreement">
-    <url name="http://www.verizonwireless.com/b2c/globalText?textName=CUSTOMER_AGREEMENT&jspName=footer/customerAgreement.jsp">
+    <url name="http://www.verizonwireless.com/b2c/globalText?textName=CUSTOMER_AGREEMENT&amp;jspName=footer/customerAgreement.jsp">
       <norecurse name="arbitrary"/>
     </url>
   </docname>
