@@ -5,6 +5,7 @@ import random
 import git
 import time
 import os,os.path,shutil
+import re
 import sys
 from lxml import etree
 
@@ -20,6 +21,9 @@ class TOSCrawler(object):
         if xml_file_name:
             self.read(xml_file_name)
 
+    def sanitize(self, filename):
+        return re.sub(r'\W+', '-', filename)
+
     def read(self, file_name):
         """Parses XML file."""
         # TODO(dta) test on many-to-one urls
@@ -32,8 +36,8 @@ class TOSCrawler(object):
         # 0. Determine parameters for this crawl
         assert "sitename" in self.data, "Every rule needs a sitename"
         sitename = self.data["sitename"]
-        assert "docname" in self.data, "Every rule needs a sitename"
-        docname = self.data["docname"]
+        assert "docname" in self.data, "Every rule needs a docname"
+        docname = self.sanitize(self.data["docname"])
         assert "url" in self.data, "Every rule needs a url"
         url = self.data["url"]
 
@@ -66,18 +70,19 @@ class TOSCrawler(object):
             '--user-agent', random.choice(UAs), 
             # Put results in the right place
             '--directory-prefix', rawtarget,
-            # '--output-file', '%s_wget.log' % url,   # URLs are not safe filenames
-            '--output-file=' + os.path.join(target,"wget.log"),
+            '--output-file', os.path.join(target,"wget.log"),
             # Format things for historical/offline browsing
             '--convert-links',
             '--adjust-extension',
+            # Sensible timeout/retries
+            '--timeout', '10',
+            '--tries', '3',
             url]
         if recurse:
             args[-1:-1] = ['--recursive', '--level', '1']
         print "calling ", args
         subprocess.call(args)
         return reltarget
-        # TODO(dta): rename directory tree, manipulate files
 
 
 def main():
