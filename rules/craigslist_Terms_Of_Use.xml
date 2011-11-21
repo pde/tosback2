@@ -1,6 +1,6 @@
 <sitename name="www.craigslist.org">
   <docname name="Terms Of Use">
-    <url name="http://www.craigslist.org/about/terms.of.use.html">
+    <url name="http://www.craigslist.org/about/terms.of.use">
       <norecurse name="arbitrary"/>
     </url>
   </docname>

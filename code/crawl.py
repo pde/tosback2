@@ -75,7 +75,7 @@ class TOSCrawler(object):
             '--convert-links',
             '--adjust-extension',
             # Sensible timeout/retries
-            '--timeout', '10',
+            '--timeout', '15',
             '--tries', '3',
             url]
         if recurse:
