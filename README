@@ -1,0 +1,3 @@
+To work with this git repo, you need to first do:
+
+git submodule update --init --recursive
