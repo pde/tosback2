@@ -1,3 +1,21 @@
-To work with this git repo, you need to first do:
+After cloning the git repository, you need to execute this command:
 
 git submodule update --init --recursive
+
+That will fetch a recent version of the GitPython code, which we depend upon.
+
+*BUGS IN WGET*
+
+If you want to actually run the crawler yourself (not really necessary unless
+you're testing something), be aware that TOSBack2 also exposes a number of
+bugs in common versions of wget.  As of December 2011, there are two bugs you
+might need to patch yourself!
+
+1. Versions of wget built against
+   gnutls may suffer from fatal memory leaks 
+   https://lists.gnu.org/archive/html/bug-wget/2011-10/msg00050.html
+   (so apply that patch, or build against openssl using ./configure --with-ssl=openssl).
+
+2. You should also apply the following patch 
+   https://savannah.gnu.org/support/download.php?file_id=24473
+   to fix this bug: https://savannah.gnu.org/bugs/?21714
