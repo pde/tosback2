@@ -1,0 +1,5 @@
+This is TOSBack version 2, a clean redesign & reimplementation of EFF's
+TOSBack project.
+
+It uses Git as an inherently and efficiently versioned backend storage
+database.
