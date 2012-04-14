@@ -27,7 +27,7 @@ config.status:
 			--infodir=\$${prefix}/share/info \
 			--sysconfdir=/etc \
 			--enable-ipv6 \
-			--with-ssl \
+			--with-ssl=openssl \
 			--with-libidn $(confflags)
 
 	touch configure-stamp
