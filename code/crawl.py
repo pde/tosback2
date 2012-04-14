@@ -144,6 +144,7 @@ def main():
 
     finally:
         original_branch.checkout()
+
         if not committed and not keep_failed:
             # We didn't finish the crawl; unless the user asked for it we
             # won't keep the result. PS -- who on earth designed this API
