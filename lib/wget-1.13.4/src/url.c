@@ -1585,7 +1585,7 @@ url_file_name (const struct url *u, char *replaced_filename)
   append_char ('\0', &temp_fnres);
 
   /* Check that the length of the file name is acceptable. */
-  max_length = get_max_length (fnres.base, fnres.tail, _PC_NAME_MAX) - CHOMP_BUFFER;
+  max_length = 127;  // EXTRA AGGRESSIVE FOR TOSBACK2
   if (strlen (temp_fnres.base) > max_length)
     {
       logprintf (LOG_NOTQUIET, "The name is too long, %lu chars total.\n",
