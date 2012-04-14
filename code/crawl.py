@@ -42,8 +42,24 @@ class TOSCrawler(object):
         data = {}
         for node in xmlData.iter():
         	data[str(node.tag)] = node.attrib['name']
-		#print str(node.tag), node.attrib['name']
         return data
+
+    def read2(self, file_name):
+	"""Parses XML file."""
+	# EDIT CJR for multiple docnames within a sitename
+	xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
+	dataLst = []
+	for node in xmlData.iter("sitename"):
+		sname = node.attrib['name']
+		break
+	for doc in xmlData.iter("docname"):
+		data = {}
+		data['docname'] = doc.attrib['name']
+		data['sitename'] = sname
+		for child in doc.iter():
+			data[str(child.tag)] = child.attrib['name']
+		dataLst.append(data)
+	return dataLst
 
     def process(self, data):
         # 0. Determine parameters for this crawl
@@ -131,9 +147,10 @@ def main():
         crawl_paths = []
         parsed_xml_files = []
         for fi in os.listdir(os.path.join(CODE_PATH,"..","rules")):
-            if fi[-4:]!=".xml": continue
-            print "Reading in XML file %s" % fi
-            parsed_xml_files.append(t.read(fi))
+		if fi[-4:]!=".xml": continue
+		print "Reading in XML file %s" % fi
+		for i in t.read2(fi):
+		    parsed_xml_files.append(i)
 
         if xml_test:
             print "XML test only. Exiting"
