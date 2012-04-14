@@ -1,0 +1,7 @@
+<sitename name="duckduckgo.com">
+ <docname name="Privacy Policy">
+   <url name="http://duckduckgo.com/privacy.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

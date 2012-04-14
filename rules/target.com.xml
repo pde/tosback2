@@ -1,0 +1,7 @@
+<sitename name="target.com">
+ <docname name="Privacy Policy">
+   <url name="http://sites.target.com/site/en/spot/page.jsp?title=privacy_policy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

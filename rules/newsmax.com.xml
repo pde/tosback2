@@ -1,0 +1,7 @@
+<sitename name="newsmax.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.newsmax.com/PrivacyStatement">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

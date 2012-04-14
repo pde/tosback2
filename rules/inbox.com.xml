@@ -1,0 +1,7 @@
+<sitename name="inbox.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.inbox.com/privacy_policy.aspx">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

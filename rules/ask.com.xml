@@ -1,0 +1,7 @@
+<sitename name="ask.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.ask.com/about/legal/privacy?o=0&l=dir">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

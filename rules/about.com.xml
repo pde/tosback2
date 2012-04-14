@@ -1,0 +1,7 @@
+<sitename name="about.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.about.com/gi/pages/mprivacy.htm">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

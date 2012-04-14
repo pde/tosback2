@@ -1,0 +1,7 @@
+<sitename name="wordpress.com">
+ <docname name="Privacy Policy">
+   <url name="http://automattic.com/privacy/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

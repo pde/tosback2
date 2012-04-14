@@ -95,6 +95,19 @@ class TOSCrawler(object):
         subprocess.call(args)
         return reltarget
 
+def max_filename_length(root_dir):
+	my_max = (0,"")
+	names = os.listdir(root_dir)
+	for name in names:
+		full_name = os.path.join(root_dir,name)
+		if os.path.isdir(full_name): # file is not a directory
+			m = max_filename_length(os.path.join(root_dir,name))
+			if m[0] > my_max[0]:
+				my_max = m	
+		else:
+			if len(name) > my_max[0]:
+				my_max = (len(name),name)
+	return my_max
 
 def main():
     # 1. make a git branch to work in
@@ -130,7 +143,11 @@ def main():
             crawl_paths.append(path)
 
         # 4. commit results
-        if dry_run:
+		crawls_dir = os.path.join(CODE_PATH,"..","crawls")
+        (maxlen, maxfname) = max_filename_length(crawls_dir)
+		
+		
+		if dry_run:
             print "Dry run. Not commiting results"
             return
 

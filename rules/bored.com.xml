@@ -1,0 +1,7 @@
+<sitename name="bored.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.bored.com/guest/?page=privacy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

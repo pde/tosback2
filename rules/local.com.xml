@@ -1,0 +1,7 @@
+<sitename name="local.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.local.com/privacy/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
