@@ -1,6 +1,6 @@
 <sitename name="orbitz.com">
  <docname name="Privacy Policy">
-   <url name="http://www.orbitz.com/info/win?id=PrivacyPolicy&popupsDisabled=true">
+   <url name="http://www.orbitz.com/info/win?id=PrivacyPolicy&#x26;popupsDisabled=true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

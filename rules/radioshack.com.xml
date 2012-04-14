@@ -1,6 +1,6 @@
 <sitename name="radioshack.com">
  <docname name="Privacy Policy">
-   <url name="http://www.radioshack.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=privacy">
+   <url name="http://www.radioshack.com/helpdesk/index.jsp?display=safety&#x26;subdisplay=privacy&#x26;clickid=privacy">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

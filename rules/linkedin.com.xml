@@ -1,6 +1,6 @@
 <sitename name="linkedin.com">
  <docname name="Privacy Policy">
-   <url name="http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv">
+   <url name="http://www.linkedin.com/static?key=privacy_policy&#x26;trk=hb_ft_priv">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

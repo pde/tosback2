@@ -1,6 +1,6 @@
 <sitename name="paypal.com">
  <docname name="Privacy Policy">
-   <url name="https://cms.paypal.com/ph/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US">
+   <url name="https://cms.paypal.com/ph/cgi-bin/marketingweb?cmd=_render-content&#x26;content_ID=ua/Privacy_full&#x26;locale.x=en_US">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
