@@ -1,3 +1,9 @@
+This is TOSBack version 2, a clean redesign & reimplementation of EFF's
+TOSBack project.
+
+It uses Git as an inherently and efficiently versioned backend storage
+database.
+
 After cloning the git repository, you need to execute this command:
 
 git submodule update --init --recursive
@@ -11,6 +17,10 @@ you're testing something), be aware that TOSBack2 also exposes a number of
 bugs in common versions of wget.  As of December 2011, there are two bugs you
 might need to patch yourself!
 
+(FOR YOUR CONVENIENCE, a patched version of the wget source can be found in
+lib/wget-1.13.4/ .  There is also a binary .deb that Debian and Ubuntu users
+can try in lib/.  More hints on building from source below) 
+
 1. Versions of wget built against
    gnutls may suffer from fatal memory leaks 
    https://lists.gnu.org/archive/html/bug-wget/2011-10/msg00050.html
@@ -19,3 +29,10 @@ might need to patch yourself!
 2. You should also apply the following patch 
    https://savannah.gnu.org/support/download.php?file_id=24473
    to fix this bug: https://savannah.gnu.org/bugs/?21714
+
+HINTS FOR BUILDING WGET FROM SOURCE ON DEBIAN OR UBUNTU
+
+sudo apt-get build-dep wget
+cd lib/wget-1.13.4/
+fakeroot debian/rules binary
+an installable .deb file *should* be written to the lib/ directory

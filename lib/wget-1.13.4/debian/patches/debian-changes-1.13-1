@@ -1,0 +1,94 @@
+Description: Upstream changes introduced in version 1.13-1
+ This patch has been created by dpkg-source during the package build.
+ Here's the last changelog entry, hopefully it gives details on why
+ those changes were made:
+ .
+ wget (1.13-1) unstable; urgency=low
+ .
+   * new upstream release 1.13 from 2011-08-09
+     - updated wget-doc-remove-usr-local-in-wget.texi,
+       wget-fr.po-spelling-correction,
+     - removed wget-de.po-remove-double-quote-signs (latest de.po),
+       CVE-2010-2252 (included upstream), wget-zh_CN.po-translation-correction,
+       fix-paramter-spelling-error-in-wget.texi, refresh-pofiles
+     - disabled disable-SSLv2 for the first upload
+       see https://savannah.gnu.org/bugs/?33840
+     - includes latest po files. closes: Bug#607198
+     - bugs fixed with this release by upstream:
+     -- IDN support: wget www.köln.de works:) closes: Bug#542145
+     -- wildcard documentation of -X
+        closes: Bug#215128
+     -- wget -O - $URL says `-' saved but there is no file -
+        closes: Bug#353326
+     -- 'wget -c -N' ignores timestamps
+        closes: Bug#402001
+     -- missing a check for Subject Alternative Name (TLS cert.)
+        closes: Bug#409938
+     -- wget segfaults when server returns empty HTTP response code
+        closes: Bug#563872
+     -- wget: -A/-R vs. -O
+        closes: Bug#565942
+     -- Unterminated C string in http_atotm()
+        closes: Bug#581817
+     -- don't use PATH_MAX (FTBFS on hurd)
+        closes: Bug#595538
+     -- info page points to not documented --cookies option
+        closes: Bug#597468
+     -- SIGPIPE signal: wget over ssh orphans itself on ctrl+c
+        closes: Bug#598731
+     -- wget --backup-converted does not work
+        closes: Bug#624675
+     -- --adjust-extension renames .htm files
+        closes: Bug#626438
+     -- wget: Invalid russian translation
+        closes: Bug#502218
+     -- wget: shows only first 3 IP addresses of hostname
+        closes: Bug#612450
+ .
+   * debian/control correct spelling in description. closes: Bug#635241
+   * debian/control replace libssl-dev by libgnutls-dev in build dependency
+ .
+ The person named in the Author field signed this changelog entry.
+Author: Noël Köthe <noel@debian.org>
+Bug-Debian: http://bugs.debian.org/215128
+Bug-Debian: http://bugs.debian.org/353326
+Bug-Debian: http://bugs.debian.org/402001
+Bug-Debian: http://bugs.debian.org/409938
+Bug-Debian: http://bugs.debian.org/502218
+Bug-Debian: http://bugs.debian.org/542145
+Bug-Debian: http://bugs.debian.org/563872
+Bug-Debian: http://bugs.debian.org/565942
+Bug-Debian: http://bugs.debian.org/581817
+Bug-Debian: http://bugs.debian.org/595538
+Bug-Debian: http://bugs.debian.org/597468
+Bug-Debian: http://bugs.debian.org/598731
+Bug-Debian: http://bugs.debian.org/607198
+Bug-Debian: http://bugs.debian.org/612450
+Bug-Debian: http://bugs.debian.org/624675
+Bug-Debian: http://bugs.debian.org/626438
+Bug-Debian: http://bugs.debian.org/635241
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: <vendor|upstream|other>, <url of original patch>
+Bug: <url in upstream bugtracker>
+Bug-Debian: http://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: <no|not-needed|url proving that it has been forwarded>
+Reviewed-By: <name and email of someone who approved the patch>
+Last-Update: <YYYY-MM-DD>
+
+--- wget-1.13.orig/po/de.po
++++ wget-1.13/po/de.po
+@@ -2178,7 +2178,7 @@ msgstr ""
+ #, c-format
+ msgid "Invalid dot style specification %s; leaving unchanged.\n"
+ msgstr ""
+-"Ungültiger Stil für den »dot«-Fortschrittsindikator  »%s«; keine Änderung.\n"
++"Ungültiger Stil für den »dot«-Fortschrittsindikator %s; keine Änderung.\n"
+ 
+ #. TRANSLATORS: "ETA" is English-centric, but this must
+ #. be short, ideally 3 chars.  Abbreviate if necessary.

@@ -1,0 +1,195 @@
+--- src/utils.h	2011-01-01 13:12:35.000000000 +0100
++++ src/utils.h	2011-11-27 11:57:35.000000000 +0100
+@@ -145,6 +145,8 @@
+ 
+ const char *print_decimal (double);
+ 
++long get_max_length (char *path, int length, int name);
++
+ extern unsigned char char_prop[];
+ 
+ #endif /* UTILS_H */
+--- src/utils.c	2011-08-29 10:01:24.000000000 +0200
++++ src/utils.c	2011-11-27 12:16:19.000000000 +0100
+@@ -2383,6 +2383,47 @@
+   return buf;
+ }
+ 
++/* Get the maximum name length for the given path. */
++long
++get_max_length (char *path, int length, int name)
++{
++  long ret;
++  char *p, *d;
++  /* Make a copy of the path that we can modify. */
++  p = path ? strdupdelim (path, path + length) : strdup ("");
++  while (1)
++    {
++      errno = 0;
++      /* For an empty path query the current directory. */
++      ret = pathconf (*p ? p : ".", name);
++      if (!(ret < 0 && errno == ENOENT))
++        break;
++      /* The path does not exist yet, but may be created. */
++      /* Already at current or root directory, give up. */
++      if (!*p || strcmp (p, "/") == 0)
++        break;
++      /* Remove one directory level and try again. */
++      d = strrchr (p, '/');
++      if (d == p)
++        p[1] = '\0';  /* check root directory */
++      else if (d)
++        *d = '\0';  /* remove last directory part */
++      else
++        *p = '\0';  /* check current directory */
++    }
++  free (p);
++  if (ret < 0)
++    {
++      /* pathconf() has a message for us. */
++      if (errno != 0)
++          perror ("pathconf");
++      /* If (errno == 0) then there is no max length.
++         Even on error return INT_MAX so the caller can continue. */
++      return INT_MAX;
++    }
++  return ret;
++}
++
+ #ifdef TESTING
+ 
+ const char *
+--- src/url.h	2011-01-01 13:12:35.000000000 +0100
++++ src/url.h	2011-11-27 11:05:12.000000000 +0100
+@@ -37,6 +37,16 @@
+ #define DEFAULT_FTP_PORT 21
+ #define DEFAULT_HTTPS_PORT 443
+ 
++/* This represents how many characters less than the OS max name length a file
++ * should be.  More precisely, a file name should be at most
++ * (NAME_MAX - CHOMP_BUFFER) characters in length.  This number was arrived at
++ * by adding the lengths of all possible strings that could be appended to a
++ * file name later in the code (e.g. ".orig", ".html", etc.).  This is
++ * hopefully plenty of extra characters, but I am not guaranteeing that a file
++ * name will be of the proper length by the time the code wants to open a
++ * file descriptor. */
++#define CHOMP_BUFFER 19
++
+ /* Specifies how, or whether, user auth information should be included
+  * in URLs regenerated from URL parse structures. */
+ enum url_auth_mode {
+--- src/url.c	2011-01-01 13:12:35.000000000 +0100
++++ src/url.c	2011-11-27 12:16:23.000000000 +0100
+@@ -1361,6 +1361,7 @@
+    query, normally '?'.  Since Windows cannot handle '?' as part of
+    file name, we use '@' instead there.  */
+ #define FN_QUERY_SEP (opt.restrict_files_os != restrict_windows ? '?' : '@')
++#define FN_QUERY_SEP_STR (opt.restrict_files_os != restrict_windows ? "?" : "@")
+ 
+ /* Quote path element, characters in [b, e), as file name, and append
+    the quoted string to DEST.  Each character is quoted as per
+@@ -1494,22 +1495,28 @@
+     }
+ }
+ 
+-/* Return a unique file name that matches the given URL as good as
++/* Return a unique file name that matches the given URL as well as
+    possible.  Does not create directories on the file system.  */
+ 
+ char *
+ url_file_name (const struct url *u, char *replaced_filename)
+ {
+   struct growable fnres;        /* stands for "file name result" */
++  struct growable temp_fnres;
+ 
+   const char *u_file, *u_query;
+-  char *fname, *unique;
++  char *fname, *unique, *fname_len_check;
+   char *index_filename = "index.html"; /* The default index file is index.html */
++  long max_length;
+ 
+   fnres.base = NULL;
+   fnres.size = 0;
+   fnres.tail = 0;
+ 
++  temp_fnres.base = NULL;
++  temp_fnres.size = 0;
++  temp_fnres.tail = 0;
++
+   /* If an alternative index file was defined, change index_filename */
+   if (opt.default_page)
+     index_filename = opt.default_page;
+@@ -1555,34 +1562,60 @@
+
+   if (!replaced_filename)
+     {
+-      /* Add the file name. */
+-      if (fnres.tail)
+-	append_char ('/', &fnres);
++      /* Create the filename. */
+       u_file = *u->file ? u->file : index_filename;
+-      append_uri_pathel (u_file, u_file + strlen (u_file), false, &fnres);
+ 
+-      /* Append "?query" to the file name. */
++      /* Append "?query" to the file name and create fname_len_check. */
+       u_query = u->query && *u->query ? u->query : NULL;
+       if (u_query)
+-	{
+-	  append_char (FN_QUERY_SEP, &fnres);
+-	  append_uri_pathel (u_query, u_query + strlen (u_query),
+-			     true, &fnres);
+-	}
++        fname_len_check = concat_strings (u_file, FN_QUERY_SEP_STR, u_query, NULL);
++      else
++        fname_len_check = strdupdelim (u_file, u_file + strlen (u_file));
+     }
+   else
+     {
+-      if (fnres.tail)
+-	append_char ('/', &fnres);
+       u_file = replaced_filename;
+-      append_uri_pathel (u_file, u_file + strlen (u_file), false, &fnres);
++      fname_len_check = strdupdelim (u_file, u_file + strlen (u_file));
+     }
+ 
++  append_uri_pathel (fname_len_check,
++      fname_len_check + strlen (fname_len_check), false, &temp_fnres);
++
++  /* Zero-terminate the temporary file name. */
++  append_char ('\0', &temp_fnres);
++
++  /* Check that the length of the file name is acceptable. */
++  max_length = get_max_length (fnres.base, fnres.tail, _PC_NAME_MAX) - CHOMP_BUFFER;
++  if (strlen (temp_fnres.base) > max_length)
++    {
++      logprintf (LOG_NOTQUIET, "The name is too long, %lu chars total.\n",
++          (unsigned long) strlen (temp_fnres.base));
++      logprintf (LOG_NOTQUIET, "Trying to shorten...\n");
++
++      /* Shorten the file name. */
++      temp_fnres.base[max_length] = '\0';
++
++      logprintf (LOG_NOTQUIET, "New name is %s.\n", temp_fnres.base);
++    }
++
++  free (fname_len_check);
++
++  /* The filename has already been 'cleaned' by append_uri_pathel() above.  So,
++   * just append it. */
++  if (fnres.tail)
++    append_char ('/', &fnres);
++  append_string (temp_fnres.base, &fnres);
++
+   /* Zero-terminate the file name. */
+   append_char ('\0', &fnres);
+ 
+   fname = fnres.base;
+ 
++  /* Make a final check that the path length is acceptable? */
++  /* TODO: check fnres.base for path length problem */
++
++  free (temp_fnres.base);
++
+   /* Check the cases in which the unique extensions are not used:
+      1) Clobbering is turned off (-nc).
+      2) Retrieval with regetting.

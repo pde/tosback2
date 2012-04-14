@@ -1,0 +1,13 @@
+corrects the translation of Length
+
+--- a/po/fr.po	2011-08-09 15:52:19.000000000 +0200
++++ b/po/fr.po	2011-08-12 14:18:39.000000000 +0200
+@@ -237,7 +237,7 @@
+ #: src/ftp.c:220
+ #, c-format
+ msgid "Length: %s"
+-msgstr "Longueur: %s"
++msgstr "Taille: %s"
+ 
+ #: src/ftp.c:226 src/http.c:2433
+ #, c-format

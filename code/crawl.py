@@ -22,6 +22,7 @@ if "--dry_run" in sys.argv: dry_run = True
 if "--keep_failed" in sys.argv: keep_failed = True
 if "--force_data_branch" in sys.argv: force_data_branch = True
 
+FILELENGTH_MAX = 127
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
 
@@ -40,8 +41,25 @@ class TOSCrawler(object):
         xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
         data = {}
         for node in xmlData.iter():
-            data[str(node.tag)] = node.attrib['name']
+        	data[str(node.tag)] = node.attrib['name']
         return data
+
+    def read2(self, file_name):
+	"""Parses XML file."""
+	# EDIT CJR for multiple docnames within a sitename
+	xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
+	dataLst = []
+	for node in xmlData.iter("sitename"):
+		sname = node.attrib['name']
+		break
+	for doc in xmlData.iter("docname"):
+		data = {}
+		data['docname'] = doc.attrib['name']
+		data['sitename'] = sname
+		for child in doc.iter():
+			data[str(child.tag)] = child.attrib['name']
+		dataLst.append(data)
+	return dataLst
 
     def process(self, data):
         # 0. Determine parameters for this crawl
@@ -100,13 +118,12 @@ def max_filename_length(root_dir):
 	names = os.listdir(root_dir)
 	for name in names:
 		full_name = os.path.join(root_dir,name)
-		if os.path.isdir(full_name): # file is not a directory
-			m = max_filename_length(os.path.join(root_dir,name))
+		if len(name) > my_max[0]:
+			my_max = (len(name),name)
+		if os.path.isdir(full_name):
+			m = max_filename_length(full_name)
 			if m[0] > my_max[0]:
-				my_max = m	
-		else:
-			if len(name) > my_max[0]:
-				my_max = (len(name),name)
+				my_max = m
 	return my_max
 
 def main():
@@ -130,9 +147,10 @@ def main():
         crawl_paths = []
         parsed_xml_files = []
         for fi in os.listdir(os.path.join(CODE_PATH,"..","rules")):
-            if fi[-4:]!=".xml": continue
-            print "Reading in XML file %s" % fi
-            parsed_xml_files.append(t.read(fi))
+		if fi[-4:]!=".xml": continue
+		print "Reading in XML file %s" % fi
+		for i in t.read2(fi):
+		    parsed_xml_files.append(i)
 
         if xml_test:
             print "XML test only. Exiting"
@@ -145,9 +163,11 @@ def main():
         # 4. commit results
 		crawls_dir = os.path.join(CODE_PATH,"..","crawls")
         (maxlen, maxfname) = max_filename_length(crawls_dir)
-		
-		
-		if dry_run:
+		if maxlen > FILELENGTH_MAX:
+			print "The longest filename you crawled is too long. Use our version of wget."
+			return
+
+        if dry_run:
             print "Dry run. Not commiting results"
             return
 
