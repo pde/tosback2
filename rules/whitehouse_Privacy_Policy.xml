@@ -1,0 +1,7 @@
+<sitename name="www.whitehouse.gov">
+  <docname name="Privacy Policy">
+    <url name="http://www.whitehouse.gov/privacy/">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

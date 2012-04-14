@@ -1,0 +1,7 @@
+<sitename name="www.apple.com">
+  <docname name="Customer Privacy Policy">
+    <url name="http://www.apple.com/privacy/">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

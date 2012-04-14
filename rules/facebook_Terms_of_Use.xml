@@ -1,0 +1,7 @@
+<sitename name="www.facebook.com">
+  <docname name="Terms of Use">
+    <url name="http://www.facebook.com/terms.php">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

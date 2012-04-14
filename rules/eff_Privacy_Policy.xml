@@ -1,0 +1,7 @@
+<sitename name="www.eff.org">
+  <docname name="Privacy Policy">
+    <url name="http://www.eff.org/policy">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

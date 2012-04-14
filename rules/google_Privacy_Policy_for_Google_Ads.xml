@@ -1,0 +1,7 @@
+<sitename name="www.google.com">
+  <docname name="Privacy Policy for Google Ads">
+    <url name="http://www.google.com/intl/en/privacy_cookies.html">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
