@@ -58,7 +58,7 @@ class TOSCrawler(object):
             data['sitename'] = sname
             for child in doc.iter():
                 data[str(child.tag)] = child.attrib['name']
-                dataLst.append(data)
+            dataLst.append(data)
         return dataLst
 
     def process(self, data):
