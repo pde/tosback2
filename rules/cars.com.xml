@@ -1,0 +1,7 @@
+<sitename name="cars.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.cars.com/go/about/privacy.jsp">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

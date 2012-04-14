@@ -1,0 +1,7 @@
+<sitename name="reference.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.reference.com/help/privacy.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,7 @@
+<sitename name="delicious.com">
+ <docname name="Privacy Policy">
+   <url name="http://delicious.com/privacy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

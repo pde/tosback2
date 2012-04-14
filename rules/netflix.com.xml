@@ -1,0 +1,7 @@
+<sitename name="netflix.com">
+ <docname name="Privacy Policy">
+   <url name="https://signup.netflix.com/PrivacyPolicy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

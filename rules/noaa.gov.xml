@@ -1,0 +1,7 @@
+<sitename name="noaa.gov">
+ <docname name="Privacy Policy">
+   <url name="http://www.noaa.gov/privacy.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

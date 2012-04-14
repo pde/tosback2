@@ -1,0 +1,7 @@
+<sitename name="costco.com">
+ <docname name="Privacy Policy">
+   <url name="http://shop.costco.com/Legal/Privacy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

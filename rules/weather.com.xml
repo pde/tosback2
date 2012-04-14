@@ -1,0 +1,7 @@
+<sitename name="weather.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.weather.com/common/home/privacy.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

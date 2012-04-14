@@ -1,0 +1,7 @@
+<sitename name="yelp.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.yelp.com/static?p=privacy&country=US">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

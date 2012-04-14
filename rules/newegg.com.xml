@@ -1,0 +1,7 @@
+<sitename name="newegg.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.newegg.com/HelpInfo/PrivacySecurity.aspx">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
