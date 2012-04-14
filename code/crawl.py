@@ -22,6 +22,7 @@ if "--dry_run" in sys.argv: dry_run = True
 if "--keep_failed" in sys.argv: keep_failed = True
 if "--force_data_branch" in sys.argv: force_data_branch = True
 
+FILELENGTH_MAX = 127
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
 
@@ -40,7 +41,8 @@ class TOSCrawler(object):
         xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
         data = {}
         for node in xmlData.iter():
-            data[str(node.tag)] = node.attrib['name']
+        	data[str(node.tag)] = node.attrib['name']
+		#print str(node.tag), node.attrib['name']
         return data
 
     def process(self, data):
@@ -95,6 +97,18 @@ class TOSCrawler(object):
         subprocess.call(args)
         return reltarget
 
+def max_filename_length(root_dir):
+	my_max = (0,"")
+	names = os.listdir(root_dir)
+	for name in names:
+		full_name = os.path.join(root_dir,name)
+		if len(name) > my_max[0]:
+			my_max = (len(name),name)
+		if os.path.isdir(full_name):
+			m = max_filename_length(full_name)
+			if m[0] > my_max[0]:
+				my_max = m
+	return my_max
 
 def main():
     # 1. make a git branch to work in
@@ -130,6 +144,12 @@ def main():
             crawl_paths.append(path)
 
         # 4. commit results
+	crawls_dir = os.path.join(CODE_PATH,"..","crawls")
+        (maxlen, maxfname) = max_filename_length(crawls_dir)
+	if maxlen > FILELENGTH_MAX:
+		print "The longest filename you crawled is too long. Use our version of wget."
+		return
+
         if dry_run:
             print "Dry run. Not commiting results"
             return
