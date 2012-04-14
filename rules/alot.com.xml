@@ -1,5 +1,6 @@
 <sitename name="alot.com">
- <docname name="http://www.alot.com/privacy-policy">
+ <docname name="Privacy Policy">
+   <url name="http://www.alot.com/privacy-policy">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
