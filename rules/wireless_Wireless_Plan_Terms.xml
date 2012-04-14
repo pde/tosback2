@@ -1,38 +1,6 @@
 <sitename name="www.wireless.att.com">
   <docname name="Wireless Plan Terms">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=wirelessCustomerAgreement&q_termsName=Wireless+Customer+Agreement">
-      <norecurse name="none">
+    <url name="http://www.wireless.att.com/cell-phone-service/legal/plan-terms.jsp">
     </url>
   </docname>
-  <docname name="GoPhone Customer Agreement">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=prepaidServiceAgreement&q_termsName=goPhone+Service+Agreement&print=true&q_subTitle=GOPHONE%20CUSTOMER%20AGREEMENT">
-      <norecurse name="none">
-    </url>
-  </docname>
-  <docname name="GoPhone Plan Terms">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=prepaidPlanTerms&q_termsName=GoPhone+Plan+Terms&print=true&q_subTitle=GOPHONE%20PLAN%20TERMS#">
-      <norecurse name="none">
-    </url>
-  </docname>
-  <docname name="Session-Based Wireless Data Services Agreement (DataConnect Pass / iPad)">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=sessionBasedWirelessDataServicesAgreement&q_termsName=Session+Based+Wireless+Data+Services+Agreement">
-      <norecurse name="none">
-    </url>
-  </docname>
-  <docname name="Wireless Plan Terms">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=wirelessCustomerAgreement&q_termsName=Wireless+Customer+Agreement">
-      <norecurse name="none">
-    </url>
-  </docname>
-  <docname name="Wireless Plan Terms">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=wirelessCustomerAgreement&q_termsName=Wireless+Customer+Agreement">
-      <norecurse name="none">
-    </url>
-  </docname>
-  <docname name="Wireless Plan Terms">
-    <url name="http://www.wireless.att.com/cell-phone-service/legal/index.jsp?q_termsKey=wirelessCustomerAgreement&q_termsName=Wireless+Customer+Agreement">
-      <norecurse name="none">
-    </url>
-  </docname>
-
 </sitename>
