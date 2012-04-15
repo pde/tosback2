@@ -22,7 +22,7 @@ if "--dry-run" in sys.argv: dry_run = True
 if "--keep-failed" in sys.argv: keep_failed = True
 if "--force-data-branch" in sys.argv: force_data_branch = True
 
-FILELENGTH_MAX = 127
+FILELENGTH_MAX = 127 + 19
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
 PARALLELISM = 10
