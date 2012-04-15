@@ -17,14 +17,15 @@ xml_test = False
 dry_run = False
 keep_failed = False
 force_data_branch = False
-if "--xml_test" in sys.argv: xml_test = True
-if "--dry_run" in sys.argv: dry_run = True
-if "--keep_failed" in sys.argv: keep_failed = True
-if "--force_data_branch" in sys.argv: force_data_branch = True
+if "--xml-test" in sys.argv: xml_test = True
+if "--dry-run" in sys.argv: dry_run = True
+if "--keep-failed" in sys.argv: keep_failed = True
+if "--force-data-branch" in sys.argv: force_data_branch = True
 
-FILELENGTH_MAX = 127
+FILELENGTH_MAX = 127 + 19
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
+PARALLELISM = 10
 
 class TOSCrawler(object):
     """Class to process xml files sequentially"""
@@ -110,21 +111,42 @@ class TOSCrawler(object):
         if recurse:
             args[-1:-1] = ['--recursive', '--level', '1']
         print "calling ", args
-        subprocess.call(args)
-        return reltarget
+        proc = subprocess.Popen(args)
+        return (reltarget, proc)
+
+    def launch_crawlers(self, parsed_xml_files):
+
+        crawl_paths = []
+        targets = parsed_xml_files
+        running = []
+        while True:
+            if targets and len(running) < PARALLELISM:
+                t = targets.pop()
+                path, subproc = self.process(t)
+                crawl_paths.append(path)
+                running.append(subproc)
+            for p in running[:]:
+                p.poll()
+                if p.returncode != None:
+                    # XXX check the return type?  what do we do with errors?
+                    running.remove(p)
+            if (not targets) and (not running):
+                break
+            time.sleep(0.5)
+
+        return crawl_paths
+
 
 def max_filename_length(root_dir):
-    my_max = (0,"")
-    names = os.listdir(root_dir)
-    for name in names:
-        full_name = os.path.join(root_dir,name)
-        if len(name) > my_max[0]:
-            my_max = (len(name),name)
-        if os.path.isdir(full_name):
-            m = max_filename_length(full_name)
-            if m[0] > my_max[0]:
-                my_max = m
-    return my_max
+    "Walk a filesystem tree; return (length of longest file, longest filename)"
+    longest = ""
+    for (dirpath, dirnames, filenames) in os.walk(root_dir, topdown=True):
+      for f in filenames:
+        if len(f) > len(longest):
+          longest = f
+    return (len(longest), longest)
+
+
 
 def main():
     # 1. make a git branch to work in
@@ -144,7 +166,6 @@ def main():
         t = TOSCrawler()
 
         # 3. Traverse
-        crawl_paths = []
         parsed_xml_files = []
         for fi in os.listdir(os.path.join(CODE_PATH,"..","rules")):
             if fi[-4:]!=".xml": continue
@@ -156,15 +177,15 @@ def main():
             print "XML test only. Exiting"
             return
 
-        for data in parsed_xml_files:
-            path = t.process(data)
-            crawl_paths.append(path)
+        crawl_paths = t.launch_crawlers(parsed_xml_files)
 
         # 4. commit results
         crawls_dir = os.path.join(CODE_PATH,"..","crawls")
         (maxlen, maxfname) = max_filename_length(crawls_dir)
         if maxlen > FILELENGTH_MAX:
-            print "The longest filename you crawled is too long. Use our version of wget."
+            print "The longest filename you crawled is too long (> %d). Use our version of wget." % FILELENGTH_MAX
+            print "length:", maxlen
+            print "file:", maxfname
             return
 
         if dry_run:
