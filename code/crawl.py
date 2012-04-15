@@ -114,17 +114,13 @@ class TOSCrawler(object):
         return reltarget
 
 def max_filename_length(root_dir):
-    my_max = (0,"")
-    names = os.listdir(root_dir)
-    for name in names:
-        full_name = os.path.join(root_dir,name)
-        if len(name) > my_max[0]:
-            my_max = (len(name),name)
-        if os.path.isdir(full_name):
-            m = max_filename_length(full_name)
-            if m[0] > my_max[0]:
-                my_max = m
-    return my_max
+    longest = ""
+    for (dirpath, dirnames, filenames) in os.walk(root_dir, topdown=True):
+      for f in filenames:
+        if len(f) > len(longest):
+          longest = f
+    return (len(longest), longest)
+
 
 def main():
     # 1. make a git branch to work in
@@ -164,7 +160,9 @@ def main():
         crawls_dir = os.path.join(CODE_PATH,"..","crawls")
         (maxlen, maxfname) = max_filename_length(crawls_dir)
         if maxlen > FILELENGTH_MAX:
-            print "The longest filename you crawled is too long. Use our version of wget."
+            print "The longest filename you crawled is too long (> %d). Use our version of wget." % FILELENGTH_MAX
+            print "length:", maxlen
+            print "file:", maxfname
             return
 
         if dry_run:
