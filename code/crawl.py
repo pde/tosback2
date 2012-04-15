@@ -17,10 +17,10 @@ xml_test = False
 dry_run = False
 keep_failed = False
 force_data_branch = False
-if "--xml_test" in sys.argv: xml_test = True
-if "--dry_run" in sys.argv: dry_run = True
-if "--keep_failed" in sys.argv: keep_failed = True
-if "--force_data_branch" in sys.argv: force_data_branch = True
+if "--xml-test" in sys.argv: xml_test = True
+if "--dry-run" in sys.argv: dry_run = True
+if "--keep-failed" in sys.argv: keep_failed = True
+if "--force-data-branch" in sys.argv: force_data_branch = True
 
 FILELENGTH_MAX = 127
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
