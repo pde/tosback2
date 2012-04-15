@@ -25,6 +25,7 @@ if "--force-data-branch" in sys.argv: force_data_branch = True
 FILELENGTH_MAX = 127
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
+PARALLELISM = 10
 
 class TOSCrawler(object):
     """Class to process xml files sequentially"""
@@ -110,16 +111,41 @@ class TOSCrawler(object):
         if recurse:
             args[-1:-1] = ['--recursive', '--level', '1']
         print "calling ", args
-        subprocess.call(args)
-        return reltarget
+        proc = subprocess.Popen(args)
+        return (reltarget, proc)
+
+    def launch_crawlers(self, parsed_xml_files):
+
+        crawl_paths = []
+        targets = parsed_xml_files
+        running = []
+        while True:
+            if targets and len(running) < PARALLELISM:
+                t = targets.pop()
+                path, subproc = self.process(t)
+                crawl_paths.append(path)
+                running.append(subproc)
+            for p in running[:]:
+                p.poll()
+                if p.returncode != None:
+                    # XXX check the return type?  what do we do with errors?
+                    running.remove(p)
+            if (not targets) and (not running):
+                break
+            time.sleep(0.5)
+
+        return crawl_paths
+
 
 def max_filename_length(root_dir):
+    "Walk a filesystem tree; return (length of longest file, longest filename)"
     longest = ""
     for (dirpath, dirnames, filenames) in os.walk(root_dir, topdown=True):
       for f in filenames:
         if len(f) > len(longest):
           longest = f
     return (len(longest), longest)
+
 
 
 def main():
@@ -140,7 +166,6 @@ def main():
         t = TOSCrawler()
 
         # 3. Traverse
-        crawl_paths = []
         parsed_xml_files = []
         for fi in os.listdir(os.path.join(CODE_PATH,"..","rules")):
             if fi[-4:]!=".xml": continue
@@ -152,9 +177,7 @@ def main():
             print "XML test only. Exiting"
             return
 
-        for data in parsed_xml_files:
-            path = t.process(data)
-            crawl_paths.append(path)
+        crawl_paths = t.launch_crawlers(parsed_xml_files)
 
         # 4. commit results
         crawls_dir = os.path.join(CODE_PATH,"..","crawls")
