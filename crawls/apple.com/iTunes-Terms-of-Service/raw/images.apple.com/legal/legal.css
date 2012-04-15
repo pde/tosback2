@@ -1,0 +1,122 @@
+
+#content { float: left; width: 600px; }
+
+.sidebar { float:right; overflow:hidden; width:340px; margin-top:19px; padding-bottom:1em; background:#efefef;
+	background:-webkit-gradient(linear, left top, left bottom, from(#efefef), to(#fdfdfd)); 
+	background:-moz-linear-gradient(top, #efefef, #fdfdfd);
+	-webkit-border-radius:4px;
+	-webkit-box-shadow: rgba(0, 0, 0, .3) 0 1px 3px;
+	-moz-border-radius:4px;
+	-moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
+}
+
+.sidebar:nth-child(1n) { border:none; }
+
+.sidebar h4 a { display:block; margin-bottom:0px; padding:0.4em 0 0.4em 0.9em; color:#fff; font-size:13px; background:#6e7d98; 
+	background:-webkit-gradient(linear, left top, left bottom, from(#c4c9d2), to(#6e7d98));
+	background:-moz-linear-gradient(top, #c4c9d2, #6e7d98);
+	-moz-border-radius-topleft:4px;
+	-moz-border-radius-topright:4px;
+}
+.sidebar h4 a:hover { text-decoration:none; }
+
+.sidebar ul { margin:1em 8px 0 12px; }
+.sidebar ul.last { margin-top:0; }
+.sidebar ul li { font-size: 12px; }
+.sidebar ul li li { font-size: 10px; }
+.sidebar a:link, .sidebar a:visited { text-decoration: none; }
+.sidebar a:hover, .sidebar a:active { text-decoration: underline; }
+
+body.sla 			 .sidebar a#sla, 
+body.warranty		 .sidebar a#warranty, 
+	body.hardware		 .sidebar a#hardware, 
+	body.parts			 .sidebar a#parts, 
+	body.warranty_iphone .sidebar a#warranty_iphone, 
+	body.warranty_iphoneoriginal .sidebar a#warranty_iphoneoriginal, 
+	body.warranty_iphone3g .sidebar a#warranty_iphone3g, 
+body.itunes			 .sidebar a#itunes, 
+body.certification	 .sidebar a#certification, 
+body.salespolicies	 .sidebar a#salespolicies, 
+	body.retailstore	 .sidebar a#retailstore, 
+	body.applecare	 	 .sidebar a#applecare, 	
+body.serviceproducts 	 .sidebar a#serviceproducts, 
+	body.appgeos		 .sidebar a#appgeos, 
+	body.esageos		 .sidebar a#esageos,
+	body.appiphone		 .sidebar a#appiphone, 
+	body.appipad		 .sidebar a#appipad,
+	body.acra 			 .sidebar a#acra, 
+	body.acpa			 .sidebar a#acpa, 
+	body.remotesupport	 .sidebar a#remotesupport, 
+	body.provideo		 .sidebar a#provideo, 
+	body.premiumsvc 	 .sidebar a#premiumsvc, 
+	body.techsptsvcs	 .sidebar a#techsptsvcs, 
+	body.applecareplusforiphone	     .sidebar a#applecareplusforiphone, 
+	body.terms 				 .sidebar a#terms, 
+	body.site 			 .sidebar a#site, 
+	body.ichataccount 	 .sidebar a#ichataccount, 
+	body.iworkcom 	 	 .sidebar a#iworkcom, 
+	body.repair			 .sidebar a#repair, 
+		body.onlinerepair		 .sidebar a#onlinerepair, 
+		body.onlinerepairuk		 .sidebar a#onlinerepairuk, 
+		body.onlinerepairfr		 .sidebar a#onlinerepairfr, 
+		body.onlinerepairde		 .sidebar a#onlinerepairde, 
+		body.repairterms		 .sidebar a#repairterms, 
+	body.iphonerental	 .sidebar a#iphonerental, 
+		body.rental				 .sidebar a#rental, 
+		body.rentaluk			 .sidebar a#rentaluk, 
+		body.rentalde			 .sidebar a#rentalde,
+		body.rentalfr			 .sidebar a#rentalfr, 
+		body.rentalie			 .sidebar a#rentalie,
+		body.rentalau			 .sidebar a#rentalau,
+	body.iphonears	 .sidebar a#iphonears, 
+	body.iphonears_outofwarranty	 .sidebar a#iphonears_outofwarranty, 
+	body.iphonears_inwarranty	 .sidebar a#iphonears_inwarranty, 
+body.training		 .sidebar a#training, 
+	body.trainingservice .sidebar a#trainingservice, 
+body.policies		 .sidebar a#policies, 
+	body.ideas 			 .sidebar a#ideas, 
+	body.privacy		 .sidebar a#privacy, 
+body.trademark		 .sidebar a#trademark, 
+	body.tmlist			 .sidebar a#tmlist, 
+	body.copyright		 .sidebar a#copyright, 
+	body.piracy			 .sidebar a#piracy, 
+	body.thirdparty		 .sidebar a#thirdparty, 
+	body.next			 .sidebar a#next, 
+body.contacts		 .sidebar a#contacts, 
+body.export			 .sidebar a#export, 
+body.provisions		 .sidebar a#provisions,
+body.warranty_privacy .sidebar a#warranty_privacy,
+body.applecareplusforipad    .sidebar a#applecareplusforipad,
+body.remoteatatc          .sidebar a#remoteatatc
+{ font-weight: bold; color: #000; }
+
+
+/* Standard Knowledge Base Table */
+table#kbtable, table.kbtable		{ font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif; border-top: 1px solid #a1a5a9; border-left: 1px solid #a1a5a9; margin-bottom: 18px; }
+table#kbtable td, table.kbtable td, 
+table#kbtable th, table.kbtable th	{ padding: 4px; border-bottom: 1px solid #a1a5a9; border-right: 1px solid #a1a5a9; font-size: 10px; }
+table#kbtable tr, table.kbtable tr	{ background: #ffffff; font-size: 10px; }
+table#kbtable tr th, 
+table.kbtable tr th 				{ background: #e2e2e2; font-size: 10px; font-weight: bold; }
+table#kbtable tr#even td, 
+table.kbtable tr#even td 			{ background: #f1f1f1; font-size: 10px; }
+
+ol.alpha{ list-style-type:lower-alpha; }
+
+/* SLA */
+
+body.sla #licenses { margin-top: 20px; margin-bottom: 20px;}
+body.sla #licenses ul { margin-top: 15px; margin-bottom: 30px; }
+
+/*privacy*/
+#main #content .privacy { float: left; width: 950px; }
+
+/* terms */
+body.terms #main { margin:30px auto; width:700px; padding:30px 30px 10px; border:1px solid #ccc; -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px; }
+body.terms #main h1 { margin:-20px -30px 30px; padding:0 30px 10px; border-bottom:1px solid #ccc; text-align:center; }
+body.terms #container .center { text-align:center; }
+
+#address p{ margin-left: 220px; }
+.remoteaccess ul li { margin: 18px 0px 24px; }
+.remoteaccess ul li span { display: table-cell; vertical-align: middle; padding-left: 10px; }
+.remoteaccess ul li a { display:table; }

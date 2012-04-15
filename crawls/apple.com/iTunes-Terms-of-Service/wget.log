@@ -1,0 +1,1129 @@
+--2012-04-15 09:45:41--  http://www.apple.com/legal/itunes/us/terms.html
+Resolving www.apple.com (www.apple.com)... 184.86.205.15
+Connecting to www.apple.com (www.apple.com)|184.86.205.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/www.apple.com/legal/itunes/us/terms.html'
+
+     0K .......... .......... .......... .......... .......... 1.90M
+    50K .......... .......... .......... .......... .......... 1.64M
+   100K .......... .....                                       2.28M=0.06s
+
+2012-04-15 09:45:41 (1.82 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/www.apple.com/legal/itunes/us/terms.html' saved [118556]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/nav/styles/navigation.css
+Resolving images.apple.com (images.apple.com)... 204.141.87.72, 204.141.87.19
+Connecting to images.apple.com (images.apple.com)|204.141.87.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10544 (10K) [text/css]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/styles/navigation.css'
+
+     0K ..........                                            100% 1.40M=0.007s
+
+2012-04-15 09:45:41 (1.40 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/styles/navigation.css' saved [10544/10544]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/scripts/lib/prototype.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/prototype.js'
+
+     0K .......... .......... .......... .......... .......... 2.58M
+    50K .......... .......... .......... .......... .......... 2.17M
+   100K .......... .......... .......... .......... .......... 2.02M
+   150K .........                                              1.35M=0.07s
+
+2012-04-15 09:45:41 (2.15 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/prototype.js' saved [163313]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/scripts/lib/scriptaculous.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/scriptaculous.js'
+
+     0K .......... .......... .......... .......... .......... 1.98M
+    50K .......... .......... .......... .......... .......... 1.37M
+   100K .......... .....                                       2.16M=0.07s
+
+2012-04-15 09:45:41 (1.68 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/scriptaculous.js' saved [118598]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/scripts/browserdetect.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10756 (11K) [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/browserdetect.js'
+
+     0K ..........                                            100% 2.94M=0.003s
+
+2012-04-15 09:45:41 (2.94 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/browserdetect.js' saved [10756/10756]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/scripts/apple_core.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23221 (23K) [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/apple_core.js'
+
+     0K .......... .......... ..                              100% 4.30M=0.005s
+
+2012-04-15 09:45:41 (4.30 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/apple_core.js' saved [23221/23221]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/scripts/search_decorator.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 560 [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/search_decorator.js'
+
+     0K                                                       100% 32.3M=0s
+
+2012-04-15 09:45:41 (32.3 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/search_decorator.js' saved [560/560]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/ac_retina/ac_retina.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20924 (20K) [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/ac_retina/ac_retina.js'
+
+     0K .......... ..........                                 100% 2.25M=0.009s
+
+2012-04-15 09:45:41 (2.25 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/ac_retina/ac_retina.js' saved [20924/20924]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/styles/base.css
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/styles/base.css'
+
+     0K .......... .......... .......... .....                 2.18M=0.02s
+
+2012-04-15 09:45:41 (2.18 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/styles/base.css' saved [36841]
+
+--2012-04-15 09:45:41--  http://images.apple.com/legal/legal.css
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5367 (5.2K) [text/css]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/legal/legal.css'
+
+     0K .....                                                 100% 2.73M=0.002s
+
+2012-04-15 09:45:41 (2.73 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/legal/legal.css' saved [5367/5367]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/nav/scripts/globalnav.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 28271 (28K) [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/scripts/globalnav.js'
+
+     0K .......... .......... .......                         100% 2.44M=0.01s
+
+2012-04-15 09:45:41 (2.44 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/scripts/globalnav.js' saved [28271/28271]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/metrics/js/s_code_h.js
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/metrics/js/s_code_h.js'
+
+     0K .......... .......... .......... .......... .......... 2.04M
+    50K .......                                                1.36M=0.03s
+
+2012-04-15 09:45:41 (1.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/metrics/js/s_code_h.js' saved [59359]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/elements/flags/22x22/usa.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1485 (1.5K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/flags/22x22/usa.png'
+
+     0K .                                                     100% 70.4M=0s
+
+2012-04-15 09:45:41 (70.4 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/flags/22x22/usa.png' saved [1485/1485]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/nav/images/globalheader.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 206 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalheader.png'
+
+     0K                                                       100% 11.9M=0s
+
+2012-04-15 09:45:41 (11.9 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalheader.png' saved [206/206]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/nav/images/globalnav.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3043 (3.0K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav.png'
+
+     0K ..                                                    100% 4.57M=0.001s
+
+2012-04-15 09:45:41 (4.57 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav.png' saved [3043/3043]
+
+--2012-04-15 09:45:41--  http://images.apple.com/global/nav/images/globalnav_tabs6-nosearch.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4610 (4.5K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs6-nosearch.png'
+
+     0K ....                                                  100% 1.18M=0.004s
+
+2012-04-15 09:45:42 (1.18 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs6-nosearch.png' saved [4610/4610]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_tabs7-nosearch.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4153 (4.1K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs7-nosearch.png'
+
+     0K ....                                                  100% 4.67M=0.001s
+
+2012-04-15 09:45:42 (4.67 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs7-nosearch.png' saved [4153/4153]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_nosearch.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4121 (4.0K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_nosearch.png'
+
+     0K ....                                                  100% 7.51M=0.001s
+
+2012-04-15 09:45:42 (7.51 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_nosearch.png' saved [4121/4121]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_tabs7.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3190 (3.1K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs7.png'
+
+     0K ...                                                   100% 20.2M=0s
+
+2012-04-15 09:45:42 (20.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_tabs7.png' saved [3190/3190]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_text.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7455 (7.3K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.png'
+
+     0K .......                                               100% 2.03M=0.004s
+
+2012-04-15 09:45:42 (2.03 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.png' saved [7455/7455]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_text.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2643 (2.6K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.gif'
+
+     0K ..                                                    100%  118M=0s
+
+2012-04-15 09:45:42 (118 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.gif' saved [2643/2643]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalnav_text.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 54875 (54K) [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.svg'
+
+     0K .......... .......... .......... .......... .......... 93% 1.68M 0s
+    50K ...                                                   100% 1.35M=0.03s
+
+2012-04-15 09:45:42 (1.65 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalnav_text.svg' saved [54875/54875]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalsearch_bg.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 793 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_bg.png'
+
+     0K                                                       100% 41.5M=0s
+
+2012-04-15 09:45:42 (41.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_bg.png' saved [793/793]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalsearch_field.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1224 (1.2K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_field.png'
+
+     0K .                                                     100% 62.4M=0s
+
+2012-04-15 09:45:42 (62.4 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_field.png' saved [1224/1224]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalsearch_reset.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 195 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_reset.gif'
+
+     0K                                                       100% 10.3M=0s
+
+2012-04-15 09:45:42 (10.3 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_reset.gif' saved [195/195]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/nav/images/globalsearch_spinner.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3965 (3.9K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_spinner.gif'
+
+     0K ...                                                   100% 1.96M=0.002s
+
+2012-04-15 09:45:42 (1.96 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/images/globalsearch_spinner.gif' saved [3965/3965]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/scripts/lib/iepngfix.htc
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2064 (2.0K) [text/x-component]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/iepngfix.htc'
+
+     0K ..                                                    100% 95.5M=0s
+
+2012-04-15 09:45:42 (95.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/scripts/lib/iepngfix.htc' saved [2064/2064]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/morearrow_08c.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 49 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_08c.gif'
+
+     0K                                                       100% 2.72M=0s
+
+2012-04-15 09:45:42 (2.72 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_08c.gif' saved [49/49]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/morearrow_big_08c.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 56 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_big_08c.gif'
+
+     0K                                                       100% 3.12M=0s
+
+2012-04-15 09:45:42 (3.12 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_big_08c.gif' saved [56/56]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/lessarrow_big_08c.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 56 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/lessarrow_big_08c.gif'
+
+     0K                                                       100% 3.11M=0s
+
+2012-04-15 09:45:42 (3.11 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/lessarrow_big_08c.gif' saved [56/56]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/morearrow_08c.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 522 [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_08c.svg'
+
+     0K                                                       100% 29.2M=0s
+
+2012-04-15 09:45:42 (29.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_08c.svg' saved [522/522]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/morearrow_big_08c.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 532 [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_big_08c.svg'
+
+     0K                                                       100% 30.3M=0s
+
+2012-04-15 09:45:42 (30.3 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/morearrow_big_08c.svg' saved [532/532]
+
+--2012-04-15 09:45:42--  http://images.apple.com/global/elements/arrows/lessarrow_big_08c.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540 [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/lessarrow_big_08c.svg'
+
+     0K                                                       100% 29.1M=0s
+
+2012-04-15 09:45:43 (29.1 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/arrows/lessarrow_big_08c.svg' saved [540/540]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/external10x10.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/external10x10.gif'
+
+     0K                                                       100% 3.45M=0s
+
+2012-04-15 09:45:43 (3.45 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/external10x10.gif' saved [63/63]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconpdf12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 211 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconpdf12x12.gif'
+
+     0K                                                       100% 10.9M=0s
+
+2012-04-15 09:45:43 (10.9 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconpdf12x12.gif' saved [211/211]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconhtml12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 967 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconhtml12x12.gif'
+
+     0K                                                       100% 49.1M=0s
+
+2012-04-15 09:45:43 (49.1 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconhtml12x12.gif' saved [967/967]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconqt12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 345 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconqt12x12.gif'
+
+     0K                                                       100% 18.5M=0s
+
+2012-04-15 09:45:43 (18.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconqt12x12.gif' saved [345/345]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconical12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconical12x12.gif'
+
+     0K                                                       100% 7.54M=0s
+
+2012-04-15 09:45:43 (7.54 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconical12x12.gif' saved [138/138]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globalicondl11x10.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 183 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globalicondl11x10.gif'
+
+     0K                                                       100% 9.32M=0s
+
+2012-04-15 09:45:43 (9.32 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globalicondl11x10.gif' saved [183/183]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globalicondmg12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 532 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globalicondmg12x12.gif'
+
+     0K                                                       100% 28.5M=0s
+
+2012-04-15 09:45:43 (28.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globalicondmg12x12.gif' saved [532/532]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconzip12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 535 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconzip12x12.gif'
+
+     0K                                                       100% 29.5M=0s
+
+2012-04-15 09:45:43 (29.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconzip12x12.gif' saved [535/535]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconkeynote12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 331 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconkeynote12x12.gif'
+
+     0K                                                       100% 18.2M=0s
+
+2012-04-15 09:45:43 (18.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconkeynote12x12.gif' saved [331/331]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/icons/globaliconaudio12x12.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconaudio12x12.gif'
+
+     0K                                                       100% 27.8M=0s
+
+2012-04-15 09:45:43 (27.8 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/icons/globaliconaudio12x12.gif' saved [540/540]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_bg.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 900 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_bg.png'
+
+     0K                                                       100% 47.8M=0s
+
+2012-04-15 09:45:43 (47.8 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_bg.png' saved [900/900]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_sep.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 325 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_sep.png'
+
+     0K                                                       100% 17.8M=0s
+
+2012-04-15 09:45:43 (17.8 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_sep.png' saved [325/325]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_sep_20080909.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 282 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_sep_20080909.png'
+
+     0K                                                       100% 15.1M=0s
+
+2012-04-15 09:45:43 (15.1 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_sep_20080909.png' saved [282/282]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/directory_bg.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 162 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/directory_bg.png'
+
+     0K                                                       100% 9.14M=0s
+
+2012-04-15 09:45:43 (9.14 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/directory_bg.png' saved [162/162]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/directory_capbg.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 265 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/directory_capbg.png'
+
+     0K                                                       100% 14.0M=0s
+
+2012-04-15 09:45:43 (14.0 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/directory_capbg.png' saved [265/265]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_separator.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 286 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_separator.png'
+
+     0K                                                       100% 16.2M=0s
+
+2012-04-15 09:45:43 (16.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_separator.png' saved [286/286]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_home.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 618 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home.png'
+
+     0K                                                       100% 33.0M=0s
+
+2012-04-15 09:45:43 (33.0 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home.png' saved [618/618]
+
+--2012-04-15 09:45:43--  http://images.apple.com/global/elements/breadory/breadcrumb_home_over.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 614 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home_over.png'
+
+     0K                                                       100% 32.1M=0s
+
+2012-04-15 09:45:44 (32.1 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home_over.png' saved [614/614]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/breadory/breadcrumb_separator.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 574 [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_separator.svg'
+
+     0K                                                       100% 32.8M=0s
+
+2012-04-15 09:45:44 (32.8 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_separator.svg' saved [574/574]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/breadory/breadcrumb_home.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1679 (1.6K) [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home.svg'
+
+     0K .                                                     100% 78.5M=0s
+
+2012-04-15 09:45:44 (78.5 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home.svg' saved [1679/1679]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/breadory/breadcrumb_home_over.svg
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1679 (1.6K) [image/svg+xml]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home_over.svg'
+
+     0K .                                                     100% 78.0M=0s
+
+2012-04-15 09:45:44 (78.0 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/breadory/breadcrumb_home_over.svg' saved [1679/1679]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/preorder_blue.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1993 (1.9K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorder_blue.png'
+
+     0K .                                                     100% 95.2M=0s
+
+2012-04-15 09:45:44 (95.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorder_blue.png' saved [1993/1993]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/buynows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7454 (7.3K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buynows.png'
+
+     0K .......                                               100% 1.17M=0.006s
+
+2012-04-15 09:45:44 (1.17 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buynows.png' saved [7454/7454]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/buynows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4493 (4.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buynows.gif'
+
+     0K ....                                                  100% 1.64M=0.003s
+
+2012-04-15 09:45:44 (1.64 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buynows.gif' saved [4493/4493]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/ordernows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6739 (6.6K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/ordernows.png'
+
+     0K ......                                                100% 1.12M=0.006s
+
+2012-04-15 09:45:44 (1.12 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/ordernows.png' saved [6739/6739]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/ordernows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3969 (3.9K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/ordernows.gif'
+
+     0K ...                                                   100% 3.29M=0.001s
+
+2012-04-15 09:45:44 (3.29 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/ordernows.gif' saved [3969/3969]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/joinnows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5640 (5.5K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/joinnows.png'
+
+     0K .....                                                 100% 3.91M=0.001s
+
+2012-04-15 09:45:44 (3.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/joinnows.png' saved [5640/5640]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/joinnows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3635 (3.5K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/joinnows.gif'
+
+     0K ...                                                   100% 5.75M=0.001s
+
+2012-04-15 09:45:44 (5.75 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/joinnows.gif' saved [3635/3635]
+
+--2012-04-15 09:45:44--  http://images.apple.com/global/elements/buttons/preordernows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13651 (13K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preordernows.png'
+
+     0K .......... ...                                        100% 2.35M=0.006s
+
+2012-04-15 09:45:45 (2.35 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preordernows.png' saved [13651/13651]
+
+--2012-04-15 09:45:45--  http://images.apple.com/global/elements/buttons/preordernows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5436 (5.3K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preordernows.gif'
+
+     0K .....                                                 100% 2.87M=0.002s
+
+2012-04-15 09:45:45 (2.87 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preordernows.gif' saved [5436/5436]
+
+--2012-04-15 09:45:45--  http://images.apple.com/global/elements/buttons/howtobuys.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7988 (7.8K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtobuys.png'
+
+     0K .......                                               100% 2.92M=0.003s
+
+2012-04-15 09:45:46 (2.92 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtobuys.png' saved [7988/7988]
+
+--2012-04-15 09:45:46--  http://images.apple.com/global/elements/buttons/howtobuys.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4966 (4.8K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtobuys.gif'
+
+     0K ....                                                  100% 2.32M=0.002s
+
+2012-04-15 09:45:46 (2.32 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtobuys.gif' saved [4966/4966]
+
+--2012-04-15 09:45:46--  http://images.apple.com/global/elements/buttons/howtoapplys.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8575 (8.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtoapplys.png'
+
+     0K ........                                              100% 2.77M=0.003s
+
+2012-04-15 09:45:46 (2.77 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtoapplys.png' saved [8575/8575]
+
+--2012-04-15 09:45:46--  http://images.apple.com/global/elements/buttons/howtoapplys.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5418 (5.3K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtoapplys.gif'
+
+     0K .....                                                 100% 3.27M=0.002s
+
+2012-04-15 09:45:46 (3.27 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/howtoapplys.gif' saved [5418/5418]
+
+--2012-04-15 09:45:46--  http://images.apple.com/global/elements/buttons/freetrials.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7205 (7.0K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/freetrials.png'
+
+     0K .......                                               100% 2.49M=0.003s
+
+2012-04-15 09:45:46 (2.49 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/freetrials.png' saved [7205/7205]
+
+--2012-04-15 09:45:46--  http://images.apple.com/global/elements/buttons/freetrials.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4460 (4.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/freetrials.gif'
+
+     0K ....                                                  100% 4.91M=0.001s
+
+2012-04-15 09:45:47 (4.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/freetrials.gif' saved [4460/4460]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/downloadnows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9429 (9.2K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadnows.png'
+
+     0K .........                                             100% 1.88M=0.005s
+
+2012-04-15 09:45:47 (1.88 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadnows.png' saved [9429/9429]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/downloadnows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5761 (5.6K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadnows.gif'
+
+     0K .....                                                 100% 2.91M=0.002s
+
+2012-04-15 09:45:47 (2.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadnows.gif' saved [5761/5761]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/upgradenows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7696 (7.5K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/upgradenows.png'
+
+     0K .......                                               100%  902K=0.008s
+
+2012-04-15 09:45:47 (902 KB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/upgradenows.png' saved [7696/7696]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/upgradenows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4583 (4.5K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/upgradenows.gif'
+
+     0K ....                                                  100% 8.03M=0.001s
+
+2012-04-15 09:45:47 (8.03 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/upgradenows.gif' saved [4583/4583]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/tryamacs.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7596 (7.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/tryamacs.png'
+
+     0K .......                                               100% 2.89M=0.003s
+
+2012-04-15 09:45:47 (2.89 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/tryamacs.png' saved [7596/7596]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/tryamacs.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4515 (4.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/tryamacs.gif'
+
+     0K ....                                                  100% 1.73M=0.002s
+
+2012-04-15 09:45:47 (1.73 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/tryamacs.gif' saved [4515/4515]
+
+--2012-04-15 09:45:47--  http://images.apple.com/global/elements/buttons/notifymes.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7850 (7.7K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/notifymes.png'
+
+     0K .......                                               100% 4.20M=0.002s
+
+2012-04-15 09:45:48 (4.20 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/notifymes.png' saved [7850/7850]
+
+--2012-04-15 09:45:48--  http://images.apple.com/global/elements/buttons/notifymes.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4815 (4.7K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/notifymes.gif'
+
+     0K ....                                                  100% 4.55M=0.001s
+
+2012-04-15 09:45:48 (4.55 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/notifymes.gif' saved [4815/4815]
+
+--2012-04-15 09:45:48--  http://images.apple.com/global/elements/buttons/browsewebappss.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10368 (10K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/browsewebappss.png'
+
+     0K ..........                                            100% 3.04M=0.003s
+
+2012-04-15 09:45:48 (3.04 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/browsewebappss.png' saved [10368/10368]
+
+--2012-04-15 09:45:48--  http://images.apple.com/global/elements/buttons/browsewebappss.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6360 (6.2K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/browsewebappss.gif'
+
+     0K ......                                                100% 3.83M=0.002s
+
+2012-04-15 09:45:48 (3.83 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/browsewebappss.gif' saved [6360/6360]
+
+--2012-04-15 09:45:48--  http://images.apple.com/global/elements/buttons/businessstores.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8986 (8.8K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/businessstores.png'
+
+     0K ........                                              100% 1.77M=0.005s
+
+2012-04-15 09:45:48 (1.77 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/businessstores.png' saved [8986/8986]
+
+--2012-04-15 09:45:48--  http://images.apple.com/global/elements/buttons/businessstores.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5556 (5.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/businessstores.gif'
+
+     0K .....                                                 100% 1.18M=0.004s
+
+2012-04-15 09:45:49 (1.18 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/businessstores.gif' saved [5556/5556]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/buyiphones.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8461 (8.3K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buyiphones.png'
+
+     0K ........                                              100% 3.37M=0.002s
+
+2012-04-15 09:45:49 (3.37 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buyiphones.png' saved [8461/8461]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/buyiphones.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5011 (4.9K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buyiphones.gif'
+
+     0K ....                                                  100% 4.67M=0.001s
+
+2012-04-15 09:45:49 (4.67 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/buyiphones.gif' saved [5011/5011]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/comingsoons.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6962 (6.8K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/comingsoons.png'
+
+     0K ......                                                100% 2.95M=0.002s
+
+2012-04-15 09:45:49 (2.95 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/comingsoons.png' saved [6962/6962]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/comingsoons.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4294 (4.2K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/comingsoons.gif'
+
+     0K ....                                                  100% 1.71M=0.002s
+
+2012-04-15 09:45:49 (1.71 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/comingsoons.gif' saved [4294/4294]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/descargarahoras.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9415 (9.2K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/descargarahoras.png'
+
+     0K .........                                             100% 2.07M=0.004s
+
+2012-04-15 09:45:49 (2.07 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/descargarahoras.png' saved [9415/9415]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/descargarahoras.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5746 (5.6K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/descargarahoras.gif'
+
+     0K .....                                                 100% 2.48M=0.002s
+
+2012-04-15 09:45:49 (2.48 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/descargarahoras.gif' saved [5746/5746]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/downloadituness.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10086 (9.8K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadituness.png'
+
+     0K .........                                             100% 2.29M=0.004s
+
+2012-04-15 09:45:49 (2.29 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadituness.png' saved [10086/10086]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/downloadituness.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6059 (5.9K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadituness.gif'
+
+     0K .....                                                 100% 3.08M=0.002s
+
+2012-04-15 09:45:49 (3.08 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/downloadituness.gif' saved [6059/6059]
+
+--2012-04-15 09:45:49--  http://images.apple.com/global/elements/buttons/finds.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5507 (5.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/finds.png'
+
+     0K .....                                                 100% 3.26M=0.002s
+
+2012-04-15 09:45:50 (3.26 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/finds.png' saved [5507/5507]
+
+--2012-04-15 09:45:50--  http://images.apple.com/global/elements/buttons/finds.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3554 (3.5K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/finds.gif'
+
+     0K ...                                                   100% 4.75M=0.001s
+
+2012-04-15 09:45:50 (4.75 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/finds.gif' saved [3554/3554]
+
+--2012-04-15 09:45:50--  http://images.apple.com/global/elements/buttons/getstarteds.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7113 (6.9K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/getstarteds.png'
+
+     0K ......                                                100% 2.64M=0.003s
+
+2012-04-15 09:45:51 (2.64 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/getstarteds.png' saved [7113/7113]
+
+--2012-04-15 09:45:51--  http://images.apple.com/global/elements/buttons/getstarteds.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4162 (4.1K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/getstarteds.gif'
+
+     0K ....                                                  100% 4.67M=0.001s
+
+2012-04-15 09:45:51 (4.67 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/getstarteds.gif' saved [4162/4162]
+
+--2012-04-15 09:45:51--  http://images.apple.com/global/elements/buttons/gos.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5220 (5.1K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/gos.png'
+
+     0K .....                                                 100% 2.89M=0.002s
+
+2012-04-15 09:45:52 (2.89 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/gos.png' saved [5220/5220]
+
+--2012-04-15 09:45:52--  http://images.apple.com/global/elements/buttons/gos.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3262 (3.2K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/gos.gif'
+
+     0K ...                                                   100% 3.99M=0.001s
+
+2012-04-15 09:45:52 (3.99 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/gos.gif' saved [3262/3262]
+
+--2012-04-15 09:45:52--  http://images.apple.com/global/elements/buttons/learnmores.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6603 (6.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/learnmores.png'
+
+     0K ......                                                100%  463K=0.01s
+
+2012-04-15 09:45:52 (463 KB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/learnmores.png' saved [6603/6603]
+
+--2012-04-15 09:45:52--  http://images.apple.com/global/elements/buttons/learnmores.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4069 (4.0K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/learnmores.gif'
+
+     0K ...                                                   100% 4.09M=0.001s
+
+2012-04-15 09:45:53 (4.09 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/learnmores.gif' saved [4069/4069]
+
+--2012-04-15 09:45:53--  http://images.apple.com/global/elements/buttons/nikebuynows.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4540 (4.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/nikebuynows.png'
+
+     0K ....                                                  100% 6.28M=0.001s
+
+2012-04-15 09:45:53 (6.28 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/nikebuynows.png' saved [4540/4540]
+
+--2012-04-15 09:45:53--  http://images.apple.com/global/elements/buttons/nikebuynows.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3759 (3.7K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/nikebuynows.gif'
+
+     0K ...                                                   100% 2.85M=0.001s
+
+2012-04-15 09:45:53 (2.85 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/nikebuynows.gif' saved [3759/3759]
+
+--2012-04-15 09:45:53--  http://images.apple.com/global/elements/buttons/preorders.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7636 (7.5K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorders.png'
+
+     0K .......                                               100% 3.91M=0.002s
+
+2012-04-15 09:45:54 (3.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorders.png' saved [7636/7636]
+
+--2012-04-15 09:45:54--  http://images.apple.com/global/elements/buttons/preorders.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4550 (4.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorders.gif'
+
+     0K ....                                                  100% 7.00M=0.001s
+
+2012-04-15 09:45:55 (7.00 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/preorders.gif' saved [4550/4550]
+
+--2012-04-15 09:45:55--  http://images.apple.com/global/elements/buttons/reserves.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6518 (6.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/reserves.png'
+
+     0K ......                                                100%  811K=0.008s
+
+2012-04-15 09:45:55 (811 KB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/reserves.png' saved [6518/6518]
+
+--2012-04-15 09:45:55--  http://images.apple.com/global/elements/buttons/reserves.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4207 (4.1K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/reserves.gif'
+
+     0K ....                                                  100%  905K=0.005s
+
+2012-04-15 09:45:55 (905 KB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/reserves.gif' saved [4207/4207]
+
+--2012-04-15 09:45:55--  http://images.apple.com/global/elements/buttons/startyoursearchs.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10348 (10K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/startyoursearchs.png'
+
+     0K ..........                                            100% 1.30M=0.008s
+
+2012-04-15 09:45:56 (1.30 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/startyoursearchs.png' saved [10348/10348]
+
+--2012-04-15 09:45:56--  http://images.apple.com/global/elements/buttons/startyoursearchs.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6147 (6.0K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/startyoursearchs.gif'
+
+     0K ......                                                100% 1.27M=0.005s
+
+2012-04-15 09:45:56 (1.27 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/startyoursearchs.gif' saved [6147/6147]
+
+--2012-04-15 09:45:56--  http://images.apple.com/global/elements/buttons/submits.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5709 (5.6K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/submits.png'
+
+     0K .....                                                 100% 2.88M=0.002s
+
+2012-04-15 09:45:56 (2.88 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/submits.png' saved [5709/5709]
+
+--2012-04-15 09:45:56--  http://images.apple.com/global/elements/buttons/submits.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3506 (3.4K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/submits.gif'
+
+     0K ...                                                   100% 2.91M=0.001s
+
+2012-04-15 09:45:57 (2.91 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/elements/buttons/submits.gif' saved [3506/3506]
+
+--2012-04-15 09:45:57--  http://images.apple.com/promos/images/promofooter_top.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 450 [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_top.png'
+
+     0K                                                       100% 41.2M=0s
+
+2012-04-15 09:45:57 (41.2 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_top.png' saved [450/450]
+
+--2012-04-15 09:45:57--  http://images.apple.com/promos/images/promofooter_top.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 538 [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_top.gif'
+
+     0K                                                       100% 49.6M=0s
+
+2012-04-15 09:45:57 (49.6 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_top.gif' saved [538/538]
+
+--2012-04-15 09:45:57--  http://images.apple.com/promos/images/promofooter_bottom.png
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2502 (2.4K) [image/png]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_bottom.png'
+
+     0K ..                                                    100% 3.39M=0.001s
+
+2012-04-15 09:45:57 (3.39 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_bottom.png' saved [2502/2502]
+
+--2012-04-15 09:45:57--  http://images.apple.com/promos/images/promofooter_bottom.gif
+Reusing existing connection to images.apple.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6823 (6.7K) [image/gif]
+Saving to: `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_bottom.gif'
+
+     0K ......                                                100% 1.51M=0.004s
+
+2012-04-15 09:45:57 (1.51 MB/s) - `code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/promos/images/promofooter_bottom.gif' saved [6823/6823]
+
+FINISHED --2012-04-15 09:45:57--
+Total wall clock time: 16s
+Downloaded: 111 files, 1017K in 0.5s (2.05 MB/s)
+Converting code/../crawls/apple.com/iTunes-Terms-of-Service/raw/www.apple.com/legal/itunes/us/terms.html... 16-21
+Converting code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/styles/base.css... 111-0
+Converting code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/legal/legal.css... nothing to do.
+Converting code/../crawls/apple.com/iTunes-Terms-of-Service/raw/images.apple.com/global/nav/styles/navigation.css... 16-0
+Converted 4 files in 0.009 seconds.
