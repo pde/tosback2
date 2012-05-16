@@ -192,7 +192,7 @@ def main():
             print "Dry run. Not commiting results"
             return
 
-        print "Committing results..."
+        print "Committing results to %s..." % branchname
         gitrepo.index.add(crawl_paths)
         commit_msg = "Crawl completed at " + time.strftime("%Y-%m-%d-%H-%M-%S")
         os.environ["GIT_AUTHOR_NAME"]="Robbie Robot"
