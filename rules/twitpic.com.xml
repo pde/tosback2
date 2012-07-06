@@ -3,5 +3,10 @@
    <url name="http://twitpic.com/privacy.do">
      <norecurse name="arbitrary"/>
    </url>
+ </docname> 
+ <docname name="Terms of Service">
+   <url name="http://twitpic.com/terms.do">
+     <norecurse name="arbitrary"/>
+   </url>
  </docname>
 </sitename>
