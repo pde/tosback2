@@ -1,0 +1,17 @@
+<sitename name="github.com">
+ <docname name="Terms of Service">
+   <url name="https://github.com/site/terms">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://help.github.com/privacy-policy">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Security">
+   <url name="https://help.github.com/security/">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
