@@ -1,6 +1,11 @@
 <sitename name="google.com">
  <docname name="Privacy Policy">
-   <url name="https://www.google.com/intl/en/policies/privacy/preview/">
+   <url name="https://www.google.com/intl/en/policies/privacy/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="https://www.google.com/intl/en/policies/terms/">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
