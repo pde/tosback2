@@ -1,0 +1,553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>TOSback</title>
+
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+ 
+ 
+ 
+  <script>
+  $(document).ready(function() {
+							 
+   $("#slider").slider( {
+					   
+			range: true,
+			min: 0,
+			max: 100,
+			values: [ 15, 100 ],
+			
+			change: function( event, ui ) {
+				
+				var leftValue = ui.values[0];
+				var rightValue = ui.values[1];
+				
+		
+				if (leftValue <= 25 ){
+					$('.contentLeft').hide();
+					$('#left0').show();
+				}
+				if (leftValue > 25 && leftValue <= 75){
+					$('.contentLeft').hide();
+					$('#left20').show();
+				}
+				if (leftValue > 75){
+					$('.contentLeft').hide();
+					$('#left65').show();
+				}
+				
+				if (rightValue <= 25 ){
+					$('.contentRight').hide();
+					$('#right0').show();
+									}
+				if (rightValue > 25 && rightValue <= 75){
+					$('.contentRight').hide();
+					$('#right20').show();
+				}
+				if (rightValue > 75){
+					$('.contentRight').hide();
+					$('#right65').show();
+				}
+	   
+			}
+		
+		 });	
+  });
+  </script>
+  
+
+</head>
+
+<body>
+
+<div id="page">
+
+
+<div id="header">
+
+	<div id="headerInner"><h1>TOSback</h1></div>
+
+</div>
+
+
+    
+    <!--begin main-->
+	<div id="main">
+
+	<div id="content">
+    
+    <div id="pageNav">
+    
+    	<a href="">TOSback Home</a> / Policy Details: Apple
+    
+    </div>
+    
+    <div class="clear"></div>
+
+
+    <div id="companyDetails">
+
+        <div class="companyLogo"><img src="images/apple.jpg" /></div>
+        <div class="companyName">Apple</div>
+        <div class="companyTimeframe">[Jan 1, 2010 -- Today]</div>
+        <div class="differenceValue"> Difference:<br />
+            <span id="diffValue">0.3%</span>
+        </div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+    
+    
+    <div id="sliderInfo">
+    <h3>Select Policy Dates from Timeline <span>[Red indicates dates material changes were made to policy]</span></h3>
+    
+    	<div class="sliderWidget">
+        	<div id="sliderMarkers">
+            	<div id="marker20" title="Nov 1, 2010">&nbsp;</div>
+                <div id="marker65"  title="Aug 1, 2011">&nbsp;</div>
+            </div>
+        	<div id="slider"></div>
+            <div class="clear"></div>
+            <div>
+                <span class="left">Jan 1, 2010</span>
+                <span class="right">Today</span>
+            </div>
+        </div>
+        
+    
+    </div>
+    
+     <div class="clear"></div>
+     
+     
+     
+     
+    
+    <div id="differenceTable">   
+    
+    
+    <!--jan 2010 policy-->
+        
+        <div class="contentLeft" id="left0">
+    
+              
+            <div class="tableHeader">Jan 1 - Nov 1, 2010</div>
+            
+            
+         
+       		 <div class="tableIcons">
+        	
+        
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+                    
+               	 <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                                   
+            </div>
+            
+            
+          
+            <div class="policyContent">
+            
+             <h3>Apple Privacy Policy</h3>
+             <p>Jan 1, 2010</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat.<span class="highlight">Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur.</span> Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+            
+        	</div>
+        
+        </div> 
+    
+    
+    	
+    	<!--nov 2010 policy-->
+        
+        <div class="contentLeft hidden" id="left20">
+    
+              
+            <div class="tableHeader">Nov 1 2010 - Aug 1 2011</div>
+            
+            
+         
+       		 <div class="tableIcons">
+        	
+        
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+               
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                                   
+            </div>
+            
+            
+          
+            <div class="policyContent">
+            
+             <h3>Apple Privacy Policy</h3>
+             <p>Nov 1, 2010</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat.<span class="strikethrough">Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur.</span> Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+            
+        	</div>
+        
+        </div>
+        
+        
+        <!--aug 2011 policy-->
+        
+        <div class="contentLeft hidden" id="left65">
+    
+              
+            <div class="tableHeader">Aug 1, 2011 - Today</div>
+           
+            
+         
+       		 <div class="tableIcons">
+        	
+        
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+               
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                                   
+            </div>
+            
+            
+          
+            <div class="policyContent">
+            
+             <h3>Apple Privacy Policy</h3>
+             <p>Aug 1, 2011</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. <span class="highlight">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span> 
+              <span class="strikethrough">Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</span></p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+            
+        	</div>
+        
+        </div>
+        
+         
+      <div id="middleBar">&nbsp;</div>
+        
+      
+             
+       <div class="contentRight hidden" id="right0">
+       
+           <div class="tableHeader">Jan 1 2010 - Nov 1 2010</div>
+          
+            
+            <div class="tableIcons">
+                            
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+                    
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                
+			</div>            
+             
+              
+              <div class="policyContent">
+              
+             <h3>Apple Privacy Policy 2</h3>
+             <p>Jan 1, 2010</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. <span class="highlight">Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur.</span> Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              </div>
+              
+        </div>
+        
+           <div class="contentRight hidden" id="right20">
+       
+           <div class="tableHeader">Nov 1 2010 - Aug 1 2011</div>
+          
+            
+            <div class="tableIcons">
+                            
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+                    
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                
+			</div>            
+             
+              
+              <div class="policyContent">
+              
+             <h3>Apple Privacy Policy 2</h3>
+             <p>Nov 1, 2010</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. <span class="strikethrough">Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur.</span> Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              </div>
+              
+        </div>
+        
+           <div class="contentRight" id="right65">
+       
+           <div class="tableHeader">Today</div>
+          
+            
+            <div class="tableIcons">
+                            
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+                    
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+                
+			</div>            
+             
+              
+              <div class="policyContent">
+              
+             <h3>Apple Privacy Policy 2</h3>
+             <p>Aug 1, 2011</p>
+    
+    
+    		<strong>Lorem Ipsum</strong>
+            
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. <span class="highlight">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span> 
+              <span class="strikethrough">Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</span></p>
+              
+              
+              <strong>Lorem Ipsum</strong>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+              cupidatat non proident, sunt in culpa qui officia deserunt ollit ani id
+              est laborum</p>
+              
+              </div>
+              
+        </div>
+        
+		
+        
+        
+      </div>
+        
+      </div>
+      
+
+  </div>
+    <!--end main-->
+    
+
+</div>
+
+
+
+
+
+<!--begin footer-->
+<div id="footer">
+
+	<div id="footerarea"><span>&copy; 2012.  All rights reserved.</span></div>
+
+</div>
+<!--end footer-->
+
+
+		
+</body>
+
+</html>

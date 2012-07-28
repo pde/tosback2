@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>TOSback</title>
+
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript" SRC="diff_match_patch.js"></SCRIPT>
+
+<script>
+
+var loaded = 0;
+var leftContent = "This is my name.";
+var rightContent = "This is your name. asdasdasd asd asd asd asd asd asd ad";
+
+var rpolicy;
+var lpolicy;
+
+var urlParams = {};
+(function () {
+    var e,
+        a = /\+/g,  // Regex for replacing addition symbol with a space
+        r = /([^&=]+)=?([^&]*)/g,
+        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
+        q = window.location.search.substring(1);
+
+    while (e = r.exec(q))
+       urlParams[d(e[1])] = d(e[2]);
+})();
+
+$(function() {
+
+
+// crawls/mail.google.com/GMail-Legal-Notices/raw/mail.google.com/mail/help/intl/en/legal_notices.html
+
+var parts = urlParams.p.split("/");
+console.log(parts[1]);
+console.log(parts[2].replace(/-/g," "));
+
+$('#CompanyLogo').html('<img src="http://'+parts[1]+'/favicon.ico" width="38" height="38"/>');
+$('#CompanyName').text(parts[2].replace(/-/g," "));
+$('#CompanyName2').text(parts[1]+' - '+parts[2].replace(/-/g," "));
+$('#LeftPolicyName').text(parts[2].replace(/-/g," "));
+$('#RightPolicyName').text(parts[2].replace(/-/g," "));
+
+$.ajax({
+  url: "git_history.php?p="+urlParams.p,
+  dataType: "script",
+  success: function() {	
+	var today = new Date();
+	var theBeginning = new Date(parseInt(policyHistory.list[policyHistory.list.length-1].commitDate+"000"));
+	var range = today - theBeginning;
+	var perpixel = range/838.0;
+	
+	// get the difference between the first and the last date
+	// subtract that value from each date
+	// given the largest value == 878 and the smallest == 0, place the dates on the line
+	for(var i=0;i<policyHistory.list.length;i++) {		
+		var loc = parseInt(policyHistory.list[i].commitDate+"000") - theBeginning;		
+		var sty = ' style="margin-left:'+((loc/perpixel)+30)+'px;"';
+		var dt = $.datepicker.formatDate('M d, yy',(new Date(parseInt(policyHistory.list[i].commitDate+"000"))));
+		$('#sliderMarkers').append('<div id="marker'+i+'" title="'+dt+'"'+sty+'>&nbsp;</div>');		
+		policyHistory.list[i].loc = parseInt(((parseFloat(loc/perpixel)/838.0)*100));
+	}
+	
+	$('#CompanyTimeFrame').text( '['+$.datepicker.formatDate('M d, yy',theBeginning)+' -- Today]');
+	$('#StartDate').text($.datepicker.formatDate('M d, yy',theBeginning));
+	
+	// LOAD content for all policies, then 
+//	policyHistory.list[0].content = rightContent;
+//	policyHistory.list[1].content = leftContent;
+
+
+	for(var i=0;i<policyHistory.list.length;i++) {
+		$('#DataHolder').append('<div id="Data'+i+'"></div>');
+		$('#Data'+i).load('git_file.php?i='+policyHistory.list[i].commitHash+'&f='+urlParams.p, function() {
+  			loaded++;
+  			if(loaded==policyHistory.list.length) {
+  				loaded = -9;
+  				initialLoadCompleted();
+  			} 
+		});
+	}
+	
+	
+
+	
+	// http://localisoc.org/tosback2/git_file.php?i=6ac84d9be56d0ac9ac9b6e27d6e4b48dd9ca9559&f=crawls/www.facebook.com/Privacy-Policy/raw/www.facebook.com/full_data_use_policy.html
+
+	// once all are loaded, render
+	//updateVersions(0, 100);
+	
+  }
+});
+
+});
+
+function initialLoadCompleted() {
+	for(var i=0;i<policyHistory.list.length;i++) {
+		policyHistory.list[i].content = $('#Data'+i).html();
+		console.log("##################### "+i);
+		console.log(policyHistory.list[i].content);
+		console.log("##################### ");
+	}
+	// LOAD content for all policies, then 
+	//policyHistory.list[0].content = rightContent;
+	//policyHistory.list[1].content = leftContent;
+
+	updateVersions(0, 100);
+
+}
+
+</script> 
+ 
+ 
+  <script>
+  
+  $(document).ready(function() {	    
+  	$("#slider").slider( {					   
+			range: true,
+			min: 0,
+			max: 100,
+			values: [ 0, 100 ],			
+			change: function( event, ui ) { updateVersions(ui.values[0], ui.values[1]);	}		
+	});	
+  });
+
+
+function updatePercentaged(leftContent, rightContent, rightRenderedDiff) {
+	if(rightContent==leftContent) $('#diffValue').text('0.0%');
+	else {
+	var leftSize = 0;	
+	$("<span>"+leftContent+"</span>").contents().each(
+		function() {
+			leftSize += $(this).text().length;
+		}
+	);
+
+	var notChanged = 0;
+	$('#Scratch').html(rightRenderedDiff);	
+	$('#Scratch').find("ins").remove();
+	$('#Scratch').find("del").remove();
+	$('#Scratch').contents().each(
+		function() {
+			notChanged += $(this).text().length;
+		}
+	);	
+
+	var inserted = 0;	
+	$('#Scratch').html(rightRenderedDiff);	
+	$('#Scratch').find("ins").each(
+		function() {
+			inserted += $(this).text().length;
+		}		
+	);
+	
+	$('#Scratch').empty();
+	
+	var prem = (parseFloat(leftSize-notChanged) / parseFloat(leftSize))*100;	
+	var padd = (parseFloat(inserted) / parseFloat(notChanged))*100;	
+	//console.log("% change: "+Math.round((padd+prem)*10)/10);
+
+	$('#diffValue').text((Math.round((padd+prem)*10)/10)+'%');
+	}
+}
+
+
+function updateVersions(leftValue, rightValue) {
+	// first determine which versions to load based on sliders
+				rpolicy = policyHistory.list[0];
+				for(var i=policyHistory.list.length-1;i>-1;i--) {
+					if(rightValue>policyHistory.list[i].loc) {
+						rpolicy = policyHistory.list[i];
+					}					
+				}								
+
+				lpolicy = policyHistory.list[0];
+				for(var i=0;i<policyHistory.list.length;i++) {
+					if(leftValue<=policyHistory.list[i].loc) {
+						lpolicy = policyHistory.list[i];
+					}					
+				}				
+	// load the versions in the background
+		// set left to null and right to null;
+		// when versions are loaded, then render
+		renderVersions();
+												
+	// make some cosmetic changes			
+			var ld = $.datepicker.formatDate('M d, yy',(new Date(parseInt(lpolicy.commitDate+"000"))));
+			var rd = $.datepicker.formatDate('M d, yy',(new Date(parseInt(rpolicy.commitDate+"000"))));			
+			
+			$('#LeftDateCompareRange').text(ld+" - "+rd);
+			$('#RightDateCompareRange').text(rd+" - "+ld);
+			$('#LeftPolicyDate').text(ld);
+			$('#RightPolicyDate').text(rd);
+}  
+
+function renderVersions() {
+	var leftRenderedDiff = renderCompare(rpolicy.content, lpolicy.content);
+	var rightRenderedDiff = renderCompare(lpolicy.content, rpolicy.content);	
+	$('#ContentLeft').html(leftRenderedDiff);
+	$('#ContentRight').html(rightRenderedDiff);
+	updatePercentaged(lpolicy.content, rpolicy.content, rightRenderedDiff);
+}
+
+  </script>
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+
+var dmp = new diff_match_patch();
+
+function renderCompare(text1, text2) {
+  	dmp.Diff_Timeout = 1; //parseFloat(document.getElementById('timeout').value);
+  	dmp.Diff_EditCost = 4; //parseFloat(document.getElementById('editcost').value);	
+	var d = dmp.diff_main(text1, text2);
+	dmp.diff_cleanupSemantic(d);
+  var ds = dmp.diff_prettyHtml(d);
+  return ds;
+}
+</SCRIPT>
+
+  
+<style>
+sup, sub { vertical-align: 0;
+           position: relative; }
+sup { bottom: 1ex; }
+sub { top: 0.8ex; }
+</style>
+</head>
+
+<body>
+
+<div id="page">
+
+
+<div id="header">
+
+	<div id="headerInner"><h1>TOSback<sup>2</sup></h1></div>
+
+</div>
+
+
+    
+    <!--begin main-->
+	<div id="main">
+
+	<div id="content">
+    
+    <div id="pageNav">
+    
+    	<a href="index.html">TOSback Home</a> / <span id="CompanyName2">Apple</span>
+    
+    </div>
+    
+    <div class="clear"></div>
+
+
+    <div id="companyDetails">
+
+        <div class="companyLogo" id="CompanyLogo"><img src="images/apple.jpg" /></div>
+        <div class="companyName" id="CompanyName">Apple</div>
+        <div class="companyTimeframe" id="CompanyTimeFrame">[Jan 1, 2010 -- Today]</div>
+        <div class="differenceValue"> Difference:<br />
+            <span id="diffValue">0.3%</span>
+        </div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+    
+    
+    <div id="sliderInfo">
+    <h3>Select Policy Dates from Timeline <span>[Red indicates dates material changes were made to policy]</span></h3>
+    
+    	<div class="sliderWidget">
+        	<div id="sliderMarkers">
+            </div>
+        	<div id="slider"></div>
+            <div class="clear"></div>
+            <div>
+                <span class="left" id="StartDate"></span>
+                <span class="right">Today</span>
+            </div>
+        </div>
+        
+    
+    </div>
+    
+     <div class="clear"></div>
+     
+     
+     
+     
+    
+    <div id="differenceTable">   
+
+        <div class="contentLeft" id="left0">
+            <div class="tableHeader" id="LeftDateCompareRange">Jan 1 - Nov 1, 2010</div>
+       		 <div class="tableIcons">
+                <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                </div>
+                    
+               	 <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>                
+            </div>
+          
+            <div class="policyContent">            
+             <h3 id="LeftPolicyName">Apple Privacy Policy</h3>
+             <p id="LeftPolicyDate">Jan 1, 2010</p>
+				<div id="ContentLeft"></div>            
+        	</div>
+        </div> 
+    
+      <div id="middleBar">&nbsp;</div>
+        
+<!-- BEGIN PANEL 2-->        
+           <div class="contentRight" id="right65">
+           <div class="tableHeader" id="RightDateCompareRange">Today</div>
+            <div class="tableIcons">
+                    <div class="text"> 
+                    <strong>Summary</strong><br />
+                    No Secondary Use, No Sharing, Tracking Allowed
+                    </div>
+                    
+                    <div class="right">
+                        <div class="useGreen"></div>
+                        <div class="sharingGreen"></div>
+                        <div class="trackingRed"></div>
+                    </div>
+			</div>            
+              
+            <div class="policyContent">   
+            	 <h3 id="RightPolicyName">Apple Privacy Policy 2</h3>
+            	 <p id="RightPolicyDate">Aug 1, 2011</p>
+    			 <div id="ContentRight"></div>
+            </div>
+              
+        </div>        
+        
+        
+        
+        
+		
+        
+        
+      </div>
+        
+      </div>
+      
+
+  </div>
+    <!--end main-->
+    
+
+</div>
+
+
+
+
+
+<!--begin footer-->
+<div id="footer">
+
+	<div id="footerarea"><span>&copy; 2012.  All rights reserved.</span></div>
+
+</div>
+<!--end footer-->
+
+
+<div id="Scratch"></div>
+<div id="DataHolder" class="hidden" style="display:none;position:absolute;"></div>
+
+		
+</body>
+
+</html>
+
+
+
+
+
+
+<html>
+<head>
+
+
+
+</body>
+
+
+
+</html>
+
