@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>TOSback 2</title>
+
+<link rel="stylesheet" href="style.css" type="text/css"/>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script><script src="corps.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+
+<div id="page">
+
+
+<div id="header">
+
+	<div id="headerInner"><h1>TOSback<sup>2</sup></h1></div>
+
+</div>
+
+
+    
+    <!--begin main-->
+	<div id="main">
+
+	<div id="content">
+    
+       
+       <div id="pageIntro">
+       
+       
+       <h2>About TOSback</h2>
+       
+       	<p>TOSback tracks privacy policies and provides tools to visualize changes and improve understanding.</p>
+        
+        </div>
+        
+        
+        
+        <div class="pageHeader">Select a policy to view:</div>
+
+        <div id="ViewBlock" class="pageModule">
+         
+            <div id="TheList"></div>
+            
+            Search:
+            <div></div>
+            
+        </div>
+        
+        
+         <div class="pageHeader">Add a new policy:</div>
+
+        <div id="SubmitBlock" class="pageModule">
+        
+         <form name="contactform" method="post" action="send_form_email.php">
+         
+       <div>Company Name:</div>
+        <input  type="text" name="company_policy" maxlength="50" size="40"> 
+        
+       <div class="clear10"></div>
+       <div> Policy URL:</div>
+          <input  type="text" name="url_to_policy" maxlength="50" size="40">
+          
+        <div class="clear10"></div>   
+          <input type="submit" value="Submit">   
+        </form>
+        </div>
+        
+        
+        <div class="pageHeader">Get code:</div>
+        
+        <div id="GitBlock" class="pageModule">
+                
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        
+       
+        </div>
+
+
+<!-- pull a list of privacy documents and display along with basic icons --> 
+<script>
+/*
+case insensitive Contains
+*/
+jQuery.expr[':'].Contains = function(a,i,m){
+    return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+};
+$(function() {
+	var theList = $('#TheList');
+	$(sites.sitename).each(function(num, a_site) {	
+
+		var nn = a_site.docname.name+"";
+		nn = nn.replace(/ /g, '-');
+		var un = a_site.docname.url.name+"";
+		un = un.replace("http://","");
+		un = un.replace("https://","");
+		
+		if(-1==un.indexOf('?')) {
+			if(un.length-1==un.lastIndexOf('/')) {
+				un += 'index.html';
+			} else if(un.length-5!=un.indexOf('.html')) {
+				un += '.html';
+			}
+		}
+		var p = 'crawls/'+a_site.name+'/'+nn+'/raw/'+un;	
+		
+		// <a href="detail.html?p='+escape(p)+'">
+		theList.append('<div id="item'+num+'" target="detail.html?p='+escape(p)+'"><img id="ico'+num+'" width="16" height="16">'+a_site.name+' - '+a_site.docname.name+'</div>')
+
+		$("#item"+num).click(function() {
+			//	console.log($(this).attr('target'));
+			window.location = $(this).attr('target');
+		});
+
+		$('#ico'+num).attr('src', 'http://'+a_site.name+'/favicon.ico').error(function() {			
+			$(this).attr('src', 'blank.png');
+		});
+
+
+
+/**
+crawls/www.facebook.com/Privacy-Policy/raw/www.facebook.com/full_data_use_policy.html
+
+<sitename name="www.facebook.com">
+  <docname name="Privacy Policy">
+    <url name="http://www.facebook.com/full_data_use_policy">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename
+        {
+            name:'www.facebook.com',
+            docname:{
+                name:'Privacy Policy',
+                url:{
+                    name:'http://www.facebook.com/full_data_use_policy',
+                    norecurse:{
+                        name:'arbitrary'
+                    }
+                }
+            }
+        },
+
+**/
+		
+	}
+	);
+	
+	$('#ViewBlock').append(	$('<input id="FilterList">').keyup(function() { 
+			var filter = $(this).val();
+			if(filter){
+				theList.children("div:not(:Contains(" + filter + "))").slideUp();
+				theList.children("div:Contains(" + filter + ")").slideDown();
+			}
+			else 
+			{
+			
+				theList.children("div").slideDown();
+			}
+		})
+	);
+	
+});
+
+
+
+</script>
+
+
+   </div>
+      
+
+  </div>
+    <!--end main-->
+    
+
+</div>
+
+
+
+
+
+<!--begin footer-->
+<div id="footer">
+
+	<div id="footerarea"><span>&copy; 2012.  All rights reserved.</span></div>
+
+</div>
+<!--end footer-->
+
+
+		
+</body>
+
+</html>

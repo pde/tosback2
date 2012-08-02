@@ -1,0 +1,21 @@
+Optimizations
+-------------
+
+The html5lib tree builder doesn't use the standard tree-building API,
+which worries me.
+
+markup_attr_map can be optimized since it's always a map now.
+
+CDATA
+-----
+
+The elementtree XMLParser has a strip_cdata argument that, when set to
+False, should allow Beautiful Soup to preserve CDATA sections instead
+of treating them as text. Except it doesn't. (This argument is also
+present for HTMLParser, and also does nothing there.)
+
+Currently, htm5lib converts CDATA sections into comments. An
+as-yet-unreleased version of html5lib changes the parser's handling of
+CDATA sections to allow CDATA sections in tags like <svg> and
+<math>. The HTML5TreeBuilder will need to be updated to create CData
+objects instead of Comment objects in this situation.
