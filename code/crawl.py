@@ -7,6 +7,7 @@ import time
 import os,os.path,shutil
 import re
 import sys
+import traceback
 from lxml import etree
 
 # TODO(dta) use multiprocessing module
@@ -48,7 +49,11 @@ class TOSCrawler(object):
     def read2(self, file_name):
         """Parses XML file."""
         # EDIT CJR for multiple docnames within a sitename
-        xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
+        try:
+          xmlData = etree.parse(os.path.join(CODE_PATH, "..", "rules", file_name))
+        except:
+          print "Error parsing", file_name
+          traceback.print_exc()
         dataLst = []
         for node in xmlData.iter("sitename"):
             sname = node.attrib['name']
