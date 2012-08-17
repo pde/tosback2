@@ -26,7 +26,7 @@ if "--force-data-branch" in sys.argv: force_data_branch = True
 FILELENGTH_MAX = 127 + 19
 GLOBAL_UAS = ["Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)"]
 CODE_PATH = os.path.dirname(sys.argv[0])
-PARALLELISM = 10
+PARALLELISM = 12
 
 class TOSCrawler(object):
     """Class to process xml files sequentially"""
@@ -125,11 +125,13 @@ class TOSCrawler(object):
         targets = parsed_xml_files
         running = []
         while True:
-            if targets and len(running) < PARALLELISM:
+            # Start new crawl processes until we reach our quota
+            while targets and len(running) < PARALLELISM:
                 t = targets.pop()
                 path, subproc = self.process(t)
                 crawl_paths.append(path)
                 running.append(subproc)
+            # Note any processes that have finished
             for p in running[:]:
                 p.poll()
                 if p.returncode != None:
