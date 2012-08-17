@@ -1,6 +1,71 @@
 <sitename name="skype.com">
- <docname name="Privacy Policy">
-   <url name="http://www.skype.com/intl/en/legal/privacy/general/">
+ <docname name="Terms and Policies">
+   <url name="http://www.skype.com/intl/en-us/legal/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.skype.com/intl/en-us/legal/terms/tou/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Business End User License Agreement">
+   <url name="http://www.skype.com/intl/en-us/legal/business/eula/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Business End User License Agreement (US)">
+   <url name="http://www.skype.com/intl/en-us/legal/business/eula-us/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Group Video Calling Fair Usage Policy">
+   <url name="http://www.skype.com/intl/en/legal/terms/gvc-fair-usage/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Fair Usage Policy for Subscriptions">
+   <url name="http://www.skype.com/intl/en-us/legal/terms/fair_usage/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Fair Usage Policy for US Minute Bundles">
+   <url name="http://www.skype.com/intl/en-us/legal/terms/fair_usage_minute_bundles/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policies">
+   <url name="http://www.skype.com/intl/en-us/legal/privacy/general/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Cookies Policy">
+   <url name="http://www.skype.com/intl/en-us/legal/privacy/general/#5">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Etiquette">
+   <url name="http://www.skype.com/intl/en-us/legal/terms/etiquette/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Skype Emergency Calling">
+   <url name="http://www.skype.com/intl/en-us/legal/skype-limited-emergency-calling/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Trademark Guidelines">
+   <url name="http://www.skype.com/intl/en-us/legal/terms/trademark-guidelines/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service - Business">
+   <url name="http://www.skype.com/intl/en-us/legal/business/terms/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service - Business (US)">
+   <url name="http://www.skype.com/intl/en-us/legal/business/terms-us/">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
