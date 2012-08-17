@@ -1,0 +1,22 @@
+<sitename name="quakelive.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.quakelive.com/legals/privacy_policy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="EULA">
+   <url name="http://www.quakelive.com/legals/eula">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="TOS">
+   <url name="http://www.quakelive.com/legals/terms_of_use">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Notices">
+   <url name="http://www.quakelive.com/legals/notices">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
