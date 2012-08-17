@@ -4,4 +4,9 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
+ <docname name="Terms of Service">
+   <url name="http://twitter.com/tos">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
 </sitename>
