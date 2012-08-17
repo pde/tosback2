@@ -131,6 +131,7 @@ class TOSCrawler(object):
                 path, subproc = self.process(t)
                 crawl_paths.append(path)
                 running.append(subproc)
+            time.sleep(0.5)
             # Note any processes that have finished
             for p in running[:]:
                 p.poll()
@@ -139,7 +140,6 @@ class TOSCrawler(object):
                     running.remove(p)
             if (not targets) and (not running):
                 break
-            time.sleep(0.5)
 
         return crawl_paths
 
