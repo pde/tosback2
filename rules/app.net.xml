@@ -1,0 +1,12 @@
+<sitename name="app.net">
+ <docname name="Privacy Policy">
+   <url name="http://app.net/privacy/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://app.net/terms/">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
