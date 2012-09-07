@@ -1,7 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="earthlink.net">
- <docname name="Privacy Policy">
-   <url name="http://www.earthlink.net/about/policies/privacy/">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="http://www.earthlink.net/about/policies/privacy/">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Use">
+    <url name="http://www.earthlink.net/about/policies/cable.faces">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy">
+    <url name="http://www.earthlink.net/about/policies/use.faces">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

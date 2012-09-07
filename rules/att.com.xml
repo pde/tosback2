@@ -1,7 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="att.com">
- <docname name="Privacy Policy">
-   <url name="http://www.att.com/gen/privacy-policy?pid=2506">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="http://www.att.com/gen/privacy-policy?pid=2506">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy">
+    <url name="http://www.corp.att.com/aup/">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">
+    <url name="http://www.att.com/shop/internet/att-internet-terms-of-service.html#fbid=GotIbeFClvY">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

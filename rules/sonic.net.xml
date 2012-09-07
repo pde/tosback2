@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitename name="Sonic.net">
+  <docname name="All Policies">
+    <url name="https://wiki.sonic.net/wiki/Category:Policies">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

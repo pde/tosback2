@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<sitename name="cox.com">
-  <docname name="Privacy Policy">
-    <url name="http://ww2.cox.com/aboutus/policies/your-privacy-rights.cox">
+<sitename name="CableOne.net">
+  <docname name="Terms and Conditions">
+    <url name="https://www.cableone.net/Pages/Legal.aspx">
       <norecurse name="arbitrary" />
     </url>
   </docname>
   <docname name="Acceptable Use Policy">
-    <url name="http://ww2.cox.com/aboutus/policies.cox">
+    <url name="http://www.cableone.net/Pages/internetaup.aspx">
       <norecurse name="arbitrary" />
     </url>
   </docname>
