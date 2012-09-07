@@ -1,7 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="verizon.com">
- <docname name="Privacy Policy">
-   <url name="http://www22.verizon.com/privacy/">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="http://www22.verizon.com/privacy/">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">
+    <url name="http://www.verizon.net/policies/vzcom/tos_popup.asp">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
