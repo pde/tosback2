@@ -1,7 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="charter.net">
- <docname name="Privacy Policy">
-   <url name="http://www.charter.com/footer/footerPage.jsp?tag=privacy_website">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="http://www.charter.com/footer/footerPage.jsp?tag=privacy_website">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy">
+    <url name="http://www.charter.com/footer/footerPage.jsp?tag=policies_resi_hsi_accep_use_policy">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
