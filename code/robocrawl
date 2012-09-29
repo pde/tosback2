@@ -1,0 +1,19 @@
+#!/bin/bash
+# 
+# Run and commit a crawl, merging the results into the local "data" branch
+#
+# Unfortunately this doesn't work in cron unless without a patch for
+# http://stackoverflow.com/questions/4399617/python-os-getlogin-problem
+#
+CRAWLER_CHECKOUT=~/tosback2_real_crawls/
+set -x
+cd $CRAWLER_CHECKOUT
+git checkout --force data
+python code/crawl.py > crawl.log
+TAG=`grep "Committing results to" crawl.log | cut -d" " -f 4`
+if [ "$TAG" != "" ] ; then
+	git checkout --force "$TAG" || exit 1
+	git merge -s ours data || exit 1
+	git checkout --force data || exit 1
+	git merge "$TAG"
+fi
