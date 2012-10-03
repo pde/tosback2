@@ -4,6 +4,13 @@ require 'sanitize'
 
 rules_path = "../rules_test/"
 results_path = "../crawl/"
+$log_dir = "../logs/"
+
+def log_errors(error)
+  err_log = File.open("#{$log_dir}errors.log", "a")
+  err_log.puts "#{Time.now} - #{error}\n"
+  err_log.close
+end
 
 def format_tos(tos_data)
   begin
@@ -26,9 +33,15 @@ def parse_xml_files(rules_path, results_path)
   Dir.foreach(rules_path) do |filename|
     next if filename == "." || filename == ".."
     
-    filecontent = File.open("#{rules_path}#{filename}")
-    ngxml = Nokogiri::XML(filecontent)
-    filecontent.close
+    begin
+      filecontent = File.open("#{rules_path}#{filename}")
+      ngxml = Nokogiri::XML(filecontent)
+    rescue
+      log_errors("Script had trouble opening this file: #{rules_path}#{filename}")
+    ensure
+      filecontent.close
+
+    end
         
     new_path = "#{results_path}#{ngxml.xpath("//sitename[1]/@name").to_s}/"
     Dir.mkdir(new_path) unless File.exists?(new_path)
@@ -40,11 +53,16 @@ def parse_xml_files(rules_path, results_path)
     
     docs.each do |name| # for every docname in sitename
       crawl_file_name = "#{new_path}#{name}.txt"
-      crawl_file = File.open(crawl_file_name,"w")
+      crawl_file = File.open(crawl_file_name,"w") # new file or overwrite old file
       
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
       doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath")
-      ngdoc_url = Nokogiri::HTML(open(doc_url))
+      
+      begin
+        ngdoc_url = Nokogiri::HTML(open(doc_url))
+      rescue
+        log_errors("Problem opening URL: #{doc_url}")
+      end
       
       tos_data = ""
       if doc_xpath.nil?
