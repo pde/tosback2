@@ -62,6 +62,7 @@ def parse_xml_files(rules_path, results_path)
         ngdoc_url = Nokogiri::HTML(open(doc_url))
       rescue
         log_errors("Problem opening URL: #{doc_url}")
+        next
       end
       
       tos_data = ""
