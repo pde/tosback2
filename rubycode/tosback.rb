@@ -21,13 +21,18 @@ def parse_xml_files(rules_path, results_path)
       docs << doc.at_xpath("./@name")
     end
     
-    docs.each do |name|
+    docs.each do |name| # for every docname in sitename
       crawl_file_name = "#{new_path}#{name}.txt"
       crawl_file = File.open(crawl_file_name,"w")
       
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
+      doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath").content
       ngdoc_url = Nokogiri::HTML(open(doc_url))
-      crawl_file.puts ngdoc_url.at_xpath("//body").content.strip.squeeze!("\t")
+      if doc_xpath.nil?
+        crawl_file.puts ngdoc_url.at_xpath("//body").content.strip.squeeze!("\t")                
+      else
+        crawl_file.puts ngdoc_url.at_xpath(doc_xpath).content.strip.squeeze!("\t")
+      end
       
       # crawl_file.puts "#{name} / " + ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
       crawl_file.close
