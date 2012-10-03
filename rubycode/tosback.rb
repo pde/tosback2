@@ -1,66 +1,41 @@
-require 'open-uri'
 require 'nokogiri'
+require 'open-uri'
 
+rules_path = "../rules_test/"
+results_path = "../crawl/"
 
-path = '../tosback2/rules'
-
-def get_xml_files(path)
-  files = []
-  Dir.foreach(path) do |f|
-    next if f == "." || f == ".."
-    files << f.strip
+def parse_xml_files(rules_path, results_path)
+  # files = []
+  Dir.foreach(rules_path) do |filename|
+    next if filename == "." || filename == ".."
+    
+    filecontent = File.open("#{rules_path}#{filename}")
+    ngxml = Nokogiri::XML(filecontent)
+    filecontent.close
+        
+    new_path = "#{results_path}#{ngxml.xpath("//sitename[1]/@name").to_s}/"
+    Dir.mkdir(new_path) unless File.exists?(new_path)
+    
+    docs = []
+    ngxml.xpath("//sitename/docname").each do |doc|
+      docs << doc.at_xpath("./@name")
+    end
+    
+    docs.each do |name|
+      crawl_file_name = "#{new_path}#{name}.txt"
+      crawl_file = File.open(crawl_file_name,"w")
+      
+      doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
+      ngdoc_url = Nokogiri::HTML(open(doc_url))
+      crawl_file.puts ngdoc_url.at_xpath("//body").content.strip.squeeze!("\t")
+      
+      # crawl_file.puts "#{name} / " + ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
+      crawl_file.close
+    end
+        
   end
-  return files
+  
 end
 
+parse_xml_files(rules_path,results_path)
 
-
-# 
-# 
-# filepath1 = ARGV[0]
-# filepath2 = ARGV[1]
-# filepath3 = ARGV[2]
-# 
-# file1 = File.open(filepath1, "r")
-# file2 = File.open(filepath2, "r")
-# newfile = (File.exists?(filepath3) ? File.open(filepath3, "a") : File.new(filepath3, "w"))
-# 
-# file1.each {|line|
-#  newfile.puts(line)
-#  newfile.puts(file2.readline)
-# }
-# 
-# file1.close
-# file2.close
-# newfile.close
-# 
-# #!/usr/bin/env ruby
-# 
-# #methods
-# def file2array (filename)
-#   contents = []
-# 
-#   file = File.open(filename, "r")
-#   file.each { |line|
-#     contents << line.strip
-#   }
-#   
-#   file.close
-#   return contents
-# end
-# 
-# def inBoth (arr1, arr2)
-#   return (arr1 & arr2)
-# end
-# 
-# matchfile = ARGV[0]
-# masterfile = ARGV[1]
-# 
-# masterarray = file2array (masterfile)
-# matcharray = file2array (matchfile)
-# 
-# bothArray = inBoth(matcharray, masterarray)
-# 
-# bothArray.each {|diff|
-#   puts diff
-# }
