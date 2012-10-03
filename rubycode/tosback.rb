@@ -6,8 +6,14 @@ rules_path = "../rules_test/"
 results_path = "../crawl/"
 
 def format_tos(tos_data)
+  begin
   tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
-  # tos_data = Sanitize.clean(tos_data)
+  # puts "worked"
+  rescue Encoding::CompatibilityError
+    tos_data.encode!("UTF-8", undef: :replace)
+    tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
+    # puts "rescued"
+  end
   tos_data.gsub!(/\s{2,}/," ")
   tos_data.gsub!(/\./,".\n")
   tos_data.gsub!(/\n\s/,"\n")
