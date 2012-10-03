@@ -1,8 +1,19 @@
 require 'nokogiri'
 require 'open-uri'
+require 'sanitize'
 
 rules_path = "../rules_test/"
 results_path = "../crawl/"
+
+def format_tos(tos_data)
+  tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
+  # tos_data = Sanitize.clean(tos_data)
+  tos_data.gsub!(/\s{2,}/," ")
+  tos_data.gsub!(/\./,".\n")
+  tos_data.gsub!(/\n\s/,"\n")
+  
+  return tos_data
+end
 
 def parse_xml_files(rules_path, results_path)
   # files = []
@@ -28,13 +39,17 @@ def parse_xml_files(rules_path, results_path)
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
       doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath")
       ngdoc_url = Nokogiri::HTML(open(doc_url))
+      
+      tos_data = ""
       if doc_xpath.nil?
-        crawl_file.puts ngdoc_url.at_xpath("//body").content.strip.squeeze!("\t")                
+        tos_data = ngdoc_url.at_xpath("//body").to_s
       else 
-        crawl_file.puts ngdoc_url.at_xpath(doc_xpath.to_s).content.strip.squeeze!("\t")
+        tos_data = ngdoc_url.at_xpath(doc_xpath.to_s).to_s
       end
       
-      # crawl_file.puts "#{name} / " + ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
+      tos_data = format_tos(tos_data)
+      
+      crawl_file.puts tos_data
       crawl_file.close
     end
         
