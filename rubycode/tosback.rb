@@ -5,21 +5,23 @@ require 'sanitize'
 rules_path = "../rules/"
 results_path = "../crawl/"
 $log_dir = "../logs/"
+$error_log = "errors.log"
+$run_log = "run.log"
 
-def log_errors(error)
-  err_log = File.open("#{$log_dir}errors.log", "a")
-  err_log.puts "#{Time.now} - #{error}\n"
+def log_stuff(message,logfile)
+  err_log = File.open("#{$log_dir}#{logfile}", "a")
+  err_log.puts "#{Time.now} - #{message}\n"
   err_log.close
 end
 
 def strip_tags(data)
-  data = Sanitize.clean(data, :remove_contents => ["script", "style"])
+  data = Sanitize.clean(data, :remove_contents => ["script", "style"]) # strips all html tags and removes content between <script> and <style> tags
   return data
 end
 
 def format_tos(tos_data)
   begin
-  tos_data = strip_tags(tos_data)
+  tos_data = strip_tags(tos_data) # uses Sanitize to strip html
   # puts "worked"
   rescue Encoding::CompatibilityError
     # puts "rescued"
@@ -32,23 +34,23 @@ def format_tos(tos_data)
     tos_data = strip_tags(tos_data)
   end
 
-  tos_data.gsub!(/\s{2,}/," ")
-  tos_data.gsub!(/\./,".\n")
-  tos_data.gsub!(/\n\s/,"\n")
+  tos_data.gsub!(/\s{2,}/," ") # changes big gaps of space to a single space
+  tos_data.gsub!(/\./,".\n") # adds new line char after all "."'s
+  tos_data.gsub!(/\n\s/,"\n") # removes single spaces at the beginning of lines
   
   return tos_data
 end
 
 def parse_xml_files(rules_path, results_path)
   # files = []
-  Dir.foreach(rules_path) do |filename|
+  Dir.foreach(rules_path) do |filename| # loop for each xml file/rule
     next if filename == "." || filename == ".."
     
     begin
       filecontent = File.open("#{rules_path}#{filename}")
       ngxml = Nokogiri::XML(filecontent)
     rescue
-      log_errors("Script had trouble opening this file: #{rules_path}#{filename}")
+      log_stuff("Script had trouble opening this file: #{rules_path}#{filename}",$error_log)
     ensure
       filecontent.close
 
@@ -62,17 +64,17 @@ def parse_xml_files(rules_path, results_path)
       docs << doc.at_xpath("./@name")
     end
     
-    docs.each do |name| # for every docname in sitename
+    docs.each do |name| # for every docname in sitename in file
       crawl_file_name = "#{new_path}#{name}.txt"
       crawl_file = File.open(crawl_file_name,"w") # new file or overwrite old file
       
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
-      doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath")
+      doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
       
       begin
         ngdoc_url = Nokogiri::HTML(open(doc_url))
       rescue
-        log_errors("Problem opening URL: #{doc_url}")
+        log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
         next
       end
       
@@ -93,5 +95,8 @@ def parse_xml_files(rules_path, results_path)
   
 end
 
+log_stuff("Beginning script!",$run_log)
+
 parse_xml_files(rules_path,results_path)
 
+log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
