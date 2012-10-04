@@ -17,10 +17,15 @@ def format_tos(tos_data)
   tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
   # puts "worked"
   rescue Encoding::CompatibilityError
+    # puts "rescued"
     tos_data.encode!("UTF-8", undef: :replace)
     tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
-    # puts "rescued"
+  rescue ArgumentError
+    # puts "Argument error"
+    tos_data.encode!('UTF-8', 'UTF-8', :invalid => :replace)
+    tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
   end
+
   tos_data.gsub!(/\s{2,}/," ")
   tos_data.gsub!(/\./,".\n")
   tos_data.gsub!(/\n\s/,"\n")
