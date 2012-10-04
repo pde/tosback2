@@ -3,7 +3,7 @@ require 'open-uri'
 require 'sanitize'
 require 'grit'
 
-rules_path = "../rules/"
+rules_path = "../rules_test/"
 results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
@@ -16,11 +16,13 @@ def log_stuff(message,logfile)
   err_log.close
 end
 
-def git_an_array
-  files = []
+def git_modified
   git = Grit::Repo.new("../")
-  git.status.changed.each {|filename| files << filename[0]}
-  return files
+
+  modified_file = File.open("#{$log_dir}#{$modified_log}", "w")
+  modified_file.puts "These files were modified since the last commit:\n\n"
+  git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
+  modified.close
 end
 
 def strip_tags(data)
@@ -112,14 +114,8 @@ log_stuff("Beginning script!",$run_log)
 
 parse_xml_files(rules_path,results_path)
 
-git_modified = git_an_array
-modified = File.open("#{$log_dir}#{$modified_log}", "w")
-modified.puts "These files were modified since the last commit:\n\n"
-git_modified.each do |file|
-  modified.puts "#{file}\n"
-end
-modified.close
-
 #TODO mail git_modified
 
 log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
+
+git_modified
