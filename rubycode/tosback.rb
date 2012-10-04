@@ -23,7 +23,7 @@ def format_tos(tos_data)
   # puts "worked"
   rescue Encoding::CompatibilityError
     # puts "rescued"
-    tos_data.encode!("UTF-8", undef: => :replace)
+    tos_data.encode!("UTF-8", :undef => :replace)
     tos_data = strip_tags(tos_data)
   rescue ArgumentError
     # puts "Argument error"
