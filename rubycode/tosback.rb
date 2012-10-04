@@ -3,7 +3,7 @@ require 'open-uri'
 require 'sanitize'
 # require 'grit'
 
-rules_path = "../rules_test/"
+rules_path = "../rules/"
 results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
