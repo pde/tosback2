@@ -1,52 +1,4 @@
- &lt;!-- .
-nav-sprite { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/BeaconSprite-US-01.
-_V394051227_.
-png);
-}
-.
-nav_pop_h { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-h-v2.
-_V137157005_.
-png);
-}
-.
-nav_pop_v { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-v-v2.
-_V137157005_.
-png);
-}
-.
-nav_ie6 .
-nav_pop_h { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-8bit-h.
-_V155961234_.
-png);
-}
-.
-nav_ie6 .
-nav_pop_v { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-8bit-v.
-_V155961234_.
-png);
-}
-.
-nav-ajax-loading .
-nav-ajax-message { background: center center url(http://g-ecx.
-images-amazon.
-com/images/G/01/javascripts/lib/popover/images/snake.
-_V192571611_.
-gif) no-repeat;
-}
---&gt;&lt;!-- .
-nav-searchfield-width { padding: 0 2px 0 43px; } #nav-search-in { width: 43px; } --&gt;&lt;!-- select#searchDropdownBox { visibility: visible; display: block; } div.
-nav-searchfield-width { padding-left: 200px; } span#nav-search-in { width: 200px; } #nav-search-in span#nav-search-in-content { display: none; }
---&gt; Amazon Join Prime Your Amazon.
+ Amazon Your Amazon.
 com Today's Deals Gift Cards Help Shop by Department Search All All DepartmentsAmazon Instant VideoAppliancesApps for Android Arts, Crafts &amp; SewingAutomotiveBabyBeautyBooksCell Phones &amp; AccessoriesClothing &amp; AccessoriesCollectiblesComputersElectronicsGift Cards Store
 Grocery &amp; Gourmet FoodHealth &amp; Personal CareHome &amp; KitchenIndustrial &amp; ScientificJewelryKindle StoreMagazine SubscriptionsMovies &amp; TVMP3 MusicMusicMusical InstrumentsOffice ProductsPatio, Lawn &amp; GardenPet SuppliesShoesSoftwareSports &amp; OutdoorsTools &amp; Home ImprovementToys &amp; GamesVideo GamesWatches Hello.
 Sign in Your Account Cart 0 Wish List   Help &gt; Legal and Privacy Policies &gt; Privacy Notice Topics Legal and Privacy Policies Conditions of Use Your Amazon.
@@ -199,7 +151,7 @@ Co-branded and Joint Offerings Examples of businesses with which we offer joint 
 Information You Can Access Examples of information you can access easily at Amazon.
 com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
 Read our Privacy Notice here.
-Self-Service Track or Manage Purchases Manage Payment Options Return Items Change Name, E-mail, or Password Manage Address Book Manage Your Kindle Kindle Help Forum General Help Forum Contact Us Other Help Sites Associates Program Help Amazon Web Services Publisher and Vendor Help Ayuda en Español Get to Know Us Careers Investor Relations Press Releases Amazon and Our Planet Amazon in the Community Make Money with Us Sell on Amazon Become an Affiliate Advertise Your Products Independently Publish with Us › See all Let Us Help You Your Account Shipping Rates &amp; Policies Amazon Prime Returns Are Easy Manage Your Kindle Help Canada
+Self-Service Track or Manage Purchases Manage Payment Options Return Items Change Name, E-mail, or Password Manage Address Book Manage Your Kindle Support General Help Forum Kindle Help Forum Contact Us Other Help Sites Associates Program Help Amazon Web Services Publisher and Vendor Help Ayuda en Español Get to Know Us Careers Investor Relations Press Releases Amazon and Our Planet Amazon in the Community Make Money with Us Sell on Amazon Become an Affiliate Advertise Your Products Independently Publish with Us › See all Let Us Help You Your Account Shipping Rates &amp; Policies Amazon Prime Returns Are Easy Manage Your Kindle Help Canada
 China
 France
 Germany
@@ -218,13 +170,4 @@ com A Happy Place To Shop For Toys Zappos Shoes &amp; Clothing   Conditions of 
 Privacy Notice
 Interest-Based Ads © 1996-2012, Amazon.
 com, Inc.
-or its affiliates #nav-prime-tooltip{ padding: 0 20px 2px 20px; background-color: white; font-family: arial,sans-serif; } .
-nav-npt-text-title{ font-size: 18px; font-weight: bold; line-height: 21px; color: #E47923; } .
-nav-npt-text-detail, a.
-nav-npt-a{ font-size: 12px; line-height: 14px; color: #333333; white-space: nowrap; margin: 2px 0px; } a.
-nav-npt-a { text-decoration: underline; } Watch.
-Read.
-Shop.
-Relax.
-Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping.
-&gt; Get started 
+or its affiliates   Sign in New customer? Start here.

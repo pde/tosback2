@@ -27,19 +27,14 @@ def format_tos(tos_data)
     tos_data = strip_tags(tos_data)
   rescue ArgumentError
     # puts "Argument error"
-    tos_data.encode!('UTF-8', 'UTF-8', :invalid => :replace)
+    tos_data.encode!('ISO-8859-1', :invalid => :replace)
+    tos_data.encode!('UTF-8', :invalid => :replace)    
     tos_data = strip_tags(tos_data)
   end
 
-  begin
-    tos_data.gsub!(/\s{2,}/," ")
-  rescue ArgumentError
-    tos_data.encode!('UTF-8', 'UTF-8', :invalid => :replace) # Some data needed this twice.. ?
-    tos_data.gsub!(/\s{2,}/," ") 
-  ensure
-    tos_data.gsub!(/\./,".\n")
-    tos_data.gsub!(/\n\s/,"\n")
-  end
+  tos_data.gsub!(/\s{2,}/," ")
+  tos_data.gsub!(/\./,".\n")
+  tos_data.gsub!(/\n\s/,"\n")
   
   return tos_data
 end

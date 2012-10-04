@@ -1,38 +1,5 @@
- .
-header960{position:relative;z-index:100;}
-.
-header960 #headSearch{position:absolute;top:35px;right:0px;width:482px;}
-.
-communitySearchBar{width:482px;height:30px;overflow:hidden;margin:auto;background:url(http://img.
-alibaba.
-com/images/eng/style/css_images/btm_searchbar.
-gif) repeat-x 0 -60px;}
-.
-communitySearchBar .
-refine-select{float:left;width:90px;margin-top:4px;padding:1px;}
-.
-communitySearchBar .
-query-input{float:left;width:280px;margin-top:4px;padding:3px;font:13px arial;background-color:transparent;border:none;}
-.
-communitySearchBar .
-barLeft{float:left;overflow:hidden;width:4px;height:30px;background:url(http://img.
-alibaba.
-com/images/eng/style/css_images/btm_searchbar.
-gif) no-repeat 0 0;}
-.
-communitySearchBar .
-barRight{float:left;overflow:hidden;width:3px;height:30px;background:url(http://img.
-alibaba.
-com/images/eng/style/css_images/btm_searchbar.
-gif) no-repeat 0 -120px;}
-.
-communitySearchBar .
-imageButtonA{float:left;width:99px;height:24px;margin-top:3px;padding:1px 4px;background:url(http://img.
-alibaba.
-com/images/eng/style/button/button_skin_d.
-gif) no-repeat 0 0;font-weight:bold;font-size:12px;border:none;}
-#helpLogo{ float:left; margin-left:-15px;} Alibaba.
-com Buy Newly Added Products How to Buy Safety &amp; Security Center Post Buying Leads Sell Newly Added Buying Leads How to Sell Display New Products Community Ask It! Forums Trade Shows My Alibaba Message Center Display New Products Post Buying Leads Download TradeManager Premium Memberships My Favorites Help Help Center Submit a Complaint Report IPR Infringement Suggestion Contact Us Homepage Safety &amp; Security #suggestion-bar{display:block;} Home &gt; Help &gt; Safety &amp; Security &gt; Others &gt; Privacy Policy Services &amp; Products Escrow Verification Services Inspection Service Fair Play Fund Safe Trading Class Account Security Safe Buying Safe Selling Fraud Case Studies Banned Paid Members Policies &amp; Rules Service Agreement Product Listing IPR Protection Fraud &amp; Dispute Others Privacy Policy (Updated on June 11th, 2012) This is the Privacy Policy governing your use of the Alibaba.
+ Alibaba.
+com Buy Newly Added Products How to Buy Safety &amp; Security Center Post Buying Leads Sell Newly Added Buying Leads How to Sell Display New Products Community Ask It! Forums Trade Shows My Alibaba Message Center Display New Products Post Buying Leads Download TradeManager Premium Memberships My Favorites Help Help Center Submit a Complaint Report IPR Infringement Suggestion Contact Us Homepage Safety &amp; Security Home &gt; Help &gt; Safety &amp; Security &gt; Others &gt; Privacy Policy Services &amp; Products Escrow Verification Services Inspection Service Fair Play Fund Safe Trading Class Account Security Safe Buying Safe Selling Fraud Case Studies Banned Paid Members Policies &amp; Rules Service Agreement Product Listing IPR Protection Fraud &amp; Dispute Others Privacy Policy (Updated on June 11th, 2012) This is the Privacy Policy governing your use of the Alibaba.
 com and Aliexpress.
 com sites (each a "Site") and the collection, use, transfer and processing of your Collected Information by Alibaba.
 com Hong Kong Limited and our affiliates (collectively referred to as "Alibaba.

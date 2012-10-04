@@ -1,54 +1,4 @@
- &lt;!-- .
-nav-sprite { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/BeaconSprite-US-01.
-_V394051227_.
-png);
-}
-.
-nav_pop_h { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-h-v2.
-_V137157005_.
-png);
-}
-.
-nav_pop_v { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-v-v2.
-_V137157005_.
-png);
-}
-.
-nav_ie6 .
-nav_pop_h { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-8bit-h.
-_V155961234_.
-png);
-}
-.
-nav_ie6 .
-nav_pop_v { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/01/gno/beacon/nav-pop-8bit-v.
-_V155961234_.
-png);
-}
-.
-nav-ajax-loading .
-nav-ajax-message { background: center center url(http://g-ecx.
-images-amazon.
-com/images/G/01/javascripts/lib/popover/images/snake.
-_V192571611_.
-gif) no-repeat;
-}
---&gt; #nav-prime-stripe{ min-width: 1000px; margin: 0px -8px; font-family: arial,sans-serif; } #nav-nps-header-outer{ height: 21px; width: 100%; background-color: #333333; text-align: center; } #nav-nps-header-inner{ width: 800px; margin: auto; padding-top: 1px; } #nav-nps-prime-logo{ height: 13px; width: 44px; background-position: -4px -4px; float: left; margin-top: 1px; } #nav-nps-headline{ margin-left: 10px; float:left; } .
-nav-nps-headline-text, #nav-nps-learn-more{ font-family: arial,sans-serif; font-size: 12px; color: #E4E4E4; white-space: nowrap; } #nav-nps-learn-more{ text-decoration: underline; } Millions of Amazon Prime members enjoy unlimited free two-day shipping, instant videos and free Kindle books.
-Learn More &lt;!-- .
-nav-searchfield-width { padding: 0 2px 0 43px; } #nav-search-in { width: 43px; } --&gt;&lt;!-- select#searchDropdownBox { visibility: visible; display: block; } div.
-nav-searchfield-width { padding-left: 200px; } span#nav-search-in { width: 200px; } #nav-search-in span#nav-search-in-content { display: none; }
---&gt; Amazon Your Amazon.
+ Amazon Your Amazon.
 com Today's Deals Gift Cards Help Shop by Department Search All All DepartmentsAmazon Instant VideoAppliancesApps for Android Arts, Crafts &amp; SewingAutomotiveBabyBeautyBooksCell Phones &amp; AccessoriesClothing &amp; AccessoriesCollectiblesComputersElectronicsGift Cards Store
 Grocery &amp; Gourmet FoodHealth &amp; Personal CareHome &amp; KitchenIndustrial &amp; ScientificJewelryKindle StoreMagazine SubscriptionsMovies &amp; TVMP3 MusicMusicMusical InstrumentsOffice ProductsPatio, Lawn &amp; GardenPet SuppliesShoesSoftwareSports &amp; OutdoorsTools &amp; Home ImprovementToys &amp; GamesVideo GamesWatches Hello.
 Sign in Your Account Cart 0 Wish List   Help &gt; Legal and Privacy Policies &gt; Privacy Notice Topics Legal and Privacy Policies Conditions of Use Your Amazon.
@@ -201,7 +151,7 @@ Co-branded and Joint Offerings Examples of businesses with which we offer joint 
 Information You Can Access Examples of information you can access easily at Amazon.
 com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
 Read our Privacy Notice here.
-Self-Service Track or Manage Purchases Manage Payment Options Returns and Replacements Change Name, E-mail, or Password Manage Address Book Manage Your Kindle Kindle Help Forum General Help Forum Contact Us Other Help Sites Associates Program Help Amazon Web Services Publisher and Vendor Help Ayuda en Español Get to Know Us Careers Investor Relations Press Releases Amazon and Our Planet Amazon in the Community Make Money with Us Sell on Amazon Become an Affiliate Advertise Your Products Independently Publish with Us › See all Let Us Help You Your Account Shipping Rates &amp; Policies Amazon Prime Returns Are Easy Manage Your Kindle Help Canada
+Self-Service Track or Manage Purchases Manage Payment Options Returns and Replacements Change Name, E-mail, or Password Manage Address Book Manage Your Kindle Support General Help Forum Kindle Help Forum Contact Us Other Help Sites Associates Program Help Amazon Web Services Publisher and Vendor Help Ayuda en Español Get to Know Us Careers Investor Relations Press Releases Amazon and Our Planet Amazon in the Community Make Money with Us Sell on Amazon Become an Affiliate Advertise Your Products Independently Publish with Us › See all Let Us Help You Your Account Shipping Rates &amp; Policies Amazon Prime Returns Are Easy Manage Your Kindle Help Canada
 China
 France
 Germany
@@ -220,50 +170,4 @@ com A Happy Place To Shop For Toys Zappos Shoes &amp; Clothing   Conditions of 
 Privacy Notice
 Interest-Based Ads © 1996-2012, Amazon.
 com, Inc.
-or its affiliates .
-nav-nps-sprite-active{ background: url(http://g-ecx.
-images-amazon.
-com/images/G/01/marketing/prime/ev/Sprite_Stripe.
-_V389723927_.
-png); } .
-IE6 .
-nav-nps-sprite-active{ background: url(http://g-ecx.
-images-amazon.
-com/images/G/01/marketing/prime/ev/Sprite_Stripe_IE6.
-_V389722625_.
-png); } #nav-prime-stripe-btf{ height: 145px; width: 100%; display: none; overflow: hidden; position: relative; border-bottom: 1px solid #333333; } #nav-nps-content-inner{ position: relative; } .
-nav-nps-content-container, #nav-nps-close-container{ height: 145px; position: relative; float: left; background-position: -4px -345px; background-repeat:repeat-x; } .
-IE6 .
-nav-nps-content-container, .
-IE6 #nav-nps-close-container{ background: white; } #nav-nps-close-container{ width: 30px; } .
-nav-nps-image-unit{ margin-top: 15px; margin-bottom: 5px; width: 185px; float: left; text-align: center; } .
-nav-nps-image-inner{ height: 98px; width: 106px; margin: auto; cursor: pointer; } #nav-nps-image-video{ background-position: -4px -21px; } #nav-nps-image-shipping{ background-position: -4px -123px; } #nav-nps-image-kindle{ background-position: -4px -225px; } .
-nav-nps-image-border-left{ border-left: 1px solid #E0E0E0; } .
-nav-nps-image-caption{ font-family: arial,sans-serif; font-size: 11px; font-weight: bold; color: #333333; text-align: center; margin-top: 7px; } #nav-nps-video-container .
-nav-nps-image-caption{ display: none; } .
-nav-nps-text-unit{ margin-top: 20px; margin-bottom: 5px; float: left; } .
-nav-nps-text-title-small{ font-family: arial,sans-serif; font-size: 14px; font-weight: bold; color: #FF9900; margin: 0px 1px; } .
-nav-nps-text-title{ font-family: arial,sans-serif; font-size: 28px; color: #FF9900; margin: 0px 1px; } .
-nav-nps-text-detail, a.
-nav-nps-text-detail-a{ font-family: arial,sans-serif; font-size: 13px; color: #333333; margin: 0px 1px; } a.
-nav-nps-text-detail-a{ text-decoration: underline; } #nav-nps-image-close{ height: 14px; width: 14px; margin: 8px 8px; background-position: -4px -327px; background-repeat: no-repeat; cursor: pointer; } .
-nav-nps-clickable{ cursor: pointer; } Instant Videos You can watch Prime Instant Videos Watch over 25,000 movies and TV episodes Get started Two-Day Shipping You can get Free Two-Day Shipping Get fast, free shipping on over 15 million items Get started Kindle Books You can read with Kindle Owners' Lending Library Borrow from over 180,000 titles for free Get started .
-sign-in-tooltip-beak { background-image: url("http://g-ecx.
-images-amazon.
-com/images/G/01/javascripts/lib/popover/images/light/sprite-vertical-popover-arrow.
-_V186877868_.
-png"); overflow: hidden; display: inline-block; background-repeat: repeat; background-attachment: scroll; background-color: transparent; background-position: -385px 0px; height: 16px; width: 30px; position: absolute; left: 92px; top: -34px;
-} #sign-in-tooltip-anchor-point { display: none; font-family: Arial, Verdana, Helvetica, sans-serif;
-} #sign-in-tooltip-body { display: none;
-} .
-sign-in-tooltip-new-customer { color: #333333; font-size: 11px; margin-top: 5px; text-align: center;
-} a.
-sign-in-tooltip-link { cursor: pointer; font-size: 11px;
-} a.
-sign-in-tooltip-link,
-a.
-sign-in-tooltip-link:link { color: #004B91; text-decoration: none;
-} a.
-sign-in-tooltip-link:active, a.
-sign-in-tooltip-link:hover { color: #E47911; text-decoration: underline;
-}   Sign in New customer? Start here.
+or its affiliates 

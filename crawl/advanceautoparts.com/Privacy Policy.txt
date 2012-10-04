@@ -1,16 +1,4 @@
- #global_top_banner { background: url(/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/3_03_global_top_banner_bg.
-jpg) repeat-x;
-text-align:center;height:34px; }
-#global_inner_banner {
-width:990px;
-height:34px;
-margin:0 auto;
-}
-#global_top_blank {
-height: 34px;
-margin-bottom: 0px;
-text-align: center;
-} Your Store: Find       Your Account: Sign In / Create Account item(s)
+ Your Store: Find       Your Account: Sign In / Create Account item(s)
 totaling $ Checkout   Help Resources &amp; Video Sign-up for Special Offers Sign-Up     Find a Store Find     Chat Live   Shop by Category Air, Fuel, Emission &amp; Exhaust Air Filters &amp; Related Carburetors &amp; Intake Manifolds Emission Exhaust Fuel &amp; Oil Filters Fuel Injection System Fuel Pumps &amp; Tanks Nitrous &amp; CO2 Systems Oxygen (O2) Sensors Turbos &amp; Superchargers   Accessories, Body &amp; Wipers Appearance, Wash &amp; Wax Auto Body Parts Body Styling &amp; Dress-Up Car Covers &amp; Body Protection Paint &amp; Body Repair Roadside Safety, Locks &amp; Alarms Seasonal Accessories Storage &amp; Cargo Windshield, Doors &amp; Windows   Batteries, Electrical &amp; Wiring Air Bag System &amp; Related Alternators, Generators &amp; Related Batteries Battery Components &amp; Tools Charging System Electrical Connectors &amp; Sockets Lights, Flasher Units, Fuses Relays, Switches &amp; Sensors Starters &amp; Related   Brakes, Steering &amp; Suspension ABS Components Brake Calipers &amp; Related Brake Drums &amp; Rotors Brake Hardware &amp; Components Brake Pads &amp; Shoes Power Steering Hoses &amp; Pumps Shocks &amp; Struts Steering, Gears &amp; Pumps Suspension, Springs &amp; Related Wheel &amp; Tire Parts   Cooling &amp; Heating AC Accumulators &amp; Driers AC Clutches &amp; Compressors AC Condensers &amp; Evaporators AC Tools, Hardware &amp; Adapters Cooling &amp; Water Pumps Cooling Fans, Clutches &amp; Motors Fluids &amp; Chemicals Heater Motors &amp; Cores Radiators, Coolers &amp; Related Thermostats, Gaskets &amp; Housing   Electronics &amp; Navigation Camera &amp; Cell Phone Accessories Car Audio &amp; Video Gauges &amp; Components Instrument Panel &amp; Dash Navigation Radar &amp; Laser Detection   Engines &amp; Ignition Cylinder Block Components Engine Components Engine Electronics Engine Gaskets &amp; Seals Ignition &amp; Tune-Up Motor Oil &amp; Additives Valve Train Components   Tools, Fluids &amp; Garage Fluids &amp; Chemicals Gaskets, Sealers, Grease &amp; Lube Hand Tools Hardware, Belts &amp; Hoses Motor Oil &amp; Additives Repair Manuals &amp; Diagrams Shop Equipment Specialty Tools Storage &amp; Containers Workwear &amp; Gloves   Transmission &amp; Drivetrain Automatic Transmissions Cruise Control CV Axles &amp; Parts Differential Drive Shaft Fluids &amp; Chemicals Manual Transmissions Transfer Case Parts Transmission Gaskets Wheel Bearings, Seals &amp; Related   All Vehicles
 ----------------
 + Add a Vehicle Search   Other Ways to Shop Routine Maintenance Belts &amp; Hoses Filters Fluids &amp; Chemicals Motor Oil &amp; Additives Oil Filters Shop Apparel &amp; Novelty Apparel Convenience Accessories Logo Items Instructional Media Toys Shop by Brand Shop Performance Parts Air, Fuel, Emission &amp; Exhaust Auto Body, Protection &amp; Styling Batteries, Electrical &amp; Wiring Brakes, Steering &amp; Suspension Cooling &amp; Heating Cooling &amp; Water Pumps Engine Electronics Engines &amp; Ignition Gauges &amp; Components Tools, Fluids &amp; Garage Transmission &amp; Drivetrain Other Vehicles Lawn &amp; Garden Alternators, Generators &amp; Related Batteries Belts Cables &amp; Trimmer Lines Filters Garden Hoses Spark Plugs Marine Batteries Boat Covers Engines &amp; Engine Parts Gaskets, Sealers, Grease &amp; Lube Motorcycle &amp; ATV Alternators, Generators &amp; Related Batteries Brakes Bulbs Covers, Baskets &amp; Bags Exhaust Filters Helmets &amp; Accessories Programmers &amp; Downloaders Spark Plugs Your Vehicles ()   See which products are compatible as you search &amp; automatically receive valuable maintenance and service alerts.
@@ -25,12 +13,7 @@ Vehicle Model
 Select Model 4.
 Vehicle Engine
 Select Engine Save Vehicle Manage Your Vehicles Manage all of your saved vehicles in one convenient location Your Saved Vehicles
-You currently have 0 saved vehicles Vehicle Summary Edit Vehicle Vehicle Summary  Delete This Vehicle   .
-motorcycle-espot {padding: 35px 0; font-size: 12px;}
-.
-motorcycle-espot a {color:#333; text-decoration:underline;}
-.
-motorcycle-espot a:hover {color:#CF1D05;} Visit our Motorcycle Maintenance Center for our full assortment of motorcycle parts and accessories Vehicle Summary  Delete This Vehicle   Sorry, due to technical difficulties we aren't able to access your Online Garage at the moment.
+You currently have 0 saved vehicles Vehicle Summary Edit Vehicle Vehicle Summary  Delete This Vehicle   Visit our Motorcycle Maintenance Center for our full assortment of motorcycle parts and accessories Vehicle Summary  Delete This Vehicle   Sorry, due to technical difficulties we aren't able to access your Online Garage at the moment.
 We are working hard to resolve this—please check back soon.
 Sorry, but it looks like you're not currently registered with our DriverSide service.
 Please click here to register now.
@@ -44,12 +27,7 @@ Please click here to login again.
 Sorry, we don't seem to recognize your user account right now and cannot retrieve your vehicle summary.
 Please click here to verify and/or update your personal information, and then click the "Update" button at the bottom of the form.
 Vehicle Mileage: Miles Save   Recall Notice(s):  
-Recall Notice(s) - Sign Up for Recall Alerts View full vehicle information in Your Garage   .
-sign-in-espot {text-align:right;}
-.
-sign-in-espot h3 a {color:#333; text-decoration:underline;}
-.
-sign-in-espot h3 a:hover {color:#CF1D05;} Sign-in or create an Online Garage to view a vehicle summary Service Reminders Scheduled Service   Brake Service   Tire Rotation   Tire Replacement   Edit Vehicle Info Close :  
+Recall Notice(s) - Sign Up for Recall Alerts View full vehicle information in Your Garage   Sign-in or create an Online Garage to view a vehicle summary Service Reminders Scheduled Service   Brake Service   Tire Rotation   Tire Replacement   Edit Vehicle Info Close :  
   Home   ›   Help   ›   Customer Privacy Policy   Customer Privacy Policy At Advance Auto Parts, Inc.
 , one of our primary – and most important – goals is to maintain and ensure the security of our customer data.
 We understand that you may have concerns regarding the privacy of your personal information.
@@ -197,8 +175,8 @@ We encourage you to periodically review this page for the latest information on 
   Contacting Us If there are any questions regarding this privacy policy you may contact us using the information below:   Advance Auto Parts, Inc.
 5008 Airport Road Roanoke, VA 24012   1-877-ADVANCE (238-2623) webcare@advanceautoparts.
 com           Service is our best part.
-® Find out more See Details In a hurry? Buy online &amp; pick up in store See Details Find a Store Near You Enter your zip code: Browse Our Latest Flyer     #footer-area {margin-top:0px;} Shop Advance Auto Parts Accessories Body &amp; Wipers Air, Fuel, Emission &amp; Exhaust Batteries, Electrical &amp; Wiring Brakes, Steering &amp; Suspension Cooling &amp; Heating Electronics &amp; Navigation Engines &amp; Ignition Tools, Fluids &amp; Garage Transmission &amp; Drivetrain Gift Cards Video Gallery Replacement Parts Customer Care IMPORTANT: Recall Information Contact Us Help DIY Garage - the Advance auto blog Store Locator In-Store Pickup In-Store Services Shipping Information Track Your Order Forgot Your Password Rebates Call us at 1-877-ADVANCE (238-2623) Corporate Information About Us Events and Promotions Press Investor Relations Privacy Policy Your California Privacy Rights Terms and Conditions Career Opportunities Affiliate Program Site Map MSDS We accept     Check out Advance Auto Parts on:  
-  © 2012 Advance Auto Parts Powered by CrossView™  :   #footerlinks { padding:5px 15px 5px 0; } View vehicle parts by:
+® Find out more See Details In a hurry? Buy online &amp; pick up in store See Details Find a Store Near You Enter your zip code: Browse Our Latest Flyer     Shop Advance Auto Parts Accessories Body &amp; Wipers Air, Fuel, Emission &amp; Exhaust Batteries, Electrical &amp; Wiring Brakes, Steering &amp; Suspension Cooling &amp; Heating Electronics &amp; Navigation Engines &amp; Ignition Tools, Fluids &amp; Garage Transmission &amp; Drivetrain Gift Cards Video Gallery Replacement Parts Customer Care IMPORTANT: Recall Information Contact Us Help DIY Garage - the Advance auto blog Store Locator In-Store Pickup In-Store Services Shipping Information Track Your Order Forgot Your Password Rebates Call us at 1-877-ADVANCE (238-2623) Corporate Information About Us Events and Promotions Press Investor Relations Privacy Policy Your California Privacy Rights Terms and Conditions Career Opportunities Affiliate Program Site Map MSDS We accept     Check out Advance Auto Parts on:  
+  © 2012 Advance Auto Parts Powered by CrossView™  :   View vehicle parts by:
 Title | Brand | Price |
 Customer Rating | Customer Interest | Popularity | Best Sellers
 View reviews by:
