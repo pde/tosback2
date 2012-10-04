@@ -19,7 +19,7 @@ end
 
 def git_an_array
   files = []
-  git.status.changed.each {|filename| files << filename[0]}
+  $git.status.changed.each {|filename| files << filename[0]}
   return files
 end
 
