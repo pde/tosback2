@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
 
-rules_path = "../rules_test/"
+rules_path = "../rules/"
 results_path = "../crawl/"
 $log_dir = "../logs/"
 
