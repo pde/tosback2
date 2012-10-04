@@ -1,7 +1,7 @@
 require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
-require 'grit'
+# require 'grit'
 
 rules_path = "../rules_test/"
 results_path = "../crawl/"
@@ -17,12 +17,14 @@ def log_stuff(message,logfile)
 end
 
 def git_modified
-  git = Grit::Repo.new("../")
+  # git = Grit::Repo.new("../")
+  git = IO.popen("git status")
 
   modified_file = File.open("#{$log_dir}#{$modified_log}", "w")
   modified_file.puts "These files were modified since the last commit:\n\n"
-  git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
-  modified.close
+  # git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
+  git.each {|line| modified_file.puts line}
+  modified_file.close
 end
 
 def strip_tags(data)
