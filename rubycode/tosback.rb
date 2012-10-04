@@ -12,23 +12,34 @@ def log_errors(error)
   err_log.close
 end
 
+def strip_tags(data)
+  data = Sanitize.clean(data, :remove_contents => ["script", "style"])
+  return data
+end
+
 def format_tos(tos_data)
   begin
-  tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
+  tos_data = strip_tags(tos_data)
   # puts "worked"
   rescue Encoding::CompatibilityError
     # puts "rescued"
     tos_data.encode!("UTF-8", undef: :replace)
-    tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
+    tos_data = strip_tags(tos_data)
   rescue ArgumentError
     # puts "Argument error"
     tos_data.encode!('UTF-8', 'UTF-8', :invalid => :replace)
-    tos_data = Sanitize.clean(tos_data, :remove_contents => ["script"])
+    tos_data = strip_tags(tos_data)
   end
 
-  tos_data.gsub!(/\s{2,}/," ")
-  tos_data.gsub!(/\./,".\n")
-  tos_data.gsub!(/\n\s/,"\n")
+  begin
+    tos_data.gsub!(/\s{2,}/," ")
+  rescue ArgumentError
+    tos_data.encode!('UTF-8', 'UTF-8', :invalid => :replace) # Some data needed this twice.. ?
+    tos_data.gsub!(/\s{2,}/," ") 
+  ensure
+    tos_data.gsub!(/\./,".\n")
+    tos_data.gsub!(/\n\s/,"\n")
+  end
   
   return tos_data
 end

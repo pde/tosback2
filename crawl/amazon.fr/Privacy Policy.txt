@@ -1,101 +1,60 @@
  &lt;!--
 .
-navSprite,
-.
-navSaJs li.
-navSaMenuItem { background-image: url(http://g-ecx.
+nav-sprite { background-image: url(http://g-ecx.
 images-amazon.
-com/images/G/08/gno/images/orangeBlue/navPackedSprites-FR-15.
-_V202471902_.
+com/images/G/08/gno/beacon/BeaconSprite-FR-02.
+_V393500403_.
 png);
-} .
-navSpritePopoverH { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-h2.
-_V172306001_.
-gif);
-} .
-navSpritePopoverV { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-v2.
-_V172306001_.
-gif);
-} .
-nav_popover .
-header .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-v2.
-_V172306001_.
-gif) -14px 0px no-repeat;
-} .
-nav_popover .
-header .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-h2.
-_V172306001_.
-gif) 0px -14px no-repeat;
-} .
-nav_popover .
-header .
-c { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-h2.
-_V172306001_.
-gif) 0px 0px repeat-x;
-} .
-nav_popover .
-footer .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-h2.
-_V172306001_.
-gif) 0px -21px no-repeat;
-} .
-nav_popover .
-footer .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-v2.
-_V172306001_.
-gif) -21px 0px no-repeat;
-} .
-nav_popover .
-footer .
-c { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-h2.
-_V172306001_.
-gif) 0px -7px repeat-x;
-} .
-nav_popover .
-body .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-v2.
-_V172306001_.
-gif) 0px 0px repeat-y;
-} .
-nav_popover .
-body .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/gno/popover/sprites-v2.
-_V172306001_.
-gif) -7px 0px repeat-y;
-} #navCartButton a.
-count { background: url(http://g-ecx.
-images-amazon.
-com/images/G/08/x-locale/common/transparent-pixel.
-_V192553961_.
-gif) 0px 0px no-repeat;
 }
---&gt; amazon.
-fr Bonjour.
-Identifiez-vous pour découvrir nos conseils personnalisés.
-Nouveau client ? Commencez ici.
-  Chez vous  |  Promotions  |  Chèques-cadeaux  |  Listes et idées cadeaux   Votre compte  |  Aide Toutes nos boutiques Rechercher Toutes nos boutiquesAnimalerieBijouxBoutique KindleBricolageBébés &amp; PuéricultureChaussures et accessoiresCuisine &amp; MaisonDVD &amp; Blu-rayFournitures de bureauGros électroménagerInformatiqueInstruments de musique &amp; SonoJeux et JouetsJeux vidéoLivres anglais et étrangersLivres en françaisLogicielsLuminaires et EclairageMontresMusiqueMusique classiqueMusique MP3Parfum et BeautéPhoto, Image, Son et GPSSanté et Soins du corpsSports et LoisirsVêtements et accessoires     Panier Panier Liste d'envies   Aide &gt; Sécurité, confidentialité et accessibilité &gt; Protection de vos informations personnelles Rubriques Protection de vos informations personnelles Systèmes de protection de la vie privée Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Autres sujets d'aide Livraison Retours Passer une commande Paiement Votre compte Aide Kindle Aide Cloud Drive d'Amazon Aide Amazon App-Shop pour Android Téléchargements Amazon MP3 Marketplace Amazon.
+.
+nav_pop_h { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/08/gno/beacon/nav-pop-h-v2.
+_V147907146_.
+png);
+}
+.
+nav_pop_v { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/08/gno/beacon/nav-pop-v-v2.
+_V147907141_.
+png);
+}
+.
+nav_ie6 .
+nav_pop_h { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/08/gno/beacon/nav-pop-8bit-h.
+_V147907144_.
+png);
+}
+.
+nav_ie6 .
+nav_pop_v { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/08/gno/beacon/nav-pop-8bit-v.
+_V147907147_.
+png);
+}
+.
+nav-ajax-loading .
+nav-ajax-message { background: center center url(http://g-ecx.
+images-amazon.
+com/images/G/08/javascripts/lib/popover/images/snake.
+_V192199246_.
+gif) no-repeat;
+}
+.
+iss-sprite { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/08/nav2/images/gui/beacon-sprite.
+png);
+}
+--&gt;&lt;!-- .
+nav-searchfield-width { padding: 0 2px 0 135px; } #nav-search-in { width: 135px; } --&gt;&lt;!-- select#searchDropdownBox { visibility: visible; display: block; } div.
+nav-searchfield-width { padding-left: 200px; } span#nav-search-in { width: 200px; } #nav-search-in span#nav-search-in-content { display: none; }
+--&gt; Amazon Chez vous Promotions Chèques-cadeaux Aide Parcourir les boutiques Rechercher Toutes nos boutiques Toutes nos boutiquesAnimalerieBijouxBoutique KindleBricolageBébés &amp; PuéricultureChaussures et accessoiresCuisine &amp; MaisonDVD &amp; Blu-rayFournitures de bureauGros électroménagerInformatiqueInstruments de musique &amp; SonoJeux et JouetsJeux vidéoLivres anglais et étrangersLivres en françaisLogicielsLuminaires et EclairageMontresMusiqueMusique classiqueMusique MP3Parfum et BeautéPhoto, Image, Son et GPSSanté et Soins du corpsSports et LoisirsVêtements et accessoires Bonjour.
+Identifiez-vous Votre compte Panier 0 Liste d'envies   Aide &gt; Sécurité, confidentialité et accessibilité &gt; Protection de vos informations personnelles Rubriques Protection de vos informations personnelles Systèmes de protection de la vie privée Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Autres sujets d'aide Livraison Retours Passer une commande Paiement Votre compte Aide Kindle Aide Cloud Drive d'Amazon Aide Amazon App-Shop pour Android Téléchargements Amazon MP3 Marketplace Amazon.
 fr Guides Vendeurs Nos services Sécurité, confidentialité et accessibilité Help in English Découverte du site et FAQ Rechercher dans les pages d'aide : Protection de vos informations personnelles Dernière mise à jour le 25 septembre 2012 Pour consulter ce qui a été modifié, veuillez cliquer ici.
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de votre confiance pour les traiter scrupuleusement, avec précaution, et à bon escient.
 En visitant le site Amazon.

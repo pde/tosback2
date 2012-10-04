@@ -1,100 +1,52 @@
- &lt;!--
-.
-navSprite,
-.
-navSaJs li.
-navSaMenuItem { background-image: url(http://g-ecx.
+ &lt;!-- .
+nav-sprite { background-image: url(http://g-ecx.
 images-amazon.
-com/images/G/03/gno/images/orangeBlue/navPackedSprites-DE-15.
-_V202471931_.
+com/images/G/03/gno/beacon/BeaconSprite-DE-02.
+_V393500393_.
 png);
-} .
-navSpritePopoverH { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-h2.
-_V172305996_.
-gif);
-} .
-navSpritePopoverV { background-image: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-v2.
-_V172305996_.
-gif);
-} .
-nav_popover .
-header .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-v2.
-_V172305996_.
-gif) -14px 0px no-repeat;
-} .
-nav_popover .
-header .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-h2.
-_V172305996_.
-gif) 0px -14px no-repeat;
-} .
-nav_popover .
-header .
-c { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-h2.
-_V172305996_.
-gif) 0px 0px repeat-x;
-} .
-nav_popover .
-footer .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-h2.
-_V172305996_.
-gif) 0px -21px no-repeat;
-} .
-nav_popover .
-footer .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-v2.
-_V172305996_.
-gif) -21px 0px no-repeat;
-} .
-nav_popover .
-footer .
-c { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-h2.
-_V172305996_.
-gif) 0px -7px repeat-x;
-} .
-nav_popover .
-body .
-l { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-v2.
-_V172305996_.
-gif) 0px 0px repeat-y;
-} .
-nav_popover .
-body .
-r { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/gno/popover/sprites-v2.
-_V172305996_.
-gif) -7px 0px repeat-y;
-} #navCartButton a.
-count { background: url(http://g-ecx.
-images-amazon.
-com/images/G/03/x-locale/common/transparent-pixel.
-_V386942701_.
-gif) 0px 0px no-repeat;
 }
---&gt; amazon.
-de Hallo! Melden Sie sich an, um persönliche Empfehlungen zu erhalten.
-Neukunde? Bitte hier starten.
-  Student? 1 Jahr Versandkosten sparen Mein Amazon  |  Angebote  |  Wunschzettel  |  Gutscheine  |  Geschenke   Mein Konto  |  Hilfe  |  Impressum Alle Kategorien ansehen Suche Alle KategorienAutoBabyBaumarktBekleidungBeleuchtungBücherBürobedarf &amp; SchreibwarenComputer &amp; ZubehörDrogerie &amp; KörperpflegeElektro-GroßgeräteElektronik &amp; FotoEnglische BücherFilme &amp; TVGamesGartenHaustierKamera &amp; FotoKindle-ShopKlassikKüche &amp; HaushaltLebensmittel &amp; GetränkeMotorradMP3 MusikMusikMusikinstrumente &amp; DJ-EquipmentParfümerie &amp; KosmetikSchmuckSchuhe &amp; HandtaschenSoftwareSpielzeugSport &amp; FreizeitUhrenZeitschriften     Einkaufswagen Einkaufswagen   Hilfe &gt; Sicherheitsgarantie und Geschäftsinformationen &gt; Datenschutzerklärung Themen Sicherheitsgarantie und Geschäftsinformationen Datenschutzerklärung Änderungen an der Datenschutzerklärung vom 20.
+.
+nav_pop_h { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/03/gno/beacon/nav-pop-h-v2.
+_V147907467_.
+png);
+}
+.
+nav_pop_v { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/03/gno/beacon/nav-pop-v-v2.
+_V147907466_.
+png);
+}
+.
+nav_ie6 .
+nav_pop_h { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/03/gno/beacon/nav-pop-8bit-h.
+_V147907465_.
+png);
+}
+.
+nav_ie6 .
+nav_pop_v { background-image: url(http://g-ecx.
+images-amazon.
+com/images/G/03/gno/beacon/nav-pop-8bit-v.
+_V147907464_.
+png);
+}
+.
+nav-ajax-loading .
+nav-ajax-message { background: center center url(http://g-ecx.
+images-amazon.
+com/images/G/03/javascripts/lib/popover/images/snake.
+_V192194539_.
+gif) no-repeat;
+}
+--&gt;&lt;!-- .
+nav-searchfield-width { padding: 0 2px 0 49px; } #nav-search-in { width: 49px; } --&gt;&lt;!-- select#searchDropdownBox { visibility: visible; display: block; } div.
+nav-searchfield-width { padding-left: 200px; } span#nav-search-in { width: 200px; } #nav-search-in span#nav-search-in-content { display: none; }
+--&gt; Amazon Mein Amazon Angebote Gutscheine Hilfe Impressum Student? 1 Jahr Versandkosten sparen Alle Kategorien Suche Alle Alle KategorienAutoBabyBaumarktBekleidungBeleuchtungBücherBürobedarf &amp; SchreibwarenComputer &amp; ZubehörDrogerie &amp; KörperpflegeElektro-GroßgeräteElektronik &amp; FotoEnglische BücherFilme &amp; TVGamesGartenHaustierKamera &amp; FotoKindle-ShopKlassikKüche &amp; HaushaltLebensmittel &amp; GetränkeMotorradMP3 MusikMusikMusikinstrumente &amp; DJ-EquipmentParfümerie &amp; KosmetikSchmuckSchuhe &amp; HandtaschenSoftwareSpielzeugSport &amp; FreizeitUhrenZeitschriften Hallo! Anmelden Mein Konto Einkaufs- wagen 0 Wunsch- zettel   Hilfe &gt; Sicherheitsgarantie und Geschäftsinformationen &gt; Datenschutzerklärung Themen Sicherheitsgarantie und Geschäftsinformationen Datenschutzerklärung Änderungen an der Datenschutzerklärung vom 20.
 September 2010 Änderungen an der Datenschutzerklärung vom 11.
 Februar 2009 Änderungen an der Datenschutzerklärung vom 18.
 September 2008 Änderungen an der Datenschutzerklärung vom 20.
