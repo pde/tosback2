@@ -1,3 +1,22 @@
+This is a ruby implementation of TOSBack! Designed to scrape the Privacy Policies and Terms of Service agreements from sites defined in the rules folder. 
+
+The log files in "logs" should give info on when the script was last run, and if one of the rule's URLs needs to be updated. Typically, tosback.rb will grab the body of a URL and try to strip away the html before storing the policy, but if a site is coming back as modified every time the script runs, you can now add an xpath attribute to the url in the xml data to pinpoint the TOS data on the page:
+
+Here's an example:
+
+ <docname name="Privacy Policy">
+   <url name="http://www.500px.com/privacy" xpath="//div[@id='terms']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+
+Now, tosback.rb should only grab the content we want from that URL! Hooray!
+
+
+Original README below:
+
+---
+
 This is TOSBack version 2, a clean redesign & reimplementation of EFF's
 TOSBack project.
 
