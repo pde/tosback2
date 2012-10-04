@@ -9,7 +9,6 @@ $log_dir = "../logs/"
 $error_log = "errors.log"
 $run_log = "run.log"
 $modified_log = "modified.log"
-$git = Grit::Repo.new("../")
 
 def log_stuff(message,logfile)
   err_log = File.open("#{$log_dir}#{logfile}", "a")
@@ -19,7 +18,8 @@ end
 
 def git_an_array
   files = []
-  $git.status.changed.each {|filename| files << filename[0]}
+  git = Grit::Repo.new("../")
+  git.status.changed.each {|filename| files << filename[0]}
   return files
 end
 
