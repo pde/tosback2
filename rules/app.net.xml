@@ -1,0 +1,12 @@
+<sitename name="app.net">
+ <docname name="Terms of Service">
+   <url name="https://alpha.app.net/legal/terms/" xpath="//div[contains(@class, 'legal-body')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://alpha.app.net/legal/privacy/" xpath="//div[contains(@class, 'legal-body')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
