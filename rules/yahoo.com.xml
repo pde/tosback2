@@ -4,4 +4,14 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
+ <docname name="Terms of Service">
+   <url name="http://www.yahoo.com/r/ts">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Community Guidelines">
+   <url name="http://docs.yahoo.com/info/guidelines/community.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
 </sitename>

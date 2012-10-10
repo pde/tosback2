@@ -1,0 +1,12 @@
+<sitename name="owncube.com">
+ <docname name="Privacy">
+   <url name="https://owncube.com/privacy.php">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms">
+   <url name="https://owncube.com/terms.php">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
