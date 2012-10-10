@@ -28,7 +28,7 @@ def git_modified
 end
 
 def strip_tags(data)
-  data = Sanitize.clean(data, :remove_contents => ["script", "style"]) # strips all html tags and removes content between <script> and <style> tags
+  data = Sanitize.clean(data, :remove_contents => ["script", "style"], :elements => %w[ abbr b blockquote br cite code dd dfn dl dt em i li ol p q s small strike strong sub sup u ul ], :whitespace_elements => []) # strips non-style html tags and removes content between <script> and <style> tags
   return data
 end
 
@@ -48,8 +48,9 @@ def format_tos(tos_data)
   end
 
   tos_data.gsub!(/\s{2,}/," ") # changes big gaps of space to a single space
-  tos_data.gsub!(/\./,".\n") # adds new line char after all "."'s
+  tos_data.gsub!(/\.\s|;\s/,".\n") # adds new line char after all ". "'s
   tos_data.gsub!(/\n\s/,"\n") # removes single spaces at the beginning of lines
+  tos_data.gsub!(/>\s*</,">\n<") # newline between tags
   
   return tos_data
 end
