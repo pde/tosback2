@@ -1,4 +1,31 @@
- Wholesale Customer Support About Us My Account Cart Search Residential Company Information Investor Relations Community Press Room Careers Governance Legal Small - Medium Business Large Business Qwest's Acceptable Use Policy Qwest has formulated this Acceptable Use Policy ("AUP") in order to
+ <ul>
+<li>Wholesale</li>
+<li>Customer Support</li>
+<li>About Us</li>
+<li>My Account</li>
+</ul>
+<ul>
+<li> Cart </li>
+<li> Search </li>
+</ul>
+<ul>
+<li>
+Residential </li>
+<li>
+<ul>
+<li>Company Information</li>
+<li>Investor Relations</li>
+<li>Community</li>
+<li>Press Room</li>
+<li>Careers</li>
+<li>Governance</li>
+<li>Legal</li>
+</ul>
+</li>
+<li>Small - Medium Business</li>
+<li>Large Business</li>
+</ul> Qwest's Acceptable Use Policy <p>
+Qwest has formulated this Acceptable Use Policy ("AUP") in order to
 encourage the responsible use of Qwest's networks, systems, services,
 web sites and products (collectively, the "Qwest Network and Services")
 by our customers and other users of the Qwest Network and Services
@@ -11,16 +38,17 @@ reserves the right to modify this AUP in its discretion at any time.
 Such modifications will be effective when posted.
 Any use of the Qwest
 Network and Services after such modification shall constitute acceptance
-of such modification.
-Suspension; Termination.
-Any User which Qwest determines to have
+of such modification.</p>
+<p>
+<b>Suspension.
+Termination.</b> Any User which Qwest determines to have
 violated any element of this AUP may be subject to a suspension or
 termination of service.
 Qwest will suspend service for violation of the
 AUP on the most limited basis as Qwest determines is reasonably
 practical under the circumstances to address the underlying violation.
 Qwest will attempt to notify Customer prior to suspending service for
-violation of the AUP (which may be via email or any other notification);
+violation of the AUP (which may be via email or any other notification).
 provided, however, Qwest may suspend service without notice if Qwest
 becomes aware of a violation of any applicable law or regulation or
 activity, including but not limited to a violation of the AUP, that
@@ -34,30 +62,35 @@ determines to be appropriate under the circumstances to eliminate or
 preclude repeat violations, and Qwest shall not be liable for any
 damages of any nature suffered by any Customer, User, or any third party
 resulting in whole or in part from Qwest's exercise of its rights under
-this AUP.
-Prohibited Conduct.
-In General.
-The Qwest Network and Services must be used in a
+this AUP.</p>
+<p>
+<b>Prohibited Conduct.</b>
+</p>
+<ul>
+<li>
+<b>In General.</b> The Qwest Network and Services must be used in a
 manner that is consistent with the intended purpose of the Qwest Network
 and Services and may be used only for lawful purposes.
 Users shall not
 use the Qwest Network and Services in order to transmit, distribute or
 store material: (a) in violation of any applicable law or regulation,
-including export or encryption laws or regulations; (b) that may
-adversely affect the Qwest Network and Services or other Qwest customers; or (c) that may expose Qwest to criminal or civil liability.
+including export or encryption laws or regulations.
+(b) that may
+adversely affect the Qwest Network and Services or other Qwest customers.
+or (c) that may expose Qwest to criminal or civil liability.
 Users are
 prohibited from facilitating the violation of any part of this AUP or
 another provider's AUP, including, but not limited to transmitting,
 distributing, or otherwise making available any product or service that
-violates this AUP or another provider's AUP.
-Inappropriate Content.
-Users shall not use the Qwest Network and
+violates this AUP or another provider's AUP.</li>
+<li>
+<b>Inappropriate Content.</b> Users shall not use the Qwest Network and
 Services to transmit, distribute or store material that is
 inappropriate, as reasonably determined by Qwest, or material that is
 obscene (including child pornography), defamatory, libelous,
-threatening, abusive, hateful, or excessively violent.
-Intellectual Property.
-Material accessible through the Qwest
+threatening, abusive, hateful, or excessively violent.</li>
+<li>
+<b>Intellectual Property.</b> Material accessible through the Qwest
 Network and Services may be subject to protection under privacy,
 publicity, or other personal rights and Intellectual Property rights,
 including but not limited to, copyrights and laws protecting patents,
@@ -67,17 +100,17 @@ not use the Qwest Network and Services in any manner that would
 infringe, dilute, misappropriate, or otherwise violate any such rights.
 If you use a domain name in connection with any of the Qwest Network and
 Services, you must not use that domain name in violation of the
-trademark, service mark, or other rights of any third party.
-Harmful Content.
-Users shall not use the Qwest Network and
+trademark, service mark, or other rights of any third party.</li>
+<li>
+<b>Harmful Content.</b> Users shall not use the Qwest Network and
 Services to transmit, distribute or store material that may be harmful
 to or interfere with the Qwest Network and Services or any third party's
 networks, systems, services, or web sites.
 Such prohibited harmful
 content includes, but is not limited to, viruses, worms, or Trojan
-horses.
-Fraudulent/Misleading Content.
-Users shall not use the Qwest
+horses.</li>
+<li>
+<b>Fraudulent/Misleading Content.</b> Users shall not use the Qwest
 Network and Services to transmit or distribute material containing
 fraudulent offers for goods or services, or any advertising or
 promotional materials that contain false, deceptive, or misleading
@@ -85,9 +118,9 @@ statements, claims, or representations.
 In addition, Users are
 prohibited from submitting any false or inaccurate data on any order
 form, contract or online application, including the fraudulent use of
-credit cards.
-Email and Unsolicited Messages.
-Users shall not use the Qwest
+credit cards.</li>
+<li>
+<b>Email and Unsolicited Messages.</b> Users shall not use the Qwest
 Network and Services to transmit unsolicited e-mail messages, including,
 without limitation, unsolicited bulk email , where such emails could
 reasonably be expected to provoke complaints ("spam").
@@ -103,16 +136,17 @@ them, (c) send e-mail with forged TCP/IP packet header information, (d)
 send malicious e-mail, including, without limitation, "mail-bombing", (e)
 send or receive e-mail messages in a manner that violates the use
 policies of any other Internet service provider, or (f) use an e-mail
-box exclusively as a storage space for data.
-Third Party Rules; Usenet.
-Users may have access through the
+box exclusively as a storage space for data.</li>
+<li>
+<b>Third Party Rules.
+Usenet.</b> Users may have access through the
 Qwest Network and Services to search engines, subscription Web services,
 chat areas, bulletin boards, Web pages, USENET, or other services that
 promulgate rules, guidelines or agreements to govern their use.
 Users
-must adhere to any such rules, guidelines, or agreements.
-Inappropriate Actions.
-Users shall not use the Qwest Network and
+must adhere to any such rules, guidelines, or agreements.</li>
+<li>
+<b>Inappropriate Actions.</b> Users shall not use the Qwest Network and
 Services to conduct activities that may be harmful to or interfere with
 the Qwest Network and Services or any third party's networks, systems,
 services, or Web sites, including, but not limited to, flooding, mail
@@ -129,9 +163,10 @@ Inappropriate activity may result in civil or criminal
 liability.
 Qwest will investigate such activity, and may involve and
 cooperate with law enforcement authorities in prosecuting Users involved
-in such activity.
-Responsibility for Content.
-Qwest takes no responsibility for any
+in such activity.</li>
+</ul>
+<p>
+<b>Responsibility for Content.</b> Qwest takes no responsibility for any
 material created or accessible on or through the Qwest Network and
 Services.
 Qwest is not obligated to monitor such material, but reserves
@@ -146,10 +181,38 @@ material.
 Qwest further reserves the right to cooperate with legal
 authorities and third parties in the investigation of alleged
 wrongdoing, including disclosing the identity of the User that Qwest
-deems responsible for the wrongdoing.
-Violations of this AUP may be reported at the following link: abuse@qwest.
-net.
-Revised 01-30-09 back to top Acceptable Use Policy Privacy Policy Copyright Notices Website User Agreement Online Security Terms &amp; Conditions Tariff Library Internet Service Management Home About Us Careers Investor Relations Media Legal Privacy Site Map © 2012 CenturyLink, Inc.
+deems responsible for the wrongdoing.</p>
+<p>
+Violations of this AUP may be reported at the following link: abuse@qwest.net.</p>
+<p>
+Revised 01-30-09</p>
+<p>back to top</p>
+<ul>
+<li>Acceptable Use Policy</li>
+<li>Privacy Policy</li>
+<li>Copyright Notices</li>
+<li>Website User Agreement</li>
+<li>Online Security</li>
+<li>Terms &amp.
+Conditions</li>
+<li>Tariff Library</li>
+<li>Internet Service Management</li>
+</ul>
+<ul>
+<li>Home</li>
+<li>About Us</li>
+<li>Careers</li>
+<li>Investor Relations</li>
+<li>Media</li>
+<li>Legal</li>
+<li>Privacy</li>
+<li>Site Map</li>
+</ul>
+<p>© 2012 CenturyLink, Inc.
 All Rights Reserved.
 The name CenturyLink and the pathways logo are trademarks of CenturyLink, Inc.
-Find a Store Contact Us 
+</p>
+<ul>
+<li>Find a Store</li>
+<li>Contact Us</li>
+</ul> 

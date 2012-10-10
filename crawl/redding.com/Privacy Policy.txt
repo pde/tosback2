@@ -1,250 +1,627 @@
- Login | Manage Account | Mobile | Contact Us | e-Edition | Subscribe | Newspaper Account User Name: Password: Forgotten your password? | Create an account Register or log in using your account on these websites.
-siteweb Web Search powered by Yahoo! SEARCH Record Searchlight News Today Blogs Local Breaking news Unsolved homicides Education Fires Scanners News Archives Forms State National Strange News World Weather Apps Traffic Obituaries Databases Election Politics Election news June Election November Election Columnists Cop Talk YourNews Sports Local High School College Basketball Football Professional Baseball Basketball Football Golf Hockey Nascar Tennis Columnists T.
-J.
-Holmes Thomas Lawrence Babe Waxpak North State Notes Photo Galleries High School College Professional Business Local Legal Financial Focus National / International Columnists Buzz on the Street Distinctly Green Nerd Chick Adventures North State at Work Business Directory Business Forms Gas Prices Opinion Blogs Editorial Letters to the Editor Polls Columnists Marc Beauchamp Alana Burke Nat Ducat Tom Elias Charles Krauthammer Silas Lyons Richard Malotky Ruth Marcus Thomas Sowell Bob Williams Emily Young Entertainment Local National People Musician Spotlight Artist Spotlight Dining Restaurants Restaurant List Restaurant Reviews Open Now Submit Restaurant Food Specials Night Life Bars &amp; Clubs Drink Specials Events Submit Event Event Venues Games Movies Music Bands Music Venues mp3s Radio Stations Contests Books Book Reviews Book Review Form Book News Lifestyles Announcements Anniversaries Births Engagements Weddings 100th Birthdays My Community Faith &amp; Values Food Crave Recipes Wine Health &amp; Fitness News Home &amp; Garden Publications Magazines Best of the North State Special Sections Recreation shastaoutdoorfun.
-com Columnists Travelin' in Time Laura Christman Tom Dunlap Sharon Randall Anna Moseley Annette Osborne Claudia Mosby Senior Living Irma Vorbeck Dr.
-Derrick Adams Janis Meredith Trudi Pratt Media Today's Photos Photo Archive Photo Galleries Photo Galleries by Topic Videos Audio/Podcasts User Submitted Jobs Homes Cars Classified Privacy Policy Redding.
-com Privacy Policy PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
-If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at rswebmaster@redding.
-com.
-PRIVACY POLICY (Effective July 1, 2008) Welcome to Redding.
-com ("Website"), an interactive online service operated by The E.
-W.
+ <ul>
+<li>
+<strong>Login</strong> |</li>
+<li>
+Manage Account |</li>
+<li>
+Mobile |</li>
+<li> Contact Us |</li>
+<li> e-Edition |</li>
+<li> Subscribe |</li>
+<li> Newspaper Account</li>
+</ul> User Name: <br> Password: Forgotten your password? | Create an account Register or log in using your account on these websites.
+siteweb <p>Web Search powered by Yahoo! SEARCH</p> Record Searchlight <ul>
+<li>
+News <ul>
+<li>Today</li>
+<li>Blogs</li>
+<li>
+Local <ul>
+<li>Breaking news</li>
+<li>Unsolved homicides</li>
+<li>Education</li>
+<li>Fires</li>
+<li>Scanners</li>
+<li>News Archives</li>
+<li>Forms</li>
+</ul>
+</li>
+<li>State</li>
+<li>
+National <ul>
+<li>Strange News</li>
+</ul>
+</li>
+<li>World</li>
+<li>Weather</li>
+<li>Apps</li>
+<li>Traffic</li>
+<li>Obituaries</li>
+<li>Databases</li>
+<li>
+Election <ul>
+<li>Politics</li>
+<li>Election news</li>
+<li>June Election</li>
+<li>November Election</li>
+</ul>
+</li>
+<li>
+Columnists <ul>
+<li>Cop Talk</li>
+</ul>
+</li>
+<li>YourNews</li>
+</ul>
+</li>
+<li>
+Sports <ul>
+<li>Local</li>
+<li>High School</li>
+<li>
+College <ul>
+<li>Basketball</li>
+<li>Football</li>
+</ul>
+</li>
+<li>
+Professional <ul>
+<li>Baseball</li>
+<li>Basketball</li>
+<li>Football</li>
+<li>Golf</li>
+<li>Hockey</li>
+<li>Nascar</li>
+<li>Tennis</li>
+</ul>
+</li>
+<li>
+Columnists <ul>
+<li>T.J.
+Holmes</li>
+<li>Thomas Lawrence</li>
+<li>Babe Waxpak</li>
+<li>North State Notes</li>
+</ul>
+</li>
+<li>
+Photo Galleries <ul>
+<li>High School</li>
+<li>College</li>
+<li>Professional</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Business <ul>
+<li>Local</li>
+<li>Legal</li>
+<li>Financial Focus</li>
+<li>National / International</li>
+<li>
+Columnists <ul>
+<li>Buzz on the Street</li>
+<li>Distinctly Green</li>
+<li>Nerd Chick Adventures</li>
+<li>North State at Work</li>
+</ul>
+</li>
+<li>Business Directory</li>
+<li>Business Forms</li>
+<li>Gas Prices</li>
+</ul>
+</li>
+<li>
+Opinion <ul>
+<li>Blogs</li>
+<li>Editorial</li>
+<li>Letters to the Editor</li>
+<li>Polls</li>
+<li>
+Columnists <ul>
+<li>Marc Beauchamp</li>
+<li>Alana Burke</li>
+<li>Nat Ducat</li>
+<li>Tom Elias</li>
+<li>Charles Krauthammer</li>
+<li>Silas Lyons</li>
+<li>Richard Malotky</li>
+<li>Ruth Marcus</li>
+<li>Thomas Sowell</li>
+<li>Bob Williams</li>
+<li>Emily Young</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Entertainment <ul>
+<li>
+Local <ul>
+<li>National</li>
+</ul>
+</li>
+<li>
+People <ul>
+<li>Musician Spotlight</li>
+<li>Artist Spotlight</li>
+</ul>
+</li>
+<li>
+Dining <ul>
+<li>
+Restaurants <ul>
+<li>Restaurant List</li>
+<li>Restaurant Reviews</li>
+<li>Open Now</li>
+<li>Submit Restaurant</li>
+<li>Food Specials</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Night Life <ul>
+<li>Bars &amp.
+Clubs</li>
+<li>Drink Specials</li>
+</ul>
+</li>
+<li>
+Events <ul>
+<li>Submit Event</li>
+<li>Event Venues</li>
+</ul>
+</li>
+<li>Games</li>
+<li>Movies</li>
+<li>
+Music <ul>
+<li>Bands</li>
+<li>Music Venues</li>
+<li>mp3s</li>
+<li>Radio Stations</li>
+</ul>
+</li>
+<li>Contests</li>
+<li>
+Books <ul>
+<li>Book Reviews</li>
+<li>Book Review Form</li>
+<li>Book News</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Lifestyles <ul>
+<li>
+Announcements <ul>
+<li>Anniversaries</li>
+<li>Births</li>
+<li>Engagements</li>
+<li>Weddings</li>
+<li>100th Birthdays</li>
+</ul>
+</li>
+<li>My Community</li>
+<li>Faith &amp.
+Values</li>
+<li>
+Food <ul>
+<li>Crave</li>
+<li>Recipes</li>
+<li>Wine</li>
+</ul>
+</li>
+<li>
+Health &amp.
+Fitness <ul>
+<li>News</li>
+</ul>
+</li>
+<li>Home &amp.
+Garden</li>
+<li>
+Publications <ul>
+<li>Magazines</li>
+<li>Best of the North State</li>
+<li>Special Sections</li>
+</ul>
+</li>
+<li>
+Recreation <ul>
+<li>shastaoutdoorfun.com</li>
+</ul>
+</li>
+<li>
+Columnists <ul>
+<li>Travelin' in Time</li>
+<li>Laura Christman</li>
+<li>Tom Dunlap</li>
+<li>Sharon Randall</li>
+<li>Anna Moseley</li>
+<li>Annette Osborne</li>
+<li>Claudia Mosby</li>
+<li>Senior Living</li>
+<li>Irma Vorbeck</li>
+<li>Dr.
+Derrick Adams</li>
+<li>Janis Meredith</li>
+<li>Trudi Pratt</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Media <ul>
+<li>Today's Photos</li>
+<li>Photo Archive</li>
+<li>Photo Galleries</li>
+<li>Photo Galleries by Topic</li>
+<li>Videos</li>
+<li>Audio/Podcasts</li>
+<li>User Submitted</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Jobs</li>
+<li>Homes</li>
+<li>Cars</li>
+<li>Classified</li>
+</ul> Privacy Policy Redding.com Privacy Policy <p>PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.</p>
+<p>
+</p>
+<p>
+<em>If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at rswebmaster@redding.com.</em>
+</p>
+<p>PRIVACY POLICY<br> (Effective July 1, 2008)</p>
+<p>Welcome to Redding.com ("Website"), an interactive online service operated by The E.W.
 Scripps Company and its subsidiaries ("us", "we", or "our").
-Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.
-privacyprotection.
-ca.
-gov).
-We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website.
+Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).</p>
+<p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website.
 We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties.
-This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
-This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website.
-Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice.
+This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.</p>
+<p>This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website.
+Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
+<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice.
 Any changes will be effective immediately upon the posting of the revised Privacy Policy.
 WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.
 IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us.
 You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner.
-We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.
-A.
-INFORMATION WE COLLECT Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.
-(1) Personally Identifiable Information: Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.
+We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.</p>
+<p>
+<strong>A.
+INFORMATION WE COLLECT</strong>
+</p>
+<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you.
+and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.</p>
+<p>
+<strong>(1) Personally Identifiable Information: </strong> Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.
 As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.
 In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.
-For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.
-g.
-, age, gender, purchase preference, usage frequency, etc.
-) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website.
-Certain information may not be personally identifiable when standing alone (e.
-g.
-, your age), but may become so when combined with other information (e.
-g.
-, your age and name).
-Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.
-(2) Non-Personal Information: Our definition of non-personal information is any information that does not personally identify you.
-Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.
+For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry.
+(b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club.
+or (c) post a general comment and/or recommendation on our Website.
+Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).
+Whether or not you provide this information is your choice.
+however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
+<p>
+<strong>(2) Non-Personal Information: </strong> Our definition of non-personal information is any information that does not personally identify you.
+Non-personal information can include certain personally identifiable information that has been de-identified.
+that is, information that has been rendered anonymous.
 We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information.
 We also automatically collect certain non-personal information from you when you access our Website.
-This information can include, among other things, IP addresses, the type of browser you are using (e.
-g.
-, Internet Explorer, Firefox, Safari, etc.
-), the third party website from which your visit originated, the operating system you are using (e.
-g.
-, Vista, Windows XP, Mac OS, etc.
-), the domain name of your Internet service provider (e.
-g.
-, America Online, NetZero, etc.
-), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
-B.
-HOW WE USE &amp; SHARE THE INFORMATION COLLECTED (1) Personally Identifiable Information: The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.
+This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
+<p>
+<strong>B.
+HOW WE USE &amp.
+SHARE THE INFORMATION COLLECTED</strong>
+</p>
+<p>
+<strong>(1) Personally Identifiable Information:</strong> The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.
 We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website.
-You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.
-In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.
-g.
-, vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.
+You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.</p>
+<p>In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.
 Our vendors agree to use this information, and we share information with them, only to carry out our requests.
-In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.
-g.
-, a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.
-g.
-, production companies we may use).
+In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).
 Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.
-Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
-(2) Non-Personal Information: We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services.
+Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.</p>
+<p>
+<strong>(2) Non-Personal Information:</strong> We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services.
 We may use your non-personal information by itself or aggregate it with information we have obtained from others.
-We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
-C.
-OTHER USES &amp; INFORMATION (1) IP Addresses: An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet.
+We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.</p>
+<p>
+<strong>C.
+OTHER USES &amp.
+INFORMATION</strong>
+</p>
+<p>
+<strong>(1) IP Addresses:</strong> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet.
 Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address.
 When visitors request pages from our Website, our servers typically log their IP addresses.
 We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.
 IP addresses are considered non-personal information and may also be shared as provided above.
-It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us.
-However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
-(2) Cookies, etc.
-: "Cookies" are small text files from a website that are stored on your hard drive.
+It is not our practice to link IP addresses to anything personally identifiable.
+that is, the visitor's session will be logged, but the visitor remains anonymous to us.
+However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request.
+(b) conform with the requirements of the law or legal process.
+(c) protect or defend our legal rights or property, our Website, or other users.
+or (d) in an emergency to protect the health and safety of our Website’s users or the general public.</p>
+<p>
+<strong>(2) Cookies, etc.:</strong> "Cookies" are small text files from a website that are stored on your hard drive.
 These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you.
 Cookies themselves do not typically contain any personally identifiable information.
 We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party.
 We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
-Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy.
-If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive.
+Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy.</p>
+<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive.
 You may also delete a cookie manually from your hard drive through your internet browser or other programs.
-Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
-(3) Email Communications: If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.
+Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.</p>
+<p>
+<strong>(3) Email Communications:</strong> If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.
 For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.
-However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.
-g.
-, product updates, customer support, etc.
-), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose.
-In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others.
-You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
-(4) Transfer of Assets: As we continue to develop our business, we may sell or purchase assets.
+However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose.
+In certain instances, we may provide you with the option to set your preferences for receiving email communications from us.
+that is, agree to some communications but not others.
+You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below.
+provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
+<p>
+<strong>(4) Transfer of Assets:</strong> As we continue to develop our business, we may sell or purchase assets.
 If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed.
-Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
-(5) Other: Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
-(6) Your California Privacy Rights: Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes.
+Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.</p>
+<p>
+<strong>(5) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request.
+(b) conform with the requirements of the law or legal process.
+(c) protect or defend our legal rights or property, our Website, or other users.
+or (d) in an emergency to protect the health and safety of our Website's users or the general public.</p>
+<p>
+<strong>(6) Your California Privacy Rights:</strong> Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes.
 You are limited to one request per calendar year.
 In your request, please attest to the fact that you are a California resident and provide a current California address for our response.
-You may request the information in writing at: rswebmaster@redding.
-com.
-D.
-PUBLIC FORUMS We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate.
+You may request the information in writing at: rswebmaster@redding.com.</p>
+<p>
+<strong>D.
+PUBLIC FORUMS</strong>
+</p>
+<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate.
 The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.
 We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum.
 Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy.
-We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
-E.
-CHILDREN The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.
+We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+<p>
+<strong>E.
+CHILDREN</strong>
+</p>
+<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.
 We do not knowingly collect personally identifiable information from children under the age of 13.
-If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at rswebmaster@redding.
-com.
-A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
-F.
-KEEPING YOUR INFORMATION SECURE We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.
+If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at rswebmaster@redding.com.
+A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.</p>
+<p>
+<strong>F.
+KEEPING YOUR INFORMATION SECURE</strong>
+</p>
+<p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.
 Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information.
-In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
-From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
-G.
-OTHER SITES/LINKS Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements.
+In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances.
+provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
+From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
+<p>
+<strong>G.
+OTHER SITES/LINKS</strong>
+</p>
+<p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements.
 We are not responsible for the privacy practices employed by any third party website.
-We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
-H.
-CONTACT &amp; OPT-OUT INFORMATION You may contact us as at rswebmaster@redding.
-com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
-We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.
-Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
-I.
-YAHOO! ADS AND OPT-OUT POLICIES Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Redding.
-com sites.
-To improve your ad experience on Redding.
-com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you.
-Yahoo! also may use information regarding its own users to select which ads to display.
-To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see http://info.
-yahoo.
-com/privacy/us/yahoo/opt_out/targeting/details.
-html.
-Yahoo! is a member of the Network Advertising Initiative.
-See http://www.
-networkadvertising.
-org.
-J.
-AP NEWS REGISTRY We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.
+We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
+<p>
+<strong>H.
+CONTACT &amp.
+OPT-OUT INFORMATION</strong>
+</p>
+<p>You may contact us as at rswebmaster@redding.com if: (a) you have questions or comments about our Privacy Policy.
+(b) wish to make corrections to any personally identifiable information you have provided.
+(c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies.
+or (d) wish to withdraw your consent to sharing your personally identifiable information with others.</p>
+<p>We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.
+Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
+<p>
+<strong>I.
+YAHOO! ADS AND OPT-OUT POLICIES</strong>
+</p>
+<p>Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Redding.com sites.
+To improve your ad experience on Redding.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you.
+Yahoo! also may use information regarding its own users to select which ads to display.</p>
+<p>To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html.</p>
+<p>Yahoo! is a member of the Network Advertising Initiative.
+See http://www.networkadvertising.org.</p>
+<p>
+<strong>J.
+AP NEWS REGISTRY</strong>
+</p>
+<p>We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.
 NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity.
-Please refer to the NewsRight privacy policy at http://www.
-newsregistry.
-com/privacycenter/servicepolicy.
-aspx for further information, including how to opt-out of certain NewsRight collection activities.
-Your continued readership of the site means you accept the privacy policy of NewsRight.
-K.
-SOLE STATEMENT This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website Most Popular Viewed Commented Emailed UPDATED: Cottonwood man accused of murdering wife pleads not guilty Updated 10/9/2012 at 5:02 p.
-m.
-35 comments Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.
-m.
-79 comments Costco's plans for north Redding move forward; opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.
-m.
-33 comments Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.
-m.
-71 comments Skydiver attempt to make supersonic jump today aborted Published 10/9/2012 at 4:00 a.
-m.
-17 comments Photo Galleries Stillwater Pow Wow 2012 Supersonic skydiver Central Valley beats West Valley in… Fred Boest: Romney full of hot air Published 10/8/2012 at 12:00 a.
-m.
-83 comments Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.
-m.
-79 comments Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.
-m.
-71 comments Sandy Jarosz: Showing respect is not weakness Published 10/8/2012 at 12:00 a.
-m.
-65 comments Election analysis: Jobless figures may lift Obama Published 10/6/2012 at 9:36 p.
-m.
-118 comments UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.
-m.
-59 comments UPDATED: Fatal shooting reported in Trinity County Published 10/3/2012 at 6:53 a.
-m.
-46 comments Family takes anti-abortion stance in refusing to return dog to Haven Humane Published 10/2/2012 at 3:27 p.
-m.
-98 comments New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.
-m.
-3 comments UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.
-m.
-64 comments Weather Currently 36-Hour Your Photos Currently 69° Fair Wind: Calm Today 80° 52° Wed 11:00 PM Partly Cloudy Temp: 61° Thu 11:00 AM Partly Sunny Temp: 69° Thu 11:00 PM Partly Cloudy Temp: 59° Feels Like: 61° Humidity: 52% Precip: 3% Feels Like: 69° Humidity: 45% Precip: 2% Feels Like: 59° Humidity: 58% Precip: 3% Sunset in Modoc County 9/6/12 8:03 a.
-m.
-Day after blue moon 9/2/12 7:54 p.
-m.
-Blue Moon 8/31/12 9:55 p.
-m.
-View From Sundial Bridge 6:38pm 8/31/12 12:18 a.
-m.
-tornado clouds? 8/28/12 11:48 p.
-m.
-swan dive? 8/28/12 11:35 p.
-m.
-More Weather » Calendar Wednesday Oct 10 Thursday Oct 11 Friday Oct 12 More BROWSE Icon The city of Shasta Lake Chamber of Commerce presents the 10th annual State of the City Luncheon John Beaudet Community Center 11:30 a.
-m.
-North Valley Art League exhibit, Judith King Carter House Art Gallery 5 p.
-m.
-Clutter Support Group Redding Library 6 p.
-m.
-Gonzalo Bergara Quartet Gypsy Jazz State Theatre 7:30 p.
-m.
-Genealogy Assistance Redding Library 1 p.
-m.
-More Events » Retired Teachers October Luncheon, Meeting Shasta Senior Nutrition 11 a.
-m.
-Mechanics Lien Law Shasta Builder's Exchange noon Ask the "Legal" Experts Shasta Builder's Exchange 3:30 p.
-m.
-Vanity Faire - Hats, Handbags and Heels Riverview Golf and Country Club 5:30 p.
-m.
-Creating Floral Design with Fall Garden Products Shasta College Health Sciences Center 6:30 p.
-m.
-More Events » Randy Rieman Horsemanship - Rope Handling and Stock Handling Clinic Cottonwood Creek Equestrian Center 9 a.
-m.
-2012 Vision Resource Expo Shasta Senior Nutrition 9 a.
-m.
-Big Bike Weekend AMA National Gypsy Tour Holiday Inn noon Casey D.
-Johnson Acoustic Country concert Holiday Inn 3:30 p.
-m.
-Anderson FAA quarterly drive-thru dinner Anderson High School 4:30 p.
-m.
-More Events » Loading.
-.
-.
-More Events » Features Weather Radio We have you covered with our iPhone Storm Shield.
-Now available for Android! 20 Under 40 Nominate young leaders in the North State! The results are in! See who our readers picked as the Best of the North State.
-News on Facebook Become a fan, get updates and breaking news.
-Download Our Apps Make your smartphone even smarter.
+Please refer to the NewsRight privacy policy at http://www.newsregistry.com/privacycenter/servicepolicy.aspx for further information, including how to opt-out of certain NewsRight collection activities.
+Your continued readership of the site means you accept the privacy policy of NewsRight.</p>
+<p>
+<strong>K.
+SOLE STATEMENT</strong>
+</p>
+<p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website</p> Most Popular <ul>
+<li>Viewed</li>
+<li>Commented</li>
+<li>Emailed</li>
+</ul>
+<ul>
+<li> UPDATED: Cottonwood man accused of murdering wife pleads not guilty Updated 10/9/2012 at 5:02 p.m.
+36 comments </li>
+<li> Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m.
+106 comments </li>
+<li> Costco's plans for north Redding move forward.
+opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m.
+41 comments </li>
+<li> Cottonwood man pleads not guilty to murder.
+Mark Duenas charged in May killing of wife Published 10/9/2012 at 11:16 p.m.
+20 comments </li>
+<li> Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m.
+96 comments </li>
+</ul> Photo Galleries Supersonic skydiver Stillwater Pow Wow 2012 Central Valley beats West Valley in… <ul>
+<li> Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m.
+106 comments </li>
+<li> Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m.
+96 comments </li>
+<li> Fred Boest: Romney full of hot air Published 10/8/2012 at 12:00 a.m.
+83 comments </li>
+<li> Sandy Jarosz: Showing respect is not weakness Published 10/8/2012 at 12:00 a.m.
+65 comments </li>
+<li> Jean McClenon: Turn nation around with Romney/Ryan Published 10/8/2012 at 12:00 a.m.
+52 comments </li>
+</ul>
+<ul>
+<li> UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m.
+59 comments </li>
+<li> UPDATED: Fatal shooting reported in Trinity County Published 10/3/2012 at 6:53 a.m.
+46 comments </li>
+<li> Family takes anti-abortion stance in refusing to return dog to Haven Humane Published 10/2/2012 at 3:27 p.m.
+98 comments </li>
+<li> New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m.
+3 comments </li>
+<li> UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m.
+64 comments </li>
+</ul> Weather <ul>
+<li>Currently</li>
+<li>36-Hour</li>
+<li>Your Photos</li>
+</ul> Currently 75° Fair Wind: Calm Today 80° 52° Thu
+02:00 AM Partly Cloudy Temp: 56° Thu
+02:00 PM Partly Sunny Temp: 78° Fri
+02:00 AM Partly Cloudy Temp: 54° <p>Feels Like: 56°</p>
+<p>Humidity: 59%</p>
+<p>Precip: 3%</p>
+<p>Feels Like: 78°</p>
+<p>Humidity: 30%</p>
+<p>Precip: 2%</p>
+<p>Feels Like: 54°</p>
+<p>Humidity: 66%</p>
+<p>Precip: 3%</p> Sunset in Modoc County 9/6/12<br> 8:03 a.m.<br> Day after blue moon 9/2/12<br> 7:54 p.m.<br> Blue Moon 8/31/12<br> 9:55 p.m.<br> View From Sundial Bridge 6:38pm 8/31/12<br> 12:18 a.m.<br> tornado clouds? 8/28/12<br> 11:48 p.m.<br> swan dive? 8/28/12<br> 11:35 p.m.<br> More Weather » Calendar <ul>
+<li> Wednesday Oct 10 </li>
+<li> Thursday Oct 11 </li>
+<li> Friday Oct 12 </li>
+<li> More BROWSE Icon </li>
+</ul>
+<ul>
+<li> The city of Shasta Lake Chamber of Commerce presents the 10th annual State of the City Luncheon John Beaudet Community Center 11:30 a.m.
+</li>
+<li> North Valley Art League exhibit, Judith King Carter House Art Gallery 5 p.m.
+</li>
+<li> Clutter Support Group Redding Library 6 p.m.
+</li>
+<li> Gonzalo Bergara Quartet Gypsy Jazz State Theatre 7:30 p.m.
+</li>
+<li> Genealogy Assistance Redding Library 1 p.m.
+</li>
+</ul> More Events » <ul>
+<li> Retired Teachers October Luncheon, Meeting Shasta Senior Nutrition 11 a.m.
+</li>
+<li> Mechanics Lien Law Shasta Builder's Exchange noon </li>
+<li> Ask the "Legal" Experts Shasta Builder's Exchange 3:30 p.m.
+</li>
+<li> Vanity Faire - Hats, Handbags and Heels Riverview Golf and Country Club 5:30 p.m.
+</li>
+<li> Creating Floral Design with Fall Garden Products Shasta College Health Sciences Center 6:30 p.m.
+</li>
+</ul> More Events » <ul>
+<li> Randy Rieman Horsemanship - Rope Handling and Stock Handling Clinic Cottonwood Creek Equestrian Center 9 a.m.
+</li>
+<li> 2012 Vision Resource Expo Shasta Senior Nutrition 9 a.m.
+</li>
+<li> Big Bike Weekend AMA National Gypsy Tour Holiday Inn noon </li>
+<li> Casey D.
+Johnson Acoustic Country concert Holiday Inn 3:30 p.m.
+</li>
+<li> Anderson FAA quarterly drive-thru dinner Anderson High School 4:30 p.m.
+</li>
+</ul> More Events » <p>Loading...</p> More Events » Features <ul>
+</ul>
+<ul>
+<li> Weather Radio <p>We have you covered with our <strong>iPhone</strong> Storm Shield.<strong>Now available for Android!</strong>
+</p> 20 Under 40 <p>Nominate young leaders in the North State!</p> The results are in! <p>See who our readers picked as the Best of the North State.</p>
+</li>
+<li> News on Facebook
+<p>Become a fan, get updates and breaking news.</p> Download Our Apps <p>Make your smartphone even smarter.
 Local news is more accessible than ever.
-News Alerts When local breaking news happens, we'll get it to your inbox as soon as possible.
-@BreakingNews_RS Follow us on Twitter and get the latest breaking news! Subscribe Check out videos featured on redding.
-com at YouTube.
-com Data Center Public databases containing facts, figures &amp; details of our community.
-On the Web: Databases Pay My Bill Reader Rewards Find Redding Jobs Online Exclusives: Engagements &amp; Weddings Games Bands Crave Dining Guide Site Map Useful Links: Newspaper archives Special Sections Legal Notices Media Kit Usage Statistics Special Features: Hotels Contests Photo Galleries Health Blogs Business Directory: Redding Apartments Redding Attorneys Redding Auto Dealers Redding Auto Parts Redding Auto Repair Redding Beauty Salons Redding Car Rental Redding Dentists Redding Doctors Redding Flowers Redding Hotels Redding Insurance Redding Loans Redding Mortgages Redding Movers Redding Pizza Redding Realtors Redding Restaurants Redding Storage Redding Tax Preparation Redding Travel Featured More.
-.
-.
-Scripps Interactive Newspapers Group 2012 The E.
-W.
-Scripps Co.
-More news from our local partners » Privacy Policy | User Agreement | About Our Ads To protect your privacy, we’re no longer allowing e-mail addresses to be used as usernames.
-Please take a moment to pick a new username, and we’ll send you right along.
-Thanks! Update Username 
+</p> News Alerts <p>When local breaking news happens, we'll get it to your inbox as soon as possible.</p>
+</li>
+<li> @BreakingNews_RS <p>Follow us on Twitter and get the latest breaking news!</p> Subscribe <p>Check out videos featured on redding.com at YouTube.com</p> Data Center <p>Public databases containing facts, figures &amp.
+details of our community.</p>
+</li>
+</ul>
+<dl>
+<dt>On the Web:</dt>
+<dd>Databases</dd>
+<dd>Pay My Bill</dd>
+<dd>Reader Rewards</dd>
+<dd>Find Redding Jobs</dd>
+</dl>
+<dl>
+<dt>Online Exclusives:</dt>
+<dd>Engagements &amp.
+Weddings</dd>
+<dd>Games</dd>
+<dd>Bands</dd>
+<dd>Crave</dd>
+<dd>Dining Guide</dd>
+<dd> Site Map</dd>
+</dl>
+<dl>
+<dt>Useful Links:</dt>
+<dd>Newspaper archives</dd>
+<dd>Special Sections</dd>
+<dd>Legal Notices</dd>
+<dd>Media Kit</dd>
+<dd>Usage Statistics</dd>
+</dl>
+<dl>
+<dt>Special Features:</dt>
+<dd>Hotels</dd>
+<dd>Contests</dd>
+<dd>Photo Galleries</dd>
+<dd>Health</dd>
+<dd>Blogs</dd>
+</dl>
+<dl>
+<dt>Business Directory:</dt>
+<dd>
+<dl>
+<dd>Redding Apartments</dd>
+<dd>Redding Attorneys</dd>
+<dd>Redding Auto Dealers</dd>
+<dd>Redding Auto Parts</dd>
+<dd>Redding Auto Repair</dd>
+<dd>Redding Beauty Salons</dd>
+<dd>Redding Car Rental</dd>
+<dd>Redding Dentists</dd>
+<dd>Redding Doctors</dd>
+<dd>Redding Flowers</dd>
+<dd>Redding Hotels</dd>
+<dd>Redding Insurance</dd>
+<dd>Redding Loans</dd>
+<dd>Redding Mortgages</dd>
+<dd>Redding Movers</dd>
+<dd>Redding Pizza</dd>
+<dd>Redding Realtors</dd>
+<dd>Redding Restaurants</dd>
+<dd>Redding Storage</dd>
+<dd>Redding Tax Preparation</dd>
+<dd>Redding Travel</dd>
+<dd>Featured</dd>
+<dd>More...</dd>
+</dl>
+</dd>
+</dl> Scripps Interactive Newspapers Group<br> 2012 The E.W.
+Scripps Co.<br>More news from our local partners » Privacy Policy | User Agreement | About Our Ads <p>To protect your privacy, we’re no longer allowing e-mail addresses to be used as usernames.
+</p>
+<p>Please take a moment to pick a new username, and we’ll send you right along.
+Thanks!</p> Update Username 
