@@ -1,0 +1,12 @@
+<sitename name="xing.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.xing.com/privacy">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms">
+   <url name="http://www.xing.com/terms">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
