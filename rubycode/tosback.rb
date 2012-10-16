@@ -86,7 +86,7 @@ def parse_xml_files(rules_path, results_path)
       doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
       
       begin
-        ngdoc_url = Nokogiri::HTML(open(doc_url))
+        ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
       rescue
         log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
         next
@@ -149,9 +149,10 @@ else
     doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
     
     begin
-      ngdoc_url = Nokogiri::HTML(open(doc_url))
+      ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
     rescue
-      log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
+      puts "first"
+      # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
       next
     end
     

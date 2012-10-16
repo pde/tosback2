@@ -1,6 +1,6 @@
 <sitename name="delta.com">
  <docname name="Privacy Policy">
-   <url name="http://www.delta.com/privacy_security/index.jsp">
+   <url name="http://www.delta.com/privacy_security/index.jsp" xpath="//div[@class='genContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
