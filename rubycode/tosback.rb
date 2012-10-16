@@ -111,14 +111,62 @@ end
 
 # code stuff
 
+unless ARGV.length == 1
 
+  log_stuff("Beginning script!",$run_log)
 
-log_stuff("Beginning script!",$run_log)
+  parse_xml_files(rules_path,results_path)
 
-parse_xml_files(rules_path,results_path)
+  #TODO mail git_modified
 
-#TODO mail git_modified
+  log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
-log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
+  git_modified
 
-git_modified
+else
+  
+  #TODO refactor to make DRY
+  
+  begin
+    filecontent = File.open(ARGV[0])
+    ngxml = Nokogiri::XML(filecontent)
+  rescue
+    log_stuff("Script had trouble opening this file: #{rules_path}#{filename}",$error_log)
+  ensure
+    filecontent.close
+  end
+  
+  docs = []
+  ngxml.xpath("//sitename/docname").each do |doc|
+    docs << doc.at_xpath("./@name")
+  end
+  
+  docs.each do |name| # for every docname in sitename in file
+    # crawl_file_name = "#{new_path}#{name}.txt"
+    # crawl_file = File.open(crawl_file_name,"w") # new file or overwrite old file
+    
+    doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
+    doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
+    
+    begin
+      ngdoc_url = Nokogiri::HTML(open(doc_url))
+    rescue
+      log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
+      next
+    end
+    
+    tos_data = ""
+    if doc_xpath.nil?
+      tos_data = ngdoc_url.at_xpath("//body").to_s
+    else 
+      tos_data = ngdoc_url.at_xpath(doc_xpath.to_s).to_s
+    end
+    
+    tos_data = format_tos(tos_data)
+
+    puts tos_data
+    # crawl_file.puts tos_data
+    # crawl_file.close
+  end
+  
+end

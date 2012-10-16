@@ -12,6 +12,11 @@ Here's an example:
 
 Now, tosback.rb should only grab the content we want from that URL! Hooray!
 
+You can also pass a rule file as an argument to the script to get a preview of the results! For example:
+
+rubycode$ ruby tosback.rb ../rules/abercrombie.com.xml
+
+This will just print out whatever data it grabs from the rule, so you can add xpath data to a rule and quickly test to make sure it's correct.
 
 Original README below:
 
