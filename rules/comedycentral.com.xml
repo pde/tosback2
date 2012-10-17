@@ -1,6 +1,6 @@
 <sitename name="comedycentral.com">
  <docname name="Privacy Policy">
-   <url name="http://www.comedycentral.com/help/privacy.jhtml">
+   <url name="http://www.comedycentral.com/help/privacy.jhtml" xpath="//div[@class='copy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
