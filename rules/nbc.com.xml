@@ -1,6 +1,21 @@
 <sitename name="nbc.com">
  <docname name="Privacy Policy">
-   <url name="http://www.nbc.com/privacy-policy/">
+   <url name="http://www.nbc.com/privacy-policy/" xpath="//div[@id='primary-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service 1">
+   <url name="http://www.nbc.com/privacy-policy/terms-of-service/" xpath="//div[@id='primary-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service 2">
+   <url name="http://www.nbc.com/privacy-policy/terms-of-service/2/" xpath="//div[@id='primary-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service 3">
+   <url name="http://www.nbc.com/privacy-policy/terms-of-service/3/" xpath="//div[@id='primary-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

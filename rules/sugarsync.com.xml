@@ -1,6 +1,6 @@
 <sitename name="sugarsync.com">
  <docname name="Privacy Policy">
-   <url name="https://www.sugarsync.com/privacy.html">
+   <url name="https://www.sugarsync.com/privacy.html" xpath="//div[@id='content-body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

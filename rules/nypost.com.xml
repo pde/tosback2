@@ -1,6 +1,6 @@
 <sitename name="nypost.com">
  <docname name="Privacy Policy">
-   <url name="http://www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN">
+   <url name="http://www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN" xpath="//div[@id='lt-col-wrap']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

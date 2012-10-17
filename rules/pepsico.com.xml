@@ -1,6 +1,6 @@
 <sitename name="pepsico.com">
  <docname name="Privacy Policy">
-   <url name="http://pepsico.com/Privacy-Policy.html">
+   <url name="http://pepsico.com/Privacy-Policy.html" xpath="//div[@id='site_middleColumn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

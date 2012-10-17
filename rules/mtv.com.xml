@@ -1,6 +1,11 @@
 <sitename name="mtv.com">
  <docname name="Privacy Policy">
-   <url name="http://www.mtv.com/sitewide/legal/privacy.jhtml#6">
+   <url name="http://www.mtv.com/sitewide/legal/privacy.jhtml" xpath="//div[@class='group-b']/div[@class='mdl']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.mtv.com/sitewide/legal/terms.jhtml" xpath="//div[@class='group-b']/div[@class='mdl']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

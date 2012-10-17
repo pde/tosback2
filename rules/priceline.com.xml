@@ -1,6 +1,6 @@
 <sitename name="priceline.com">
  <docname name="Privacy Policy">
-   <url name="http://www.priceline.com/privacypolicy/privacypolicy.asp">
+   <url name="http://www.priceline.com/privacypolicy/privacypolicy.asp" xpath="//div[@id='contentwh']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
