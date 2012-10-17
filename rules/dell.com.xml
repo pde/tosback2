@@ -1,6 +1,6 @@
 <sitename name="dell.com">
  <docname name="Privacy Policy">
-   <url name="http://www.dell.com/content/topics/global.aspx/policy/en/policy?c=us&#x26;l=en&#x26;s=gen&#x26;~section=000">
+   <url name="http://www.dell.com/content/topics/global.aspx/policy/en/policy?c=us&amp;l=en&amp;s=gen&amp;~section=000" xpath="//div[@id='maincontentcnt']//td[@width='542']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

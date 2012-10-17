@@ -1,6 +1,6 @@
 <sitename name="wikihow.com">
  <docname name="Privacy Policy">
-   <url name="http://www.wikihow.com/wikiHow:Terms-of-Use">
+   <url name="http://www.wikihow.com/wikiHow:Terms-of-Use" xpath="//div[@id='bodycontents']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
