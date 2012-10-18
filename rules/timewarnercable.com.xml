@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="timewarnercable.com">
   <docname name="Privacy Policy">
-    <url name="http://www.timewarnercable.com/Corporate/privacy.html">
+    <url name="http://www.timewarnercable.com/en/about-us/legal/privacy-policy.html" xpath="//div[@class='wrap']/div[@class='content-list']">
       <norecurse name="arbitrary" />
     </url>
   </docname>
-  <docname name="Terms of Service and AUP">
-    <url name="http://help.twcable.com/html/twc_sub_agreement.html">
+  <docname name="Residential Services Subscriber Agreement">
+    <url name="http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">
+    <url name="http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/terms-of-service.html">
       <norecurse name="arbitrary" />
     </url>
   </docname>

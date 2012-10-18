@@ -151,9 +151,18 @@ else
     begin
       ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
     rescue
-      puts "first"
+      puts "error opening page"
+      
+      begin
+        ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
+      rescue
+        puts "errorsssssz opening page"
+        # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
+        next
+      end
+      
       # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
-      next
+      # next
     end
     
     tos_data = ""
