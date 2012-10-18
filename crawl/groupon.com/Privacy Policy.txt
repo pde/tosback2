@@ -7,8 +7,7 @@
 <li> All Deals </li>
 <li> Getaways </li>
 <li> Goods New </li>
-<li> Sweet Deals </li>
-<li>How It Works</li>
+<li> Favorite Deals </li>
 </ul>
 <ul>
 <li>Sign In</li>
@@ -416,9 +415,9 @@ Click the link to download the Groupon app.</p>
 </li>
 <li>
 <dl>
-<dt> Grow Your Business with Us </dt>
-<dd> Learn how to get your business featured on Groupon.
-Get started </dd>
+<dt> Grow Your Business </dt>
+<dd> Get new customers and grow your business by Selling on Groupon </dd>
+<dd> See why thousands of businesses have succeeded advertising on Groupon </dd>
 </dl>
 </li>
 <li>
@@ -459,8 +458,10 @@ Get involved </dd>
 </li>
 <li>
 <dl>
-<dt>Work With Us</dt>
-<dd>Merchant Rewards</dd>
+<dt>Work With Groupon</dt>
+<dd>Advertise with Groupon</dd>
+<dd>Run a Groupon Deal</dd>
+<dd>Accept Groupon Payments</dd>
 <dd>Affiliate Program</dd>
 <dd>Run a Deal</dd>
 <dd>Developers / API</dd>
@@ -471,6 +472,7 @@ Get involved </dd>
 <li>
 <dl>
 <dt>More...</dt>
+<dd>Gifts</dd>
 <dd>Gift Cards</dd>
 <dd>Mobile</dd>
 <dd>Live Off Groupon</dd>
