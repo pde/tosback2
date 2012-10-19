@@ -357,20 +357,5 @@ Murphy</dd>
 <dd>Current Promotions</dd>
 </dl>
 </li>
-</ul>
-<b>Clearance Center</b> Current Promotions Deal of the Day Gift Cards Customer Service Center International Shipping Privacy Policy Site Map Contact Us Company Information Store Locator Order Status Join Email List <p> 1-800-285-2265   ©Jos.
-A.
-Bank Clothiers, Inc.</p>
-<br>
-<br>
-<p>
-<b>
-<i>
-<u>California Transparency In Supply Chains Disclosure</u>
-</i>
-</b>
-</p>
-<b>Clearance Center</b>  |  Gift Card Balance  |  Customer Service Center  |  Privacy Policy  |  Site Map  |  Company Information <p> 1-800-285-2265   ©Jos.
-A.
-Bank Clothiers, Inc.</p> if(!dc_user){ if(document.location.href.indexOf("Home_")!=-1){ location.protocol=='http:'?'':''.
+</ul> if(!dc_user){ if(document.location.href.indexOf("Home_")!=-1){ location.protocol=='http:'?'':''.
 } } if(!dc_user) { if (intCookie == 'FALSE') { } else if ((document.location.href.indexOf("CheckoutShippingView")!= -1)|| (document.location.href.indexOf("CheckoutPaymentView")!= -1)||(document.location.href.indexOf("OrderOKView")!=-1)) { } } 
