@@ -1,6 +1,6 @@
 <sitename name="dailymail.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy--Cookies.html">
+   <url name="http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy--Cookies.html" xpath="//div[@id='js-article-text']/*[not(self::div)]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
