@@ -1,6 +1,6 @@
 <sitename name="cafepress.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx">
+   <url name="http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx" xpath="//div[@id='helpContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

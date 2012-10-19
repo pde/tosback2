@@ -1,6 +1,6 @@
 <sitename name="carfax.com">
  <docname name="Privacy Policy">
-   <url name="http://www.carfax.com/cfm/ofprivacy.cfm">
+   <url name="http://www.carfax.com/privacyStatement.cfx" xpath="//div[@class='unstyled']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

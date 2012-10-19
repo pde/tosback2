@@ -94,9 +94,9 @@ def parse_xml_files(rules_path, results_path)
       
       tos_data = ""
       if doc_xpath.nil?
-        tos_data = ngdoc_url.at_xpath("//body").to_s
+        tos_data = ngdoc_url.xpath("//body").to_s
       else 
-        tos_data = ngdoc_url.at_xpath(doc_xpath.to_s).to_s
+        tos_data = ngdoc_url.xpath(doc_xpath.to_s).to_s
       end
       
       tos_data = format_tos(tos_data)
@@ -151,16 +151,25 @@ else
     begin
       ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
     rescue
-      puts "first"
+      puts "error opening page"
+      
+      begin
+        ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
+      rescue
+        puts "errorsssssz opening page"
+        # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
+        next
+      end
+      
       # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
-      next
+      # next
     end
     
     tos_data = ""
     if doc_xpath.nil?
-      tos_data = ngdoc_url.at_xpath("//body").to_s
+      tos_data = ngdoc_url.xpath("//body").to_s
     else 
-      tos_data = ngdoc_url.at_xpath(doc_xpath.to_s).to_s
+      tos_data = ngdoc_url.xpath(doc_xpath.to_s).to_s
     end
     
     tos_data = format_tos(tos_data)
