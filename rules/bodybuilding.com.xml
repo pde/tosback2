@@ -1,6 +1,6 @@
 <sitename name="bodybuilding.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bodybuilding.com/fun/disclaim.htm#privacy">
+   <url name="http://www.bodybuilding.com/fun/disclaim.htm" xpath="//div[@id='content']/div[@class='article-padding-content']/*[not(@id='article-related-articles') and not(@id='article-about-author') and not(@id='article-featured-product') and not(div[9]) and not(@class='padded-content article-content')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

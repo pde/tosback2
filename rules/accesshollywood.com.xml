@@ -1,6 +1,6 @@
 <sitename name="accesshollywood.com">
  <docname name="Privacy Policy">
-   <url name="http://www.accesshollywood.com/privacy-policy">
+   <url name="http://www.accesshollywood.com/privacy-policy" xpath="//div[@id='panel_0_1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
