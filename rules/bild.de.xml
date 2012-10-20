@@ -1,6 +1,6 @@
 <sitename name="bild.de">
  <docname name="Privacy Policy">
-   <url name="http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html">
+   <url name="http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html" xpath="//div[@id='contentWrapper']//div[@class='content s7 article']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

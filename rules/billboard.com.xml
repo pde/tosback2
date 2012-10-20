@@ -1,6 +1,6 @@
 <sitename name="billboard.com">
  <docname name="Privacy Policy">
-   <url name="http://www.billboard.com/#/footer/privacy-policy">
+   <url name="http://www.billboard.com/footer/privacy-policy#/footer/privacy-policy" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="accuweather.com">
  <docname name="Privacy Policy">
-   <url name="http://www.accuweather.com/en/privacy">
+   <url name="http://www.accuweather.com/en/privacy" xpath="//div[@id='news']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

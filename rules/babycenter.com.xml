@@ -1,6 +1,6 @@
 <sitename name="babycenter.com">
  <docname name="Privacy Policy">
-   <url name="http://www.babycenter.com/help-privacy">
+   <url name="http://www.babycenter.com/help-privacy" xpath="//div[@class='centerCol']//div[@class='moduleContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

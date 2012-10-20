@@ -1,6 +1,6 @@
 <sitename name="bikeexif.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bikeexif.com/privacy-policy">
+   <url name="http://www.bikeexif.com/privacy-policy" xpath="//div[@id='post-5636']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

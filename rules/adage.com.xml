@@ -1,6 +1,6 @@
 <sitename name="adage.com">
  <docname name="Privacy Policy">
-   <url name="http://adage.com/privacy">
+   <url name="http://adage.com/privacy" xpath="//div[@id='main']/div[@class='row']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

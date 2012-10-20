@@ -1,6 +1,6 @@
 <sitename name="backcountry.com">
  <docname name="Privacy Policy">
-   <url name="http://www.backcountry.com/store/footer.html#privacy">
+   <url name="http://www.backcountry.com/sc/privacy-policy" xpath="//section[@class='main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

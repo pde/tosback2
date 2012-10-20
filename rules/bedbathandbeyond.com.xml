@@ -1,6 +1,6 @@
 <sitename name="bedbathandbeyond.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bedbathandbeyond.com/policyPrivacy.asp?">
+   <url name="http://www.bedbathandbeyond.com/policyPrivacy.asp?" xpath="//div[@class='mainbody']/div[@class='contentwrap']/div[@class='contentbodymargin']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

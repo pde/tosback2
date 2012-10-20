@@ -1,0 +1,7 @@
+<sitename name="allrecipes.com">
+ <docname name="Privacy Policy">
+   <url name="http://allrecipes.com/help/aboutus/privacy.aspx" xpath="//div[@id='main']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
