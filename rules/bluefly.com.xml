@@ -1,6 +1,6 @@
 <sitename name="bluefly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bluefly.com/custom/custom.jsp?promoId=m1930248">
+   <url name="http://www.bluefly.com/custom/custom.jsp?promoId=m1930248" xpath="//div[@class='help_text']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

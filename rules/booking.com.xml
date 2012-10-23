@@ -1,6 +1,6 @@
 <sitename name="booking.com">
  <docname name="Privacy Policy">
-   <url name="http://www.booking.com/general.en-us.html?sid=a6f820d269e9070d9a88d65cd79ee579;dcid=1;tmpl=docs/privacy-policy">
+   <url name="http://www.booking.com/general.en-us.html?sid=a6f820d269e9070d9a88d65cd79ee579;dcid=1;tmpl=docs/privacy-policy" xpath="//div[@id='right']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

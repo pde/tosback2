@@ -1,6 +1,6 @@
 <sitename name="barbie.com">
  <docname name="Privacy Policy">
-   <url name="http://corporate.mattel.com/privacy-policy.aspx">
+   <url name="http://corporate.mattel.com/privacy-policy.aspx" xpath="//div[@id='container']/table">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

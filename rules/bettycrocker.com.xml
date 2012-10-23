@@ -1,6 +1,6 @@
 <sitename name="bettycrocker.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bettycrocker.com/privacy-policy">
+   <url name="http://www.bettycrocker.com/privacy-policy" xpath="//div[@class='pageContainer']/*[not(@class='bcHead') and not(@id='globalNavigation') and not(@id='Footer') and not(@id='mobileFooter')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

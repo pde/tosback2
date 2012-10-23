@@ -1,6 +1,6 @@
 <sitename name="biblegateway.com">
  <docname name="Privacy Policy">
-   <url name="http://www.biblegateway.com/legal/privacy.php">
+   <url name="http://www.biblegateway.com/legal/privacy.php" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

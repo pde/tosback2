@@ -1,6 +1,6 @@
 <sitename name="bleacherreport.com">
  <docname name="Privacy Policy">
-   <url name="http://bleacherreport.com/pages/privacy">
+   <url name="http://bleacherreport.com/pages/privacy" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="boardgamegeek.com">
  <docname name="Privacy Policy">
-   <url name="http://www.boardgamegeek.com/privacy">
+   <url name="http://www.boardgamegeek.com/privacy" xpath="//div[@id='toc0']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
