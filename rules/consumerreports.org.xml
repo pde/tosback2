@@ -1,6 +1,6 @@
 <sitename name="consumerreports.org">
  <docname name="Privacy Policy">
-   <url name="http://www.consumerreports.org/cro/customer-service/online-privacy-policy/index.htm">
+   <url name="http://www.consumerreports.org/cro/customer-service/online-privacy-policy/index.htm" xpath="//div[@class='parsys articleSections']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

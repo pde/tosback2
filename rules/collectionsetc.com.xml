@@ -1,6 +1,6 @@
 <sitename name="collectionsetc.com">
  <docname name="Privacy Policy">
-   <url name="http://www.collectionsetc.com/helpPrivacy.aspx">
+   <url name="http://www.collectionsetc.com/helpPrivacy.aspx" xpath="//table[@id='TableLeftNavAndContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

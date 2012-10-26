@@ -1,6 +1,6 @@
 <sitename name="cdiscount.com">
  <docname name="Privacy Policy">
-   <url name="https://clients.cdiscount.com/Simple/Cgv.aspx">
+   <url name="https://clients.cdiscount.com/Simple/Cgv.aspx" xpath="//div[@class='stdPageContent stdInfoPageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

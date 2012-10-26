@@ -1,7 +1,10 @@
 require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
+# require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
+
+# mech.user_agent_alias = 'Mac FireFox'
 
 rules_path = "../rules/"
 results_path = "../crawl/"
@@ -152,15 +155,7 @@ else
       ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
     rescue
       puts "error opening page"
-      
-      begin
-        ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
-      rescue
-        puts "errorsssssz opening page"
-        # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
-        next
-      end
-      
+            
       # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
       # next
     end

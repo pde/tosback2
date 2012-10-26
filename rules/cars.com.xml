@@ -1,6 +1,6 @@
 <sitename name="cars.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cars.com/go/about/privacy.jsp">
+   <url name="http://www.cars.com/go/about/privacy.jsp" xpath="//div[@id='maincontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

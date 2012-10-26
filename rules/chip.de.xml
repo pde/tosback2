@@ -1,6 +1,6 @@
 <sitename name="chip.de">
  <docname name="Privacy Policy">
-   <url name="http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html">
+   <url name="http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html" xpath="//div[@id='datenschutz']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

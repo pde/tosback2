@@ -1,6 +1,6 @@
 <sitename name="chegg.com">
  <docname name="Privacy Policy">
-   <url name="http://www.chegg.com/privacypolicy/">
+   <url name="http://www.chegg.com/privacypolicy/" xpath="//div[@id='tou-page']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

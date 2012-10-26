@@ -1,6 +1,6 @@
 <sitename name="care2.com">
  <docname name="Privacy Policy">
-   <url name="http://www.care2.com/help/general/privacy.html">
+   <url name="http://www.care2.com/help/general/privacy.html" xpath="//div[@id='care2_main_container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
