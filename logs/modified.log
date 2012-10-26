@@ -5,23 +5,24 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/HP.com/Privacy Policy.txt
+#	modified:   ../crawl/acrobat.com/Privacy Policy.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
-#	modified:   ../crawl/att.com/Terms of Service.txt
-#	modified:   ../crawl/aufeminin.com/Privacy Policy.txt
-#	modified:   ../crawl/autopartswarehouse.com/Privacy Policy.txt
+#	modified:   ../crawl/answerbag.com/Privacy Policy.txt
+#	modified:   ../crawl/appchronicles.com/Privacy Policy.txt
+#	modified:   ../crawl/argos.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/basspro.com/Privacy Policy.txt
-#	modified:   ../crawl/bettycrocker.com/Privacy Policy.txt
 #	modified:   ../crawl/biblegateway.com/Privacy Policy.txt
+#	modified:   ../crawl/bizrate.com/Privacy Policy.txt
 #	modified:   ../crawl/bleacherreport.com/Privacy Policy.txt
 #	modified:   ../crawl/bluefly.com/Privacy Policy.txt
+#	modified:   ../crawl/blurtit.com/Privacy Policy.txt
 #	modified:   ../crawl/boardgamegeek.com/Privacy Policy.txt
 #	modified:   ../crawl/booking.com/Privacy Policy.txt
 #	modified:   ../crawl/boston.com/Privacy Policy.txt
 #	modified:   ../crawl/brookstone.com/Privacy Policy.txt
-#	modified:   ../crawl/buckle.com/Privacy Policy.txt
 #	modified:   ../crawl/businessinsider.com/Privacy Policy.txt
-#	modified:   ../crawl/ca.gov/Privacy Policy.txt
-#	modified:   ../crawl/cabelas.com/Privacy Policy.txt
+#	modified:   ../crawl/businessweek.com/Privacy Policy.txt
 #	modified:   ../crawl/care2.com/Privacy Policy.txt
 #	modified:   ../crawl/cdiscount.com/Privacy Policy.txt
 #	modified:   ../crawl/chip.de/Privacy Policy.txt
@@ -38,53 +39,51 @@ These files were modified since the last commit:
 #	modified:   ../crawl/cruises.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/csmonitor.com/Privacy Policy.txt
 #	modified:   ../crawl/dailycaller.com/Privacy Policy.txt
-#	modified:   ../crawl/dickssportinggoods.com/Privacy Policy.txt
-#	modified:   ../crawl/dillards.com/Privacy Policy.txt
+#	modified:   ../crawl/dailymotion.com/Privacy Policy.txt
 #	modified:   ../crawl/directv.com/Privacy Policy.txt
+#	modified:   ../crawl/dropbox.com/Privacy Policy.txt
 #	modified:   ../crawl/drugs.com/Privacy Policy.txt
 #	modified:   ../crawl/dsc.discovery.com/Privacy Policy.txt
 #	modified:   ../crawl/ebags.com/Privacy Policy.txt
 #	modified:   ../crawl/ebaumsworld.com/Privacy Policy.txt
-#	modified:   ../crawl/eddiebauer.com/Privacy Policy.txt
-#	modified:   ../crawl/edmunds.com/Privacy Policy.txt
 #	modified:   ../crawl/eff.org/Privacy Policy.txt
-#	modified:   ../crawl/elearners.com/Privacy Policy.txt
 #	modified:   ../crawl/endless.com/Privacy Policy.txt
+#	modified:   ../crawl/eonline.com/Privacy Policy.txt
 #	modified:   ../crawl/ephotozine.com/Privacy Policy.txt
 #	modified:   ../crawl/epulettar.hu/Privacy Policy.txt
-#	modified:   ../crawl/equifax.com/Privacy Policy.txt
 #	modified:   ../crawl/equine.com/Privacy Policy.txt
 #	modified:   ../crawl/esquire.com/Privacy Policy.txt
-#	modified:   ../crawl/expedia.com/Privacy Policy.txt
+#	modified:   ../crawl/examiner.com/Privacy Policy.txt
 #	modified:   ../crawl/fark.com/Privacy Policy.txt
 #	modified:   ../crawl/farmfutures.com/Privacy Policy.txt
 #	modified:   ../crawl/fastcompany.com/Privacy Policy.txt
 #	modified:   ../crawl/filestube.com/Privacy Policy.txt
-#	modified:   ../crawl/foodfunandfacts.com/Privacy Policy.txt
+#	modified:   ../crawl/finishline.com/Privacy Policy.txt
+#	modified:   ../crawl/flickr.com/Privacy Policy.txt
 #	modified:   ../crawl/foodnetwork.co.uk/Privacy Policy.txt
-#	modified:   ../crawl/fragrancenet.com/Privacy Policy.txt
-#	modified:   ../crawl/freecreditscore.com/Privacy Policy.txt
+#	modified:   ../crawl/fossil.com/Privacy Policy.txt
 #	modified:   ../crawl/freeonlinegames.com/Privacy Policy.txt
-#	modified:   ../crawl/gap.com/Privacy Policy.txt
+#	modified:   ../crawl/freescottwalsh.info/Privacy Policy.txt
+#	modified:   ../crawl/gateway.com/Privacy Policy.txt
+#	modified:   ../crawl/gifts.com/Privacy Policy.txt
 #	modified:   ../crawl/globalresearch.ca/Privacy Policy.txt
 #	modified:   ../crawl/gmx.com/Privacy Policy.txt
 #	modified:   ../crawl/godlikeproductions.com/Privacy Policy.txt
 #	modified:   ../crawl/golfchannel.com/Privacy Policy.txt
-#	modified:   ../crawl/goodhousekeeping.com/Privacy Policy.txt
-#	modified:   ../crawl/goodreads.com/Privacy Policy.txt
 #	modified:   ../crawl/grainger.com/Privacy Policy.txt
-#	modified:   ../crawl/groupon.com/Privacy Policy.txt
 #	modified:   ../crawl/guardian.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/gutefrage.net/Privacy Policy.txt
 #	modified:   ../crawl/harpersbazaar.com/Privacy Policy.txt
-#	modified:   ../crawl/harryanddavid.com/Privacy Policy.txt
 #	modified:   ../crawl/healthline.com/Privacy Policy.txt
 #	modified:   ../crawl/hollisterco.com/Privacy Policy.txt
+#	modified:   ../crawl/homedecorators.com/Privacy Policy.txt
 #	modified:   ../crawl/honda.com/Privacy Policy.txt
 #	modified:   ../crawl/hootsuite.com/Privacy Policy.txt
 #	modified:   ../crawl/housebeautiful.com/Privacy Policy.txt
+#	modified:   ../crawl/hsn.com/Privacy Policy.txt
 #	modified:   ../crawl/hubpages.com/Privacy Policy.txt
 #	modified:   ../crawl/huffingtonpost.com/Privacy Policy.txt
+#	modified:   ../crawl/imgur.com/Privacy Policy.txt
 #	modified:   ../crawl/inbox.com/Privacy Policy.txt
 #	modified:   ../crawl/intel.com/Privacy Policy.txt
 #	modified:   ../crawl/intellicast.com/Privacy Policy.txt
@@ -92,27 +91,26 @@ These files were modified since the last commit:
 #	modified:   ../crawl/ivillage.com/Privacy Policy.txt
 #	modified:   ../crawl/jcpenney.com/Privacy Policy.txt
 #	modified:   ../crawl/jcpenny.com/Privacy Policy.txt
+#	modified:   ../crawl/jetblue.com/Privacy Policy.txt
 #	modified:   ../crawl/jetsetter.com/Privacy Policy.txt
-#	modified:   ../crawl/joann.com/Privacy Policy.txt
-#	modified:   ../crawl/josbank.com/Privacy Policy.txt
 #	modified:   ../crawl/jpost.com/Privacy Policy.txt
 #	modified:   ../crawl/kansascity.com/Privacy Policy.txt
-#	modified:   ../crawl/karoo.co.uk/Privacy Policy.txt
-#	modified:   ../crawl/khanacademy.org/Privacy Policy.txt
+#	modified:   ../crawl/kayak.com/Privacy Policy.txt
 #	modified:   ../crawl/kmart.com/Privacy Policy.txt
 #	modified:   ../crawl/lakeside.com/Privacy Policy.txt
 #	modified:   ../crawl/last.fm/Privacy Policy.txt
 #	modified:   ../crawl/legacy.com/Privacy Policy.txt
 #	modified:   ../crawl/linkedin.com/Privacy Policy.txt
+#	modified:   ../crawl/livejournal.com/Privacy Policy.txt
 #	modified:   ../crawl/livestrong.com/Privacy Policy.txt
-#	modified:   ../crawl/manta.com/Privacy Policy.txt
+#	modified:   ../crawl/llbean.com/Privacy Policy.txt
 #	modified:   ../crawl/marieclaire.com/Privacy Policy.txt
-#	modified:   ../crawl/marketingvox.com/Privacy Policy.txt
 #	modified:   ../crawl/marketwatch.com/Privacy Policy.txt
 #	modified:   ../crawl/marriott.com/Privacy Policy.txt
 #	modified:   ../crawl/mashable.com/Privacy Policy.txt
 #	modified:   ../crawl/match.com/Privacy Policy.txt
 #	modified:   ../crawl/medicinenet.com/Privacy Policy.txt
+#	modified:   ../crawl/metrolyrics.com/Privacy Policy.txt
 #	modified:   ../crawl/michaels.com/Privacy Policy.txt
 #	modified:   ../crawl/mittromney.com/Privacy Policy.txt
 #	modified:   ../crawl/modcloth.com/Privacy Policy.txt
@@ -126,14 +124,17 @@ These files were modified since the last commit:
 #	modified:   ../crawl/nbcsports.msnbc.com/Privacy Policy.txt
 #	modified:   ../crawl/neimanmarcus.com/Privacy Policy.txt
 #	modified:   ../crawl/newser.com/Privacy Policy.txt
-#	modified:   ../crawl/nyandcompany.com/Privacy Policy.txt
+#	modified:   ../crawl/nick.com/Privacy Policy.txt
+#	modified:   ../crawl/nordstrom.com/Privacy Policy.txt
 #	modified:   ../crawl/nydailynews.com/Privacy Policy.txt
 #	modified:   ../crawl/oficedepot.com/Privacy Policy.txt
-#	modified:   ../crawl/oprah.com/Privacy Policy.txt
 #	modified:   ../crawl/over-blog.com/Privacy Policy.txt
+#	modified:   ../crawl/overstock.com/Privacy Policy.txt
 #	modified:   ../crawl/paidcontent.org/Privacy Policy.txt
-#	modified:   ../crawl/pcworld.com/Privacy Policy.txt
+#	modified:   ../crawl/partycity.com/Privacy Policy.txt
 #	modified:   ../crawl/personalizationmall.com/Privacy Policy.txt
+#	modified:   ../crawl/petco.com/Privacy Policy.txt
+#	modified:   ../crawl/petsmart.com/Privacy Policy.txt
 #	modified:   ../crawl/philanthropy.com/Privacy Policy.txt
 #	modified:   ../crawl/pier1.com/Privacy Policy.txt
 #	modified:   ../crawl/pjmedia.com/Privacy Policy.txt
@@ -141,34 +142,47 @@ These files were modified since the last commit:
 #	modified:   ../crawl/pocruises.com/Privacy Policy.txt
 #	modified:   ../crawl/pof.com/Privacy Policy.txt
 #	modified:   ../crawl/politico.com/Privacy Policy.txt
-#	modified:   ../crawl/potterybarn.com/Privacy Policy.txt
 #	modified:   ../crawl/pricegrabber.com/Privacy Policy.txt
 #	modified:   ../crawl/priceminister.com/Privacy Policy.txt
-#	modified:   ../crawl/primarygames.com/Privacy Policy.txt
-#	modified:   ../crawl/putlocker.com/Privacy Policy.txt
+#	modified:   ../crawl/quora.com/Privacy Policy.txt
 #	modified:   ../crawl/radioshack.com/Privacy Policy.txt
+#	modified:   ../crawl/redbookmag.com/Privacy Policy.txt
 #	modified:   ../crawl/redding.com/Privacy Policy.txt
+#	modified:   ../crawl/reputation.com/Privacy Policy.txt
 #	modified:   ../crawl/retailmenot.com/Privacy Policy.txt
 #	modified:   ../crawl/rollingstone.com/Privacy Policy.txt
 #	modified:   ../crawl/rotoworld.com/Privacy Policy.txt
 #	modified:   ../crawl/rxlist.com/Privacy Policy.txt
-#	modified:   ../crawl/safeway.com/Privacy Policy.txt
 #	modified:   ../crawl/salon.com/Privacy Policy.txt
 #	modified:   ../crawl/samsclub.com/Privacy Policy.txt
-#	modified:   ../crawl/scout.com/Privacy Policy.txt
-#	modified:   ../crawl/sears.com/Privacy Policy.txt
+#	modified:   ../crawl/sbnation.com/Privacy Policy.txt
 #	modified:   ../crawl/seventeen.com/Privacy Policy.txt
 #	modified:   ../crawl/sfgate.com/Privacy Policy.txt
 #	modified:   ../crawl/shop.pacsun.com/Privacy Policy.txt
 #	modified:   ../crawl/shopathome.com/Privacy Policy.txt
 #	modified:   ../crawl/shoplocal.com/Privacy Policy.txt
+#	modified:   ../crawl/shopzilla.com/Privacy Policy.txt
 #	modified:   ../crawl/sierratradingpost.com/Privacy Policy.txt
+#	modified:   ../crawl/skype.com/Business End User License Agreement (US).txt
+#	modified:   ../crawl/skype.com/Business End User License Agreement.txt
+#	modified:   ../crawl/skype.com/Cookies Policy.txt
+#	modified:   ../crawl/skype.com/Etiquette.txt
+#	modified:   ../crawl/skype.com/Fair Usage Policy for Subscriptions.txt
+#	modified:   ../crawl/skype.com/Fair Usage Policy for US Minute Bundles.txt
+#	modified:   ../crawl/skype.com/Group Video Calling Fair Usage Policy.txt
+#	modified:   ../crawl/skype.com/Privacy Policies.txt
+#	modified:   ../crawl/skype.com/Skype Emergency Calling.txt
+#	modified:   ../crawl/skype.com/Terms and Policies.txt
+#	modified:   ../crawl/skype.com/Terms of Service - Business (US).txt
+#	modified:   ../crawl/skype.com/Terms of Service - Business.txt
+#	modified:   ../crawl/skype.com/Terms of Use.txt
+#	modified:   ../crawl/skype.com/Trademark Guidelines.txt
+#	modified:   ../crawl/snapfish.com/Privacy Policy.txt
 #	modified:   ../crawl/softpedia.com/Privacy Policy.txt
+#	modified:   ../crawl/southwest.com/Privacy Policy.txt
 #	modified:   ../crawl/sparkpeople.com/Privacy Policy.txt
 #	modified:   ../crawl/squidoo.com/Privacy Policy.txt
-#	modified:   ../crawl/stackexchange.com/Privacy Policy.txt
-#	modified:   ../crawl/stumbleupon.com/Privacy Policy.txt
-#	modified:   ../crawl/swisscolony.com/Privacy Policy.txt
+#	modified:   ../crawl/suntimes.com/Privacy Policy.txt
 #	modified:   ../crawl/telegraph.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/theatlantic.com/Privacy Policy.txt
 #	modified:   ../crawl/theblaze.com/Privacy Policy.txt
@@ -177,13 +191,20 @@ These files were modified since the last commit:
 #	modified:   ../crawl/thehill.com/Privacy Policy.txt
 #	modified:   ../crawl/thepostgame.com/Privacy Policy.txt
 #	modified:   ../crawl/thestreet.com/Privacy Policy.txt
+#	modified:   ../crawl/thingsremembered.com/Privacy Policy.txt
 #	modified:   ../crawl/tiffany.com/Privacy Policy.txt
+#	modified:   ../crawl/timeanddate.com/Privacy Policy.txt
+#	modified:   ../crawl/tinypic.com/Privacy Policy.txt
 #	modified:   ../crawl/topix.com/Privacy Policy.txt
+#	modified:   ../crawl/toysrus.com/Privacy Policy.txt
+#	modified:   ../crawl/trulia.com/Privacy Policy.txt
 #	modified:   ../crawl/tube8.com/Privacy Policy.txt
+#	modified:   ../crawl/tumblr.com/Privacy Policy.txt
 #	modified:   ../crawl/tvguide.com/Privacy Policy.txt
 #	modified:   ../crawl/twowaylove.com/Privacy Policy.txt
 #	modified:   ../crawl/ucla.edu/Privacy Policy.txt
 #	modified:   ../crawl/uggaustralia.com/Privacy Policy.txt
+#	modified:   ../crawl/uk.yahoo.com/Privacy Policy.txt
 #	modified:   ../crawl/uncommongoods.com/Privacy Policy.txt
 #	modified:   ../crawl/underarmour.com/Privacy Policy.txt
 #	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
@@ -191,33 +212,28 @@ These files were modified since the last commit:
 #	modified:   ../crawl/vanguard.com/Privacy Policy.txt
 #	modified:   ../crawl/vcstar.com/Privacy Policy.txt
 #	modified:   ../crawl/veranda.com/Privacy Policy.txt
-#	modified:   ../crawl/vermontcountrystore.com/Privacy Policy.txt
 #	modified:   ../crawl/vistaprint.com/Privacy Policy.txt
 #	modified:   ../crawl/voanews.com/Privacy Policy.txt
 #	modified:   ../crawl/vstar.com/Privacy Policy.txt
 #	modified:   ../crawl/walmart.com/Privacy Policy.txt
 #	modified:   ../crawl/washingtonpost.com/Privacy Policy.txt
 #	modified:   ../crawl/wayfair.com/Privacy Policy.txt
-#	modified:   ../crawl/webs.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/weightwatchers.com/Privacy Policy.txt
 #	modified:   ../crawl/wikianswers.com/Privacy Policy.txt
+#	modified:   ../crawl/williams-sonoma.com/Privacy Policy.txt
 #	modified:   ../crawl/womansday.com/Privacy Policy.txt
 #	modified:   ../crawl/wordpress.com/WordPress.com Terms Of Service.txt
 #	modified:   ../crawl/worldmarket.com/Privacy Policy.txt
 #	modified:   ../crawl/worldstarhiphop.com/Privacy Policy.txt
-#	modified:   ../crawl/wsj.com/Privacy Policy.txt
-#	modified:   ../crawl/www.amazon.com/Kindle License Agreement and Terms of Use.txt
 #	modified:   ../crawl/www.amazon.com/Privacy Notice.txt
-#	modified:   ../crawl/www.data.gov/Data Policy.txt
-#	modified:   ../crawl/www.data.gov/Privacy Policy.txt
 #	modified:   ../crawl/xhamster.com/Privacy Policy.txt
-#	modified:   ../crawl/yammer.com/Privacy Policy.txt
+#	modified:   ../crawl/yahoo.com/Terms of Service.txt
+#	modified:   ../crawl/yahoo.de/Privacy Policy.txt
 #	modified:   ../crawl/yardbarker.com/Privacy Policy.txt
 #	modified:   ../crawl/zales.com/Privacy Policy.txt
-#	modified:   ../crawl/zappos.com/Privacy Policy.txt
 #	modified:   ../crawl/zazzle.com/Privacy Policy.txt
-#	modified:   ../crawl/zillow.com/Privacy Policy.txt
+#	modified:   ../crawl/zedo.com/Privacy Policy.txt
 #	modified:   ../crawl/zimbio.com/Privacy Policy.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
