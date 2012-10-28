@@ -101,12 +101,14 @@ def parse_xml_files(rules_path, results_path)
       # end
       
       tos_data = ""
-      tos_data = open_page(doc_url)
-      next if tos_data == "skip" # go to next doc if page couldn't be opened
+      mchdoc = open_page(doc_url)
+      next if mchdoc == "skip" # go to next doc if page couldn't be opened
 
-      tos_data = scrape_page(tos_data,doc_xpath)
+      tos_data = scrape_page(mchdoc,doc_xpath)
       
       tos_data = format_tos(tos_data)
+      
+      # log_stuff("crawl data length: #{tos_data.length}","caveman.log")
       
       crawl_file.puts tos_data
       crawl_file.close
@@ -129,15 +131,32 @@ def open_page(url)
     gonext = "skip"
   end
   
+  # log_stuff("open page gonext: #{gonext.class}\turl: #{url}","caveman.log")
+  
   return (gonext == "skip" ? gonext : page)
 end
 
-def scrape_page(page,xpath)
-  if xpath.nil?
-    tos_data = page.search("//body").to_s
-  else 
-    tos_data = page.search(xpath.to_s).to_s
+def scrape_page(mchdoc,xpath)
+  if mchdoc.class == Mechanize::Page
+    begin
+      if xpath.nil?
+        tos_data = mchdoc.search("//body").to_s
+      else 
+        tos_data = mchdoc.search(xpath.to_s).to_s
+      end
+    rescue  
+      mchdoc.encoding=("UTF-8")
+      if xpath.nil?
+        tos_data = mchdoc.search("//body").to_s
+      else 
+        tos_data = mchdoc.search(xpath.to_s).to_s
+      end
+    end
+  elsif mchdoc.class == Mechanize::File
+    tos_data = mchdoc.content
   end
+  
+  # log_stuff("scrape page page.class: #{mchdoc.class}","caveman.log")
   
   return tos_data
 end
