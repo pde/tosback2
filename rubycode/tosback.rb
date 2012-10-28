@@ -86,19 +86,25 @@ def parse_xml_files(rules_path, results_path)
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
       doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
       
-      begin
-        ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
-      rescue
-        log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
-        next
-      end
+      # begin
+      #   ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
+      # rescue
+      #   log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
+      #   next
+      # end
+      # 
+      # tos_data = ""
+      # if doc_xpath.nil?
+      #   tos_data = ngdoc_url.xpath("//body").to_s
+      # else 
+      #   tos_data = ngdoc_url.xpath(doc_xpath.to_s).to_s
+      # end
       
       tos_data = ""
-      if doc_xpath.nil?
-        tos_data = ngdoc_url.xpath("//body").to_s
-      else 
-        tos_data = ngdoc_url.xpath(doc_xpath.to_s).to_s
-      end
+      tos_data = open_page(doc_url)
+      next if tos_data == "skip" # go to next doc if page couldn't be opened
+
+      tos_data = scrape_page(tos_data,doc_xpath)
       
       tos_data = format_tos(tos_data)
       
@@ -113,7 +119,7 @@ end
 def open_page(url)
   mech = Mechanize.new
   mech.user_agent_alias = 'Mac FireFox'
-  gonext = false
+  gonext = nil
   
   begin
     page = mech.get(url)
