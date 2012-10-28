@@ -1,6 +1,4 @@
-
-<p>var Privacy01 = '</p>
-<p>PRIVACY POLICY<br>'.
+var Privacy01 = '<p>PRIVACY POLICY<br>'.
 Privacy01 += '</p>
 <p>
 <strong>1.
