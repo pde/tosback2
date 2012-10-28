@@ -1,10 +1,8 @@
 require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
-# require 'mechanize' # will probably need to use this instead to handle sites that require session info
+require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
-
-# mech.user_agent_alias = 'Mac FireFox'
 
 rules_path = "../rules/"
 results_path = "../crawl/"
@@ -112,7 +110,35 @@ def parse_xml_files(rules_path, results_path)
   
 end
 
-# code stuff
+def open_page(url)
+  mech = Mechanize.new
+  mech.user_agent_alias = 'Mac FireFox'
+  gonext = false
+  
+  begin
+    page = mech.get(url)
+  rescue
+    # puts "error opening page"
+    log_stuff("Problem opening URL(404?): #{url}",$error_log)
+    gonext = "skip"
+  end
+  
+  return (gonext == "skip" ? gonext : page)
+end
+
+def scrape_page(page,xpath)
+  if xpath.nil?
+    tos_data = page.search("//body").to_s
+  else 
+    tos_data = page.search(xpath.to_s).to_s
+  end
+  
+  return tos_data
+end
+
+##
+# code stuff starts here :)
+##
 
 unless ARGV.length == 1
 
@@ -144,29 +170,19 @@ else
     docs << doc.at_xpath("./@name")
   end
   
-  docs.each do |name| # for every docname in sitename in file
-    # crawl_file_name = "#{new_path}#{name}.txt"
-    # crawl_file = File.open(crawl_file_name,"w") # new file or overwrite old file
-    
+  docs.each do |name| # for every docname in sitename in file    
     doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
     doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
     
-    begin
-      ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
-    rescue
-      puts "error opening page"
-            
-      # log_stuff("Problem opening URL(404?): #{doc_url}",$error_log)
-      # next
-    end
-    
+    ### Code moved into open_page(url)
+
     tos_data = ""
-    if doc_xpath.nil?
-      tos_data = ngdoc_url.xpath("//body").to_s
-    else 
-      tos_data = ngdoc_url.xpath(doc_xpath.to_s).to_s
-    end
     
+    tos_data = open_page(doc_url)
+    next if tos_data == "skip" # go to next doc if page couldn't be opened
+    
+    tos_data = scrape_page(tos_data,doc_xpath)
+        
     tos_data = format_tos(tos_data)
 
     puts tos_data
