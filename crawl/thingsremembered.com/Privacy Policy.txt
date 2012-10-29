@@ -1,5 +1,5 @@
  iMuse Personalization Studio <ul>
-<li>Gift Reminders</li>
+<li>Gift Services</li>
 </ul> Store Locator <ul>
 <li> Occasions <ul>
 <li>Veteran's Day</li>
@@ -203,14 +203,14 @@ Name Badges</li>
 <li> Sale <ul>
 <li>Women's Jewelry Sale</li>
 <li>Sterling Silver Jewelry Sale</li>
-<li>Women's Necklace Sale</li>
-<li>Women's Bracelet Sale</li>
+<li>Women's Necklaces Sale</li>
+<li>Women's Bracelets Sale</li>
 <li>Women's Gifts &amp.
 Accessories Sale</li>
 <li>Men's Accessories Sale</li>
 <li>Frames &amp.
-Albums Sale</li>
-<li>Photo to Canvas Art Sale</li>
+Albums on Sale</li>
+<li>Photo to Canvas Sale</li>
 <li>Pens &amp.
 Pencils Sale</li>
 <li>Office Gifts Sale</li>
@@ -218,13 +218,13 @@ Pencils Sale</li>
 <ul>
 <li>Drinkware Sale</li>
 <li>Special Offer Flasks</li>
-<li>Home Gifts on Sale</li>
+<li>Home Gifts Sale</li>
 <li>Water Globes Sale</li>
 <li>Wedding Gifts Sale</li>
 <li>Embroidered Gifts Sale</li>
-<li>Ornaments on Sale</li>
-<li>View All Sale</li>
-<li>Clearance Sale</li>
+<li>Seasonal Gifts on Sale</li>
+<li>View All Gifts Sale</li>
+<li>Clearance Gifts</li>
 </ul>
 <ul>
 </ul>
@@ -233,7 +233,7 @@ Pencils Sale</li>
 <ul>
 <li>Special Offers</li>
 <li>Free Keepsake Box</li>
-<li>Exclusively Online Gifts</li>
+<li>Exclusive Online Gifts</li>
 <li>Free Shipping</li>
 </ul>
 <p> {"dragByHandle":true,"cssSelector":"ql-thumbnail","dragByBody":false,"widgetClass":"OverlayWidget","bindings":{"bind0":{"element":".ql-thumbnail .Quicklook .trigger","type":"quicklookselected","fn":"function(){$.fnProxy(arguments,\'#headerOverlay\',OverlayWidget.show,\'OverlayWidget.show\');}"}},"effectOnHide":"slide","effectOnShowOptions":"{}","closeOnBackgroundClick":true,"effectOnHideOptions":"{}","effectOnShowSpeed":"1200","onScreenPadding":10,"allowOffScreenOverlay":false,"effectOnHideSpeed":"1200","effectOnShow":"slide","captureClicks":true}</p> Customer Service <ul>
@@ -379,12 +379,10 @@ We prohibit these companies from using this information for their own marketing 
 <li>Order Status</li>
 <li>Contact Us</li>
 </ul> Gift Services <ul>
-<li>Personalization Options</li>
+<li>Personalization</li>
 <li>iMuse</li>
 <li>Gift Wrap</li>
-<li>Business Gifting &amp.
-Services</li>
-<li>Rewards Club</li>
+<li>Business Services</li>
 <li>Gift Reminders</li>
 <li>Good Things</li>
 </ul> Company Information <ul>
