@@ -86,6 +86,7 @@ def parse_xml_files(rules_path, results_path)
       doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
       doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
       
+      ## remove when we're sure the new methods work. 
       # begin
       #   ngdoc_url = Nokogiri::HTML(open(doc_url, "User-Agent" => "Mozilla/5.0","Accept-Language" => "en-us,en;q=0.5"))
       # rescue
@@ -154,6 +155,7 @@ def scrape_page(mchdoc,xpath)
     end
   elsif mchdoc.class == Mechanize::File
     tos_data = mchdoc.content
+    #TODO log which uris are returning Files and make sure they look okay.
   end
   
   # log_stuff("scrape page page.class: #{mchdoc.class}","caveman.log")
