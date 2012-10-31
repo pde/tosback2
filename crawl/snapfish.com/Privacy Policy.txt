@@ -4,7 +4,7 @@
 <li> </li>
 <li>
 US Europe
-België - Nederlands BE<br>Belgique - français BE<br>Deutschland DE<br>Danmark DK<br>España ES<br>France FR<br>Ireland IE<br>Italia IT<br>Nederland NL<br>Norge NO<br>Österreich AT<br>Portugal PT<br>Schweiz - Deutsch CH<br>Suisse - français CH<br>Svizzera - italiano CH<br>Sverige SE<br>United Kingdom UK<br>
+België - Nederlands BE<br>Belgique - français BE<br>Deutschland DE<br>España ES<br>France FR<br>Ireland IE<br>Italia IT<br>Nederland NL<br>Österreich AT<br>Schweiz - Deutsch CH<br>Suisse - français CH<br>Svizzera - italiano CH<br>United Kingdom UK<br>
 <br>North America Canada - English CA<br>Canada - français CA<br>United States US<br>
 <br>Asia Pacific
 Australia AU<br>India IN<br>New Zealand NZ<br>Singapore SG<br>China - 中国 <br>Japan - 日本 <br>
@@ -195,8 +195,6 @@ private Payment Methods <dl>
 <li>Fotokarten</li>
 </ul>
 </dd>
-<dd>     Danmark
-</dd>
 <dd>     España
 </dd>
 <dd>     France
@@ -207,8 +205,6 @@ private Payment Methods <dl>
 </dd>
 <dd>     Nederland
 </dd>
-<dd>     Norge
-</dd>
 <dd>     Österreich
 <ul>
 <li>Fotoabzüge</li>
@@ -216,8 +212,6 @@ private Payment Methods <dl>
 <li>Fotogeschenke</li>
 <li>Fotokarten</li>
 </ul>
-</dd>
-<dd>     Portugal
 </dd>
 <dd>     Schweiz - Deutsch
 <ul>
@@ -227,7 +221,7 @@ private Payment Methods <dl>
 <li>Fotokarten</li>
 </ul>
 </dd>
-<dd>    Suisse - français
+<dd>     Suisse - français
 <ul>
 <li>tirages photo</li>
 <li>Livres photo</li>
@@ -235,15 +229,13 @@ private Payment Methods <dl>
 <li>Cartes et Faire-part</li>
 </ul>
 </dd>
-<dd>     Svizzera - italiano
+<dd>    Svizzera - italiano
 <ul>
 <li>Stampe Digitali</li>
 <li>foto album</li>
 <li>regali personalizzabili</li>
 <li>foto cartoline</li>
 </ul>
-</dd>
-<dd>     Sverige
 </dd>
 <dd>     United Kingdom
 <ul>
