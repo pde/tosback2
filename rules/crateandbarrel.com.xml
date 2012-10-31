@@ -1,6 +1,6 @@
 <sitename name="crateandbarrel.com">
  <docname name="Privacy Policy">
-   <url name="http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx">
+   <url name="http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx" xpath="//div[@id='content']/div[@class='width750 pB20']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

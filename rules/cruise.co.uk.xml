@@ -1,6 +1,6 @@
 <sitename name="cruise.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.cruise.co.uk/cruise-guides/Privacy/">
+   <url name="http://www.cruise.co.uk/cruise-guides/Privacy/" xpath="//td[@id='content']/div[@class='pages']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

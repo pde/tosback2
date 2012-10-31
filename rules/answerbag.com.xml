@@ -1,6 +1,6 @@
 <sitename name="answerbag.com">
  <docname name="Privacy Policy">
-   <url name="http://www.answerbag.com/privacy/">
+   <url name="http://www.answerbag.com/privacy/" xpath="//div[@id='Legal']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

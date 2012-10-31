@@ -1,6 +1,6 @@
 <sitename name="alot.com">
  <docname name="Privacy Policy">
-   <url name="http://www.alot.com/privacy-policy">
+   <url name="http://www.alot.com/privacy-policy" xpath="//div[@class='podBody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

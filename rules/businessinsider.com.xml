@@ -1,6 +1,6 @@
 <sitename name="businessinsider.com">
  <docname name="Privacy Policy">
-   <url name="http://www.businessinsider.com/privacy-policy" xpath="//div[@id='content']">
+   <url name="http://www.businessinsider.com/privacy-policy" xpath="//div[@class='KonaBody post-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

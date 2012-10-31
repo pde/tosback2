@@ -1,6 +1,6 @@
 <sitename name="allthingsd.com">
  <docname name="Privacy Policy">
-   <url name="http://allthingsd.com/privacy/">
+   <url name="http://allthingsd.com/privacy/" xpath="//div[@class='privacyPolicyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
