@@ -7,7 +7,8 @@
 <li> All Deals </li>
 <li> Getaways </li>
 <li> Goods New </li>
-<li> Holiday Deals </li>
+<li> Election Deals </li>
+<li>Gifts</li>
 </ul>
 <ul>
 <li>Sign In</li>
@@ -416,8 +417,10 @@ Click the link to download the Groupon app.</p>
 <li>
 <dl>
 <dt> Grow Your Business </dt>
-<dd> Get new customers and grow your business by Selling on Groupon </dd>
-<dd> See why thousands of businesses have succeeded advertising on Groupon </dd>
+<dd> Get new customers and grow your business by selling on Groupon.
+</dd>
+<dd> See why thousands of businesses have succeeded advertising on Groupon.
+</dd>
 </dl>
 </li>
 <li>
@@ -463,7 +466,6 @@ Get involved </dd>
 <dd>Run a Groupon Deal</dd>
 <dd>Accept Groupon Payments</dd>
 <dd>Affiliate Program</dd>
-<dd>Run a Deal</dd>
 <dd>Developers / API</dd>
 <dd>Groupon Referral Widget</dd>
 <dd>Help Your Community</dd>
