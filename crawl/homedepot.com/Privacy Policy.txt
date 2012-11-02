@@ -11,7 +11,11 @@
 <li>Local Ad</li>
 <li>Help</li>
 </ul>
-<ul>
+<p>Based on your current location, we have chosen a store to give you the most up-to-date selections and pricing available.</p>
+<p>If this is not your preferred local store, please update your store here.</p>	CLOSE
+X <p>We were unable to identify your local store.
+Please enter your ZIP Code and select your local store, so we can provide current product and pricing information available for your area.</p> ZIP CODE SUBMIT CLOSE
+X <ul>
 <li>
 <ul>
 <li>
@@ -1306,6 +1310,7 @@ Delivery</li>
 <li>Return Policy</li>
 <li>Savings Center</li>
 <li>Store Pick-up Policy</li>
+<li>Ship to Store Pick-up Policy</li>
 </ul>Our Sites <ul>
 <li>Eco Options</li>
 <li>Home Decorators Collection</li>
