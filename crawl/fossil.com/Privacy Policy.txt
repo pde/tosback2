@@ -50,20 +50,21 @@ SECURITY </li>
 <ul>
 <li> View All  New Arrivals </li>
 </ul>
-<li> Roman Watches </li>
+<li> Holiday Color <ul>
+<li> Holiday Red </li>
+<li> A Pop Of Pink </li>
+<li> Go For Green </li>
+<li> Winter Blues </li>
+<li> All That Shimmers </li>
+</ul>
+<ul>
+<li> View All  Holiday Color </li>
+</ul>
 <li> A Touch Of Rose </li>
-<li>
-Denim
-</li>
-<li>
-Limited Edition
-</li>
-<li>
-Lookbook
-</li>
-<li>
-Watch Bar
-</li>
+<li> Limited Edition </li>
+<li> Denim </li>
+<li> Watch Bar </li>
+<li> Charm Builder </li>
 <li> Categories </li>
 <li> Watch Collections <ul>
 <li> Georgia Watches </li>
@@ -79,8 +80,8 @@ Watch Bar
 <li> View All  Watch Collections </li>
 </ul>
 <li> Watch Styles <ul>
-<li> Steel Watches </li>
 <li> Rose Watches </li>
+<li> Steel Watches </li>
 <li> Leather Watches </li>
 <li> Gold-Tone Watches </li>
 <li> Exotic Leather Watches </li>
@@ -151,9 +152,10 @@ Wristlets </li>
 <ul>
 <li> View All  Jewelry </li>
 </ul>
-<li> Accessories <ul>
 <li> Tech Cases </li>
+<li> Accessories <ul>
 <li> Novelty </li>
+<li> Tech Cases </li>
 <li> Sunglasses </li>
 <li> Belts </li>
 <li> Scarves </li>
@@ -163,15 +165,18 @@ Wristlets </li>
 <li> View All  Accessories </li>
 </ul>
 <li> Fossil Finds <ul>
+<li> Vintage Collaboration: This is Not Ikea </li>
 <li> Vintage Collaboration: Three Potato Four </li>
 <li> Vintage Collaboration: Ed Tonderys </li>
 <li> Vintage Science </li>
+<li> Our Favorites </li>
 </ul>
 <ul>
 <li> View All  Fossil Finds </li>
 </ul>
 <li> SALE </li>
 <li> Gifts </li>
+<li> Top Gifts </li>
 <li> Gifts Under $50 </li>
 <li> Gifts Under $100 </li>
 <li> Gifts Under $200 </li>
@@ -187,20 +192,10 @@ Wristlets </li>
 <ul>
 <li> View All  New Arrivals </li>
 </ul>
-<li> Roman Watches </li>
 <li> Shades of Steel </li>
-<li>
-Denim
-</li>
-<li>
-Limited Edition
-</li>
-<li>
-Lookbook
-</li>
-<li>
-Watch Bar
-</li>
+<li> Limited Edition </li>
+<li> Denim </li>
+<li> Watch Bar </li>
 <li> Categories </li>
 <li> Watch Collections <ul>
 <li> Grant Watches </li>
@@ -215,9 +210,9 @@ Gage Watches </li>
 <li> View All  Watch Collections </li>
 </ul>
 <li> Watch Styles <ul>
+<li> Leather Dress Watches </li>
 <li> Casual Watches </li>
 <li> Steel Dress Watches </li>
-<li> Leather Dress Watches </li>
 <li> Mechanical Watches </li>
 <li> Sport Watches </li>
 <li> Roman Watches </li>
@@ -274,6 +269,7 @@ Traveler </li>
 <li> View All  Wallets </li>
 </ul>
 <li> Shoes </li>
+<li> Tech Cases </li>
 <li> Accessories <ul>
 <li> Novelty </li>
 <li> Tech Cases </li>
@@ -286,6 +282,7 @@ Traveler </li>
 </ul>
 <li> Fossil Finds <ul>
 <li> Vintage Collaboration: Three Potato Four </li>
+<li> Vintage Collaboration: This is Not Ikea </li>
 <li> Vintage Collaboration: Ed Tonderys </li>
 <li> Vintage Science </li>
 </ul>
@@ -294,6 +291,7 @@ Traveler </li>
 </ul>
 <li> SALE </li>
 <li> Gifts </li>
+<li> Top Gifts </li>
 <li> Gifts Under $50 </li>
 <li> Gifts Under $100 </li>
 <li> Gifts Under $200 </li>
@@ -639,6 +637,7 @@ Washington, DC 20036-5624<br>safeharbor@the-dma.org<br>http://www.dmaresponsibil
 </li>
 </li>
 </ul>
+</li>
 </li>
 </li>
 </li>
