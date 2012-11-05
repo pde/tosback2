@@ -1,6 +1,6 @@
 <sitename name="drugs.com">
  <docname name="Privacy Policy">
-   <url name="http://www.drugs.com/support/privacy.html">
+   <url name="http://www.drugs.com/support/privacy.html" xpath="//div[@id='content']/div[@class='contentBox']/*[not(@id='first_ad_unit')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

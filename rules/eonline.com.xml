@@ -1,6 +1,6 @@
 <sitename name="eonline.com">
  <docname name="Privacy Policy">
-   <url name="http://www.eonline.com/about/privacy/index.jsp">
+   <url name="http://www.eonline.com/about/privacy/index.jsp" xpath="//div[@class='privacy_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

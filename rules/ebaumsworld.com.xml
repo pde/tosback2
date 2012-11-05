@@ -1,6 +1,6 @@
 <sitename name="ebaumsworld.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ebaumsworld.com/pages/privacy/">
+   <url name="http://www.ebaumsworld.com/pages/privacy/" xpath="//div[@id='page']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

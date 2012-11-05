@@ -1,6 +1,6 @@
 <sitename name="epulettar.hu">
  <docname name="Privacy Policy">
-   <url name="http://epulettar.hu/cikk/page/?nid=4991">
+   <url name="http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles" xpath="//article[@class='post printable clearfix']/*[not(@id='LikeIt')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

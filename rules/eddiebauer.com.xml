@@ -1,6 +1,6 @@
 <sitename name="eddiebauer.com">
  <docname name="Privacy Policy">
-   <url name="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310">
+   <url name="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" xpath="//div[@class='centerColumn']/*[not(@id='veriSignLogoModuleTop')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

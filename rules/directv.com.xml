@@ -1,6 +1,6 @@
 <sitename name="directv.com">
  <docname name="Privacy Policy">
-   <url name="http://www.directv.com/DTVAPP/content/legal/privacy_policy">
+   <url name="http://www.directv.com/DTVAPP/content/legal/privacy_policy" xpath="//div[@id='ctl_area_b']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
