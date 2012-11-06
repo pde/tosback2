@@ -35,23 +35,28 @@ Information such as your age, gender, hobbies or interests may also be requested
 If you elect to post material to any blogs, forums, participate in our social networking features or other community boards that may be offered on our Covered Sites, then such materials will be collected and may be publicly available for others to view.
 </li>'.
 Privacy02 += '<li>
-<strong>Cookies.</strong> Hearst (or third party service providers on our behalf) may set and access cookies and similar technologies on your computer.
+<strong>Cookies.</strong>
+</li>'.
+Privacy02 += '<ol>'.
+Privacy02 += '<li>Hearst (or third party service providers on our behalf) may set and access cookies and similar technologies on your computer.
 A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site\'s computers and stored on your computer\'s hard drive.
 Some of our cookies may be local shared objects, also known as Flash cookies.
 Cookies may be session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them).
-Hearst uses cookies to understand site usage and to improve the content and offerings on our Covered Sites.
+Hearst uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media.
 We may use cookies to control the display of ads, to track usage patterns on the sites, to deliver editorial content, to record requests for subscriptions and to personalize information.
 Our cookies may contain Personally Identifiable Information and such cookies may be shared with others to the same extent indicated in Section 4.
-Hearst (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis.
+Hearst (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis ("Anonymous Information").
 We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
-Some of our advertisers may serve you cookies as well, as described below.
-We do not have control over cookies placed by advertisers.
-If you don\'t want cookies, most Web browsers include an option that allows you to not accept them.
+</li>'.
+Privacy02 += '<li>Some of our third party partners (including advertisers and marketing services companies) may set and access cookies and similar technologies on your computer as well, or we may do so on their behalf.
+We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom.</li>'.
+Privacy02 += '<li>If you don\'t want cookies, most Web browsers include an option that allows you to not accept them.
 However, if you set your browser to refuse cookies, some portions of our Covered Sites may not function efficiently.
 Flash cookies may regenerate HTTP cookies that you have affirmatively deleted.
 Deleting, rejecting, disabling or turning off HTTP cookies as described above will not remove flash cookies.
 We use flash cookies as an alternative method to HTTP cookies for storing information about your web browsing history across unaffiliated domains, unrelated to the delivery of content through the Flash Player or the performance of the Flash Player in delivering such content.
 You can manage and delete flash cookies by visiting http://kb2.adobe.com/cps/526/52697ee8.html.</li>'.
+Privacy02 += '</ol>'.
 Privacy02 += '<li>
 <strong>Gifs.
 </strong> We may use "<strong>clear GIFs</strong>" (aka "<strong>web beacons</strong>" or "<strong>pixel tags</strong>") or similar technologies, in the sites and in our communications with you to enable us to know whether you have visited a web page or received a message.
@@ -80,6 +85,7 @@ Privacy02 += '<li>
 </strong> We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines.
 Those third parties have privacy policies that differ from this Privacy Policy.</li>'.
 Privacy02 += '</ol>'.
+Privacy02 += ''.
 var Privacy03 = '<p>
 <strong>3.
 Use of Information.
@@ -91,6 +97,7 @@ If you subscribe to any of our Magazines, we may also use your e-mail address to
 Similarly, if you enter online sweepstakes, we will also use this information to notify you if you are a winner.
 We also use your information to register you, identify you as a user, improve our Covered Sites and services, send you administrative notifications, and respond to your inquiries.
 We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements from our Covered Sites, our partners and/or our advertisers.
+We also use information in connection with advertising and to serve other content, as described in section 4(d) below.
 </li>'.
 Privacy03 += '<li>We may combine and use any and all information we collect on you either online or otherwise, including from third parties, for marketing purposes.</li>'.
 Privacy03 += '<li>When you provide us your email address (e.g., to subscribe to our Magazines) but are not already a registered user of one of our Covered Sites, some of our Covered Sites may assign you a user name and password so that we can enhance your user experience by facilitating easy entry into other features and offers on the Covered Sites and saving your preferences.
@@ -110,8 +117,8 @@ We may retain your information for fraud or similar purposes.
 Privacy03 += '<li>In addition, we may use information you provide us through emails, Q&amp;A, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online and in our Magazines.
 If you provide us with personal anecdotes, they may be attributed to you.
 Hearst can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Magazines, and in trade media, and advertising.</li>'.
-Privacy03 += '<li>We may create anonymous data records from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you.
-We use this anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.
+Privacy03 += '<li>We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you.
+We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
 </li>'.
 Privacy03 += '</ol>'.
 var Privacy04 = '<p>
@@ -131,8 +138,7 @@ Privacy04 += '<li>The entity to whom the information is disclosed is an Affiliat
 Privacy04 += '<li>In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional materials directly from a third party partner).
 </li>'.
 Privacy04 += '<li>The entity is a third party who wants to promote goods and services we think would be of interest to you.</li>'.
-Privacy04 += '<li>You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in (examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.).
-</li>'.
+Privacy04 += '<li>You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in (examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.);</li>'.
 Privacy04 += '<li>We need to protect our legal rights (for example, if we are trying to collect money you owe us).
 we must comply with applicable laws, regulations, or legal or regulatory process, or comply with subpoenas or warrants served on us, or in connection with a legal investigation.
 or we have reason to believe that someone may be causing injury to someone or interfering with our rights or the rights of our users, or general public, or using our services in violation of a legal or personal right, including our Terms of Use (collectively, the "<strong>Legal Exceptions</strong>").</li>'.
@@ -153,15 +159,25 @@ in that event, your applicable registration information may be collected directl
 We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect.
 These third parties will use your information in accordance with their own privacy policy.</li>'.
 Privacy04 += '<li>
-<strong>Advertising Disclosure.</strong> In addition to ads that we serve you directly, we use third-party advertising companies to serve ads when you visit our Covered Sites.
-Both we and our advertising companies may use information about your visits to this Covered Site and other sites you may visit to serve ads to you.
-In the course of serving advertisements to you, a unique third-party cookie may be placed or recognized on your browser by such advertisers.
-In addition, we and our advertising companies may use Web beacons to help manage our online advertising.
-These Web beacons enable us and our third-party ad serving companies to recognize a browser\'s cookie when a browser visits this site and to learn which banner ads bring users to our website and to serve you ads that you may find of interest elsewhere on the internet.
-Both Hearst and these companies may use information (not including your names, address, email address or telephone number) about your visits to these sites and other websites in order to provide advertisements about goods and services of interest to you.
-If you would like more information about this practice and to know your choices about not having this information used by other companies, please visit http://www.networkadvertising.org/optout_nonppii.asp .
+<strong>Delivery of Advertising and Other Content</strong>
+</li>'.
+Privacy04 += '<ol>'.
+Privacy04 += '<li>In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Covered Sites and elsewhere on the internet and in other media.
+Both we and these companies may use information about your visits to this Covered Site and elsewhere to serve ads and other content to you.
+In the course of doing so, a unique third-party cookie may be placed or recognized on your browser by such companies.
+In addition, we and these companies may use Web beacons to help manage our online advertising and content.
+These Web beacons enable us and the third-party companies to recognize a browser\'s cookie when a browser visits this site and to learn which banner ads bring users to our website and to serve you ads that you may find of interest elsewhere on the internet and in other media.
+Both Hearst and these companies may use information obtained from your visits to the Covered Sites (including your status as a customer of Hearst), other websites, and information received from you offline in order to provide advertisements about goods and services and other content of interest to you across the internet and in other media.
+If you would like more information about this practice and to know your choices about not having this information used in this manner, our third party advertising companies please visit http://www.networkadvertising.org/optout_nonppii.asp .
 Ads in our videos may be served by an ad partner.
 You can find out more about our video ads by visiting http://www.yume.com/privacy.php.</li>'.
+Privacy04 += '<li>In addition, we may provide Personally Identifiable Information and Anonymous Information to marketing services companies.
+This may include information we received from you offline or online.
+These companies may combine information we provide (including Personally Identifiable Information and Anonymous Information) with personal and anonymous information they may have about you, using cookies they place or that we place on their behalf, as described in Section 2(b).
+We require these companies to delete the Personally Identifiable Information we provide them.
+These companies may use the resulting non-personal information and such cookies for their own marketing purposes, and they may provide the same to their customers for their customer\'s marketing purposes.
+If you would like to know your choices about not having this information used by such companies, please visit: alc-opt-out.com.</li>'.
+Privacy04 += '</ol>'.
 Privacy04 += '</ol>'.
 var Privacy05 = '<p>
 <strong>5.
@@ -170,15 +186,12 @@ Right to Opt-out</strong>
 Privacy05 += '<ol>'.
 Privacy05 += '<li>
 <strong>California &amp.
-Canadian Users: Your California Privacy Rights.</strong>California\'s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses\' practices related to disclosing personal information to third parties for the third parties\' direct marketing purposes.
-Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties\' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.
-We have such a policy in place.
-Section 5(d) explains our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.
-In addition to reviewing Section 5(d), if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Mail Preference Service, P.O.
+Canadian Users: Your California Privacy Rights.</strong>California\'s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses\' practices related to disclosing personal information to third parties for the third parties\' direct marketing purposes.�� Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties\' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.�� We have such a policy in place.
+Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared with third parties for the third parties\' direct or indirect marketing purposes, in accordance with such laws.
+In addition to reviewing Sections 4(d) and 5(d), if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Mail Preference Service, P.O.
 Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com.
 Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities.
-Again, Section 5(d) explains our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.
-For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</li>'.
+Again, Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.�� For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</li>'.
 Privacy05 += '<li>
 <strong>Mobile Opt-out.
 </strong> We may provide you messages, including marketing, via your wireless email address or by short message service ("<strong>SMS Service</strong>"), WAP or Mobile Services as described in Section 6.
@@ -192,19 +205,18 @@ Certain Covered Sites may include a customer service link at the bottom of such 
 If so, you may also manage your email preferences through that link.</li>'.
 Privacy05 += '<li>
 <strong>Marketing provided by Third Parties.
-</strong> From time to time we may disclose your contact information to third parties to allow them to market their products or services to you.
+</strong> From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes.
 This may be information we received from you offline and online.
-If you want us to stop further sharing your email contact information with third parties, (if we have your email contact information), you may notify us at http://hearst.ed4.net/profile/login.cfm .
-If you want us to stop further sharing your postal mailing contact information with third parties, (if we have your postal address), you may notify us in writing by sending a notice to Mail Preference Service, P.O.
-Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com .
-Please follow the instructions provided to you by third parties to unsubscribe from their messages.</li>'.
+If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at http://hearst.ed4.net/profile/login.cfm.
+If you want us to stop further sharing your postal mailing contact information with third parties (if we have your postal address), you may notify us in writing by sending a notice to Mail Preference Service, P.O.
+Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com.
+If you wish to opt out of having your information shared with marketing services companies, please see section 4(d) abovePlease follow the instructions provided to you by third parties to unsubscribe from their messages.</li>'.
 Privacy05 += '<li>
 <strong>Exceptions.
 </strong> If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service.
 Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.</li>'.
 Privacy05 += '<li>
-<strong>Device Settings.</strong> Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
-</li>'.
+<strong>Device Settings.</strong> Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.</li>'.
 Privacy05 += '</ol>'.
 var Privacy06 = '<p>
 <strong>6.
@@ -221,8 +233,7 @@ We will use the information we obtain in connection with these services in accor
 Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 <strong>By providing us your wireless email address or by signing up for any SMS, WAP, or Mobile Service, you consent to receiving messages as described above.
 You understand that your wireless carrier\'s standard rates apply to these messages.
-You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
-</strong>
+You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.</strong>
 </p>'.
 var Privacy07 = '<p>
 <strong>7.
@@ -255,7 +266,7 @@ Any changes to this privacy policy will be effective upon thirty (30) calendar d
 These changes will be effective immediately for new users of our Covered Sites.
 Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>'.
 Privacy10 += ''.
-var Privacy11 = '<p>This policy was last updated on April 26, 2012.</p>'.
+var Privacy11 = '<p>This policy was last updated on November 5, 2012.</p>'.
 Privacy11 += ''.
 document.write('').
 document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
