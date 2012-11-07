@@ -25,13 +25,13 @@ Flickr Shop
 <li>
 Products▼ Bestsellers
 <dl>
-<dd>Prints</dd>
-<dd>Photo Books</dd>
 <dd>Cards</dd>
-<dd>Photo Canvas</dd>
+<dd>Photo Books</dd>
+<dd>Calendars</dd>
+<dd>Prints</dd>
 <dd>Collage Photo Gifts</dd>
+<dd>Photo Canvas</dd>
 <dd>Mugs</dd>
-<dd>Mousepads</dd>
 <dd>See All Bestsellers</dd>
 </dl> By Occasion
 <dl>
@@ -39,7 +39,6 @@ Products▼ Bestsellers
 Parties</dd>
 <dd>Birth Announcements</dd>
 <dd>Wedding</dd>
-<dd>Halloween Store</dd>
 <dd>Holiday Cards</dd>
 <dd>Photo Ornaments</dd>
 <dd>Stocking Stuffers</dd>
@@ -106,7 +105,7 @@ Cards▼ Holidays
 <dl>
 <dd>Birth Announcements</dd>
 <dd>Save the Date </dd>
-<dd>Moving Announcements </dd>
+<dd>Moving Announcements</dd>
 <dd>Bar/Bat Mitzvah </dd>
 <dd>Baptism &amp.
 Christenings</dd>
@@ -117,55 +116,11 @@ Christenings</dd>
 <dd>Thank you</dd>
 <dd>Love</dd>
 <dd>Congratulations</dd>
-<dd>American Greetings Store</dd>
 <dd>See All Greeting Cards</dd>
 </dl>
 </li>
 <li>|</li>
-<li>
-Home Décor▼ Canvases
-<dl>
-<dd>Gallery Wrap Canvas</dd>
-<dd>Museum Wrap Canvas</dd>
-<dd>Collage Photo Canvas</dd>
-<dd>Framed Gallery Wrap</dd>
-<dd>Framed Museum Wrap</dd>
-<dd>Framed Collage Canvas</dd>
-<dd>See All Canvases</dd>
-</dl> Poster Prints
-<dl>
-<dd>Single Photo Poster</dd>
-<dd>Collage Poster</dd>
-<dd>Calendar Collage Poster</dd>
-<dd>Metallic Print</dd>
-<dd>Framed Single Photo</dd>
-<dd>Framed Collage Poster</dd>
-<dd>See All Poster Prints</dd>
-</dl> Photo Panels
-<dl>
-<dd>Wall Panel</dd>
-<dd>Collage Wall Panel</dd>
-<dd>Table-top Panel</dd>
-<dd>Collage Table-top Panel</dd>
-<dd>See All Photo Panels</dd>
-</dl> Framed Prints
-<dl>
-<dd>Framed Matted Print</dd>
-<dd>Table-top Print</dd>
-<dd>Single Photo Poster</dd>
-<dd>Collage Poster</dd>
-<dd>Gallery Wrap Canvas</dd>
-<dd>Museum Wrap Canvas</dd>
-<dd>Collage Canvas</dd>
-<dd>See All Frames</dd>
-</dl> Baby &amp.
-Kids' Decor
-<dl>
-<dd>Growth Chart</dd>
-<dd>Repositionable Poster</dd>
-<dd>See All Baby &amp.
-Kids Décor</dd>
-</dl>
+<li>Calendars
 </li>
 <li>|</li>
 <li>Christmas Cards</li>
@@ -230,7 +185,7 @@ private Payment Methods <dl>
 <li>Cartes et Faire-part</li>
 </ul>
 </dd>
-<dd>    Svizzera - italiano
+<dd>     Svizzera - italiano
 <ul>
 <li>Stampe Digitali</li>
 <li>foto album</li>
