@@ -1,6 +1,6 @@
 <sitename name="backpage.com">
  <docname name="Privacy Policy">
-   <url name="http://www.backpage.com/classifieds/PrivacyPolicy">
+   <url name="http://www.backpage.com/classifieds/PrivacyPolicy" xpath="//div[@class='mainBody']/div[2]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

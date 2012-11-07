@@ -1,6 +1,6 @@
 <sitename name="farmfutures.com">
  <docname name="Privacy Policy">
-   <url name="http://farmfutures.com/customPage.aspx?p=227">
+   <url name="http://farmfutures.com/customPage.aspx?p=227" xpath="//div[@id='siteWrap']/table[5]/tr/td/table/tr/td">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

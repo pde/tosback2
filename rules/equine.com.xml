@@ -1,6 +1,6 @@
 <sitename name="equine.com">
  <docname name="Privacy Policy">
-   <url name="http://www.equine.com/corp/privacy.aspx">
+   <url name="http://www.equine.com/corp/privacy.aspx" xpath="//div[@id='ctl00_ctl00_body_body_RoundedBox2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

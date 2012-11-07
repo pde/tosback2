@@ -1,6 +1,6 @@
 <sitename name="cracked.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cracked.com/privacy-policy.html">
+   <url name="http://www.cracked.com/privacy-policy.html" xpath="//section[@id='Legal']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

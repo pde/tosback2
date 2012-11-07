@@ -1,6 +1,6 @@
 <sitename name="dickssportinggoods.com">
  <docname name="Privacy Policy">
-   <url name="http://www.dickssportinggoods.com/helpdesk/index.jsp?display=safety&#x26;subdisplay=privacy">
+   <url name="http://www.dickssportinggoods.com/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;ab=Footer_Know_PrivacyPolicy" xpath="//table[@class='helpDesk']/tr/td[3]/div/smpanel/table/tr/td">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="figis.com">
  <docname name="Privacy Policy">
-   <url name="http://www.figis.com/category/customer+service/privacy+policy.do">
+   <url name="http://www.figis.com/category/customer+service/privacy+policy.do" xpath="//td[@width='790']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

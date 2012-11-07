@@ -1,6 +1,6 @@
 <sitename name="cheapflights.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cheapflights.com/privacy/">
+   <url name="http://www.cheapflights.com/privacy/" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="americanexpress.com">
  <docname name="Privacy Policy">
-   <url name="https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD">
+   <url name="https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD" xpath="//div[@id='column-1of2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

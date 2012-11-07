@@ -1,6 +1,6 @@
 <sitename name="filestube.com">
  <docname name="Privacy Policy">
-   <url name="http://www.filestube.com/privacy.html">
+   <url name="http://www.filestube.com/privacy.html" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
