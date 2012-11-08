@@ -139,6 +139,7 @@ end
 
 def scrape_page(mchdoc,xpath)
   if mchdoc.class == Mechanize::Page
+    mchdoc.encoding = mchdoc.encoding || "UTF-8" # defaults any nil encoding to utf-8
     begin
       if xpath.nil?
         tos_data = mchdoc.search("//body").to_s

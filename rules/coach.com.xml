@@ -1,6 +1,6 @@
 <sitename name="coach.com">
  <docname name="Privacy Policy">
-   <url name="http://www.coach.com/online/handbags/genWCM-10551-10051-en-/Coach_US/SecurityAndPrivacy/?LOC=BN">
+   <url name="http://www.coach.com/online/handbags/genWCM-10551-10051-en-/Coach_US/SecurityAndPrivacy/?LOC=BN" xpath="//div[@id='static_content_padding']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

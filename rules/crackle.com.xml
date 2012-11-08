@@ -1,6 +1,6 @@
 <sitename name="crackle.com">
  <docname name="Privacy Policy">
-   <url name="http://www.crackle.com/privacy.aspx">
+   <url name="http://www.crackle.com/privacy.aspx" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
