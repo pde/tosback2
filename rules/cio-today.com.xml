@@ -1,6 +1,6 @@
 <sitename name="cio-today.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cio-today.com/privacy.xhtml?full_skip=1" xpath="//div[@name='overall_wrapper']/center/table[5]/tr/td/table/tr/td">
+   <url name="http://www.cio-today.com/privacy.xhtml?full_skip=1" xpath="//div[@name='overall_wrapper']/center/table[5]/tr/td/table[@width='100%']/tr/td">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

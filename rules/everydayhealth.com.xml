@@ -1,6 +1,6 @@
 <sitename name="everydayhealth.com">
  <docname name="Privacy Policy">
-   <url name="http://www.everydayhealth.com/privacy-policy.aspx">
+   <url name="http://www.everydayhealth.com/privacy-policy.aspx" xpath="//div[@id='printinner']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

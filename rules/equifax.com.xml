@@ -1,6 +1,6 @@
 <sitename name="equifax.com">
  <docname name="Privacy Policy">
-   <url name="https://help.equifax.com/app/answers/detail/a_id/467">
+   <url name="https://help.equifax.com/app/answers/detail/a_id/467" xpath="//div[@class='answer-text']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

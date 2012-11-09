@@ -1,6 +1,6 @@
 <sitename name="ebay.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://pages.ebay.co.uk/help/policies/privacy-policy.html?rt=nc">
+   <url name="http://pages.ebay.co.uk/help/policies/privacy-policy.html?rt=nc" xpath="//div[@class='gryBxMainBar']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

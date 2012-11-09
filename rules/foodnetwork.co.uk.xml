@@ -1,6 +1,6 @@
 <sitename name="foodnetwork.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.foodnetwork.co.uk/privacy-policy.html">
+   <url name="http://www.foodnetwork.co.uk/privacy-policy.html" xpath="//div[@id='main-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
