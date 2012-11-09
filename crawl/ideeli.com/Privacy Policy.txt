@@ -13,7 +13,7 @@ Membership Info 1st Row </li>
 <li> Sign out Sign out </li>
 </ul>
 </li>
-<li> | My </li>
+<li> | My Click on the heart to save all the items you want to store in the same place </li>
 <li>
 |   Credits: #{total_credit}<br> Store credit : #{store_credit}<br> Gift credit : #{gift_credit}<br> Promotional credit : #{promo_credit}<br> Tell a Friend - <strong>Get a $25 credit</strong>
 <br> for each friend who buys.<br>
