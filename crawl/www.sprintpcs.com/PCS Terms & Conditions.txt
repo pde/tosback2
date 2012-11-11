@@ -7,7 +7,7 @@ There are several parts to the Agreement, including, but not limited to, the Sub
 You may terminate any line of service before its Term ends by calling us, however you will be responsible for an <strong>EARLY TERMINATION FEE</strong> (<strong>(ETF)</strong>) of up to $350/line for Advanced Devices &amp.
 up to $200 ETF/line for other devices for each line/number terminated early — except for terminations consistent with our return policy.
 The ETF is prorated and is calculated by taking the months remaining on your Agreement times $20 for Advanced Devices, with a maximum of $350, and minimum of $100.
-For all other devices, the prorated ETF is calculated by taking the months remaining times $10 with a maximum of $200 and minimum of $50.
+For all other devices, the prorated ETF is calculated by taking the months remaining multiplied by $10 with a maximum of $200 and minimum of $50.
 Payment of the <strong>ETF</strong> does not satisfy other obligations owed to us, including Term commitments with other lines or service/equipment charges.
 We reserve the right to cancel offers early or extend offers without notice.
 Offers are subject to credit approval.
@@ -15,7 +15,6 @@ An account spending limit may apply — ask for specific amount.
 Spending limit accounts are subject to a fee of $4.99/mo.
 per account.
 The fee will be waived for accounts enrolled recurring automatic payments.
-In certain areas, a $4.99 per month account spending limit fee will apply per line.
 Monthly service plan charges accrue even if your service is turned off for exceeding your spending limit or non-payment.
 If payment is not received in full by the due date on your bill, late fees may be assessed, in amounts up to the maximum amount permitted by law in the state of your billing address.
 A detailed bill provides comprehensive call details to customers, including, phone numbers dialed and received, call lengths, call types and call times.
@@ -25,15 +24,16 @@ To avoid this fee, you can elect to receive Sprint’s ebill or summary format o
 Detailed billing information is available for all customers by visiting your Sprint account online.
 Additional fees may apply for phone number changes.
 Offers may not be available everywhere, combinable with other promotions/options, or available to business customers.
-Coverage is not available everywhere and varies by service — see mapping brochures or visit www.sprint.com/coverage for details.
+Coverage is not available everywhere and varies by service — visit www.sprint.com/coverage for additional details.
 Monthly charges exclude taxes, Sprint Surcharges [incl.
 USF charge of up to 17.40%(varies quarterly), cost recovery and administrative fees, &amp.
 state/local fees by area (e.g., in some areas up to 16% but in most areas less than 3%)].
 Sprint Surcharges are not taxes or gov’t-required charges and are subject to change.
-Up to a $36 activation fee applies to new activations, certain service plan changes or upgrades of phones or devices.
+Up to a $36 activation fee may apply to new activations, certain service plan changes or upgrades of phones or devices.
 A reconnect fee of up to $36 may apply to reestablish service on all accounts that have been disconnected for nonpayment or discontinuous of service.
 A deposit, in most instances between $50 and $750 (but sometimes up to $1000), may be required per line to establish service.
 Our services will only work with our phones — not all services are available with all phones or on all networks.
+We may block network access or refuse activation for devices that are incompatible with our network or for any reason that protects our customer’s or network’s interests including, but not limited to, devices that are lost, stolen or terminated for nonpayment of service.
 Monthly service charges are not refunded or prorated if service is terminated or modified before your billing cycle ends.
 All phone usage, including incoming/outgoing calls, incurs charges unless specified otherwise.
 Except where specified, included plan minutes are not good for off-network roaming calls.
@@ -88,7 +88,9 @@ It is the responsibility of the Account holder to notify device users that locat
 Location Based Services require an account holder’s authorization for Sprint to share location and other needed enabling information with third parties.
 It is the responsibility of the account holder to notify device users that location can be identified while using location based service applications.</p>
 <p>
-<strong>Total Equipment Protection:</strong> Equipment Replacement Program is insurance underwritten by Continental Casualty Company, a CNA company (CNA) and administered by Asurion Protection Services, LLC, a licensed agent of CNA (Asurion Protection Services Insurance Agency).
+<strong>Total Equipment Protection:</strong> Equipment Replacement Program is insurance underwritten by Continental Casualty Company (CNA), a CNA company and administered by Asurion Protection Services, LLC, a licensed agent of CNA (In California, Asurion Protection Services Insurance Agency LLC, CA Lic.
+#OD63161.
+In Puerto Rico, Asurion Protection Services of Puerto Rico, Inc).
 Please see the Protection brochure available at any participating retail location or visit www.sprint.com/TEP for complete terms and conditions of coverage.
 Terms and conditions are subject to change.
 May not be available in all states.
@@ -111,12 +113,11 @@ The amount of data transmitted over our network is measured in kilobytes (KB), m
 Unless specified otherwise.
 1024KB equal 1MB.
 1024MB equal 1GB.
-Usage is calculated on a per kilobyte, megabyte or gigabyte (depending on your plan) basis and is rounded up to the next whole kilobyte, megabyte or gigabyte.
-Rounding occurs at the end of each session or each clock hour and at which time we deduct accumulated usage from your plan, or assess overage or casual usage charges.
+Usage is calculated on a per KB, MB or GB, (depending on your plan) basis and is rounded up to the next whole KB, MB or GB, at which time we deduct accumulated usage from your plan, or assess overage or casual usage charges.
 You are responsible for all data activity from and to your device, regardless of who initiates the activity.
 Estimates of data usage will vary from actual use.
-Your invoice will not separately identify the number of kilobytes, megabytes or gigabytes attributable to your use of specific sites, sessions or services used.
-Premium content (games, ringers, songs, etc.) priced separately.
+Your invoice will not separately identify the number of KB, MB or GB attributable to your use of specific sites, sessions or services used.
+Premium content (games, ring tones, music tracks, etc.) priced separately.
 Services are not available for use in connection with server devices or host computer applications, other systems that drive continuous heavy traffic or data sessions, or as substitutes for private lines or frame relay connections.
 Except with Phone-as-Modem add-on, you may not use a phone (including a Bluetooth phone) as a modem in connection with a computer, PDA, or similar device.
 We reserve the right to deny or terminate service without notice for any misuse or any use that adversely affects network performance.
@@ -124,7 +125,8 @@ Availability of downloadable or streaming content is subject to change, includin
 If user is not subscribed to a data included plan or add-on, Pay-As-You-Go charges are incurred when using data applications and services.</p>
 <p>
 <strong>Web Access:</strong> Sprint can help you prevent the transmission of material harmful to minors on certain devices by allowing access only to a limited number of Internet web sites or restricting Web access.</p>
-<p>Third-Party Consent: Sprint allows customers to purchase mobile content on a per item or monthly basis from Sprint and other entities.
+<p>
+<strong>Third-Party Content:</strong> Sprint allows customers to purchase mobile content on a per item or monthly basis from Sprint and other entities.
 Subscribers are responsible for all billed content, including content purchased by others authorized to use devices on the account.
 Usage can be restricted by use of account blocking tools or similar features.
 Deleting third-party applications from your device alone may not stop the billing of monthly recurring charges.
@@ -147,7 +149,7 @@ Data services and certain calling features (Voicemail, Caller ID, Call Waiting, 
 Usage initiated near country borders may be carried by a cell site in a neighboring country and billed at that country’s rates.
 Sprint reserves the right to deny, terminate, modify, disconnect or suspend service if the majority of minutes or kilobytes are used for international roaming.</p>
 <p>
-<strong>International Long Distance and Messaging:</strong> Phones must be activated for international service in order to make international long-distance calls, including to Mexico and Guam, and in certain cases to send international text.
+<strong>International Long Distance, Messaging and Data:</strong> Phones must be activated on international service to enable international long-distance calls, messaging or data including to Mexico and Guam.
 For verification purposes, you may be required to provide additional information and activation of plan may take approximately 1 to 3 days.
 Verification for account spending limit customers may take up to 30 days.
 Rates, mobile termination fees and available countries at www.sprint.com/internationalrates.
@@ -175,6 +177,7 @@ Devices will not be returned.
 To best protect your data, please delete all personal information from your phone.
 Credit amount depends upon valuation and may vary based on condition.
 Credit will be applied to in-store purchase or Sprint account within three invoices.
+Fraudulent devices will not receive credit and will not be returned.
 For additional information, visit sprint.com/buyback.</p>
 <p>
 <strong>Commercial Mobile Alert Service:</strong>
