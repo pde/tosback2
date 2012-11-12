@@ -1,6 +1,6 @@
 <sitename name="markosweb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.markosweb.com/policy/">
+   <url name="http://www.markosweb.com/policy/" xpath="//div[@id='column_right']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

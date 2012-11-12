@@ -1,6 +1,6 @@
 <sitename name="grainger.com">
  <docname name="Privacy Policy">
-   <url name="http://www.grainger.com/Grainger/static/help_privacypol.html">
+   <url name="http://www.grainger.com/Grainger/static/help_privacypol.html" xpath="//div[@id='contentCenter']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

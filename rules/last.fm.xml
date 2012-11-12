@@ -1,6 +1,6 @@
 <sitename name="last.fm">
  <docname name="Privacy Policy">
-   <url name="http://www.last.fm/legal/privacy">
+   <url name="http://www.last.fm/legal/privacy" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

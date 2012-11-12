@@ -1,6 +1,6 @@
 <sitename name="intellicast.com">
  <docname name="Privacy Policy">
-   <url name="http://www.intellicast.com/About/Privacy.aspx">
+   <url name="http://www.intellicast.com/About/Privacy.aspx" xpath="//div[@id='leftColumn']/node()[not(@id='moreFromBox')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

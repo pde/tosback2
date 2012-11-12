@@ -1,6 +1,6 @@
 <sitename name="depositfiles.com">
  <docname name="Privacy Policy">
-   <url name="http://depositfiles.com/confid.html">
+   <url name="http://depositfiles.com/confid.html" xpath="//div[@class='confid']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

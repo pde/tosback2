@@ -1,6 +1,6 @@
 <sitename name="livestrong.com">
  <docname name="Privacy Policy">
-   <url name="http://www.livestrong.com/privacy-policy/">
+   <url name="http://www.livestrong.com/privacy-policy/" xpath="//section[@id='about_site']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

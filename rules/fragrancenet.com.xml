@@ -1,6 +1,6 @@
 <sitename name="fragrancenet.com">
  <docname name="Privacy Policy">
-   <url name="http://www.fragrancenet.com/f/net/privacy.html">
+   <url name="http://www.fragrancenet.com/f/net/privacy.html" xpath="//div[@id='mainContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

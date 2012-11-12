@@ -1,6 +1,6 @@
 <sitename name="hollisterco.com">
  <docname name="Privacy Policy">
-   <url name="http://www.hollisterco.com/webapp/wcs/stores/servlet/CustomerService?storeId=11205&#x26;catalogId=10201&#x26;langId=-1&#x26;textKey=HELP_PRIVACYPOLICY&#x26;pageName=privacy">
+   <url name="http://www.hollisterco.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10201&amp;storeId=11205&amp;langId=-1&amp;textKey=HELP_PRIVACYPOLICY&amp;pageName=privacy" xpath="//div[@id='help-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

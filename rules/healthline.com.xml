@@ -1,6 +1,6 @@
 <sitename name="healthline.com">
  <docname name="Privacy Policy">
-   <url name="http://www.healthline.com/privacypolicy.jsp">
+   <url name="http://www.healthline.com/privacypolicy.jsp" xpath="//div[@class='corporate_rc']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

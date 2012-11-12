@@ -1,6 +1,6 @@
 <sitename name="jetsetter.com">
  <docname name="Privacy Policy">
-   <url name="http://www.jetsetter.com/privacy">
+   <url name="http://www.jetsetter.com/privacy" xpath="//div[@id='com-left']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

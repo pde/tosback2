@@ -1,6 +1,6 @@
 <sitename name="legacy.com">
  <docname name="Privacy Policy">
-   <url name="http://www.legacy.com/NS/privacypolicy.aspx">
+   <url name="http://www.legacy.com/NS/privacypolicy.aspx" xpath="//span[@id='ctl00_ctl00_MainContent_Content_PrivacyPolicyContentHtml']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

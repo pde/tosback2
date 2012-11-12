@@ -1,6 +1,6 @@
 <sitename name="lakeside.com">
  <docname name="Privacy Policy">
-   <url name="http://www.lakeside.com/">
+   <url name="http://www.lakeside.com/" xpath="//div[@id='ModalPrivacy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

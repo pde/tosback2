@@ -1,6 +1,6 @@
 <sitename name="jpost.com">
  <docname name="Privacy Policy">
-   <url name="http://www.jpost.com/LandedPages/TermsOfService.aspx">
+   <url name="http://www.jpost.com/LandedPages/TermsOfService.aspx" xpath="//div[@id='tou_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

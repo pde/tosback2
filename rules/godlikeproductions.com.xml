@@ -1,6 +1,6 @@
 <sitename name="godlikeproductions.com">
  <docname name="Privacy Policy">
-   <url name="http://www.godlikeproductions.com/privacy">
+   <url name="http://www.godlikeproductions.com/privacy" xpath="//div[@id='rightpanel_inner']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="marriott.com">
  <docname name="Privacy Policy">
-   <url name="http://www.marriott.com/marriott/privacy-us.mi">
+   <url name="http://www.marriott.com/marriott/privacy-us.mi" xpath="//div[@id='layout-body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

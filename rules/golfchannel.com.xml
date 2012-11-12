@@ -1,6 +1,6 @@
 <sitename name="golfchannel.com">
  <docname name="Privacy Policy">
-   <url name="http://www.golfchannel.com/about/privacy-policy/">
+   <url name="http://www.golfchannel.com/about/privacy-policy/" xpath="//div[@id='articleContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="intel.com">
  <docname name="Privacy Policy">
-   <url name="http://www.intel.com/sites/sitewide/en_US/privacy/full.htm">
+   <url name="http://www.intel.com/sites/sitewide/en_US/privacy/full.htm" xpath="//div[@id='html-hero']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

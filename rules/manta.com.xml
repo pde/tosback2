@@ -1,6 +1,6 @@
 <sitename name="manta.com">
  <docname name="Privacy Policy">
-   <url name="http://www.manta.com/coms2/page_terms_conditions_privacy">
+   <url name="http://www.manta.com/coms2/page_terms_conditions_privacy" xpath="//div[@id='tab5']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

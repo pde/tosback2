@@ -1,6 +1,6 @@
 <sitename name="marketwatch.com">
  <docname name="Privacy Policy">
-   <url name="http://www.marketwatch.com/support/privacy.asp">
+   <url name="http://www.marketwatch.com/support/privacy.asp" xpath="//div[@class='privacyPolicyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

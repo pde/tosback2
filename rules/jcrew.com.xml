@@ -1,6 +1,6 @@
 <sitename name="jcrew.com">
  <docname name="Privacy Policy">
-   <url name="http://www.jcrew.com/footer/privacy.jsp">
+   <url name="http://www.jcrew.com/footer/privacy.jsp" xpath="//td[@class='helpContents']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

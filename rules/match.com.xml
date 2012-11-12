@@ -1,6 +1,6 @@
 <sitename name="match.com">
  <docname name="Privacy Policy">
-   <url name="http://www.match.com/registration/privacystatement.aspx?lid=4">
+   <url name="http://www.match.com/registration/privacystatement.aspx?lid=4" xpath="//div[@id='privacyPolicy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
