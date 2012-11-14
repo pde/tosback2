@@ -1,25 +1,28 @@
  \n\n \n \n <b>24/7</b> Customer Service <b>(800) 927-7671</b> · <b>Free Shipping</b> Both Ways! · <b>365</b> Day Return Policy!\n Zappos Expo\n <ul>\n <li>\n \n </li>\n <li>\n Follow Us\n \n </li>\n <li>\n Email Sign-Up\n \n </li>\n \n </ul>\n \n \n\n \n \n \n Zappos.com\n \n\n \n \n \n \n \n \n \n\n \n \n Shop\n \n \n Shop By Gender\n \n Women\n Men\n Girls\n Boys\n \n \n\n \n Shop By Department\n \n Shoes\n Clothing\n Bags\n Accessories\n Baby Shop\n Beauty\n \n \n Entertainment\n Eyewear\n At Home\n Jewelry\n Sporting Goods\n Watches\n \n \n\n \n Shop By Collection\n \n Latest Trends\n Your Style\n Outfits\n Occasions\n \n \n All Brands\n New Arrivals\n Gift Ideas\n Clearance\n \n \n \n \n\n \n Log in<b>Your Account</b>\n \n \n \n Log In\n New shopper? <strong>Register</strong>\n \n\n My Account\n View My Account\n My Favorites\n My Brands\n Change Your Password\n Order History\n Manage Subscriptions\n Help\n\n Logout\n \n \n\n \n Your <b>Cart</b>\n \n \n \n').
 document.write('').
-} <strong>24/7 Customer Service (800) 927-7671</strong>
+} <ul>
+<li>
+<strong>24/7 Customer Service (800) 927-7671</strong>
+</li>
+<li> Help
+</li>
+<li>
+</li>
+</ul>
 <ul>
 <li>
 Log In / Logout
 </li>
 <li>My Account</li>
 <li>My Favorites</li>
-<li>Blogs</li>
-<li> Help
-</li>
-</ul>We‘re Hiring!
-Zappos Expo Search Search by:
+</ul> Search Search by:
 Size,
 Narrow Shoes,
 Wide Shoes,
 Popular Searches <p>
 <strong>365 Day Return Policy </strong>In other words, 1 full year!</p>
 <p>
-<strong>Free Shipping Both Ways </strong>It's always on the house!</p>
-My Cart
+<strong>Free Shipping Both Ways </strong>It's always on the house!</p> My Cart
 <ul>
 <li> Shoes
 </li>
