@@ -1,6 +1,6 @@
 <sitename name="mbusa.com">
  <docname name="Privacy Policy">
-   <url name="http://www.mbusa.com/mercedes/policies/privacy_statement">
+   <url name="http://www.mbusa.com/mercedes/policies/privacy_statement" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

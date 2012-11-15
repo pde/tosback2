@@ -1,6 +1,6 @@
 <sitename name="metacafe.com">
  <docname name="Privacy Policy">
-   <url name="http://www.metacafe.com/privacy">
+   <url name="http://www.metacafe.com/privacy" xpath="//div[@id='Content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

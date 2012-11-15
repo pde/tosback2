@@ -1,6 +1,6 @@
 <sitename name="local.com">
  <docname name="Privacy Policy">
-   <url name="http://www.local.com/privacy/">
+   <url name="http://www.local.com/privacy/" xpath="//div[@class='mainWrap']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

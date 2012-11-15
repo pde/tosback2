@@ -1,6 +1,11 @@
 <sitename name="netflix.com">
+ <docname name="Terms of Use">
+   <url name="https://signup.netflix.com/TermsOfUse?fcld=true" xpath="//div[@id='main-body']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="https://signup.netflix.com/PrivacyPolicy">
+   <url name="https://signup.netflix.com/PrivacyPolicy?fcld=true" xpath="//div[@id='main-body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

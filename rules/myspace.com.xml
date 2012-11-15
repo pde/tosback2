@@ -1,6 +1,6 @@
 <sitename name="myspace.com">
  <docname name="Privacy Policy">
-   <url name="http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer">
+   <url name="http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer" xpath="//section[@id='col0_0']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

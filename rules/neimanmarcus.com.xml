@@ -1,6 +1,6 @@
 <sitename name="neimanmarcus.com">
  <docname name="Privacy Policy">
-   <url name="http://www.neimanmarcus.com/category/assistance/service/security.jhtml">
+   <url name="http://www.neimanmarcus.com/assistance/assistance.jsp?itemId=cat33940739" xpath="//div[@id='assistance-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

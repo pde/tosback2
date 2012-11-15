@@ -1,6 +1,6 @@
 <sitename name="modcloth.com">
  <docname name="Privacy Policy">
-   <url name="http://www.modcloth.com/help/privacy">
+   <url name="http://www.modcloth.com/help/privacy" xpath="//div[@id='cms-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

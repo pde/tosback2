@@ -1,6 +1,6 @@
 <sitename name="mypoints.com">
  <docname name="Privacy Policy">
-   <url name="http://www.mypoints.com/emp/u/privacy.vm">
+   <url name="http://www.mypoints.com/emp/u/privacy.vm" xpath="//div[@id='content_1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

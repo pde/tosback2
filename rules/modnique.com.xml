@@ -1,6 +1,6 @@
 <sitename name="modnique.com">
  <docname name="Privacy Policy">
-   <url name="http://www.modnique.com/faqs/modnique_faq_privacy">
+   <url name="http://www.modnique.com/faqs/modnique_faq_privacy" xpath="//div[@class='unit size1of1 pal posRel clearfix']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

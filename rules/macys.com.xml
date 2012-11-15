@@ -1,6 +1,6 @@
 <sitename name="macys.com">
  <docname name="Privacy Policy">
-   <url name="https://customerservice.macys.com/app/answers/detail/a_id/595/session/L2F2LzEvdGltZS8xMzI0NjI0NTIyL3NpZC9hcEV6SGhNaw==">
+   <url name="https://customerservice.macys.com/app/answers/detail/a_id/595" xpath="//div[@id='rn_AnswerText']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
