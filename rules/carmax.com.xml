@@ -1,6 +1,6 @@
 <sitename name="carmax.com">
  <docname name="Privacy Policy">
-   <url name="http://www.carmax.com/enus/privacy-policy/default.html">
+   <url name="http://www.carmax.com/enus/privacy-policy/default.html" xpath="//div[@class='inner clearfix']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="haven.com">
  <docname name="Privacy Policy">
-   <url name="http://www.haven.com/support/privacy-policy.aspx">
+   <url name="http://www.haven.com/support/privacy-policy.aspx" xpath="//div[@id='textContainer']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

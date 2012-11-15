@@ -1,6 +1,6 @@
 <sitename name="justanswer.com">
  <docname name="Privacy Policy">
-   <url name="http://ww2.justanswer.com/privacy-security">
+   <url name="http://ww2.justanswer.com/privacy-security" xpath="//div[@id='content-area']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

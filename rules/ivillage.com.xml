@@ -1,6 +1,6 @@
 <sitename name="ivillage.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ivillage.com/privacy-policy/8-a-257153">
+   <url name="http://www.ivillage.com/privacy-policy/8-a-257153" xpath="//div[@id='maincontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

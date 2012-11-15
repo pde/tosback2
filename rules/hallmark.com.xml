@@ -1,6 +1,6 @@
 <sitename name="hallmark.com">
  <docname name="Privacy Policy">
-   <url name="http://www.hallmark.com/online/privacy.aspx">
+   <url name="http://www.hallmark.com/online/privacy.aspx" xpath="//div[@id='1347748415465']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

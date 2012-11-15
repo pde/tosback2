@@ -1,6 +1,6 @@
 <sitename name="ehow.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ehow.com/privacy.html">
+   <url name="http://www.ehow.com/privacy.html" xpath="//section[@id='Body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

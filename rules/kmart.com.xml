@@ -1,6 +1,6 @@
 <sitename name="kmart.com">
  <docname name="Privacy Policy">
-   <url name="http://www.kmart.com/shc/s/nb_10151_10104_NB_CSprivacy?adCell=WF">
+   <url name="http://www.kmart.com/csprivacy/nb-100000000000006?adCell=WF" xpath="//div[@class='csContentBlock']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

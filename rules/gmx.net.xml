@@ -1,6 +1,6 @@
 <sitename name="gmx.net">
  <docname name="Privacy Policy">
-   <url name="http://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy?sid=babhdch.1330505479.32150.gz9vg0ycar.73.feh#moveData">
+   <url name="http://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy" xpath="//div[@id='article']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

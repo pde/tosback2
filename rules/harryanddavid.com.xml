@@ -1,6 +1,6 @@
 <sitename name="harryanddavid.com">
  <docname name="Privacy Policy">
-   <url name="http://www.harryanddavid.com/gifts/store/view__10455_10002_custserv-security.html">
+   <url name="http://www.harryanddavid.com/h2/view/custserv-security" xpath="//div[@id='privacyTerms']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

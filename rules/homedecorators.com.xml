@@ -1,6 +1,6 @@
 <sitename name="homedecorators.com">
  <docname name="Privacy Policy">
-   <url name="http://www.homedecorators.com/Privacy/">
+   <url name="http://www.homedecorators.com/Privacy/" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

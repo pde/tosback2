@@ -1,6 +1,6 @@
 <sitename name="bing.com">
  <docname name="Privacy Policy">
-   <url name="http://privacy.microsoft.com/en-us/fullnotice.mspx">
+   <url name="http://www.microsoft.com/privacystatement/en-us/bing/default.aspx" xpath="//div[@class='div_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
