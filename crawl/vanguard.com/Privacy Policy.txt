@@ -6,45 +6,46 @@ Log on Search <ul>
 Home
 </li>
 <li>
-My Portfolio
+My Accounts
 </li>
 <li>
-Research Funds &amp.
-Stocks
+Funds, Stocks &amp.
+ETFs
 <ul>
-<li>Vanguard Funds</li>
+<li>Vanguard funds</li>
 <li>Vanguard ETFs</li>
-<li>Other Fund Families</li>
+<li>Other fund families</li>
 </ul>
 <ul>
-<li>Stocks, Bonds, &amp.
+<li>Stocks, bonds &amp.
 CDs</li>
 </ul>
 <ul>
-<li>Annuity Portfolios</li>
-<li>529 Portfolios</li>
+<li>Annuity portfolios</li>
+<li>529 portfolios</li>
 </ul>
 </li>
 <li>
 What We Offer
 <ul>
 <li>Overview</li>
-<li>Mutual Funds</li>
+<li>Mutual funds</li>
 <li>ETFs</li>
-<li>Stocks, Bonds, &amp.
+<li>Stocks, bonds &amp.
 CDs</li>
 </ul>
 <ul>
-<li>401(k) Rollovers</li>
+<li>401(k) rollovers</li>
 <li>IRAs</li>
 <li>College</li>
-<li>Small Business</li>
+<li>Small business</li>
 <li>Annuities</li>
 </ul>
 <ul>
 <li>Advice</li>
-<li>Personal Services</li>
-<li>Account Services</li>
+<li>Retirement income</li>
+<li>Personal services</li>
+<li>Account services</li>
 </ul>
 </li>
 <li>
@@ -54,18 +55,19 @@ Insights
 </ul>
 <ul>
 <li>Markets &amp.
-Economy</li>
+economy</li>
 <li>Retirement</li>
 <li>Saving &amp.
-Investing</li>
-<li>College Savings</li>
-<li>Tax Center</li>
+investing</li>
+<li>College savings</li>
+<li>Tax center</li>
 </ul>
 <ul>
-<li>Investing Truths</li>
+<li>Investing truths</li>
 </ul>
 </li>
-</ul> Vanguard's privacy policy <p>
+</ul> new vg.Menu({id:'firstNav', closeOnScroll: false, autosubmenudisplay: true, hidedelay: 0, lazyload: true, addScrollRegions: true, menuBar: true, shadow: false, minscrollheight: 85, mouseOutExtAreaHideDelay: 500, openOnFocus: true, initEvent: event }).
+Vanguard's privacy policy <p>
 <i>The following privacy policy is provided by the Vanguard funds, The Vanguard Group, Inc., Vanguard Marketing Corporation, Vanguard Advisers, Inc., Vanguard Fiduciary Trust Company, and Vanguard National Trust Company.</i>
 </p>
 Our commitment to you
@@ -137,5 +139,5 @@ We reserve the right to modify this policy at any time, but rest assured that if
 All rights reserved.
 Vanguard Marketing Corp., Distrib.
 Terms &amp.
-conditions of use | Security Center | Obtain prospectus | Careers | Mobile services | Feedback | Enhanced Support</p>
-<b>EV1_02</b> 
+conditions of use | Security Center | Obtain prospectus | Careers | Mobile services | Feedback</p>
+<b>EN2_01</b> 
