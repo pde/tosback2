@@ -1,6 +1,6 @@
 <sitename name="nyandcompany.com">
  <docname name="Privacy Policy">
-   <url name="http://www.nyandcompany.com/nyco/company/privacy.jsp">
+   <url name="http://www.nyandcompany.com/nyco/company/privacy.jsp" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

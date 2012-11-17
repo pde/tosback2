@@ -1,6 +1,6 @@
 <sitename name="rxlist.com">
  <docname name="Privacy Policy">
-   <url name="http://www.rxlist.com/script/main/art.asp?articlekey=64474">
+   <url name="http://www.rxlist.com/script/main/art.asp?articlekey=64474" xpath="//div[@id='textArea']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

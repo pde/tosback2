@@ -1,6 +1,6 @@
 <sitename name="hyundaiusa.com">
  <docname name="Privacy Policy">
-   <url name="http://hyundaiusa.com/privacy-policy.aspx">
+   <url name="https://www.hyundaiusa.com/privacy-policy.aspx/" xpath="//div[@id='bodyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="rollingstone.com">
  <docname name="Privacy Policy">
-   <url name="http://www.rollingstone.com/services/privacypolicy">
+   <url name="http://www.rollingstone.com/services/privacypolicy" xpath="//div[@id='col1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

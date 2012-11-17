@@ -1,6 +1,11 @@
 <sitename name="nordstrom.com">
+ <docname name="Customer Privacy Policy">
+   <url name="http://shop.nordstrom.com/c/nordstrom-privacy" xpath="//div[@class='csContent']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://shop.nordstrom.com/c/nordstrom-privacy">
+   <url name="http://shop.nordstrom.com/c/nordstrom-com-privacy-policy" xpath="//div[@class='csContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

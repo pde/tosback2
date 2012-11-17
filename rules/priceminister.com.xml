@@ -1,6 +1,6 @@
 <sitename name="priceminister.com">
  <docname name="Privacy Policy">
-   <url name="http://www.priceminister.com/help/h_ethic#h_privacy">
+   <url name="http://www.priceminister.com/help/i_priv_cookies" xpath="//div[@id='main_ctn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

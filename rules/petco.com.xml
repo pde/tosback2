@@ -1,6 +1,6 @@
 <sitename name="petco.com">
  <docname name="Privacy Policy">
-   <url name="http://www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx">
+   <url name="http://www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx" xpath="//div[@id='ptco-box']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="nydailynews.com">
  <docname name="Privacy Policy">
-   <url name="http://www.nydailynews.com/services/privacy-policy">
+   <url name="http://www.nydailynews.com/services/privacy-policy" xpath="//div[@id='content_container']/div[1]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

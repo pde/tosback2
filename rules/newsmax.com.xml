@@ -1,6 +1,6 @@
 <sitename name="newsmax.com">
  <docname name="Privacy Policy">
-   <url name="http://www.newsmax.com/PrivacyStatement">
+   <url name="http://www.newsmax.com/PrivacyStatement" xpath="//div[@style='margin:10px; font-family:Arial, Helvetica, sans-serif;']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

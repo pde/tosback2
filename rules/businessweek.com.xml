@@ -1,6 +1,6 @@
 <sitename name="businessweek.com">
  <docname name="Privacy Policy">
-   <url name="http://www.businessweek.com/privacy.htm">
+   <url name="http://www.businessweek.com/privacy.htm" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

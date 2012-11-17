@@ -1,6 +1,6 @@
 <sitename name="politico.com">
  <docname name="Privacy Policy">
-   <url name="http://www.politico.com/privacy/">
+   <url name="http://www.politico.com/privacy/" xpath="//div[@id='mainContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="pricegrabber.com">
  <docname name="Privacy Policy">
-   <url name="http://www.pricegrabber.com/info_disclaimer.php">
+   <url name="http://www.pricegrabber.com/info_disclaimer.php" xpath="//div[@id='pgPageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

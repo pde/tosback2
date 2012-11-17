@@ -1,6 +1,6 @@
 <sitename name="finishline.com">
  <docname name="Privacy Policy">
-   <url name="http://www.finishline.com/store/customer_service/privacy_policy.jsp" xpath="//div[@id='main_spacer']">
+   <url name="http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html" xpath="//div[@class='privacy-policy-wrap']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

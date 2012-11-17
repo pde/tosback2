@@ -1,6 +1,6 @@
 <sitename name="pillsbury.com">
  <docname name="Privacy Policy">
-   <url name="http://www.pillsbury.com/privacy-policy">
+   <url name="http://www.pillsbury.com/privacy-policy" xpath="//div[@class='pageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

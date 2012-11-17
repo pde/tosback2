@@ -1,6 +1,6 @@
 <sitename name="philanthropy.com">
  <docname name="Privacy Policy">
-   <url name="http://philanthropy.com/page/Privacy-Policy/109/">
+   <url name="http://philanthropy.com/page/Privacy-Policy/109/" xpath="//div[@id='portal']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

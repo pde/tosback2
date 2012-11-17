@@ -1,6 +1,6 @@
 <sitename name="ning.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ning.com/about/legal/privacy/">
+   <url name="http://www.ning.com/about/legal/privacy/" xpath="//div[@id='entry-37']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

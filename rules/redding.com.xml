@@ -1,6 +1,6 @@
 <sitename name="redding.com">
  <docname name="Privacy Policy">
-   <url name="http://www.redding.com/privacy/">
+   <url name="http://www.redding.com/privacy/" xpath="//div[@id='primary_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

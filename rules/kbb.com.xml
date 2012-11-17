@@ -1,6 +1,6 @@
 <sitename name="kbb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.kbb.com/company/privacy-policy/">
+   <url name="http://www.kbb.com/company/privacy-policy/" xpath="//div[@id='divPrivatePolicy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

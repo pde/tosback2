@@ -1,6 +1,6 @@
 <sitename name="outbrain.com">
  <docname name="Privacy Policy">
-   <url name="http://www.outbrain.com/privacy">
+   <url name="http://www.outbrain.com/privacy" xpath="//div[@class='col-main clearfix']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

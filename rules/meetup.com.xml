@@ -1,6 +1,6 @@
 <sitename name="meetup.com">
  <docname name="Privacy Policy">
-   <url name="http://www.meetup.com/privacy">
+   <url name="http://www.meetup.com/privacy" xpath="//div[@id='C_document']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

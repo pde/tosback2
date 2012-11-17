@@ -1,6 +1,6 @@
 <sitename name="costco.com">
  <docname name="Privacy Policy">
-   <url name="http://shop.costco.com/Legal/Privacy">
+   <url name="http://shop.costco.com/privacy-policy.html" xpath="//div[@id='WC_ContentAreaESpot_div_1_privacy-policy-1_Slot1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
