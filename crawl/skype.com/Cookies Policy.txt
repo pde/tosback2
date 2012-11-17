@@ -61,23 +61,24 @@ WHAT INFORMATION DOES SKYPE COLLECT AND USE?</b>
 </p>
 <p>Skype may gather and use information about you, including (but not limited to) information in the following categories:</p>
 <p>(a) Identification data (e.g.
-name, address, telephone number, mobile number, email address);</p>
+name, username, address, telephone number, mobile number, email address);</p>
 <p>(b) Profile information (e.g.
 age, gender, country of residence, language preference and any information that you choose to make available to others as part of your Skype user profile as further described in Section 6);</p>
 <p>(c) Electronic identification data (e.g.
 IP addresses, cookies);</p>
-<p>(d) Banking and payment information (credit card information, account number);</p>
+<p>(d) Banking and payment information (e.g.
+credit card information, account number);</p>
 <p>(e) Survey results;</p>
-<p>(f) Information about your usage of and interaction with the Skype software, our products and websites including computer, platform, device and connection information, device capability, bandwidth, statistics on page views, and traffic to and from our websites, browser type and Skype WiFi enabled hotspot detection and usage statistics;</p>
+<p>(f) Information about your usage of and interaction with Skype software, products, and websites (including computer, platform, device and connection information, client performance information, error reports, device capability, bandwidth, statistics on page views, and traffic to and from our websites, browser type and Skype WiFi enabled hotspot detection and usage statistics;</p>
 <p>(g) Products or services ordered and delivered;</p>
 <p>(h) The URL of videos that you have selected to appear in your mood message;</p>
 <p>(i) Skype test calls made to ECHO123 (which are recorded and played back to the user and deleted thereafter);</p>
-<p>(j) List of your contacts (we will give you a choice as to whether you want Skype to use contact lists from other services to populate your Skype contacts);</p>
+<p>(j) List of your contacts and related data (we will give you a choice as to whether you want Skype to use contact lists from other services to populate your Skype contacts);</p>
 <p>(k) Your username and password for other email accounts where you have provided this to us and requested us to search for your friends on Skype (please note that Skype does not retain this information after completing the search or use it for any other purpose);</p>
 <p>(l) Correspondence between you and Skype;</p>
 <p>(m) Traffic data (data processed for the purpose of the conveyance of communications or the billing thereof, including, but not limited to, the duration of the call, the number calling and the number called).
 and</p>
-<p>(n) Content of instant messaging communications, voicemails and videomails (please see section 12);</p>
+<p>(n) Content of instant messaging communications, voicemails, and videomails (please see section 12);</p>
 <p>(o) Location information, derived from your mobile carrier or from the mobile device that you use.
 In connection with the Qik products, you control when your location is shared with others.
 Your location is displayed and shared with other Qik users only in accordance with your privacy settings.
@@ -85,8 +86,8 @@ You also may create location information by "geo-tagging" your submitted content
 Please manage your privacy settings for location information carefully;</p>
 <p>(p) Mobile device information, such as manufacturer’s name, device model number, operating system, carrier network;</p>
 <p>(q) Location information and device identifiers, derived from your device, when you enter into a Skype WiFi compatible hotspot.
-This information may be used to detect eligibility to connect using Skype WiFi and for the purposes of offering, providing and marketing Skype WiFi to you.<br>
-</p>
+This information may be used to detect eligibility to connect using Skype WiFi and for the purposes of offering, providing and marketing Skype WiFi to you;</p>
+<p>(r) Access tokens for other accounts you associate with your Skype account (such as Microsoft account or Facebook), which are like an electronic key provided by the service that acts in place of a password for authentication.</p>
 <p>
 <b>2.
 HOW DOES SKYPE USE THIS INFORMATION AND FOR WHAT PURPOSE?</b>
@@ -104,7 +105,8 @@ Skype collects and uses, or has third party service providers acting on Skype’
 <li>request feedback or participation in on-line surveys;</li>
 <li>resolve disputes;</li>
 <li>verify your identity;</li>
-<li>customize, measure, and improve Skype software and websites, as well as other Microsoft products and services to improve our search functionality and help you find contacts more easily;</li>
+<li>customize, measure, and improve Skype software and websites, as well as other Microsoft products and services</li>
+<li>improve our search functionality and help you find and contact other Skype users more easily and accurately;</li>
 <li>organise and carry out Skype’s marketing or promotional operations/offers, contests, games and similar events.
 and</li>
 <li>protect your and Skype’s interests, including in particular to enforce our Terms of Service and prevent and fight against fraud, (together, the Purposes).</li>
@@ -130,12 +132,13 @@ If you provide personal data including your name and job title to be included in
 The conversion process may in exceptional cases, require access by analysts.
 By using the voicemail product, you consent to the processing of your voicemail message by Skype and its service provider.</p>
 <p>Skype, Skype's local partner, or the operator or company facilitating your communication may provide personal data, communications content and/or traffic data to an appropriate judicial, law enforcement or government authority lawfully requesting such information.
-Skype will provide all reasonable assistance and information to fulfill this request and you hereby consent to such disclosure.</p>
-<p>Your information may be stored and processed in any country in which Microsoft or its affiliates, subsidiaries or service providers maintain facilities, including outside of the EU.
+Skype will provide reasonable assistance and information to fulfill this request and you hereby consent to such disclosure.</p>
+<p>Information that is collected by or sent to Skype and/or Microsoft may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities.
 In this regard, or for purposes of sharing or disclosing data in accordance with this article 4, Skype reserves the right to transfer information outside of your country.
 By using Skype software, Skype's websites or Skype products you consent to any such transfer of information outside of your country.
-With regard to transfers of personal data to the United States from the European Economic Area and Switzerland, Microsoft abides by the safe harbor framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of such data.</p>
+Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland.
+To learn more about the Safe Harbor program, and to view our certification, please visit www.export.gov/safeharbor.</p>
 <p>As Microsoft continues to develop its business, Microsoft might sell or buy subsidiaries or business units.
 In any such transactions in which Skype or substantially all of its assets are acquired by a third party, personal information of Skype users will generally be one of the transferred business assets.
 We reserve the right to include your personal information in any such transfer to a third party.</p>
@@ -174,7 +177,7 @@ TM is when the cookie was modified<br>
 <b>4.1.2.
 Gifs</b>
 </p>
-<p>Skype web pages may include clear gifs, also known as web-beacons and tracking pixels.
+<p>Skype web pages and client interfaces may include clear gifs, also known as web-beacons and tracking pixels.
 Gifs are tiny graphics with a unique identifier, which are used to count your visits to the page (but which do not retain any personally identifiable information).
 In addition, Skype uses clear gifs in our HTML-based emails to let us know which emails have been opened and acted upon.
 This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.</p>
@@ -286,7 +289,8 @@ Your Advertising Choices</b>
 <b>5.1 Third Party Advertisements</b>
 </p>
 <p>Some Skype software clients may enable third-party advertisements provided by Microsoft Advertising.
-In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked LiveID accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Ads collects outside the Skype software client, such as search queries or browsing activity.
+In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked LiveID accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside the Skype software client.
+For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within the Skype software client.
 You may opt-out of Microsoft targeted ads in any Skype software client that enables targeted ads by visiting the privacy menu in the Skype software client toolbar.
 If you opt-out, you will still receive advertisements based on your country of residence, language preference and IP address location, but other targeting information will not be used.
 Please note that the only way to ensure that Microsoft Advertising does not present targeted ads within the Skype client is to opt-out through the mechanism described above.
@@ -308,7 +312,7 @@ Many of them are also members of the Network Advertising Initiative (NAI) or the
 <b>6.
 YOUR USER PROFILE</b>
 </p>
-<p>Your user profile is the information provided by you at registration which is displayed in your Skype profile in the Skype software client, in the Skype search directory and on your personal details page in your account on www.skype.com.
+<p>Your user profile is the information provided by you at registration or later which is displayed in your Skype profile in the Skype software client, in the Skype search directory and on your personal details page in your account on www.skype.com.
 It may include your Skype username, full name, address, telephone and mobile numbers, gender, date of birth, country, language, “about me” page URL, and any other information that you decide to make available.
 You can access your user profile from the “Skype” menu in the Skype software client or from your account on www.skype.com in order to view, correct or complete information, remove non-mandatory information.
 and to see the privacy settings associated with your profile information.</p>
@@ -334,7 +338,7 @@ HOW DOES SKYPE PROTECT YOUR PERSONAL INFORMATION?</b>
 </p>
 <p>Skype will take appropriate organizational and technical measures to protect the personal data and traffic data provided to it or collected by it with due observance of the applicable obligations and exceptions under the relevant legislation.
 Your personal and traffic data can only be accessed by authorized employees of Microsoft or its affiliates, subsidiaries or service providers who need to have access to this data in order to be able to fulfill their given duties.</p>
-<p>Skype may use automated scanning within messages to identify URLs that have been previously flagged as spam, fraud, or phishing links.
+<p>Skype may use automated scanning within Instant Messages to identify URLs that have been previously flagged as spam, fraud, or phishing links.
 Skype may, in its sole discretion, block, prevent delivery of, or otherwise remove such links from any such messages.</p>
 <p>
 <b>9.
@@ -375,11 +379,13 @@ HOW LONG IS YOUR PERSONAL DATA KEPT BY SKYPE?</b>
 </p>
 <p>Skype will retain your information for as long as is necessary to: (1) fulfill any of the Purposes (as defined in article 3 of this Privacy Policy) or (2) comply with applicable legislation, regulatory requests and relevant orders from competent courts.</p>
 <p>Retention of Instant Messages, Voicemail Messages, and Videomail Messages (Skype internet communications software application only)</p>
-<p>Your instant messaging (IM), voicemail, and videomail communications-content may be stored by Skype (a) to convey and synchronise your messages and (b) to enable you to retrieve the messages and history where possible.
-IM messages are currently stored for a maximum of 30 days unless otherwise permitted or required by law.
-Voicemail messages are currently stored for a maximum of 60 days unless otherwise permitted or required by law.
-Videomail messages are currently stored for a maximum of 90 days unless otherwise permitted or required by law, or unless the sender is a Premium Member, in which case they may be stored up to 10 years.
-Skype will at all times take appropriate technical and security measures to protect your information.
+<p>Your instant messaging (IM), voicemail, and videomail content (collectively “messages”) may be stored by Skype (a) to convey and synchronize your messages and (b) to enable you to retrieve the messages and history where possible.
+Depending on the message type, messages are generally stored by Skype for a maximum of between 30 and 90 days unless otherwise permitted or required by law.
+This storage facilitates delivery of messages when a user is offline and to help sync messages between user devices.
+For IM, if you have linked your Skype and Microsoft accounts, you may have the option to choose to store your full IM history for a longer period.
+In that case, your IMs may be stored in your Outlook.com Messaging folder until you manually delete them.
+For Videomail, you may also choose to store messages for an extended period if the sender is a Premium Member.</p>
+<p>Skype will take appropriate technical and security measures to protect your information.
 By using this product, you consent to the storage of your IM, voicemail, and videomail communications as described above.</p>
 <p>
 <b>13.
@@ -410,7 +416,7 @@ For members of Skype Manager in the United States only:<br>
 Skype Inc.<br>
 3210 Porter Drive<br>
 Palo Alto, California 94304, USA</p>
-<p>© Skype – Last revised: June 2012<br>
+<p>© Skype – Last revised: September 2012<br>
 </p> English EnglishعربيČeskyDanskDeutschEspañolEestiSuomiFrançaisMagyarBahasa IndonesiaItaliano日本語한국어NederlandsNorskPolskiPortuguêsPortuguês (Brasileiro)RomânăРуccкийSvenskaTürkçe中文（简体)中文 (繁體) <ul>
 <li>
 About </li>

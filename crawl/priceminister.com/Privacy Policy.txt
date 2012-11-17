@@ -1,76 +1,4 @@
- <p>
-17 405 000 membres
--
-198 188 756 articles </p> ".
-divString += "".
-document.write(divString).
-<dd>
-page crée le 2012 11 17 10:08:14
-</dd>
-<dd>bbc2a27a2d82f6a45062138320946ce920100915</dd> ".
-divString += "".
-document.write(divString).
-<ul>
-<li>
-Inscription
-</li>
-<li>
-Parrainage
-</li>
-<li>
-Vendre
-</li>
-<li>
-Aide
-</li>
-</ul>
-<ul>
-<li> Mon compte </li>
-<li>
-Mon panier </li>
-</ul> Rechercher <ul>
-<li>
-<li>
-<li>
-<li>
-</ul>
-<ul>
-</ul> Accueil &gt.
-Aide Aide <ul>
-<li>Première visite</li>
-<li>
-Guide d'utilisation <ul>
-<li>Comment ça marche</li>
-<li>Comment vendre</li>
-<li>Comment acheter</li>
-<li>Le Porte-Monnaie</li>
-<li>Les SuperPoints</li>
-<li>La communauté</li>
-</ul>
-</li>
-<li>FAQ / Contacts</li>
-</ul> Ethique &amp.
-Sécurité <ul>
-<li>Paiement sécurisé</li>
-<li>Propriété intellectuelle</li>
-<li>Responsabilité</li>
-<li>Vie privée et cookies</li>
-</ul> Transaction sécurisée par<br> Ethique et sécurité Paiement sécurisé <p>Lors d'un achat, le paiement s'effectue à l'aide du système sécurisé "<b>Sogenactif</b>" de la <b>Société Générale</b>.
-Vos coordonnées bancaires sont cryptées et ainsi totalement protégées contre toute forme de piratage.<br>
-<br> De la même façon, le numéro de votre carte n'est à aucun moment visible et/ou conservé par PriceMinister si vous choisissez, lors d'une commande ou directement depuis votre compte, de sauvegarder une carte de paiement pour de futurs achats.<br>
-<br> Vous pouvez donc acheter en toute sérénité sur PriceMinister !<br>
-<br> Conformément à la loi "Informatique et libertés" du 6 janvier 1978, vous bénéficiez d'un droit d'accès, de rectification et d'opposition aux informations qui vous concernent, que vous pouvez exercer à tout moment en vous rendant sur la page "FAQ/Contact" du site.</p> Propriété intellectuelle <p>Les textes et images relatifs aux produits mis en vente sur le site de PriceMinister sont réservés au titre du droit d'auteur ainsi qu'au titre de la Propriété intellectuelle pour le monde entier.
-<br>
-<br> A ce titre, conformément aux dispositions du Code de la Propriété intellectuelle, seule l'utilisation pour un usage privé -sauf dispositions plus restrictives dudit Code- est permise.
-Toute autre utilisation constitutive de contrefaçon est passible des sanctions prévues par le même Code.
-Toute reproduction même partielle du catalogue en ligne de PriceMinister est strictement interdite, sauf autorisation préalable de PriceMinister.</p> Responsabilité <p>Le vendeur garantit que ses produits sont conformes à la législation française et aux normes applicables en France.
-<br>
-<br> Il garantit en outre à PriceMinister qu'il en est régulièrement propriétaire et qu'il peut en disposer librement, y compris s'agissant de biens soumis à une licence d'utilisation ou dont les conditions de vente sont régies par une législation particulière, comme par exemple la loi relative au prix du livre.<br>
-<br> PriceMinister se réserve le droit d'exclure de ses membres tout vendeur qui contreviendrait de quelque manière que ce soit à ces dispositions, sans préjudice d'éventuelles poursuites judiciaires.
-<br>
-<br> PriceMinister décline toute responsabilité en cas d'infraction (fraude, contrefaçon, recel, etc.) du fait du vendeur.
-<br>
-<br> Le vendeur garantit PriceMinister contre toute action en responsabilité engagée à son encontre sur le fondement de la violation d'un droit quelconque d'un tiers ou contre tout dommage résultant pour PriceMinister de la réclamation effectuée par un tiers.</p> Vie privée et cookies <p>La protection des données personnelles constitue un enjeu majeur dans la confiance que nos utilisateurs peuvent nous accorder.
+ Vie privée et cookies <p>La protection des données personnelles constitue un enjeu majeur dans la confiance que nos utilisateurs peuvent nous accorder.
 Elle est, à ce titre, une préoccupation importante de PriceMinister.<br>
 <br> Lorsque vous créez un compte, vendez ou achetez un article sur PriceMinister, naviguez sur notre site ou encore lorsque vous nous envoyez une réclamation par exemple, PriceMinister collecte certaines données afin de répondre à vos besoins mais aussi afin d’améliorer la qualité des services qui vous sont proposés.<br>  <br> Pour vous permettre de faire des choix éclairés sur l’utilisation de vos données personnelles, PriceMinister s’efforce de faire preuve de la plus grande transparence possible et vous invite à prendre connaissance de sa politique en matière de protection des données à caractère personnel.<br>
 <br> &gt.
@@ -134,12 +62,4 @@ Conformément aux articles 38 et 39 de la Loi Informatique et Libertés du 6 jan
 <br>
 </p> Sécurité de vos données personnelles <p>En tant que tiers de confiance, PriceMinister vous garantit la totale sécurité de vos informations personnelles : sauf autorisation exprès de PriceMinister et suite à l'engagement impératif du vendeur de respecter les dispositions de la loi du 6 janvier 1978 relative à l'informatique et aux libertés, un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail et ne pourra en aucun cas vous contacter autrement que via PriceMinister.<br>
 <br> Les principes ci-dessus ne font pas obstacle à la cession ou au transfert de tout ou partie des activités de PriceMinister à un ou plusieurs tiers.<br>  <br> Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer avec certitude que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de ce terminal et non à celle d'un autre utilisateur de ce terminal.<br>  <br> Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.<br>
-</p> ".
-divString += "".
-document.write(divString).
-Faire de cette page votre page d'accueil
-Ajouter cette page à vos favoris
-Envoyer cette page à un ami Affiliation - Comment acheter - Comment vendre - Mon compte - Mon panier - Aide - FAQ / Contacts - Conditions générales - Vie privée et cookies - Vendeurs PRO - PriceMinister recrute <br>
-<b>Groupe Rakuten :</b>   Rakuten Japon -  Rakuten Taiwan -  Tarad.com Thaïlande -  Rakuten Indonésie -  Rakuten Malaysia -  Buy.com Etats-Unis -  Rakuten Brésil -  VoyagerMoinsCher.com   <br>PriceMinister Espagne -  Rakuten Allemagne -  Play.com Royaume Uni -  Rakuten International -  Signaler un contenu illicite ©
-PriceMinister
-2000-2012 
+</p> 
