@@ -1,6 +1,6 @@
 <sitename name="sparkpeople.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sparkpeople.com/resource/motivation_articles.asp?id=922">
+   <url name="http://www.sparkpeople.com/resource/motivation_articles.asp?id=922" xpath="//td[@class='article_font_fix']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

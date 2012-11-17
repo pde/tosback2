@@ -1,6 +1,6 @@
 <sitename name="samsclub.com">
  <docname name="Privacy Policy">
-   <url name="http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy">
+   <url name="http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy" xpath="//div[@id='mainContent_body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

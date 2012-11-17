@@ -1,6 +1,6 @@
 <sitename name="sierratradingpost.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sierratradingpost.com/lp2/policies/#privacypolicy">
+   <url name="http://www.sierratradingpost.com/lp2/policies/#privacypolicy" xpath="//div[@class='g12 o content right']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

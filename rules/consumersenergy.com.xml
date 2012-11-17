@@ -1,6 +1,6 @@
 <sitename name="consumersenergy.com">
  <docname name="Privacy Policy">
-   <url name="http://www.consumersenergy.com/Content.aspx?id=1121">
+   <url name="http://www.consumersenergy.com/Content.aspx?id=1121" xpath="//div[@id='col2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

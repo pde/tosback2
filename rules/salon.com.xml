@@ -1,6 +1,6 @@
 <sitename name="salon.com">
  <docname name="Privacy Policy">
-   <url name="http://www.salon.com/about/policy/">
+   <url name="http://www.salon.com/about/policy/" xpath="//div[@id='post-11']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

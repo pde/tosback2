@@ -1,6 +1,6 @@
 <sitename name="josbank.com">
  <docname name="Privacy Policy">
-   <url name="http://www.josbank.com/menswear/shop/PrivacyPolicyView?langId=-1&#x26;storeId=11001&#x26;catalogId=10050">
+   <url name="http://www.josbank.com/menswear/shop/PrivacyPolicyView?langId=-1&amp;storeId=11001&amp;catalogId=10050" xpath="//div[@id='lc']/div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

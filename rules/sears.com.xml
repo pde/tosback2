@@ -1,6 +1,6 @@
 <sitename name="sears.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy?i_cntr=1324545996179">
+   <url name="http://www.sears.com/csprivacy/nb-100000000022508" xpath="//div[@id='container_main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

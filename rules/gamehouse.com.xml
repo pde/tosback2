@@ -1,6 +1,6 @@
 <sitename name="gamehouse.com">
  <docname name="Privacy Policy">
-   <url name="http://www.realnetworks.com/about-us/legal/privacy.aspx">
+   <url name="http://www.realnetworks.com/about-us/legal/privacy.aspx" xpath="//div[@id='left-channel']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="journeys.com">
  <docname name="Privacy Policy">
-   <url name="http://www.journeys.com/privacy.aspx">
+   <url name="http://www.journeys.com/privacy.aspx" xpath="//article[@class='editorial']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

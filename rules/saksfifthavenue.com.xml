@@ -1,6 +1,6 @@
 <sitename name="saksfifthavenue.com">
  <docname name="Privacy Policy">
-   <url name="http://www.saksfifthavenue.com/html/popups/legal.jsp?bmUID=jk28dnZ">
+   <url name="http://www.saksfifthavenue.com/Policies" xpath="//div[@id='saksBody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

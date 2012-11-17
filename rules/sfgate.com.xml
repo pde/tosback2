@@ -1,6 +1,6 @@
 <sitename name="sfgate.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sfgate.com/pages/privacy/">
+   <url name="http://www.sfgate.com/pages/privacy/" xpath="//div[@class='topmask']/div[@class='hst-freeform']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="shoes.com">
  <docname name="Privacy Policy">
-   <url name="http://www.shoes.com/en-US/Content/PRIVACY.aspx">
+   <url name="http://www.shoes.com/en-US/Content/PRIVACY.aspx" xpath="//div[@id='servicePageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="slate.com">
  <docname name="Privacy Policy">
-   <url name="http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html" xpath="/html/body/div/div[3]/article/div/div[4]/div[2]">
+   <url name="http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html" xpath="//div[@class='body parsys']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

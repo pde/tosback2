@@ -1,6 +1,6 @@
 <sitename name="classmates.com">
  <docname name="Privacy Policy">
-   <url name="http://www.classmates.com/about/privacy">
+   <url name="http://www.classmates.com/about/privacy" xpath="//div[@id='c0']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
