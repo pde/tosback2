@@ -1,6 +1,6 @@
 <sitename name="cooks.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cooks.com/rec/privacy.html">
+   <url name="http://www.cooks.com/rec/privacy.html" xpath="//div[@class='column grid_10']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

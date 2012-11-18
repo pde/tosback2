@@ -122,6 +122,7 @@ end
 def open_page(url)
   mech = Mechanize.new
   mech.user_agent_alias = 'Mac FireFox'
+  # mech.agent.http.verify_mode = 'SSLv3', OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
   gonext = nil
   
   begin
