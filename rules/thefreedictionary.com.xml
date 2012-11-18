@@ -1,6 +1,6 @@
 <sitename name="thefreedictionary.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thefreedictionary.com/privacy-policy.htm">
+   <url name="http://www.thefreedictionary.com/privacy-policy.htm" xpath="//table[@id='Aux']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

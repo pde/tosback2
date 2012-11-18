@@ -1,6 +1,6 @@
 <sitename name="toysrus.com">
  <docname name="Privacy Policy">
-   <url name="http://www.toysrus.com/helpdesk/index.jsp?display=safety&#x26;subdisplay=privacy">
+   <url name="http://www.toysrus.com/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" xpath="//div[@class='hd_col5_general hd_col_panelContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

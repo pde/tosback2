@@ -1,6 +1,6 @@
 <sitename name="telegraph.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">
+   <url name="http://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html" xpath="//div[@id='mainBodyArea']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="urbandictionary.com">
  <docname name="Privacy Policy">
-   <url name="http://www.urbandictionary.com/privacy.php">
+   <url name="http://www.urbandictionary.com/privacy.php" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

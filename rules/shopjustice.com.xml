@@ -1,6 +1,6 @@
 <sitename name="shopjustice.com">
  <docname name="Privacy Policy">
-   <url name="http://www.shopjustice.com/customerService/Privacy_Policy">
+   <url name="http://www.shopjustice.com/customerService/Privacy_Policy" xpath="//div[@id='main_content']/div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

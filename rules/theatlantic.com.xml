@@ -1,6 +1,6 @@
 <sitename name="theatlantic.com">
  <docname name="Privacy Policy">
-   <url name="http://www.theatlantic.com/privacy-policy/">
+   <url name="http://www.theatlantic.com/privacy-policy/" xpath="//div[@class='pageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

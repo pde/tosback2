@@ -1,6 +1,6 @@
 <sitename name="squidoo.com">
  <docname name="Privacy Policy">
-   <url name="http://www.squidoo.com/squidoo/65355501-Terms-of-Service#module65355781">
+   <url name="http://www.squidoo.com/squidoo/65355501-Terms-of-Service" xpath="//div[@id='left_col']/node()[not(contains(@class,'adsense')) and not(@id='lens_header')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

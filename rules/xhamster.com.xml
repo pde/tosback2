@@ -1,6 +1,6 @@
 <sitename name="xhamster.com">
  <docname name="Privacy Policy">
-   <url name="http://xhamster.com/privacy.php">
+   <url name="http://xhamster.com/privacy.php" xpath="//td[@class='list']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="vcstar.com">
  <docname name="Privacy Policy">
-   <url name="http://www.vcstar.com/privacy/">
+   <url name="http://www.vcstar.com/privacy/" xpath="//div[@id='flatpage_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

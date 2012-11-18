@@ -1,6 +1,6 @@
 <sitename name="photobucket.com">
  <docname name="Privacy Policy">
-   <url name="http://photobucket.com/privacyPolicy">
+   <url name="http://photobucket.com/privacyPolicy" xpath="//div[@id='privacyPolicyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

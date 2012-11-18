@@ -1,6 +1,6 @@
 <sitename name="geek.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ziffdavis.com/privacy-policy/">
+   <url name="http://www.ziffdavis.com/privacy-policy/" xpath="//div[@class='latestnews-left-container properties-text']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="zazzle.com">
  <docname name="Privacy Policy">
-   <url name="http://www.zazzle.com/mk/policy/privacy_policy">
+   <url name="http://www.zazzle.com/mk/policy/privacy_policy" xpath="//div[@id='group_2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

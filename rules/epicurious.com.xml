@@ -1,6 +1,6 @@
 <sitename name="epicurious.com">
  <docname name="Privacy Policy">
-   <url name="http://www.condenast.com/services/privacy/">
+   <url name="http://www.condenast.com/services/privacy/" xpath="//div[@id='main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

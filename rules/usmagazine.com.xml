@@ -1,6 +1,6 @@
 <sitename name="usmagazine.com">
  <docname name="Privacy Policy">
-   <url name="http://www.usmagazine.com/services/privacypolicy">
+   <url name="http://www.usmagazine.com/services/privacypolicy" xpath="//div[@class='ph10']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="over-blog.com">
  <docname name="Privacy Policy">
-   <url name="http://www.over-blog.com/reglement.php">
+   <url name="http://www.over-blog.com/reglement.php" xpath="//div[@class='main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="tvguide.com">
  <docname name="Privacy Policy">
-   <url name="http://www.tvguide.com/services/privacy.aspx">
+   <url name="http://www.tvguide.com/services/privacy.aspx" xpath="//div[@id='privacy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="thedailybeast.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thedailybeast.com/company/privacy-policy.html">
+   <url name="http://www.thedailybeast.com/company/privacy-policy.html" xpath="//div[@class='text parbase section']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

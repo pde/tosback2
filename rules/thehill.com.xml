@@ -1,6 +1,6 @@
 <sitename name="thehill.com">
  <docname name="Privacy Policy">
-   <url name="http://thehill.com/privacy-policy">
+   <url name="http://thehill.com/privacy-policy" xpath="//div[@id='el-article-div']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

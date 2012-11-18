@@ -1,6 +1,6 @@
 <sitename name="tinypic.com">
  <docname name="Privacy Policy">
-   <url name="http://tinypic.com/privacy.php">
+   <url name="http://tinypic.com/privacy_document.html" xpath="//div[@class='Section1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

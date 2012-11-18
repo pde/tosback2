@@ -1,6 +1,6 @@
 <sitename name="washingtonpost.com">
  <docname name="Privacy Policy">
-   <url name="http://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html">
+   <url name="http://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_print.html" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

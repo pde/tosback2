@@ -1,6 +1,6 @@
 <sitename name="gandermountain.com">
  <docname name="Privacy Policy">
-   <url name="http://www.gandermountain.com/customer_service/privacy.shtml#YourChoices">
+   <url name="http://www.gandermountain.com/customer-service/privacy-policy.shtml" xpath="//div[@id='cs_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

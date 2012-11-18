@@ -1,6 +1,6 @@
 <sitename name="ebags.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ebags.com/help/index.cfm?fuseaction=privacy">
+   <url name="http://www.ebags.com/help/index.cfm?fuseaction=privacy" xpath="//div[@id='helpcenter-maincontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

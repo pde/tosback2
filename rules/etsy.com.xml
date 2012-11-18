@@ -1,6 +1,6 @@
 <sitename name="etsy.com">
  <docname name="Privacy Policy">
-   <url name="http://www.etsy.com/help/article/1262">
+   <url name="http://www.etsy.com/help/article/1262" xpath="//div[@id='article']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

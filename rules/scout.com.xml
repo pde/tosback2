@@ -1,6 +1,6 @@
 <sitename name="scout.com">
  <docname name="Privacy Policy">
-   <url name="http://www.scout.com/3/privacy-policy.html">
+   <url name="http://www.scout.com/3/privacy-policy.html" xpath="//div[@id='blipPlayerStats']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

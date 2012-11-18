@@ -1,6 +1,6 @@
 <sitename name="yammer.com">
  <docname name="Privacy Policy">
-   <url name="https://www.yammer.com/about/privacy">
+   <url name="https://www.yammer.com/about/privacy" xpath="//div[@id='main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
