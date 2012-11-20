@@ -1,6 +1,6 @@
 <sitename name="uk.yahoo.com">
  <docname name="Privacy Policy">
-   <url name="http://info.yahoo.com/privacy/uk/yahoo/">
+   <url name="http://info.yahoo.com/privacy/uk/yahoo/details.html" xpath="//div[@id='pp-content1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

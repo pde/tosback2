@@ -1,4 +1,9 @@
 <sitename name="wordpress.com">
+ <docname name="Terms Of Service">
+  <url name="http://en.wordpress.com/tos/" xpath="//div[@class='pagebody']">
+    <norecurse name="arbitrary"/>
+  </url>
+ </docname>
  <docname name="Privacy Policy">
    <url name="http://automattic.com/privacy/" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>

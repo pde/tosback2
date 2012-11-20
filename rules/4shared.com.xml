@@ -1,6 +1,6 @@
 <sitename name="4shared.com">
  <docname name="Privacy Policy">
-   <url name="http://www.4shared.com/privacy.jsp">
+   <url name="http://www.4shared.com/privacy.jsp" xpath="//div[@style='padding-top:20px;text-align:justify;']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

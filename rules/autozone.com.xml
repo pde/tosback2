@@ -1,6 +1,6 @@
 <sitename name="autozone.com">
  <docname name="Privacy Policy">
-   <url name="http://www.autozone.com/autozone/termsandconditions/termsAndConditionsHome.jsp;jsessionid=4826C2BA25709F6043B102B4B6744661.diyprod5-b2c10?leftNavPage=privacyPolicy&#x26;pageCategory=privacyPolicy">
+   <url name="http://www.autozone.com/autozone/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy" xpath="//div[@id='contactus-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

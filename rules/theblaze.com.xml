@@ -1,6 +1,6 @@
 <sitename name="theblaze.com">
  <docname name="Privacy Policy">
-   <url name="http://www.theblaze.com/privacy-policy/">
+   <url name="http://www.theblaze.com/privacy-policy/" xpath="//div[@class='two-thirds column']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

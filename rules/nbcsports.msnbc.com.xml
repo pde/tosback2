@@ -1,6 +1,6 @@
 <sitename name="nbcsports.msnbc.com">
  <docname name="Privacy Policy">
-   <url name="http://nbcsports.msnbc.com/id/23114206">
+   <url name="http://nbcsports.msnbc.com/id/23114206" xpath="//div[@id='nbc-content']/div[@class='body']/p[@class='textBodyBlack']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

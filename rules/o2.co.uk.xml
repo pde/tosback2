@@ -1,6 +1,6 @@
 <sitename name="o2.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.o2.co.uk/termsandconditions/o2privacypolicy">
+   <url name="http://www.o2.co.uk/termsandconditions/o2privacypolicy" xpath="//div[@class='leftContainer']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

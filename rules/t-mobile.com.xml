@@ -1,6 +1,11 @@
 <sitename name="t-mobile.com">
+ <docname name="Terms and Conditions">
+   <url name="http://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditions&amp;print=true" xpath="//div[@id='body']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.t-mobile.com/company/website/privacypolicy.aspx#fullpolicy">
+   <url name="http://www.t-mobile.com/company/website/privacypolicy.aspx#fullpolicy" xpath="//div[@class='faq']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

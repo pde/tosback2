@@ -1,6 +1,6 @@
 <sitename name="vanguard.com">
  <docname name="Privacy Policy">
-   <url name="https://personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp">
+   <url name="https://personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp" xpath="//div[@id='colMcontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

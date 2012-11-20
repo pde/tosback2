@@ -1,6 +1,6 @@
 <sitename name="amazon.fr">
  <docname name="Privacy Policy">
-   <url name="http://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&#x26;nodeId=3329781">
+   <url name="http://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy/279-1604438-5146529?ie=UTF8&amp;nodeId=3329781" xpath="//td[@class='center-col']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

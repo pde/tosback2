@@ -1,6 +1,6 @@
 <sitename name="adidas.com">
  <docname name="Privacy Policy">
-   <url name="http://www.adidas.com/us/content/privacypolicies">
+   <url name="http://www.adidas.com/us/content/privacypolicies" xpath="//div[@class='colRight']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

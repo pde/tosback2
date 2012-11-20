@@ -1,6 +1,6 @@
 <sitename name="ucla.edu">
  <docname name="Privacy Policy">
-   <url name="http://www.ucla.edu/terms.html">
+   <url name="http://www.ucla.edu/terms.html" xpath="//div[@id='main-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

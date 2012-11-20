@@ -1,6 +1,6 @@
 <sitename name="glassdoor.com">
  <docname name="Privacy Policy">
-   <url name="http://www.glassdoor.com/about/privacy.htm">
+   <url name="http://www.glassdoor.com/about/privacy.htm" xpath="//div[@id='Legal']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

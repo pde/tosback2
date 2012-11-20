@@ -1,6 +1,6 @@
 <sitename name="detroitmedia.com">
  <docname name="Privacy Policy">
-   <url name="http://www.detroitmedia.com/termsofservice">
+   <url name="http://www.detroitmedia.com/termsofservice" xpath="//div[@id='main-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

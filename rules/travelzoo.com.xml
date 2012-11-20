@@ -1,6 +1,6 @@
 <sitename name="travelzoo.com">
  <docname name="Privacy Policy">
-   <url name="http://www.travelzoo.com/privacy/">
+   <url name="http://www.travelzoo.com/privacy/" xpath="//div[@class='leftCol rightBodyColumn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

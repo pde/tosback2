@@ -1,6 +1,6 @@
 <sitename name="tbs.com">
  <docname name="Privacy Policy">
-   <url name="http://www.tbs.com/general/privacy/">
+   <url name="http://www.tbs.com/general/privacy/" xpath="//div[@id='mainContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

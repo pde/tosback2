@@ -1,6 +1,6 @@
 <sitename name="af-medical.com">
  <docname name="Privacy Policy">
-   <url name="http://www.af-medical.com/de/Privatsphaere-und-Datenschutz">
+   <url name="http://www.af-medical.com/de/Privatsphaere-und-Datenschutz" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

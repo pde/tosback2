@@ -1,6 +1,6 @@
 <sitename name="msnlatino.telemundo.com">
  <docname name="Privacy Policy">
-   <url name="http://msnlatino.telemundo.com/legal_privacy/">
+   <url name="http://msnlatino.telemundo.com/legal_privacy/" xpath="//div[@class='content_main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
