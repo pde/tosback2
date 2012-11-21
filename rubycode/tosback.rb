@@ -127,9 +127,9 @@ def open_page(url)
   
   begin
     page = mech.get(url)
-  rescue
+  rescue => e
     # puts "error opening page"
-    log_stuff("Problem opening URL(404?): #{url}",$error_log)
+    log_stuff("Problem opening URL(#{e.message}): #{url}",$error_log)
     gonext = "skip"
   end
   
