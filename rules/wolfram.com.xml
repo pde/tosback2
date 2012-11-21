@@ -1,6 +1,6 @@
 <sitename name="wolfram.com">
  <docname name="Privacy Policy">
-   <url name="http://www.wolfram.com/legal/privacy/wolfram-research.html">
+   <url name="http://www.wolfram.com/legal/privacy/wolfram-research.html" xpath="//div[@class='leftcolumn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

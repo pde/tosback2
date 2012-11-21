@@ -1,6 +1,6 @@
 <sitename name="komando.com">
  <docname name="Privacy Policy">
-   <url name="http://www.komando.com/privacy.aspx">
+   <url name="http://www.komando.com/privacy.aspx" xpath="//span[@id='PrivacyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

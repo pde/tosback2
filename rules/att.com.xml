@@ -15,4 +15,8 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Wireless Plan Terms">
+    <url name="http://www.att.com/shop/legalterms.html?toskey=wirelessCustomerAgreement" xpath="//div[@id='main-container']">
+    </url>
+  </docname>
 </sitename>

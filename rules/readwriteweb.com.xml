@@ -1,6 +1,6 @@
 <sitename name="readwriteweb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.readwriteweb.com/about/privacy-policy.php">
+   <url name="http://www.readwriteweb.com/about/privacy-policy.php" xpath="//section[@id='article-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

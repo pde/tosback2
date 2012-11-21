@@ -1,6 +1,6 @@
 <sitename name="uggaustralia.com">
  <docname name="Privacy Policy">
-   <url name="http://www.uggaustralia.com/privacy-policy-terms-and-conditions/legaldefaultpg.html">
+   <url name="http://www.uggaustralia.com/privacy-policy-terms-and-conditions/privacy-policy,default,pg.html" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

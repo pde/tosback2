@@ -1,6 +1,6 @@
 <sitename name="drjays.com">
  <docname name="Privacy Policy">
-   <url name="http://www.drjays.com/content/customerservice/privacy_policy.html">
+   <url name="http://www.drjays.com/content/customerservice/privacy_policy.html" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

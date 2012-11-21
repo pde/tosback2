@@ -1,6 +1,6 @@
 <sitename name="redbox.com">
  <docname name="Privacy Policy">
-   <url name="http://www.redbox.com/privacy">
+   <url name="http://www.redbox.com/privacy" xpath="//div[@id='centerPane']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

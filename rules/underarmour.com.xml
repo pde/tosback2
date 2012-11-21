@@ -1,6 +1,6 @@
 <sitename name="underarmour.com">
  <docname name="Privacy Policy">
-   <url name="http://www.underarmour.com/shop/us/en/customer-service/security-and-privacy-policy">
+   <url name="http://www.underarmour.com/shop/us/en/customer-service/security-and-privacy-policy" xpath="//div[@style='float:left']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
