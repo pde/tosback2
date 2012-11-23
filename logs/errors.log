@@ -2497,3 +2497,10 @@
 2012-11-23 13:21:53 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv3 read finished A: bad decompression): https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E
 2012-11-23 13:22:29 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-23 13:22:59 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-23 15:00:22 -0600 - Problem opening URL(connection refused: mall.soc.io:80): http://mall.soc.io/PrivacyPolicy
+2012-11-23 15:00:37 -0600 - Problem opening URL(connection refused: www.cooks.com:80): http://www.cooks.com/rec/privacy.html
+2012-11-23 15:03:39 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
+2012-11-23 15:05:35 -0600 - Problem opening URL(500 => Net::HTTPInternalServerError for http://www.albertsons.com/about/security-privacy.jsp -- unhandled response): http://www.albertsons.com/about/security-privacy.jsp
+2012-11-23 15:09:21 -0600 - Problem opening URL(too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 17968720, last used 1353704961.5806599 seconds ago): http://us.gateway.com/gw/en/US/content/privacy-policy
+2012-11-23 15:10:32 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
+2012-11-23 15:11:14 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
