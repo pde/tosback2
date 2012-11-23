@@ -2504,3 +2504,10 @@
 2012-11-23 15:09:21 -0600 - Problem opening URL(too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 17968720, last used 1353704961.5806599 seconds ago): http://us.gateway.com/gw/en/US/content/privacy-policy
 2012-11-23 15:10:32 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-23 15:11:14 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-23 15:22:08 -0600 - Problem opening URL(connection refused: mall.soc.io:80): http://mall.soc.io/PrivacyPolicy
+2012-11-23 15:22:22 -0600 - Problem opening URL(connection refused: www.cooks.com:80): http://www.cooks.com/rec/privacy.html
+2012-11-23 15:24:37 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
+2012-11-23 15:26:33 -0600 - Problem opening URL(500 => Net::HTTPInternalServerError for http://www.albertsons.com/about/security-privacy.jsp -- unhandled response): http://www.albertsons.com/about/security-privacy.jsp
+2012-11-23 15:30:10 -0600 - Problem opening URL(too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 24246180, last used 1353706210.2262976 seconds ago): http://us.gateway.com/gw/en/US/content/privacy-policy
+2012-11-23 15:31:01 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
+2012-11-23 15:31:30 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
