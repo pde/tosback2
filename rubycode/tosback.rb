@@ -120,9 +120,11 @@ def parse_xml_files(rules_path, results_path)
 end
 
 def open_page(url)
-  mech = Mechanize.new
-  mech.user_agent_alias = 'Mac FireFox'
-  # mech.agent.http.verify_mode = 'SSLv3', OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
+  mech = Mechanize.new { |agent| 
+    agent.user_agent_alias = 'Mac FireFox'
+    agent.ssl_version = 'SSLv3'
+    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
+  }
   gonext = nil
   
   begin

@@ -1,6 +1,6 @@
 <sitename name="ixquick.com">
  <docname name="Privacy Policy">
-   <url name="https://ixquick.com/eng/privacy-policy.html" xpath="//div[@id='td_content']">
+   <url name="https://ixquick.com/eng/privacy-policy.html" xpath="//td[@id='td_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
