@@ -1,6 +1,6 @@
 <sitename name="americangreetings.com">
  <docname name="Privacy Policy">
-   <url name="http://www.americangreetings.com/warrants.pd">
+   <url name="http://www.americangreetings.com/warrants.pd" xpath="//div[@id='agi-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

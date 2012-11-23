@@ -1,6 +1,6 @@
 <sitename name="nadaguides.com">
  <docname name="Privacy Policy">
-   <url name="http://nadaguides.com/Privacy-policy">
+   <url name="http://nadaguides.com/Privacy-policy" xpath="//div[@id='mst_content_wrap']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

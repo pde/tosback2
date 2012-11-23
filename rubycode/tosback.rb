@@ -124,6 +124,7 @@ def open_page(url)
     agent.user_agent_alias = 'Mac FireFox'
     agent.ssl_version = 'SSLv3'
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
+    agent.agent.http.reuse_ssl_sessions = false
   }
   gonext = nil
   

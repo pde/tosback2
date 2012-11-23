@@ -1,6 +1,11 @@
 <sitename name="youtube.com">
  <docname name="Privacy Policy">
-   <url name="http://www.youtube.com/t/privacy_at_youtube">
+   <url name="http://www.youtube.com/t/privacy_at_youtube" xpath="//div[@id='yts-article']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Community Guidelines">
+   <url name="http://www.youtube.com/t/community_guidelines" xpath="//div[@id='yts-article']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="cyberpresse.ca">
  <docname name="Privacy Policy">
-   <url name="http://www.cyberpresse.ca/politique.php">
+   <url name="http://www.cyberpresse.ca/politique.php" xpath="//div[@class='desc-bodytext']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

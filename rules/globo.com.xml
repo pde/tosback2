@@ -1,6 +1,6 @@
 <sitename name="globo.com">
  <docname name="Privacy Policy">
-   <url name="http://www.globo.com/privacidade.html">
+   <url name="http://www.globo.com/privacidade.html" xpath="//div[@id='glb-corpo']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
