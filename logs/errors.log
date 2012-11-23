@@ -2478,3 +2478,13 @@
 2012-11-22 01:12:15 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-22 01:12:30 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.springfieldnewssun.com/services/privacy-policy/ -- unhandled response): http://www.springfieldnewssun.com/services/privacy-policy/
 2012-11-22 01:12:45 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-23 01:06:32 -0600 - Problem opening URL(connection refused: www.cooks.com:80): http://www.cooks.com/rec/privacy.html
+2012-11-23 01:07:23 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)): https://ixquick.com/eng/privacy-policy.html
+2012-11-23 01:07:42 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
+2012-11-23 01:09:39 -0600 - Problem opening URL(500 => Net::HTTPInternalServerError for http://www.albertsons.com/about/security-privacy.jsp -- unhandled response): http://www.albertsons.com/about/security-privacy.jsp
+2012-11-23 01:10:25 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://privacy-policy.truste.com/verified-policy/www.savemore.com -- unhandled response): http://privacy-policy.truste.com/verified-policy/www.savemore.com
+2012-11-23 01:10:37 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.upmystreet.com/privacy-policy.html -- unhandled response): http://www.upmystreet.com/privacy-policy.html
+2012-11-23 01:12:09 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)): https://wiki.sonic.net/wiki/Category:Policies
+2012-11-23 01:12:15 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
+2012-11-23 01:12:32 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.springfieldnewssun.com/services/privacy-policy/ -- unhandled response): http://www.springfieldnewssun.com/services/privacy-policy/
+2012-11-23 01:12:46 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy

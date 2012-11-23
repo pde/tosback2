@@ -244,7 +244,8 @@ Pencils Sale</li>
 <li>Special Offers</li>
 <li>NEW! Pickup In-Store</li>
 <li>Exclusive Online Gifts</li>
-<li>Free Shipping</li>
+<li>Free Shipping $75 &amp.
+Over</li>
 </ul>
 <p> {"dragByHandle":true,"cssSelector":"ql-thumbnail","dragByBody":false,"widgetClass":"OverlayWidget","bindings":{"bind0":{"element":".ql-thumbnail .Quicklook .trigger","type":"quicklookselected","fn":"function(){$.fnProxy(arguments,\'#headerOverlay\',OverlayWidget.show,\'OverlayWidget.show\');}"}},"effectOnHide":"slide","effectOnShowOptions":"{}","closeOnBackgroundClick":true,"effectOnHideOptions":"{}","effectOnShowSpeed":"1200","onScreenPadding":10,"allowOffScreenOverlay":false,"effectOnHideSpeed":"1200","effectOnShow":"slide","captureClicks":true}</p> Customer Service <ul>
 <li> Frequently Asked Questions
