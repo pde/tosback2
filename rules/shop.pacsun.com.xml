@@ -1,6 +1,6 @@
 <sitename name="shop.pacsun.com">
  <docname name="Privacy Policy">
-   <url name="http://shop.pacsun.com/customerservice/privacy/">
+   <url name="http://shop.pacsun.com/customerservice/privacy/" xpath="//div[@id='rightContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

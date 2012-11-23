@@ -1,6 +1,6 @@
 <sitename name="hottopic.com">
  <docname name="Privacy Policy">
-   <url name="http://community.hottopic.com/content/privacy-security">
+   <url name="http://community.hottopic.com/content/privacy-security" xpath="//div[@id='textcopy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

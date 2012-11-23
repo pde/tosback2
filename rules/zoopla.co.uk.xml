@@ -1,0 +1,7 @@
+<sitename name="zoopla.co.uk">
+ <docname name="Privacy Policy">
+   <url name="http://www.zoopla.co.uk/privacy/" xpath="//div[@id='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

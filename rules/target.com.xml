@@ -1,6 +1,6 @@
 <sitename name="target.com">
  <docname name="Privacy Policy">
-   <url name="http://sites.target.com/site/en/spot/page.jsp?title=privacy_policy">
+   <url name="http://www.target.com/spot/privacy-policy" xpath="//div[@id='policyContainer']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

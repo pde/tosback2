@@ -1,6 +1,6 @@
 <sitename name="wsj.com">
  <docname name="Privacy Policy">
-   <url name="http://online.wsj.com/public/page/privacy-policy.html?mod=WSJ_footer#info_disclosure">
+   <url name="http://online.wsj.com/public/page/privacy-policy.html" xpath="//div[@class='privacyPolicyContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

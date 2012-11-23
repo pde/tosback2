@@ -1,6 +1,6 @@
 <sitename name="gilt.com">
  <docname name="Privacy Policy">
-   <url name="http://www.gilt.com/company/privacy">
+   <url name="http://www.gilt.com/company/privacy" xpath="//div[@id='node-60']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

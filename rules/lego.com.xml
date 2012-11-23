@@ -1,6 +1,6 @@
 <sitename name="lego.com">
  <docname name="Privacy Policy">
-   <url name="http://aboutus.lego.com/en-us/corporate/privacypolicy.aspx">
+   <url name="http://aboutus.lego.com/en-us/corporate/privacypolicy.aspx" xpath="//div[@class='articleContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

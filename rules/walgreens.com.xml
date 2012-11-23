@@ -1,6 +1,6 @@
 <sitename name="walgreens.com">
  <docname name="Privacy Policy">
-   <url name="http://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security">
+   <url name="http://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security" xpath="//div[@id='main_body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

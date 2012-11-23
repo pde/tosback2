@@ -1,6 +1,6 @@
 <sitename name="kaboodle.com">
  <docname name="Privacy Policy">
-   <url name="http://www.kaboodle.com/zm/tosandprivacy">
+   <url name="http://www.kaboodle.com/zm/tosandprivacy" xpath="//section[@class='section tos_privacy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="techradar.com">
  <docname name="Privacy Policy">
-   <url name="http://www.futureplc.com/futurenet/privacy-policy/">
+   <url name="http://www.futureplc.com/futurenet/privacy-policy/" xpath="//div[@id='post-2019']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

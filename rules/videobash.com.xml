@@ -1,6 +1,6 @@
 <sitename name="videobash.com">
  <docname name="Privacy Policy">
-   <url name="http://www.videobash.com/info#policy">
+   <url name="http://www.videobash.com/info#policy" xpath="//div[contains(@class,'policy-cont')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

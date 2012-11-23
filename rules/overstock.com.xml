@@ -1,6 +1,6 @@
 <sitename name="overstock.com">
  <docname name="Privacy Policy">
-   <url name="https://help.overstock.com/app/answers/detail/a_id/65/c/11">
+   <url name="https://help.overstock.com/app/answers/detail/a_id/65" xpath="//div[@id='rn_AnswerText']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

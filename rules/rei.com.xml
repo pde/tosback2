@@ -1,6 +1,6 @@
 <sitename name="rei.com">
  <docname name="Privacy Policy">
-   <url name="http://www.rei.com/help/privacy.html">
+   <url name="http://www.rei.com/help/privacy.html" xpath="//section[@class='grid18']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

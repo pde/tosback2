@@ -1,6 +1,6 @@
 <sitename name="thingsremembered.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thingsremembered.com/custserv/custserv.jsp?pageName=Privacy">
+   <url name="http://www.thingsremembered.com/custserv/custserv.jsp?pageName=Privacy" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

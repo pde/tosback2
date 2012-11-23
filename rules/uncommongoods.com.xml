@@ -1,6 +1,6 @@
 <sitename name="uncommongoods.com">
  <docname name="Privacy Policy">
-   <url name="http://www.uncommongoods.com/static/faqsPrivacy.jsp">
+   <url name="http://www.uncommongoods.com/static/faqsPrivacy.jsp" xpath="//div[@class='faqInfo']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

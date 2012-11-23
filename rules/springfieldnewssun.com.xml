@@ -1,6 +1,6 @@
 <sitename name="springfieldnewssun.com">
  <docname name="Privacy Policy">
-   <url name="http://www.springfieldnewssun.com/services/privacy-policy/">
+   <url name="http://www.springfieldnewssun.com/online/site-information/privacy-policy/" xpath="//div[@id='cmArticleWell']/script/node()">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
