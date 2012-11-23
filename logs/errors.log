@@ -2488,3 +2488,12 @@
 2012-11-23 01:12:15 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-23 01:12:32 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.springfieldnewssun.com/services/privacy-policy/ -- unhandled response): http://www.springfieldnewssun.com/services/privacy-policy/
 2012-11-23 01:12:46 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-23 13:16:09 -0600 - Problem opening URL(connection refused: www.cooks.com:80): http://www.cooks.com/rec/privacy.html
+2012-11-23 13:17:22 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
+2012-11-23 13:19:34 -0600 - Problem opening URL(500 => Net::HTTPInternalServerError for http://www.albertsons.com/about/security-privacy.jsp -- unhandled response): http://www.albertsons.com/about/security-privacy.jsp
+2012-11-23 13:21:18 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv3 read finished A: bad decompression): https://subscription.timeinc.com/storefront/privacy/health/generic_privacy_new.html?dnp-source=E
+2012-11-23 13:21:41 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv3 read finished A: bad decompression): https://subscription.timeinc.com/storefront/privacy/people/generic_privacy_new.html?dnp-source=E
+2012-11-23 13:21:49 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/icore/j -- unhandled response): http://nadaguides.com/Privacy-policy
+2012-11-23 13:21:53 -0600 - Problem opening URL(SSL_connect returned=1 errno=0 state=SSLv3 read finished A: bad decompression): https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E
+2012-11-23 13:22:29 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
+2012-11-23 13:22:59 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
