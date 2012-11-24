@@ -10,6 +10,7 @@ $log_dir = "../logs/"
 $error_log = "errors.log"
 $run_log = "run.log"
 $modified_log = "modified.log"
+$empty_log = "empty.log"
 
 def log_stuff(message,logfile)
   err_log = File.open("#{$log_dir}#{logfile}", "a")
@@ -55,6 +56,25 @@ def format_tos(tos_data)
   
   return tos_data
 end
+
+def find_empty_crawls(path, byte_limit)
+  Dir.glob("#{path}*") do |filename| # each dir in crawl
+    next if filename == "." || filename == ".."
+    
+    if File.directory?(filename)
+      files = Dir.glob("#{filename}/*.txt")
+      if files.length < 1
+        log_stuff("#{filename} is an empty directory.",$empty_log)
+      elsif files.length >= 1
+        files.each do |file|
+          log_stuff("#{file} is below #{byte_limit} bytes.",$empty_log) if (File.size(file) < byte_limit)
+        end # files.each
+      end # files.length < 1
+    end # if File.directory?(filename)
+    # log_stuff("#{filename} is an empty directory.",$empty_log) if File.directory?(filename)
+    # log_stuff("#{filename} is below #{byte_limit} bytes.",$empty_log) if (filename.size < byte_limit)
+  end # Dir.glob(path)
+end # find_empty_crawls
 
 def parse_xml_files(rules_path, results_path)
   # files = []
@@ -172,7 +192,7 @@ end
 # code stuff starts here :)
 ##
 
-unless ARGV.length == 1
+if ARGV.length == 0
 
   log_stuff("Beginning script!",$run_log)
 
@@ -183,6 +203,10 @@ unless ARGV.length == 1
   log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
   git_modified
+
+elsif ARGV[0] == "-empty"
+  
+  find_empty_crawls(results_path,512)
 
 else
   
