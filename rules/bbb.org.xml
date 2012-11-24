@@ -1,6 +1,6 @@
 <sitename name="bbb.org">
  <docname name="Privacy Policy">
-   <url name="http://www.bbb.org/us/privacy-policy/">
+   <url name="http://www.bbb.org/us/privacy-policy/" xpath="//div[@id='centercontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

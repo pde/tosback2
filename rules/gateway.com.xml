@@ -1,6 +1,6 @@
 <sitename name="gateway.com">
  <docname name="Privacy Policy">
-   <url name="http://us.gateway.com/gw/en/US/content/privacy-policy">
+   <url name="http://us.gateway.com/gw/en/US/content/privacy-policy" xpath="//div[@class='info-chunks']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

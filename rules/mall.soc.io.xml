@@ -1,6 +1,6 @@
 <sitename name="mall.soc.io">
  <docname name="Privacy Policy">
-   <url name="http://mall.soc.io/PrivacyPolicy">
+   <url name="http://mall.soc.io/PrivacyPolicy" xpath="//div[@class='flat_page']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
