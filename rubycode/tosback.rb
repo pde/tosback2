@@ -76,7 +76,7 @@ class TOSBackDoc
     @site = hash[:site]
     @name = hash[:name]
     @url = hash[:url]
-    @xpath = hash[:xpath]
+    @xpath = (hash[:xpath] == "") ? nil : hash[:xpath]
   end #init
   
   def scrape
