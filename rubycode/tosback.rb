@@ -39,33 +39,28 @@ class TOSBackSite
   def scrape_docs() # get new data from net
     @docs.each do |eachdoc|
       eachdoc.scrape
-      eachdoc.write
     end
   end #scrape_docs
-    
-  # def crawl_to_file()
-  #   #todo
-  #   crawl_file_name = "#{$results_path}#{@sitename}/.txt"
-  #   crawl_file = File.open(crawl_file_name,"w")
-  # end #crawl_to_file
-  # 
-  # def crawl_puts()
-  #   #todo
-  # end #crawl_puts
-  # 
-
-  # 
-  # def get_crawldata(docnum) # get crawl data from results folder
-  #   
-  # end #get_crawldata
+  
+  def write_docs() # write out to $results_path
+    @docs.each do |eachdoc|
+      eachdoc.write
+    end
+  end # write_docs
+  
+  def print_docs()
+    @docs.each do |eachdoc|
+      eachdoc.print
+    end
+  end #print_docs
   
   def self.log_stuff(message,logfile)
     err_log = File.open("#{$log_dir}#{logfile}", "a")
     err_log.puts "#{Time.now} - #{message}\n"
     err_log.close
-  end # log_stuff
+  end # TOSBackSite.log_stuff
   
-  private :get_crawldata
+  # private :get_crawldata
   attr_accessor :sitename, :docs
 end # TOSBackSite
 
@@ -100,6 +95,10 @@ class TOSBackDoc
     crawl_file.puts @newdata
     crawl_file.close
   end #write
+  
+  def print
+    puts @newdata
+  end #print_newdata
   
   def download_full_page()
     mech = Mechanize.new { |agent| 
@@ -184,12 +183,10 @@ def git_modified
   modified_file.close
 end
 
-
-
 def find_empty_crawls(path, byte_limit)
   Dir.glob("#{path}*") do |filename| # each dir in crawl
     next if filename == "." || filename == ".."
-    
+
     if File.directory?(filename)
       files = Dir.glob("#{filename}/*.txt")
       if files.length < 1
@@ -200,16 +197,8 @@ def find_empty_crawls(path, byte_limit)
         end # files.each
       end # files.length < 1
     end # if File.directory?(filename)
-    # log_stuff("#{filename} is an empty directory.",$empty_log) if File.directory?(filename)
-    # log_stuff("#{filename} is below #{byte_limit} bytes.",$empty_log) if (filename.size < byte_limit)
   end # Dir.glob(path)
 end # find_empty_crawls
-
-def parse_xml_files(rules_path, results_path)
-  # files = []
-  
-  
-end
 
 ##
 # code stuff starts here :)
@@ -221,7 +210,8 @@ if ARGV.length == 0
   Dir.foreach($rules_path) do |xml_file| # loop for each xml file/rule
     next if xml_file == "." || xml_file == ".."
      tb = TOSBackSite.new(xml_file)
-     tb.scrape_docs   
+     tb.scrape_docs
+     tb.write_docs
   end
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
@@ -230,44 +220,13 @@ if ARGV.length == 0
 
 elsif ARGV[0] == "-empty"
   
-  find_empty_crawls(results_path,512)
+  find_empty_crawls($results_path,512)
 
 else
   
   #TODO refactor to make DRY
   
-  begin
-    filecontent = File.open(ARGV[0])
-    ngxml = Nokogiri::XML(filecontent)
-  rescue
-    log_stuff("Script had trouble opening this file: #{rules_path}#{filename}",$error_log)
-  ensure
-    filecontent.close
-  end
-  
-  docs = []
-  ngxml.xpath("//sitename/docname").each do |doc|
-    docs << doc.at_xpath("./@name")
-  end
-  
-  docs.each do |name| # for every docname in sitename in file    
-    doc_url = ngxml.at_xpath("//docname[@name='#{name}']/url/@name")
-    doc_xpath = ngxml.at_xpath("//docname[@name='#{name}']/url/@xpath") # Grabs xpath attribute from <url xpath="">
-    
-    ### Code moved into open_page(url)
-
-    tos_data = ""
-    
-    tos_data = open_page(doc_url)
-    next if tos_data == "skip" # go to next doc if page couldn't be opened
-    
-    tos_data = scrape_page(tos_data,doc_xpath)
-        
-    tos_data = format_tos(tos_data)
-
-    puts tos_data
-    # crawl_file.puts tos_data
-    # crawl_file.close
-  end
-  
+  tb = TOSBackSite.new(ARGV[0])
+  tb.scrape_docs
+  tb.print_docs
 end
