@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../rules/"
+$rules_path = "../testrules/"
 $results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
@@ -209,7 +209,7 @@ if ARGV.length == 0
   
   Dir.foreach($rules_path) do |xml_file| # loop for each xml file/rule
     next if xml_file == "." || xml_file == ".."
-     tb = TOSBackSite.new(xml_file)
+     tb = TOSBackSite.new("#{$rules_path}#{xml_file}")
      tb.scrape_docs
      tb.write_docs
   end
