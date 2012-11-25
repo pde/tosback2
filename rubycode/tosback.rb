@@ -4,13 +4,46 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-rules_path = "../rules/"
-results_path = "../crawl/"
+$rules_path = "../rules/"
+$results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
 $run_log = "run.log"
 $modified_log = "modified.log"
 $empty_log = "empty.log"
+
+class TOSBack
+  
+  def initialize(xml)
+    begin
+      filecontent = File.open(xml)
+      ngxml = Nokogiri::XML(filecontent)
+    rescue
+      log_stuff("Script had trouble opening this file: #{filename}",$error_log)
+      @sitename = nil
+      @docs = nil
+      raise ArgumentError, "XML file couldn't be opened"
+    ensure
+      filecontent.close
+    end
+    
+    @sitename = ngxml.xpath("//sitename[1]/@name").to_s
+    @docs = []
+     ngxml.xpath("//sitename/docname").each do |doc|
+       docs << {:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s}
+     end
+    
+  end #initialize
+  
+  def log_stuff(message,logfile)
+    err_log = File.open("#{$log_dir}#{logfile}", "a")
+    err_log.puts "#{Time.now} - #{message}\n"
+    err_log.close
+  end # log_stuff
+  
+  private :log_stuff
+  attr_accessor :sitename, :docs
+end # TOSBack
 
 def log_stuff(message,logfile)
   err_log = File.open("#{$log_dir}#{logfile}", "a")
