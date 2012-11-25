@@ -12,7 +12,9 @@ $run_log = "run.log"
 $modified_log = "modified.log"
 $empty_log = "empty.log"
 
-class TOSBack
+class TOSBackSite
+  @sitename ||= nil
+  @docs ||= nil
   
   def initialize(xml)
     begin
@@ -30,10 +32,30 @@ class TOSBack
     @sitename = ngxml.xpath("//sitename[1]/@name").to_s
     @docs = []
      ngxml.xpath("//sitename/docname").each do |doc|
-       docs << {:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s}
+       docs << TOSBackDoc.new({:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s})
      end
     
   end #initialize
+  
+  def crawl_to_file()
+    #todo
+    crawl_file_name = "#{$results_path}#{@sitename}/.txt"
+    crawl_file = File.open(crawl_file_name,"w")
+  end #crawl_to_file
+  
+  def crawl_puts()
+    #todo
+  end #crawl_puts
+  
+  def scrape_docs() # get new data from net
+    @docs.each do |eachdoc|
+      #todo
+    end
+  end #scrape_alldocs
+  
+  def get_crawldata(docnum) # get crawl data from results folder
+    
+  end #get_crawldata
   
   def log_stuff(message,logfile)
     err_log = File.open("#{$log_dir}#{logfile}", "a")
@@ -41,15 +63,25 @@ class TOSBack
     err_log.close
   end # log_stuff
   
-  private :log_stuff
+  private :log_stuff, :get_crawldata
   attr_accessor :sitename, :docs
-end # TOSBack
+end # TOSBackSite
 
-def log_stuff(message,logfile)
-  err_log = File.open("#{$log_dir}#{logfile}", "a")
-  err_log.puts "#{Time.now} - #{message}\n"
-  err_log.close
-end
+class TOSBackDoc
+  @name ||= nil
+  @url ||= nil
+  @xpath ||= nil
+  @prevdata ||= nil
+  @newdata ||= nil
+  
+  def initialize(hash)
+    @name = hash[:name]
+    @url = hash[:url]
+    @xpath = hash[:xpath]
+  end #init
+  
+  attr_accessor :name, :url, :xpath
+end #TOSBackDoc
 
 def git_modified
   # git = Grit::Repo.new("../")
