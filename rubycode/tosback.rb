@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../testrules/"
+$rules_path = "../rules/"
 $results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
