@@ -2525,3 +2525,7 @@
 2012-11-25 01:13:38 -0600 - Problem opening URL(too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 24315740, last used 1353827618.4115093 seconds ago): http://us.gateway.com/gw/en/US/content/privacy-policy
 2012-11-25 01:14:44 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-25 01:15:17 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-26 01:06:31 -0600 - Problem opening URL(connection refused: www.cooks.com:80): http://www.cooks.com/rec/privacy.html
+2012-11-26 01:07:49 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
+2012-11-26 01:12:14 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
+2012-11-26 01:12:47 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
