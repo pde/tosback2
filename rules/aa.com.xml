@@ -1,6 +1,6 @@
 <sitename name="aa.com">
  <docname name="Privacy Policy">
-   <url name="http://www.aa.com/i18n/footer/privacyPolicy.jsp">
+   <url name="http://www.aa.com/i18n/footer/privacyPolicy.jsp" xpath="//td[@height='10']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
