@@ -23,7 +23,7 @@ class TOSBackSite
     rescue
       #TODO I don't think this works, but it never happens... :)
       TOSBackSite.log_stuff("Script had trouble opening this file: #{filename}",$error_log)
-      raise ArgumentError, "XML file couldn't be opened"
+      # raise ArgumentError, "XML file couldn't be opened"
     ensure
       filecontent.close
     end
@@ -179,6 +179,7 @@ def git_modified
   modified_file.puts "These files were modified since the last commit:\n\n"
   # git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
   git.each {|line| modified_file.puts line}
+  git.close
   modified_file.close
 end
 
