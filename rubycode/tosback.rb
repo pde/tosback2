@@ -48,11 +48,11 @@ class TOSBackSite
     end
   end # write_docs
   
-  def print_docs()
+  def puts_docs()
     @docs.each do |eachdoc|
-      eachdoc.print
+      eachdoc.puts_doc
     end
-  end #print_docs
+  end #puts_docs
   
   def self.log_stuff(message,logfile)
     err_log = File.open("#{$log_dir}#{logfile}", "a")
@@ -96,9 +96,9 @@ class TOSBackDoc
     crawl_file.close
   end #write
   
-  def print
+  def puts_doc
     puts @newdata
-  end #print_newdata
+  end #puts_doc
   
   def download_full_page()
     mech = Mechanize.new { |agent| 
@@ -223,10 +223,13 @@ elsif ARGV[0] == "-empty"
   find_empty_crawls($results_path,512)
 
 else
-  
-  #TODO refactor to make DRY
-  
   tb = TOSBackSite.new(ARGV[0])
   tb.scrape_docs
-  tb.print_docs
+  
+  case ARGV[1]
+  when "-w"
+    tb.write_docs
+  else
+    tb.puts_docs
+  end
 end
