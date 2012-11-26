@@ -30,10 +30,9 @@ class TOSBackSite
     
     @sitename = ngxml.xpath("//sitename[1]/@name").to_s
     @docs = []
-     ngxml.xpath("//sitename/docname").each do |doc|
-       docs << TOSBackDoc.new({:site => @sitename,:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s})
-     end
-    
+    ngxml.xpath("//sitename/docname").each do |doc|
+     docs << TOSBackDoc.new({:site => @sitename,:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s})
+    end    
   end #initialize
 
   def scrape_docs() # get new data from net
