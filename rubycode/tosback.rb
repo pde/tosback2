@@ -102,6 +102,11 @@ class TOSBackDoc
   def download_full_page()
     mech = Mechanize.new { |agent| 
       agent.user_agent_alias = 'Mac FireFox'
+      agent.post_connect_hooks << lambda { |_,_,response,_|
+        if response.content_type.nil? || response.content_type.empty?
+          response.content_type = 'text/html'
+        end
+      }
       agent.ssl_version = 'SSLv3'
       agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
       agent.agent.http.reuse_ssl_sessions = false
