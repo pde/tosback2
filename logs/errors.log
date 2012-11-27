@@ -2529,3 +2529,9 @@
 2012-11-26 01:07:49 -0600 - Problem opening URL(connection refused: www.peoplesmart.com:80): http://www.peoplesmart.com/?_act=privacy
 2012-11-26 01:12:14 -0600 - Problem opening URL(403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response): http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp
 2012-11-26 01:12:47 -0600 - Problem opening URL(404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response): http://www.carbonunity.com/privacy-policy
+2012-11-26 17:54:11 -0600 - http://mall.soc.io/PrivacyPolicy:	connection refused: mall.soc.io:80
+2012-11-26 17:54:26 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-11-26 17:56:06 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-11-26 18:03:56 -0600 - http://us.gateway.com/gw/en/US/content/privacy-policy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 11720820, last used 1353974636.50466 seconds ago
+2012-11-26 18:05:13 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-11-26 18:06:46 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
