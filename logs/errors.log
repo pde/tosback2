@@ -2543,3 +2543,10 @@
 2012-11-27 01:13:45 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
 2012-11-27 01:13:55 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-11-27 01:14:25 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-27 18:07:10 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-11-27 18:08:46 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-11-27 18:09:24 -0600 - http://www.reddit.com/help/privacypolicy:	504 => Net::HTTPGatewayTimeOut for http://www.reddit.com/help/privacypolicy -- unhandled response
+2012-11-27 18:13:53 -0600 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/icore/j -- unhandled response
+2012-11-27 18:14:34 -0600 - http://www.godlikeproductions.com/privacy:	Connection timed out - connect(2)
+2012-11-27 18:14:47 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-11-27 18:15:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
