@@ -1,6 +1,6 @@
 <sitename name="onestopplus.com">
  <docname name="Privacy Policy">
-   <url name="http://www.onestopplus.com/Help/PrivacySecurity.aspx">
+   <url name="http://www.onestopplus.com/Help/PrivacySecurity.aspx" xpath="//div[@id='content-right']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

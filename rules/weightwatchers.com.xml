@@ -1,6 +1,6 @@
 <sitename name="weightwatchers.com">
  <docname name="Privacy Policy">
-   <url name="http://www.weightwatchers.com/legal/privacy.aspx">
+   <url name="http://www.weightwatchers.com/legal/privacy.aspx" xpath="//div[@id='holder']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

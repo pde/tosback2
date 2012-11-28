@@ -1,6 +1,6 @@
 <sitename name="byliner.com">
  <docname name="Privacy Policy">
-   <url name="http://byliner.com/privacy" xpath="//div[@id='content']">
+   <url name="http://byliner.com/about/privacy" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

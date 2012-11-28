@@ -1,6 +1,6 @@
 <sitename name="sbnation.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sbnation.com/guide/privacy">
+   <url name="http://www.sbnation.com/guide/privacy" xpath="//div[@class='legal-content-wrapper']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
