@@ -1,6 +1,6 @@
 <sitename name="gamefly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.gamefly.com/about-us/privacy-policy">
+   <url name="http://www.gamefly.com/about-us/privacy-policy" xpath="//div[@class='text-content space-top-4']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

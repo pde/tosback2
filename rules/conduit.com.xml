@@ -1,6 +1,6 @@
 <sitename name="conduit.com">
  <docname name="Privacy Policy">
-   <url name="http://www.conduit.com/privacy/WebsitePrivacy.aspx">
+   <url name="http://www.conduit.com/privacy/WebsitePrivacy.aspx" xpath="//div[@class='mainBodyMask']/div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

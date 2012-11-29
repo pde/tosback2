@@ -1,6 +1,6 @@
 <sitename name="pier1.com">
  <docname name="Privacy Policy">
-   <url name="http://www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/language/en-US/Default.aspx">
+   <url name="http://www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/language/en-US/Default.aspx" xpath="//div[@id='site-policies_wrapper']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

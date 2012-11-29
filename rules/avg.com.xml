@@ -1,6 +1,6 @@
 <sitename name="avg.com">
  <docname name="Privacy Policy">
-   <url name="http://www.avg.com/ph-en/privacy">
+   <url name="http://www.avg.com/ph-en/privacy" xpath="//div[@class='avgparsys contentpar']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="kodakgallery.com">
  <docname name="Privacy Policy">
-   <url name="http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm">
+   <url name="http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm" xpath="//div[@id='ctl00_ctl00_MainColumn_ContentPlaceHolderMainSection_cbMainContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

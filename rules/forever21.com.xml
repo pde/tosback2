@@ -1,6 +1,6 @@
 <sitename name="forever21.com">
  <docname name="Privacy Policy">
-   <url name="http://www.forever21.com/Product/Main.aspx?br=f21">
+   <url name="http://www.forever21.com/Htmls/CustomerService/en-US/privacypolicy.html" xpath="//body/table">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

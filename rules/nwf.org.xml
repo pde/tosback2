@@ -1,6 +1,6 @@
 <sitename name="nwf.org">
  <docname name="Privacy Policy">
-   <url name="http://www.nwf.org/About/Privacy-Policy.aspx" xpath="//div[@id='main-content']/node()[not(@id='content_0_maincontent_0_ctlEmailSharePrint_pnlSharing')]">
+   <url name="http://www.nwf.org/Privacy-Policy.aspx" xpath="//div[@id='main-content']/node()[not(@id='content_0_maincontent_0_ctlEmailSharePrint_pnlSharing')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

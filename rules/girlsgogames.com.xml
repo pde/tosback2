@@ -1,6 +1,6 @@
 <sitename name="girlsgogames.com">
  <docname name="Privacy Policy">
-   <url name="http://www.girlsgogames.com/privacy_policy.html">
+   <url name="http://www.girlsgogames.com/privacy_policy.html" xpath="//div[@id='staticContainer']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
