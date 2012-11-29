@@ -1,6 +1,6 @@
 <sitename name="stackexchange.com">
  <docname name="Privacy Policy">
-   <url name="http://stackexchange.com/legal/privacy-policy">
+   <url name="http://stackexchange.com/legal/privacy-policy" xpath="//table[@class='privacy-policy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

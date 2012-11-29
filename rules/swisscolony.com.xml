@@ -1,6 +1,6 @@
 <sitename name="swisscolony.com">
  <docname name="Privacy Policy">
-   <url name="http://www.swisscolony.com/custserv/custserv.jsp?pageName=scprivacypolicy">
+   <url name="https://swisscolony.custhelp.com/app/answers/detail/a_id/401" xpath="//div[@id='rn_AnswerText']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

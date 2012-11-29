@@ -1,6 +1,6 @@
 <sitename name="stubhub.com">
  <docname name="Privacy Policy">
-   <url name="http://www.stubhub.com/privacy_policy/">
+   <url name="http://www.stubhub.com/privacy_policy/" xpath="//div[@id='bottom_truste']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -6,7 +6,7 @@
     </url>
   </docname>
   <docname name="Residential Services Subscriber Agreement">
-    <url name="http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html">
+    <url name="http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html" xpath="//div[@class='job-benefits']">
       <norecurse name="arbitrary" />
     </url>
   </docname>
