@@ -28,12 +28,9 @@ class TOSBackApp
     @sites.each do |site|
       site.docs.each do |doc|
         doc.scrape(false) if doc.has_prev == true
+        # puts doc.name if doc.has_prev == true
       end #@docs
     end #@sites
-    # @retry.each do |doc|
-    #   doc.scrape(false)
-    #   puts "retrying"
-    # end
   end #retry_docs
   
   def scrape_sites 
@@ -47,10 +44,6 @@ class TOSBackApp
       tbs.write_docs
     end
   end
-  
-  # def self.add_to_retry(doc)
-  #   @retry << doc
-  # end
   
   def self.find_empty_crawls(path=$results_path, byte_limit)
     Dir.glob("#{path}*") do |filename| # each dir in crawl
@@ -81,7 +74,7 @@ class TOSBackApp
     modified_file.close
   end
 
-  attr_accessor :sites,:retry
+  attr_accessor :sites
 end
 
 class TOSBackSite
@@ -164,13 +157,15 @@ class TOSBackDoc
   
   def check_prev
     puts "check_prev - #{$results_path}#{@site}/#{@name}.txt"
-    prev = File.open("#{$results_path}#{@site}/#{@name}.txt") if File.exists?("#{$results_path}#{@site}/#{@name}.txt")
-    if File.size(prev) > 1
-      # TOSBackApp.add_to_retry(self)
-      @has_prev = true
-      puts "has_prev true"
-    end
-    prev.close
+    prev = (File.exists?("#{$results_path}#{@site}/#{@name}.txt")) ? File.open("#{$results_path}#{@site}/#{@name}.txt") : nil
+    unless prev == nil
+      if File.size(prev) > 32
+        # TOSBackApp.add_to_retry(self)
+        @has_prev = true
+        puts "has_prev true"
+      end #if
+    end #unless
+    prev.close if prev
   end #check_prev
   
   def write
