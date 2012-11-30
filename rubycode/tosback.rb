@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../rules/"
+$rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
@@ -14,7 +14,7 @@ $empty_log = "empty.log"
 
 class TOSBackApp
   @sites = nil
-  @retry = []
+  # @retry = []
   
   def initialize(path)
     @sites = []
@@ -25,10 +25,15 @@ class TOSBackApp
   end #init
   
   def retry_docs
-    @retry.each do |doc|
-      doc.scrape(false)
-      puts "retrying"
-    end
+    @sites.each do |site|
+      site.docs.each do |doc|
+        doc.scrape(false) if doc.has_prev == true
+      end #@docs
+    end #@sites
+    # @retry.each do |doc|
+    #   doc.scrape(false)
+    #   puts "retrying"
+    # end
   end #retry_docs
   
   def scrape_sites 
@@ -43,11 +48,11 @@ class TOSBackApp
     end
   end
   
-  def self.add_to_retry(doc)
-    @retry << doc
-  end
+  # def self.add_to_retry(doc)
+  #   @retry << doc
+  # end
   
-  def self.find_empty_crawls(path, byte_limit)
+  def self.find_empty_crawls(path=$results_path, byte_limit)
     Dir.glob("#{path}*") do |filename| # each dir in crawl
       next if filename == "." || filename == ".."
 
@@ -158,12 +163,14 @@ class TOSBackDoc
   end #scrape
   
   def check_prev
-    file = File.open("#{$results_path}#{@site}/#{@name}.txt") if File.exists?("#{$results_path}#{@site}/#{@name}.txt")
-    if File.size(file) > 1
-      TOSBackSite.add_to_retry(self)
-      puts "added to retry"
+    puts "check_prev - #{$results_path}#{@site}/#{@name}.txt"
+    prev = File.open("#{$results_path}#{@site}/#{@name}.txt") if File.exists?("#{$results_path}#{@site}/#{@name}.txt")
+    if File.size(prev) > 1
+      # TOSBackApp.add_to_retry(self)
+      @has_prev = true
+      puts "has_prev true"
     end
-    file.close
+    prev.close
   end #check_prev
   
   def write
@@ -253,7 +260,7 @@ class TOSBackDoc
     end
   end #strip_tags
   
-  attr_accessor :name, :url, :xpath, :newdata, :site
+  attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev
   private :download_full_page, :apply_xpath, :strip_tags, :format_newdata
 end #TOSBackDoc
 
