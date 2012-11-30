@@ -21,15 +21,27 @@ class TOSBackApp
     Dir.foreach(path) do |xml_file| # loop for each xml file/rule
       next if xml_file == "." || xml_file == ".."
        @sites << TOSBackSite.new("#{path}#{xml_file}")
-       # tb.write_docs
     end
   end #init
+  
+  def retry_docs
+    @retry.each do |doc|
+      doc.scrape(false)
+      puts "retrying"
+    end
+  end #retry_docs
   
   def scrape_sites 
     @sites.each do |tbs|
       tbs.scrape_docs
     end
   end #scrape_sites
+  
+  def write_sites
+    @sites.each do |tbs|
+      tbs.write_docs
+    end
+  end
   
   def self.add_to_retry(doc)
     @retry << doc
@@ -133,13 +145,13 @@ class TOSBackDoc
     @xpath = (hash[:xpath] == "") ? nil : hash[:xpath]
   end #init
   
-  def scrape
+  def scrape(checkprev=nil)
     download_full_page()
     if @newdata
       apply_xpath()
       strip_tags()
       format_newdata()
-    else
+    elsif checkprev != nil
       check_prev()
     end
   end #scrape
