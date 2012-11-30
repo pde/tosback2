@@ -1,6 +1,6 @@
 <sitename name="wunderground.com">
  <docname name="Privacy Policy">
-   <url name="http://www.wunderground.com/members/tos.asp#privacy">
+   <url name="http://www.wunderground.com/members/tos.asp" xpath="//div[@id='innerContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

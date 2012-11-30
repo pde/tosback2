@@ -1,6 +1,6 @@
 <sitename name="mapstone.net">
  <docname name="Privacy Policy">
-   <url name="http://www.mapstone.net/?page_id=28">
+   <url name="http://www.mapstone.net/?page_id=13" xpath="//div[@class='entry-content']/node()[not(@class='wdfb_like_button') and not(@class='snap_nopreview sharing robots-nocontent')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

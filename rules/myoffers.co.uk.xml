@@ -1,6 +1,6 @@
 <sitename name="myoffers.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://myoffers.co.uk/privacy_statement.aspx">
+   <url name="http://myoffers.co.uk/privacy_statement.aspx" xpath="//div[@class='panel-container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

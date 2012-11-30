@@ -1,6 +1,6 @@
 <sitename name="infospace.com">
  <docname name="Privacy Policy">
-   <url name="http://support.infospace.com/privacy/">
+   <url name="http://infospace.com/support/privacypolicy" xpath="//div[@id='supportPagePane']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

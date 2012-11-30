@@ -1,6 +1,6 @@
 <sitename name="workinretail.com">
  <docname name="Privacy Policy">
-   <url name="http://www.workinretail.com/wr/s/privacy-guidelines">
+   <url name="http://www.workinretail.com/wr/s/privacy-guidelines" xpath="//div[@class='cbPrivacy_inner']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
