@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../testrules/" # Directories should include trailing slash
+$rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
@@ -150,13 +150,13 @@ class TOSBackDoc
       strip_tags()
       format_newdata()
     elsif (!@newdata && (checkprev == true))
-      puts "checkprev == true"
+      # puts "checkprev == true"
       check_prev()
     end
   end #scrape
   
   def check_prev
-    puts "check_prev - #{$results_path}#{@site}/#{@name}.txt"
+    # puts "check_prev - #{$results_path}#{@site}/#{@name}.txt"
     prev = (File.exists?("#{$results_path}#{@site}/#{@name}.txt")) ? File.open("#{$results_path}#{@site}/#{@name}.txt") : nil
     unless prev == nil
       if File.size(prev) > 32
@@ -269,7 +269,7 @@ if ARGV.length == 0
   tba = TOSBackApp.new($rules_path)
   tba.scrape_sites
   tba.retry_docs
-  tba.write_docs
+  tba.write_sites
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
