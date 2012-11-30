@@ -2585,3 +2585,9 @@
 2012-11-30 15:48:43 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-11-30 15:49:53 -0600 - http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm:	404 => Net::HTTPNotFound for http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm -- unhandled response
 2012-11-30 15:50:23 -0600 - http://www.fitbit.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.fitbit.com/privacy -- unhandled response
+2012-11-30 16:51:24 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-11-30 16:52:45 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-11-30 16:53:48 -0600 - http://www.fitbit.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.fitbit.com/privacy -- unhandled response
+2012-11-30 16:57:41 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-11-30 16:58:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-30 16:59:27 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
