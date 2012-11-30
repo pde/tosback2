@@ -285,8 +285,8 @@ else
   
   case ARGV[1]
   when "-w"
-    tb.write_docs
+    tbs.write_docs
   else
-    tb.puts_docs
+    tbs.puts_docs
   end
 end
