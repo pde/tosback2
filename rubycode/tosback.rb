@@ -13,6 +13,28 @@ $modified_log = "modified.log"
 $empty_log = "empty.log"
 
 class TOSBackApp
+  @sites = nil
+  @retry = []
+  
+  def initialize(path)
+    @sites = []
+    Dir.foreach(path) do |xml_file| # loop for each xml file/rule
+      next if xml_file == "." || xml_file == ".."
+       @sites << TOSBackSite.new("#{path}#{xml_file}")
+       # tb.write_docs
+    end
+  end #init
+  
+  def scrape_sites 
+    @sites.each do |tbs|
+      tbs.scrape_docs
+    end
+  end #scrape_sites
+  
+  def self.add_to_retry(doc)
+    @retry << doc
+  end
+  
   def self.find_empty_crawls(path, byte_limit)
     Dir.glob("#{path}*") do |filename| # each dir in crawl
       next if filename == "." || filename == ".."
@@ -41,6 +63,8 @@ class TOSBackApp
     git.close
     modified_file.close
   end
+
+  attr_accessor :sites,:tryagain
 end
 
 class TOSBackSite
@@ -99,7 +123,7 @@ class TOSBackDoc
   @name ||= nil
   @url ||= nil
   @xpath ||= nil
-  @prevdata ||= nil
+  @has_prev ||= nil
   @newdata ||= nil
   
   def initialize(hash)
@@ -111,10 +135,21 @@ class TOSBackDoc
   
   def scrape
     download_full_page()
-    apply_xpath() if @newdata
-    strip_tags() if @newdata
-    format_newdata() if @newdata
+    if @newdata
+      apply_xpath()
+      strip_tags()
+      format_newdata()
+    else
+      check_prev()
+    end
   end #scrape
+  
+  def check_prev
+    file = File.open("#{$results_path}#{@site}/#{@name}.txt")
+    if File.size(file) > 512
+      TOSBackSite.add_to_retry(self)
+    end
+  end #check_prev
   
   def write
     new_path = "#{$results_path}#{@site}/"
@@ -203,23 +238,18 @@ class TOSBackDoc
     end
   end #strip_tags
   
-  attr_accessor :name, :url, :xpath, :newdata
+  attr_accessor :name, :url, :xpath, :newdata, :site
   private :download_full_page, :apply_xpath, :strip_tags, :format_newdata
 end #TOSBackDoc
 
 ##
-# code stuff starts here :)
+# Main starts here :)
 ##
 
 if ARGV.length == 0
   TOSBackSite.log_stuff("Beginning script!",$run_log)
   
-  Dir.foreach($rules_path) do |xml_file| # loop for each xml file/rule
-    next if xml_file == "." || xml_file == ".."
-     tb = TOSBackSite.new("#{$rules_path}#{xml_file}")
-     tb.scrape_docs
-     tb.write_docs
-  end
+#todo tba(rulespath)
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
