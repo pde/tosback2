@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../rules/" # Directories should include trailing slash
+$rules_path = "../testrules/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
@@ -33,7 +33,7 @@ class TOSBackApp
     end #@sites
   end #retry_docs
   
-  def scrape_sites 
+  def scrape_sites
     @sites.each do |tbs|
       tbs.scrape_docs
     end
@@ -266,7 +266,10 @@ end #TOSBackDoc
 if ARGV.length == 0
   TOSBackSite.log_stuff("Beginning script!",$run_log)
   
-#todo tba(rulespath)
+  tba = TOSBackApp.new($rules_path)
+  tba.scrape_sites
+  tba.retry_docs
+  tba.write_docs
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
@@ -277,8 +280,8 @@ elsif ARGV[0] == "-empty"
   TOSBackApp.find_empty_crawls($results_path,512)
 
 else
-  tb = TOSBackSite.new(ARGV[0])
-  tb.scrape_docs
+  tbs = TOSBackSite.new(ARGV[0])
+  tbs.scrape_docs
   
   case ARGV[1]
   when "-w"
