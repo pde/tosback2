@@ -12,6 +12,37 @@ $run_log = "run.log"
 $modified_log = "modified.log"
 $empty_log = "empty.log"
 
+class TOSBackApp
+  def self.find_empty_crawls(path, byte_limit)
+    Dir.glob("#{path}*") do |filename| # each dir in crawl
+      next if filename == "." || filename == ".."
+
+      if File.directory?(filename)
+        files = Dir.glob("#{filename}/*.txt")
+        if files.length < 1
+          TOSBackSite.log_stuff("#{filename} is an empty directory.",$empty_log)
+        elsif files.length >= 1
+          files.each do |file|
+            TOSBackSite.log_stuff("#{file} is below #{byte_limit} bytes.",$empty_log) if (File.size(file) < byte_limit)
+          end # files.each
+        end # files.length < 1
+      end # if File.directory?(filename)
+    end # Dir.glob(path)
+  end # find_empty_crawls
+  
+  def self.git_modified
+    # git = Grit::Repo.new("../")
+    git = IO.popen("git status")
+
+    modified_file = File.open("#{$log_dir}#{$modified_log}", "w")
+    modified_file.puts "These files were modified since the last commit:\n\n"
+    # git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
+    git.each {|line| modified_file.puts line}
+    git.close
+    modified_file.close
+  end
+end
+
 class TOSBackSite
   @sitename ||= nil
   @docs ||= nil
@@ -176,35 +207,6 @@ class TOSBackDoc
   private :download_full_page, :apply_xpath, :strip_tags, :format_newdata
 end #TOSBackDoc
 
-def git_modified
-  # git = Grit::Repo.new("../")
-  git = IO.popen("git status")
-
-  modified_file = File.open("#{$log_dir}#{$modified_log}", "w")
-  modified_file.puts "These files were modified since the last commit:\n\n"
-  # git.status.changed.each {|filename| modified_file.puts "#{filename[0]}\n"}
-  git.each {|line| modified_file.puts line}
-  git.close
-  modified_file.close
-end
-
-def find_empty_crawls(path, byte_limit)
-  Dir.glob("#{path}*") do |filename| # each dir in crawl
-    next if filename == "." || filename == ".."
-
-    if File.directory?(filename)
-      files = Dir.glob("#{filename}/*.txt")
-      if files.length < 1
-        TOSBackSite.log_stuff("#{filename} is an empty directory.",$empty_log)
-      elsif files.length >= 1
-        files.each do |file|
-          TOSBackSite.log_stuff("#{file} is below #{byte_limit} bytes.",$empty_log) if (File.size(file) < byte_limit)
-        end # files.each
-      end # files.length < 1
-    end # if File.directory?(filename)
-  end # Dir.glob(path)
-end # find_empty_crawls
-
 ##
 # code stuff starts here :)
 ##
@@ -221,11 +223,11 @@ if ARGV.length == 0
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
-  git_modified
+  TOSBackApp.git_modified
 
 elsif ARGV[0] == "-empty"
   
-  find_empty_crawls($results_path,512)
+  TOSBackApp.find_empty_crawls($results_path,512)
 
 else
   tb = TOSBackSite.new(ARGV[0])
