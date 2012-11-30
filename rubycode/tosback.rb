@@ -26,7 +26,7 @@ class TOSBackApp
   
   def retry_docs
     @retry.each do |doc|
-      doc.scrape(true)
+      doc.scrape(false)
       puts "retrying"
     end
   end #retry_docs
@@ -151,7 +151,7 @@ class TOSBackDoc
       apply_xpath()
       strip_tags()
       format_newdata()
-    elsif checkprev = true
+    elsif checkprev == true
       check_prev()
     end
   end #scrape
