@@ -1,6 +1,6 @@
 <sitename name="aetv.com">
  <docname name="Privacy Policy">
-   <url name="http://www.aetn.com/privacy/">
+   <url name="http://www.aenetworks.com/privacy" xpath="//div[@id='privacy-policy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
