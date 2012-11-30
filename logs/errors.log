@@ -2576,3 +2576,12 @@
 2012-11-30 01:13:58 -0600 - http://us.gateway.com/gw/en/US/content/privacy-policy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 24654760, last used 1354259638.7620072 seconds ago
 2012-11-30 01:14:39 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-11-30 01:15:08 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-30 15:41:37 -0600 - http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm:	404 => Net::HTTPNotFound for http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm -- unhandled response
+2012-11-30 15:41:41 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-11-30 15:42:55 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-11-30 15:43:03 -0600 - http://www.reddit.com/help/privacypolicy:	404 => Net::HTTPNotFound for http://www.reddit.com/help/privacypolicy -- unhandled response
+2012-11-30 15:43:38 -0600 - http://www.fitbit.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.fitbit.com/privacy -- unhandled response
+2012-11-30 15:48:14 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-11-30 15:48:43 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-30 15:49:53 -0600 - http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm:	404 => Net::HTTPNotFound for http://www.kodak.com/ek/US/en/Landing_Pages/Kodak.com_Online_Privacy_Notice.htm -- unhandled response
+2012-11-30 15:50:23 -0600 - http://www.fitbit.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.fitbit.com/privacy -- unhandled response
