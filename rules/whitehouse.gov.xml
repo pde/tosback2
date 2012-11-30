@@ -1,6 +1,6 @@
 <sitename name="www.whitehouse.gov">
   <docname name="Privacy Policy">
-    <url name="http://www.whitehouse.gov/privacy/">
+    <url name="http://www.whitehouse.gov/privacy/" xpath="//div[@id='content']">
       <norecurse name="arbitrary"/>
     </url>
   </docname>

@@ -162,7 +162,7 @@ class TOSBackDoc
       if File.size(prev) > 32
         # TOSBackApp.add_to_retry(self)
         @has_prev = true
-        puts "has_prev true"
+        # puts "has_prev true"
       end #if
     end #unless
     prev.close if prev

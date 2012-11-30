@@ -1,6 +1,6 @@
 <sitename name="aufeminin.com">
  <docname name="Privacy Policy">
-   <url name="http://www.aufeminin.com/communaute/support/support3.asp?cadre=club">
+   <url name="http://www.aufeminin.com/communaute/support/support3.asp?cadre=club" xpath="//div[@id='af_tdContenu']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
