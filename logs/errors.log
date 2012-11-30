@@ -2560,3 +2560,11 @@
 2012-11-29 01:08:53 -0600 - http://www.sportsmansguide.com/net/main/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.sportsmansguide.com/net/main/Privacy.aspx -- unhandled response
 2012-11-29 01:12:43 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-11-29 01:13:12 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-29 22:49:15 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-11-29 22:49:55 -0600 - http://support.infospace.com/privacy/:	404 => Net::HTTPNotFound for http://support.infospace.com/privacy/ -- unhandled response
+2012-11-29 22:50:56 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-11-29 22:52:30 -0600 - http://www.aetn.com/privacy/:	404 => Net::HTTPNotFound for http://www.aetn.com/privacy/ -- unhandled response
+2012-11-29 22:54:04 -0600 - http://www.aetn.com/privacy/:	404 => Net::HTTPNotFound for http://www.aetn.com/privacy/ -- unhandled response
+2012-11-29 22:56:32 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-11-29 22:57:00 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-11-29 22:57:50 -0600 - http://freeonlinegames.com/privacy/:	502 => Net::HTTPBadGateway for http://freeonlinegames.com/privacy/ -- unhandled response
