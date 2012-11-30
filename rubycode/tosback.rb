@@ -26,7 +26,7 @@ class TOSBackApp
   
   def retry_docs
     @retry.each do |doc|
-      doc.scrape(false)
+      doc.scrape(true)
       puts "retrying"
     end
   end #retry_docs
@@ -76,7 +76,7 @@ class TOSBackApp
     modified_file.close
   end
 
-  attr_accessor :sites,:tryagain
+  attr_accessor :sites,:retry
 end
 
 class TOSBackSite
@@ -145,13 +145,13 @@ class TOSBackDoc
     @xpath = (hash[:xpath] == "") ? nil : hash[:xpath]
   end #init
   
-  def scrape(checkprev=nil)
+  def scrape(checkprev=true)
     download_full_page()
     if @newdata
       apply_xpath()
       strip_tags()
       format_newdata()
-    elsif checkprev != nil
+    elsif checkprev = true
       check_prev()
     end
   end #scrape
