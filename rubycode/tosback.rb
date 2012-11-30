@@ -151,16 +151,19 @@ class TOSBackDoc
       apply_xpath()
       strip_tags()
       format_newdata()
-    elsif checkprev == true
+    elsif (!@newdata && (checkprev == true))
+      puts "checkprev == true"
       check_prev()
     end
   end #scrape
   
   def check_prev
-    file = File.open("#{$results_path}#{@site}/#{@name}.txt")
-    if File.size(file) > 512
+    file = File.open("#{$results_path}#{@site}/#{@name}.txt") if File.exists?("#{$results_path}#{@site}/#{@name}.txt")
+    if File.size(file) > 1
       TOSBackSite.add_to_retry(self)
+      puts "added to retry"
     end
+    file.close
   end #check_prev
   
   def write
