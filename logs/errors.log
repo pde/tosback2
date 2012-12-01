@@ -2597,3 +2597,12 @@
 2012-11-30 17:22:47 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-11-30 17:23:41 -0600 - http://freeonlinegames.com/privacy/:	502 => Net::HTTPBadGateway for http://freeonlinegames.com/privacy/ -- unhandled response
 2012-11-30 17:23:48 -0600 - http://freeonlinegames.com/privacy/:	502 => Net::HTTPBadGateway for http://freeonlinegames.com/privacy/ -- unhandled response
+2012-12-01 01:06:33 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-01 01:06:56 -0600 - http://www.wineverygame.com/privacy.php:	Connection timed out - connect(2)
+2012-12-01 01:07:59 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-01 01:08:42 -0600 - http://www.voanews.com/english/news/69075687.html:	404 => Net::HTTPNotFound for http://www.voanews.com/english/news/69075687.html -- unhandled response
+2012-12-01 01:11:30 -0600 - http://www.theatlantic.com/privacy-policy/:	503 => Net::HTTPServiceUnavailable for http://www.theatlantic.com/privacy-policy/ -- unhandled response
+2012-12-01 01:12:53 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-01 01:14:10 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-01 01:15:20 -0600 - http://www.wineverygame.com/privacy.php:	Connection timed out - connect(2)
+2012-12-01 01:15:21 -0600 - http://www.theatlantic.com/privacy-policy/:	503 => Net::HTTPServiceUnavailable for http://www.theatlantic.com/privacy-policy/ -- unhandled response
