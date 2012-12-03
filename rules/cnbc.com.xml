@@ -1,6 +1,6 @@
 <sitename name="cnbc.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cnbc.com/id/15837339/" xpath="//div[@class='fL w655 mL2a']">
+   <url name="http://www.cnbc.com/id/100000959/print" xpath="//div[@class='story']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
