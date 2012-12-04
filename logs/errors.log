@@ -2619,3 +2619,12 @@
 2012-12-03 01:16:33 -0600 - http://freeonlinegames.com/privacy/:	502 => Net::HTTPBadGateway for http://freeonlinegames.com/privacy/ -- unhandled response
 2012-12-03 01:16:39 -0600 - http://www.csoboard.com/privacy.html:	404 => Net::HTTPNotFound for http://csoboard.com/privacy.html -- unhandled response
 2012-12-03 01:16:39 -0600 - http://www.onestopplus.com/Help/PrivacySecurity.aspx:	503 => Net::HTTPServiceUnavailable for http://splash.redcatsusa.com/ -- unhandled response
+2012-12-04 01:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-04 01:07:49 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-04 01:07:55 -0600 - http://mashable.com/follow/privacy/:	503 => Net::HTTPServiceUnavailable for http://mashable.com/follow/privacy/ -- unhandled response
+2012-12-04 01:11:45 -0600 - http://www.docstoc.com/Pages/Static.aspx?page_id=22:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 15695280, last used 1354605105.6416855 seconds ago
+2012-12-04 01:14:09 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-04 01:14:40 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-04 01:15:07 -0600 - http://karoo.co.uk/privacy-policy.aspx:	404 => Net::HTTPNotFound for http://karoo.co.uk/privacy-policy.aspx -- unhandled response
+2012-12-04 01:15:34 -0600 - http://mashable.com/follow/privacy/:	503 => Net::HTTPServiceUnavailable for http://mashable.com/follow/privacy/ -- unhandled response
+2012-12-04 01:17:23 -0600 - http://www.docstoc.com/Pages/Static.aspx?page_id=22:	too many connection resets (due to end of file reached - EOFError) after 0 requests on 15695280, last used 1354605443.0349157 seconds ago
