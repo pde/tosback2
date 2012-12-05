@@ -1,6 +1,6 @@
 <sitename name="zappos.com">
  <docname name="Privacy Policy">
-   <url name="http://www.zappos.com/privacy-policy">
+   <url name="http://www.zappos.com/privacy-policy" xpath="//div[@style='color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 8px;']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

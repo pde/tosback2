@@ -1,6 +1,6 @@
 <sitename name="thisismyjam.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thisismyjam.com/privacy">
+   <url name="http://www.thisismyjam.com/privacy" xpath="//div[@class='six columns alpha layer-left']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

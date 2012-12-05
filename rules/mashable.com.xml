@@ -1,6 +1,6 @@
 <sitename name="mashable.com">
  <docname name="Privacy Policy">
-   <url name="http://mashable.com/follow/privacy/">
+   <url name="http://mashable.com/privacy/" xpath="//div[@class='page-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

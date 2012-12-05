@@ -1,6 +1,6 @@
 <sitename name="jetblue.com">
  <docname name="Privacy Policy">
-   <url name="http://jetblue.com/about/privacy.html">
+   <url name="http://jetblue.com/about/privacy.html" xpath="//div[@id='container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

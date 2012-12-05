@@ -1,6 +1,6 @@
 <sitename name="argos.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm">
+   <url name="http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm" xpath="//div[@id='staticContentMain']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

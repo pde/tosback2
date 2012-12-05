@@ -1,6 +1,6 @@
 <sitename name="lausd.net">
  <docname name="Privacy Policy">
-   <url name="http://notebook.lausd.net/portal/page?_pageid=33,177232&#x26;_dad=ptl&#x26;_schema=PTL_EP">
+   <url name="http://notebook.lausd.net/portal/page?_dad=ptl&amp;_pageid=33,177232&amp;_schema=PTL_EP" xpath="//td[@class='RegionHeaderColor']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
