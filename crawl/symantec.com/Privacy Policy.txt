@@ -1,9 +1,9 @@
  <strong>Your Privacy Rights</strong>
 <br>
-<em>Last Updated: October 4, 2012<br>
+<em>Last Updated: December 5, 2012<br>
 <br>
 <p>
-<strong>[Update]</strong> On October 4, 2012, we added section 3.2.6 Cookies on Enterprise Micro-sites.</p>
+<strong>[Update]</strong> On December 5, we updated our data collection and use practices (Section 3.1) and added new cookies (Sections 3.2.1, 3.2.2, 3.2.3, 3.2.5).</p>
 <p>
 <strong>[Update]</strong> On August 21, 2012, we removed the reference to a terminated partner, Vindicia, from section 12.2.1.</p>
 </em>
@@ -105,10 +105,11 @@ Information concerning technical issues may be retained to provide you with cont
 generally, the information and knowledge obtained from such support, though not linked to you personally, may be made available to technical and product specialists in order to improve our products or provide similar solutions to similar technical issues encountered by other Symantec customers.
 <br>
 <br>
-<em>Marketing communications</em>
+<em>Marketing Communications</em>
 <br>
 <br>
 In addition to the purposes described above, we may also use your data to provide you with information about products and services which may be of interest to you.
+Contact details, including phone numbers and email addresses, may be used to contact you.
 You have the right to ask us not to process your personal data for such marketing purposes.
 If you do not want us to use your data in this way, you can exercise your right to prevent such processing by checking/un-checking (as applicable) certain boxes on the web pages and/or forms on which we collect your data.
 You can also exercise this right at any time by changing your communication choices as described in section 4.2 below.
@@ -172,6 +173,18 @@ Symantec does not store your friend’s name and email address after sending the
 Note that this is not available in jurisdictions where this method of referral is prohibited, such as the European Union.
 <br>
 <br>
+<em>Information from Other Sources</em>
+<br>
+<br>
+Information we collect about you may be aggregated with information we receive from third parties.
+<br>
+<br>
+<em>Data Aggregation</em>
+<br>
+<br>
+In general, we may combine and aggregate data we receive from various sources, including but not limited to user generated profiles, cookies, email analytics, etc.
+<br>
+<br>
 </blockquote>
 <br>
 <p>You make the decision whether to proceed with any activity that requests personal information.
@@ -183,6 +196,9 @@ For more detailed information about cookies visit www.allaboutcookies.org.
 <strong>To opt out from behavioural advertising by networks adhering to the Network Advertising Initiative visit http://www.networkadvertising.org/managing/opt_out.asp.</strong>
 <em>Use of cookies by Symantec</em>
 The cookies used on this site are described according to the following cookie categories: <strong>Strictly Necessary.</strong> These cookies do not collect any information about you that could be used for marketing purposes or to track your navigation on other websites.
+<strong>Performance.</strong> These cookies do not collect any information about you that could be used for marketing purposes, to track your navigation on other websites, or to send you targeted ads.
+<i>These cookies collect information about how visitors use our website, for instance which pages they go to most often, and if they get error messages from web pages.
+These cookies don’t collect information that identifies you.</i>
 <strong>Functionality.</strong> We do not use functionality cookies to target you with advertisements on other websites.
 These cookies allow the website to detect some features of your device, for instance if you are using a mobile to navigate, and to remember choices you make (such as your user name, language or region you are in) and provide enhanced, more personal features.
 These cookies can be used to remember changes made to text size, fonts and other parts of web pages that can be customized.
@@ -266,11 +282,22 @@ You can control the use of these cookies through your browser settings, but if y
 <li>marketing (to identify campaign source)</li>
 <li>userlocale</li>
 </ul>
-<strong>Functionality Cookies (Third Party) </strong>
+<strong>Functionality Cookies (Third Party)</strong>
 <strong>Host</strong>
 <strong>Cookie</strong> Sales.liveperson.net HumanClickCHATKEY Sales.liveperson.net HumanClickKEY Sales.liveperson.net LivePersonID Targeting Cookies <strong>Purposes</strong>
 <ul>
 <li>Offer white papers and chats based on frequency of visits, pages visited, and other activity information taken over multiple sessions.</li>
+<li>Detect your region via your IP address.</li>
+<li>Drop a 'do-not-track' cookie for European users.</li>
+<li>Track web behavior across Symantec websites such as campaign interactions.
+shopping cart activity.
+clicks on certain links, including but not limited to videos, white papers, chat buttons and social media interactions.
+etc, in order to provide you a more customized web experience, and to better promote our products and services.</li>
+</ul>
+<strong>Targeting Cookies (First Party)</strong>
+<ul>
+<li>
+<i>mkto</i>_trk</li>
 </ul>
 <strong>Targeting Cookies (Third Party)</strong>
 <strong>Host</strong>
@@ -307,10 +334,21 @@ You can control the use of these cookies through your browser settings, but if y
 </ul>
 <strong>Functionality Cookies (Third Party)</strong>
 <strong>Host</strong>
-<strong>Cookie</strong> Sales.liveperson.net HumanClickCHATKEY Sales.liveperson.net HumanClickKEY Sales.liveperson.net LivePersonID Targeting Cookies <ul>
-<li>None on this site.</li>
+<strong>Cookie</strong> Sales.liveperson.net HumanClickCHATKEY Sales.liveperson.net HumanClickKEY Sales.liveperson.net LivePersonID Targeting Cookies <strong>Purposes</strong>
+<ul>
+<li>Detect your region via your IP address.</li>
+<li>Drop a 'do-not-track' cookie for European users.</li>
+<li>Track web behavior across Symantec websites such as campaign interactions.
+shopping cart activity.
+clicks on certain links, including but not limited to videos, white papers, chat buttons and social media interactions.
+etc, in order to provide you a more customized web experience, and to better promote our products and services.</li>
+</ul>
+<strong>Targeting Cookies (First Party)</strong>
+<ul>
+<li>
+<i>mkto</i>_trk</li>
 </ul> 3.2.3.
-Cookies on SMB Micro-sites, including the following <ul>
+Cookies on SMB Micro-sites including, but not limited to, the following: <ul>
 <li>
 http://www.emea.symantec.com/info/sepbe/uk </li>
 <li>
@@ -368,8 +406,19 @@ http://www.emea.symantec.com/smb_accelerator </li>
 <li>sym090_bookmark</li>
 <li>Video_ID</li>
 <li>Video_Num</li>
-</ul> Targeting Cookies <ul>
-<li>None on this site.</li>
+</ul> Targeting Cookies <strong>Purposes</strong>
+<ul>
+<li>Detect your region via your IP address.</li>
+<li>Drop a 'do-not-track' cookie for European users.</li>
+<li>Track web behavior across Symantec websites such as campaign interactions.
+shopping cart activity.
+clicks on certain links, including but not limited to videos, white papers, chat buttons and social media interactions.
+etc, in order to provide you a more customized web experience, and to better promote our products and services.</li>
+</ul>
+<strong>Targeting Cookies (First Party)</strong>
+<ul>
+<li>
+<i>mkto</i>_trk</li>
 </ul> 3.2.4 Cookies on Norton.com (EU) Strictly Necessary Cookies <strong>Purposes</strong>
 <ul>
 <li>Keeping track of your login</li>
@@ -420,7 +469,7 @@ http://www.emea.symantec.com/smb_accelerator </li>
 <li>None on this site.</li>
 </ul> Targeting Cookies <ul>
 <li>None on this site.</li>
-</ul> 3.2.5 Cookies on Buy.Norton.com (UK) Strictly Necessary Cookies <strong>Purposes</strong>
+</ul> 3.2.5 Cookies on Buy.Norton.com Strictly Necessary Cookies <strong>Purposes</strong>
 <ul>
 <li>Keeping track of your login</li>
 <li>Remembering information entered on online forms when you navigate to different pages in a single web browser session</li>
@@ -451,7 +500,7 @@ http://www.emea.symantec.com/smb_accelerator </li>
 <li>Identify which ad directed you to our websites</li>
 <li>Identify which affiliate directed you to our site</li>
 </ul>
-<strong>Performance Cookies </strong>
+<strong>Performance Cookies</strong>
 <ul>
 <li>event69</li>
 <li>s_cc</li>
@@ -491,8 +540,18 @@ http://www.emea.symantec.com/smb_accelerator </li>
 <li>Uit</li>
 <li>Uvc</li>
 </ul> Available Opt out <strong>Cookie</strong>
-<strong>Opt out</strong> Akamai 01AI http://www.networkadvertising.org/managing/opt_out.asp AppNexus http://appnexus.com/platform-policy#choices Atlas Solutions https://choice.live.com/AdvertisementChoice/Default.aspx Commission Junction Browser settings Google http://www.google.com/ads/preferences/plugin/ iCrossing Browser settings Searchlight Browser settings Specific Media http://specificmedia.com/privacy Tube Mogul http://www.networkadvertising.org/managing/opt_out.asp Targeting Cookies <ul>
-<li>None on this site.</li>
+<strong>Opt out</strong> Akamai 01AI http://www.networkadvertising.org/managing/opt_out.asp AppNexus http://appnexus.com/platform-policy#choices Atlas Solutions https://choice.live.com/AdvertisementChoice/Default.aspx Commission Junction Browser settings Google http://www.google.com/ads/preferences/plugin/ iCrossing Browser settings Searchlight Browser settings Specific Media http://specificmedia.com/privacy Tube Mogul http://www.networkadvertising.org/managing/opt_out.asp Targeting Cookies <strong>Purpose</strong>
+<ul>
+<li>Serving Norton banner ads after you have visited our website.</li>
+</ul>
+<strong>Cookie</strong>
+<strong>Host</strong> pluto fastclick.net fastclick fastclick.net Opt-out options<ul>
+<li>
+www.valueclickmedia.com/about/privacy/opt-out </li>
+<li>
+www.youronlinechoices.co.uk </li>
+<li>
+www.networkadvertising.org/choices </li>
 </ul> 3.2.6 Cookies on Enterprise Micro-sites, including but not limited to: <ul>
 <li>
 www.symantecfujitsu.com </li>
@@ -517,8 +576,7 @@ This data is also used to improve future campaign performance.</li>
 <li>s_vi</li>
 </ul> Performance Cookies (Third Party) <strong>Host</strong>
 <strong>Cookie</strong> beacon-1.newrelic.com JSESSIONID tubemogul.com _tmid Functionality Cookies Purposes <ul>
-<li>Remembers the user has filled in the required profile form to reach the protected downloads, for up to 30 days after the browser session has been closed.
-The form information is also stored in the cookie, along with the user’s assigned unique ID.</li>
+<li>Remembers the user has filled in the required profile form to reach the protected downloads, for up to 30 days after the browser session has been closed.</li>
 </ul> Functionality Cookies (Third Party) <strong>Host</strong>
 <strong>Cookie</strong> Second2 Personal_UID Targeting Cookies None on these sites.
 3.3 Web Beacons <p>Symantec may use Web Beacons - also known as single pixel or clear GIFs - on its web sites to analyze traffic patterns such as the frequency of use of particular parts of the site.
@@ -542,7 +600,7 @@ Symantec has no access or control of any third party tracking technologies.</p> 
 <br>
 <p>Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here:  <br>http://www.macromedia.com/support/documentation/en/flashplayer/help/<br>settings_manager.html#117118</p> 4.0 Managing Your Privacy 4.1 Opt-in and Opt-out <p>In jurisdictions where your consent is required at the point of collection before any sharing of your information can take place, you will be given the option to opt-in before such information is being shared, and to opt-in to the transfer of your contact information to a third party.</p>
 <br>
-<p>In other jurisdictions, we may offer you these choices at the time you give us your information, or subsequently through ‘opt-out’ mechanisms.</p> 4.2 Communication Choices <p>If you are on a Symantec web page that requires personal information to be submitted but does not offer communication choices, or if you would like to change your preferences for information that you have previously provided, please use one of the communication channels at the bottom of this statement.</p> 4.3 Other Privacy Considerations Please remember that information you submit in a discussion groups or forums, like "Ask Symantec", will be deemed public information and will not be kept as confidential.
+<p>In other jurisdictions, we may offer you these choices at the time you give us your information, or subsequently through ‘opt-out’ mechanisms.</p> 4.2 Communication Choices <p>If you are on a Symantec web page that requires personal information to be submitted but does not offer communication choices, or if you would like to change your preferences for information that you have previously provided, please use one of the communication channels at the bottom of this statement (see section 11 for details).</p> 4.3 Other Privacy Considerations Please remember that information you submit in a discussion groups or forums, like "Ask Symantec", will be deemed public information and will not be kept as confidential.
 There is a risk in such communication venues that information can be collected and used by others.
 Please be careful and responsible when you are participating in such discussion groups or forums.
 For further details, please see our Social Media Privacy Policy.
