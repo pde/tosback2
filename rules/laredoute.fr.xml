@@ -1,6 +1,6 @@
 <sitename name="laredoute.fr">
  <docname name="Privacy Policy">
-   <url name="http://www.laredoute.fr/espace-mentions_legales.aspx">
+   <url name="http://www.laredoute.fr/espace-mentions_legales.aspx" xpath="//div[@id='Rdte_mentions_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

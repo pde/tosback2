@@ -1,6 +1,6 @@
 <sitename name="coupons.com">
  <docname name="Privacy Policy">
-   <url name="http://www.couponsinc.com/Corporate/Privacy.aspx">
+   <url name="http://www.couponsinc.com/Corporate/Privacy.aspx" xpath="//div[@id='dnn_ctr394_HtmlModule_lblContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

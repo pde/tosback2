@@ -1,6 +1,6 @@
 <sitename name="spokeo.com">
  <docname name="Privacy Policy">
-   <url name="http://www.spokeo.com/blog/privacy/">
+   <url name="http://www.spokeo.com/privacy/terms" xpath="//div[@id='main_panel_content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

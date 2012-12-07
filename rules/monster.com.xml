@@ -1,6 +1,6 @@
 <sitename name="monster.com">
  <docname name="Privacy Policy">
-   <url name="http://www.monster.com.ph/privacy.html">
+   <url name="http://my.monster.com/privacy/fullstatement.aspx" xpath="//div[@id='static_container_body_main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="eastbay.com">
  <docname name="Privacy Policy">
-   <url name="http://www.eastbay.com/customerserv/help:privacyPolicy/">
+   <url name="http://www.eastbay.com/customerserv/help:privacyPolicy/" xpath="//div[@id='helpcontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="trulia.com">
  <docname name="Privacy Policy">
-   <url name="http://www.trulia.com/privacy/">
+   <url name="http://www.trulia.com/privacy/" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

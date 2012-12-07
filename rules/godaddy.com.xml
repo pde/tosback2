@@ -1,6 +1,36 @@
 <sitename name="godaddy.com">
  <docname name="Privacy Policy">
-   <url name="http://www.godaddy.com/Agreements/ShowDoc.aspx?pageid=PRIVACY&#x26;ci=20803&#x26;app_hdr=0">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY&amp;ci=20803&amp;app_hdr=0" xpath="//td[@class='bodyText']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Universal Terms Of Service">
+   <url name="https://www.godaddy.com/legal-agreements.aspx?ci=20802" xpath="//div[@id='contentstart']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Civil Subpoena Policy">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=CIVIL_SUBPOENA" xpath="//td[@class='bodyText']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Uniform Domain Name Dispute Resolution Policy">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=UNIFORM_DOMAIN" xpath="//td[@class='bodyText']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Domain Name Proxy Agreement">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=DOMAIN_NAMEPROXY" xpath="//td[@class='bodyText']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Domain Name Registration Agreement">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=REG_SA" xpath="//td[@class='bodyText']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Trademark and/or Copyright Infringement Policy">
+   <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=TRADMARK_COPY" xpath="//td[@class='bodyText']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

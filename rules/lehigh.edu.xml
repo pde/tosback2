@@ -1,6 +1,6 @@
 <sitename name="lehigh.edu">
  <docname name="Privacy Policy">
-   <url name="http://www4.lehigh.edu/about/privacy.aspx?footer">
+   <url name="http://www4.lehigh.edu/about/privacy.aspx?footer" xpath="//div[@id='zone1']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

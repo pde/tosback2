@@ -1,6 +1,6 @@
 <sitename name="epinions.com">
  <docname name="Privacy Policy">
-   <url name="http://www.epinions.com/help/show_~privacy">
+   <url name="http://www.epinions.com/help/show_~privacy" xpath="//td[@width='570']/span[@class='d-r']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="champssports.com">
  <docname name="Privacy Policy">
-   <url name="http://www.champssports.com/content/custserv/help--privacyPolicy/#Disclosure">
+   <url name="http://www.champssports.com/customerserv/help:privacyPolicy/" xpath="//div[@id='helpcontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
