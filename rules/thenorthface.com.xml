@@ -1,6 +1,6 @@
 <sitename name="thenorthface.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thenorthface.com/en_US/contact-us/legal-notices-and-privacy-policy/">
+   <url name="http://www.thenorthface.com/en_US/contact-us/legal-notices-and-privacy-policy/" xpath="//div[@id='region_content-main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
