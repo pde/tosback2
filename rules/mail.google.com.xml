@@ -1,6 +1,6 @@
 <sitename name="mail.google.com">
-  <docname name="GMail Legal Notices">
-    <url name="http://mail.google.com/mail/help/intl/en/legal_notices.html">
+  <docname name="Privacy Policy">
+    <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']">
       <norecurse name="arbitrary"/>
     </url>
   </docname>

@@ -1,6 +1,6 @@
 <sitename name="google.fr">
  <docname name="Privacy Policy">
-   <url name="http://www.google.fr/intl/fr/policies/privacy/">
+   <url name="http://www.google.fr/intl/fr/policies/privacy/" xpath="//div[@class='maia-article']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

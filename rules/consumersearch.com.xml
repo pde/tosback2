@@ -1,6 +1,6 @@
 <sitename name="consumersearch.com">
  <docname name="Privacy Policy">
-   <url name="http://www.consumersearch.com/privacy">
+   <url name="http://www.about.com/gi/pages/mprivacy.htm" xpath="//div[@id='articlebody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
