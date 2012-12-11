@@ -29,7 +29,7 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Trademark and/or Copyright Infringement Policy">
+ <docname name="Trademark and Copyright Infringement Policy">
    <url name="https://www.godaddy.com/agreements/showdoc.aspx?pageid=TRADMARK_COPY" xpath="//td[@class='bodyText']">
      <norecurse name="arbitrary"/>
    </url>
