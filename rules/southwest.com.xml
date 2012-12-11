@@ -1,6 +1,6 @@
 <sitename name="southwest.com">
  <docname name="Privacy Policy">
-   <url name="http://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html?int=GFOOTER-BOTTOM-PRIVACY-POLICY">
+   <url name="http://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html?int=GFOOTER-BOTTOM-PRIVACY-POLICY" xpath="//div[@class='swa_layout_main_inner']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

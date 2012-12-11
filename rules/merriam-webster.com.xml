@@ -1,6 +1,6 @@
 <sitename name="merriam-webster.com">
  <docname name="Privacy Policy">
-   <url name="http://www.merriam-webster.com/info/privacy.htm">
+   <url name="http://www.merriam-webster.com/info/privacy.htm" xpath="//div[@id='content']/node()[not(@class='section-links') and not(@id='ref-search-box')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

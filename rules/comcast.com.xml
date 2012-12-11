@@ -1,0 +1,22 @@
+<sitename name="comcast.com">
+  <docname name="Privacy Statement">
+    <url name="http://www.comcast.com/corporate/legal/privacyStatement.html" xpath="//div[@id='content']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Customer Privacy Policy">
+    <url name="http://www.comcast.com/Corporate/Customers/Policies/CustomerPrivacy.html" xpath="//div[@id='content']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy for Xfinity Internet">
+    <url name="http://www.comcast.com/Corporate/Customers/Policies/HighSpeedInternetAUP.html" xpath="//div[@id='content']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Residential Subscriber Agreement">
+    <url name="http://www.comcast.com/Corporate/Customers/Policies/SubscriberAgreement.html">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

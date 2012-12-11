@@ -1,6 +1,6 @@
 <sitename name="thinkgeek.com">
  <docname name="Privacy Policy">
-   <url name="http://geek.net/privacy-statement">
+   <url name="http://geek.net/privacy-statement" xpath="//div[@id='bd']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

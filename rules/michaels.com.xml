@@ -1,6 +1,6 @@
 <sitename name="michaels.com">
  <docname name="Privacy Policy">
-   <url name="http://www.michaels.com/Privacy-Policy/privacyPolicy,default,pg.html">
+   <url name="http://www.michaels.com/Privacy-Policy/privacyPolicy,default,pg.html" xpath="//div[@id='privacy-sections']/node()[not(@id='tofc-section')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

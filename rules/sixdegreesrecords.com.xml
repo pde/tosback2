@@ -1,6 +1,6 @@
 <sitename name="sixdegreesrecords.com">
  <docname name="Privacy Policy">
-   <url name="http://shop.sixdegreesrecords.com/app?service=page&#x26;page=PrivacyPolicy">
+   <url name="http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&amp;service=page" xpath="//div[@class='dc-pageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

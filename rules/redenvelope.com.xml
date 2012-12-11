@@ -1,6 +1,6 @@
 <sitename name="redenvelope.com">
  <docname name="Privacy Policy">
-   <url name="http://www.prvd.com/privacy.aspx">
+   <url name="http://www.providecommerce.com/privacy.aspx" xpath="//div[@class='field-item even']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

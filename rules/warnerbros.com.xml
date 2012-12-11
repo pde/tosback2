@@ -1,6 +1,6 @@
 <sitename name="warnerbros.com">
  <docname name="Privacy Policy">
-   <url name="http://www.warnerbros.com/privacy/policy.html">
+   <url name="http://www.warnerbros.com/privacy/policy.html" xpath="//div[@class='bodycontent']/div[3]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

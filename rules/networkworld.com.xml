@@ -1,6 +1,6 @@
 <sitename name="networkworld.com">
  <docname name="Privacy Policy">
-   <url name="http://www.networkworld.com/aboutus/tos.html">
+   <url name="http://www.networkworld.com/aboutus/tos.html" xpath="//div[@id='article_copy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
