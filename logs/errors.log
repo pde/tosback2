@@ -2668,3 +2668,22 @@
 2012-12-10 01:12:04 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-12-10 01:12:43 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-12-10 01:13:36 -0600 - http://www.onestopplus.com/Help/PrivacySecurity.aspx:	503 => Net::HTTPServiceUnavailable for http://splash.redcatsusa.com/ -- unhandled response
+2012-12-11 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-11 00:07:19 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:07:45 -0600 - http://www.blockbuster.com/corporate/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://www.blockbuster.com/corporate/privacyPolicy -- unhandled response
+2012-12-11 00:08:19 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-11 00:08:47 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:10:36 -0600 - http://www.nwf.org/Privacy-Policy.aspx:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 11158760, last used 1355206236.7821405 seconds ago
+2012-12-11 00:11:14 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:14:00 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:14:16 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2012-12-11 00:14:31 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-11 00:14:56 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:15:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-11 00:16:30 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:17:52 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:18:04 -0600 - http://www.nwf.org/Privacy-Policy.aspx:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 11158760, last used 1355206684.380612 seconds ago
+2012-12-11 00:18:25 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:18:46 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
+2012-12-11 00:18:46 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2012-12-11 00:19:07 -0600 - http://geek.net/privacy-statement:	Connection timed out - connect(2)
