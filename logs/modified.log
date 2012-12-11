@@ -5,39 +5,65 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/about.com/Privacy Policy.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
-#	modified:   ../crawl/americanidol.com/Privacy Policy.txt
-#	modified:   ../crawl/bbb.org/Privacy Policy.txt
-#	modified:   ../crawl/buy.com/Privacy Policy.txt
-#	modified:   ../crawl/champssports.com/Privacy Policy.txt
-#	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
-#	modified:   ../crawl/coupons.com/Privacy Policy.txt
-#	modified:   ../crawl/directv.com/Privacy Policy.txt
-#	modified:   ../crawl/eastbay.com/Privacy Policy.txt
-#	modified:   ../crawl/epinions.com/Privacy Policy.txt
-#	modified:   ../crawl/finishline.com/Privacy Policy.txt
-#	modified:   ../crawl/hallmark.com/Privacy Policy.txt
-#	modified:   ../crawl/huffingtonpost.com/Privacy Policy.txt
-#	modified:   ../crawl/irs.gov/Privacy Policy.txt
+#	modified:   ../crawl/android.com/Privacy Policy.txt
+#	modified:   ../crawl/att.com/Wireless Plan Terms.txt
+#	modified:   ../crawl/blogger.com/Privacy Policy.txt
+#	modified:   ../crawl/blogger.com/Terms Of Service.txt
+#	modified:   ../crawl/blogspot.com/Privacy Policy.txt
+#	modified:   ../crawl/bodybuilding.com/Privacy Policy.txt
+#	modified:   ../crawl/cdiscount.com/Privacy Policy.txt
+#	modified:   ../crawl/consumersearch.com/Privacy Policy.txt
+#	modified:   ../crawl/cox.com/Acceptable Use Policy.txt
+#	modified:   ../crawl/cox.com/Privacy Policy.txt
+#	modified:   ../crawl/freecode.com/Privacy Policy.txt
+#	modified:   ../crawl/geek.net/Privacy Policy.txt
+#	modified:   ../crawl/glassdoor.com/Privacy Policy.txt
+#	modified:   ../crawl/godlikeproductions.com/Privacy Policy.txt
+#	modified:   ../crawl/google.ca/Privacy Policy.txt
+#	modified:   ../crawl/google.co.uk/Privacy Policy.txt
+#	modified:   ../crawl/google.com.br/Privacy Policy.txt
+#	modified:   ../crawl/google.com/Privacy Policy.txt
+#	modified:   ../crawl/google.com/Terms of Service.txt
+#	modified:   ../crawl/google.de/Privacy Policy.txt
+#	modified:   ../crawl/google.fr/Privacy Policy.txt
+#	modified:   ../crawl/google.nl/Privacy Policy.txt
 #	modified:   ../crawl/laredoute.fr/Privacy Policy.txt
 #	modified:   ../crawl/lehigh.edu/Privacy Policy.txt
+#	modified:   ../crawl/mail.google.com/GMail Privacy Policy.txt
+#	modified:   ../crawl/medicinenet.com/Privacy Policy.txt
+#	modified:   ../crawl/merriam-webster.com/Privacy Policy.txt
+#	modified:   ../crawl/michaels.com/Privacy Policy.txt
 #	modified:   ../crawl/mittromney.com/Privacy Policy.txt
-#	modified:   ../crawl/monster.com/Privacy Policy.txt
-#	modified:   ../crawl/petsmart.com/Privacy Policy.txt
-#	modified:   ../crawl/qvc.com/Privacy Policy.txt
-#	modified:   ../crawl/shopstyle.com/Privacy Policy.txt
-#	modified:   ../crawl/spokeo.com/Privacy Policy.txt
+#	modified:   ../crawl/networkworld.com/Privacy Policy.txt
+#	modified:   ../crawl/plus.google.com/Privacy Policy.txt
+#	modified:   ../crawl/redenvelope.com/Privacy Policy.txt
+#	modified:   ../crawl/sixdegreesrecords.com/Privacy Policy.txt
+#	modified:   ../crawl/slashdot.org/Privacy Policy.txt
+#	modified:   ../crawl/sourceforge.net/Privacy Policy.txt
+#	modified:   ../crawl/southwest.com/Privacy Policy.txt
+#	modified:   ../crawl/spencersonline.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/trulia.com/Privacy Policy.txt
-#	modified:   ../crawl/tumblr.com/Privacy Policy.txt
-#	modified:   ../crawl/verizon.com/Privacy Policy.txt
-#	modified:   ../crawl/verizonwireless.com/Privacy Policy.txt
+#	modified:   ../crawl/squidoo.com/Privacy Policy.txt
+#	modified:   ../crawl/thinkgeek.com/Privacy Policy.txt
+#	modified:   ../crawl/tmz.com/Privacy Policy.txt
+#	modified:   ../crawl/tribalfusion.com/Privacy Policy.txt
+#	modified:   ../crawl/tripadvisor.com/Privacy Policy.txt
+#	modified:   ../crawl/verizon.com/Terms of Service.txt
+#	modified:   ../crawl/warnerbros.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
-#	modified:   ../crawl/www.godaddy.com/Criminal Subpoena Policy.txt
+#	modified:   ../crawl/wolfram.com/Privacy Policy.txt
+#	modified:   ../crawl/www.comcast.net/Acceptable Use Policy.txt
+#	modified:   ../crawl/www.comcast.net/Network Management Policy.txt
+#	modified:   ../crawl/www.google.com/Privacy Policy for Google Ads.txt
 #	modified:   ../crawl/yelp.com/Privacy Policy.txt
-#	modified:   ../crawl/zoopla.co.uk/Privacy Policy.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
 #
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../crawl/godaddy.com/Trademark and Copyright Infringement Policy.txt
 no changes added to commit (use "git add" and/or "git commit -a")
