@@ -1,0 +1,7 @@
+<sitename name="comcast.net">
+  <docname name="Web Services Privacy Policy">
+    <url name="http://xfinity.comcast.net/privacy/2012-03/" xpath="//div[@class='comes-from-legal']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
