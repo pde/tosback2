@@ -1,6 +1,6 @@
 <sitename name="asia.real.com">
  <docname name="Privacy Policy">
-   <url name="http://www.realnetworks.com/about-us/legal/privacy.aspx">
+   <url name="http://www.realnetworks.com/privacy-policy/index.aspx" xpath="//div[@id='ctl00_phLeftChannel_pageContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

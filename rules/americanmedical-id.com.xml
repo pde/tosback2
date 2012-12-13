@@ -1,6 +1,6 @@
 <sitename name="americanmedical-id.com">
  <docname name="Privacy Policy">
-   <url name="http://www.americanmedical-id.com/about_us/privacypolicy.php">
+   <url name="http://www.americanmedical-id.com/about_us/privacypolicy.php" xpath="//table[@width='900']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

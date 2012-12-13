@@ -1,6 +1,6 @@
 <sitename name="pandora.com">
  <docname name="Privacy Policy">
-   <url name="http://www.pandora.com/privacy">
+   <url name="http://www.pandora.com/privacy" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

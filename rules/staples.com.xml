@@ -1,6 +1,6 @@
 <sitename name="staples.com">
  <docname name="Privacy Policy">
-   <url name="http://www.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html#us_privacy_policy" xpath="//div[@id='cs_content']">
+   <url name="http://www.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html#us_privacy_policy" xpath="//div[@class='cs_module_section']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

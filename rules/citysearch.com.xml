@@ -1,6 +1,6 @@
 <sitename name="citysearch.com">
  <docname name="Privacy Policy">
-   <url name="http://www.citysearch.com/aboutcitysearch/users/privacy_policy">
+   <url name="http://www.citysearch.com/aboutcitysearch/users/privacy_policy" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

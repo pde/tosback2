@@ -1,6 +1,6 @@
 <sitename name="marthastewart.com">
  <docname name="Privacy Policy">
-   <url name="http://www.marthastewart.com/privacy-policy">
+   <url name="http://www.marthastewart.com/privacy-policy" xpath="//div[@id='ms-global-col2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

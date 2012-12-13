@@ -1,0 +1,7 @@
+<sitename name="amctheatres.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.amctheatres.com/privacy-policy" xpath="//div[@class='main-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
