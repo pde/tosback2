@@ -2711,3 +2711,15 @@
 2012-12-12 00:13:00 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-12-12 00:14:03 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
 2012-12-12 00:14:04 -0600 - http://www.af-medical.com/de/Privatsphaere-und-Datenschutz:	connection refused: www.af-medical.com:80
+2012-12-13 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-13 00:07:35 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-13 00:08:41 -0600 - http://www.gamefly.com/about-us/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/privacy-policy -- unhandled response
+2012-12-13 00:10:42 -0600 - http://www.priceminister.com/help/i_priv_cookies:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23459740, last used 1355379042.4167209 seconds ago
+2012-12-13 00:11:38 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2012-12-13 00:14:07 -0600 - http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053:	503 => Net::HTTPServiceUnavailable for http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053 -- unhandled response
+2012-12-13 00:15:05 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-13 00:15:33 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-13 00:16:22 -0600 - http://www.gamefly.com/about-us/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/privacy-policy -- unhandled response
+2012-12-13 00:18:22 -0600 - http://www.priceminister.com/help/i_priv_cookies:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23459740, last used 1355379502.8805776 seconds ago
+2012-12-13 00:18:23 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2012-12-13 00:18:23 -0600 - http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053:	503 => Net::HTTPServiceUnavailable for http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053 -- unhandled response
