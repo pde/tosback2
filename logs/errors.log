@@ -2723,3 +2723,15 @@
 2012-12-13 00:18:22 -0600 - http://www.priceminister.com/help/i_priv_cookies:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23459740, last used 1355379502.8805776 seconds ago
 2012-12-13 00:18:23 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
 2012-12-13 00:18:23 -0600 - http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053:	503 => Net::HTTPServiceUnavailable for http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053 -- unhandled response
+2012-12-14 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-14 00:07:42 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-14 00:08:47 -0600 - http://www.bhg.com/bhg/file.jsp?item=legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.bhg.com/bhg/file.jsp?item=legal/privacy -- unhandled response
+2012-12-14 00:09:38 -0600 - http://www.exponential.com/about-us/privacy.html:	Connection timed out - connect(2)
+2012-12-14 00:11:06 -0600 - http://nih.gov/about/privacy.htm:	Connection timed out - connect(2)
+2012-12-14 00:11:11 -0600 - http://www.adotas.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://www.adotas.com/privacy-policy/ -- unhandled response
+2012-12-14 00:12:11 -0600 - https://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/privacy-notice:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 22927580, last used 1355465531.2981548 seconds ago
+2012-12-14 00:13:42 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-14 00:14:10 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-14 00:15:14 -0600 - http://www.bhg.com/bhg/file.jsp?item=legal/privacy:	404 => Net::HTTPNotFound for http://www.bhg.com/bhg/file.jsp?item=legal/privacy -- unhandled response
+2012-12-14 00:15:35 -0600 - http://nih.gov/about/privacy.htm:	Connection timed out - connect(2)
+2012-12-14 00:15:35 -0600 - http://www.adotas.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://www.adotas.com/privacy-policy/ -- unhandled response
