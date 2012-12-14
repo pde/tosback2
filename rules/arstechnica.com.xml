@@ -1,6 +1,6 @@
 <sitename name="arstechnica.com">
  <docname name="Privacy Policy">
-   <url name="http://www.condenast.com/services/privacy/#privacypolicy">
+   <url name="http://www.condenast.com/privacy-policy" xpath="//li[@id='privacypolicy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

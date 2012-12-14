@@ -1,6 +1,6 @@
 <sitename name="kayak.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.kayak.co.uk/privacy">
+   <url name="http://www.kayak.co.uk/privacy" xpath="//div[@class='seoWidgetContent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

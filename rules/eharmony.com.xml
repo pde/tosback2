@@ -1,6 +1,6 @@
 <sitename name="eharmony.com">
  <docname name="Privacy Policy">
-   <url name="http://www.eharmony.com/privacy/statement">
+   <url name="http://www.eharmony.com/privacy/policy/" xpath="//div[@id='infoBox']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

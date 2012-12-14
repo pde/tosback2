@@ -1,6 +1,6 @@
 <sitename name="bhg.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bhg.com/bhg/file.jsp?item=legal/privacy">
+   <url name="http://www.meredith.com/privacy.html" xpath="//td[@width='100%']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

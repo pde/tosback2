@@ -1,6 +1,6 @@
 <sitename name="commentcamarche.net">
  <docname name="Privacy Policy">
-   <url name="http://www.commentcamarche.net/contents/ccmguide/cgu-conditions-generales.php3" xpath="//div[@id='article_cnt']">
+   <url name="http://www.commentcamarche.net/contents/ccmguide/cgu-conditions-generales.php3" xpath="//div[@id='article_cnt']/node()[not(@id='similiTable')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="theregister.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://www.theregister.co.uk/about/company/privacy/">
+   <url name="http://www.theregister.co.uk/about/company/privacy/" xpath="//div[@id='body']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

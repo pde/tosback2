@@ -1,6 +1,6 @@
 <sitename name="dsc.discovery.com">
  <docname name="Privacy Policy">
-   <url name="http://dsc.discovery.com/utilities/about/privacypolicy.html" xpath="//div[@id='articleText']">
+   <url name="http://dsc.discovery.com/utilities/about/privacypolicy.html" xpath="//article[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

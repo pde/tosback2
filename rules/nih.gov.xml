@@ -1,6 +1,6 @@
 <sitename name="nih.gov">
  <docname name="Privacy Policy">
-   <url name="http://nih.gov/about/privacy.htm">
+   <url name="http://nih.gov/about/privacy.htm" xpath="//div[@id='centercolumn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
