@@ -2735,3 +2735,9 @@
 2012-12-14 00:15:14 -0600 - http://www.bhg.com/bhg/file.jsp?item=legal/privacy:	404 => Net::HTTPNotFound for http://www.bhg.com/bhg/file.jsp?item=legal/privacy -- unhandled response
 2012-12-14 00:15:35 -0600 - http://nih.gov/about/privacy.htm:	Connection timed out - connect(2)
 2012-12-14 00:15:35 -0600 - http://www.adotas.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://www.adotas.com/privacy-policy/ -- unhandled response
+2012-12-15 00:06:48 -0600 - http://www.whitepages.com/privacy:	Connection timed out - connect(2)
+2012-12-15 00:06:50 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-15 00:07:59 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-15 00:12:40 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-15 00:13:08 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-15 00:15:13 -0600 - http://online.wsj.com/public/page/privacy-policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 17941340, last used 1355552113.087375 seconds ago
