@@ -1,6 +1,6 @@
 <sitename name="karoo.co.uk">
  <docname name="Privacy Policy">
-   <url name="http://karoo.co.uk/privacy-policy.aspx">
+   <url name="http://karoo.co.uk/privacy-policy.aspx" xpath="//div[@class='mainPanel']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

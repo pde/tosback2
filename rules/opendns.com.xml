@@ -1,6 +1,6 @@
 <sitename name="opendns.com">
  <docname name="Privacy Policy">
-   <url name="http://www.opendns.com/privacy/">
+   <url name="http://www.opendns.com/privacy/" xpath="//div[@class='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

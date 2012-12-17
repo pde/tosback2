@@ -1,6 +1,6 @@
 <sitename name="lampsplus.com">
  <docname name="Privacy Policy">
-   <url name="http://www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx">
+   <url name="http://www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx" xpath="//div[@class='post-content user-defined-markup']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

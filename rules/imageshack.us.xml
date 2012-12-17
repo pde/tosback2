@@ -1,6 +1,6 @@
 <sitename name="imageshack.us">
  <docname name="Privacy Policy">
-   <url name="http://imageshack.us/content.php?page=rules">
+   <url name="http://imageshack.us/p/rules/" xpath="//div[@id='container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

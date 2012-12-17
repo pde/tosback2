@@ -1,6 +1,6 @@
 <sitename name="godtube.com">
  <docname name="Privacy Policy">
-   <url name="http://www.godtube.com/privacy-policy.html">
+   <url name="http://www.godtube.com/privacy-policy.html" xpath="//div[@class='article articleBody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

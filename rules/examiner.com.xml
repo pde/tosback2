@@ -1,6 +1,6 @@
 <sitename name="examiner.com">
  <docname name="Privacy Policy">
-   <url name="http://www.examiner.com/privacy_policy">
+   <url name="http://www.examiner.com/privacy_policy" xpath="//div[@property='schema:articleBody content:encoded']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

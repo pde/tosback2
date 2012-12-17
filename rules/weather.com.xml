@@ -1,6 +1,6 @@
 <sitename name="weather.com">
  <docname name="Privacy Policy">
-   <url name="http://www.weather.com/common/home/privacy.html">
+   <url name="http://www.weather.com/common/home/privacy.html" xpath="//td[@class='globPad']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

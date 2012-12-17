@@ -1,6 +1,6 @@
 <sitename name="meebo.com">
  <docname name="Privacy Policy">
-   <url name="https://www.meebo.com/privacy/full/">
+   <url name="https://www.meebo.com/privacy/full/" xpath="//div[@class='two-column']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

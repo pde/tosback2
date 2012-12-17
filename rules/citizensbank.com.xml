@@ -1,6 +1,6 @@
 <sitename name="citizensbank.com">
  <docname name="Privacy Policy">
-   <url name="http://www.citizensbank.com/security/online_privacy.aspx">
+   <url name="http://www.citizensbank.com/security/online_privacy.aspx" xpath="//td[@class='twoCol']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

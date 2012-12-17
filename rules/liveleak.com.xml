@@ -1,6 +1,6 @@
 <sitename name="liveleak.com">
  <docname name="Privacy Policy">
-   <url name="http://www.liveleak.com/privacy">
+   <url name="http://www.liveleak.com/privacy" xpath="//div[@id='content_box']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
