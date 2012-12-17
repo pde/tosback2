@@ -2748,3 +2748,8 @@
 2012-12-16 00:12:26 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-12-16 00:12:55 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-12-16 00:13:46 -0600 - http://www22.verizon.com/about/privacy/:	503 => Net::HTTPServiceUnavailable for http://www22.verizon.com/about/privacy/ -- unhandled response
+2012-12-17 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-17 00:06:38 -0600 - https://www.godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY&ci=20803&app_hdr=0:	Connection reset by peer - SSL_connect
+2012-12-17 00:07:41 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-17 00:12:22 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-17 00:12:59 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
