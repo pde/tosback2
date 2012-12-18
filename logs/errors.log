@@ -2753,3 +2753,24 @@
 2012-12-17 00:07:41 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2012-12-17 00:12:22 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-12-17 00:12:59 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-18 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-18 00:06:37 -0600 - https://www.godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY&ci=20803&app_hdr=0:	Connection reset by peer - SSL_connect
+2012-12-18 00:07:15 -0600 - http://www.naplesnews.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.naplesnews.com/privacy/ -- unhandled response
+2012-12-18 00:07:40 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-18 00:08:15 -0600 - http://pipl.com/privacy/:	too many bad responses after 0 requests on 25545720, last used 1355810895.0994174 seconds ago
+2012-12-18 00:08:19 -0600 - http://www.redding.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.redding.com/privacy/ -- unhandled response
+2012-12-18 00:11:10 -0600 - http://www.vcstar.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.vcstar.com/privacy/ -- unhandled response
+2012-12-18 00:11:25 -0600 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/icore/j -- unhandled response
+2012-12-18 00:11:27 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2012-12-18 00:11:48 -0600 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2012-12-18 00:11:54 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-18 00:12:52 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-18 00:14:12 -0600 - http://nbcsports.msnbc.com/id/23114206:	end of file reached (Mechanize::ChunkedTerminationError)
+2012-12-18 00:14:21 -0600 - http://www.naplesnews.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.naplesnews.com/privacy/ -- unhandled response
+2012-12-18 00:14:22 -0600 - http://pipl.com/privacy/:	too many bad responses after 0 requests on 25545720, last used 1355811262.251505 seconds ago
+2012-12-18 00:14:22 -0600 - http://www.redding.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.redding.com/privacy/ -- unhandled response
+2012-12-18 00:14:22 -0600 - http://www.vcstar.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.vcstar.com/privacy/ -- unhandled response
+2012-12-18 00:14:22 -0600 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/icore/j -- unhandled response
+2012-12-18 00:14:22 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2012-12-18 00:14:23 -0600 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2012-12-18 00:14:47 -0600 - http://nbcsports.msnbc.com/id/23114206:	end of file reached (Mechanize::ChunkedTerminationError)
