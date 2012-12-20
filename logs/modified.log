@@ -5,45 +5,31 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/Bitcasa/TOS, Privacy Policy, DMCA Policy, Refunds Policy, Security, AUP.txt
-#	modified:   ../crawl/advanceautoparts.com/Privacy Policy.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
-#	modified:   ../crawl/blockbuster.com/Privacy Policy.txt
-#	modified:   ../crawl/bmwusa.com/Privacy Policy.txt
 #	modified:   ../crawl/bostonherald.com/Privacy Policy.txt
 #	modified:   ../crawl/careerbuilder.com/Privacy Policy.txt
-#	modified:   ../crawl/cbssports.com/Privacy Policy.txt
-#	modified:   ../crawl/chowhound.chow.com/Privacy Policy.txt
-#	modified:   ../crawl/cnet.com/Privacy Policy.txt
-#	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
+#	modified:   ../crawl/cars.com/Privacy Policy.txt
+#	modified:   ../crawl/comcast.com/Residential Subscriber Agreement.txt
 #	modified:   ../crawl/degreedriven.com/Privacy Policy.txt
-#	modified:   ../crawl/dictionary.com/Privacy Policy.txt
-#	modified:   ../crawl/gamefaqs.com/Privacy Policy.txt
-#	modified:   ../crawl/gamespot.com/Privacy Policy.txt
-#	modified:   ../crawl/geico.com/Privacy Policy.txt
-#	modified:   ../crawl/glassdoor.com/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Domain Name Registration Agreement.txt
-#	modified:   ../crawl/locatetv.com/Privacy Policy.txt
+#	modified:   ../crawl/freescottwalsh.info/Privacy Policy.txt
+#	modified:   ../crawl/gather.com/Privacy Policy.txt
+#	modified:   ../crawl/headhunter.com/Privacy Policy.txt
+#	modified:   ../crawl/joann.com/Privacy Policy.txt
+#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
+#	modified:   ../crawl/livejournal.com/Privacy Policy.txt
 #	modified:   ../crawl/mattressgiant.com/Privacy Policy.txt
-#	modified:   ../crawl/nadaguides.com/Privacy Policy.txt
-#	modified:   ../crawl/naplesnews.com/Privacy Policy.txt
+#	modified:   ../crawl/mcafee.com/Privacy Policy.txt
+#	modified:   ../crawl/nbcsports.msnbc.com/Privacy Policy.txt
 #	modified:   ../crawl/newsmax.com/Privacy Policy.txt
-#	modified:   ../crawl/pipl.com/Privacy Policy.txt
+#	modified:   ../crawl/nps.gov/Privacy Policy.txt
 #	modified:   ../crawl/primecb.com/Privacy Policy.txt
-#	modified:   ../crawl/pwc.com/Privacy Policy.txt
-#	modified:   ../crawl/redbox.com/Privacy Policy.txt
-#	modified:   ../crawl/redding.com/Privacy Policy.txt
-#	modified:   ../crawl/reference.com/Privacy Policy.txt
-#	modified:   ../crawl/scottrade.com/Privacy Policy.txt
+#	modified:   ../crawl/seattletimes.nwsource.com/Privacy Policy.txt
+#	modified:   ../crawl/shopping.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
 #	modified:   ../crawl/squidoo.com/Privacy Policy.txt
-#	modified:   ../crawl/starbucks.com/Privacy Policy.txt
-#	modified:   ../crawl/stubhub.com/Privacy Policy.txt
-#	modified:   ../crawl/techrepublic.com/Privacy Policy.txt
-#	modified:   ../crawl/tv.com/Privacy Policy.txt
-#	modified:   ../crawl/vcstar.com/Privacy Policy.txt
+#	modified:   ../crawl/tiffany.com/Privacy Policy.txt
+#	modified:   ../crawl/travelocity.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
-#	modified:   ../crawl/zdnet.com/Privacy Policy.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
