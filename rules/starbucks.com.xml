@@ -1,6 +1,6 @@
 <sitename name="starbucks.com">
  <docname name="Privacy Policy">
-   <url name="http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy">
+   <url name="http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy" xpath="//div[@class='region size2of3']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

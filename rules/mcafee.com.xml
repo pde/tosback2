@@ -1,6 +1,6 @@
 <sitename name="mcafee.com">
  <docname name="Privacy Policy">
-   <url name="http://www.mcafee.com/us/about/legal/privacy.aspx">
+   <url name="http://www.mcafee.com/common/privacy/english/slide.htm" xpath="//ul[@id='page']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="blockbuster.com">
  <docname name="Privacy Policy">
-   <url name="http://www.blockbuster.com/corporate/privacyPolicy">
+   <url name="http://www.blockbuster.com/corporate/privacyPolicy" xpath="//div[@class='primary clearDiv']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

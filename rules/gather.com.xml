@@ -1,6 +1,6 @@
 <sitename name="gather.com">
  <docname name="Privacy Policy">
-   <url name="http://www.gather.com/privacy.jsp">
+   <url name="http://www.gather.com/privacy.jsp" xpath="//td[@id='pageCellB']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

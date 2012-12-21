@@ -1,6 +1,6 @@
 <sitename name="zedo.com">
  <docname name="Privacy Policy">
-   <url name="http://www.zedo.com/company/privacy.htm">
+   <url name="http://www.zedo.com/company/privacy.htm" xpath="//div[@class='postarea']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

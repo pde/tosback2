@@ -1,6 +1,6 @@
 <sitename name="bostonherald.com">
  <docname name="Privacy Policy">
-   <url name="http://www.heraldmedia.com/privacy.html">
+   <url name="http://www.heraldmedia.com/privacy.html" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

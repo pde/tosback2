@@ -1,6 +1,6 @@
 <sitename name="seattletimes.nwsource.com">
  <docname name="Privacy Policy">
-   <url name="http://www.seattletimescompany.com/notices/notice2.html?from=stnv4">
+   <url name="http://www.seattletimescompany.com/notices/notice2.html" xpath="//div[@id='dashboard']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -15,7 +15,7 @@
     </url>
   </docname>
   <docname name="Residential Subscriber Agreement">
-    <url name="http://www.comcast.com/Corporate/Customers/Policies/SubscriberAgreement.html">
+    <url name="http://www.comcast.com/Corporate/Customers/Policies/SubscriberAgreement.html" xpath="//div[@id='DFCMSave1']">
       <norecurse name="arbitrary"/>
     </url>
   </docname>

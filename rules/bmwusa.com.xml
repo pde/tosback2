@@ -1,6 +1,6 @@
 <sitename name="bmwusa.com">
  <docname name="Privacy Policy">
-   <url name="http://www.bmwusa.com/Standard/Content/PrivacyPolicy/">
+   <url name="http://www.bmwusa.com/Standard/Content/PrivacyPolicy/" xpath="//div[@id='T61BodyTextContainer2']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

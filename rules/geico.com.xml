@@ -1,6 +1,6 @@
 <sitename name="geico.com">
  <docname name="Privacy Policy">
-   <url name="http://www.geico.com/applications/app_privacy.htm">
+   <url name="http://www.geico.com/applications/app_privacy.htm" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

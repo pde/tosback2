@@ -1,6 +1,6 @@
 <sitename name="putlocker.com">
  <docname name="Privacy Policy">
-   <url name="http://www.putlocker.com/page.php?privacy">
+   <url name="http://www.putlocker.com/page.php?privacy" xpath="//div[@class='text_pages']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

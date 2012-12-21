@@ -1,0 +1,7 @@
+<sitename name="mattressfirm.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.mattressfirm.com/Privacy%20Policy-M27.aspx" xpath="//div[@id='home_middle']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

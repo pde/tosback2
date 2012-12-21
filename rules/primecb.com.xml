@@ -1,6 +1,6 @@
 <sitename name="primecb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx?lr=cbprime">
+   <url name="http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx?lr=cbprime" xpath="//div[@class='cbPrivacy_inner']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="curves.com">
  <docname name="Privacy Policy">
-   <url name="http://www.curves.com/privacy-policy.php" xpath="//div[@id='content_basic']">
+   <url name="http://www.curves.com/privacy-policy/" xpath="//div[@id='content_padding']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="locatetv.com">
  <docname name="Privacy Policy">
-   <url name="http://www.locatetv.com/privacy">
+   <url name="http://www.locatetv.com/privacy" xpath="//div[@id='mainCol']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

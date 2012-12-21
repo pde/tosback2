@@ -1,6 +1,6 @@
 <sitename name="jobsonthemenu.com">
  <docname name="Privacy Policy">
-   <url name="http://www.jobsonthemenu.com/en-us/TalentNetwork/Pages/PrivacyPolicy.aspx?IPath=TNCNTPG">
+   <url name="http://www.jobsonthemenu.com/en-us/TalentNetwork/Pages/PrivacyPolicy.aspx?IPath=TNCNTPG" xpath="//div[@id='content-container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

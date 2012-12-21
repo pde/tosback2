@@ -1,6 +1,6 @@
 <sitename name="usa.gov">
  <docname name="Privacy Policy">
-   <url name="http://www.usa.gov/About/Privacy-Security.shtml">
+   <url name="http://www.usa.gov/About/Privacy-Security.shtml" xpath="//div[@id='main_content']/node()[not(@class='feeds clearfix')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
