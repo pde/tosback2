@@ -1,7 +1,10 @@
  Skip to main content area <p>
 <em>An Official Web Site of the United States Government</em>
 </p>
-<p>Change Text Size</p> Search form Search <ul>
+<p>Change Text Size</p>
+<ul>
+<li>Login</li>
+</ul> Search form Search <ul>
 <li>Home</li>
 <li>
 About<ul>
@@ -18,7 +21,6 @@ Data<ul>
 </ul>
 </li>
 <li>Apps</li>
-<li>Communities</li>
 <li>
 Metrics<ul>
 <li>
@@ -49,6 +51,24 @@ Open Government<ul>
 </ul>
 </li>
 <li>Blogs</li>
+<li>
+Communities<ul>
+<li>Business</li>
+<li>Cities</li>
+<li>Counties</li>
+<li>Developer</li>
+<li>Education</li>
+<li>Energy</li>
+<li>Ethics</li>
+<li>Law</li>
+<li>Manufacturing</li>
+<li>Ocean</li>
+<li>Restore the Gulf</li>
+<li>Safety</li>
+<li>States</li>
+<li>Supply Chain</li>
+</ul>
+</li>
 </ul> Data Policy Statements Public Information
 <p>All datasets accessed through Data.gov are confined to public information and <strong>must not</strong> contain National Security information as defined by statute and/or Executive Order, or other information/data that is protected by other statute, practice, or legal precedent.
 The supplying Department/Agency is required to maintain currency with public disclosure requirements.</p>
