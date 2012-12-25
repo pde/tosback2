@@ -2832,3 +2832,9 @@
 2012-12-24 00:07:43 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2012-12-24 00:12:05 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-12-24 00:12:32 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-25 00:06:39 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-25 00:07:46 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-25 00:11:52 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 21496400, last used 1356415912.5183327 seconds ago
+2012-12-25 00:12:33 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-25 00:13:00 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-25 00:14:32 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 21496400, last used 1356416072.542778 seconds ago
