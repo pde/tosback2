@@ -1,6 +1,6 @@
 <sitename name="wayfair.com">
  <docname name="Privacy Policy">
-   <url name="http://www.wayfair.com/customerservice/general_info.php#privacy" xpath="//div[@class='answers']">
+   <url name="http://www.wayfair.com/customerservice/general_info.php#privacy" xpath="//div[@class='yui-g answers']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

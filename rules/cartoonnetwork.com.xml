@@ -1,6 +1,6 @@
 <sitename name="cartoonnetwork.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cartoonnetwork.com/legal/privacy.html">
+   <url name="http://www.cartoonnetwork.com/legal/privacy.html" xpath="//div[@id='textBox']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,0 +1,12 @@
+<sitename name="data.gov">
+  <docname name="Privacy Policy">
+    <url name="http://www.data.gov/privacypolicy" xpath="//div[@id='node-31']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Data Policy">
+    <url name="http://www.data.gov/datapolicy" xpath="//div[@id='node-29']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
