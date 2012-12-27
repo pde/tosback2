@@ -2846,3 +2846,10 @@
 2012-12-26 00:12:42 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-12-26 00:13:51 -0600 - http://mall.soc.io/PrivacyPolicy:	Connection timed out - connect(2)
 2012-12-26 00:13:51 -0600 - http://www.carsdirect.com/the-company/privacy:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 23892740, last used 1356502431.7606084 seconds ago
+2012-12-27 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-27 00:09:06 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 26525440, last used 1356588546.0591993 seconds ago
+2012-12-27 00:10:24 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-27 00:14:57 -0600 - http://www.warnerbros.com/privacy/policy.html:	404 => Net::HTTPNotFound for http://www.warnerbros.com/privacy/policy.html -- unhandled response
+2012-12-27 00:16:44 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-27 00:17:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-27 00:21:13 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 26525440, last used 1356589273.1578252 seconds ago
