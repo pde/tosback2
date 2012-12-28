@@ -2853,3 +2853,14 @@
 2012-12-27 00:16:44 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2012-12-27 00:17:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2012-12-27 00:21:13 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 26525440, last used 1356589273.1578252 seconds ago
+2012-12-28 00:06:08 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2012-12-28 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-28 00:09:23 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 25597760, last used 1356674963.0211015 seconds ago
+2012-12-28 00:10:05 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-28 00:11:56 -0600 - http://depositfiles.com/confid.html:	Connection timed out - connect(2)
+2012-12-28 00:15:34 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 25597760, last used 1356675334.1011546 seconds ago
+2012-12-28 00:17:02 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-28 00:17:27 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-28 00:18:31 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2012-12-28 00:20:32 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 25597760, last used 1356675632.2426038 seconds ago
+2012-12-28 00:20:53 -0600 - http://depositfiles.com/confid.html:	Connection timed out - connect(2)
