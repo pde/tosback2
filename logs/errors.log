@@ -2864,3 +2864,9 @@
 2012-12-28 00:18:31 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
 2012-12-28 00:20:32 -0600 - http://www.warnerbros.com/privacy/policy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 25597760, last used 1356675632.2426038 seconds ago
 2012-12-28 00:20:53 -0600 - http://depositfiles.com/confid.html:	Connection timed out - connect(2)
+2012-12-29 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2012-12-29 00:07:44 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2012-12-29 00:12:33 -0600 - http://ca.gov/Privacy.html:	getaddrinfo: Name or service not known
+2012-12-29 00:13:10 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2012-12-29 00:13:38 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2012-12-29 00:15:09 -0600 - http://ca.gov/Privacy.html:	getaddrinfo: Name or service not known
