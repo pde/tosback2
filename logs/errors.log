@@ -2886,3 +2886,10 @@
 2013-01-01 00:08:09 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2013-01-01 00:13:53 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-01 00:14:25 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-02 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-02 00:07:59 -0600 - https://www.wellsfargo.com/privacy_security/privacy/online:	Connection timed out - connect(2)
+2013-01-02 00:09:03 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-02 00:13:53 -0600 - http://www.livejournal.com/legal/privacy.bml:	Connection timed out - connect(2)
+2013-01-02 00:14:29 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-02 00:14:58 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-02 00:16:55 -0600 - https://www.wellsfargo.com/privacy_security/privacy/online:	Connection timed out - connect(2)
