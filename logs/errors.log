@@ -2897,3 +2897,11 @@
 2013-01-03 00:09:09 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2013-01-03 00:14:15 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-03 00:14:41 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-04 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-04 00:07:43 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-04 00:12:36 -0600 - https://www.capitalone.com/protection/privacy/privacy_practices_english.php?linkid=WWW_Z_Z_Z_PROPR_C1_04_T_PROPRAE:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 15223800, last used 1357279956.6605787 seconds ago
+2013-01-04 00:13:01 -0600 - http://www.hsbc.com/1/2/terms-and-conditions:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 19070420, last used 1357279981.5800498 seconds ago
+2013-01-04 00:14:26 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-04 00:14:56 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-04 00:17:47 -0600 - https://www.capitalone.com/protection/privacy/privacy_practices_english.php?linkid=WWW_Z_Z_Z_PROPR_C1_04_T_PROPRAE:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 15223800, last used 1357280267.7013566 seconds ago
+2013-01-04 00:19:48 -0600 - http://www.hsbc.com/1/2/terms-and-conditions:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 19070420, last used 1357280388.1363256 seconds ago

@@ -27,7 +27,6 @@ Allies</li>
 <li>
 news<ul>
 <li>Press Releases</li>
-<li>Fact Sheet</li>
 <li>Company Images</li>
 <li>Company Blog</li>
 <li>Engineering Blog</li>
@@ -45,6 +44,7 @@ careers<ul>
 </li>
 <li>
 about<ul>
+<li>About Zynga</li>
 <li>Leadership Team</li>
 <li>Board of Directors</li>
 <li>Investors</li>
@@ -102,7 +102,6 @@ Allies</li>
 <li>
 news<ul>
 <li>Press Releases</li>
-<li>Fact Sheet</li>
 <li>Company Images</li>
 <li>Company Blog</li>
 <li>Engineering Blog</li>
@@ -120,6 +119,7 @@ careers<ul>
 </li>
 <li>
 about<ul>
+<li>About Zynga</li>
 <li>Leadership Team</li>
 <li>Board of Directors</li>
 <li>Investors</li>
@@ -554,9 +554,8 @@ Allies</li>
 <li>Other Platforms</li>
 </ul> News <ul>
 <li>Press Releases</li>
-<li>Company Blog</li>
 <li>Company Images</li>
-<li>Fact Sheet</li>
+<li>Company Blog</li>
 <li>Engineering Blog</li>
 </ul> Careers <ul>
 <li>About Careers</li>
@@ -568,14 +567,16 @@ Allies</li>
 </ul> About <ul>
 <li>About Zynga</li>
 <li>Leadership Team</li>
+<li>Board of Directors</li>
 <li>Investors</li>
-<li>Advertise</li>
 </ul> More <ul>
 <li>Forums</li>
 <li>Legal</li>
 <li>Privacy</li>
 <li>Security</li>
 <li>Support</li>
+<li>Zynga.org</li>
 <li>Zynga Shop</li>
+<li>Advertise</li>
 </ul> Copyright 2013 Zynga Inc.
 All rights reserved.<br> Use of this Web site constitutes acceptance of Zynga's Terms of Service and Privacy Policy 
