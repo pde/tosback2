@@ -2922,3 +2922,7 @@
 2013-01-07 00:12:59 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-01-07 00:14:57 -0600 - http://www.llbean.com/customerService/privacy/index.html:	404 => Net::HTTPNotFound for http://www.llbean.com/customerService/privacy/index.html -- unhandled response
 2013-01-07 00:15:19 -0600 - http://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy:	Connection timed out - connect(2)
+2013-01-08 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-08 00:07:43 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-08 00:12:33 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-08 00:13:06 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
