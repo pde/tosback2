@@ -2930,3 +2930,14 @@
 2013-01-09 00:07:48 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2013-01-09 00:12:36 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-09 00:13:05 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-10 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-10 00:08:18 -0600 - http://farmfutures.com/customPage.aspx?p=227:	Connection timed out - connect(2)
+2013-01-10 00:08:23 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-10 00:11:00 -0600 - http://www.brookstone.com/static/customerService.jsp?panelId=400003:	403 => Net::HTTPForbidden for http://www.brookstone.com/maint/maintenance.html -- unhandled response
+2013-01-10 00:12:49 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-10 00:13:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-10 00:13:34 -0600 - http://ww2.justanswer.com/privacy-security:	403 => Net::HTTPForbidden for http://ww2.justanswer.com/privacy-security -- unhandled response
+2013-01-10 00:14:18 -0600 - http://www.city-data.com/terms.html#priv:	Connection timed out - connect(2)
+2013-01-10 00:14:26 -0600 - http://www.brookstone.com/static/customerService.jsp?panelId=400003:	403 => Net::HTTPForbidden for http://www.brookstone.com/maint/maintenance.html -- unhandled response
+2013-01-10 00:14:26 -0600 - http://ww2.justanswer.com/privacy-security:	403 => Net::HTTPForbidden for http://ww2.justanswer.com/privacy-security -- unhandled response
+2013-01-10 00:14:47 -0600 - http://www.city-data.com/terms.html#priv:	Connection timed out - connect(2)
