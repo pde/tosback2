@@ -1,4 +1,5 @@
- Skip to contentZillow Real Estate
+ Skip to contentZillow Real Estate &amp.
+Homes for Sale
 <ul>
 <li>
 Homes
@@ -97,14 +98,6 @@ Local Info
 </dl>
 </li>
 <li>
-Blogs<ul>
-<li>Zillow Blog</li>
-<li>Zillow Pros Blog</li>
-<li>Zillow Research</li>
-<li>Zillow Engineering</li>
-</ul>
-</li>
-<li>
 More <i>▼</i>
 <ul>
 <li>What Zillow Offers</li>
@@ -115,6 +108,15 @@ Data</li>
 <li>Zillow Visuals</li>
 <li>Help</li>
 </ul>
+<dl>
+<dt>
+<strong>Blogs</strong>
+</dt>
+<dd>Zillow Blog</dd>
+<dd>Zillow Pros Blog</dd>
+<dd>Zillow Research</dd>
+<dd>Zillow Engineering</dd>
+</dl>
 </li>
 </ul>
 <ul>
@@ -127,8 +129,7 @@ For Pros <i>▼</i>
 </li>
 <li>Mobile</li>
 <li>Sign In</li>
-</ul> Find home values and listings
-Location:Search <ul>
+</ul> Find home values and listings Location: Search <ul>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
 <li>Good Neighbor Policy</li>
