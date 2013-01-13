@@ -2952,3 +2952,10 @@
 2013-01-12 00:07:35 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
 2013-01-12 00:12:18 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-12 00:12:44 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-13 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-13 00:08:15 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-13 00:09:56 -0600 - http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1:	503 => Net::HTTPServiceUnavailable for http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1 -- unhandled response
+2013-01-13 00:13:54 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-13 00:14:23 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-13 00:18:29 -0600 - http://rachaelray.com/privacy.php:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 19435380, last used 1358057909.2001438 seconds ago
+2013-01-13 00:18:30 -0600 - http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1:	503 => Net::HTTPServiceUnavailable for http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1 -- unhandled response
