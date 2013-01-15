@@ -2967,3 +2967,9 @@
 2013-01-14 00:13:54 -0600 - https://www.hyundaiusa.com/privacy-policy.aspx/:	404 => Net::HTTPNotFound for https://www.hyundaiusa.com/privacy-policy.aspx/ -- unhandled response
 2013-01-14 00:14:27 -0600 - http://www.o2.co.uk/termsandconditions/o2privacypolicy:	503 => Net::HTTPServiceUnavailable for http://www.o2.co.uk/termsandconditions/o2privacypolicy -- unhandled response
 2013-01-14 00:14:27 -0600 - https://www.hyundaiusa.com/privacy-policy.aspx/:	404 => Net::HTTPNotFound for https://www.hyundaiusa.com/privacy-policy.aspx/ -- unhandled response
+2013-01-15 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-15 00:07:43 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-15 00:09:31 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2013-01-15 00:12:31 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-15 00:13:00 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-15 00:13:57 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
