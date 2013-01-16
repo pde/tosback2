@@ -2973,3 +2973,14 @@
 2013-01-15 00:12:31 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-15 00:13:00 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-01-15 00:13:57 -0600 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2013-01-16 00:06:27 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-16 00:07:16 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-01-16 00:07:35 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-16 00:10:03 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	500 => Net::HTTPInternalServerError for http://www.champssports.com/ns/error/500.html -- unhandled response
+2013-01-16 00:11:54 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-01-16 00:12:16 -0600 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2013-01-16 00:12:28 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-16 00:12:55 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-16 00:13:51 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-01-16 00:13:51 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-01-16 00:13:53 -0600 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
