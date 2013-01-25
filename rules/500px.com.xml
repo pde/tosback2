@@ -1,11 +1,11 @@
 <sitename name="500px.com">
  <docname name="Terms of Service">
-   <url name="http://500px.com/terms" xpath="//div[@id='terms']">
+   <url name="http://500px.com/terms" xpath="//div[@id='terms']" lang="EN">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.500px.com/privacy" xpath="//div[@id='terms']">
+   <url name="http://www.500px.com/privacy" xpath="//div[@id='terms']" lang="EN">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
