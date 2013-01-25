@@ -3037,3 +3037,10 @@
 2013-01-24 00:14:55 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
 2013-01-24 00:14:55 -0600 - https://www.dropbox.com/privacy:	500 => Net::HTTPInternalServerError for https://www.dropbox.com/privacy -- unhandled response
 2013-01-24 00:14:56 -0600 - http://www.mattressfirm.com/Privacy%20Policy-M27.aspx:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18360780, last used 1359008096.1098764 seconds ago
+2013-01-25 00:06:07 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-01-25 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-25 00:08:27 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-25 00:11:01 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-25 00:13:46 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-25 00:15:30 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-25 00:16:17 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
