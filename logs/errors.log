@@ -3044,3 +3044,11 @@
 2013-01-25 00:13:46 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-25 00:15:30 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-01-25 00:16:17 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-01-26 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-26 00:08:34 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-26 00:11:52 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-26 00:14:38 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-26 00:14:56 -0600 - http://www.springfieldnewssun.com/online/site-information/privacy-policy/:	500 => Net::HTTPInternalServerError for http://www.springfieldnewssun.com/online/site-information/privacy-policy/ -- unhandled response
+2013-01-26 00:15:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-26 00:15:37 -0600 - http://www.spiceworks.com/privacy/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18655580, last used 1359180937.0064247 seconds ago
+2013-01-26 00:16:41 -0600 - http://www.spiceworks.com/privacy/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18655580, last used 1359181001.3929513 seconds ago
