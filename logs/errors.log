@@ -3052,3 +3052,8 @@
 2013-01-26 00:15:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-01-26 00:15:37 -0600 - http://www.spiceworks.com/privacy/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18655580, last used 1359180937.0064247 seconds ago
 2013-01-26 00:16:41 -0600 - http://www.spiceworks.com/privacy/:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18655580, last used 1359181001.3929513 seconds ago
+2013-01-27 00:06:27 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-27 00:07:41 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-27 00:10:31 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-27 00:13:39 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-27 00:14:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
