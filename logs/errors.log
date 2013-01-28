@@ -3057,3 +3057,8 @@
 2013-01-27 00:10:31 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-01-27 00:13:39 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-27 00:14:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-28 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-28 00:08:41 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-28 00:10:43 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-28 00:13:35 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-28 00:14:03 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
