@@ -3062,3 +3062,16 @@
 2013-01-28 00:10:43 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-01-28 00:13:35 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-01-28 00:14:03 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-29 00:06:31 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-29 00:07:31 -0600 - http://www.elyrics.net/privacy.php:	Connection timed out - connect(2)
+2013-01-29 00:07:57 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-01-29 00:08:05 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-29 00:10:07 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-29 00:10:13 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
+2013-01-29 00:12:46 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-29 00:13:15 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-29 00:13:24 -0600 - http://www.kineticglue.com/site/privacy-policy.html:	500 => Net::HTTPInternalServerError for http://www.kineticglue.com/site/privacy-policy.html -- unhandled response
+2013-01-29 00:13:28 -0600 - http://www.y8.com/privacy:	500 => Net::HTTPInternalServerError for http://www.y8.com/privacy -- unhandled response
+2013-01-29 00:14:05 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-01-29 00:14:05 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
+2013-01-29 00:14:09 -0600 - http://www.y8.com/privacy:	500 => Net::HTTPInternalServerError for http://www.y8.com/privacy -- unhandled response
