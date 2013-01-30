@@ -3075,3 +3075,13 @@
 2013-01-29 00:14:05 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
 2013-01-29 00:14:05 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
 2013-01-29 00:14:09 -0600 - http://www.y8.com/privacy:	500 => Net::HTTPInternalServerError for http://www.y8.com/privacy -- unhandled response
+2013-01-30 00:06:27 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-01-30 00:07:43 -0600 - http://xhamster.com/privacy.php:	504 => Net::HTTPGatewayTimeOut for http://xhamster.com/privacy.php -- unhandled response
+2013-01-30 00:08:13 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-01-30 00:10:34 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-01-30 00:13:14 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2013-01-30 00:13:25 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-01-30 00:13:38 -0600 - http://www.webshots.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.webshots.com/privacy -- unhandled response
+2013-01-30 00:13:52 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-01-30 00:14:52 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2013-01-30 00:14:52 -0600 - http://www.webshots.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.webshots.com/privacy -- unhandled response
