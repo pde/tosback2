@@ -3093,3 +3093,16 @@
 2013-01-31 00:13:37 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-01-31 00:13:39 -0600 - http://www.harryanddavid.com/h2/view/custserv-security:	500 => Net::HTTPInternalServerError for http://www.harryanddavid.com/h/view/custserv-security -- unhandled response
 2013-01-31 00:14:48 -0600 - http://www.harryanddavid.com/h2/view/custserv-security:	500 => Net::HTTPInternalServerError for http://www.harryanddavid.com/h/view/custserv-security -- unhandled response
+2013-02-01 00:06:07 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-02-01 00:06:26 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-01 00:07:41 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-02-01 00:08:17 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-01 00:10:19 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-01 00:12:38 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-02-01 00:12:56 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2013-02-01 00:13:15 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-01 00:13:56 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-01 00:14:57 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-02-01 00:14:58 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-02-01 00:14:58 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-02-01 00:14:58 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
