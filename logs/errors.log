@@ -3125,3 +3125,13 @@
 2013-02-04 00:09:59 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-02-04 00:12:50 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-04 00:13:16 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-05 00:06:34 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-05 00:08:10 -0600 - http://www.thingsremembered.com/custserv/custserv.jsp?pageName=Privacy:	error handling content-encoding gzip: buffer error (Zlib::BufError)
+2013-02-05 00:08:28 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-05 00:10:20 -0600 - http://www.frontdoor.com/buy/privacy-policy/611:	500 => Net::HTTPInternalServerError for http://www.frontdoor.com/buy/privacy-policy/611 -- unhandled response
+2013-02-05 00:10:53 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-05 00:12:17 -0600 - http://www.bitcasa.com/legal/:	404 => Net::HTTPNotFound for http://www.bitcasa.com/404 -- unhandled response
+2013-02-05 00:13:45 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2013-02-05 00:13:57 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-05 00:14:24 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-05 00:15:26 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
