@@ -3135,3 +3135,12 @@
 2013-02-05 00:13:57 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-05 00:14:24 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-05 00:15:26 -0600 - http://www.godlikeproductions.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.godlikeproductions.com/privacy -- unhandled response
+2013-02-06 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-06 00:07:29 -0600 - http://www.sugarinc.com/privacy:	404 => Net::HTTPNotFound for http://www.popsugar.com/notfound -- unhandled response
+2013-02-06 00:07:59 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-06 00:10:29 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-06 00:11:00 -0600 - http://allrecipes.com/help/aboutus/privacy.aspx:	503 => Net::HTTPServiceUnavailable for http://allrecipes.com/help/aboutus/privacy.aspx -- unhandled response
+2013-02-06 00:13:22 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-06 00:13:49 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-06 00:14:56 -0600 - http://www.sugarinc.com/privacy:	404 => Net::HTTPNotFound for http://www.popsugar.com/notfound -- unhandled response
+2013-02-06 00:14:56 -0600 - http://allrecipes.com/help/aboutus/privacy.aspx:	503 => Net::HTTPServiceUnavailable for http://allrecipes.com/help/aboutus/privacy.aspx -- unhandled response
