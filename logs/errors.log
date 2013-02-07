@@ -3144,3 +3144,10 @@
 2013-02-06 00:13:49 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-06 00:14:56 -0600 - http://www.sugarinc.com/privacy:	404 => Net::HTTPNotFound for http://www.popsugar.com/notfound -- unhandled response
 2013-02-06 00:14:56 -0600 - http://allrecipes.com/help/aboutus/privacy.aspx:	503 => Net::HTTPServiceUnavailable for http://allrecipes.com/help/aboutus/privacy.aspx -- unhandled response
+2013-02-07 00:06:32 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-07 00:07:45 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-02-07 00:08:05 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-07 00:10:10 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-07 00:12:54 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-07 00:13:27 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-07 00:14:27 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
