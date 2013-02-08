@@ -3151,3 +3151,13 @@
 2013-02-07 00:12:54 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-07 00:13:27 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-07 00:14:27 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-02-08 00:08:20 -0600 - http://www.metrolyrics.com/privacy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 18702920, last used 1360303700.679783 seconds ago
+2013-02-08 00:08:20 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-02-08 00:08:41 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-08 00:10:11 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-08 00:13:07 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-08 00:14:21 -0600 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	502 => Net::HTTPBadGateway for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
+2013-02-08 00:16:56 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-08 00:17:27 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-08 00:20:47 -0600 - http://www.metrolyrics.com/privacy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 18702920, last used 1360304447.0669503 seconds ago
+2013-02-08 00:20:47 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
