@@ -3166,3 +3166,13 @@
 2013-02-09 00:09:52 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-02-09 00:12:37 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-09 00:13:11 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-10 00:06:31 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-10 00:07:44 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-10 00:10:01 -0600 - http://www.whitehouse.gov/privacy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 7387140, last used 1360476601.7874575 seconds ago
+2013-02-10 00:11:52 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-10 00:14:38 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-10 00:15:06 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-10 00:15:18 -0600 - http://www.y8.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.y8.com/privacy -- unhandled response
+2013-02-10 00:15:50 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
+2013-02-10 00:15:59 -0600 - http://www.y8.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.y8.com/privacy -- unhandled response
+2013-02-10 00:16:00 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
