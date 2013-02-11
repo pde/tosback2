@@ -3176,3 +3176,8 @@
 2013-02-10 00:15:50 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
 2013-02-10 00:15:59 -0600 - http://www.y8.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.y8.com/privacy -- unhandled response
 2013-02-10 00:16:00 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
+2013-02-11 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-11 00:07:58 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-11 00:11:25 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-11 00:14:36 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-11 00:15:05 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
