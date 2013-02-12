@@ -3181,3 +3181,16 @@
 2013-02-11 00:11:25 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-02-11 00:14:36 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-11 00:15:05 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-12 00:08:43 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-12 00:10:00 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-12 00:11:14 -0600 - http://pipl.com/privacy/:	too many bad responses after 0 requests on 17011120, last used 1360649474.6857588 seconds ago
+2013-02-12 00:12:06 -0600 - http://www.tigerdirect.com/sectors/aboutus/privacy.asp:	500 => Net::HTTPInternalServerError for http://www.tigerdirect.com/sectors/aboutus/privacy.asp -- unhandled response
+2013-02-12 00:12:43 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-12 00:13:52 -0600 - http://www.urbanspoon.com/privacy:	Connection timed out - connect(2)
+2013-02-12 00:14:17 -0600 - http://www.buckle.com/guest-services/privacy-security/privacy-security:	503 => Net::HTTPServiceUnavailable for http://www.buckle.com/guest-services/privacy-security/privacy-security -- unhandled response
+2013-02-12 00:15:46 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-12 00:16:33 -0600 - http://www.fairpoint.com/global/fp_privacypolicy/index.jsp:	getaddrinfo: Name or service not known
+2013-02-12 00:16:53 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-12 00:17:42 -0600 - http://pipl.com/privacy/:	too many bad responses after 0 requests on 17011120, last used 1360649862.717058 seconds ago
+2013-02-12 00:17:43 -0600 - http://www.buckle.com/guest-services/privacy-security/privacy-security:	503 => Net::HTTPServiceUnavailable for http://www.buckle.com/guest-services/privacy-security/privacy-security -- unhandled response
+2013-02-12 00:18:23 -0600 - http://www.fairpoint.com/global/fp_privacypolicy/index.jsp:	getaddrinfo: Name or service not known

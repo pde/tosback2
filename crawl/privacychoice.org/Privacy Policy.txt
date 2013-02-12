@@ -1,5 +1,5 @@
  PrivacyChoice <ul>
-</ul> Our Privacy Commitment <p>Last revised June 25, 2012</p>
+</ul> Our Privacy Commitment <p>Last revised February 12, 2013</p>
 <p>
 <strong>Summary of Key Policies (click for details)</strong>
 </p>
@@ -16,35 +16,32 @@
 <br>
 <strong>We collect limited information.</strong>
 <p>
-<em>Standard Log Files.</em> When you visit privacychoice.org or use our services through other sites, our servers log typical technical information, such as the numerical Internet protocol (IP) address of the computer you are using.
+<em>Standard Log Files.</em> When you visit privacychoice.org, privacyscore.com or use our services through other sites, our servers log typical technical information, such as the numerical Internet protocol (IP) address of the computer you are using.
 the browser software you use and your operating system.
 and the Internet address of the website from which you followed a link to our site.
-This information is kept by our hosting provider, and we only access it in aggregate form via an analytics application.</p>
+This information is kept by our hosting provider, and we only access it in aggregate form via an analytics application.
+We do not retain any of this information collected on privacyfix.com.</p>
 <p>
 <em>Cookies.</em> We don't use beacons or set tracking cookies to associate your activities across different websites.
-We only retain your email address if you provide it with your permission, and we do not use them to send unsolicited email.
+We only retain your email address if you provide it with your permission, and we do not use it to send unsolicited email.
 When you opt-out of any tracking through privacychoice, we set a cookie that remembers your opt-out preferences for when you return to our site or see PrivacyChoice services on another website, and our browser add-on uses this cookie to preserve the appropriate opt-out cookies.
 You can set your browser to refuse cookies, and use a number of free tools and browser add-ons if you wish to keep your IP number and other technical information anonymous.</p>
 <p>
-<em>Analytics.</em>To understand aggregate usage patterns, we use an open source site analytics system, Piwik, which we operate on our own servers.
-This system writes and reads cookies to identify return visitors.
-Because we host the service, no third party has access to this usage information, which we do not share.
-If you see Piwik appear on our site through tools like Ghostery, that does not mean that Piwik is receiving or has access to any information about your use of this site.</p>
-<p>We also use Google Analytics, which Google provides as a free service.
+<em>Analytics.</em> On privacychoice.org and privacyscore.com, we use Google Analytics, which Google provides as a free service.
 Although Google processes and stores usage information about the use of this site (all the same information described above), it does so strictly as our agent.
 Based on options we have selected, Google's policy is to refrain from any other use or sharing of this information.
 Read Google's policy.
-Visit this page to opt out of data collection by Google Analytics.</p>
+Visit this page to opt out of data collection by Google Analytics.
+We do not use Google Analytics on privacyfix.com.</p>
 <p>
-<em>Registration Information.</em> If you sign up for site scanning, privacy widget or seal services, we may ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password.
+<em>Registration Information.</em> If you sign up for site scanning, policy generation or other services, we may ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password.
 We never associate any of your personally identifiable information with information about your activities through our services.</p>
 <p>
-<em>Information Collected Through TrackerScan.</em> When you use the TrackerScan add-on or bookmark or view a PrivacyWidget on a third-party website, that action submits the list of tracking companies on the page that you are viewing in order to provide the tracking company information you have requested for that page or website.
+<em>Information Collected Through Privacyscore and Privacyfix Healthbar.</em> When you opt in to see ratings in your browser as you surf the Web, your browser submits to us data about tracking attempts on the page that you are viewing in order to provide the rating you have requested.
 We also use this information (only in aggregate) to maintain our database as to which tracking companies are generally present on individual websites.
 However, individual pages you may view are never collected across websites, nor are they associated with any anonymous or personally identifiable information you may otherwise provide to us.</p>
 <p>
 <em>Third-Party Data Collection.</em> We do not allow any other company to collect information on this site for their own use.
-We may link to third parties, such as UserVoice (privacy policy), and these parties may use cookies or other tracking method under their own privacy policies, but they have agreed not to use or share the information for other purposes.
 We provide a link to the Facebook "Like" button, but Facebook cannot collect information unless and until the user clicks on the Facebook image.</p>
 <strong>We collect and use additional data through MobileScan.</strong>
 <p>When you use MobileScan to scan apps, we need to collect and retain additional information, including your email address (to identify your scans and provide reports to you) and network activity of your device during each test (in order to create your scan report).
@@ -77,7 +74,7 @@ To request the above information, please e-mail us at: privacy@privacychoice.org
 We will respond to such written requests promptly.</p>
 <strong>We will let you know if this policy changes in a substantive way.</strong>
 <p>Our privacy policy may change from time to time.
-If we make any substantive changes to our policies, we will place a notice on privacychoice.org and send an email to registered users.</p>
+If we make any substantive changes to our policies, we will place a notice on our sites and send an email to registered users.</p>
 <strong>Please stay in touch!</strong>
 <p>We encourage questions and comments on our privacy policy, and anything else that can help improve our service.
 Please contact us at privacy@privacychoice.org or use our contact form.</p>
