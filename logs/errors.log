@@ -3194,3 +3194,16 @@
 2013-02-12 00:17:42 -0600 - http://pipl.com/privacy/:	too many bad responses after 0 requests on 17011120, last used 1360649862.717058 seconds ago
 2013-02-12 00:17:43 -0600 - http://www.buckle.com/guest-services/privacy-security/privacy-security:	503 => Net::HTTPServiceUnavailable for http://www.buckle.com/guest-services/privacy-security/privacy-security -- unhandled response
 2013-02-12 00:18:23 -0600 - http://www.fairpoint.com/global/fp_privacypolicy/index.jsp:	getaddrinfo: Name or service not known
+2013-02-13 00:06:31 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-13 00:07:17 -0600 - http://www.miracleworkers.com/s/privacy:	404 => Net::HTTPNotFound for http://www.miracleworkers.com/intl/404.aspx?404;http://www.miracleworkers.com/s/privacy -- unhandled response
+2013-02-13 00:07:43 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-13 00:09:04 -0600 - https://alpha.app.net/legal/terms/:	connection refused: alpha.app.net:443
+2013-02-13 00:09:04 -0600 - https://alpha.app.net/legal/privacy/:	connection refused: alpha.app.net:443
+2013-02-13 00:09:51 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-13 00:12:09 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-02-13 00:12:54 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-13 00:13:24 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-13 00:14:29 -0600 - http://www.miracleworkers.com/s/privacy:	404 => Net::HTTPNotFound for http://www.miracleworkers.com/intl/404.aspx?404;http://www.miracleworkers.com/s/privacy -- unhandled response
+2013-02-13 00:14:50 -0600 - https://alpha.app.net/legal/terms/:	connection refused: alpha.app.net:443
+2013-02-13 00:14:50 -0600 - https://alpha.app.net/legal/privacy/:	connection refused: alpha.app.net:443
+2013-02-13 00:14:50 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
