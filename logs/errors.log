@@ -3213,3 +3213,12 @@
 2013-02-14 00:12:47 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-14 00:13:17 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-14 00:13:38 -0600 - https://help.github.com/privacy-policy:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-privacy-policy -- unhandled response
+2013-02-15 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-15 00:07:35 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-15 00:09:39 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-15 00:10:53 -0600 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	502 => Net::HTTPBadGateway for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
+2013-02-15 00:13:19 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-15 00:13:50 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-15 00:14:09 -0600 - https://help.github.com/security/:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-security -- unhandled response
+2013-02-15 00:15:18 -0600 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	502 => Net::HTTPBadGateway for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
+2013-02-15 00:15:18 -0600 - https://help.github.com/security/:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-security -- unhandled response

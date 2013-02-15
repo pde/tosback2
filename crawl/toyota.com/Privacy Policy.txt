@@ -22,27 +22,27 @@ mpg <sup>2</sup> Explore Build </li>
 mpg <sup>2</sup> Explore Build </li>
 <li> Camry $22,235 starting msrp <sup>1</sup> 25/35 est.
 mpg <sup>2</sup> Explore Build </li>
-<li> Sienna $26,585 starting msrp <sup>1</sup> 18/25 est.
-mpg <sup>2</sup> Explore Build </li>
 <li> Avalon $30,990 starting msrp <sup>1</sup> 21/31 est.
+mpg <sup>2</sup> Explore Build </li>
+<li> Sienna $26,585 starting msrp <sup>1</sup> 18/25 est.
 mpg <sup>2</sup> Explore Build </li>
 </ul>
 </li>
 <li>
 <i>
 </i> Trucks <ul>
-<li> Tacoma<br>Regular Cab $17,625 starting msrp <sup>1</sup> 21/25 est.
-mpg <sup>2</sup> Explore Build </li>
-<li> Tacoma<br>Access Cab $20,415 starting msrp <sup>1</sup> 21/25 est.
-mpg <sup>2</sup> Explore Build </li>
 <li> Tacoma<br>Double Cab $22,525 starting msrp <sup>1</sup> 19/24 est.
 mpg <sup>2</sup> $32,150 as shown Explore Build </li>
-<li> Tundra<br>Regular Cab $25,455 starting msrp <sup>1</sup> 16/20 est.
+<li> Tacoma<br>Access Cab $20,415 starting msrp <sup>1</sup> 21/25 est.
 mpg <sup>2</sup> Explore Build </li>
-<li> Tundra<br>Double Cab $27,665 starting msrp <sup>1</sup> 15/20 est.
-mpg <sup>2</sup> $30,940 as shown Explore Build </li>
+<li> Tacoma<br>Regular Cab $17,625 starting msrp <sup>1</sup> 21/25 est.
+mpg <sup>2</sup> Explore Build </li>
 <li> Tundra<br>CrewMax $30,635 starting msrp <sup>1</sup> 13/17 est.
 mpg <sup>2</sup> $41,730 as shown Explore Build </li>
+<li> Tundra<br>Double Cab $27,665 starting msrp <sup>1</sup> 15/20 est.
+mpg <sup>2</sup> $30,940 as shown Explore Build </li>
+<li> Tundra<br>Regular Cab $25,455 starting msrp <sup>1</sup> 16/20 est.
+mpg <sup>2</sup> Explore Build </li>
 </ul>
 </li>
 <li>
@@ -51,11 +51,11 @@ mpg <sup>2</sup> $41,730 as shown Explore Build </li>
 SUVs <ul>
 <li> RAV4 $23,300 starting msrp <sup>1</sup> 24/31 est.
 mpg <sup>2</sup> Explore Build </li>
-<li> FJ Cruiser $27,030 starting msrp <sup>1</sup> 16/20 est.
-mpg <sup>2</sup> Explore Build </li>
 <li> Venza $27,850 starting msrp <sup>1</sup> 20/26 est.
 mpg <sup>2</sup> Explore Build </li>
 <li> Highlander $29,020 starting msrp <sup>1</sup> 20/25 est.
+mpg <sup>2</sup> Explore Build </li>
+<li> FJ Cruiser $27,030 starting msrp <sup>1</sup> 16/20 est.
 mpg <sup>2</sup> Explore Build </li>
 <li> 4Runner $31,490 starting msrp <sup>1</sup> 17/22 est.
 mpg <sup>2</sup> Explore Build </li>
@@ -69,21 +69,23 @@ mpg <sup>2</sup> Explore Build </li>
 <i>
 </i> Hybrids &amp.
 EVs <ul>
-<li> Prius <i>c</i> $19,080 starting msrp <sup>1</sup> 53/46 est.
-mpg <sup>2</sup> Explore Build </li>
-<li> Prius $24,200 starting msrp <sup>1</sup> 51/48 est.
-mpg <sup>2</sup> Explore Build </li>
 <li> Camry Hybrid $26,140 starting msrp <sup>1</sup> 43/39 est.
-mpg <sup>2</sup> Explore Build </li>
-<li> Prius <i>v</i> $26,650 starting msrp <sup>1</sup> 44/40 est.
-mpg <sup>2</sup> Explore Build </li>
-<li> Prius Plug-in $32,000 starting msrp <sup>1</sup> 95/50 est.
 mpg <sup>2</sup> Explore Build </li>
 <li> Avalon Hybrid $35,555 starting msrp <sup>1</sup> 40/39 est.
 mpg <sup>2</sup> Explore Build </li>
+<li> RAV4 EV $49,800 starting msrp <sup>1</sup> 103/76 est.
+driving range <br>/ est.
+mpge <sup>4</sup> Explore Build </li>
 <li> Highlander Hybrid $40,170 starting msrp <sup>1</sup> 28/28 est.
 mpg <sup>2</sup> Explore Build </li>
-<li> RAV4 EV $49,800 starting msrp <sup>1</sup> 103/76 est.
+<li> Prius $24,200 starting msrp <sup>1</sup> 51/48 est.
+mpg <sup>2</sup> Explore Build </li>
+<li> Prius <i>c</i> $19,080 starting msrp <sup>1</sup> 53/46 est.
+mpg <sup>2</sup> Explore Build </li>
+<li> Prius Plug-in $32,000 starting msrp <sup>1</sup> 95/50 est.
+mpge <br>/ est.
+hybrid <br>mode mpg <sup>3</sup> Explore Build </li>
+<li> Prius <i>v</i> $26,650 starting msrp <sup>1</sup> 44/40 est.
 mpg <sup>2</sup> Explore Build </li>
 </ul>
 </li>
@@ -538,6 +540,14 @@ Actual dealer price will vary.</li>
 <li>
 2013 EPA-estimated mileage.
 Actual mileage will vary.</li>
+<li>
+51 city/49 highway/50 combined mpg estimates.
+Actual mileage will vary.</li>
+<li>
+MPGe based on 2013 EPA ratings.
+Actual MPGe will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions.
+Battery capacity will decrease with time and use.
+For more information on MPGe and range, please see www.fueleconomy.gov.</li>
 </ol> Vehicles <ul>
 <li>All Vehicles</li>
 <li>Cars</li>
