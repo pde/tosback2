@@ -3222,3 +3222,12 @@
 2013-02-15 00:14:09 -0600 - https://help.github.com/security/:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-security -- unhandled response
 2013-02-15 00:15:18 -0600 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	502 => Net::HTTPBadGateway for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
 2013-02-15 00:15:18 -0600 - https://help.github.com/security/:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-security -- unhandled response
+2013-02-16 00:06:07 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-02-16 00:06:26 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-16 00:07:36 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-16 00:11:15 -0600 - http://www.cruise.co.uk/cruise-guides/Privacy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 21950440, last used 1360995075.3422887 seconds ago
+2013-02-16 00:11:37 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-16 00:14:32 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-16 00:14:59 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-16 00:15:51 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-02-16 00:17:52 -0600 - http://www.cruise.co.uk/cruise-guides/Privacy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 21950440, last used 1360995472.2504504 seconds ago

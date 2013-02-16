@@ -1,1 +1,69 @@
-
+ <ul>
+<li> Contact Support </li>
+<li>Back to GitHub</li>
+</ul> Site Policy / GitHub Security Search GitHub Security <ul>
+<li> mac </li>
+<li> windows </li>
+<li> linux </li>
+<li> all </li>
+</ul>
+<p>We know your code is extremely important to you and your business and we're very protective of it.
+After all, GitHub's code is hosted on GitHub, too!</p> Need to report a security vulnerability? <p>Please read our policy on Responsible Disclosure.</p> Physical Security <ul>
+<li>Data center access limited to Rackspace data center technicians</li>
+<li>Biometric scanning for controlled data center access</li>
+<li>Security camera monitoring at all data center locations</li>
+<li>24x7 onsite staff provides additional protection against unauthorized entry</li>
+<li>Unmarked facilities to help maintain low profile</li>
+<li>Physical security audited by an independent firm</li>
+</ul>
+System Security <ul>
+<li>System installation using hardened, patched OS</li>
+<li>System patching configured by Rackspace to provide ongoing protection from exploits</li>
+<li>Dedicated firewall and VPN services to help block unauthorized system access</li>
+<li>Data protection with Rackspace managed backup solutions</li>
+<li>Dedicated intrusion detection devices to provide an additional layer of protection against unauthorized system access</li>
+<li>Distributed Denial of Service (DDoS) mitigation services based on Rackspace PrevenTier system</li>
+<li>Risk assessment and security consultation by Rackspace professional services teams</li>
+</ul>
+Operational Security <ul>
+<li>ISO17799-based policies and procedures, regularly reviewed as part of the Rackspace SOC 1/SSAE 16 audit process</li>
+<li>Systems access logged and tracked for auditing purposes</li>
+<li>Secure document-destruction policies for all sensitive information</li>
+<li>Fully documented change-management procedures</li>
+<li>Independently audited disaster recovery and business continuity plans in place for Rackspace headquarters and support services</li>
+</ul>
+Software Security <p>In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at to keep our software and its dependencies up to date eliminating potential security vulnerabilities.
+We employ a wide range of monitoring solutions for preventing and eliminating attacks to the site.</p> Communications <p>All private data exchanged with GitHub is always transmitted over SSL (which is why your dashboard is served over HTTPS, for instance).
+All pushing and pulling of private data is done over SSH authenticated with keys, or over HTTPS using your GitHub username and password.</p>
+<p>The SSH login credentials used to push and pull can not be used to access a shell or the filesystem.
+All users are virtual (meaning they have no user account on our machines) and are access controlled through the peer reviewed, open source git-shell.</p> File system and backups <p>Every piece of hardware we use has an identical copy ready and waiting for an immediate hot-swap in case of hardware or software failure.
+Every line of code we store is saved on a minimum of three different servers, including an off-site backup just in case a meteor ever hits the Rackspace datacenter (we'll keep our fingers crossed that doesn't happen).
+We do not retroactively remove repositories from backups when deleted by the user, as we may need to restore the repo for the user if it was removed accidentally.</p>
+<p>We do not encrypt repositories on disk because it would not be any more secure: the website and git back-end would need to decrypt the repositories on demand, slowing down response times.
+Any user with shell access to the file system would have access to the decryption routine, thus negating any security it provides.
+Therefore, we focus on making our machines and network as secure as possible.</p> Employee access <p>No GitHub employees ever access private repositories unless required to for support reasons.
+Staff working directly in the file store access the compressed Git database, your code is never present as plaintext files like it would be in a local clone.
+Support staff may log into your account to access settings related to your support issue.
+In rare cases staff may need to pull a clone of your code, this will only be done with your consent.
+Support staff does not have direct access to clone any repo, they will need to temporarily attach their SSH key to your account to pull a clone.
+When working a support issue we do our best to respect your privacy as much as possible, we only access the files and settings needed to resolve your issue.
+All cloned repos are deleted as soon as the support issue has been resolved.</p> Maintaining security <p>We protect your login from brute force attacks with rate limiting.
+All passwords are filtered from all our logs and are encrypted in the database.
+Login information is always sent over SSL.</p>
+<p>We have full time security staff to help identify and prevent new attack vectors.
+We always test new features in order to rule out potential attacks, such as XSS-protecting wikis, and ensuring that Pages cannot access cookies.</p>
+<p>We also maintain relationships with reputable security firms to perform regular penetration tests and ongoing audits of GitHub and its code.
+These firms include ^Lift Security and Matasano Security.</p>
+<p>We're extremely concerned and active about security, but we're aware that many companies are not comfortable hosting code outside their firewall.
+For these companies we offer GitHub Enterprise, a version of GitHub that can be installed to a server within the company's network.</p> Credit card safety <p>When you sign up for a paid account on GitHub, we do not store any of your card information on our servers.
+It's handed off to Braintree Payment Solutions, a company dedicated to storing your sensitive data on PCI-Compliant servers.</p> Contact Us <p>Have a question, concern, or comment about GitHub security? Please email support@github.com.</p>
+<ul>
+<li> contact a human </li>
+</ul>
+<ul>
+<li>Terms of Service</li>
+<li>Privacy</li>
+<li>Security</li>
+</ul>
+<p>© year GitHub Inc.
+All rights reserved.</p> 
