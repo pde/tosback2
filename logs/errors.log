@@ -3245,3 +3245,11 @@
 2013-02-18 00:12:25 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-18 00:12:52 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-18 00:13:40 -0600 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2013-02-19 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-19 00:07:41 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-19 00:08:43 -0600 - http://www.urbandictionary.com/privacy.php:	503 => Net::HTTPServiceUnavailable for http://www.urbandictionary.com/privacy.php -- unhandled response
+2013-02-19 00:09:01 -0600 - http://www.personalizationmall.com/StaticPage.aspx?pageid=26:	500 => Net::HTTPInternalServerError for http://www.personalizationmall.com/StaticPage.aspx?pageid=26 -- unhandled response
+2013-02-19 00:10:18 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-19 00:12:46 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-19 00:13:12 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-19 00:14:13 -0600 - http://www.personalizationmall.com/StaticPage.aspx?pageid=26:	500 => Net::HTTPInternalServerError for http://www.personalizationmall.com/StaticPage.aspx?pageid=26 -- unhandled response

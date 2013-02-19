@@ -15,8 +15,7 @@ After all, GitHub's code is hosted on GitHub, too!</p> Need to report a security
 <li>24x7 onsite staff provides additional protection against unauthorized entry</li>
 <li>Unmarked facilities to help maintain low profile</li>
 <li>Physical security audited by an independent firm</li>
-</ul>
-System Security <ul>
+</ul>System Security <ul>
 <li>System installation using hardened, patched OS</li>
 <li>System patching configured by Rackspace to provide ongoing protection from exploits</li>
 <li>Dedicated firewall and VPN services to help block unauthorized system access</li>
@@ -24,15 +23,13 @@ System Security <ul>
 <li>Dedicated intrusion detection devices to provide an additional layer of protection against unauthorized system access</li>
 <li>Distributed Denial of Service (DDoS) mitigation services based on Rackspace PrevenTier system</li>
 <li>Risk assessment and security consultation by Rackspace professional services teams</li>
-</ul>
-Operational Security <ul>
+</ul>Operational Security <ul>
 <li>ISO17799-based policies and procedures, regularly reviewed as part of the Rackspace SOC 1/SSAE 16 audit process</li>
 <li>Systems access logged and tracked for auditing purposes</li>
 <li>Secure document-destruction policies for all sensitive information</li>
 <li>Fully documented change-management procedures</li>
 <li>Independently audited disaster recovery and business continuity plans in place for Rackspace headquarters and support services</li>
-</ul>
-Software Security <p>In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at to keep our software and its dependencies up to date eliminating potential security vulnerabilities.
+</ul>Software Security <p>In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at to keep our software and its dependencies up to date eliminating potential security vulnerabilities.
 We employ a wide range of monitoring solutions for preventing and eliminating attacks to the site.</p> Communications <p>All private data exchanged with GitHub is always transmitted over SSL (which is why your dashboard is served over HTTPS, for instance).
 All pushing and pulling of private data is done over SSH authenticated with keys, or over HTTPS using your GitHub username and password.</p>
 <p>The SSH login credentials used to push and pull can not be used to access a shell or the filesystem.
