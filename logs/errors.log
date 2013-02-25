@@ -3314,3 +3314,14 @@
 2013-02-24 00:13:26 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-24 00:14:26 -0600 - http://www.stubhub.com/privacy_policy/:	503 => Net::HTTPServiceUnavailable for http://www.stubhub.com/privacy_policy/ -- unhandled response
 2013-02-24 00:14:47 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	Network is unreachable - connect(2)
+2013-02-25 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-25 00:06:35 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-25 00:07:48 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-25 00:08:46 -0600 - http://www.gamefly.com/about-us/privacy-policy:	404 => Net::HTTPNotFound for http://www.gamefly.com/about-us/privacy-policy -- unhandled response
+2013-02-25 00:08:48 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-02-25 00:09:04 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-25 00:09:12 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-25 00:09:42 -0600 - http://www.stubhub.com/privacy_policy/:	503 => Net::HTTPServiceUnavailable for http://www.stubhub.com/privacy_policy/ -- unhandled response
+2013-02-25 00:09:57 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-25 00:12:36 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-25 00:13:09 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
