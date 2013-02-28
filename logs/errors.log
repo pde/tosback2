@@ -3348,3 +3348,18 @@
 2013-02-27 00:13:19 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-02-27 00:13:49 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-27 00:14:48 -0600 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-02-28 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-02-28 00:06:35 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-28 00:07:47 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-02-28 00:07:57 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-02-28 00:08:55 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-02-28 00:09:07 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-28 00:09:16 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-02-28 00:09:54 -0600 - http://www.nwf.org/Privacy-Policy.aspx:	getaddrinfo: Name or service not known
+2013-02-28 00:10:09 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-02-28 00:10:14 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	500 => Net::HTTPInternalServerError for http://www.champssports.com/ns/error/500.html -- unhandled response
+2013-02-28 00:10:52 -0600 - http://www22.verizon.com/about/privacy/:	503 => Net::HTTPServiceUnavailable for http://www22.verizon.com/about/privacy/ -- unhandled response
+2013-02-28 00:13:17 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-02-28 00:13:46 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-02-28 00:14:39 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-02-28 00:14:39 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
