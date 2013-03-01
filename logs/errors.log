@@ -3363,3 +3363,19 @@
 2013-02-28 00:13:46 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-02-28 00:14:39 -0600 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
 2013-02-28 00:14:39 -0600 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
+2013-03-01 00:06:08 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-03-01 00:06:28 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-01 00:06:35 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-01 00:08:04 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-01 00:08:28 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-01 00:09:21 -0600 - http://www.sportsmansguide.com/net/main/Privacy.aspx:	Redirect limit of 20 reached
+2013-03-01 00:09:31 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-01 00:09:44 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-01 00:09:53 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-01 00:10:39 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-01 00:12:34 -0600 - https://www.eff.org/policy:	Network is unreachable - connect(2)
+2013-03-01 00:14:10 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-01 00:14:40 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-01 00:15:32 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-03-01 00:15:34 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-01 00:15:55 -0600 - https://www.eff.org/policy:	Network is unreachable - connect(2)
