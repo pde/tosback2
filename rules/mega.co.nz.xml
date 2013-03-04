@@ -1,11 +1,21 @@
 <sitename name="mega.co.nz">
- <docname name="Terms of Service">
-   <url name="https://mega.co.nz/#terms">
+ <docname name="Terms of Service 1">
+   <url name="https://eu.static.mega.co.nz/pages/terms_1.html">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Privacy Policy">
-   <url name="https://mega.co.nz/#privacy">
+ <docname name="Terms of Service 2">
+   <url name="https://eu.static.mega.co.nz/pages/terms_2.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy 4">
+   <url name="https://eu.static.mega.co.nz/pages/privacy_4.html">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy 5">
+   <url name="https://eu.static.mega.co.nz/pages/privacy_5.html">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
