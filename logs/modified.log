@@ -1,7 +1,7 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 2 commits.
+# Your branch is ahead of 'origin/master' by 3 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
@@ -9,16 +9,17 @@ These files were modified since the last commit:
 #
 #	modified:   ../crawl/Frontier.com/Terms of Service.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
-#	modified:   ../crawl/legacy.com/Privacy Policy.txt
+#	modified:   ../crawl/fossil.com/Privacy Policy.txt
+#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
 #	modified:   ../crawl/linkedin.com/Privacy Policy.txt
 #	modified:   ../crawl/motorola.com/Privacy Policy.txt
+#	modified:   ../crawl/nextag.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
 #	modified:   ../crawl/pcworld.com/Privacy Policy.txt
+#	modified:   ../crawl/sixdegreesrecords.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/staples.com/Privacy Policy.txt
 #	modified:   ../crawl/thepiratebay.org/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
-#	modified:   ../crawl/www.whitehouse.gov/Privacy Policy.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
