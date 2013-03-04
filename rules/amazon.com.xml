@@ -1,11 +1,56 @@
 <sitename name="amazon.com">
- <docname name="Privacy Policy">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=hp_20090588_privacy2?nodeId=468496" xpath="//span[@class='small']">
+ <docname name="Amazon.com Privacy Notice">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=468496" xpath="//td[@class='center-col']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Kindle License Agreement and Terms of Use">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&amp;nodeId=200506200&amp;qid=1354539184&amp;sr=1-1" xpath="//td[@class='center-col']/node()[not(@class='cBox secondary')]">
+ <docname name="Amazon Kindle Store Terms of Use">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=201014950" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Conditions of Use">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=508088" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Kindle for Android Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200495390" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Kindle for PC Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200499360" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Kindle for Mac Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200443370" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="AMAZON SILK TERMS & CONDITIONS">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200775270" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Kindle Cloud Reader Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200701450" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Kindle for Windows 8 Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=200939440" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Amazon App Suite Legal Notices">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=201008370" xpath="//td[@class='center-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Interest-Based Ads">
+   <url name="http://www.amazon.com/b/?&node=5160028011" xpath="//div[@class='amabot_center']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,16 @@
 <sitename name="mint.com">
+ <docname name="Terms of Use">
+   <url name="https://www.mint.com/how-it-works/security/terms/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
    <url name="https://www.mint.com/how-it-works/security/policy/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Legal Information (Intuit)">
+   <url name="http://about.intuit.com/legal/">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
