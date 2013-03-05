@@ -1,9 +1,22 @@
+Kindle for PC Legal Notices<ul>
 <li>Intellectual Property Notices</li>
 <li>Information for Those With Copyright Concerns</li>
 <li>Notices for Third Party Software Included With the Application</li>
-<li>Full Text for Certain Software Licenses</li>OpenSSLOpenSSLhttp://www.openssl.org/<p>All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.</p>
-<br>B.
-INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS<p>Amazon.com, Inc.
+<li>Full Text for Certain Software Licenses</li>
+</ul>A.
+INTELLECTUAL PROPERTY NOTICES1.
+Patent Notices<p>The Kindle for PC application and/or methods used in association with the Kindle device may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc.
+or its affiliates.</p>2.
+Trademark Notices<p>Amazon, the Amazon logo, Kindle, the AmazonKindle logo, and Whispersync are trademarks of Amazon.com, Inc.
+or its affiliates.
+</p>3.
+Copyright Notices<p>Kindle for PC software © 2009-2012 Amazon.com, Inc.
+or its affiliates.
+All rights reserved.</p>4.
+Other NoticesThis product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).
+<p>All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.</p>
+<br> B.
+INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS <p>Amazon.com, Inc.
 and its affiliates (“Amazon”) respect the intellectual property of others.
 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon’s copyright agent the written information specified below.
 Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed.</p>
@@ -18,9 +31,10 @@ and<br> - A statement by you, made under penalty of perjury, that the above info
 <p>Copyright Agent <br> Amazon Legal Department <br> P.O.
 Box 81226 <br> Seattle, WA 98108 <br> phone: (206) 266-4064 <br> fax: (206) 266-7010 <br> e-mail: copyright@amazon.com</p>
 <p>Courier address: <br> Copyright Agent <br> Amazon Legal Department <br> 410 Terry Avenue North<br> Seattle, WA 98109-5210 <br> USA </p>
-<br>C.
-NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION1.
-Notices for Libjpeg Software.<p>LEGAL ISSUES</p>
+<br> C.
+NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION 1.
+Notices for Libjpeg Software.
+<p>LEGAL ISSUES</p>
 <p>In plain English:</p>
 <ol>
 <li>We don't promise that this software works.
@@ -67,8 +81,11 @@ To avoid entanglement with the Unisys LZW patent, GIF reading support has been r
 This technique does not use the LZW algorithm.
 the resulting GIF files are larger than usual, but are readable by all standard GIF decoders.</p>
 <p>We are required to state that "The Graphics Interchange Format© is the Copyright property of CompuServe Incorporated.
-GIF(sm) is a Service Mark property of CompuServe Incorporated."</p>2.
-Notices for OpenSSL Software.<p>The OpenSSL toolkit stays under a dual license, i.e.
+GIF(sm) is a Service Mark property of CompuServe Incorporated."</p> Please send bug reports, offers of help, etc.
+to jpeg-info@uunet.uu.net.
+2.
+Notices for OpenSSL Software.
+<p>The OpenSSL toolkit stays under a dual license, i.e.
 both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit.
 See below for the actual license texts.
 Actually both licenses are BSD-style Open Source licenses.
@@ -119,8 +136,9 @@ OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
 </p>
 <p>The license and distribution terms for any publically available version or derivative of this code cannot be changed.
 i.e.
-this code cannot simply be copied and put under another distribution license [including the GNU Public License.]</p>3.
-Notices for ZipUtils Software.<p>Copyright (c) 1990-2007 Info-ZIP.
+this code cannot simply be copied and put under another distribution license [including the GNU Public License.]</p> 3.
+Notices for ZipUtils Software.
+<p>Copyright (c) 1990-2007 Info-ZIP.
 All rights reserved.</p>
 <p>For the purposes of this copyright and license, "Info-ZIP" is defined as the following set of individuals:</p>
 <p>Mark Adler, John Bush, Karl Davis, Harald Denker, Jean-Michel Dubois, Jean-loup Gailly, Hunter Goatley, Ed Gordon, Ian Gorman, Chris Herborth, Dirk Haase, Greg Hartwig, Robert Heath, Jonathan Hudson, Paul Kienitz, David Kirschbaum, Johnny Lee, Onno van der Linden, Igor Mandrichenko, Steve P.
@@ -140,8 +158,10 @@ Altered versions--including, but not limited to, ports to new operating systems,
 Such altered versions also must not be misrepresented as being Info-ZIP releases--including, but not limited to, labeling of the altered versions with the names "Info-ZIP" (or any variation thereof, including, but not limited to, different capitalizations), "Pocket UnZip," "WiZ" or "MacZip" without the explicit permission of Info-ZIP.
 Such altered versions are further prohibited from misrepresentative use of the Zip-Bugs or Info-ZIP e-mail addresses or the Info-ZIP URL(s), such as to imply Info-ZIP will provide support for the altered versions.</p>
 <p>4.
-Info-ZIP retains the right to use the names "Info-ZIP," "Zip," "UnZip," "UnZipSFX," "WiZ," "Pocket UnZip," "Pocket Zip," and "MacZip" for its own source and binary releases.</p>4.
-Notices for LibXML2 Software.<p>1998-2003 Daniel Veillard.
+Info-ZIP retains the right to use the names "Info-ZIP," "Zip," "UnZip," "UnZipSFX," "WiZ," "Pocket UnZip," "Pocket Zip," and "MacZip" for its own source and binary releases.</p> 4.
+Notices for LibXML2 Software.
+Except where otherwise noted in the source code (e.g.
+the files hash.c, list.c and the trio files, which are covered by a similar licence but with different Copyright notices) all the files are: <p>1998-2003 Daniel Veillard.
 All Rights Reserved.</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
@@ -155,8 +175,11 @@ IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
 <p>Trionan.c, triode.h, trionan.h © 2001 Bjorn Reese.</p>
 <p>Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.</p>
 <p>THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.</p>5.
-Notices for XML Security Library Software.<p>xmlsec-mscrypto library © 2002-2010 Aleksey Sanin.
+THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.</p> 5.
+Notices for XML Security Library Software.
+xmlsec, xmlsec-openssl, xmlsec-gnutls, xmlsec-gcrypt libraries © 2002-2010 Aleksey Sanin.
+All Rights Reserved.
+<p>xmlsec-mscrypto library © 2002-2010 Aleksey Sanin.
 All Rights Reserved.
 © 2003 Cordys R&amp;D BV, All rights reserved.
 © 2007 Roumen Petrov.
@@ -177,8 +200,9 @@ The MPL is available at http://www.mozilla.org/MPL/MPL-1.1.html.
 The MPL permits such portions to be distributed with code not governed by MPL, as long as the requirements of MPL are fulfilled for such portions.</p>
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE ALEKSEY SANIN BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
-<p>Except as contained in this notice, the name of Aleksey Sanin shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.</p>6.
-Notices for Webkit Software.<p>a.
+<p>Except as contained in this notice, the name of Aleksey Sanin shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.</p> 6.
+Notices for Webkit Software.
+<p>a.
 Terms Applicable to Webkit [MODIFICATION NOTICE]</p>
 <p>Portions of WebKit are licensed under a form of the BSD License, while other portions of Webkit are licensed under the Lesser General Public License, Version 2.1 (“LGPL”).
 Please refer to the individual files to determine the license terms that apply to each file.
@@ -206,8 +230,9 @@ Names and Copyright Notices</p>
 <p>The following are the names of the Webkit Software used with this product and the copyright notices for the Webkit Software:</p>
 <p>- WebKit, WebCore, and JavaScriptCore - © 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J.
 Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G.
-Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.</p>7.
-Notices for Cxlmage Software.<p>© 07/Aug/2001, Davide Pizzolato.</p>
+Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.</p> 7.
+Notices for Cxlmage Software.
+<p>© 07/Aug/2001, Davide Pizzolato.</p>
 <p>This software is provided 'as-is', without any express or implied warranty.
 In no event will the authors be held liable for any damages arising from the use of this software.</p>
 <p>Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:</p>
@@ -218,8 +243,9 @@ If you use this software in a product, an acknowledgment in the product document
 <p>2.
 Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.</p>
 <p>3.
-This notice may not be removed or altered from any source distribution.</p>8.
-Notices for ICU Software.<p>© 1995-2011 International Business Machines Corporation and others.
+This notice may not be removed or altered from any source distribution.</p> 8.
+Notices for ICU Software.
+<p>© 1995-2011 International Business Machines Corporation and others.
 </p>
 <p>All rights reserved.
 </p>
@@ -231,8 +257,9 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIA
 <p>Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
 </p>
 <p>
-</p>D.
-FULL TEXT FOR CERTAIN SOFTWARE LICENSES.<p>GNU LESSER GENERAL PUBLIC LICENSE</p>
+</p> D.
+FULL TEXT FOR CERTAIN SOFTWARE LICENSES.
+<p>GNU LESSER GENERAL PUBLIC LICENSE</p>
 <p>Version 2.1, February 1999.
 © 1991, 1999 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
@@ -407,4 +434,5 @@ SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICI
 <p>16.
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
 <p>END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE</p>
-<p>© 1998-2003 Free Software Foundation, Inc.</p> 
+<p>© 1998-2003 Free Software Foundation, Inc.</p> Kindle Tools
+Know Your Kindle Kindle FAQs | Kindle Discussions | Manage Your Kindle | Troubleshooting Your Kindle 

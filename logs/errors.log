@@ -3416,3 +3416,18 @@
 2013-03-04 00:14:46 -0600 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
 2013-03-04 19:42:14 -0500 - https://eu.static.mega.co.nz/pages/terms_2.html:	404 => Net::HTTPNotFound for https://eu.static.mega.co.nz/pages/terms_2.html -- unhandled response
 2013-03-04 19:42:15 -0500 - https://eu.static.mega.co.nz/pages/privacy_5.html:	404 => Net::HTTPNotFound for https://eu.static.mega.co.nz/pages/privacy_5.html -- unhandled response
+2013-03-05 00:06:07 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-03-05 00:06:29 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-05 00:06:35 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-05 00:07:11 -0600 - http://help.xanga.com/about/legal/privacy-policy/:	500 => Net::HTTPInternalServerError for http://help.xanga.com/about/legal/privacy-policy/ -- unhandled response
+2013-03-05 00:08:13 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-05 00:08:55 -0600 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
+2013-03-05 00:09:10 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-05 00:09:25 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-05 00:09:33 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-05 00:10:31 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-05 00:12:55 -0600 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html:	404 => Net::HTTPNotFound for http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html -- unhandled response
+2013-03-05 00:13:17 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-05 00:13:41 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-05 00:14:36 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-03-05 00:14:37 -0600 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html:	404 => Net::HTTPNotFound for http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html -- unhandled response

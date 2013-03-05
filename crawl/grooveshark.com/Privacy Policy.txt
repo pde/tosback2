@@ -8,237 +8,233 @@
 <li>Help</li>
 <li>Listen Now</li>
 </ul> Privacy Policy Our promise to our users <p>
-<strong>Privacy Policy</strong>
-</p>
+<strong>Last Updated:</strong> March 4, 2013</p>
 <p>
-<strong>Last Updated:</strong> December 2, 2011</p>
-<p>
-<strong>Overview</strong>
-</p>
-<p>Grooveshark has established a comprehensive Privacy Policy ("the Policy") which is designed to help protect your privacy rights.
-By using the Grooveshark Service, you, the user, agree to the terms of the Policy.
-The following bullet points are an overview of our Policy and the significant control you have over how your data is shared:</p>
+<strong>Effective Date:</strong> March 4, 2013</p> Overview <p>Grooveshark is a service provided by Escape Media Group, Inc.
+and its subsidiaries ("EMG", "we", "us" or "our").
+EMG has established a comprehensive Privacy Policy (the "Policy") which is designed to help protect your privacy rights.
+By using grooveshark.com, and its associated subdomains, including but not limited to, widgets.grooveshark.com, beluga.grooveshark.com and listen.grooveshark.com (collectively, the "Site"), you, the User, agree to the terms of the Policy.
+The Policy in its entirety can be found below.
+To make it easier to digest our Policy, the following bullet points provide an overview of our Policy and the significant control you have over how your data is shared:</p>
 <ul>
-<li>You may opt-out of the collection of information associated with you, or limit its use and disclosure, by going to http://www.networkadvertising.org/managing/opt_out.asp.</li>
-<li>Your Personally Identifiable Data and Protected Private Information will never be sold to third parties.</li>
-<li>While no system can be perfect, we have secure systems in place to protect your sensitive Private Information.</li>
-<li>If you have any inquiries, complaints, or concerns about the collection, protection and dissemination of your data, please access the Contact page to find our contact information.</li>
+<li>You may control the collection of information associated with you by going to http://www.networkadvertising.org/managing/opt_out.asp or emailing support@grooveshark.com
+</li>
+<li>We do not sell your Personally Identifiable Information and Protected Private Information to third parties.</li>
+<li>We have secure systems in place to protect your sensitive Private Information, however no data transmission over the Internet can be guaranteed to be 100% secure, thus we cannot and do not warrant that any information is safe or secure from exposure to third parties.</li>
+<li>If you have any inquiries, complaints, or concerns about the collection, protection and dissemination of your data, please consult section XIV (Contact) to find our contact information.</li>
 </ul>
-<p>Please read the Privacy Policy below for a full treatment.
-</p>
-<p>
-<strong>Privacy Policy</strong>
-</p>
-<p>Grooveshark is provided by Escape Media Group Inc ("EMG").
-EMG collects information about you when you use grooveshark.com, associated subdomains including but not limited to widgets.grooveshark.com, beluga.grooveshark.com and listen.grooveshark.com (the "Site").
+<p>Please read the Privacy Policy below for a full description of our Privacy Policy.</p> Privacy Policy <p>Collectively, the Site and the API ("API" is the Grooveshark Application Programming Interface, accessible through http://developers.grooveshark.com) are hereby referred to as the "Service." EMG collects information about you when you use the Service.
 Once collected, there are certain parties with whom EMG may selectively share this information.
-Collectively, the Site and the API ("API" is the Grooveshark Application Programming Interface, accessible through http://developers.grooveshark.com) are hereby referred to as the "Service."</p>
-<p>If you would like to opt-out of the collection of your Personally Identifiable Information, please email support@grooveshark.com.
-If you find any part of the Policy unacceptable, please discontinue your use of the Site immediately, as this Policy is integrated into, and subject to the Terms of Service for the use of the Site (found at http://www.grooveshark.com/terms) and the Terms of Service for the usage of the API (found at http://www.grooveshark.com/apitos).
-Your use of any or all components of the Service, including but not limited to the Site and the API, constitutes a knowing acceptance and agreement to the terms and provisions of the Policy.
-</p>
-<p>Grooveshark has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and the practices set forth herein have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.
-The TRUSTe program does not cover information that may be collected through downloadable software or that you voluntarily provide to third-parties through grooveshark.com.
+This policy applies to any use of the Service.</p>
+<p>If you find any part of the Policy unacceptable, please discontinue your use of the Service immediately, as this Policy is integrated into, and subject to the Terms of Service for the use of the Site (found at grooveshark.com/terms and grooveshark.com/legal/artist_terms) and the Terms of Service for the usage of the API (found at grooveshark.com/apitos).
+Your use of any or all components of the Service, including but not limited to the Site and the API, constitutes a knowing acceptance and agreement to the terms and provisions of the Policy.</p> TRUSTe Privacy Seal <p>EMG has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices set forth herein have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.
+The TRUSTe program covers only information that is collected through this Web site, http://www.grooveshark.com and does not cover information that may be collected through downloadable software or that you voluntarily provide to third-parties through the Site.
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-If you have questions or complaints regarding our privacy policy or practices, please contact us at support@grooveshark.com.
-If you are not satisfied with our response you can contact TRUSTe here.</p>
-<p>
-<strong>1.
-Definitions</strong>
-</p>
-<ul>
-<li>User: For the purposes of the Policy, a user shall be defined as someone who is either directly interacting with the service or someone who is interacting with the service via any third party who is using the API.
-</li>
-<li>Personally Identifiable Information: Unencrypted data that encompasses a user's email address, address of residence, or phone number.</li>
-<li>Public Information: Data which a user has submitted to the Service, or has been accumulated by the Service through its use, and is available to be viewed and/or consumed by any user of the Service or the general public.
-This may include, but is not necessarily limited to playlists, tags, comments made through your Facebook or Twitter login, listening history, a user's combined first and last name, and/or information accessible on a user's public profile.
-</li>
-<li>Anonymous Information: Data which a user has submitted to the Service, or has been accumulated by the Service, that is not reasonably able to be connected to or associated with any Personally Identifiable Information.
-</li>
-<li>Protected Private Information: Data which consists of Paypal username, Paypal password, credit card number, credit card expiration date, credit card CSC, credit card type, and password (plain text or encrypted)</li>
-</ul>
-<p>
-<strong>2.
-Information we collect and who can access it: </strong>
-</p>
-<ul>
-<li>Public Information: To provide the needed data to make the Service possible, EMG collects and stores information that includes, but is not necessarily limited to: <ul>
+If you have questions or complaints regarding our Policy or practices, please contact us at support@grooveshark.com.
+If you are not satisfied with our response you can contact TRUSTe here.</p> I.
+Key Terms <ul>
+<li>
+<strong>"Anonymous Information"</strong> means data that a User has submitted to the Service, or has been accumulated by the Service, that cannot reasonably be connected to or associated with any Personally Identifiable Information.
+This data may include, but is not limited to, averages and or totals of browser and operating system types, entry and exit pages, User, artist, or album popularity, demographic information, and amount of data transferred.</li>
+<li>
+<strong>"Personally Identifiable Information" or "PII"</strong> means unencrypted data which can be used to identify or contact a person uniquely and reliably, including a User’s name, address, phone number or e-mail address.</li>
+<li>
+<strong>"Protected Private Information"</strong> means data which consists of PayPal username, PayPal password, credit card number, credit card expiration date, credit card CSC, credit card type, and password (plain text or encrypted).</li>
+<li>
+<strong>"Public Information"</strong> means data that a User has submitted to the Service, or has been accumulated by the Service through its use, and is available to be viewed and/or consumed by any User of the Service or the general public.
+This may include, but is not necessarily limited to playlists, tags, comments made through your Google or Twitter login, listening history, a User's combined first and last name, and/or information accessible on a User's public profile.</li>
+<li>
+<strong>"User"</strong> means someone who is either directly interacting with the Service or someone who is interacting with the Service via any third party who is using the API.</li>
+</ul>II.
+Information we collect: <ul>
+<li>
+<strong>Public Information.</strong> To provide the needed data to make the Service possible, EMG collects and stores information that includes, but is not necessarily limited to: <ol>
 <li>User information submitted to register for our Service;</li>
-<li>Information entered into user profiles;</li>
+<li>Information entered into User profiles;</li>
 <li>Music library information (as well as accompanying information such as tags, ratings, usage data, and comments);</li>
-<li>Information submitted to polls, contests, surveys, or other features of the Service, or information about when you respond to offers or advertisements on the Service;</li>
-</ul> In addition, EMG stores and in some cases displays this information as necessary to fulfill our legal obligations, resolve disputes, and enforce our agreements.
-EMG may provide third parties with Public information about users as long as it is not Personally Identifiable Information or Protected Private Information.</li>
-<li>Public Information and the API: EMG may share Public Information (excluding any Personally Identifiable Information) via the API.
+<li>Information submitted to polls, contests, sweepstakes, surveys or other features of the Service, or information about when you respond to offers or advertisements on the Service;</li>
+</ol>
 </li>
-<li>Personally Identifiable Information: EMG collects, stores, and in some cases displays Personally Identifiable Information within the Service.
+<li>
+<strong>Anonymous information.</strong> EMG records Anonymous Information about Users of the Service, which is stored as necessary to fulfill our legal obligations, resolve disputes, enforce our agreements, operate our business and improve the performance of the Site.</li>
+<li>
+<strong>Cookies and Anonymous Identifiers.</strong> The term "Cookie" is a nickname for files that may be deposited onto a User's computer hard drive through use of the Service.
+Cookies are used to recognize repeat visits to the website, what pages are accessed, and what functionalities are used.
+The use of cookies is commonplace on the Internet and they take up minimal room on your computer hard drive.
+Cookies work by assigning a number to your computer that has a specific meaning to the assigning website.
+Cookies, by themselves, cannot be used to determine the identity of any User.
+Unless you choose to provide us with information about you, we will never know who you are, even though our computer has previously deposited a cookie on your computer's hard drive.
+In addition, you may modify your Internet browser's settings to notify you whenever any website requests to deposit a cookie on your computer's hard drive.
+This notification option generally gives you the opportunity to decide whether to accept or refuse a cookie before it is deposited.
+EMG employs the use of cookies to enable our systems to recognize your browser, to identify how and when the Service is visited.<br> Our advertising partners may also use cookies in order to deliver targeted advertising to you.
+Other companies that advertise on our Website also have the ability to deposit a different cookie on your computer's hard drive in a process that we do not control.
+EMG maintains no liability for the depositing of such cookies, and both visitors and Users of the Service release EMG of all liability with respect to third party cookies.</li>
+<li>
+<strong>Personally Identifiable Information.</strong> EMG collects and stores Personally Identifiable Information.
 This information is needed to enable certain features the Service provides, and is stored for as long as you have an account, and as necessary to fulfill our legal obligations, resolve disputes, or enforce our agreements.
-Personally Identifiable Information, such as a user's email address, address of residence, or phone number, will not be shared with any third party without consent from the user unless otherwise stated in this policy or the Terms of Service.
-</li>
-<li>You should also be aware that if you voluntarily disclose personally identifiable information on openly viewable parts of the service, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
-Such activities are beyond the control of EMG and this Policy.
-</li>
-<li>Access to Personally Identifiable Information: If your personally identifiable information changes you may update it as necessary.
-If or you no longer desire our service, you may deactivate your account by making the change on our member information page, emailing us at support@grooveshark.com, or by contacting us by email or postal mail at the contact information listed below.
-We will respond to your request to access within 30 days.</li>
-<li>Data Retention: We will retain your information for as long as your account is active or as needed to provide you services.
-If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@groovehshark.com.
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</li>
-<li>Personally Identifiable Information and the API: Certain features in the Service may allow for or be introduced to allow for integration between the Service and other third party services.
-In order for some features to be provided, some Personally Identifiable Information may need to be transferred between EMG and the third party who is using the service.</li>
-<li>Should you utilize any feature or piece of functionality in the Service and (A) provide your username and/or password to a third party service, such as a credit card processor, or (B) authorize the exchange of data from the third party service to the Service via the third parties website, API, or product, you authorize EMG to share your Personally Identifiable Information with such a third party service with the exception of any Protected Private Information which will not be shared.</li>
-<li>Anonymous information: EMG records anonymous information about users of the service, which is stored as necessary to fulfill our legal obligations, resolve disputes, and enforce our agreements.
-This information does not link any statistic with any particular user.
-This data may include, but is not limited to, averages and or totals of browser and operating system types, entry and exit pages, user, artist, or album popularity, demographic information, and amount of data transferred.
-This information may be shared with any third party EMG chooses at any time and for any length of time (including making this data available via the API).
-</li>
-<li>IP Address Information: When you use the Site and/or Service, the IP Address of the computer or network device making the request is stored.
-IP address information is stored for no more than six months from the date the information is recorded.
-This data may be stored for longer, as necessary to fulfill our legal obligations, resolve disputes, and enforce our agreements, if EMG is so ordered to do so by a United States court of law with proper jurisdiction.
-This may be done without any notification to the user.
-This information may also be kept longer than six months by EMG if a user is found in EMG's judgment to be suspect of carrying out illegal, unlawful, or dangerous activity with or within the Site and/or the Service.
-</li>
-<li>Newsletters: If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.
-Out of respect for your privacy, we provide you a way to unsubscribe.
-Please see the "Choice and Opt-out" section below.</li>
-<li>Choice/Opt-Out: You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@grooveshark.com or you may update your settings within your profile.</li>
-<li>Facebook Connect: You can log in to our site using sign-in services such as Facebook Connect provider.
-These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
-Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</li>
-<li>Tell-A-Friend: If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.
-We will automatically send your friend a one-time email inviting him or her to visit the site.
-Escape Media Group stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-Your friend may contact us at support@grooveshark.com to request that we remove this information from our database.</li>
-<li>Legal Disclosure: We may also disclose your personal information: </li>
-<li>a) as required by law, such as to comply with a subpoena, or similar legal process</li>
-<li>b) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
-<li>c) to any other third party with your prior consent to do so.
-</li>
-<li>If you, the user, object to the above treatment of your information, then please follow this link to opt-out of the collection of your information, which may result in limited access to the Site and/or the Service.
-If you are a user residing in the European Economic Area ("EEA") or Switzerland ("CH") (together "EEA/CH"), please see section 11 for additional information relating to the treatment of your information.</li>
-</ul>
-<p>
-<strong>3.
-Advertising</strong>
-</p>
-<ul>
-<li>Advertisers are not given special access to a user's Personally Identifiable Information unless otherwise stated in this Policy or the Terms of Service.
-If you choose to follow an advertisement link, you do so at your own risk.
-EMG does not guarantee the safety or accuracy of any third party site, advertisement, or product.
-Advertisers also have their own privacy policies and terms of service that must be carefully reviewed.
-</li>
-<li>The Service may use "cookie" technology to collect website usage data and make your advertising more relevant.
-You can remove or block cookies by altering your browser's cookie settings.
-The Service may also use "flash cookie" technology as part of the music player to store User preferences and session information.</li>
-<li>We may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser.
-These cookies enable more customized ads, content or services to be provided to you.
-No personally identifiable information is on, or is connected to, these cookies.
-</li>
-<li>We may use the non-Personally Identifiable Information that we collect to customize and personalize the advertising and the content you see.</li>
-<li>EMG may allow third parties to place cookies and/or other tracking technologies, such as web beacons, clear GIFs, and/or tracking pixels, on the Site for the purpose of allowing that third party to record that a user has visited the Site and/or used the Service, or to gather other information, provided that such a third party is doing so only to collect Anonymous Information that shall not include any Personally Identifiable Information.
-In some instances third-parties may request an encrypted or "hashed" (non-human readable) user identifier that may correspond to other information already obtained from another party on a particular user.
-To learn more about behavioral advertising or to opt-out of this type of advertising, you can also visit http://www.privacychoice.org/choose, http://www.networkadvertising.org, and http://rt.displaymarketplace.com/optout.html.</li>
-</ul>
-<p>
-<strong>4.
-Surveys</strong>
-</p>
-<ul>
-<li>You may choose to answer surveys posed through grooveshark.com by EMG and/or a third party.
-This policy does not cover survey responses you provide to any third party.
+Personally Identifiable Information, such as a User's email address, address of residence, or phone number, will not be shared with any third party without consent from the User unless otherwise stated in this Policy or the Terms of Service.</li>
+<li>
+<strong>Surveys/Sweepstakes.</strong> You may choose to answer surveys or enter sweepstakes posed through grooveshark.com by EMG and/or a third party.
+These third parties may obtain personal information that you voluntarily submit to them.
+This policy does not cover survey responses you voluntarily provide to any third party and/or survey, and EMG is not responsible for the collection and use of your personal information by these third parties.
 Survey responses you provide to EMG may be published, transferred, sold or licensed to third parties.
 however, no Personally Identifiable Information will be included with the survey responses except for that Personally Identifiable Information you provide as a survey response.</li>
-</ul>
-<p>
-<strong>5.
-Data Security</strong>
-</p>
-<ul>
-<li>EMG takes reasonable steps to protect information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
-EMG has in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+<li>
+<strong>IP Address Information.</strong> When you use the Service, the IP Address of the computer or network device making the request is stored.
+IP address information is stored for as long as necessary to enforce our agreements, resolve disputes, operate our business and fulfill our legal obligations.
+This may be done without any notification to the User.
 </li>
+<li>
+<strong>Data Retention.</strong> Except as provided herein, we will retain your information for as long as your account is active or as needed to provide you services.
+If you wish to cancel your account contact us at support@grooveshark.com.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</li>
+</ul>III.
+How we use the information we collect: <ul>
+<li>
+<strong>Maintenance and Improvement.</strong> We use the information we collect from the Service to provide, maintain and improve the Service.</li>
+<li>
+<strong>Protection.</strong> We use the information we collect from the Service to develop new services, and to protect EMG and our Users.</li>
+<li>
+<strong>Customization.</strong> We may use the information that we collect from the Service to customize and personalize the advertising and the content you see.</li>
+<li>
+<strong>Cookies.</strong> We may use cookie technology to collect website usage data and make your advertising more relevant.
+We may also: <ol>
+<li>Use "flash cookie" technology as part of the music player to store User preferences and session information.</li>
+<li>Partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser.
+These cookies enable more customized ads, content or services to be provided to you.
+No PII is on, or is connected to, these cookies.
+These cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (e.g., your email address, in hashed, non-human readable form).
+To opt out of these cookies, please go to http://www.aboutads.info/choices.</li>
+<li>Allow third parties to place cookies and/or other tracking technologies, such as web beacons, clear GIFs, and/or tracking pixels, on the Site for the purpose of allowing that third party to record that a User has visited the Site and/or used the Service, or to gather other information, provided that such a third party is doing so only to collect Anonymous Information that shall not include any Personally Identifiable Information.
+In some instances third parties may request an encrypted or "hashed" (non-human readable) User identifier that may correspond to other information already obtained from another party on a particular User.
+To learn more about behavioral advertising or to opt-out of this type of advertising, you can also visit http://www.privacychoice.org/choose, http://www.networkadvertising.org, and http://rt.displaymarketplace.com/optout.html.</li>
+</ol>
+</li>
+<li>
+<strong>Surveys/Sweepstakes.</strong> We may use information collected through Surveys/Sweepstakes to: <ol>
+<li>Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various events, promotions, contests, products, surveys, sweepstakes and services.
+and</li>
+<li>Notify and contact contest and sweepstakes entrants and winners.</li>
+</ol>
+</li>
+</ul>IV.
+Information you share: <ul>
+<li>
+<strong>Voluntary Disclosure.</strong> You should be aware that if you voluntarily disclose any information, including Personally Identifiable Information, on openly viewable parts of the Service, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
+Such activities are beyond the control of EMG and this Policy.</li>
+<li>
+<strong>Access to your Personal Information.</strong> If your personal information changes you may update it or delete as necessary by visiting the profile settings page here.
+If you no longer desire to use our Service, you may deactivate your account by emailing us at support@grooveshark.com.</li>
+<li>
+<strong>Newsletters.</strong> If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.
+Out of respect for your privacy, we provide you a way to unsubscribe.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in such emails or by updating your preferences within your profile settings here.</li>
+<li>
+<strong>Connect.</strong> You can login to our Site using sign-in services such as Google, Twitter, Last.FM and Flattr.
+These services will authenticate your identity and provide you the option to share certain personal information to pre-populate our signup form, including without limitation, your name, gender, birth date, country, language, time zone and email address.
+Services like Google and Twitter give you the option to post information about your activities on this Site to your profile page to share with others within your network.</li>
+<li>
+<strong>Tell-A-Friend.</strong> You may choose to use our referral service to tell a friend about our Site by providing us with your friend's name and contact information, at which point we may send your friend an invitation to visit the Site.
+EMG may store this information for the purpose of sending this invitation and tracking the success of our referral program, but we will not share your friend’s information with third parties unless otherwise required by law or this Privacy Policy.
+Your friend may contact us at support@grooveshark.com to request that we remove this information from our database.</li>
+</ul>V.
+How we share information we collect: <ul>
+<li>
+<strong>Public Information.</strong> EMG in some cases displays Public Information as necessary to fulfill our legal obligations, resolve disputes, and enforce our agreements.
+EMG may provide third parties with Public information about Users as long as it is not Personally Identifiable Information or Protected Private Information.
+For example, we may share Public Information to show trends about the general use of our Services, which may be displayed on beluga.grooveshark.com and/or in other areas of the Site.
+EMG may also share Public Information via the API.</li>
+<li>
+<strong>Anonymous information.</strong> Anonymous Information may be shared with any third party EMG chooses at any time and for any length of time (including making this data available via the API).</li>
+<li>
+<strong>Non-Personally Identifiable Information.</strong> We may use and share non-PII, such as general demographic or location information, or information about the computer or device from which you access the Service.
+In addition, we may de-identify PII and share it in an aggregated or non-identifiable form with third parties, advertisers and/or business partners in order to analyze Service usage, improve the Services and your listener experience, or for other similar purposes.
+The use and disclosure of such aggregate or non-identifiable information is not subject to any restrictions under this Policy.</li>
+<li>
+<strong>Personally Identifiable Information.</strong> Personally Identifiable Information will not be displayed or shared with any third party unless one of the following circumstances apply: <ol>
+<li>
+<strong>With your consent -</strong> If you give your consent, we may disclose your information to a third party unless otherwise stated in this Policy or the Terms of Service.</li>
+<li>
+<strong>With your authorization -</strong> Should you utilize any feature or piece of functionality in the Service and (A) provide your username and/or password to a third party service, such as a credit card processor, (B) authorize the exchange of data from the third party service to the Service via the third parties website, API, or product, or (C) voluntarily provide or display such information at your choosing, you authorize EMG to share your Personally Identifiable Information with such a third party service with the exception of any Protected Private Information, which will not be shared.
+</li>
+<li>
+<strong>Surveys/Sweepstakes -</strong> We may share information you provide to us to administer your participation in any contest, survey or sweepstakes, or other features of the Service, and for other purposes stated on the entry form, such as to allow us to contact you to notify you of a potential prize you may have won.</li>
+<li>
+<strong>Unsubscribe -</strong> If you unsubscribe for a mailing that we sent to you on behalf of a third party, we may share your removal instructions with the third party so that your email address may be added to that company’s list of people to whom they will no longer send emails to directly.</li>
+<li>
+<strong>Personalization -</strong> We may share your information with a third party when we jointly offer a feature or service with that third party, such as connectivity with other applications or websites, to provide personalization to the Service.</li>
+<li>
+<strong>For the API -</strong> Certain features in the Service may allow for or be introduced to allow for integration between the Service and other third party services.
+In order for some features to be provided, some Personally Identifiable Information may need to be transferred between EMG and the third party service.</li>
+</ol>
+</li>
+<li>
+<strong>Legal reasons -</strong> We may also disclose your information (potentially even PII): <ol>
+<li>As required by law, such as to comply with a subpoena or similar legal process;</li>
+<li>When we believe in good faith that disclosure is necessary to protect our legal or property rights, protect your safety or the safety of Users or others, or respond to a government request;</li>
+<li>To protect against or investigate fraud or for risk management purposes;</li>
+<li>In connection with a merger between Escape Media Group and another entity, or in the event of a transfer of all or some of our assets to another company.
+You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li>
+</ol>
+</li>
+<li>
+<strong>Advertising.</strong> Advertisers are not given special access to a User's PII unless otherwise stated in this Policy or the Terms of Service.
+If you choose to follow an advertisement link, you do so at your own risk.
+EMG does not guarantee the safety or accuracy of any third party site, advertisement or product.
+Advertisers also have their own privacy policies and terms of service that must be carefully reviewed.</li>
+</ul>VI.
+Opt-Out: <ul>
+<li>If you, the User, object to the above treatment of your information, then please refrain from using the Service and follow this link to control the use and collection of your information, which may result in limited access to the Site and/or the Service.</li>
+</ul>VII.
+Data Security <ul>
+<li>EMG takes reasonable steps to protect information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
+EMG has in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</li>
 <li>The security of your personal information is important to us.
 When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).</li>
-</ul>
-<p>
-<strong>6.
-Enforcement</strong>
-</p>
-<ul>
-<li>EMG uses a self-assessment approach to ensure compliance with the Policy and Safe Harbor Principles.
-EMG periodically verifies that the Policy is accurate, accessible, and comprehensive as to issues regarding the user, prominently displayed, and completely implemented.
-We encourage users to address any inquiries, concerns, or complaints using the contact information listed on the Contact page.
-Upon such a request from an EEA/CH user, EMG will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information in accordance with the Principles of the Safe Harbor.</li>
-<li>Only for use relating to data that is received by EMG from users residing in the EEA/CH ("EEA/CH data subjects"), if a complaint cannot be resolved through our internal process, EMG agrees to dispute resolution through an independent recourse mechanism.
-Grooveshark complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.</li>
-</ul>
-<p>
-<strong>7.
-Minors</strong>
-</p>
-<ul>
-<li>EMG does not knowingly collect or solicit Personally Identifiable Information from or about children under age 13 except as permitted by law.
-If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately.
-If you believe EMG has any information from or about anyone under 13, please contact us at privacy@escapemg.com.
-</li>
-</ul>
-<p>
-<strong>8.
-Forum Selection and Choice of Law</strong>
-</p>
-<ul>
-<li>This Policy, which is an agreement between you and EMG, shall be governed by the laws of the State of Colorado without regard to its conflict of law provisions.
-You and EMG agree to submit to the personal and exclusive jurisdiction of the courts located within the State and County of Colorado.
-</li>
-</ul>
-<p>
-<strong>9.
-Indemnification</strong>
-</p>
-<ul>
-<li>You, the user, hereby indemnify and hold harmless, and upon EMG's request, defend, EMG and its affiliates (and their respective directors, officers and employees) from and against any and all losses, liabilities, damages, costs or expenses (including reasonable attorneys' fees and costs) arising out of any external party gaining access to and/or utilizing EMG's API in a way which violates EMG's API TOS (http://www.grooveshark.com/apitos).
-</li>
-</ul>
-<p>
-<strong>10.
-Privacy Policy Updates</strong>
-</p>
-<ul>
+<li>The Service contains links to other Internet websites which we do not operate and, conversely, other Internet websites may contain links to our Website.
+We are not aware of and are not responsible for the privacy policies, practices, or content of such other websites.
+We encourage visitors to read and become familiar with the privacy policies maintained by such other websites.</li>
+</ul>VIII.
+Minors: <ul>
+<li>EMG does not knowingly collect or solicit Personally Identifiable Information from or about children under age 13, and children under the age of 13 may not utilize any services provided by EMG except as permitted by law.
+If we discover we have received any information from a child under 13 in violation of this Policy, we will take necessary steps to remove that information immediately.
+If you believe EMG has any information from or about anyone under 13, please contact us at support@grooveshark.com.</li>
+</ul>IX.
+Forum Selection and Choice of Law: <ul>
+<li>This Policy, which is an agreement between you and EMG, shall be governed by the laws of the State of Florida without regard to its conflict of law provisions.
+Any dispute or legal proceeding relating to or arising from this Policy or your use of the Service will be adjudicated by a court of competent jurisdiction sitting in the state of Florida, County of Alachua, and you and EMG expressly consent to the personal jurisdiction of the State and Federal courts sitting in Alachua County, Florida.</li>
+</ul>X.
+Indemnification: <ul>
+<li>You, the User, hereby indemnify and hold harmless EMG, and upon EMG's request, will defend EMG and its affiliates (and their respective directors, officers and employees) from and against any and all losses, liabilities, damages, costs or expenses (including reasonable attorneys' fees and costs) arising out of your use of the Service, including but not limited to any such use which is not authorized under this Policy or the Terms of Use, or as a result of such use, any external party gaining access to and/or utilizing EMG's API in a way which violates EMG's API TOS (http://www.grooveshark.com/apitos).</li>
+</ul>XI.
+Privacy Policy Updates: <ul>
 <li>EMG is committed to protecting your privacy while providing you with a competitive and secure Service.
-As such, EMG will evaluate the terms of this Policy on a rolling basis and make necessary revisions to the Policy as new technology, law, and business concerns arise.
+As such, EMG will continuously evaluate this Policy and make necessary revisions to the Policy as new technology, law, and business concerns arise.
 Therefore, EMG may make periodic revisions or alterations to the Policy.
-EMG reserves the right to revise this agreement at any time, so please occasionally re-read this page.
-however, if material alterations occur, we will also provide Notice on our home page, by email, or by blog post.
-Nonetheless, any revisions will be posted to this page along with the most current date of revision.</li>
-</ul>
-<p>
-<strong>11.
-Contact</strong>
-</p>
+EMG reserves the right to revise this agreement at any time.
+If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
+We encourage you to periodically review this page for the latest information on our privacy practices.</li>
+</ul>XII.
+Consent to processing: <ul>
+<li>Use of Service in a manner that could subject EMG to jurisdiction or laws in any territory outside the United States is a violation of our Terms of Use.
+Nevertheless, if you use the Service outside of the United States, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in the United States and other countries or territories.
+The laws on holding personal information in the United States may vary and be less stringent than laws of your state or country.
+</li>
+</ul>XIII.
+Your California privacy rights: <ul>
+<li>California Civil Code Section 1798.83 permits Users who are California residents to request and obtain from us once a year a list of the third parties to whom we disclosed their personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties.
+If you wish to make such a request or have any questions about EMG's information sharing practices, you may contact us by sending us an email to support@grooveshark.com or write to us the address listed below.</li>
+</ul>XIV.
+Contact: <ul>
+<li>If you have any inquiries, complaints, or concerns about this Privacy Policy or the use of the Service, please email us at support@grooveshark.com.
+Inquiries can also be sent to our mailing address at: <br>
+<br>
 <ul>
-<li>If you have any inquiries, complaints, or concerns about the collection and dissemination of your data, please email us at support@grooveshark.com.
-Inquiries can also be sent to our mailing address at 201 SE 2nd Ave.
-Suite 209, Gainesville, FL 32601.</li>
+<li> Escape Media Group, Inc.
+(Grooveshark)<br> 201 SE 2nd Ave., Suite 201<br> Gainesville, FL 32601 </li>
 </ul>
-<p>
-<strong>12.
-Notice of Safe Harbor Compliance</strong>
-</p>
-<ul>
-<li>For the personally identifiable information of users received from the European Economic Area ("EEA"), EMG is committed to handling such personal information in accordance with the U.S.
-Department of Commerce's Safe Harbor Principles.
-EMG's Safe Harbor certification can be found at http://safeharbor.export.gov/list.aspx.
-For more information about the Safe Harbor Principles, please visit the U.S.
-Department of Commerce's Website at http://export.gov/safeharbor.</li>
-<li>EMG recognizes the European Union's comprehensive privacy and data protection legislation, the Directive on Data Protection 95/46/EC ("the Directive") which applies to the EEA.
-EMG also recognizes Switzerland's ("CH") Federal Act on Data Protection ("FADP").
-Together, these data protection regimes ("EEA/CH") restrict companies and other organizations from transferring personal data from the EEA/CH to countries that do not meet mandated "adequacy standards" for when it is received in third party countries, such as the United States.
-Based on the commitments and assertions of the Policy, EMG hereby asserts compliance with the Principles of the Safe Harbor.</li>
-<li>This Notice applies to EEA/CH data subjects.</li>
-<li>EMG gives EEA/CH data subjects the option of being able to request access to your information profile so that you may correct, amend, or delete information.</li>
+</li>
 </ul>
-<p>
-</p>
 <ul>
 <li>Legal Overview</li>
 <li>Terms of Service</li>
