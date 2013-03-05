@@ -1,16 +1,16 @@
 <sitename name="mint.com">
  <docname name="Terms of Use">
-   <url name="https://www.mint.com/how-it-works/security/terms/">
+   <url name="https://www.mint.com/how-it-works/security/terms/" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://www.mint.com/how-it-works/security/policy/">
+   <url name="https://www.mint.com/how-it-works/security/policy/" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Legal Information (Intuit)">
-   <url name="http://about.intuit.com/legal/">
+   <url name="http://about.intuit.com/legal/" xpath="//td[@id='contentBodyL']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

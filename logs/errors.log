@@ -3414,3 +3414,5 @@
 2013-03-04 00:13:27 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-04 00:14:21 -0600 - http://phonedeck.com/Legal/Privacy:	404 => Net::HTTPNotFound for https://phonedeck.com/Legal/Privacy -- unhandled response
 2013-03-04 00:14:46 -0600 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
+2013-03-04 19:42:14 -0500 - https://eu.static.mega.co.nz/pages/terms_2.html:	404 => Net::HTTPNotFound for https://eu.static.mega.co.nz/pages/terms_2.html -- unhandled response
+2013-03-04 19:42:15 -0500 - https://eu.static.mega.co.nz/pages/privacy_5.html:	404 => Net::HTTPNotFound for https://eu.static.mega.co.nz/pages/privacy_5.html -- unhandled response
