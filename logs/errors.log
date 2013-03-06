@@ -3431,3 +3431,20 @@
 2013-03-05 00:13:41 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-05 00:14:36 -0600 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
 2013-03-05 00:14:37 -0600 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html:	404 => Net::HTTPNotFound for http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html -- unhandled response
+2013-03-06 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-06 00:06:36 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-06 00:07:01 -0600 - http://www.collectionsetc.com/helpPrivacy.aspx:	404 => Net::HTTPNotFound for http://www.collectionsetc.com/helpPrivacy.aspx -- unhandled response
+2013-03-06 00:07:26 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-06 00:07:56 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-06 00:08:48 -0600 - https://www.blackboard.com/Footer/Security-Policy.aspx:	503 => Net::HTTPServiceUnavailable for https://www.blackboard.com/Footer/Security-Policy.aspx -- unhandled response
+2013-03-06 00:09:56 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-06 00:10:11 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-06 00:10:19 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-06 00:11:13 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-06 00:13:31 -0600 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html:	404 => Net::HTTPNotFound for http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html -- unhandled response
+2013-03-06 00:14:03 -0600 - http://www.godlikeproductions.com/privacy:	Connection timed out - connect(2)
+2013-03-06 00:14:16 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-06 00:15:01 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-06 00:16:29 -0600 - http://www.collectionsetc.com/helpPrivacy.aspx:	504 => Net::HTTPGatewayTimeOut for http://www.collectionsetc.com/helpPrivacy.aspx -- unhandled response
+2013-03-06 00:16:30 -0600 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-06 00:16:56 -0600 - http://www.godlikeproductions.com/privacy:	Connection timed out - connect(2)
