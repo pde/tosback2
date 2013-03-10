@@ -3480,3 +3480,18 @@
 2013-03-09 00:12:59 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-03-09 00:13:24 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-09 00:14:30 -0600 - http://www.af-medical.com/de/Privatsphaere-und-Datenschutz:	404 => Net::HTTPNotFound for http://www.af-medical.com/de/Privatsphaere-und-Datenschutz -- unhandled response
+2013-03-10 00:06:30 -0600 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-10 00:06:35 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-10 00:07:39 -0600 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-10 00:09:47 -0600 - http://www.locatetv.com/privacy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 13460160, last used 1362895787.2211075 seconds ago
+2013-03-10 00:10:45 -0600 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-10 00:10:58 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-10 00:11:07 -0600 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-10 00:12:02 -0600 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-10 00:14:13 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	Network is unreachable - connect(2)
+2013-03-10 00:14:57 -0600 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-10 00:15:23 -0600 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-10 00:16:05 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
+2013-03-10 00:16:55 -0600 - http://www.locatetv.com/privacy:	Connection timed out - connect(2)
+2013-03-10 00:17:16 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	Network is unreachable - connect(2)
+2013-03-10 00:17:16 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response

@@ -1,34 +1,31 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 3 commits.
+# Your branch is ahead of 'origin/master' by 4 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/Frontier.com/Terms of Service.txt
+#	modified:   ../crawl/Monkeybrains.net/All Policies.txt
 #	modified:   ../crawl/af-medical.com/Privacy Policy.txt
-#	modified:   ../crawl/agame.com/Privacy Policy.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
 #	modified:   ../crawl/amazon.com/Amazon App Suite Legal Notices.txt
-#	modified:   ../crawl/amazon.com/Conditions of Use.txt
 #	modified:   ../crawl/amazon.com/Kindle for Mac Legal Notices.txt
 #	modified:   ../crawl/amazon.com/Kindle for Windows 8 Legal Notices.txt
-#	modified:   ../crawl/bing.com/Privacy Policy.txt
-#	modified:   ../crawl/cnbc.com/Privacy Policy.txt
-#	modified:   ../crawl/economist.com/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Universal Terms Of Service.txt
-#	modified:   ../crawl/indeed.com/Privacy Policy.txt
+#	modified:   ../crawl/avis.com/Privacy Policy.txt
+#	modified:   ../crawl/irs.gov/Privacy Policy.txt
+#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
 #	modified:   ../crawl/linkedin.com/Privacy Policy.txt
-#	modified:   ../crawl/mainstreet.com/Privacy Policy.txt
-#	modified:   ../crawl/miracleworkers.com/Privacy Policy.txt
-#	modified:   ../crawl/motorola.com/Privacy Policy.txt
-#	modified:   ../crawl/nypost.com/Privacy Policy.txt
+#	modified:   ../crawl/locatetv.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
+#	modified:   ../crawl/officedepot.com/Privacy Policy.txt
 #	modified:   ../crawl/pcworld.com/Privacy Policy.txt
+#	modified:   ../crawl/progressive.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/staples.com/Privacy Policy.txt
 #	modified:   ../crawl/thepiratebay.org/Privacy Policy.txt
-#	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
