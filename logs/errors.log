@@ -3495,3 +3495,13 @@
 2013-03-10 00:16:55 -0600 - http://www.locatetv.com/privacy:	Connection timed out - connect(2)
 2013-03-10 00:17:16 -0600 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	Network is unreachable - connect(2)
 2013-03-10 00:17:16 -0600 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
+2013-03-11 00:06:31 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-11 00:06:38 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-11 00:07:46 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-11 00:08:47 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-11 00:08:58 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-11 00:09:08 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-11 00:10:05 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-11 00:11:34 -0500 - http://instagr.am/legal/privacy/:	504 => Net::HTTPGatewayTimeOut for http://instagram.com/legal/privacy/ -- unhandled response
+2013-03-11 00:12:50 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-11 00:13:15 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
