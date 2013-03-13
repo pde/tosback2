@@ -3518,3 +3518,15 @@
 2013-03-12 00:13:40 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-12 00:14:30 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
 2013-03-12 00:14:33 -0500 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2013-03-13 00:06:30 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-13 00:06:36 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-13 00:07:38 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-13 00:07:44 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-13 00:08:52 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-13 00:09:05 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-13 00:09:17 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-13 00:10:14 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-13 00:12:25 -0500 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-03-13 00:12:52 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-13 00:13:20 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-13 00:14:12 -0500 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
