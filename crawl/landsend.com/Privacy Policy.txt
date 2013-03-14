@@ -101,8 +101,21 @@ Blazers <ul>
 <li>
 </li>
 <li> New Arrivals </li>
+<li> Pants <ul>
+<li>Regular</li>
+<li>Tall</li>
+</ul>
+</li>
 <li> Polos, T-Shirts &amp.
 Turtlenecks <ul>
+<li>Regular</li>
+<li>Big</li>
+<li>Tall</li>
+</ul>
+</li>
+<li> Shorts &amp.
+Swimwear </li>
+<li> Sweaters <ul>
 <li>Regular</li>
 <li>Big</li>
 <li>Tall</li>
@@ -115,13 +128,6 @@ Ties <ul>
 <li>Tall</li>
 </ul>
 </li>
-<li> Pants <ul>
-<li>Regular</li>
-<li>Tall</li>
-</ul>
-</li>
-<li> Shorts &amp.
-Swimwear </li>
 <li> Sport Shirts <ul>
 <li>Regular</li>
 <li>Big</li>
@@ -135,25 +141,17 @@ Blazers <ul>
 <li>Short</li>
 </ul>
 </li>
+<li> Shoes <ul>
+<li>Regular</li>
+<li>Wide</li>
+</ul>
+</li>
 <li> Outerwear <ul>
 <li>Regular</li>
 <li>Big</li>
 <li>Tall</li>
 </ul>
 </li>
-<li> Sweaters <ul>
-<li>Regular</li>
-<li>Big</li>
-<li>Tall</li>
-</ul>
-</li>
-<li> Shoes <ul>
-<li>Regular</li>
-<li>Wide</li>
-</ul>
-</li>
-<li> Belts &amp.
-Accessories </li>
 <li> Socks &amp.
 Underwear </li>
 <li> Sleepwear <ul>
@@ -161,6 +159,8 @@ Underwear </li>
 <li>Tall</li>
 </ul>
 </li>
+<li> Belts &amp.
+Accessories </li>
 <li> Activewear <ul>
 <li>Regular</li>
 <li>Tall</li>
@@ -497,6 +497,95 @@ Travel Accessories
 </li>
 <li> Sale
 </li>
+</ul>
+</li>
+<li> For the Home <ul>
+<li>
+</li>
+<li> Home <ul>
+<li> New Arrivals </li>
+<li> Bedding </li>
+<li> Bedding Collections </li>
+<li> Pillows, Comforters &amp.
+Basics </li>
+<li> Blankets &amp.
+Throws </li>
+<li> Decorative Pillows &amp.
+Home Décor </li>
+<li> Seasonal Décor &amp.
+Gifts </li>
+<li> Bath </li>
+<li> Beach Towels </li>
+<li> Outdoor Living </li>
+<li> Furniture </li>
+<li> Kids' Home </li>
+<li> Totes &amp.
+Bags </li>
+<li> Dog Shop </li>
+<li> Sale </li>
+</ul>
+</li>
+<li>   </li>
+<li> Luggage <ul>
+<li> Backpacks &amp.
+Lunch Boxes
+</li>
+<li> Totes
+</li>
+<li> Duffel Bags
+</li>
+<li> Carry-on Luggage
+</li>
+<li> Wheeled Luggage
+</li>
+<li> Upright Luggage
+</li>
+<li> Kids' Luggage
+</li>
+<li> Briefcases &amp.
+Laptop Bags
+</li>
+<li> Toiletry Kits &amp.
+Travel Accessories
+</li>
+<li> Diaper Bags
+</li>
+<li> Sale
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li> For the Home <ul>
+<li>
+</li>
+<li> New Arrivals </li>
+<li> Bedding </li>
+<li> Bedding Collections </li>
+<li> Pillows, Comforters &amp.
+Basics </li>
+<li> Blankets &amp.
+Throws </li>
+<li> Decorative Pillows &amp.
+Home Décor </li>
+<li> Seasonal Décor &amp.
+Gifts </li>
+<li> Bath </li>
+<li> Outdoor Living </li>
+<li> Backpacks &amp.
+Lunch Boxes </li>
+<li> Totes &amp.
+Bags </li>
+<li> Luggage </li>
+<li> Briefcases &amp.
+Laptop Bags </li>
+<li> Furniture </li>
+<li> Kids' Home </li>
+<li> Toiletry Kits &amp.
+Travel Accessories </li>
+<li> Dog Shop </li>
+<li> For the Home Sale </li>
+<li> Luggage Sale </li>
 </ul>
 </li>
 <li> Sale <ul>
