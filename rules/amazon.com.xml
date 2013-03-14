@@ -54,4 +54,9 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
+ <docname name="Third Party Licenses">
+   <url name="http://www.amazon.com/b/?&amp;node=200910440" xpath="//div[@id='centercolatf']/div[@class='unified_widget rcmBody']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
 </sitename>
