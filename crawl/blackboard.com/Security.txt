@@ -1,0 +1,37 @@
+ Vulnerability Management Commitment and Disclosure Policy for Blackboard Learn™ <p>Blackboard is committed to resolving security vulnerabilities quickly and carefully.
+Such resolutions may lead to the release of a Security Advisory and/or any needed product update for our customers.
+In order to protect our customers and their data, we request that vulnerabilities be responsibly and confidentially reported to us so that we may investigate and respond.
+Vulnerabilities should not be announced until we have developed and comprehensively tested a product update and made it available to licensed customers.</p>
+<p>Blackboard’s products are complex.
+They run on diverse hardware and software configurations, and are connected to many third party applications.
+All software modifications – big or small -- require thorough analysis, as well as development and implementation across multiple product lines and versions.
+The software must also undergo localization, accessibility, and testing appropriate to its scope, complexity and severity.
+Given the critical importance of our products to our customers, Blackboard must ensure that they run correctly not only in our testing facilities, but also in customer environments.
+Accordingly, Blackboard cannot provide product updates according to a set timeline -- but we are committed to working expeditiously.</p>
+<p>Malicious parties often exploit software vulnerabilities by reverse engineering published security advisories and product updates.
+It is important for customers to update software promptly and use our severity rating system as a guide to better schedule upgrades.
+Therefore, public discussion of the vulnerability is only appropriate after customers have an opportunity to obtain product updates.</p> Testing for Security Vulnerabilities <p>You should conduct all vulnerability testing against non-production instances of our products to minimize the risk to data and services.</p> How to Report a Vulnerability <ul>
+<li>Confidentially share details of the potential vulnerability by sending an email to <strong>learnsecurity@blackboard.com</strong>
+</li>
+<li>Provide details of the potential vulnerability so the Blackboard security team may validate and reproduce the issue quickly.
+Without the above information, it may be difficult if not impossible to address the potential vulnerability.
+Reports listing numerous potential vulnerabilities without detail will not be addressed without further clarification.
+Details should include: <ul>
+<li>Type of vulnerability;</li>
+<li>Whether the information has been published or shared with other parties;</li>
+<li>Affected products and versions;</li>
+<li>Affected configurations.
+and</li>
+<li>Step-by-step instructions or proof-of-concept code to reproduce the issue.</li>
+</ul>
+</li>
+</ul>Blackboard Security Commitment <p>To all vulnerability reporters who follow this Policy, Blackboard will attempt to do the following:</p>
+<ul>
+<li>Acknowledge the receipt of your report;</li>
+<li>Investigate in a timely manner, confirming where possible the potential vulnerability;</li>
+<li>Provide a plan and timeframe for addressing the vulnerability if appropriate.
+and</li>
+<li>Notify the vulnerability reporter when the vulnerability has been resolved.</li>
+</ul>Acknowledging Contribution <p>With the agreement of the vulnerability reporter, Blackboard may acknowledge the reporter's contribution during the public disclosure of the vulnerability so long as the reporter complies with this policy.
+Blackboard does not compensate for reporting security vulnerabilities.</p> Changes in Policy <p>Blackboard is committed to improving its security policy and as such, may update or amend this policy at any time with or without notice to you.
+If you have any questions regarding this policy, please email us at <strong>learnsecurity@blackboard.com</strong>.</p> 
