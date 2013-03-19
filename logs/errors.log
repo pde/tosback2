@@ -3599,3 +3599,16 @@
 2013-03-18 00:13:20 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-18 00:14:07 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
 2013-03-18 00:14:07 -0500 - http://www.oxygen.com/legal/privacyPolicy.aspx:	500 => Net::HTTPInternalServerError for http://www.oxygen.com/legal/privacyPolicy.aspx -- unhandled response
+2013-03-19 00:06:27 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-19 00:06:33 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-19 00:07:34 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-19 00:07:41 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-19 00:09:06 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
+2013-03-19 00:09:22 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-19 00:09:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-19 00:09:42 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-19 00:10:35 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-19 00:10:38 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-19 00:12:56 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-19 00:13:24 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-19 00:15:21 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
