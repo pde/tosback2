@@ -3612,3 +3612,19 @@
 2013-03-19 00:12:56 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-03-19 00:13:24 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-19 00:15:21 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-20 00:06:30 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-20 00:06:36 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-20 00:07:17 -0500 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-20 00:07:31 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-20 00:07:37 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-20 00:08:13 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	getaddrinfo: Name or service not known
+2013-03-20 00:08:29 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-20 00:08:42 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-20 00:08:50 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-20 00:09:43 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-20 00:09:48 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-20 00:13:53 -0500 - http://www.godlikeproductions.com/privacy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 12590880, last used 1363756433.630546 seconds ago
+2013-03-20 00:14:02 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-20 00:14:29 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-20 00:15:19 -0500 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-03-20 00:15:22 -0500 - http://www.godlikeproductions.com/privacy:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 12590880, last used 1363756522.5993624 seconds ago
