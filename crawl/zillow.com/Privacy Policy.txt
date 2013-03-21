@@ -58,14 +58,10 @@ Advice
 <ul>
 <li>Real Estate Advice</li>
 <li>Zillow FAQs</li>
-<li>Home Buying Advice</li>
-<li>Home Selling Advice</li>
-<li>Mortgage Advice</li>
-<li>Rental Advice</li>
+<li>Mortgage Center</li>
 <li>Foreclosure Center</li>
 </ul>
 <dl>
-<dt>Tools</dt>
 <dd>Ask a Question</dd>
 </dl>
 </li>
@@ -95,7 +91,7 @@ Local Info<dl>
 </dl>
 </li>
 <li>
-newDigs<sup>TM</sup>
+newDigs<sup>™</sup>
 <ul>
 <li>Bathrooms</li>
 <li>Bedrooms</li>
@@ -112,6 +108,7 @@ More <i>▼</i>
 <li>Widgets, Badges &amp.
 Data</li>
 <li>Zillow Visuals</li>
+<dd>Zillow Research</dd>
 <li>Help</li>
 </ul>
 <dl>
@@ -120,7 +117,6 @@ Data</li>
 </dt>
 <dd>Zillow Blog</dd>
 <dd>Zillow Pros Blog</dd>
-<dd>Zillow Research</dd>
 <dd>Zillow Engineering</dd>
 </dl>
 </li>
