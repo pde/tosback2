@@ -3666,3 +3666,16 @@
 2013-03-23 00:09:45 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
 2013-03-23 00:12:37 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-03-23 00:13:05 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-24 00:06:28 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-24 00:06:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-24 00:07:45 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-24 00:07:51 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-24 00:08:50 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-24 00:09:00 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-24 00:09:09 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-24 00:09:41 -0500 - http://www.ebags.com/help/index.cfm?fuseaction=privacy:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 18401900, last used 1364101781.1038601 seconds ago
+2013-03-24 00:10:09 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-24 00:10:14 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-24 00:12:51 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-24 00:13:15 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-24 00:16:07 -0500 - http://www.ebags.com/help/index.cfm?fuseaction=privacy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 18401900, last used 1364102167.6835418 seconds ago
