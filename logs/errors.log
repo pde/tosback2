@@ -3690,3 +3690,19 @@
 2013-03-25 00:09:57 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
 2013-03-25 00:12:35 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
 2013-03-25 00:13:03 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-26 00:06:28 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-26 00:06:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-26 00:07:56 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-26 00:08:04 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-26 00:09:00 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-26 00:09:10 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-26 00:09:19 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-26 00:09:55 -0500 - http://www.khanacademy.org/about/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.khanacademy.org/about/privacy-policy -- unhandled response
+2013-03-26 00:10:12 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-26 00:10:17 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-26 00:12:41 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-26 00:12:54 -0500 - http://www.peekyou.com/about/corporate/site/privacy_policy/:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.peekyou.com/about/corporate/site/privacy_policy/ -- unhandled response
+2013-03-26 00:13:05 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-26 00:13:29 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-03-26 00:13:52 -0500 - http://www.khanacademy.org/about/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.khanacademy.org/about/privacy-policy -- unhandled response
+2013-03-26 00:13:53 -0500 - http://www.peekyou.com/about/corporate/site/privacy_policy/:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.peekyou.com/about/corporate/site/privacy_policy/ -- unhandled response
