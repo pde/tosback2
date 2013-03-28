@@ -3724,3 +3724,19 @@
 2013-03-27 00:13:12 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-03-27 00:13:37 -0500 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
 2013-03-27 00:13:37 -0500 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-03-28 00:06:27 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-03-28 00:06:33 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-28 00:07:26 -0500 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-03-28 00:07:28 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-03-28 00:07:34 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-03-28 00:07:48 -0500 - http://www.ning.com/about/legal/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.ning.com/about/legal/privacy/ -- unhandled response
+2013-03-28 00:08:27 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-03-28 00:08:41 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-28 00:08:50 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-03-28 00:09:42 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-03-28 00:09:45 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-03-28 00:09:45 -0500 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
+2013-03-28 00:12:03 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-03-28 00:12:30 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-03-28 00:13:19 -0500 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.eastbay.com/ns/error/sitedown.html -- unhandled response
+2013-03-28 00:13:19 -0500 - http://www.champssports.com/customerserv/help:privacyPolicy/:	503 => Net::HTTPServiceUnavailable for http://www.champssports.com/ns/error/sitedown.html -- unhandled response
