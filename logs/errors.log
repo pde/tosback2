@@ -3780,3 +3780,19 @@
 2013-03-31 00:14:13 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-03-31 00:14:59 -0500 - http://www.khanacademy.org/about/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.khanacademy.org/about/privacy-policy -- unhandled response
 2013-03-31 00:15:00 -0500 - http://www.peekyou.com/about/corporate/site/privacy_policy/:	503 => Net::HTTPServiceUnavailable for http://www.google.com/sorry/misc/?continue=http://www.peekyou.com/about/corporate/site/privacy_policy/ -- unhandled response
+2013-04-01 00:06:27 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-01 00:06:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-01 00:07:33 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-01 00:07:38 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-01 00:07:52 -0500 - http://www.dell.com/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=000:	500 => Net::HTTPInternalServerError for http://www.dell.com/learn/terms-of-sale?c=us&l=en&s=gen&~section=000&redirect=1&delphi:gr=true -- unhandled response
+2013-04-01 00:08:31 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-01 00:08:41 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-01 00:08:49 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-01 00:09:49 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-01 00:09:53 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-01 00:10:44 -0500 - http://www.llbean.com/customerService/privacy/index.html:	404 => Net::HTTPNotFound for http://www.llbean.com/customerService/privacy/index.html -- unhandled response
+2013-04-01 00:11:28 -0500 - http://www.modnique.com/faqs/modnique_faq_privacy:	503 => Net::HTTPServiceUnavailable for http://www.modnique.com/faqs/modnique_faq_privacy -- unhandled response
+2013-04-01 00:12:30 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-01 00:12:59 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-04-01 00:13:46 -0500 - http://www.llbean.com/customerService/privacy/index.html:	404 => Net::HTTPNotFound for http://www.llbean.com/customerService/privacy/index.html -- unhandled response
+2013-04-01 00:13:46 -0500 - http://www.modnique.com/faqs/modnique_faq_privacy:	503 => Net::HTTPServiceUnavailable for http://www.modnique.com/faqs/modnique_faq_privacy -- unhandled response
