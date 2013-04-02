@@ -3796,3 +3796,19 @@
 2013-04-01 00:12:59 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-04-01 00:13:46 -0500 - http://www.llbean.com/customerService/privacy/index.html:	404 => Net::HTTPNotFound for http://www.llbean.com/customerService/privacy/index.html -- unhandled response
 2013-04-01 00:13:46 -0500 - http://www.modnique.com/faqs/modnique_faq_privacy:	503 => Net::HTTPServiceUnavailable for http://www.modnique.com/faqs/modnique_faq_privacy -- unhandled response
+2013-04-02 00:07:37 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-02 00:07:43 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-02 00:08:45 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-02 00:08:51 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-02 00:09:44 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-02 00:10:00 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-02 00:10:08 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-02 00:11:04 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-02 00:11:08 -0500 - http://photobucket.com/privacyPolicy:	503 => Net::HTTPServiceUnavailable for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-02 00:14:15 -0500 - http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 20981340, last used 1364879655.8275084 seconds ago
+2013-04-02 00:15:41 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-02 00:16:08 -0500 - http://www.fairpoint.com/global/fp_privacypolicy/index.jsp:	Connection timed out - connect(2)
+2013-04-02 00:16:27 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-04-02 00:16:35 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-04-02 00:17:14 -0500 - http://www.fairpoint.com/global/fp_privacypolicy/index.jsp:	Network is unreachable - connect(2)
+2013-04-02 00:17:15 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
