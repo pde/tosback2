@@ -89,7 +89,7 @@ time of visit.
 </ul>
 <p>E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use.
 IP addresses, etc., are <em>not</em> linked to personally identifiable information.
-In other words, although we know precisely <em>what</em> a user may have done during a particular visit to our site, we do not know <em>which</em> user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics, ChartBeat, and ClickTale who also serve web beacons and cookies on the site.
+In other words, although we know precisely <em>what</em> a user may have done during a particular visit to our site, we do not know <em>which</em> user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and ChartBeat.
 </p> Communications <p>
 <b>E-Insure Services</b> restricts its communications to those users who have established accounts on the <strong>einsurance.com</strong> website.
 These communications fall into two general categories:</p>
