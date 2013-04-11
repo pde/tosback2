@@ -11,7 +11,7 @@
 We are also extremely sensitive to family and educator concerns about their children's personal information and safety.
 We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone.
 This privacy statement tells you how and why we collect information from you, and how we use that information.
-Please note that your use of this Site is also subject to the Terms of Use (of which this privacy statement is a part) posted on this site.
+Please note that your use of this Site is also subject to the the Terms of Use (of which this privacy statement is a part) posted on this site.
 </p>
 <p>We encourage our visitors to read through and understand our privacy statement.
 We may update it from time to time to address new issues or reflect changes on our site.
@@ -230,4 +230,4 @@ Any such purchases by mobile device are also subject to the terms of service and
 <li>Call us at: 1-800-498-3264 </li>
 </ul>
 <br>  Rights | Privacy | Terms of Use<br>© 2000-2013 Pearson Education, Inc.
-All rights reserved <br>  
+All rights reserved <br>  Fatal error: Call to undefined function tv_ifsite() in /site/html/template/fen.com/trailer.php on line 264
