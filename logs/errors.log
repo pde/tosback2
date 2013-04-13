@@ -3966,3 +3966,19 @@
 2013-04-12 00:14:08 -0500 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
 2013-04-12 00:14:08 -0500 - http://www.readwriteweb.com/about/privacy-policy.php:	404 => Net::HTTPNotFound for http://www.readwriteweb.com/about/privacy-policy.php -- unhandled response
 2013-04-12 00:14:08 -0500 - http://www.y8.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.y8.com/privacy -- unhandled response
+2013-04-13 00:06:28 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-13 00:06:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-13 00:07:40 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-13 00:07:47 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-13 00:08:50 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-13 00:09:03 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-13 00:09:11 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-13 00:09:27 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-13 00:09:59 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-13 00:10:03 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-13 00:12:45 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-13 00:13:11 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-04-13 00:13:19 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
+2013-04-13 00:13:35 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-13 00:15:54 -0500 - http://www.thomasnet.com/privacy.html:	too many connection resets (due to end of file reached - EOFError) after 0 requests on 14046820, last used 1365830154.8952465 seconds ago
+2013-04-13 00:17:57 -0500 - http://www.thomasnet.com/privacy.html:	too many connection resets (due to end of file reached - EOFError) after 0 requests on 14046820, last used 1365830277.8954675 seconds ago
