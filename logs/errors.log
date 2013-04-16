@@ -4015,3 +4015,23 @@
 2013-04-15 00:13:49 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-04-15 00:13:57 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
 2013-04-15 00:14:13 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-16 00:06:26 -0500 - https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD:	Connection reset by peer - SSL_connect
+2013-04-16 00:06:33 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-16 00:06:39 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-16 00:07:55 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-16 00:08:02 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-16 00:09:01 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-16 00:09:14 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-16 00:09:32 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-16 00:09:47 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-16 00:10:30 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-16 00:10:36 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-16 00:12:39 -0500 - http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html:	404 => Net::HTTPNotFound for http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html -- unhandled response
+2013-04-16 00:12:40 -0500 - http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/terms-of-service.html:	404 => Net::HTTPNotFound for http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/terms-of-service.html -- unhandled response
+2013-04-16 00:13:06 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-16 00:13:33 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-04-16 00:13:42 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-04-16 00:13:57 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-16 00:14:26 -0500 - https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD:	Connection reset by peer - SSL_connect
+2013-04-16 00:14:26 -0500 - http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html:	404 => Net::HTTPNotFound for http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html -- unhandled response
+2013-04-16 00:14:27 -0500 - http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/terms-of-service.html:	404 => Net::HTTPNotFound for http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/terms-of-service.html -- unhandled response
