@@ -9,13 +9,13 @@ or its affiliates.</p>2.
 Trademark Notices<p>Amazon, the Amazon logo, Kindle, the AmazonKindle logo, and Whispersync are trademarks of Amazon.com, Inc.
 or its affiliates.
 </p>3.
-Copyright Notices<p>Kindle for Mac software © 2010-2012 Amazon.com, Inc.
+Copyright Notices<p>Kindle for Mac software ? 2010-2012 Amazon.com, Inc.
 or its affiliates.
 All rights reserved.</p>4.
 Other Notices<p>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).</p>
 <p>All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.</p>B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS<p>Amazon.com, Inc.
-and its affiliates (“Amazon”) respect the intellectual property of others.
-If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon’s copyright agent the written information specified below.
+and its affiliates (?Amazon?) respect the intellectual property of others.
+If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon?s copyright agent the written information specified below.
 Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed.</p>
 <p>- An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
 <br> - A description of the copyrighted work that you claim has been infringed upon.
@@ -42,7 +42,7 @@ If you use it in a program, you must acknowledge somewhere in your documentation
 <p>In legalese:</p>
 <p>The authors make NO WARRANTY or representation, either express or implied, with respect to this software, its quality, accuracy, merchantability, or fitness for a particular purpose.
 This software is provided "AS IS", and you, its user, assume the entire risk as to its quality and accuracy.</p>
-<p>This software is © 1991-1998, Thomas G.
+<p>This software is ? 1991-1998, Thomas G.
 Lane.
 All rights reserved except as specified below.</p>
 <p>Permission is hereby granted to use, copy, modify, and distribute this software (or portions thereof) for any purpose, without fee, subject to these conditions:</p>
@@ -74,7 +74,7 @@ For this reason, support for arithmetic coding has been removed from the free JP
 To avoid entanglement with the Unisys LZW patent, GIF reading support has been removed altogether, and the GIF writer has been simplified to produce "uncompressed GIFs".
 This technique does not use the LZW algorithm.
 the resulting GIF files are larger than usual, but are readable by all standard GIF decoders.</p>
-<p>We are required to state that "The Graphics Interchange Format© is the Copyright property of CompuServe Incorporated.
+<p>We are required to state that "The Graphics Interchange Format? is the Copyright property of CompuServe Incorporated.
 GIF(sm) is a Service Mark property of CompuServe Incorporated."</p>2.
 Notices for OpenSSL Software.<p>The OpenSSL toolkit stays under a dual license, i.e.
 both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit.
@@ -160,29 +160,29 @@ All Rights Reserved.</p>
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <p>Except as contained in this notice, the name of Daniel Veillard shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.</p>
-<p>Trio.c, trio.h© 1998 Bjorn Reese and Daniel Stenberg.</p>
-<p>Triostr.h, triostr.c © 2001 Bjorn Reese and Daniel Stenberg.</p>
-<p>List.c © 2000 Gary Pennington and Daniel Veillard.</p>
-<p>Hash.c, triop.h © 2000 Bjorn Reese and Daniel Veillard.</p>
-<p>Trionan.c, triode.h, trionan.h © 2001 Bjorn Reese.</p>
+<p>Trio.c, trio.h? 1998 Bjorn Reese and Daniel Stenberg.</p>
+<p>Triostr.h, triostr.c ? 2001 Bjorn Reese and Daniel Stenberg.</p>
+<p>List.c ? 2000 Gary Pennington and Daniel Veillard.</p>
+<p>Hash.c, triop.h ? 2000 Bjorn Reese and Daniel Veillard.</p>
+<p>Trionan.c, triode.h, trionan.h ? 2001 Bjorn Reese.</p>
 <p>Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.</p>
 <p>THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.</p>5.
-Notices for XML Security Library Software.<p>xmlsec, xmlsec-openssl, xmlsec-gnutls, xmlsec-gcrypt libraries © 2002-2010 Aleksey Sanin.
+Notices for XML Security Library Software.<p>xmlsec, xmlsec-openssl, xmlsec-gnutls, xmlsec-gcrypt libraries ? 2002-2010 Aleksey Sanin.
 All Rights Reserved.</p>
-<p>xmlsec-mscrypto library © 2002-2010 Aleksey Sanin.
+<p>xmlsec-mscrypto library ? 2002-2010 Aleksey Sanin.
 All Rights Reserved.
-© 2003 Cordys R&amp;D BV, All rights reserved.
-© 2007 Roumen Petrov.
-© 2005-2006 Cryptocom LTD (http://www.cryptocom.ru).</p>
+? 2003 Cordys R&amp;D BV, All rights reserved.
+? 2007 Roumen Petrov.
+? 2005-2006 Cryptocom LTD (http://www.cryptocom.ru).</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE ALEKSEY SANIN BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <p>Except as contained in this notice, the name of Aleksey Sanin shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.</p>
-<p>xmlsec-nss library © 2002-2010 Aleksey Sanin.
+<p>xmlsec-nss library ? 2002-2010 Aleksey Sanin.
 All Rights Reserved.
-© 2003 America Online, Inc.
+? 2003 America Online, Inc.
 All rights reserved.</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
@@ -194,7 +194,7 @@ IN NO EVENT SHALL THE ALEKSEY SANIN BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LI
 <p>Except as contained in this notice, the name of Aleksey Sanin shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.</p>6.
 Notices for Webkit Software.<p>a.
 Terms Applicable to Webkit [MODIFICATION NOTICE]</p>
-<p>Portions of WebKit are licensed under a form of the BSD License, while other portions of Webkit are licensed under the Lesser General Public License, Version 2.1 (“LGPL”).
+<p>Portions of WebKit are licensed under a form of the BSD License, while other portions of Webkit are licensed under the Lesser General Public License, Version 2.1 (?LGPL?).
 Please refer to the individual files to determine the license terms that apply to each file.
 The BSD License is directly below, while a copy of the LGPL can be found at the end of this section.
 You may redistribute and/or modify the LGPL portions of Webkit under the terms of the LGPL.
@@ -218,10 +218,10 @@ OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
 <p>b.
 Names and Copyright Notices</p>
 <p>The following are the names of the Webkit Software used with this product and the copyright notices for the Webkit Software:</p>
-<p>- WebKit, WebCore, and JavaScriptCore - © 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J.
+<p>- WebKit, WebCore, and JavaScriptCore - ? 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J.
 Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G.
-Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.</p>7.
-Notices for Cxlmage Software.<p>© 07/Aug/2001, Davide Pizzolato.</p>
+Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschal?r, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.</p>7.
+Notices for Cxlmage Software.<p>? 07/Aug/2001, Davide Pizzolato.</p>
 <p>This software is provided 'as-is', without any express or implied warranty.
 In no event will the authors be held liable for any damages arising from the use of this software.</p>
 <p>Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:</p>
@@ -235,7 +235,7 @@ Altered source versions must be plainly marked as such, and must not be misrepre
 This notice may not be removed or altered from any source distribution.</p>
 <p>8.
 Notices for ICU Software.</p>
-<p>© 1995-2011 International Business Machines Corporation and others.
+<p>? 1995-2011 International Business Machines Corporation and others.
 </p>
 <p>All rights reserved.
 </p>
@@ -248,7 +248,7 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIA
 </p>D.
 FULL TEXT FOR CERTAIN SOFTWARE LICENSES.<p>GNU LESSER GENERAL PUBLIC LICENSE</p>
 <p>Version 2.1, February 1999.
-© 1991, 1999 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+? 1991, 1999 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
 <p>[This is the first released version of the Lesser GPL.
 It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1.]</p>
@@ -421,4 +421,4 @@ SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICI
 <p>16.
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
 <p>END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE</p>
-<p>© 19982003 Free Software Foundation, Inc.</p> Search Help: <strong>Ask the Community</strong>: Post your question in the General Help Forum or Kindle Help Forum.
+<p>? 1998?2003 Free Software Foundation, Inc.</p> Search Help: <strong>Ask the Community</strong>: Post your question in the General Help Forum or Kindle Help Forum.
