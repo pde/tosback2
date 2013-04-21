@@ -4103,3 +4103,20 @@
 2013-04-20 00:12:53 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
 2013-04-20 00:13:02 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
 2013-04-20 00:13:15 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-21 00:06:20 -0500 - http://www.imgw.com/privacy.htm:	too many connection resets (due to Connection reset by peer - Errno::ECONNRESET) after 0 requests on 19003880, last used 1366520780.7197084 seconds ago
+2013-04-21 00:06:29 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-21 00:06:35 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-21 00:07:36 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-21 00:07:44 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-21 00:08:39 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-21 00:08:51 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-21 00:09:03 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-21 00:09:16 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-21 00:09:48 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-21 00:09:53 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-21 00:12:11 -0500 - http://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy:	500 => Net::HTTPInternalServerError for https://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy -- unhandled response
+2013-04-21 00:13:48 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-21 00:14:13 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.carbonunity.com/privacy-policy -- unhandled response
+2013-04-21 00:14:22 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-04-21 00:14:35 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-21 00:14:59 -0500 - http://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy:	500 => Net::HTTPInternalServerError for https://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy -- unhandled response
