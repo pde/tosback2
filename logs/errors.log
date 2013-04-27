@@ -4229,3 +4229,26 @@
 2013-04-26 00:14:04 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-04-26 00:14:32 -0500 - http://mall.soc.io/PrivacyPolicy:	connection refused: mall.soc.io:80
 2013-04-26 00:14:33 -0500 - http://ww2.justanswer.com/privacy-security:	503 => Net::HTTPServiceUnavailable for http://ww2.justanswer.com/privacy-security -- unhandled response
+2013-04-27 00:06:23 -0500 - https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD:	Connection reset by peer - SSL_connect
+2013-04-27 00:06:29 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-27 00:06:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-27 00:07:53 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-27 00:07:59 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-27 00:09:04 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-27 00:09:28 -0500 - http://www.quakelive.com/legals/privacy_policy:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/privacy_policy -- unhandled response
+2013-04-27 00:09:49 -0500 - http://www.quakelive.com/legals/eula:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/eula -- unhandled response
+2013-04-27 00:10:10 -0500 - http://www.quakelive.com/legals/terms_of_use:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/terms_of_use -- unhandled response
+2013-04-27 00:10:31 -0500 - http://www.quakelive.com/legals/notices:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/notices -- unhandled response
+2013-04-27 00:10:38 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-27 00:10:50 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-27 00:11:04 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-27 00:11:34 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-27 00:11:39 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-27 00:13:42 -0500 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/j -- unhandled response
+2013-04-27 00:14:13 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-27 00:14:42 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-04-27 00:14:51 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
+2013-04-27 00:15:06 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-27 00:15:30 -0500 - https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD:	Connection reset by peer - SSL_connect
+2013-04-27 00:15:51 -0500 - http://www.quakelive.com/legals/privacy_policy:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/privacy_policy -- unhandled response
+2013-04-27 00:16:12 -0500 - http://www.quakelive.com/legals/eula:	502 => Net::HTTPBadGateway for http://www.quakelive.com/legals/eula -- unhandled response
