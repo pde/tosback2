@@ -4267,3 +4267,22 @@
 2013-04-28 00:13:10 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
 2013-04-28 00:15:22 -0500 - http://www.gather.com/privacy.jsp:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 17812580, last used 1367126122.6604526 seconds ago
 2013-04-28 00:15:34 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-29 00:06:31 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-29 00:06:37 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-29 00:07:33 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-29 00:07:40 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-29 00:08:24 -0500 - http://www.sologig.com/s/privacy:	Connection timed out - connect(2)
+2013-04-29 00:09:00 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-29 00:09:12 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-29 00:09:22 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-29 00:09:33 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-29 00:09:55 -0500 - http://www.guardian.co.uk/help/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.guardian.co.uk/help/privacy-policy -- unhandled response
+2013-04-29 00:10:18 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-29 00:10:22 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-29 00:13:57 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-29 00:14:21 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-04-29 00:14:30 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-04-29 00:14:34 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-04-29 00:14:45 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-29 00:15:11 -0500 - http://www.guardian.co.uk/help/privacy-policy:	500 => Net::HTTPInternalServerError for http://www.guardian.co.uk/help/privacy-policy -- unhandled response
+2013-04-29 00:15:11 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
