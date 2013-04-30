@@ -4286,3 +4286,26 @@
 2013-04-29 00:14:45 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-04-29 00:15:11 -0500 - http://www.guardian.co.uk/help/privacy-policy:	500 => Net::HTTPInternalServerError for http://www.guardian.co.uk/help/privacy-policy -- unhandled response
 2013-04-29 00:15:11 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-04-30 00:06:29 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-04-30 00:06:36 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-30 00:07:42 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-04-30 00:07:49 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-04-30 00:08:51 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-04-30 00:08:53 -0500 - http://www.quakelive.com/legals/privacy_policy:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/privacy_policy -- unhandled response
+2013-04-30 00:08:53 -0500 - http://www.quakelive.com/legals/eula:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/eula -- unhandled response
+2013-04-30 00:08:53 -0500 - http://www.quakelive.com/legals/terms_of_use:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/terms_of_use -- unhandled response
+2013-04-30 00:08:54 -0500 - http://www.quakelive.com/legals/notices:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/notices -- unhandled response
+2013-04-30 00:09:09 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-30 00:09:18 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-04-30 00:09:31 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-04-30 00:10:02 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-04-30 00:10:07 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-04-30 00:12:19 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-04-30 00:12:45 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-04-30 00:12:53 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
+2013-04-30 00:12:57 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-04-30 00:13:09 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/privacy_policy:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/privacy_policy -- unhandled response
+2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/eula:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/eula -- unhandled response
+2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/terms_of_use:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/terms_of_use -- unhandled response
+2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/notices:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/notices -- unhandled response
