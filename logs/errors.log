@@ -4309,3 +4309,26 @@
 2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/eula:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/eula -- unhandled response
 2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/terms_of_use:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/terms_of_use -- unhandled response
 2013-04-30 00:13:33 -0500 - http://www.quakelive.com/legals/notices:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/notices -- unhandled response
+2013-05-01 00:06:43 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-01 00:06:49 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-01 00:07:53 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-05-01 00:07:59 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-01 00:08:41 -0500 - http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles:	getaddrinfo: Name or service not known
+2013-05-01 00:09:27 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-05-01 00:09:30 -0500 - http://www.quakelive.com/legals/privacy_policy:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/privacy_policy -- unhandled response
+2013-05-01 00:09:30 -0500 - http://www.quakelive.com/legals/eula:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/eula -- unhandled response
+2013-05-01 00:09:30 -0500 - http://www.quakelive.com/legals/terms_of_use:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/terms_of_use -- unhandled response
+2013-05-01 00:09:30 -0500 - http://www.quakelive.com/legals/notices:	403 => Net::HTTPForbidden for http://www.quakelive.com/legals/notices -- unhandled response
+2013-05-01 00:09:40 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-01 00:09:52 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-01 00:10:05 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-05-01 00:10:22 -0500 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2013-05-01 00:10:41 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-01 00:10:45 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-01 00:13:15 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-01 00:13:46 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-01 00:13:55 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-05-01 00:13:59 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-05-01 00:15:03 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-01 00:15:52 -0500 - http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles:	getaddrinfo: Name or service not known
+2013-05-01 00:15:52 -0500 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
