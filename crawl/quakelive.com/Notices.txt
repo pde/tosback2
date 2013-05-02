@@ -1,1 +1,365 @@
 
+QUAKE LIVE Legal Notices <p>
+QUAKE LIVE © 2007-2012, Id Software LLC.
+All Rights Reserved.
+QUAKE LIVE, QUAKE and ID are trademarks or registered trademarks of Id Software LLC in the United States and/or other countries.
+All other trademarks and trade names are the properties of their respective owners.
+</p>
+<p>
+QUAKE LIVE may utilize any of the following software libraries.
+</p>
+<p>
+<b>
+<u>gloox C++ Jabber/XMPP Library</u>
+</b>
+<br>
+Copyright (c) 2004-2009 Jakob Schröter, http://camaya.net/gloox<br>
+Author: Jakob Schröter<br>
+Privately licensed for commercial use by Id Software LLC.
+</p>
+<p>
+<b>
+<u>This product uses the following libraries under the terms of the MIT License</u>
+</b>
+</p>
+<p>
+<b>
+<u>jQuery</u>
+</b>
+<br>
+Copyright (c) 2009 John Resig, http://jquery.com/
+</p>
+<p>
+<b>
+<u>jQuery.Dimensions</u>
+</b>
+<br>
+Copyright (c) 2007 Paul Bakaus, paul.bakaus (at) googlemail (dot) com and Brandon Aaron, Brandon.aaron (at) gmail (dot) com | http://brandonaaron.net </p>
+<p>
+<b>
+<u>jQuery.Form</u>
+</b>
+<br>
+Copyright (c) 2008, Examples and documentation at http://malsup.com/jquery/form
+</p>
+<p>
+<b>
+<u>jQuery.PositionBy &amp.
+jQuery.jdMenu</u>
+</b>
+<br>
+Copyright (c) 2006, 2007 Jonathan Sharp, http://jdsharp.us
+</p>
+<p>
+<b>
+<u>jQuery.BGIFrame</u>
+</b>
+<br>
+Copyright (c) 2008 Brandon Aaron, Brandon.aaron (at) gmail (dot) com | http://brandonaaron.net
+</p>
+<p>
+<b>
+<u>jQuery.Thickbox</u>
+</b>
+<br>
+Copyright (c) 2007 Cody Lindley, http://www.codylindley.com
+</p>
+<p>
+<b>
+<u>jQuery.AjaxQueue</u>
+</b>
+<br>
+Homepage: http://jquery.com/plugins/project/ajaxqueue<br>
+Documentation: http://docs.jquery.com/AjaxQueue
+</p>
+<p>
+<b>
+<u>jQuery.ScrollTo</u>
+</b>
+<br>
+Copyright (c) 2007-2008 Ariel Flesler aflesler (at) gmail (dot) com | http://flesler.blogspot.com
+</p>
+<p>
+<b>
+<u>jqModal</u>
+</b>
+<br>
+Copyright (c) 2007 Brice Burgess &lt;bhb (at) iceburg (dot) net&gt;, http://www.iceburg.net
+</p>
+<p>
+<u>MIT License (http://www.opensource.org/licenses/mit-license.php):</u>
+<br>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+</p>
+<p>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</p>
+<p>
+This product includes PHP software, freely available from http://www.php.net/software/
+</p>
+<p>
+<u>The PHP License, version 3.01</u>
+<br>
+Copyright (c) 1999 - 2008 The PHP Group.
+All rights reserved.
+</p>
+<p>
+Redistribution and use in source and binary forms, with or without modification, is permitted provided that the following conditions are met:
+</p>
+<blockquote>
+<p>1.
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</p>
+<p>2.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</p>
+<p>3.
+The name "PHP" must not be used to endorse or promote products derived from this software without prior written permission.
+For written permission, please contact group@php.net.</p>
+<p>4.
+Products derived from this software may not be called "PHP", nor may "PHP" appear in their name, without prior written permission from group@php.net.
+You may indicate that your software works in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or "phpfoo"</p>
+<p>5.
+The PHP Group may publish revised and/or new versions of the license from time to time.
+Each version will be given a distinguishing version number.
+Once covered code has been published under a particular version of the license, you may always continue to use it under the terms of that version.
+You may also choose to use such covered code under the terms of any subsequent version of the license published by the PHP Group.
+No one other than the PHP Group has the right to modify the terms applicable to covered code created under this License.</p>
+<p>6.
+Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;.</p>
+</blockquote>
+<p>
+THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE PHP DEVELOPMENT TEAM OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES.
+LOSS OF USE, DATA, OR PROFITS.
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<br>
+----------------------------<br>
+This software consists of voluntary contributions made by many individuals on behalf of the PHP Group.
+</p>
+<p>
+The PHP Group can be contacted via Email at group (at) php (dot) net.<br>
+For more information on the PHP Group and the PHP project, please see &lt;http://www.php.net&gt;.
+</p>
+<p>
+PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.
+</p>
+<p>
+<b>
+<u>
+The following libraries are used/licensed under the terms of the <br>
+GNU Lesser General Public License (LGPL)</u>
+</b>
+</p>
+<p>
+<b>
+<u>Smarty - the PHP compiling template engine</u>
+</b>
+<br>
+Copyright (c) 2001-2005 New Digital Group, Inc.
+All Rights Reserved.<br>
+http://www.smarty.net<br>
+Author: Monte Ohrt, monte (at) ohrt (dot) com<br>
+Author: Andrei Zmievski, andrei (at) php (dot) net
+</p>
+<p>
+<b>
+<u>Securimage - A PHP class for creating and managing form CAPTCHA images</u>
+</b>
+<br>
+Copyright (c) 2007 Drew Phillips.
+All Rights Reserved<br>
+http://www.phpcaptcha.org<br>
+Author: Drew Phillips, drew (at) drew-phillips (dot) com
+</p>
+<p>
+<b>
+<u>IE5.5+ PNG Alpha Fix</u>
+</b>
+<br>
+Copyright (c) 2004-2008 Angus Turnbull.
+All Rights Reserved.<br>
+http://www.twinhelix.com<br>
+Author: Angus Turnbull
+</p>
+<p>
+<u>GNU LESSER GENERAL PUBLIC LICENSE</u>
+<br>
+Version 3, 29 June 2007
+</p>
+<p>
+Copyright (C) 2007 Free Software Foundation, Inc.
+&lt;http://fsf.org/&gt;<br>
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+</p>
+<p>
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+</p>
+<p>
+0.
+Additional Definitions.
+</p>
+<p>
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License.
+</p>
+<p>
+"The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+</p>
+<p>
+An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library.
+Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
+</p>
+<p>
+A "Combined Work" is a work produced by combining or linking an Application with the Library.
+The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
+</p>
+<p>
+The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
+</p>
+<p>
+The "Corresponding Application Code" for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work.
+</p>
+<p>
+1.
+Exception to Section 3 of the GNU GPL.
+</p>
+<p>
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+</p>
+<p>
+2.
+Conveying Modified Versions.
+</p>
+<p>
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
+</p>
+<blockquote>
+<p>
+a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
+</p>
+<p>
+b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+</p>
+</blockquote>
+<p>
+3.
+Object Code Incorporating Material from Library Header Files.
+</p>
+<p>
+The object code form of an Application may incorporate material from a header file that is part of the Library.
+You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
+</p>
+<blockquote>
+<p>
+a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+</p>
+<p>
+b) Accompany the object code with a copy of the GNU GPL and this license document.
+</p>
+</blockquote>
+<p>
+4.
+Combined Works.
+</p>
+<p>
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
+</p>
+<blockquote>
+<p>
+a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+</p>
+<p>
+b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+</p>
+<p>
+c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+</p>
+<p>
+d) Do one of the following:
+</p>
+<blockquote>
+<p>
+0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.
+</p>
+<p>
+1) Use a suitable shared library mechanism for linking with the Library.
+A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version.
+</p>
+</blockquote>
+<p>
+e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version.
+(If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code.
+If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+</p>
+</blockquote>
+<p>
+5.
+Combined Libraries.
+</p>
+<p>
+You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
+</p>
+<blockquote>
+<p>
+a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+</p>
+<p>
+b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+</p>
+</blockquote>
+<p>
+6.
+Revised Versions of the GNU Lesser General Public License.
+</p>
+<p>
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time.
+Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+</p>
+<p>
+Each version is given a distinguishing version number.
+If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation.
+If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
+</p>
+<p>
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
+</p>
+<p>
+<b>
+<u>This product utilizes the XML-RPC remote procedure calling specification and protocol</u>
+</b>
+</p>
+<p>
+<b>
+<u>XML-RPC</u>
+</b>
+<br>
+Copyright (c) 1998-2003 UserLand Software.
+All Rights Reserved<br>
+http://www.xmlrpc.com
+</p>
+<p>
+<u>License</u>
+<br>
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and these paragraphs are included on all such copies and derivative works.
+</p>
+<p>
+This document may not be modified in any way, such as by removing the copyright notice or references to UserLand or other organizations.
+Further, while these copyright restrictions apply to the written XML-RPC specification, no claim of ownership is made by UserLand to the protocol it describes.
+Any party may, for commercial or non-commercial purposes, implement this protocol without royalty or license fee to UserLand.
+The limited permissions granted herein are perpetual and will not be revoked by UserLand or its successors or assigns.
+</p>
+<p>
+This document and the information contained herein is provided on an "AS IS" basis and USERLAND DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+</p>
+<p>
+This product uses the following map source under the terms of the Open Game Source License (OGSL).
+bubctf1-src.map by ButterB was used in the creation of 'Skyward', released under the ..::LvL Open Game Source License.
+</p>
+<p>
+About the ..::LvL Open Game Source License <br>
+<br>
+The ..::LvL Open Game Source License (OGSL) has been set-up to encourage creators of game add-ons and content to release their source files publicly for use and modification.
+OGSL requires the creators of new content to recognise the original Author(s) work while giving the creator full freedom.<br>
+<br>
+For more information about OGSL, including a blank template visit:<br>
+http://lvl.sourceforge.net/lvl-ogsl.php
+</p> 

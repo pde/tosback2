@@ -4332,3 +4332,28 @@
 2013-05-01 00:15:03 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-05-01 00:15:52 -0500 - http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles:	getaddrinfo: Name or service not known
 2013-05-01 00:15:52 -0500 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2013-05-02 00:06:31 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-02 00:06:37 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-02 00:07:21 -0500 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-05-02 00:07:35 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-05-02 00:07:41 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-02 00:08:47 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-05-02 00:09:01 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-02 00:09:09 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-02 00:09:21 -0500 - http://www.worldmarket.com/category/customer-service/privacy-and-security.do:	504 => Net::HTTPGatewayTimeOut for http://www.worldmarket.com/category/customer-service/privacy-and-security.do -- unhandled response
+2013-05-02 00:10:01 -0500 - http://ww2.cox.com/aboutus/policies/your-privacy-rights.cox:	getaddrinfo: Name or service not known
+2013-05-02 00:10:45 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-05-02 00:11:16 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-02 00:11:17 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-02 00:11:20 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-02 00:14:15 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-02 00:14:46 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-02 00:14:51 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-02 00:15:13 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-02 00:15:21 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
+2013-05-02 00:16:28 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-05-02 00:16:38 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-02 00:17:06 -0500 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	404 => Net::HTTPNotFound for http://www.directv.com/DTVAPP/content/legal/privacy_policy -- unhandled response
+2013-05-02 00:17:07 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-02 00:17:07 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-02 00:17:07 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
