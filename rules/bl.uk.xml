@@ -1,0 +1,18 @@
+
+<sitename name="bl.uk">
+ <docname name="Privacy Statement">
+   <url name="http://www.bl.uk/aboutus/terms/privacy/index.html" xpath="//div[@id='maincol']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Copyright and Your use of the British Library Website">
+   <url name="http://www.bl.uk/aboutus/terms/copyright/index.html" xpath="//div[@id='maincol']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Legal Disclaimer">
+   <url name="http://www.bl.uk/aboutus/terms/legal/index.html" xpath="//div[@id='maincol']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

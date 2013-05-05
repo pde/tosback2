@@ -1,0 +1,13 @@
+
+<sitename name="instagram.com">
+ <docname name="Terms of Service">
+   <url name="http://instagram.com/legal/terms/" xpath="//div[@class='root']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="http://instagram.com/legal/privacy/" xpath="//div[@class='root']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
