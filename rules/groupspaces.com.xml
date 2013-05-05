@@ -1,7 +1,7 @@
 
 <sitename name="groupspaces.com">
  <docname name="Terms of Service">
-   <url name="http://groupspaces.com/c/terms" xpath="/">
+   <url name="http://groupspaces.com/c/terms" xpath="//div[@id='popupbody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,0 +1,8 @@
+
+<sitename name="lockerz.com">
+ <docname name="Terms of Service">
+   <url name="http://support.lockerz.com/entries/515604-Terms-of-Use" xpath="//div[@class='user_formatted header_section clearfix']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

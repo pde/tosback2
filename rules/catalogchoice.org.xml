@@ -1,7 +1,7 @@
 
 <sitename name="catalogchoice.org">
  <docname name="Terms of Service">
-   <url name="https://www.catalogchoice.org/tos" xpath="/">
+   <url name="https://www.catalogchoice.org/tos" xpath="//div[@class='first-column grid_10']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

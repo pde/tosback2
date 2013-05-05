@@ -1,7 +1,7 @@
 
 <sitename name="turnitin.com">
  <docname name="Terms of Service">
-   <url name="http://turnitin.com/static/aboutus/usage.php" xpath="/">
+   <url name="http://turnitin.com/static/aboutus/usage.php" xpath="//div[@id='system']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

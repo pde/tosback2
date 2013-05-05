@@ -1,7 +1,7 @@
 
 <sitename name="bbc.co.uk">
  <docname name="Terms of Service">
-   <url name="http://www.bbc.co.uk/terms/personal.shtml" xpath="/">
+   <url name="http://www.bbc.co.uk/terms/personal.shtml" xpath="//div[@id='prg-wrapper-featured']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

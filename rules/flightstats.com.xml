@@ -1,7 +1,7 @@
 
 <sitename name="flightstats.com">
  <docname name="Terms of Service">
-   <url name="http://www.flightstats.com/go/About/termsOfUse.do" xpath="/">
+   <url name="http://www.flightstats.com/go/About/termsOfUse.do" xpath="//td[@id='mainAreaLeftColumn']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

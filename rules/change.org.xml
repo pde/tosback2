@@ -1,7 +1,7 @@
 
 <sitename name="change.org">
  <docname name="Terms of Service">
-   <url name="https://www.change.org/static/user_agreement.html" xpath="/">
+   <url name="https://www.change.org/static/user_agreement.html">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

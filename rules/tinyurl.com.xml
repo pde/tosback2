@@ -1,7 +1,7 @@
 
 <sitename name="tinyurl.com">
  <docname name="Terms of Service">
-   <url name="http://tinyurl.com/#terms" xpath="/">
+   <url name="http://tinyurl.com/#terms" xpath="//div[@style='float:left; width:700px']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

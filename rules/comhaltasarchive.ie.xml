@@ -1,7 +1,7 @@
 
 <sitename name="comhaltasarchive.ie">
  <docname name="Terms of Service">
-   <url name="http://comhaltasarchive.ie/terms" xpath="/">
+   <url name="http://comhaltasarchive.ie/terms" xpath="//div[@id='faq_terms']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
