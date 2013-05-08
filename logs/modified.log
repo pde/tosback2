@@ -1,34 +1,42 @@
 These files were modified since the last commit:
 
 # On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/about.com/Privacy Policy.txt
 #	modified:   ../crawl/agweb.com/Privacy Policy.txt
+#	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
+#	modified:   ../crawl/barnesandnoble.com/Privacy Policy.txt
 #	modified:   ../crawl/bathandbodyworks.com/Privacy Policy.txt
 #	modified:   ../crawl/bathandbodyworks.com/Terms of Service.txt
-#	modified:   ../crawl/bodybuilding.com/Privacy Policy.txt
+#	modified:   ../crawl/bing.com/Privacy Policy.txt
+#	modified:   ../crawl/clubpenguin.com/Privacy Policy.txt
+#	modified:   ../crawl/comhaltasarchive.ie/Terms of Service.txt
 #	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
-#	modified:   ../crawl/directv.com/Privacy Policy.txt
-#	modified:   ../crawl/fitbit.com/Privacy Policy.txt
+#	modified:   ../crawl/consumersearch.com/Privacy Policy.txt
 #	modified:   ../crawl/gmx.net/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Civil Subpoena Policy.txt
+#	modified:   ../crawl/hsbc.com/Privacy Policy.txt
+#	modified:   ../crawl/iegallery.com/Privacy Policy.txt
 #	modified:   ../crawl/imgur.com/Terms of Service.txt
-#	modified:   ../crawl/kruxdigital.com/Privacy Policy.txt
-#	modified:   ../crawl/linkedin.com/Privacy Policy.txt
-#	modified:   ../crawl/motorola.com/Privacy Policy.txt
+#	modified:   ../crawl/irs.gov/Privacy Policy.txt
+#	modified:   ../crawl/npr.org/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/opencongress.org/Terms of Service.txt
+#	modified:   ../crawl/onlineshoes.com/Privacy Policy.txt
 #	modified:   ../crawl/pcworld.com/Privacy Policy.txt
-#	modified:   ../crawl/simplyhired.com/Privacy Policy.txt
+#	modified:   ../crawl/pocruises.com/Privacy Policy.txt
+#	modified:   ../crawl/progress.audiusa.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
 #	modified:   ../crawl/sprint.com/Privacy Policy.txt
-#	modified:   ../crawl/statefarm.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
 #	modified:   ../crawl/thepiratebay.org/Privacy Policy.txt
-#	modified:   ../crawl/wayfair.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
-#	modified:   ../crawl/windstream.com/Term of Service.txt
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
