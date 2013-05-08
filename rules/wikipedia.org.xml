@@ -1,7 +1,11 @@
 <sitename name="wikipedia.org">
  <docname name="Privacy Policy">
-   <url name="https://wikimediafoundation.org/wiki/Privacy_policy">
+   <url name="https://wikimediafoundation.org/wiki/Privacy_policy" xpath="//*[@id=&quot;mw-content-text&quot;]">
      <norecurse name="arbitrary"/>
    </url>
+ </docname>
+ <docname name="Terms of Use">
+  <url name="https://wikimediafoundation.org/wiki/Terms_of_Use" xpath="//*[@id=&quot;mw-content-text&quot;]">
+  </url>
  </docname>
 </sitename>
