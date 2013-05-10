@@ -4499,3 +4499,25 @@
 2013-05-09 00:14:15 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
 2013-05-09 00:14:16 -0500 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
 2013-05-09 00:14:17 -0500 - http://company.zynga.com/about/privacy-center/privacy-policy#sharing-information:	503 => Net::HTTPServiceUnavailable for http://company.zynga.com/about/privacy-center/privacy-policy#sharing-information -- unhandled response
+2013-05-10 00:06:38 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-10 00:06:45 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-10 00:07:48 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-05-10 00:07:55 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-10 00:09:02 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-05-10 00:09:14 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-10 00:09:31 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-10 00:09:44 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-05-10 00:10:17 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-10 00:10:17 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-10 00:10:20 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-10 00:11:26 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
+2013-05-10 00:11:49 -0500 - http://www.simplyhired.com/a/legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.simplyhired.com/a/legal/privacy -- unhandled response
+2013-05-10 00:12:19 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-10 00:12:58 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-10 00:13:04 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-10 00:14:32 -0500 - http://www.carbonunity.com/privacy-policy:	connection refused: www.carbonunity.com:80
+2013-05-10 00:14:53 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy -- unhandled response
+2013-05-10 00:15:13 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-10 00:17:27 -0500 - http://www.golfchannel.com/about/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23578960, last used 1368163047.0785985 seconds ago
+2013-05-10 00:17:35 -0500 - http://www.simplyhired.com/a/legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.simplyhired.com/a/legal/privacy -- unhandled response
+2013-05-10 00:19:35 -0500 - http://www.golfchannel.com/about/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23578960, last used 1368163175.7391188 seconds ago
