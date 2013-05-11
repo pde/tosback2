@@ -1,6 +1,6 @@
 <sitename name="jcpenney.com">
  <docname name="Privacy Policy">
-   <url name="http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&#x26;CatID=12490&#x26;cmResetCat=True&#x26;CmCatId=homepage">
+   <url name="http://www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp?pageId=pg4003700012&lang=en&navAction=push&navCount=1" xpath="/html/body/div[4]/div/div[6]/div[3]/div/div/div">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
