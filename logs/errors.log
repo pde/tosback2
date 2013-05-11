@@ -4521,3 +4521,23 @@
 2013-05-10 00:17:27 -0500 - http://www.golfchannel.com/about/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23578960, last used 1368163047.0785985 seconds ago
 2013-05-10 00:17:35 -0500 - http://www.simplyhired.com/a/legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.simplyhired.com/a/legal/privacy -- unhandled response
 2013-05-10 00:19:35 -0500 - http://www.golfchannel.com/about/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 23578960, last used 1368163175.7391188 seconds ago
+2013-05-11 00:06:28 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-11 00:06:35 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-11 00:08:01 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-05-11 00:08:08 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-11 00:09:15 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-05-11 00:09:28 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-11 00:09:39 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-11 00:09:51 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-05-11 00:10:28 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-11 00:10:29 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-11 00:10:31 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-11 00:11:48 -0500 - http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx -- unhandled response
+2013-05-11 00:12:00 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
+2013-05-11 00:12:51 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-11 00:13:33 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-11 00:13:39 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-11 00:14:01 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-11 00:14:10 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-05-11 00:14:28 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-11 00:14:53 -0500 - http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx -- unhandled response
