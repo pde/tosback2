@@ -1,11 +1,11 @@
 <sitename name="bloomberg.com">
  <docname name="Privacy Policy">
-   <url name="https://login.bloomberg.com/pages/privacy">
+   <url name="http://www.bloomberg.com/privacy" xpath="//div[@id='primary_content']">
      <norecurse name="arbitrary" />
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.bloomberg.com/notices/tos.html" xpath="/">
+   <url name="http://www.bloomberg.com/tos/" xpath="//div[@id='primary_content']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="amazon.com">
  <docname name="Amazon.com Privacy Notice">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=468496" xpath="//td[@class=&apos;center-col&apos;]/div/div[@class=&apos;section&apos;]">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=468496" xpath="//span[@class=&apos;small&apos;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>
@@ -55,12 +55,7 @@
    </url>
  </docname>
  <docname name="Third Party Licenses">
-   <url name="http://www.amazon.com/b/?&amp;node=200910440" xpath="//div[@id=&apos;centercolatf&apos;]/div[@class=&apos;unified_widget rcmBody&apos;]">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
-<docname name="Terms of Service">   
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou/180-0430910-0752712?ie=UTF8&amp;nodeId=508088" xpath="/">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&amp;nodeId=200910440&amp;qid=1368379047&amp;sr=1-1" xpath="//td[@class=&apos;center-col&apos;]/div[2]">
      <norecurse name="arbitrary" />
    </url>
  </docname>
