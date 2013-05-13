@@ -1,11 +1,11 @@
 <sitename name="foxnews.com">
  <docname name="Privacy Policy">
-   <url name="http://www.foxnews.com/about/privacy-policy/">
+   <url name="http://www.foxnews.com/about/privacy-policy/" xpath="//div[@id='content']">
      <norecurse name="arbitrary" />
    </url>
  </docname>
-<docname name="Terms of Service">   
-   <url name="http://www.foxnews.com/about/terms-of-use/" xpath="/">
+ <docname name="Terms of Service">   
+   <url name="http://www.foxnews.com/about/terms-of-use/" xpath="//div[@id='node-2']">
      <norecurse name="arbitrary" />
    </url>
  </docname>
