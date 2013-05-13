@@ -4562,3 +4562,23 @@
 2013-05-12 00:13:23 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
 2013-05-12 00:13:45 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-05-12 00:14:12 -0500 - http://www.opencongress.org/about/terms_of_service:	500 => Net::HTTPInternalServerError for http://www.opencongress.org/about/terms_of_service -- unhandled response
+2013-05-13 00:06:32 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-13 00:06:38 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-13 00:07:51 -0500 - http://www.avidaviator.com/privacy.html:	404 => Net::HTTPNotFound for http://www.avidaviator.com/privacy.html -- unhandled response
+2013-05-13 00:07:58 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-13 00:09:00 -0500 - http://megavideo.com/?c=privacy:	getaddrinfo: No address associated with hostname
+2013-05-13 00:09:12 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-13 00:09:47 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-13 00:09:59 -0500 - http://www.frontdoor.com/buy/privacy-policy/611:	404 => Net::HTTPNotFound for http://www.frontdoor.com/real-estate/learn-more-about-our-privacy-policy -- unhandled response
+2013-05-13 00:10:30 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-13 00:10:31 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-13 00:10:33 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-13 00:11:19 -0500 - http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx -- unhandled response
+2013-05-13 00:11:32 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
+2013-05-13 00:12:28 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-13 00:12:28 -0500 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/j -- unhandled response
+2013-05-13 00:13:33 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-13 00:13:40 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-13 00:14:03 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-13 00:14:14 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-05-13 00:14:33 -0500 - http://pinterest.com/about/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
