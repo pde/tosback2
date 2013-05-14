@@ -1,7 +1,12 @@
 <sitename name="pinterest.com">
  <docname name="Privacy Policy">
-   <url name="http://pinterest.com/about/privacy/" xpath="//div[@id='legal']">
-     <norecurse name="arbitrary"/>
+   <url name="http://about.pinterest.com/privacy/" xpath="//div[@id='bd']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms of Service">   
+   <url name="http://about.pinterest.com/terms/" xpath="//div[@id='bd']">
+     <norecurse name="arbitrary" />
    </url>
  </docname>
 </sitename>

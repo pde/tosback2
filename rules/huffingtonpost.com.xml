@@ -1,7 +1,12 @@
 <sitename name="huffingtonpost.com">
  <docname name="Privacy Policy">
-   <url name="http://www.huffingtonpost.com/privacy/" xpath="//div[@id='privacy-policy']">
-     <norecurse name="arbitrary"/>
+   <url name="http://www.huffingtonpost.com/privacy/" xpath="//div[@id=&apos;privacy-policy&apos;]">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms and Conditions">   
+   <url name="http://www.huffingtonpost.com/terms.html" xpath="//div[@class='secondary_page no_bg grid']">
+     <norecurse name="arbitrary" />
    </url>
  </docname>
 </sitename>

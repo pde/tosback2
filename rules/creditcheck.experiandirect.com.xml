@@ -1,0 +1,7 @@
+<sitename name="creditcheck.experiandirect.com">
+  <docname name="Terms of Service">   
+    <url name="https://creditcheck.experiandirect.com/autoselect/Message.aspx?PageTypeID=TermsConditions" xpath="//div[@id='TandC_page']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

@@ -1,7 +1,12 @@
 <sitename name="go.com">
  <docname name="Privacy Policy">
-   <url name="http://corporate.disney.go.com/corporate/pp.html">
-     <norecurse name="arbitrary"/>
+   <url name="http://corporate.disney.go.com/corporate/pp.html" xpath="//div[@id='TERMS']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms of Use">   
+   <url name="http://corporate.disney.go.com/corporate/terms.html" xpath="//div[@id='TERMS']">
+     <norecurse name="arbitrary" />
    </url>
  </docname>
 </sitename>

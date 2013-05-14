@@ -1,8 +1,0 @@
-
-<sitename name="amtrakconnect.com">
- <docname name="Web Notices and Terms of Use">
-   <url name="http://www.amtrak.com/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1241305463068" xpath="//div[@id='content_body']">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
-</sitename>

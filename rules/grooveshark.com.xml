@@ -1,6 +1,11 @@
 <sitename name="grooveshark.com">
  <docname name="Privacy Policy">
-   <url name="http://www.grooveshark.com/privacy">
+   <url name="http://www.grooveshark.com/privacy" xpath="//div[@class=&apos;first legal&apos;]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://www.grooveshark.com/terms" xpath="//dl[@id='tos']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

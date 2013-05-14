@@ -1,0 +1,12 @@
+<sitename name="code.google.com">
+	<docname name="Google Project Hosting - Additional Terms">   
+	  <url name="https://code.google.com/projecthosting/terms.html" xpath="//div[@id='gc-home']">
+	    <norecurse name="arbitrary" />
+	  </url>
+	</docname>
+	<docname name="Google Project Hosting - User Content and Conduct Policy">   
+	 <url name="http://code.google.com/projecthosting/policy.html" xpath="//div[@id='gc-home']">
+	   <norecurse name="arbitrary" />
+	 </url>
+	</docname>
+</sitename>

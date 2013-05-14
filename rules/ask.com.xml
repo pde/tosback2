@@ -1,7 +1,12 @@
 <sitename name="ask.com">
  <docname name="Privacy Policy">
-   <url name="http://www.ask.com/about/legal/privacy?o=0&#x26;l=dir">
-     <norecurse name="arbitrary"/>
+   <url name="http://about.ask.com/privacy-policy/" xpath="//div[@class='whiteBox pressSinglePost']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms of Service">   
+   <url name="http://about.ask.com/terms-of-service/" xpath="//div[@class='whiteBox pressSinglePost']">
+     <norecurse name="arbitrary" />
    </url>
  </docname>
 </sitename>
