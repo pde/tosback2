@@ -5,7 +5,7 @@
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.imdb.com/help/show_article?conditions" xpath="/">
+   <url name="http://www.imdb.com/help/show_article?conditions" xpath="//div[@id='tn15']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

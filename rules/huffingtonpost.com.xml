@@ -4,8 +4,8 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
-<docname name="Terms of Service">   
-   <url name="http://www.huffingtonpost.com/terms.html" xpath="/">
+<docname name="Terms and Conditions">   
+   <url name="http://www.huffingtonpost.com/terms.html" xpath="//div[@class='secondary_page no_bg grid']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

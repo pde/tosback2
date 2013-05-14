@@ -5,7 +5,7 @@
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.latimes.com/services/site/lat-terms,0,5102799,full.story" xpath="/">
+   <url name="http://www.latimes.com/lat-terms,0,3345221,full.story" xpath="//div[@id='story-body-text']/div[@class='p402_premium']/node()[not(@class='articlerail') and not(@id='pmad-rail')]">
      <norecurse name="arbitrary" />
    </url>
  </docname>

@@ -5,7 +5,7 @@
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.yelp.com/static?p=tos" xpath="/">
+   <url name="http://www.yelp.com/static?p=tos" xpath="//div[@id=&apos;super-container&apos;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>

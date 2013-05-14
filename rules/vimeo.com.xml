@@ -5,7 +5,7 @@
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://vimeo.com/terms" xpath="/">
+   <url name="http://vimeo.com/terms" xpath="//div[@id='legal_doc']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

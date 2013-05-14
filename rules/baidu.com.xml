@@ -1,18 +1,18 @@
 <sitename name="baidu.com">
  <docname name="Copyright">
-  <url name="http://www.baidu.com/duty/copyright.html" xpath="/html/body/center/div/div[2]">
+  <url name="http://www.baidu.com/duty/copyright.html" xpath="//div[@class='dwri_bule']">
   </url>
  </docname>
  <docname name="Disclaimer">
-  <url name="http://www.baidu.com/duty/index.html" xpath="/html/body/center/div/div[2]">
+  <url name="http://www.baidu.com/duty/index.html" xpath="//div[@class='dwri_bule']">
   </url>
  </docname>
- <docname name="Copyright Notices & Counter-notices">
-  <url name="http://www.baidu.com/duty/right.html" xpath="/html/body/center/div/div[2]">
+ <docname name="Copyright Notices and Counter-notices">
+  <url name="http://www.baidu.com/duty/right.html" xpath="//div[@class='dwri_bule']">
   </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.baidu.com/duty/yinsiquan.html" xpath="/html/body/center/div/div[2]">
+   <url name="http://www.baidu.com/duty/yinsiquan.html" xpath="//div[@class='dwri_bule']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

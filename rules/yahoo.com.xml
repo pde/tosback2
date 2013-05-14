@@ -4,7 +4,7 @@
   </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://info.yahoo.com/privacy/us/yahoo/details.html" xpath="//div[@id=&apos;pp-content1&apos;]">
+   <url name="http://info.yahoo.com/privacy/us/yahoo/" xpath="//div[@id=&apos;pp-content1&apos;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>

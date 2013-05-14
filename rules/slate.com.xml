@@ -1,11 +1,11 @@
 <sitename name="slate.com">
  <docname name="Privacy Policy">
-   <url name="http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2005/01/_2.single.html" xpath="//div[@class=&apos;body parsys&apos;]">
+   <url name="http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html" xpath="//div[@class=&apos;body parsys&apos;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.slate.com/id/2111949/" xpath="/">
+   <url name="http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_terms_of_service.html" xpath="//div[@class=&apos;body parsys&apos;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>

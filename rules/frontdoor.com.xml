@@ -1,1 +1,12 @@
-scrippsnetworksinteractive.com.xml
+<sitename name="frontdoor.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.scrippsnetworksinteractive.com/privacy-policy" xpath="//*[@id=&quot;sectionPrimary&quot;]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.scrippsnetworksinteractive.com/terms-of-use" xpath="//*[@id=&quot;sectionPrimary&quot;]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,11 +1,11 @@
 <sitename name="microsoft.com">
  <docname name="Privacy Policy">
-   <url name="http://privacy.microsoft.com/en-us/fullnotice.mspx">
+   <url name="http://privacy.microsoft.com/en-us/fullnotice.mspx" xpath="/html/body/div[2]/div/node()[not(@width='165')]">
      <norecurse name="arbitrary" />
    </url>
  </docname>
-<docname name="Terms of Service">   
-   <url name="http://windows.microsoft.com/en-US/windows-live/microsoft-service-agreement" xpath="/">
+ <docname name="Terms of Service">   
+  <url name="http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement" xpath="//div[@id=&quot;S03&quot;]">
      <norecurse name="arbitrary" />
    </url>
  </docname>
