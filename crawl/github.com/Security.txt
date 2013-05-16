@@ -1,13 +1,13 @@
  GitHub Help <ul>
 <li> Contact Support </li>
 <li>Return to GitHub</li>
-</ul> Site Policy / GitHub Security Search Article last updated on 19-Apr-13 GitHub Security <ul>
+</ul> Site Policy / GitHub Security Search Article last updated on 15-May-13 GitHub Security <ul>
 <li> mac </li>
 <li> windows </li>
 <li> linux </li>
 <li> all </li>
 </ul>
-<p>We know your code is extremely important to you and your business and we're very protective of it.
+<p>We know your code is extremely important to you and your business, and we're very protective of it.
 After all, GitHub's code is hosted on GitHub, too!</p> Need to report a security vulnerability? <p>Please read our policy on Responsible Disclosure.</p> Physical Security <ul>
 <li>Data center access limited to Rackspace data center technicians</li>
 <li>Biometric scanning for controlled data center access</li>
@@ -38,16 +38,16 @@ All pushing and pulling of private data is done over SSH authenticated with keys
 <p>The SSH login credentials used to push and pull can not be used to access a shell or the filesystem.
 All users are virtual (meaning they have no user account on our machines) and are access controlled through the peer reviewed, open source git-shell.</p> File system and backups <p>Every piece of hardware we use has an identical copy ready and waiting for an immediate hot-swap in case of hardware or software failure.
 Every line of code we store is saved on a minimum of three different servers, including an off-site backup just in case a meteor ever hits the Rackspace datacenter (we'll keep our fingers crossed that doesn't happen).
-We do not retroactively remove repositories from backups when deleted by the user, as we may need to restore the repo for the user if it was removed accidentally.</p>
+We do not retroactively remove repositories from backups when deleted by the user, as we may need to restore the repository for the user if it was removed accidentally.</p>
 <p>We do not encrypt repositories on disk because it would not be any more secure: the website and git back-end would need to decrypt the repositories on demand, slowing down response times.
 Any user with shell access to the file system would have access to the decryption routine, thus negating any security it provides.
 Therefore, we focus on making our machines and network as secure as possible.</p> Employee access <p>No GitHub employees ever access private repositories unless required to for support reasons.
 Staff working directly in the file store access the compressed Git database, your code is never present as plaintext files like it would be in a local clone.
 Support staff may log into your account to access settings related to your support issue.
 In rare cases staff may need to pull a clone of your code, this will only be done with your consent.
-Support staff does not have direct access to clone any repo, they will need to temporarily attach their SSH key to your account to pull a clone.
+Support staff does not have direct access to clone any repository, they will need to temporarily attach their SSH key to your account to pull a clone.
 When working a support issue we do our best to respect your privacy as much as possible, we only access the files and settings needed to resolve your issue.
-All cloned repos are deleted as soon as the support issue has been resolved.</p> Maintaining security <p>We protect your login from brute force attacks with rate limiting.
+All cloned repositories are deleted as soon as the support issue has been resolved.</p> Maintaining security <p>We protect your login from brute force attacks with rate limiting.
 All passwords are filtered from all our logs and are encrypted in the database.
 Login information is always sent over SSL.</p>
 <p>We have full time security staff to help identify and prevent new attack vectors.
