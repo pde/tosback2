@@ -1,7 +1,7 @@
  GitHub Help <ul>
 <li> Contact Support </li>
 <li>Return to GitHub</li>
-</ul> Site Policy / GitHub Security Search Article last updated on 15-May-13 GitHub Security <ul>
+</ul> Site Policy / GitHub Security Search Article last updated on 16-May-13 GitHub Security <ul>
 <li> mac </li>
 <li> windows </li>
 <li> linux </li>
@@ -32,7 +32,7 @@ Operational Security <ul>
 <li>Fully documented change-management procedures</li>
 <li>Independently audited disaster recovery and business continuity plans in place for Rackspace headquarters and support services</li>
 </ul>
-Software Security <p>In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at to keep our software and its dependencies up to date eliminating potential security vulnerabilities.
+Software Security <p>In addition to Rackspace's system monitoring, we also employ a team of 24/7/365 server specialists at GitHub to keep our software and its dependencies up to date eliminating potential security vulnerabilities.
 We employ a wide range of monitoring solutions for preventing and eliminating attacks to the site.</p> Communications <p>All private data exchanged with GitHub is always transmitted over SSL (which is why your dashboard is served over HTTPS, for instance).
 All pushing and pulling of private data is done over SSH authenticated with keys, or over HTTPS using your GitHub username and password.</p>
 <p>The SSH login credentials used to push and pull can not be used to access a shell or the filesystem.
