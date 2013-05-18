@@ -1,6 +1,6 @@
 
 <p>
-<i>Updated May 7, 2013</i>
+<i>Updated May 17, 2013</i>
 </p>
 <p>We take your privacy seriously.
 Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc.
@@ -33,17 +33,20 @@ If you do not want any personal information shared, you may always decline to pa
 <li>
 <b>Device Information.</b> We may collect information about the browser, computer, mobile phone, smartphone or other device you use to access the Services to measure the effectiveness of those Services.</li>
 <li>
-<b>Cookies.</b> As further explained in Section 3, below, we may use cookies, pixel trackers, server logs, and any Internet technology in order to measure the effectiveness of the Services and any advertising campaigns, as well as to target meaningful content and ads to our users.</li>
+<b>Cookies.</b> As further explained in below, we may use cookies, pixel trackers, server logs, and any Internet technology in order to measure the effectiveness of the Services and any advertising campaigns, as well as to target meaningful content and ads to our users.</li>
 <li>
-<b>Geolocation Data.</b> For certain mobile applications we offer, we may (or may enable a third party, including an advertiser) request your geolocation information in order to provide you with ads, offers, search or other functionality.
-If you agree to such collection, we (or the third party) will maintain information regarding your geolocation and may use it to help enable that functionality, or other functionality we describe to you in a privacy notice provided with the mobile application.</li>
+<b>Geolocation Data.</b> For certain mobile applications we offer, we may (or may enable a third party, including an advertiser to) request your geolocation information in order to provide you with ads, offers, search or other functionality.
+If you agree to such collection, we (or the third party) will maintain information regarding your precise geolocation and may use it to help enable that functionality, or other functionality we describe to you in a privacy notice provided with the mobile application.
+<br>
+<br>In addition, we may (or may enable a third party, such as an advertiser to) capture IP Address level geo-location information when you access our Websites, and may use that geo-location information to targets ads or offers to you.
+That geo-location information might, for instance, be converted into country, region, or Zip Code-level data, in order to serve more relevant local ads or content.</li>
 <li>
 <b>Analytics.</b> We may use third parties to provide us information, reports and analysis about the usage and browsing patterns of users of the Services.
 These reports contain aggregated data only, and do not identify individual users.
 Please read here for more information about these third parties and the information they may be collecting.</li>
 <li>
 <b>IP Addresses.</b> We log Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes.
-We use this information in an aggregate fashion to track access to our Web sites and mobile applications.</li>
+We use this information in an aggregate fashion to track access to our Web sites and mobile applications, and may also use it to infer your location, as discussed in the above section titled Geolocation Data." This may help us to provide you with more geographically relevant content, ads or offers.</li>
 <li>
 <b>Log Files.</b> We may also automatically log certain usage information about your use of the Services.
 This information includes a reading history of the pages you view.</li>
@@ -119,6 +122,9 @@ In certain cases, you have options and choices about the collection and use of i
 <li>For more information on nRelate and opting out of browser history tracking, see: http://nrelate.com/privacy-policy/
 </li>
 </ul>
+<p>In addition to the above, we have implemented on our Services certain Google Analytics" features that support Display Advertising, including re-targeting.
+Visitors to our websites may opt out of Google Analytics, customize the Google Display Network ads by using the Google Ad Preferences Manager and learn more about how Google serves ads by viewing its Customer Ads Help Center.
+If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.</p>
 <p>In addition to Ad Servers and data management platforms, other third parties, including analytics services providers and companies with whom we have affiliate or linking agreements, may collect information about you directly through the Services.
 They may use cookies, pixel trackers, or other internet technology to collect non-personal information about your use of the Services.
 They may use this information to show you ads on other Web sites based on your demonstrated interests, or in some cases, your location.</p> Other Privacy Considerations <p>We may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).</p>
