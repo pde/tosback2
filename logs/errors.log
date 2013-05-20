@@ -4705,3 +4705,22 @@
 2013-05-19 00:17:23 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-05-19 00:17:42 -0500 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
 2013-05-19 00:17:50 -0500 - http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&template=customerService -- unhandled response
+2013-05-20 00:06:15 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-20 00:06:31 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-20 00:07:51 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-20 00:07:58 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-20 00:09:20 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-20 00:09:45 -0500 - http://www.telekom.de/dlp/agb/pdf/32643.pdf:	404 => Net::HTTPNotFound for http://www.telekom.de/dlp/agb/pdf/32643.pdf -- unhandled response
+2013-05-20 00:10:06 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-20 00:10:06 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-20 00:10:10 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-20 00:12:32 -0500 - http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx -- unhandled response
+2013-05-20 00:12:46 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
+2013-05-20 00:13:48 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-20 00:14:19 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-20 00:14:36 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-20 00:14:50 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-20 00:15:00 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-05-20 00:17:01 -0500 - http://thelawportal.co.uk/Privacy-policy.html:	404 => Net::HTTPNotFound for http://thelawportal.co.uk/Privacy-policy.html -- unhandled response
+2013-05-20 00:17:04 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-20 00:17:04 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
