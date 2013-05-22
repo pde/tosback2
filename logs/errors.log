@@ -4744,3 +4744,25 @@
 2013-05-21 00:14:23 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-05-21 00:14:23 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-05-21 00:15:36 -0500 - http://myoffers.co.uk/privacy_statement.aspx:	500 => Net::HTTPInternalServerError for http://myoffers.co.uk/privacy_statement.aspx -- unhandled response
+2013-05-22 00:06:10 -0500 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-05-22 00:06:15 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-22 00:07:03 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-22 00:08:25 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-22 00:08:32 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-22 00:09:57 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-22 00:10:19 -0500 - http://www.telekom.de/dlp/agb/pdf/32643.pdf:	404 => Net::HTTPNotFound for http://www.telekom.de/dlp/agb/pdf/32643.pdf -- unhandled response
+2013-05-22 00:10:40 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-22 00:10:40 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-22 00:10:43 -0500 - http://photobucket.com/privacyPolicy:	404 => Net::HTTPNotFound for http://photobucket.com/privacyPolicy -- unhandled response
+2013-05-22 00:11:34 -0500 - http://www.af-medical.com/de/Privatsphaere-und-Datenschutz:	Connection timed out - connect(2)
+2013-05-22 00:11:51 -0500 - http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx:	404 => Net::HTTPNotFound for http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx -- unhandled response
+2013-05-22 00:12:11 -0500 - http://community.hottopic.com/content/privacy-security:	404 => Net::HTTPNotFound for http://community.hottopic.com/content/privacy-security -- unhandled response
+2013-05-22 00:13:05 -0500 - http://geek.net/privacy-statement:	404 => Net::HTTPNotFound for http://geek.net/privacy-statement -- unhandled response
+2013-05-22 00:13:40 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-22 00:13:55 -0500 - http://advertising.gawker.com/legal/privacy-policy/:	404 => Net::HTTPNotFound for http://advertising.gawker.com/legal/privacy-policy/ -- unhandled response
+2013-05-22 00:14:06 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-22 00:14:17 -0500 - http://www.shopping.com/sc/privacy-policy:	404 => Net::HTTPNotFound for http://www.shopping.com/sc/privacy-policy?sb=1 -- unhandled response
+2013-05-22 00:14:34 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-22 00:14:34 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-05-22 00:14:59 -0500 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	503 => Net::HTTPServiceUnavailable for http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity -- unhandled response
+2013-05-22 00:15:21 -0500 - http://www.af-medical.com/de/Privatsphaere-und-Datenschutz:	Connection timed out - connect(2)
