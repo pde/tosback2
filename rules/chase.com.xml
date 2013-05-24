@@ -1,6 +1,11 @@
 <sitename name="chase.com">
- <docname name="Privacy Policy">
-   <url name="http://www.chase.com/index.jsp?pg_name=ccpmapp/privacy_security/protection/page/print_privacy_policy" xpath="//table[@class='pageBody']">
+ <docname name="Online Practices">
+   <url name="https://www.chase.com/resources/online-consumer-practices" xpath="//*[@id='primary-no-hero']/div[2]/div">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="https://www.chase.com/resources/terms-conditions" xpath="//*[@id='primary-no-hero']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
