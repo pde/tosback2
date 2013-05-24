@@ -1,6 +1,6 @@
 <sitename name="autotrader.com">
  <docname name="Privacy Policy">
-   <url name="http://www.autotrader.com/privacy.jsp">
+   <url name="http://www.autotrader.com/privacy.jsp" xpath="//*[@id='cms_legal']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

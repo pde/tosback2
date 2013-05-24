@@ -1,6 +1,6 @@
 <sitename name="fanpop.com">
  <docname name="Privacy Policy">
-   <url name="http://www.fanpop.com/privacy">
+   <url name="http://www.fanpop.com/privacy" xpath="//*[@id='mainCol']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

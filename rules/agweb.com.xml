@@ -1,6 +1,6 @@
 <sitename name="agweb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.agweb.com/privacy_policy.aspx">
+   <url name="http://www.agweb.com/privacy_policy.aspx" xpath="/html/body/form/div[4]/div[4]/div/div/div[3]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
