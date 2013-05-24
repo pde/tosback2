@@ -1,7 +1,3 @@
 <sitename name="advanceautoparts.com">
- <docname name="Privacy Policy">
-   <url name="http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy" xpath="//div[@id='content-area']">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+<!-- Site is being re-designed as of May 24, 2013. -->
 </sitename>
