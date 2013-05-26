@@ -1,6 +1,11 @@
 <sitename name="gizmodo.com">
  <docname name="Privacy Policy">
-   <url name="http://advertising.gawker.com/legal/privacy-policy/">
+   <url name="http://legal.kinja.com/privacy-policy-90190742" xpath="//div[@class='eight mobile-four columns end']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://legal.kinja.com/kinja-terms-of-use-90161644" xpath="//div[@class='eight mobile-four columns end']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
