@@ -1,13 +1,12 @@
 <sitename name="hottopic.com">
  <docname name="Privacy Policy">
-   <url name="http://community.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp" xpath="//div[@id='inner_page']">
+   <url name="http://www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp" xpath="//div[@id='inner_page']/node()[not(@class='breadcrumbs_wrapper')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms of Use">
-   <url name="http://community.hottopic.com/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp" xpath="//div[@id='inner_page']">
+   <url name="http://www.hottopic.com/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp" xpath="//div[@id='inner_page']/node()[not(@class='breadcrumbs_wrapper')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
-
 </sitename>

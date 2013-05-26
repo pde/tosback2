@@ -1,6 +1,11 @@
 <sitename name="pcworld.com">
+ <docname name="Terms of Service">
+   <url name="http://www.idgcsmb.com/contact/pcworld-terms-of-service/" xpath="//div[@class='twelve columns content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.pcworld.com/resource/privacy.html" xpath="/html/body/div[2]/div/div">
+   <url name="http://www.idgcsmb.com/contact/pcworld-privacy-policy/" xpath="//div[@class='twelve columns content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

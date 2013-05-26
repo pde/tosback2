@@ -1,3 +1,12 @@
 <sitename name="advanceautoparts.com">
-<!-- Site is being re-designed as of May 24, 2013. -->
+  <docname name="Privacy Policy">
+    <url name="http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy" xpath="//div[@id='content-area']/node()[not(@class='breadcrumb')]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Terms and Conditions">
+    <url name="http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_termscond" xpath="//div[@id='content-area']/node()[not(@class='breadcrumb')]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>
