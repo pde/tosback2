@@ -1,6 +1,11 @@
 <sitename name="shopping.com">
  <docname name="Privacy Policy">
-   <url name="http://www.shopping.com/sc/privacy-policy" xpath="//div[@id='contentSdcUs']">
+   <url name="http://www.ebaycommercenetwork.com/privacy-policy" xpath="//div[@class='text-block']/article/node()">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Network User Agreement">
+   <url name="http://www.ebaycommercenetwork.com/user-agreement" xpath="//div[@class='text-block']/article/node()">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

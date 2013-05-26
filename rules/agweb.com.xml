@@ -1,6 +1,11 @@
 <sitename name="agweb.com">
  <docname name="Privacy Policy">
-   <url name="http://www.agweb.com/privacy_policy.aspx">
+   <url name="http://www.agweb.com/privacy_policy.aspx" xpath="//div[@class='contentTxt']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.agweb.com/terms_conditions.aspx" xpath="//div[@class='contentTxt']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

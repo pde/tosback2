@@ -1,6 +1,11 @@
 <sitename name="careerrookie.com">
  <docname name="Privacy Policy">
-   <url name="http://www.careerrookie.com/CC/JobSeeker/Resume/Privacy.aspx">
+   <url name="http://www.careerrookie.com/cc/s/privacy-guidelines" xpath="//*[@id='PageContainer']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.careerrookie.com/cc/s/terms-and-conditions" xpath="//*[@id='PageContainer']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
