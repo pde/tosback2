@@ -1,6 +1,6 @@
 <sitename name="t-online.de">
  <docname name="Privacy Policy">
-   <url name="http://www.telekom.de/dlp/agb/pdf/32643.pdf">
+   <url name="http://www.t-online.de/datenschutz-bei-t-online-de/id_12718440/index" xpath="//div[@class='Tart']/node()[not(@class='Tfkto') and not(@class='Tfktu')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
