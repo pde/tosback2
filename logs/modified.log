@@ -1,15 +1,22 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 1 commit.
-#
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/agweb.com/Privacy Policy.txt
-#	modified:   ../crawl/linkedin.com/Terms of Service.txt
-#	modified:   ../crawl/pcworld.com/Privacy Policy.txt
+#	modified:   ../crawl/bored.com/Privacy Policy.txt
+#	modified:   ../crawl/charter.net/Privacy Policy.txt
+#	modified:   ../crawl/gather.com/Privacy Policy.txt
+#	modified:   ../crawl/gawker.com/Privacy Policy.txt
+#	modified:   ../crawl/gawker.com/Terms of Use.txt
+#	modified:   ../crawl/gizmodo.com/Privacy Policy.txt
+#	modified:   ../crawl/gizmodo.com/Terms of Use.txt
+#	modified:   ../crawl/gmx.net/Privacy Policy.txt
+#	modified:   ../crawl/irs.gov/Privacy Policy.txt
+#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
+#	modified:   ../crawl/lifehacker.com/Privacy Policy.txt
+#	modified:   ../crawl/lifehacker.com/Terms of Use.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
 #	modified:   ../crawl/thepiratebay.org/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
