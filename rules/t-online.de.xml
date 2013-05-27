@@ -1,6 +1,7 @@
 <sitename name="t-online.de">
  <docname name="Privacy Policy">
    <url name="http://www.telekom.de/dlp/agb/pdf/32643.pdf">
+     <!-- Has been returning a 404 Not Found since the May 18, 2013 crawl. -->
      <norecurse name="arbitrary"/>
    </url>
  </docname>
