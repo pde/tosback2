@@ -4895,3 +4895,14 @@
 2013-05-30 00:19:07 -0500 - http://www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp:	403 => Net::HTTPForbidden for http://www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp -- unhandled response
 2013-05-30 00:19:07 -0500 - http://www.ideeli.com/pages/privacy_policy:	504 => Net::HTTPGatewayTimeOut for http://www.ideeli.com/pages/privacy_policy -- unhandled response
 2013-05-30 00:19:07 -0500 - http://nadaguides.com/Privacy-policy:	404 => Net::HTTPNotFound for http://nadaguides.com/Error/pagenotfound?aspxerrorpath=/j -- unhandled response
+2013-05-31 00:08:12 -0500 - http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 18392040, last used 1369976892.6583068 seconds ago
+2013-05-31 00:08:29 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-05-31 00:09:47 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-05-31 00:11:21 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-05-31 00:12:15 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-05-31 00:14:51 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-05-31 00:15:01 -0500 - http://www.cvs.com/CVSApp/help/privacy_policy.jsp:	404 => Net::HTTPNotFound for http://www.cvs.com/CVSApp/help/privacy_policy.jsp -- unhandled response
+2013-05-31 00:15:22 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-05-31 00:15:40 -0500 - http://www.statefarm.com/about/privacy/privacy.asp:	getaddrinfo: Name or service not known
+2013-05-31 00:15:51 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-05-31 00:15:51 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
