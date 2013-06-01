@@ -1,0 +1,7 @@
+<sitename name="telekom.de">
+ <docname name="Privacy Policy">
+   <url name="http://www.telekom.de/datenschutz" xpath="//div[@class='modul4erFrame modulesBackgroundRepeatX']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
