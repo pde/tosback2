@@ -4906,3 +4906,14 @@
 2013-05-31 00:15:40 -0500 - http://www.statefarm.com/about/privacy/privacy.asp:	getaddrinfo: Name or service not known
 2013-05-31 00:15:51 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-05-31 00:15:51 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-06-01 00:08:15 -0500 - http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 22271260, last used 1370063295.250752 seconds ago
+2013-06-01 00:08:33 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-01 00:10:00 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-01 00:11:24 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-01 00:12:11 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-01 00:15:00 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-01 00:15:31 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-01 00:15:46 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
+2013-06-01 00:15:57 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-01 00:15:57 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-06-01 00:16:23 -0500 - http://www.gather.com/privacy.jsp:	503 => Net::HTTPServiceUnavailable for http://www.gather.com/privacy.jsp -- unhandled response
