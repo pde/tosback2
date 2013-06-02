@@ -1,6 +1,6 @@
 <sitename name="officedepot.com">
  <docname name="Privacy Policy">
-   <url name="http://www.officedepot.com/renderStaticPage.do?file=/customerservice/Privacy.jsp&amp;template=customerService" xpath="//div[@id='m02']">
+   <url name="http://www.officedepot.com/a/customerservice/Privacy/" xpath="//div[@id='m02']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
