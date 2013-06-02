@@ -1,0 +1,12 @@
+<sitename name="store.steampowered.com">
+ <docname name="Privacy Policy Agreement">
+   <url name="http://store.steampowered.com/privacy_agreement/">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Steam Subscriber Agreement">
+   <url name="http://store.steampowered.com/subscriber_agreement/">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
