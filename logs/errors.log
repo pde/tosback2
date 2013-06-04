@@ -4939,3 +4939,14 @@
 2013-06-03 00:16:52 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-03 00:18:42 -0500 - http://www.imvu.com/catalog/web_info.php?section=Info&topic=privacy:	Connection timed out - connect(2)
 2013-06-03 00:19:24 -0500 - http://kidshealth.org/parent/kh_misc/policy.html:	Connection timed out - connect(2)
+2013-06-04 00:06:43 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-04 00:08:18 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-04 00:09:55 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-04 00:10:41 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-04 00:15:12 -0500 - http://www.pbs.org/about/policies/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 21488180, last used 1370322912.0695105 seconds ago
+2013-06-04 00:15:55 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-04 00:16:29 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-04 00:17:22 -0500 - https://help.github.com/security/:	503 => Net::HTTPServiceUnavailable for https://help.github.com/articles/github-security -- unhandled response
+2013-06-04 00:17:27 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-04 00:17:27 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-06-04 00:19:59 -0500 - http://www.pbs.org/about/policies/privacy-policy/:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 21488180, last used 1370323199.2959857 seconds ago
