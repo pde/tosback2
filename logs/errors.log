@@ -4961,3 +4961,12 @@
 2013-06-05 00:15:19 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-06-05 00:15:19 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-05 00:15:51 -0500 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-06-06 00:06:29 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-06 00:07:56 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-06 00:09:29 -0500 - http://www.comcast.com/corporate/legal/privacyStatement.html:	Connection timed out - connect(2)
+2013-06-06 00:09:49 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-06 00:10:42 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-06 00:13:39 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-06 00:14:11 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-06 00:14:42 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-06 00:14:43 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
