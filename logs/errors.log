@@ -5014,3 +5014,14 @@
 2013-06-10 00:15:46 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-06-10 00:15:46 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-10 00:17:38 -0500 - http://www.sheplers.com/custserv/custserv.jsp?pageName=Privacy:	504 => Net::HTTPGatewayTimeOut for http://www.sheplers.com/custserv/custserv.jsp?pageName=Privacy -- unhandled response
+2013-06-11 00:06:32 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-11 00:08:01 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-11 00:09:27 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-11 00:10:26 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-11 00:11:40 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-06-11 00:12:57 -0500 - http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx:	503 => Net::HTTPServiceUnavailable for http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx -- unhandled response
+2013-06-11 00:13:12 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-11 00:13:42 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-11 00:14:18 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-11 00:14:18 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-06-11 00:14:43 -0500 - http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx:	503 => Net::HTTPServiceUnavailable for http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx -- unhandled response
