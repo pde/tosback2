@@ -5025,3 +5025,15 @@
 2013-06-11 00:14:18 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-06-11 00:14:18 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-11 00:14:43 -0500 - http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx:	503 => Net::HTTPServiceUnavailable for http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx -- unhandled response
+2013-06-12 00:06:35 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-12 00:07:53 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-12 00:09:32 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-12 00:10:38 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-12 00:11:07 -0500 - http://thepiratebay.org/policy:	504 => Net::HTTPGatewayTimeOut for http://thepiratebay.org/policy -- unhandled response
+2013-06-12 00:11:49 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-06-12 00:12:44 -0500 - http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer:	404 => Net::HTTPNotFound for https://myspace.com/Help/Privacy?pm_cmp=ed_footer -- unhandled response
+2013-06-12 00:12:45 -0500 - http://www.myspace.com/Help/Terms:	403 => Net::HTTPForbidden for https://myspace.com/Help/Terms -- unhandled response
+2013-06-12 00:13:47 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-12 00:14:17 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-12 00:15:31 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-12 00:15:31 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
