@@ -1,6 +1,6 @@
 <sitename name="coursera.org">
  <docname name="Terms of Use">
-   <url name="https://www.coursera.org/about/terms" xpath="//div[@class='coursera-about-body']" lang="EN">
+   <url name="https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js" lang="EN">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
