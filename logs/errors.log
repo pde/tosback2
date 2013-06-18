@@ -5112,3 +5112,22 @@
 2013-06-17 00:14:16 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-06-17 00:14:16 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-17 00:15:06 -0500 - http://www.o2.co.uk/termsandconditions/o2privacypolicy:	Connection timed out - connect(2)
+2013-06-18 00:06:36 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-18 00:07:53 -0500 - http://www.agweb.com/privacy_policy.aspx:	500 => Net::HTTPInternalServerError for http://www.agweb.com/privacy_policy.aspx -- unhandled response
+2013-06-18 00:08:12 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-18 00:08:18 -0500 - http://www.shopjustice.com/customerService/Privacy_Policy:	404 => Net::HTTPNotFound for http://www.shopjustice.com/customerService/Privacy_Policy -- unhandled response
+2013-06-18 00:09:52 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-18 00:10:45 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-18 00:12:02 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-06-18 00:12:53 -0500 - http://nadaguides.com/Privacy-policy:	getaddrinfo: Name or service not known
+2013-06-18 00:12:56 -0500 - http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer:	403 => Net::HTTPForbidden for https://myspace.com/Help/Privacy?pm_cmp=ed_footer -- unhandled response
+2013-06-18 00:12:57 -0500 - http://www.myspace.com/Help/Terms:	403 => Net::HTTPForbidden for https://myspace.com/Help/Terms -- unhandled response
+2013-06-18 00:13:34 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-18 00:14:06 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-18 00:14:09 -0500 - http://www.harryanddavid.com/h2/view/custserv-security:	500 => Net::HTTPInternalServerError for http://www.harryanddavid.com/h/view/custserv-security -- unhandled response
+2013-06-18 00:14:51 -0500 - http://thelawportal.co.uk/Privacy-policy.html:	Connection timed out - connect(2)
+2013-06-18 00:14:54 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-18 00:14:54 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-06-18 00:15:20 -0500 - http://www.agweb.com/privacy_policy.aspx:	500 => Net::HTTPInternalServerError for http://www.agweb.com/privacy_policy.aspx -- unhandled response
+2013-06-18 00:15:21 -0500 - http://www.harryanddavid.com/h2/view/custserv-security:	500 => Net::HTTPInternalServerError for http://www.harryanddavid.com/h/view/custserv-security -- unhandled response
+2013-06-18 00:15:42 -0500 - http://thelawportal.co.uk/Privacy-policy.html:	Connection timed out - connect(2)
