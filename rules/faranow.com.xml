@@ -1,0 +1,12 @@
+<sitename name="faranow.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.faranow.com/privacy" xpath="//div[@id='privacy']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://www.faranow.com/terms" xpath="//div[@id='terms']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

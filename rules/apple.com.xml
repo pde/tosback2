@@ -1,21 +1,21 @@
 <sitename name="apple.com">
  <docname name="Privacy Policy">
-   <url name="http://www.apple.com/privacy/" xpath="//div[@id='policy']">
+   <url name="http://www.apple.com/privacy/" xpath="//div[@id='policy']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Website Terms of Service">
-   <url name="http://www.apple.com/legal/terms/site.html" xpath="//div[@id='content']">
+   <url name="http://www.apple.com/legal/terms/site.html" xpath="//div[@id='content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="iCloud Terms of Service">
-   <url name="http://www.apple.com/legal/icloud/en/terms.html" xpath="//div[@id='main']">
+   <url name="http://www.apple.com/legal/icloud/en/terms.html" xpath="//div[@id='main']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="iTunes Terms of Service">
-   <url name="http://www.apple.com/legal/itunes/us/terms.html" xpath="//div[@id='main']">
+   <url name="http://www.apple.com/legal/itunes/us/terms.html" xpath="//div[@id='main']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

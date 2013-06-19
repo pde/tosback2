@@ -1,0 +1,7 @@
+<sitename name="envato.com">
+ <docname name="Terms and Conditions">
+   <url name="http://activeden.net/legal/user" xpath="//div[@class='content-s document']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,6 +1,11 @@
 <sitename name="allrecipes.com">
  <docname name="Privacy Policy">
-   <url name="http://allrecipes.com/help/aboutus/privacy.aspx" xpath="//div[@id='main']">
+   <url name="http://allrecipes.com/help/aboutus/privacy.aspx" xpath="//div[@id='center']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://allrecipes.com/help/aboutus/legal.aspx" xpath="//div[@id='center']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

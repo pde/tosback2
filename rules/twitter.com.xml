@@ -1,11 +1,11 @@
 <sitename name="twitter.com">
  <docname name="Privacy Policy">
-   <url name="https://twitter.com/privacy" xpath="//div[@id=&apos;pageContent&apos;]">
+   <url name="https://twitter.com/privacy" xpath="//div[@id=&apos;pageContent&apos;]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Service">
-   <url name="https://twitter.com/tos" xpath="//div[@id=&apos;pageContent&apos;]">
+   <url name="https://twitter.com/tos" xpath="//div[@id=&apos;pageContent&apos;]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

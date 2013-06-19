@@ -5,12 +5,12 @@
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://pages.soundcloud.com/legal/privacy-policy.html">
+   <url name="https://pages.soundcloud.com/legal/privacy-policy.html" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Service">
-   <url name="https://pages.soundcloud.com/legal/terms-of-use.html">
+   <url name="https://pages.soundcloud.com/legal/terms-of-use.html" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

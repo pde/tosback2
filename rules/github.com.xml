@@ -1,11 +1,11 @@
 <sitename name="github.com">
  <docname name="Terms of Service">
-   <url name="https://github.com/site/terms" xpath="//div[@class='article']">
+   <url name="https://github.com/site/terms" xpath="//div[@class='article']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://help.github.com/privacy-policy" xpath="//div[@class='article']">
+   <url name="https://help.github.com/privacy-policy" xpath="//div[@class='article']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

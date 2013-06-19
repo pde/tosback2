@@ -1,16 +1,16 @@
 <sitename name="comcast.net">
   <docname name="Web Services Privacy Policy">
-    <url name="http://xfinity.comcast.net/privacy/" xpath="//div[@class=&apos;comes-from-legal&apos;]">
+    <url name="http://xfinity.comcast.net/privacy/" xpath="//div[@class=&apos;comes-from-legal&apos;]" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
   <docname name="Web Terms of Service">
-   <url name="http://xfinity.comcast.net/terms/web/" xpath="//div[@class=&apos;comes-from-legal&apos;]">
+   <url name="http://xfinity.comcast.net/terms/web/" xpath="//div[@class=&apos;comes-from-legal&apos;]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
   </docname>
   <docname name="Software License Agreement">
-   <url name="http://xfinity.comcast.net/terms/license/" xpath="//div[@class=&apos;comes-from-legal&apos;]">
+   <url name="http://xfinity.comcast.net/terms/license/" xpath="//div[@class=&apos;comes-from-legal&apos;]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
   </docname>

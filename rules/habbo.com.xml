@@ -1,0 +1,12 @@
+<sitename name="habbo.com">
+ <docname name="Terms of Service">
+   <url name="https://help.habbo.com/entries/23027093-Terms-of-Service" reviewed="true" xpath="//div[@class='entry nobottom']/node()[not(@class='entry_footer header_section for_vote for_share_buttons')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://help.habbo.com/entries/23029106-privacy-policy" xpath="//div[@class='entry nobottom']/node()[not(@class='entry_footer header_section for_vote for_share_buttons')]" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

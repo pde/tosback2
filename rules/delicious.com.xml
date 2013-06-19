@@ -1,11 +1,11 @@
 <sitename name="delicious.com">
  <docname name="Privacy Policy">
-   <url name="https://delicious.com/html/privacy.html" xpath="//div[@class='span7 static-page']">
+   <url name="https://delicious.com/html/privacy.html" xpath="//div[@class='span7 static-page']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Service">
-   <url name="https://delicious.com/html/terms.html" xpath="//div[@class='span7 static-page']">
+   <url name="https://delicious.com/html/terms.html" xpath="//div[@class='span7 static-page']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

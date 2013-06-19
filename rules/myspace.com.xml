@@ -1,11 +1,11 @@
 <sitename name="myspace.com">
  <docname name="Privacy Policy">
-   <url name="http://www.myspace.com/Help/Privacy?pm_cmp=ed_footer" xpath="//section[@id=&apos;col0_0&apos;]">
+   <url name="https://myspace.com/pages/privacy" xpath="//div[@id='nms_legal']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.myspace.com/Help/Terms" xpath="//section[@id=&apos;col0_0&apos;]">
+   <url name="https://myspace.com/pages/terms" xpath="//div[@id='nms_legal']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

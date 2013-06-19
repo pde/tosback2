@@ -1,0 +1,7 @@
+<sitename name="seenthis.net">
+ <docname name="Intellectual Property">
+   <url name="http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle" xpath="//div[@id='texte_article']" lang="FR" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

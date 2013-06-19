@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="verizon.com">
   <docname name="Privacy Policy">
-    <url name="http://www22.verizon.com/about/privacy/" xpath="//div[@class='middleContainer']">
+    <url name="http://www22.verizon.com/about/privacy/" xpath="//div[@class='middleContainer']" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
   <docname name="Terms of Service">
-    <url name="http://my.verizon.com/central/vzc.portal?_nfpb=true&amp;_pageLabel=vzc_help_policies&amp;id=TOS" xpath="//div[@class='＿bea-wlp-disc-context-hook']/table[(@border='0') and (@bgcolor='white')]/tr[3]/td[@style='line-height:15px']">
+    <url name="http://my.verizon.com/central/vzc.portal?_nfpb=true&amp;_pageLabel=vzc_help_policies&amp;id=TOS" xpath="//div[@class='＿bea-wlp-disc-context-hook']/table[(@border='0') and (@bgcolor='white')]/tr[3]/td[@style='line-height:15px']" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>

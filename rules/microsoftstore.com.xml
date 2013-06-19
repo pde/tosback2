@@ -1,0 +1,12 @@
+<sitename name="microsoftstore.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage/ThemeID.33363200/" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+  <url name="http://www.microsoftstore.com/store/msusa/en_US/DisplayTermsOfUseAndSalePage/ThemeID.33363200/" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

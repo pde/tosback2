@@ -1,11 +1,11 @@
 <sitename name="steampowered.com">
  <docname name="Privacy Policy Agreement">
-   <url name="http://store.steampowered.com/privacy_agreement/" xpath="//div[@id='basicContent']">
+   <url name="http://store.steampowered.com/privacy_agreement/" xpath="//div[@id='basicContent']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Steam Subscriber Agreement">
-   <url name="http://store.steampowered.com/subscriber_agreement/" xpath="//div[@id='ssa_body']">
+   <url name="http://store.steampowered.com/subscriber_agreement/" xpath="//div[@id='ssa_body']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

@@ -1,0 +1,12 @@
+<sitename name="lastpass.com">
+ <docname name="Terms of Service">
+   <url name="https://lastpass.com/aboutus_terms.php" xpath="//div[@style='margin:0 10px;']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Statement">
+   <url name="https://lastpass.com/aboutus_privacy.php" xpath="//div[@style='margin:0 10px;']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,12 @@
+<sitename name="xfire.com">
+ <docname name="Terms of Use">
+   <url name="http://www.xfire.com/terms" xpath="//div[@id='main-content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="http://www.xfire.com/privacy" xpath="//div[@id='main-content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

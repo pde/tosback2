@@ -1,11 +1,11 @@
 <sitename name="google.com">
  <docname name="Privacy Policy">
-   <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']">
+   <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Service">
-   <url name="https://www.google.com/intl/en/policies/terms/" xpath="//div[@class='maia-article']">
+   <url name="https://www.google.com/intl/en/policies/terms/" xpath="//div[@class='maia-article']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

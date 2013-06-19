@@ -1,0 +1,12 @@
+<sitename name="rapidshare.com">
+ <docname name="Terms of Use">
+   <url name="https://rapidshare.com/rsag_tou.html" xpath="//div[@class='content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://rapidshare.com/rsag_ppolicy.html" xpath="//div[@class='content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

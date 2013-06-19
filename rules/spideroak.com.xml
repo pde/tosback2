@@ -1,0 +1,12 @@
+<sitename name="spideroak.com">
+ <docname name="Terms of Use">
+   <url name="https://spideroak.com/terms_of_use" xpath="//div[@id='container']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://spideroak.com/privacy_policy" xpath="//div[@id='container']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

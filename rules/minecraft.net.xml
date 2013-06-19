@@ -1,0 +1,7 @@
+<sitename name="minecraft.net">
+ <docname name="Terms and Conditions">
+   <url name="https://account.mojang.com/terms" xpath="//div[@id='terms-full']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

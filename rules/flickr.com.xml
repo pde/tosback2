@@ -1,6 +1,21 @@
 <sitename name="flickr.com">
  <docname name="Privacy Policy">
-   <url name="http://info.yahoo.com/privacy/us/yahoo/" xpath="//div[@id='pp-content1']">
+   <url name="http://info.yahoo.com/privacy/us/yahoo/" xpath="//div[@id='pp-content1']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html" xpath="//div[@id='rb']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Community Guidelines">
+   <url name="http://www.flickr.com/help/guidelines/" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Additional Terms of Service">
+   <url name="http://www.flickr.com/atos/pro/">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

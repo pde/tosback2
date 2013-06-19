@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="Sonic.net">
   <docname name="All Policies">
-    <url name="https://wiki.sonic.net/wiki/Category:Policies" xpath="//div[@id='bodyContent']">
+    <url name="https://wiki.sonic.net/wiki/Category:Policies" xpath="//div[@id='bodyContent']" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
