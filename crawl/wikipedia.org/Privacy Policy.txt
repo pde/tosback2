@@ -143,21 +143,27 @@ Contents
 </li>
 <li>7 Access to and release of personally identifiable information</li>
 <li>8 Disclaimer</li>
-</ul>
-General Scope <p>This policy covers personally identifiable information collected or stored by the Foundation on its servers in relation to the Projects and their communities.
+</ul>General Scope
+<p>This policy covers personally identifiable information collected or stored by the Foundation on its servers in relation to the Projects and their communities.
 Consistent with its Data Retention Policy, the Foundation collects and retains the least amount of personally identifiable information needed to fulfill the Projects' operational needs.
-</p> The public and collaborative nature of the projects <p>All Projects of the Wikimedia Foundation are collaboratively developed by its users using the MediaWiki software.
+</p>
+The public and collaborative nature of the projects
+<p>All Projects of the Wikimedia Foundation are collaboratively developed by its users using the MediaWiki software.
 Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user.
 By doing this, editors create a published document, and a public record of every word added, subtracted, or changed.
 This is a public act, and editors are identified publicly as the author of such changes.
 All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
-</p> Activities on Foundation projects <p>In general, this Policy only applies to private information stored or held by the Foundation which is not publicly available.
+</p>
+Activities on Foundation projects
+<p>In general, this Policy only applies to private information stored or held by the Foundation which is not publicly available.
 </p>
 <p>Interactions with the Projects not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "email user" function, subscribing and posting to Foundation hosted email lists, and corresponding with volunteers via the Foundation's ticketing system ("OTRS").
 These interactions may reveal a contributor's IP address, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of the Foundation.
 </p>
 <p>Users may also interact with one another outside of Foundation sites, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication.
-</p> User accounts and authorship <p>The Foundation does not require editors to register with a project.
+</p>
+User accounts and authorship
+<p>The Foundation does not require editors to register with a project.
 Anyone can edit without logging in with a username, in which case they will be identified by network IP address.
 Users that do register are identified by their chosen username.
 Users select a password, which is confidential and used to verify the integrity of their account.
@@ -165,7 +171,9 @@ Except insofar as it may be required by law, no person should disclose, or knowi
 Once created, user accounts will not be removed.
 It may be possible for a username to be changed, depending on the policies of individual projects.
 The Foundation does not guarantee that a username will be changed on request.
-</p> Purpose of the collection of private information <p>The Foundation limits the collection of personally identifiable user data to purposes which serve the well-being of its projects, including but not limited to the following:
+</p>
+Purpose of the collection of private information
+<p>The Foundation limits the collection of personally identifiable user data to purposes which serve the well-being of its projects, including but not limited to the following:
 </p>
 <dl>
 <dd>To enhance the public accountability of the projects.
@@ -182,8 +190,10 @@ the raw log data is not made public.
 <dd>To solve technical problems.
 Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site.
 </dd>
-</dl>
-Details of data retention General expectations IP and other technical information <dl>
+</dl>Details of data retention
+General expectations
+IP and other technical information
+<dl>
 <dd>When a visitor requests or reads a page, or sends email to a Wikimedia server, no more information is collected than is typically collected by web sites.
 The Wikimedia Foundation may keep raw logs of such transactions, but these will not be published or used to track legitimate users.
 </dd>
@@ -195,8 +205,8 @@ For editors who do not log in, the IP address used is publicly and permanently c
 It may be possible for a third party to identify the author from this IP address in conjunction with other information available.
 Logging in with a registered username allows for better preservation of privacy.
 </dd>
-</dl>
-Cookies <dl>
+</dl>Cookies
+<dl>
 <dd>The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited.
 Readers who do not intend to log in or edit may deny this cookie.
 it will be deleted at the end of the browser's session.
@@ -204,22 +214,22 @@ More cookies may be set when one logs in to maintain logged-in status.
 If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project.
 Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use.
 </dd>
-</dl>
-Page history <dl>
+</dl>Page history
+<dl>
 <dd>Edits or other contributions to a Project on its articles, user pages and talk pages are generally retained forever.
 Removing text from a project does not permanently delete it.
 Normally, in projects, anyone can look at a previous version of an article and see what was there.
 Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view.
 Information can be permanently deleted by individuals with access to Wikimedia servers, but aside from the rare circumstance when the Foundation is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen.
 </dd>
-</dl>
-User contribution <dl>
+</dl>User contribution
+<dl>
 <dd>User contributions are also aggregated and publicly available.
 User contributions are aggregated according to their registration and login status.
 Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users.
 </dd>
-</dl>
-Reading projects <dl>
+</dl>Reading projects
+<dl>
 <dd>
 <dl>
 <dd>No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites.
@@ -228,8 +238,8 @@ Sampled raw log data may include the IP address of any user, but it is not repro
 </dd>
 </dl>
 </dd>
-</dl>
-Editing projects <dl>
+</dl>Editing projects
+<dl>
 <dd>
 <dl>
 <dd>Edits to Project pages are identified with the username or network IP address of the editor, and editing history is aggregated by author in a contribution list.
@@ -254,8 +264,8 @@ It may be possible to use this information in combination with other information
 </dd>
 </dl>
 </dd>
-</dl>
-Discussions <dl>
+</dl>Discussions
+<dl>
 <dd>
 <dl>
 <dd>On wiki discussion pages:
@@ -301,8 +311,8 @@ Different channels have different policies on whether logs may be published.
 </dd>
 </dl>
 </dd>
-</dl>
-Access to and release of personally identifiable information <p>Access:
+</dl>Access to and release of personally identifiable information
+<p>Access:
 </p>
 <p>Projects are primarily run by volunteer contributors.
 Some dedicated users are chosen by the community to be given privileged access.
@@ -348,7 +358,9 @@ Users who wish to oppose a subpoena or other compulsory request should seek lega
 </p>
 <p>Registered users are not required to provide an email address.
 However, when an affected registered user does not provide an email address, the Foundation will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
-</p> Disclaimer <p>The Wikimedia Foundation believes that maintaining and preserving the privacy of user data is an important value.
+</p>
+Disclaimer
+<p>The Wikimedia Foundation believes that maintaining and preserving the privacy of user data is an important value.
 This Privacy Policy, together with other policies, resolutions, and actions by the Foundation, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers.
 Nevertheless, the Foundation cannot guarantee that user information will remain private.
 We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it.
