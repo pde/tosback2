@@ -6,6 +6,7 @@ require 'mechanize' # will probably need to use this instead to handle sites tha
 
 $rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
+$reviewed_crawl_path = "../crawl_reviewed/"
 $log_dir = "../logs/"
 $error_log = "errors.log"
 $run_log = "run.log"
@@ -96,7 +97,7 @@ class TOSBackSite
     @sitename = ngxml.xpath("//sitename[1]/@name").to_s
     @docs = []
     ngxml.xpath("//sitename/docname").each do |doc|
-     docs << TOSBackDoc.new({:site => @sitename,:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s})
+     docs << TOSBackDoc.new({:site => @sitename,:name => doc.at_xpath("./@name").to_s,:url => doc.at_xpath("./url/@name").to_s,:xpath => doc.at_xpath("./url/@xpath").to_s,reviewed: doc.at_xpath("./url/@reviewed").to_s})
     end    
   end #initialize
 
@@ -135,12 +136,18 @@ class TOSBackDoc
   @xpath ||= nil
   @has_prev ||= nil
   @newdata ||= nil
+  @reviewed ||= nil
+  @save_dir ||= nil
+  @save_path ||= nil
   
   def initialize(hash)
     @site = hash[:site]
     @name = hash[:name]
     @url = hash[:url]
     @xpath = (hash[:xpath] == "") ? nil : hash[:xpath]
+    @reviewed = (hash[:reviewed] == "") ? nil : hash[:reviewed]
+    @save_dir = (@reviewed == nil) ? "#{$results_path}#{@site}/" : "#{$reviewed_crawl_path}#{@site}/"
+    @save_path = "#{@save_dir}#{@name}.txt"
   end #init
   
   def scrape(checkprev=true)
@@ -157,7 +164,7 @@ class TOSBackDoc
   
   def check_prev
     # puts "check_prev - #{$results_path}#{@site}/#{@name}.txt"
-    prev = (File.exists?("#{$results_path}#{@site}/#{@name}.txt")) ? File.open("#{$results_path}#{@site}/#{@name}.txt") : nil
+    prev = (File.exists?(@save_path)) ? File.open(@save_path) : nil
     unless prev == nil
       if File.size(prev) > 32
         # TOSBackApp.add_to_retry(self)
@@ -169,11 +176,9 @@ class TOSBackDoc
   end #check_prev
   
   def write
-    new_path = "#{$results_path}#{@site}/"
-    Dir.mkdir(new_path) unless File.exists?(new_path)
+    Dir.mkdir(@save_dir) unless File.exists?(@save_dir)
     
-    new_path = "#{new_path}#{@name}.txt"
-    crawl_file = File.open(new_path,"w") # new file or overwrite old file
+    crawl_file = File.open(@save_path,"w") # new file or overwrite old file
     crawl_file.puts @newdata
     crawl_file.close
   end #write
