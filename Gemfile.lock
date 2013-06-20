@@ -3,6 +3,9 @@ GEM
   specs:
     domain_name (0.5.12)
       unf (>= 0.0.5, < 1.0.0)
+    mail (2.5.4)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
     mechanize (2.5.1)
       domain_name (~> 0.5, >= 0.5.1)
       mime-types (~> 1.17, >= 1.17.2)
@@ -16,8 +19,12 @@ GEM
     net-http-persistent (2.8)
     nokogiri (1.5.10)
     ntlm-http (0.1.1)
+    polyglot (0.3.3)
     sanitize (2.0.3)
       nokogiri (>= 1.4.4, < 1.6)
+    treetop (1.4.14)
+      polyglot
+      polyglot (>= 0.3.1)
     unf (0.1.1)
       unf_ext
     unf_ext (0.0.6)
@@ -27,6 +34,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mail
   mechanize (~> 2.5.1)
   nokogiri (~> 1.5.5)
   sanitize (~> 2.0.3)

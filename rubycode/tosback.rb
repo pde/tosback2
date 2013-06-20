@@ -34,6 +34,55 @@ class TOSBackApp
     end #@sites
   end #retry_docs
   
+  def find_reviewed_doc_changes
+    changed = []
+    
+    @sites.each do |site|
+      site.docs.each do |doc|
+        if doc.reviewed
+          if doc.has_data_changed?
+            changed << {site: doc.site, name:doc.name}
+          end
+        end
+      end #@docs
+    end #@sites
+    
+    if changed.length > 0
+      io = IO.popen("git add #{$reviewed_crawl_path}")
+      io.close
+      
+      io = IO.popen("git commit -m 'changes for reviewed docs'")
+      io.close
+      
+      require 'mail'
+      require './tosback_secrets.rb'
+      
+      secrets = TOSBackSecrets.get_secret_hash
+      
+      Mail.defaults do
+        delivery_method :smtp, { :address   => "smtp.sendgrid.net",
+                                 :port      => 587,
+                                 :domain    => "tosdr.org",
+                                 :user_name => secrets[:u],
+                                 :password  => secrets[:p],
+                                 :authentication => 'plain',
+                                 :enable_starttls_auto => true }
+      end
+      
+      mail = Mail.deliver do
+        to 'jimm@tosdr.org'
+        from 'ToSBack <tosback-noreply@tosdr.org>'
+        subject 'Changes to a policy that we\'ve reviewed'
+        text_part do
+          changed.each do |change|
+            body = "#{change[:site]}, #{change[:name]} changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
+          end
+        end
+      end
+      
+    end
+  end #find_reviewed_changes
+  
   def scrape_sites
     @sites.each do |tbs|
       tbs.scrape_docs
@@ -135,6 +184,7 @@ class TOSBackDoc
   @url ||= nil
   @xpath ||= nil
   @has_prev ||= nil
+  @prev_data ||= nil
   @newdata ||= nil
   @reviewed ||= nil
   @save_dir ||= nil
@@ -182,6 +232,19 @@ class TOSBackDoc
     crawl_file.puts @newdata
     crawl_file.close
   end #write
+  
+  def has_data_changed?
+    get_prev_data() if @prev_data == nil
+    @prev_data.chomp != @newdata.chomp
+  end
+  
+  def get_prev_data
+    prev = (File.exists?(@save_path)) ? File.open(@save_path) : nil
+    unless prev == nil
+      @prev_data = prev.read
+      prev.close
+    end
+  end
   
   def puts_doc
     puts @newdata
@@ -260,7 +323,7 @@ class TOSBackDoc
     end
   end #strip_tags
   
-  attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev
+  attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev, :reviewed
   private :download_full_page, :apply_xpath, :strip_tags, :format_newdata
 end #TOSBackDoc
 
@@ -275,6 +338,8 @@ if ARGV.length == 0
   tba.scrape_sites
   tba.retry_docs
   tba.write_sites
+  
+  tba.find_reviewed_doc_changes
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
