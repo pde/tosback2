@@ -15,6 +15,7 @@ $empty_log = "empty.log"
 
 class TOSBackApp
   @sites = nil
+  @reviewed_changes = nil
   # @retry = []
   
   def initialize(path)
@@ -34,30 +35,30 @@ class TOSBackApp
     end #@sites
   end #retry_docs
   
+  def commit_reviewed
+    if @reviewed_changes.length > 0
+      io = IO.popen("git add #{$reviewed_crawl_path}")
+      io.close
+    
+      io = IO.popen("git commit -m 'changes for reviewed docs'")
+      io.close
+    end
+  end
+  
   def find_reviewed_doc_changes
-    changed = []
+    @reviewed_changes = []
     
     @sites.each do |site|
       site.docs.each do |doc|
         if doc.reviewed
           if doc.has_data_changed?
-            changed << {site: doc.site, name:doc.name}
+            @reviewed_changes << {site: doc.site, name:doc.name}
           end
         end
       end #@docs
     end #@sites
     
-    changed.each do |c|
-      puts c[:site]
-    end
-    
-    if changed.length > 0
-      io = IO.popen("git add #{$reviewed_crawl_path}")
-      io.close
-      
-      io = IO.popen("git commit -m 'changes for reviewed docs'")
-      io.close
-      
+    if @reviewed_changes.length > 0
       require 'mail'
       require './tosback_secrets.rb'
       
@@ -345,6 +346,8 @@ if ARGV.length == 0
   tba.find_reviewed_doc_changes
   
   tba.write_sites
+  
+  tba.commit_reviewed
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
