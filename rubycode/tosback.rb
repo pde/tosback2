@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../rules/" # Directories should include trailing slash
+$rules_path = "../rule_test/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $reviewed_crawl_path = "../crawl_reviewed/"
 $log_dir = "../logs/"
@@ -47,6 +47,10 @@ class TOSBackApp
       end #@docs
     end #@sites
     
+    changed.each do |c|
+      puts c[:site]
+    end
+    
     if changed.length > 0
       io = IO.popen("git add #{$reviewed_crawl_path}")
       io.close
@@ -74,14 +78,14 @@ class TOSBackApp
         from 'ToSBack <tosback-noreply@tosdr.org>'
         subject 'Changes to a policy that we\'ve reviewed'
         text_part do
-          changed.each do |change|
-            body = "#{change[:site]}, #{change[:name]} changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
-          end
+          bodytext = ""
+          changed.each {|change| bodytext += "#{change[:site]}, #{change[:name]}\n"}
+          body "#{bodytext} Each of these changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
         end
       end
       
     end
-  end #find_reviewed_changes
+  end #find_reviewed_doc_changes
   
   def scrape_sites
     @sites.each do |tbs|
@@ -337,9 +341,10 @@ if ARGV.length == 0
   tba = TOSBackApp.new($rules_path)
   tba.scrape_sites
   tba.retry_docs
-  tba.write_sites
   
   tba.find_reviewed_doc_changes
+  
+  tba.write_sites
 
   TOSBackSite.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
 
