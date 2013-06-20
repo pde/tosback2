@@ -1,67 +1,51 @@
 <sitename name="skype.com">
- <!-- Just a list of the docs
- <docname name="Terms and Policies">
-   <url name="http://www.skype.com/intl/en-us/legal/">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname> -->
  <docname name="Terms of Use">
-   <url name="http://www.skype.com/intl/en-us/legal/terms/tou/" xpath="//div[@id='content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
- <docname name="Business End User License Agreement">
-   <url name="http://www.skype.com/intl/en-us/legal/business/eula/" xpath="//div[@id='content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
- <docname name="Business End User License Agreement (US)">
-   <url name="http://www.skype.com/intl/en-us/legal/business/eula-us/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/tou/" xpath="//div[@class='alignLeft']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Group Video Calling Fair Usage Policy">
-   <url name="http://www.skype.com/intl/en/legal/terms/gvc-fair-usage/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/gvc-fair-usage/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Fair Usage Policy for Subscriptions">
-   <url name="http://www.skype.com/intl/en-us/legal/terms/fair_usage/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/fair-usage/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Fair Usage Policy for US Minute Bundles">
-   <url name="http://www.skype.com/intl/en-us/legal/terms/fair_usage_minute_bundles/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/connect-minute-fair-usage/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Privacy Policy English (International)">
-   <url name="http://www.skype.com/intl/en/legal/privacy/general/" xpath="//div[@id='content']" reviewed="true">
+ <docname name="Privacy Policy">
+   <url name="http://www.skype.com/en/legal/privacy/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Etiquette">
-   <url name="http://www.skype.com/intl/en-us/legal/terms/etiquette/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/etiquette/" xpath="//div[@class='alignLeft']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Skype Emergency Calling">
-   <url name="http://www.skype.com/intl/en-us/legal/skype-limited-emergency-calling/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/emergency-calling/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Trademark Guidelines">
-   <url name="http://www.skype.com/intl/en-us/legal/terms/trademark-guidelines/" xpath="//div[@id='content']" reviewed="true">
+   <url name="http://www.skype.com/en/legal/brand-guidelines/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Terms of Service - Business">
-   <url name="http://www.skype.com/intl/en-us/legal/business/terms/" xpath="//div[@id='content']" reviewed="true" reviewed="true">
+ <docname name="Business Terms of Use">
+   <url name="http://www.skype.com/en/legal/business-tou/" xpath="//div[@class='parsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Terms of Service - Business (US)">
-   <url name="http://www.skype.com/intl/en-us/legal/business/terms-us/" xpath="//div[@id='content']" reviewed="true">
+ <docname name="Business Terms of Use (USA)">
+   <url name="http://www.skype.com/en/legal/business-tou-us/" xpath="//div[@class='parsys mainParsys']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
