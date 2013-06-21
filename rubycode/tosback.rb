@@ -59,6 +59,9 @@ class TOSBackApp
     end #@sites
     
     if @reviewed_changes.length > 0
+      bodytext = ""
+      @reviewed_changes.each {|change| bodytext += "#{change[:site]}, #{change[:name]}\n"}
+      
       require 'mail'
       require './tosback_secrets.rb'
       
@@ -79,8 +82,6 @@ class TOSBackApp
         from 'ToSBack <tosback-noreply@tosdr.org>'
         subject 'Changes to a policy that we\'ve reviewed'
         text_part do
-          bodytext = ""
-          changed.each {|change| bodytext += "#{change[:site]}, #{change[:name]}\n"}
           body "#{bodytext} Each of these changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
         end
       end
