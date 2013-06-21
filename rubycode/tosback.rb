@@ -241,7 +241,13 @@ class TOSBackDoc
   
   def has_data_changed?
     get_prev_data() if @prev_data == nil
-    @prev_data.chomp != @newdata.chomp
+    if @newdata && @prev_data
+      changed = @prev_data.chomp != @newdata.chomp
+    else
+      TOSBackSite.log_stuff("#{url}:\t#{e.message}",$error_log)
+    end
+    
+    return changed
   end
   
   def get_prev_data
