@@ -243,8 +243,8 @@ class TOSBackDoc
     get_prev_data() if @prev_data == nil
     if @newdata && @prev_data
       changed = @prev_data.chomp != @newdata.chomp
-    else
-      TOSBackSite.log_stuff("#{url}:\t#{e.message}",$error_log)
+    elsif @newdata.nil?
+      changed = true
     end
     
     return changed
