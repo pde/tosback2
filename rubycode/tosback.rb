@@ -51,8 +51,7 @@ class TOSBackApp
     @sites.each do |site|
       site.docs.each do |doc|
         if doc.reviewed && doc.has_data_changed?
-            @reviewed_changes << {site: doc.site, name:doc.name}
-          end
+          @reviewed_changes << {site: doc.site, name:doc.name}
         end
       end #@docs
     end #@sites
