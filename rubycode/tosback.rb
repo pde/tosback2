@@ -232,7 +232,7 @@ class TOSBackDoc
   end #check_prev
   
   def write
-    if @newdata
+    unless @newdata.nil? || @newdata == ""
       Dir.mkdir(@save_dir) unless File.exists?(@save_dir)
     
       crawl_file = File.open(@save_path,"w") # new file or overwrite old file
@@ -243,12 +243,12 @@ class TOSBackDoc
   
   def has_data_changed?
     get_prev_data() if @prev_data == nil
-    if @newdata && @prev_data
-      changed = @prev_data.chomp != @newdata.chomp
-    elsif @newdata.nil?
+    if @newdata.nil? || @newdata == ""
       if @prev_data_modified < Time.now - 129600
         changed = true
       end
+    elsif @newdata && @prev_data
+      changed = @prev_data.chomp != @newdata.chomp
     end
     
     return changed
