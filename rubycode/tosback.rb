@@ -4,7 +4,7 @@ require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 # require 'grit'
 
-$rules_path = "../rules/" # Directories should include trailing slash
+$rules_path = "../rule_test/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $reviewed_crawl_path = "../crawl_reviewed/"
 $log_dir = "../logs/"
@@ -50,8 +50,7 @@ class TOSBackApp
     
     @sites.each do |site|
       site.docs.each do |doc|
-        if doc.reviewed
-          if doc.has_data_changed?
+        if doc.reviewed && doc.has_data_changed?
             @reviewed_changes << {site: doc.site, name:doc.name}
           end
         end
@@ -82,7 +81,7 @@ class TOSBackApp
         from 'ToSBack <tosback-noreply@tosdr.org>'
         subject 'Changes to a policy that we\'ve reviewed'
         text_part do
-          body "#{bodytext} Each of these changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
+          body "#{bodytext} These were changed or blank in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
         end
       end
       
@@ -195,6 +194,7 @@ class TOSBackDoc
   @reviewed ||= nil
   @save_dir ||= nil
   @save_path ||= nil
+  @prev_data_modified ||= nil
   
   def initialize(hash)
     @site = hash[:site]
@@ -227,16 +227,19 @@ class TOSBackDoc
         @has_prev = true
         # puts "has_prev true"
       end #if
+      prev.close
+      @prev_data_modified = File.mtime(@save_path)
     end #unless
-    prev.close if prev
   end #check_prev
   
   def write
-    Dir.mkdir(@save_dir) unless File.exists?(@save_dir)
+    if @newdata
+      Dir.mkdir(@save_dir) unless File.exists?(@save_dir)
     
-    crawl_file = File.open(@save_path,"w") # new file or overwrite old file
-    crawl_file.puts @newdata
-    crawl_file.close
+      crawl_file = File.open(@save_path,"w") # new file or overwrite old file
+      crawl_file.puts @newdata
+      crawl_file.close
+    end
   end #write
   
   def has_data_changed?
@@ -244,7 +247,9 @@ class TOSBackDoc
     if @newdata && @prev_data
       changed = @prev_data.chomp != @newdata.chomp
     elsif @newdata.nil?
-      changed = true
+      if @prev_data_modified < Time.now - 129600
+        changed = true
+      end
     end
     
     return changed
@@ -335,7 +340,7 @@ class TOSBackDoc
     end
   end #strip_tags
   
-  attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev, :reviewed
+  attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev, :reviewed, :blank_crawl
   private :download_full_page, :apply_xpath, :strip_tags, :format_newdata
 end #TOSBackDoc
 
