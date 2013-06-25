@@ -5243,3 +5243,20 @@
 2013-06-24 00:20:34 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-06-24 00:22:52 -0500 - http://www.grammarly.com/terms:	502 => Net::HTTPBadGateway for http://www.grammarly.com/terms -- unhandled response
 2013-06-24 00:23:13 -0500 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
+2013-06-25 00:06:36 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-06-25 00:07:21 -0500 - http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy:	404 => Net::HTTPNotFound for http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy -- unhandled response
+2013-06-25 00:07:54 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-06-25 00:09:42 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-06-25 00:10:24 -0500 - http://www.zillow.com/corp/Privacy.htm:	Connection timed out - connect(2)
+2013-06-25 00:10:45 -0500 - http://www.albertsons.com/about/security-privacy.html:	404 => Net::HTTPNotFound for http://www.albertsons.com/about/security-privacy.html -- unhandled response
+2013-06-25 00:10:54 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-06-25 00:12:59 -0500 - http://pbskids.org/privacy/index.html?campaign=fkhp_prv:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 27225240, last used 1372137179.8587217 seconds ago
+2013-06-25 00:13:52 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-06-25 00:13:53 -0500 - http://www.gap.com/customerService/info.do?cid=2331&mlink=50583553159privacyfooter&clink=3553159:	503 => Net::HTTPServiceUnavailable for http://www.gap.com/store-closed/Gap/storeClosed/en/index.html -- unhandled response
+2013-06-25 00:14:43 -0500 - https://myspace.com/pages/privacy:	403 => Net::HTTPForbidden for https://myspace.com/pages/privacy -- unhandled response
+2013-06-25 00:14:44 -0500 - https://myspace.com/pages/terms:	403 => Net::HTTPForbidden for https://myspace.com/pages/terms -- unhandled response
+2013-06-25 00:15:19 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-06-25 00:15:55 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-06-25 00:16:25 -0500 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
+2013-06-25 00:16:44 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-06-25 00:16:44 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
