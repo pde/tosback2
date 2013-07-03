@@ -3,7 +3,7 @@ require 'open-uri'
 require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 
-Dir["lib/*.rb"].each {|file| require file }
+Dir["lib/*.rb"].each {|file| require "./#{file}" }
 
 $rules_path = "../rule_test/" # Directories should include trailing slash
 $results_path = "../crawl/"

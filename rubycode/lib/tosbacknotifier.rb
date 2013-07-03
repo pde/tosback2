@@ -12,7 +12,7 @@ class TOSBackNotifier
   
   def send_notifications
     require 'mail'
-    require './lib/tosback_secrets.rb'
+    # require './tosback_secrets.rb'
     
     secrets = TOSBackSecrets.get_secret_hash
     

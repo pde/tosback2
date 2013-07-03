@@ -45,6 +45,7 @@ class TOSBackDoc
         $notifier.blank << {site: @site, name: @name}
       elsif !crawl_empty?
         $notifier.changes << {site: @site, name: @name} if data_changed?
+      end
     end
   end
   

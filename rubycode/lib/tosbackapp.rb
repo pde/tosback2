@@ -5,7 +5,7 @@ class TOSBackApp
     Dir.foreach(path) do |xml_file| # loop for each xml file/rule
       next if xml_file == "." || xml_file == ".."
       
-      filecontent = File.open(xml_file)
+      filecontent = File.open(path + xml_file)
       ngxml = Nokogiri::XML(filecontent)
       filecontent.close
     
