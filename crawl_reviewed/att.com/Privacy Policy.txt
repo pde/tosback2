@@ -6,7 +6,9 @@ checkAnc = pid.indexOf('#').
 if(checkAnc != '-1') { pid = pid.split('#').
 pid = pid[0].
 } } //alert(pid).
-function renderLandingPageContent() { document.write('	' + ' About Our Updated Privacy Policy' + ' <p>Whenever you do something like buy one of our products, stream a movie or download an app, information is created.
+function renderPrintLink() {
+document.write ('' + 'View our current policy' + '').
+} function renderLandingPageContent() { document.write('	' + ' About Our Updated Privacy Policy' + ' <p>Whenever you do something like buy one of our products, stream a movie or download an app, information is created.
 Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information.
 There’s a quick summary below, and the entire policy is written in an easy FAQ format.
 We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.</p>' + ' A Quick Summary of Our Privacy Policy' + ' <p>Our privacy policy applies to your use of our products and services.
@@ -780,4 +782,4 @@ document.write('' + 'More Information' + ' <p>Visit www.att.net/smartcontrols fo
 } document.write(' ').
 /*if(pid=='13692') { document.write('' + 'More Information' + ' <p>Visit www.att.net/smartcontrols for tips on keeping your family safe while staying connected, and links to more safety resources.</p>' + ' <p>Learn more about Smart Limits parental controls for Internet, wireless, television and home phone.</p>' + ' ').
 } else {} */
-}
+} 
