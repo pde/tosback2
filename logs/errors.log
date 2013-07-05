@@ -5423,3 +5423,20 @@
 2013-07-04 00:14:50 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-07-04 00:14:50 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
 2013-07-04 00:15:20 -0500 - http://nadaguides.com/Privacy-policy:	getaddrinfo: Name or service not known
+2013-07-05 00:06:33 -0500 - http://www.cooks.com/rec/privacy.html:	connection refused: www.cooks.com:80
+2013-07-05 00:07:23 -0500 - http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy:	404 => Net::HTTPNotFound for http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy -- unhandled response
+2013-07-05 00:07:49 -0500 - http://www8.hp.com/us/en/privacy/privacy.html:	404 => Net::HTTPNotFound for http://www8.hp.com/us/en/privacy/privacy.html -- unhandled response
+2013-07-05 00:08:00 -0500 - http://www.peoplesmart.com/?_act=privacy:	connection refused: www.peoplesmart.com:80
+2013-07-05 00:10:12 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-05 00:11:01 -0500 - http://www.albertsons.com/about/security-privacy.html:	404 => Net::HTTPNotFound for http://www.albertsons.com/about/security-privacy.html -- unhandled response
+2013-07-05 00:11:10 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-05 00:11:58 -0500 - http://www.color.com/tos:	Connection timed out - connect(2)
+2013-07-05 00:12:19 -0500 - http://www.color.com/privacy:	Connection timed out - connect(2)
+2013-07-05 00:13:09 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-07-05 00:13:58 -0500 - http://nadaguides.com/Privacy-policy:	getaddrinfo: Name or service not known
+2013-07-05 00:14:01 -0500 - https://myspace.com/pages/privacy:	403 => Net::HTTPForbidden for https://myspace.com/pages/privacy -- unhandled response
+2013-07-05 00:14:01 -0500 - https://myspace.com/pages/terms:	403 => Net::HTTPForbidden for https://myspace.com/pages/terms -- unhandled response
+2013-07-05 00:14:35 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2013-07-05 00:15:07 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-05 00:15:36 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
+2013-07-05 00:15:36 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
