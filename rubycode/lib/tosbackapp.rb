@@ -22,8 +22,8 @@ class TOSBackApp
     scrape_docs
     check_notify_for_docs
     write_docs
-    self.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)    
-    self.git_modified
+    TOSBackApp.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)    
+    TOSBackApp.git_modified
     git_commit
     $notifier.send_notifications
   end
