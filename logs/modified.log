@@ -1,23 +1,14 @@
 These files were modified since the last commit:
 
-# On branch master
-# Your branch is ahead of 'origin/master' by 1 commit.
-#
-# Changed but not updated:
+# On branch crawldate
+# Changes not staged for commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/amazon.co.uk/Privacy Policy.txt
-#	modified:   ../crawl/argos.co.uk/Privacy Policy.txt
-#	modified:   ../crawl/bathandbodyworks.com/Privacy Policy.txt
-#	modified:   ../crawl/bathandbodyworks.com/Terms of Service.txt
-#	modified:   ../crawl/charter.net/Acceptable Use Policy.txt
-#	modified:   ../crawl/charter.net/Privacy Policy.txt
-#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
-#	modified:   ../crawl/kineticglue.com/Privacy Policy.txt
-#	modified:   ../crawl/miniclip.com/Privacy Policy.txt
-#	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../logs/errors.log
+#	modified:   ../crawl_reviewed/500px.com/Terms of Service.txt
+#	modified:   ../crawl_reviewed/myspace.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/myspace.com/Terms of Service.txt
+#	modified:   ../logs/empty.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
 #
