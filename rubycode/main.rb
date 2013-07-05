@@ -2,6 +2,8 @@ require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
+require 'mail'
+require 'pry' #debug
 
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
 
@@ -21,10 +23,6 @@ if ARGV.length == 0
   tba = TOSBackApp.new($rules_path)
   
   tba.run_app
-    
-  TOSBackApp.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)
-
-  TOSBackApp.git_modified
 
 elsif ARGV[0] == "-empty"
   

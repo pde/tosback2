@@ -10,8 +10,8 @@ class TOSBackNotifier
     @blank = []
   end
   
+  #TODO DRY this up
   def send_notifications
-    require 'mail'
     # require './tosback_secrets.rb'
     
     secrets = TOSBackSecrets.get_secret_hash
@@ -31,7 +31,7 @@ class TOSBackNotifier
       end
       
       mail = Mail.deliver do
-        # change to goog group after testing
+        #TODO change to goog group after testing
         to 'jimm@tosdr.org'
         from 'ToSBack <tosback@tosdr.org>'
         subject 'Changes to a policy that we\'ve reviewed'
@@ -46,16 +46,6 @@ class TOSBackNotifier
       bodytext = ""
       @blank.each {|blank| bodytext += "#{blank[:site]}, #{blank[:name]}\n"}
             
-      Mail.defaults do
-        delivery_method :smtp, { :address   => "smtp.sendgrid.net",
-                                 :port      => 587,
-                                 :domain    => "tosdr.org",
-                                 :user_name => secrets[:u],
-                                 :password  => secrets[:p],
-                                 :authentication => 'plain',
-                                 :enable_starttls_auto => true }
-      end
-      
       mail = Mail.deliver do
         to 'jimm@tosdr.org'
         from 'ToSBack <tosback@tosdr.org>'

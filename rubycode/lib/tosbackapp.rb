@@ -2,6 +2,8 @@ class TOSBackApp
   @docs ||= nil
   
   def initialize(path)
+    @docs = []
+    
     Dir.foreach(path) do |xml_file| # loop for each xml file/rule
       next if xml_file == "." || xml_file == ".."
       
@@ -10,7 +12,6 @@ class TOSBackApp
       filecontent.close
     
       site = ngxml.xpath("//sitename[1]/@name").to_s
-      @docs = []
       ngxml.xpath("//sitename/docname").each do |doc|
         @docs << TOSBackDoc.new({site: site, name: doc.at_xpath("./@name").to_s, url: doc.at_xpath("./url/@name").to_s, xpath: doc.at_xpath("./url/@xpath").to_s, reviewed: doc.at_xpath("./url/@reviewed").to_s})
       end
@@ -21,6 +22,8 @@ class TOSBackApp
     scrape_docs
     check_notify_for_docs
     write_docs
+    self.log_stuff("Script finished! Check #{$error_log} for rules to fix :)",$run_log)    
+    self.git_modified
     git_commit
     $notifier.send_notifications
   end
