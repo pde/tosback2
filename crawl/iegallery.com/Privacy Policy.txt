@@ -334,7 +334,31 @@ If you do not have a Microsoft account, you can manage your Microsoft email comm
 </ul>
 <p>These choices do not apply to the display of online advertising: please refer to the section "Display of Advertising (Opt-out)" for information on this matter.
 Nor do they apply to the receipt of mandatory service communications that are considered part of certain Microsoft services, which you may receive periodically unless you cancel the service.
-</p> Microsoft accountMicrosoft account <p> Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.
+</p> Location Based ServicesLocation Based Services Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.” <p>When you use a location based service or feature, available cell tower data, Wi-Fi data and Global Position System (GPS) data may be sent to Microsoft.  Microsoft uses location information to provide the services you request, personalize your experience and improve Microsoft products and services.  </p>
+<p>Certain services may allow you to control when location information is sent to Microsoft or made available to others.  In some cases, location information is essential to the service and may require uninstalling the feature or discontinuing the service to stop the sending of location information.  Refer to the documentation that came with your device for information about how to turn off location features.</p> Support DataSupport Data We use Support Data in the same way as we use your information, as described in this privacy statement.
+Additionally, we use it to resolve your support incident and for training purposes.
+<p>Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files.
+</p>
+<p>Support may be provided through phone, e-mail, or online chat.
+We may use Remote Access (RA), with your permission, to temporarily navigate your machine.
+Phone conversations, online chat sessions, or Remote Access sessions with support professionals may be recorded and/or monitored.
+For RA, you may also access the recording after your session.  For Online Chat or RA, you may end a session at any time of your choosing.
+We use Support Data in the same way as we use your information, as described in this privacy statement.
+Additionally, we use it to resolve your support incident and for training purposes. </p>
+<p>Following a support incident, we may send you a survey about your experience and offerings.
+You must opt-out of support surveys separately from other communications provided by Microsoft, by contacting Support or through the e-mail footer.  </p>
+<p>To review and edit your personal information collected through our support services, and for any other inquiries regarding our support services, please contact us by using our Web form.
+Some business customers may purchase enhanced support offerings (e.g.
+Premier etc.).
+These offerings are covered by their own contract terms and notices.
+</p> Payment DataPayments Data When you make online purchases, you will be asked to provide information, which may include your payment instrument number (e.g., credit card, PayPal), your name and billing address, and the security code associated with your payment instrument (e.g., the CSV) and other financial data (“Payment Information”).
+This section describes the collection and use of Payment Information.
+<p>Payment Data is the information that you provide when making an online purchase through the Services.
+This may include your name, billing address, your payment instrument number (e.g., credit card), the security code associated with your payment instrument (e.g., the CSV) and other financial data.</p>
+<p>We use Payment Data to complete transactions, as well as to detect and prevent fraud.  In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, for fraud prevention and credit risk reduction purposes.  </p>
+<p>When you provide Payment Data while authenticated, we will store that data to help you complete future transactions.  We do not, however, retain the security code associated with your Payment instrument in this manner.
+</p>
+<p>To remove or modify Payment Data, please contact Customer Support.  After you close your account or remove Payment Data, however, Microsoft may retain your Payment Data for as long as reasonably necessary to complete your existing transactions, to comply with Microsoft’s legal and reporting requirements, and to detect and prevent fraud.  </p> Microsoft accountMicrosoft account <p> Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.
 When you create a Microsoft account, we ask you to provide certain information.
 When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service.
 We also send certain information to a site or service you have signed into with your Microsoft account.
@@ -434,10 +458,9 @@ Please note that if you are an MSN or a Windows Live user, if you go to account,
 <li>Protecting the security of personal information </li>
 <li>Where we store and process information </li>
 <li>Changes to our privacy statements </li>
-<li>TRUSTe certification and enforcing our privacy statements </li>
 <li>How to contact us </li>
 </ul>
-<p> Below you will find additional privacy information you may (or may not) find important.
+<p>Below you will find additional privacy information you may (or may not) find important.
 Much of this describes common practices that we want you to know about but don't think it's necessary to highlight in every one of our privacy statements.
 And some of this is just stating the obvious (for example, we will disclose information when the law requires it), but our lawyers make us say it anyway.
 Please keep in mind that this information is not a complete description of our practices - this is all <i>in addition</i> to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.
@@ -446,91 +469,84 @@ Please keep in mind that this information is not a complete description of our p
 <b>On this page:</b>
 </p>
 <ul>
-<li> Sharing or Disclosing Personal Information </li>
-<li> Protecting the Security of Personal Information </li>
-<li> Where Information is Stored and Processed </li>
-<li> Changes to Our Privacy Statements </li>
-<li> TRUSTe Certification and Enforcement of Our Privacy Statements </li>
-<li> How to Contact Us </li>
+<li>Sharing or Disclosing Personal Information </li>
+<li>Protecting the Security of Personal Information </li>
+<li>Where Information is Stored and Processed </li>
+<li>Changes to Our Privacy Statements </li>
+<li>How to Contact Us </li>
 </ul>
 <p>
 <b>Sharing or Disclosing Personal Information </b>
 </p>
-<p> In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information: </p>
+<p>In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information: </p>
 <ul>
-<li> With other Microsoft controlled subsidiaries and affiliates.
+<li>With other Microsoft controlled subsidiaries and affiliates.
 </li>
-<li> As part of a corporate transaction such as a merger or sale of assets.</li>
-<li> With vendors or agents.
+<li>As part of a corporate transaction such as a merger or sale of assets.
+</li>
+<li>With vendors or agents.
 Specifically, we may share it with companies we've hired to provide services on our behalf.
 When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential.
 </li>
 </ul>
 <p>We also may share or disclose personal information, including the content of your communications:</p>
 <ul>
-<li> To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.</li>
-<li> To protect the rights or property of Microsoft or our customers, including enforcing the terms governing your use of the services.
+<li>To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
 </li>
-<li> To act on a good faith belief that access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.
+<li>To protect the rights or property of Microsoft or our customers, including enforcing the terms governing your use of the services.
+</li>
+<li>To act on a good faith belief that access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.
 </li>
 </ul>
-<p> Please note that our sites may include links to third-party sites whose privacy practices may differ from those of Microsoft.
+<p>Please note that our sites may include links to third-party sites whose privacy practices may differ from those of Microsoft.
 If you submit personal information to any of those sites, your information is governed by the privacy statements on those sites.
 We encourage you to review the privacy statement of any site you visit.
 </p>
 <p>
 <b>Protecting the Security of Personal Information</b>
 </p>
-<p> Microsoft is committed to protecting the security of your personal information.
+<p>Microsoft is committed to protecting the security of your personal information.
 We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure.
 For example, we store the personal information you provide on computer systems that have limited access and are in controlled facilities.
 When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 </p>
-<p> If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.
+<p>If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.
 Do not share it.
 If you are sharing a computer, you should always log out before leaving a site or service to protect access to your information from subsequent users.
 </p>
 <p>
 <b>Where Information is Stored and Processed</b>
 </p>
-<p> Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities.
+<p>Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities.
 Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S.
 Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland.
 To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.
 </p>
-<p> Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services.
+<p>As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices.
+If you would like to contact TRUSTe, please visit https://feedback-form.truste.com/watchdog/request.
+</p>
+<p>Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services.
 To learn how to access your personal information, visit Accessing Your Information.
 </p>
 <p>
 <b>Changes to Our Privacy Statements</b>
 </p>
-<p> We will occasionally update our privacy statements to reflect customer feedback and changes in our services.
+<p>We will occasionally update our privacy statements to reflect customer feedback and changes in our services.
 When we post changes to a statement, we will revise the "last updated" date at the top of the statement.
 If there are material changes to the statement or in how Microsoft will use your personal information, we will notify you either by prominently posting a notice of such changes before they take effect or by directly sending you a notification.
 We encourage you to periodically review the privacy statements for the products and services you use to learn how Microsoft is protecting your information.
 </p>
 <p>
-<b>TRUSTe Certification and Enforcement of Our Privacy Statements</b>
-</p>
-<p> Most Microsoft privacy statements have TRUSTe's Privacy Seal, signifying the privacy statement and the practices it describes have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice in the collection and use of your personal information.
-The TRUSTe program does not cover information that may be collected through downloadable software.
-An independent third party, TRUSTe has a mission to accelerate online trust among consumers and organizations globally through its privacy seal and innovative trust solutions.
-</p>
-<p> If you have questions regarding one of our privacy statements, you should first contact us by using our Web form.
-If we do not acknowledge or satisfactorily address your inquiry, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.
-TRUSTe will serve as a liaison with Microsoft to resolve your concerns.
-</p>
-<p>
 <b>How to Contact Us</b>
 </p>
 <ul>
-<li> If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
+<li>If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
 </li>
-<li> If you have a Windows Live password question, please visit Live Help.
+<li>If you have a Windows Live password question, please visit Live Help.
 </li>
-<li> For general Microsoft privacy issues, please contact us by using our Web form.
+<li>For general Microsoft privacy issues, please contact us by using our Web form.
 </li>
 </ul>
-<p>Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA </p>
-<p> To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
+<p>Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA * 425-882-8080</p>
+<p>To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
 </p> 
