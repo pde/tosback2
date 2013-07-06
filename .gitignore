@@ -1,4 +1,4 @@
 # OS generated files #
 ######################
 .DS_Store
-rubycode/tosback_secrets.rb
+rubycode/lib/tosback_secrets.rb
