@@ -35,7 +35,7 @@ class TOSBackApp
     io = IO.popen("git commit -m 'changes for reviewed docs'")
     io.close
     
-    io = IO.popen("git add ../.")
+    io = IO.popen("git add #{$results_path}")
     io.close
         
     io = IO.popen("git commit -m 'crawls'")

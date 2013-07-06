@@ -3,11 +3,11 @@ require 'open-uri'
 require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 require 'mail'
-require 'pry' #debug
+# require 'pry' #debug
 
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
 
-$rules_path = "../rule_test/" # Directories should include trailing slash
+$rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $reviewed_crawl_path = "../crawl_reviewed/"
 $log_dir = "../logs/"
