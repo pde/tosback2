@@ -1,0 +1,12 @@
+<sitename name="medium.com">
+ <docname name="Terms of Service">
+   <url name="https://medium.com/policy/9db0094a1e0f" xpath="//div[@class='post-field body notes-source']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://medium.com/policy/f03bf92035c9" xpath="//div[@class='post-field body notes-source']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
