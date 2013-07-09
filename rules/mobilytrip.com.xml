@@ -1,0 +1,11 @@
+<sitename name="mobilytrip.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.mobilytrip.com/pages/privacy_policy" xpath="//div[@class='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+  <url name="http://www.mobilytrip.com/pages/terms_of_use" xpath="//div[@class='content']">
+  </url>
+ </docname>
+</sitename>
