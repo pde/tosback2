@@ -9,4 +9,14 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
+<docname name="Etiquette Policy">
+   <url name="http://about.deviantart.com/policy/etiquette/" xpath="//div[@id=&apos;policy-etiquette&apos;]">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Copyright Policy">
+   <url name="http://about.deviantart.com/policy/copyright/" xpath="//div[@id=&apos;policy-copyright&apos;]">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
 </sitename>
