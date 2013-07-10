@@ -1,0 +1,12 @@
+<sitename name="toodledo.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.toodledo.com/info/privacy.php" xpath="//div[@id='rchunk']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms of Service">   
+   <url name="http://www.toodledo.com/info/terms.php" xpath="//div[@id='rchunk']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
