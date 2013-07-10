@@ -16,19 +16,19 @@ class TOSBackNotifier
     
     secrets = TOSBackSecrets.get_secret_hash
     
+    Mail.defaults do
+      delivery_method :smtp, { :address   => "smtp.sendgrid.net",
+                               :port      => 587,
+                               :domain    => "tosdr.org",
+                               :user_name => secrets[:u],
+                               :password  => secrets[:p],
+                               :authentication => 'plain',
+                               :enable_starttls_auto => true }
+    end
+    
     if @changes.length > 0
       bodytext = ""
       @changes.each {|change| bodytext += "#{change[:site]}, #{change[:name]}\n"}
-      
-      Mail.defaults do
-        delivery_method :smtp, { :address   => "smtp.sendgrid.net",
-                                 :port      => 587,
-                                 :domain    => "tosdr.org",
-                                 :user_name => secrets[:u],
-                                 :password  => secrets[:p],
-                                 :authentication => 'plain',
-                                 :enable_starttls_auto => true }
-      end
       
       mail = Mail.deliver do
         #TODO change to goog group after testing
