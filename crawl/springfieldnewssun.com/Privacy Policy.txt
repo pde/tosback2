@@ -1,4 +1,4 @@
- marimo.emit('writecapture54869072_ready').
+ marimo.emit('writecapture19049965_ready').
 marimo.add_widget({"wc_compatibility_mode": false, "html": "$NEWLINE <p>
 <strong>Privacy Policy</strong>
 <br>Last Updated: November 27, 2012</p>$NEWLINE<p>
@@ -180,4 +180,4 @@ If we become aware that we have collected any personally identifying information
 <br>
 <strong>CHANGES TO THIS PRIVACY STATEMENT</strong>
 <br> We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the \u201cLast Updated\u201d date above to reflect the date the changes take effect.
-By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.</p>$NEWLINE ", "id": "writecapture54869072", "widget_prototype": "writecapture_widget"}).
+By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.</p>$NEWLINE ", "id": "writecapture19049965", "widget_prototype": "writecapture_widget"}).
