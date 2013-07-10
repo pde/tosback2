@@ -28,15 +28,14 @@ class TOSBackNotifier
     
     if @changes.length > 0
       bodytext = ""
-      @changes.each {|change| bodytext += "#{change[:site]}, #{change[:name]}\n"}
+      @changes.each {|change| bodytext += "#{change[:site]}: #{change[:name]}\n"}
       
       mail = Mail.deliver do
-        #TODO change to goog group after testing
-        to 'jimm@tosdr.org'
+        to 'tosdr@googlegroups.com'
         from 'ToSBack <tosback@tosdr.org>'
-        subject 'Changes to a policy that we\'ve reviewed'
+        subject 'ToSBack: Policy Changes'
         text_part do
-          body "#{bodytext} These were changed in last night's crawl. Have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master please!"
+          body "#{bodytext} These were changed in last night's crawl. Please have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master to see the differences!"
         end
       end
       
@@ -44,7 +43,7 @@ class TOSBackNotifier
     
     if @blank.length > 0
       bodytext = ""
-      @blank.each {|blank| bodytext += "#{blank[:site]}, #{blank[:name]}\n"}
+      @blank.each {|blank| bodytext += "#{blank[:site]}: #{blank[:name]}\n"}
             
       mail = Mail.deliver do
         to 'jimm@tosdr.org'
