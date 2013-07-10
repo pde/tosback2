@@ -1,0 +1,12 @@
+<sitename name="dashlane.com">
+ <docname name="Terms of Service">
+   <url name="https://www.dashlane.com/terms" xpath="//div[@id='box-white']" lang="EN">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://www.dashlane.com/privacy" xpath="//div[@id='box-white']" lang="EN">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

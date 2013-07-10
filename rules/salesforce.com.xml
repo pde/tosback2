@@ -1,0 +1,7 @@
+<sitename name="salesforce.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.salesforce.com/company/privacy/full_privacy.jsp" xpath="//div[@id='layout']/node()[not(class='grid-row bg-divider top-30 fullwidth margin-bottom-20 left-5')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
