@@ -5535,3 +5535,15 @@
 2013-07-10 00:16:31 -0500 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
 2013-07-10 00:16:49 -0500 - http://about.pinterest.com/privacy/:	403 => Net::HTTPForbidden for http://about.pinterest.com/privacy/ -- unhandled response
 2013-07-10 00:16:49 -0500 - http://about.pinterest.com/terms/:	403 => Net::HTTPForbidden for http://about.pinterest.com/terms/ -- unhandled response
+2013-07-11 00:16:32 -0400 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-07-11 00:17:37 -0400 - http://identi.ca/doc/tos:	500 => Net::HTTPInternalServerError for http://identi.ca/doc/tos -- unhandled response
+2013-07-11 00:17:37 -0400 - http://identi.ca/doc/privacy:	500 => Net::HTTPInternalServerError for http://identi.ca/doc/privacy -- unhandled response
+2013-07-11 00:18:49 -0400 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
+2013-07-11 00:23:04 -0400 - http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy:	404 => Net::HTTPNotFound for http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy -- unhandled response
+2013-07-11 00:24:14 -0400 - http://www.color.com/tos:	Connection timed out - connect(2)
+2013-07-11 00:25:17 -0400 - http://www.color.com/privacy:	Connection timed out - connect(2)
+2013-07-11 00:25:20 -0400 - http://www.albertsons.com/about/security-privacy.html:	404 => Net::HTTPNotFound for http://www.albertsons.com/about/security-privacy.html -- unhandled response
+2013-07-11 00:25:45 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-11 00:26:13 -0400 - http://www.typepad.com/privacy:	404 => Net::HTTPNotFound for http://www.typepad.com/privacy -- unhandled response
+2013-07-11 00:28:14 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-11 00:28:37 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response

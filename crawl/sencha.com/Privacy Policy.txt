@@ -55,7 +55,13 @@
 Log in / Register Username Password Log in Remember Me? Register for a Sencha account » </li>
 <li>Forum</li>
 <li>App Gallery</li>
+<li> Developers <ul>
 <li>Learn</li>
+<li>SenchaDevs</li>
+<li>Sencha Market</li>
+<li>Sencha Try</li>
+</ul>
+</li>
 <li> Documentation <ul>
 <li>Ext JS 4</li>
 <li>Ext JS 3</li>
