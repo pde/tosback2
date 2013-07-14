@@ -5570,3 +5570,16 @@
 2013-07-13 00:26:07 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-07-13 00:28:48 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-13 00:29:12 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-14 00:15:52 -0400 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	404 => Net::HTTPNotFound for https://manage.sprintpcs.com/output/en_US/manage/MyPhoneandPlan/ChangePlans/popLegalTermsPrivacy.htm -- unhandled response
+2013-07-14 00:16:34 -0400 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-07-14 00:17:57 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-14 00:17:57 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-14 00:19:18 -0400 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
+2013-07-14 00:23:51 -0400 - http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy:	404 => Net::HTTPNotFound for http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy -- unhandled response
+2013-07-14 00:25:00 -0400 - http://www.color.com/tos:	Connection timed out - connect(2)
+2013-07-14 00:26:03 -0400 - http://www.color.com/privacy:	Connection timed out - connect(2)
+2013-07-14 00:26:06 -0400 - http://www.albertsons.com/about/security-privacy.html:	404 => Net::HTTPNotFound for http://www.albertsons.com/about/security-privacy.html -- unhandled response
+2013-07-14 00:26:42 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-14 00:28:34 -0400 - http://www.saksfifthavenue.com/Policies:	504 => Net::HTTPGatewayTimeOut for http://www.saksfifthavenue.com/Policies -- unhandled response
+2013-07-14 00:29:38 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-14 00:30:02 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
