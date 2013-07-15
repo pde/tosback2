@@ -5,17 +5,15 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/allthingsd.com/Privacy Policy.txt
-#	modified:   ../crawl/cbsalary.com/Privacy Policy.txt
-#	modified:   ../crawl/fidelity.com/Privacy Policy.txt
-#	modified:   ../crawl/invizua.com/Privacy Policy.txt
-#	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/seekingalpha.com/Privacy Policy.txt
-#	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../logs/empty.log
-#	modified:   ../logs/errors.log
+#	modified:   ../logs/caveman.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
+#	modified:   lib/tosbackdoc.rb
 #	modified:   lib/tosbacknotifier.rb
+#	modified:   main.rb
 #
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	../testrules/
 no changes added to commit (use "git add" and/or "git commit -a")
