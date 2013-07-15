@@ -5607,3 +5607,14 @@
 2013-07-15 08:37:44 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-07-15 08:39:57 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-15 08:40:20 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-15 10:07:42 -0400 - http://agb.web.de/Datenschutzerklaerung/AGB/20111020/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20111020/ -- unhandled response
+2013-07-15 10:09:08 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-15 10:09:08 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-15 10:10:19 -0400 - http://www.kineticglue.com/site/privacy-policy.html:	Connection timed out - connect(2)
+2013-07-15 10:14:39 -0400 - http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy:	404 => Net::HTTPNotFound for http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&cat2=PrivacyPolicy -- unhandled response
+2013-07-15 10:15:47 -0400 - http://www.color.com/tos:	Connection timed out - connect(2)
+2013-07-15 10:16:50 -0400 - http://www.color.com/privacy:	Connection timed out - connect(2)
+2013-07-15 10:16:55 -0400 - http://www.albertsons.com/about/security-privacy.html:	404 => Net::HTTPNotFound for http://www.albertsons.com/about/security-privacy.html -- unhandled response
+2013-07-15 10:17:21 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-15 10:19:21 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-15 10:19:43 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
