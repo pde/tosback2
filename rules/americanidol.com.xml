@@ -1,6 +1,11 @@
 <sitename name="americanidol.com">
  <docname name="Privacy Policy">
-   <url name="http://www.americanidol.com/legal/privacypolicy/" xpath="//ol[@id='fullPolicy']">
+   <url name="http://www.americanidol.com/legal/privacypolicy" xpath="//ol[@id='full_policy']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.americanidol.com/legal/terms" xpath="//div[@class='primary']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
