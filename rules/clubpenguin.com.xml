@@ -1,6 +1,11 @@
 <sitename name="clubpenguin.com">
+ <docname name="Terms of Use">
+   <url name="http://www.clubpenguin.com/terms-of-use/en" xpath="//div[@class='field-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.clubpenguin.com/privacy.htm">
+   <url name="http://www.clubpenguin.com/privacy-policy/en" xpath="//div[@class='field-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,11 @@
 <sitename name="epulettar.hu">
  <docname name="Privacy Policy">
-   <url name="http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles" xpath="//article[@class='post printable clearfix']/*[not(@id='LikeIt')]">
+   <url name="http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles" xpath="//article[@class='contentBody printable clearfix']/node()[not(@id='LikeIt')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://epulettar.hu/cikk/page/felhasznalasi-feltetelek" xpath="//article[@class='contentBody printable clearfix']/node()[not(@id='LikeIt')]">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
