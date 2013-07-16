@@ -1,6 +1,11 @@
 <sitename name="gamefly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.gamefly.com/about-us/privacy-policy" xpath="//div[@class='text-content space-top-4']">
+   <url name="http://www.gamefly.com/about-us/privacy-policy" xpath="//div[@class='main-content-hold pad-h-4 pad-v-4 bgc-d0']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.gamefly.com/about-us/terms-of-use/" xpath="//div[@class='main-content-hold pad-h-4 pad-v-4 bgc-d0']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
