@@ -5,15 +5,29 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../logs/caveman.log
+#	modified:   ../crawl/agame.com/Privacy Policy.txt
+#	modified:   ../crawl/allthingsd.com/Privacy Policy.txt
+#	modified:   ../crawl/amazon.co.uk/Privacy Policy.txt
+#	modified:   ../crawl/aol.com/Privacy Policy.txt
+#	modified:   ../crawl/aoltv.com/Privacy Policy.txt
+#	modified:   ../crawl/biblegateway.com/Privacy Policy.txt
+#	modified:   ../crawl/games.com/Privacy Policy.txt
+#	modified:   ../crawl/iegallery.com/Privacy Policy.txt
+#	modified:   ../crawl/jobsonthemenu.com/Privacy Policy.txt
+#	modified:   ../crawl/lampsplus.com/Privacy Policy.txt
+#	modified:   ../crawl/moviefone.com/Privacy Policy.txt
+#	modified:   ../crawl/nytimes.com/Privacy Policy.txt
+#	modified:   ../crawl/piazza.com/Terms of Service.txt
+#	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
+#	modified:   ../crawl/techcrunch.com/Privacy Policy.txt
+#	modified:   ../crawl/walgreens.com/Privacy Policy.txt
+#	modified:   ../logs/empty.log
+#	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
 #	modified:   ../logs/run.log
-#	modified:   lib/tosbackdoc.rb
-#	modified:   lib/tosbacknotifier.rb
-#	modified:   main.rb
 #
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	../testrules/
 no changes added to commit (use "git add" and/or "git commit -a")
