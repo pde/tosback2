@@ -1,6 +1,11 @@
 <sitename name="web.de">
  <docname name="Privacy Policy">
-   <url name="http://agb.web.de/Datenschutzerklaerung/AGB/20111020/">
+   <url name="http://agb.web.de/Datenschutzerklaerung/AGB/20120801/" xpath="//center/table[@width='480']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://agb.web.de/WEB.DE/AGB/20120801/" xpath="//center/table[@width='480']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

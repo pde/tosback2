@@ -1,6 +1,11 @@
 <sitename name="phoenix.edu">
  <docname name="Privacy Policy">
-   <url name="http://www.phoenix.edu/copyright-legal/privacy_policy.html" xpath="//div[@class='column col_left']">
+   <url name="http://www.phoenix.edu/copyright-legal/privacy_policy.html" xpath="//div[@class='span11 left-rail']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.phoenix.edu/copyright-legal/terms_and_conditions.html" xpath="//div[@class='span11 left-rail']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

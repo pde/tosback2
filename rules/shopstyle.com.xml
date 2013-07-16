@@ -1,6 +1,11 @@
 <sitename name="shopstyle.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sugarinc.com/privacy" xpath="//div[@id='editor']">
+   <url name="http://www.popsugar.com/privacy" xpath="//div[@id='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://www.popsugar.com/tos" xpath="//div[@id='content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

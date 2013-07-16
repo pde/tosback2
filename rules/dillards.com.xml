@@ -1,6 +1,6 @@
 <sitename name="dillards.com">
- <docname name="Privacy Policy">
-   <url name="http://www.dillards.com/information/faq?cm_sp=customerservice-_-faq-_-null" xpath="//div[@id='FaqLegal']">
+ <docname name="Policies and Notices">
+   <url name="http://www.dillards.com/information/international-faq?cm_sp=Footer-_-Int-_-FAQ" xpath="//div[@class='answerArea']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

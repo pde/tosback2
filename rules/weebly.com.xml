@@ -1,6 +1,11 @@
 <sitename name="weebly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.weebly.com/privacy.php" xpath="//div[@id='wrapper']">
+   <url name="http://www.weebly.com/privacy/" xpath="//div[@class='inner-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://www.weebly.com/terms-of-service/" xpath="//div[@class='boxed-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

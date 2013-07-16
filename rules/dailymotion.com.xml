@@ -1,6 +1,11 @@
 <sitename name="dailymotion.com">
  <docname name="Privacy Policy">
-   <url name="http://www.dailymotion.com/legal/privacy" xpath="//div[@class='dmpi_legal']">
+   <url name="http://www.dailymotion.com/legal/privacy" xpath="//div[@id='contract']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.dailymotion.com/legal/terms" xpath="//div[@id='contract']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
