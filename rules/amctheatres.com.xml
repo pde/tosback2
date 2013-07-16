@@ -1,6 +1,11 @@
 <sitename name="amctheatres.com">
  <docname name="Privacy Policy">
-   <url name="http://www.amctheatres.com/privacy-policy" xpath="//div[@class='main-content']">
+   <url name="http://www.amctheatres.com/privacy-policy" xpath="//div[@class='content-item page']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.amctheatres.com/terms-and-conditions" xpath="//div[@class='content-item page']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

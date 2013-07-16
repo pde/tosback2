@@ -1,6 +1,11 @@
 <sitename name="godtube.com">
  <docname name="Privacy Policy">
-   <url name="http://www.godtube.com/privacy-policy.html" xpath="//div[@class='article articleBody']">
+   <url name="http://www.salemwebnetwork.com/our-brands/privacy-policy/" xpath="//div[@class='entry clearfix post']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.godtube.com/terms-of-use.html" xpath="//div[@class='article articleBody']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
