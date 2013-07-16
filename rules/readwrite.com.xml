@@ -1,0 +1,7 @@
+<sitename name="readwrite.com">
+ <docname name="Privacy Policy">
+   <url name="http://readwrite.com/page/privacy-policy" xpath="//section[@class='copy instapaper_body']/node()[not(@id='hub-listing-aside')]">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

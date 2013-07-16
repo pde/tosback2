@@ -1,6 +1,11 @@
 <sitename name="paidcontent.org">
  <docname name="Privacy Policy">
-   <url name="http://gigaom.com/privacy-policy/" xpath="//div[@class='legal-right-content']">
+   <url name="http://gigaom.com/privacy-policy/" xpath="//div[@id='postloop-35']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="http://gigaom.com/terms-of-service/" xpath="//div[@id='post-content-449084']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

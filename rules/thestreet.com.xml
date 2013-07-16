@@ -1,6 +1,11 @@
 <sitename name="thestreet.com">
  <docname name="Privacy Policy">
-   <url name="http://www.thestreet.com/static/about/privacy.html" xpath="//div[@class='full']">
+   <url name="http://corporate.thestreet.com/privacy" xpath="//div[@id='main_left']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://corporate.thestreet.com/terms" xpath="//div[@id='full-terms']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

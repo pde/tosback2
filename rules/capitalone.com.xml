@@ -1,6 +1,11 @@
 <sitename name="capitalone.com">
  <docname name="Privacy Policy">
-   <url name="https://www.capitalone.com/protection/privacy/privacy_practices_english.php?linkid=WWW_Z_Z_Z_PROPR_C1_04_T_PROPRAE" xpath="//div[@class='row grid-8-inset alpha first']">
+   <url name="http://www.capitalone.com/identity-protection/privacy/statement/?Log=1&amp;EventType=Link&amp;ComponentType=T&amp;LOB=MTS%3A%3ALCTMJBE8Z&amp;PageName=Identity+Protection+Privacy&amp;PortletLocation=4%3B4-12-col%3B2-3-3-2&amp;ComponentName=Online+privacy+practices%3B1&amp;ContentElement=1%3BOnline+Privacy+Practices&amp;TargetLob=MTS%3A%3ALCTMJBE8Z&amp;TargetPageName=Privacy+Practices+Statement" xpath="//div[@class='eight columns alpha omega']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.capitalone.com/legal/terms-conditions/?Log=1&amp;EventType=Link&amp;ComponentType=T&amp;LOB=MTS%3A%3ALCTMJBE8Z&amp;PageName=Contact+Us+Customer+Service&amp;PortletLocation=5&amp;ComponentName=footer&amp;ContentElement=30%3BTerms+%26+Conditions&amp;TargetLob=MTS%3A%3ALCTMJBE8Z&amp;TargetPageName=Terms+and+Conditions" xpath="//div[@class='sixteen columns']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

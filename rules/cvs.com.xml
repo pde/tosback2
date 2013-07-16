@@ -1,6 +1,6 @@
 <sitename name="cvs.com">
  <docname name="Privacy Policy">
-   <url name="http://www.cvs.com/CVSApp/help/privacy_policy.jsp" xpath="//div[@id='main']/div[@class='content_left']">
+   <url name="http://www.cvs.com/help/privacy_policy.jsp" xpath="//div[@class='columnLeft']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
