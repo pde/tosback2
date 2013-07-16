@@ -1,6 +1,11 @@
 <sitename name="monster.com">
  <docname name="Privacy Policy">
-   <url name="http://my.monster.com/privacy/fullstatement.aspx" xpath="//div[@id='static_container_body_main']">
+   <url name="http://inside.monster.com/policy/inside2.aspx" xpath="//div[@class='pageContainerDefault765']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://inside.monster.com/terms-of-use" xpath="//div[@id='ac_rightpanel']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

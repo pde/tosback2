@@ -1,6 +1,6 @@
 <sitename name="mun2.tv">
  <docname name="Privacy Policy">
-   <url name="http://www.mun2.tv/privacy-policy" xpath="//article[@id='node-1373498']">
+   <url name="http://www.mun2.tv/privacy-policy" xpath="//div[@id='block-system-main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

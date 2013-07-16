@@ -1,6 +1,6 @@
 <sitename name="sfbc.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sfbc.com/pages/shared/components/popups/popUp.jsp?cat1=Legal&#x26;cat2=PrivacyPolicy">
+   <url name="http://www.sfbc.com/privacy-policy/" xpath="//div[@class='col-main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

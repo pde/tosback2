@@ -1,6 +1,11 @@
 <sitename name="spiceworks.com">
  <docname name="Privacy Policy">
-   <url name="http://www.spiceworks.com/privacy/" xpath="//div[@id='content']">
+   <url name="http://www.spiceworks.com/privacy/" xpath="//div[@class='span8']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.spiceworks.com/terms/" xpath="//div[@class='span8']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
