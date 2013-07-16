@@ -1,6 +1,11 @@
 <sitename name="sbnation.com">
  <docname name="Privacy Policy">
-   <url name="http://www.sbnation.com/guide/privacy" xpath="//div[@class='legal-content-wrapper']">
+   <url name="http://www.sbnation.com/guide/privacy" xpath="//div[@class='l-chunk m-guide']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="http://www.sbnation.com/guide/terms" xpath="//div[@class='l-chunk m-guide']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

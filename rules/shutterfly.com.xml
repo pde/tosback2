@@ -1,6 +1,11 @@
 <sitename name="shutterfly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.shutterfly.com/help/privacy.jsp" xpath="/html/body/table/tr[3]/td[2]">
+   <url name="http://www.shutterfly.com/help/privacy.jsp" xpath="//td[@valign='top' and @colspan='3']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.shutterfly.com/help/terms.jsp" xpath="//td[@valign='top' and @colspan='3']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
