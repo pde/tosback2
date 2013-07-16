@@ -1,6 +1,11 @@
 <sitename name="dell.com">
  <docname name="Privacy Policy">
-   <url name="http://www.dell.com/content/topics/global.aspx/policy/en/policy?c=us&amp;l=en&amp;s=gen&amp;~section=000" xpath="//div[@id='maincontentcnt']//td[@width='542']">
+   <url name="http://www.dell.com/learn/us/en/19/policies-privacy?c=us&amp;l=en&amp;s=gen&amp;delphi:gr=true" xpath="//div[@class='uif_maincontent']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+	 <docname name="Consumer Terms of Sale">
+   <url name="http://www.dell.com/learn/us/en/19/terms-of-sale-consumer?c=us&amp;l=en&amp;s=dhs&amp;cs=19" xpath="//div[@class='uif_maincontent']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
