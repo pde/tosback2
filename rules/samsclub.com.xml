@@ -1,6 +1,11 @@
 <sitename name="samsclub.com">
  <docname name="Privacy Policy">
-   <url name="http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy" xpath="//div[@id='mainContent_body']">
+   <url name="http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy" xpath="//div[@class='floatright']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=termsandconditions" xpath="//div[@class='toc']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
