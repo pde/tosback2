@@ -42,7 +42,7 @@ In rare cases staff may need to pull a clone of your code, this will only be don
 Support staff does not have direct access to clone any repository, they will need to temporarily attach their SSH key to your account to pull a clone.
 When working a support issue we do our best to respect your privacy as much as possible, we only access the files and settings needed to resolve your issue.
 All cloned repositories are deleted as soon as the support issue has been resolved.</p> Maintaining security <p>We protect your login from brute force attacks with rate limiting.
-All passwords are filtered from all our logs and are encrypted in the database.
+All passwords are filtered from all our logs and are one-way encrypted in the database using <code>bcrypt</code>.
 Login information is always sent over SSL.</p>
 <p>We have full time security staff to help identify and prevent new attack vectors.
 We always test new features in order to rule out potential attacks, such as XSS-protecting wikis, and ensuring that Pages cannot access cookies.</p>

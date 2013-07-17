@@ -5630,3 +5630,9 @@
 2013-07-16 00:26:48 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-07-16 00:28:46 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-16 00:29:06 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-17 00:17:54 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-17 00:17:54 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-17 00:21:00 -0400 - http://www.outbrain.com/privacy:	404 => Net::HTTPNotFound for http://www.outbrain.com/privacy-new -- unhandled response
+2013-07-17 00:24:18 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-17 00:26:13 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-17 00:27:04 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
