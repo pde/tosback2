@@ -3,11 +3,12 @@ require 'singleton'
 class TOSBackNotifier
   include Singleton
   
-  attr_accessor :changes, :blank
+  attr_accessor :changes, :blank, :commit
   
   def initialize
     @changes = []
     @blank = []
+    @commit = nil
   end
   
   #TODO DRY this up
@@ -29,13 +30,14 @@ class TOSBackNotifier
     if @changes.length > 0
       bodytext = ""
       @changes.each {|change| bodytext += "#{change[:site]}: #{change[:name]}\n"}
+      url = "https://github.com/tosdr/tosback2/commit/" + @commit
       
       mail = Mail.deliver do
         to 'tosdr@googlegroups.com'
         from 'ToSBack <tosback@tosdr.org>'
         subject 'ToSBack: Policy Changes'
         text_part do
-          body "#{bodytext} These were changed in last night's crawl. Please have a look at the commit called 'changes for reviewed docs' at https://github.com/tosdr/tosback2/commits/master to see the differences!"
+          body "#{bodytext} These were changed in last night's crawl. Please have a look at the commit at #{url} to see the differences!"
         end
       end
       

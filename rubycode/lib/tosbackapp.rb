@@ -35,6 +35,12 @@ class TOSBackApp
     io = IO.popen("git commit -m 'changes for reviewed docs'")
     io.close
     
+    if $notifier.changes.length > 0
+      io = IO.popen("git rev-parse --verify HEAD")
+      $notifier.commit = io.read.strip
+      io.close
+    end
+    
     io = IO.popen("git add #{$results_path} #{$log_dir}")
     io.close
         
