@@ -5644,3 +5644,12 @@
 2013-07-18 00:25:36 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-18 00:25:55 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-07-18 00:26:01 -0400 - http://www.elearners.com/help/privacy.asp:	500 => Net::HTTPInternalServerError for http://www.elearners.com/help/privacy.asp -- unhandled response
+2013-07-19 00:20:53 -0400 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_termscond:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 75792000, last used 1374207653.1545818 seconds ago
+2013-07-19 00:21:14 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-19 00:21:14 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-19 00:22:16 -0400 - https://www.yammer.com/about/privacy:	503 => Net::HTTPServiceUnavailable for https://www.yammer.com/about/privacy -- unhandled response
+2013-07-19 00:26:31 -0400 - http://www.bodybuilding.com/fun/disclaim.htm:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 75748010, last used 1374207991.9964278 seconds ago
+2013-07-19 00:29:23 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-19 00:31:21 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-19 00:31:40 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-07-19 00:31:43 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
