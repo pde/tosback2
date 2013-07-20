@@ -5653,3 +5653,12 @@
 2013-07-19 00:31:21 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-19 00:31:40 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-07-19 00:31:43 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-20 00:19:07 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-20 00:19:07 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-20 00:19:24 -0400 - http://nadaguides.com/Privacy-policy:	502 => Net::HTTPBadGateway for http://nadaguides.com/Privacy-policy -- unhandled response
+2013-07-20 00:22:51 -0400 - http://www.cabelas.com/custserv/custserv.jsp?pageName=PrivacyPolicy&WTz_l=Footer:	504 => Net::HTTPGatewayTimeOut for http://www.cabelas.com/custserv/custserv.jsp?pageName=PrivacyPolicy&WTz_l=Footer -- unhandled response
+2013-07-20 00:23:03 -0400 - http://www.telekom.de/datenschutz:	404 => Net::HTTPNotFound for http://www.telekom.de/datenschutz -- unhandled response
+2013-07-20 00:24:54 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-20 00:26:57 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-20 00:27:24 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-07-20 00:27:27 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response

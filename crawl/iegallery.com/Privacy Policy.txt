@@ -17,9 +17,7 @@ and </li>
 </li>
 </ul>
 <p>
-<b>
-<u>Our Use of Cookies</u>
-</b>
+<b>Our Use of Cookies</b>
 </p>
 <p>Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server.
 Cookies contain text that can be read by a web server in the domain that issued the cookie to you.
@@ -77,9 +75,7 @@ In other cases, it is because our web pages contain content or ads from third pa
 Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive.
 </p>
 <p>
-<u>
 <b>How to Control Cookies</b>
-</u>
 </p>
 <ul>
 <li>
@@ -88,7 +84,7 @@ Because your browser connects to those third parties’ web servers to retrieve 
 <ol>
 <li>Click "Tools" and then select "Internet Options" </li>
 <li>Click the "Privacy" tab at the top of the window </li>
-<li>Move the slider up or down to select the types of cookies you wish to block </li>
+<li>Move the slider up or down to indicate the rules you want to apply for blocking cookies  </li>
 </ol>
 <p>Instructions for blocking cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.
 </p>
@@ -114,21 +110,23 @@ If you accept cookies, you can delete them later.
 <p>
 <b>Browser Controls for “Do Not Track” and Tracking Protection.</b> Some newer browsers have incorporated “Do Not Track” features.
 Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked.
-Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
+Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
 </p>
-<p>Internet Explorer 9 has a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers.
+<p>Internet Explorer 9 and 10 have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers.
 When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked.
 By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you.
 And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit.
-For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.
+Additionally, in Internet Explorer 10 you may switch DNT "off" or "on" independently, if you'd like.  For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer privacy statement or Internet Explorer Help.
 </p>
 </li>
 <li>
 <b>Advertising Opt-Out Controls.</b> Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use.
 Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft).
 These pages include: <ul>
-<li>Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/ </li>
-<li>Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt_out.asp </li>
+<li>Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
+</li>
+<li>Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt_out.asp
+</li>
 <li>In Europe, you may also visit Your Online Choices: http://www.youronlinechoices.com/
 </li>
 </ul>
@@ -138,12 +136,10 @@ These pages include: <ul>
 For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/.
 Please note that opting out does not mean that you will stop getting ads or see fewer ads.
 however, if you do opt out, the ads that you receive will no longer be behaviorally targeted.
-In addition, opting out does not stop information from being collected.
+In addition, opting out does not stop information from going to our servers, but it does stop our creation or updating of profiles that might be used for behavioral advertising.
 </p>
 <p>
-<b>
-<u>Our Use of Web Beacons </u>
-</b>
+<b>Our Use of Web Beacons </b>
 </p>
 <p>Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services.
 We may include web beacons in our promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon.
@@ -154,21 +150,20 @@ We may include web beacons in our promotional e-mail messages or newsletters to 
 These web beacons may allow the third parties to set or read a cookie on your computer.
 We prohibit third parties from using web beacons on our sites to collect or access your personal information.
 Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers: </p>
-<p>
-</p>
 <ul>
-<li>Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html </li>
-<li>Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices </li>
-<li>Coremetrics: http://www.coremetrics.com/company/privacy.php#optout </li>
-<li>Visible Measures: http://corp.visiblemeasures.com/viewer-settings </li>
+<li> Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
+</li>
+<li>Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices
+</li>
+<li>Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
+</li>
+<li>Visible Measures: http://corp.visiblemeasures.com/viewer-settings
+</li>
 <li>Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on) </li>
 </ul>
+<br>
 <p>
-</p>
-<p>
-<b>
-<u>Other Similar Technologies</u>
-</b>
+<b>Other Similar Technologies</b>
 </p>
 <p>In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer.
 This may be done to maintain your preferences or to improve speed and performance by storing certain files locally.
