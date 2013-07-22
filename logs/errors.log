@@ -5669,3 +5669,10 @@
 2013-07-21 00:25:45 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-07-21 00:26:04 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-07-21 00:26:07 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-07-22 00:18:05 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-07-22 00:18:05 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-07-22 00:18:25 -0400 - http://nadaguides.com/Privacy-policy:	502 => Net::HTTPBadGateway for http://nadaguides.com/Privacy-policy -- unhandled response
+2013-07-22 00:24:12 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-07-22 00:26:12 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-07-22 00:26:31 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-07-22 00:26:34 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
