@@ -5,7 +5,7 @@ Here is what that means: <br>
 <li>
 <strong>Every bit of personal data you enter and store in Dashlane is completely unreadable to us,</strong> because it is encrypted with AES-256, and the encryption key is derived from your Master Password which is COMPLETELY UNKNOWN TO US.</li>
 <li>
-<strong>If you sync is enabled on your account, ONLY your encrypted data is transmitted</strong> to us to allow syncing.
+<strong>If sync is enabled on your account, ONLY your encrypted data is transmitted</strong> to us to allow syncing.
 This synced encrypted data that we have cannot be directly linked back to any user, and is never shared.
 If you disable sync, your encrypted data is only stored on your device, and the data that was previously synced to our servers is destroyed.
 </li>
