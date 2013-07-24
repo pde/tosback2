@@ -3,7 +3,10 @@ require 'open-uri'
 require 'sanitize'
 require 'mechanize' # will probably need to use this instead to handle sites that require session info
 require 'mail'
+require 'active_record'
 # require 'pry' #debug
+
+ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash)
 
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
 

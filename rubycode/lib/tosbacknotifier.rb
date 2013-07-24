@@ -41,6 +41,10 @@ class TOSBackNotifier
         end
       end
       
+      @changes.each do |change|
+        Notification.create(site: change[:site], name: change[:name], diff_url: url)
+      end
+      
     end
     
     if @blank.length > 0
