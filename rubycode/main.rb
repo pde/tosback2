@@ -6,9 +6,8 @@ require 'mail'
 require 'active_record'
 # require 'pry' #debug
 
-ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash)
-
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
+ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash)
 
 $rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
