@@ -106,7 +106,7 @@ Your user name and password ("<strong>User Registration</strong>") will function
 Your User Registration will also be recognized at some of our Affiliate sites and sites which we partner with so that you may easily access features on those sites using your User Registration ("<strong>Shared Registration Sites</strong>").
 however the information we provide and your actions on those Shared Registration Sites will be governed by the separate privacy policies of those Shared Registration Sites.
 A list of those Shared Registration Sites is set forth below, and may be updated from time to time.
-Current Shared Registration Sites are: The National Magazine Company Limited and RealAge.
+Current Shared Registration Sites are: The National Magazine Company Limited.
 You may elect to change your User Registration at any time by logging in and editing your User Registration (each of our Covered Sites will contain log-in information).
 You may also log-in to cancel any user User Registration that you may have selected or that we may have assigned.
 If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for the purpose of assuring you are not automatically registered again, against your wishes.
@@ -267,7 +267,7 @@ Any changes to this privacy policy will be effective upon thirty (30) calendar d
 These changes will be effective immediately for new users of our Covered Sites.
 Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>'.
 Privacy10 += ''.
-var Privacy11 = '<p>This policy was last updated on February 27, 2013.</p>'.
+var Privacy11 = '<p>This policy was last updated on July 26, 2013.</p>'.
 Privacy11 += ''.
 document.write('').
 document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
