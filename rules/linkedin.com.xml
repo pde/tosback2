@@ -1,11 +1,11 @@
 <sitename name="linkedin.com">
  <docname name="Privacy Policy">
-   <url name="http://www.linkedin.com/static?key=privacy_policy&amp;trk=hb_ft_priv" xpath="//div[@class=&apos;contain&apos;]" reviewed="true">
+   <url name="http://www.linkedin.com/legal/privacy-policy" xpath="//div[@id='main']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="http://www.linkedin.com/static?key=user_agreement" xpath="//div[@id='main']" reviewed="true">
+   <url name="http://www.linkedin.com/legal/user-agreement" xpath="//div[@id='main']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
