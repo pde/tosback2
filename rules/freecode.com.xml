@@ -1,11 +1,11 @@
 <sitename name="freecode.com">
  <docname name="Privacy Statement">
-   <url name="http://slashdotmedia.com/privacy-statement/" xpath="//article[@id='post-719']">
+   <url name="http://slashdotmedia.com/privacy-statement/" xpath="//article[@id='post-719']" lang='EN'>
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms of Use">
-   <url name="http://slashdotmedia.com/terms-of-use/" xpath="//article[@id='post-727']">
+   <url name="http://slashdotmedia.com/terms-of-use/" xpath="//article[@id='post-727']" lang='EN'>
      <norecurse name="arbitrary"/>
    </url>
  </docname>

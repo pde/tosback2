@@ -1,6 +1,6 @@
 <sitename name="plus.google.com">
  <docname name="Privacy Policy">
-   <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']">
+   <url name="http://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

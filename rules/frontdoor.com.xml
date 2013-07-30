@@ -1,11 +1,11 @@
 <sitename name="frontdoor.com">
  <docname name="Privacy Policy">
-   <url name="http://www.scrippsnetworksinteractive.com/privacy-policy" xpath="//*[@id=&quot;sectionPrimary&quot;]">
+   <url name="http://www.scrippsnetworksinteractive.com/privacy-policy" xpath="//*[@id='sectionPrimary']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms of Use">
-   <url name="http://www.scrippsnetworksinteractive.com/terms-of-use" xpath="//*[@id=&quot;sectionPrimary&quot;]">
+   <url name="http://www.scrippsnetworksinteractive.com/terms-of-use" xpath="//*[@id='sectionPrimary']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

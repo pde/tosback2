@@ -4,8 +4,8 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Terms of Service">   
-  <url name="http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement" xpath="//div[@id=&quot;S03&quot;]" reviewed="true">
+ <docname name="Microsoft Services Agreement">
+  <url name="http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement" xpath="//div[@id='S03']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
