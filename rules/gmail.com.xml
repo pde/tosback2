@@ -1,4 +1,4 @@
-<sitename name="mail.google.com">
+<sitename name="gmail.com">
   <docname name="Privacy Policy">
     <url name="http://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
       <norecurse name="arbitrary"/>
