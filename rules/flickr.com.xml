@@ -1,5 +1,10 @@
 <sitename name="flickr.com">
  <docname name="Privacy Policy">
+   <url name="http://info.yahoo.com/privacy/us/yahoo/" xpath="//div[@id='pp-content1']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Flickr Privacy Policy">
    <url name="http://info.yahoo.com/privacy/us/yahoo/flickr/details.html" xpath="//div[@id='rb']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
