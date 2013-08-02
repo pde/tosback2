@@ -5754,3 +5754,15 @@
 2013-07-31 13:49:51 -0400 - http://jobgo.com/index/privacy:	404 => Net::HTTPNotFound for http://jobgo.com/index/privacy -- unhandled response
 2013-07-31 13:49:58 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-07-31 13:50:00 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-08-02 00:17:53 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-08-02 00:17:53 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-08-02 00:18:34 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-08-02 00:20:10 -0400 - http://www.officedepot.com/a/customerservice/Privacy/:	404 => Net::HTTPNotFound for http://www.officedepot.com/a/customerservice/Privacy/ -- unhandled response
+2013-08-02 00:20:10 -0400 - http://www.officedepot.com/a/customerservice/termsofuse/:	404 => Net::HTTPNotFound for http://www.officedepot.com/a/customerservice/termsofuse/ -- unhandled response
+2013-08-02 00:21:39 -0400 - http://www.elpasotimes.com/portlet/layout/html/privacypolicy/privacypolicy.jsp?siteId=525:	504 => Net::HTTPGatewayTimeOut for http://www.elpasotimes.com/portlet/layout/html/privacypolicy/privacypolicy.jsp?siteId=525 -- unhandled response
+2013-08-02 00:21:44 -0400 - http://www.cvs.com/help/privacy_policy.jsp:	404 => Net::HTTPNotFound for http://www.cvs.com/help/privacy_policy.jsp -- unhandled response
+2013-08-02 00:25:30 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-08-02 00:27:29 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-08-02 00:27:52 -0400 - http://jobgo.com/index/privacy:	404 => Net::HTTPNotFound for http://jobgo.com/index/privacy -- unhandled response
+2013-08-02 00:27:59 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-08-02 00:28:01 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
