@@ -5782,3 +5782,13 @@
 2013-08-04 00:27:19 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-08-04 00:27:39 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-08-04 00:27:41 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-08-05 00:19:02 -0400 - http://identi.ca/doc/tos:	Connection timed out - connect(2)
+2013-08-05 00:20:05 -0400 - http://identi.ca/doc/privacy:	Connection timed out - connect(2)
+2013-08-05 00:20:53 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-08-05 00:25:58 -0400 - http://www.over-blog.com/reglement.php:	Connection timed out - connect(2)
+2013-08-05 00:27:23 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-08-05 00:28:40 -0400 - https://www.couchsurfing.org/n/terms:	503 => Net::HTTPServiceUnavailable for https://www.couchsurfing.org/n/terms -- unhandled response
+2013-08-05 00:28:40 -0400 - https://www.couchsurfing.org/n/privacy:	503 => Net::HTTPServiceUnavailable for https://www.couchsurfing.org/n/privacy -- unhandled response
+2013-08-05 00:29:19 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-08-05 00:29:47 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-08-05 00:29:49 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
