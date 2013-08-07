@@ -34,7 +34,7 @@ There are, however, a few key points that we need to emphasise:</p>
 In particular, apart from in the very limited circumstances set out in paragraph 5.6 of these Terms (applicable to Skype’s Internet Communications Software only), the Software does not allow you to make emergency calls to emergency services.
 You must make alternative communications arrangements to ensure that you can make emergency calls if needed.</p>
 <p>
-<b>CHECK RESTRICTIONS ON USE:</b> In some countries there are restrictions on the use of the Software.
+<b>CHECK RESTRICTIONS ON USE:</b> In some regions there are restrictions on the use of the Software.
 It is your responsibility to ensure that you are legally allowed to use the Software where you are located.</p>
 <p>
 <b>NO OWNERSHIP OF NUMBERS:</b> If Skype allocates to you a Skype Number (previously known as “Online Number”) or Skype To Go Number, you do not own the number or have a right to retain that number forever.
@@ -53,19 +53,22 @@ Please read paragraph 20.3 carefully.</p>
 YOUR AGREEMENT WITH SKYPE</b>
 </p>
 <p>
-<b>1.1</b> Skype’s internet communication software applications (“<b>Internet Communications Software</b>”), other “Skype” branded software applications (together the “<b>Skype Software</b>”), the “<b>Qik</b>” branded software applications (“<b>Qik Software</b>”) and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“<b>Updates</b>”) and whether made available for free or for a fee, (collectively the “<b>Software</b>”) are licensed (not sold) to you by Skype Software Sàrl.</p>
+<b>1.1</b> Skype’s internet communication software applications (“<b>Internet Communications Software</b>”), other “Skype” branded software applications (together the “<b>Skype Software</b>”), the “<b>Qik</b>” branded software applications (“<b>Qik Software</b>”) and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“<b>Updates</b>”) and whether made available for free or for a fee, (collectively the “<b>Software</b>”) are licensed (not sold) to you by Skype Software Sàrl unless you are using a version of the Software that is included with Windows 8.1 or later.
+If you are using a version of the Software that is included with Windows 8.1 or later, the Software is licensed to you under the Microsoft Software License Terms for the version of Windows that you are running.
+These Terms (other than the software license in Section 4.1) will still apply to your use of the Software and Products.<br>
+</p>
 <p>
 <b>1.2</b> The features and products that are made available through the Software for free (excluding products or features available for free on a trial basis only) (“<b>Free Products</b>”) are provided to you by Skype Software Sàrl.</p>
 <p>
 <b>1.3</b> Any additional products or features of the Skype Software or Qik Software, or other “Skype” or “Qik” branded products, that you pay for (including products or features available for free on a trial basis only) (“<b>Paid For Products</b>”) are provided to you by Skype Communications Sàrl.</p>
 <p>
-<b>1.4</b> “Skype Websites” means www.skype.com, www.qik.com (both of which are operated by Skype Communications Sàrl) and any other websites authorised by Skype which link to these Terms.</p>
+<b>1.4</b> “<b>Skype Websites</b>” means www.skype.com, www.qik.com (both of which are operated by Skype Communications Sàrl) and any other websites authorised by Skype which link to these Terms.</p>
 <p>
 <b>1.5 “Skype’’</b> means Skype Software Sàrl, 23 – 29 Rives de Clausen, L-2165 Luxembourg or Skype Communications Sàrl, 23 – 29 Rives de Clausen, L-2165 Luxembourg as the context requires;<br>
 <b>“Products”</b> means collectively the Free Products and Paid For Products;<br>
 <b>“you”</b> or <b>“your”</b> means you, the registered holder of the User Account (as described in paragraph 6.1) and licensee under these Terms.</p>
 <p>
-<b>1.6</b> Your agreement with Skype is made up of the terms and conditions set out in this document, together with any fair usage policies described in this document and Additional Terms referred to in paragraph 14 (collectively the “Terms”).
+<b>1.6</b> Your agreement with Skype is made up of the terms and conditions set out in this document, together with any fair usage policies described in this document and Additional Terms referred to in paragraph 14 (collectively the “<b>Terms</b>”).
 To the extent of any inconsistency between the fair usage policies or any Additional Terms and this document, this document shall take precedence.</p>
 <p>
 <b>2.
@@ -83,8 +86,7 @@ These Terms remain effective from the date of acceptance until terminated by you
 <b>2.3</b> In some countries the Products may be provided to you by Skype’s local partner.
 If so, that local partner may ask you to accept its own terms of service (<b>“local terms”</b>).
 If there is any inconsistency between those local terms and these Terms, then the local terms shall govern to the extent of that inconsistency.</p>
-<p>
-</p>
+<p> </p>
 <p>
 <b>3.
 CHANGES TO THE TERMS</b>
@@ -121,7 +123,7 @@ The foregoing shall not preclude you using the Software for your own business co
 <b>4.3 Third-Party Technology.</b> If you are using Software pre-loaded on, embedded in, combined, distributed or used with or downloaded onto third party products, hardware, software applications, programs or devices (“<b>Third-Party Technology</b>”), you agree and acknowledge that: (a) you may be required to enter into a separate licence agreement with the relevant third party owner or licensor for the use of such Third-Party Technology.
 (b) some Products and/or functionality may not be accessible through the Third-Party Technology and (c) Skype cannot guarantee that the Software shall always be available on or in connection with such Third-Party Technology.</p>
 <p>
-<b>4.4 Third Party Notices.</b> The Software may include third party code that Skype, not the third party, licenses to you under this agreement.
+<b>4.4 Third Party Notices.</b> The Software and Skype Websites may include third party code that Skype, not the third party, licenses to you under this agreement.
 Notices, if any, for the third party code are included for your information only.
 Third party scripts, linked to, called or referenced from the Software, are licensed to you by the third parties that own such code, not by Skype.</p>
 <p>
@@ -136,14 +138,12 @@ You are responsible for providing all equipment required to access the Internet 
 If your use of the Internet Communications Software is dependent upon the use of a processor and bandwidth owned or controlled by a third party, you acknowledge and agree that your licence to use the Internet Communications Software is subject to you obtaining consent from the relevant third party for such use.
 You represent and warrant that by accepting these Terms, you have obtained such consent.</p>
 <p>
-<b>5.3 Updates to the Software:</b> Skype may automatically check your version of the Skype Software.
-You may be required to enter into an updated version of these Terms to be able to download or otherwise take advantage of any Updates.
-Skype has no obligation to make available any Updates.
-However, Skype may (a) require you to download and install Updates.
-or (b) download and install Updates from Skype automatically from time to time unless you have chosen (through your Skype client settings) not to receive automatic Updates.
+<b>5.3 Updates to the Software:</b> Skype may automatically check your version of the Skype Software. We may also automatically download configuration changes and updates to the Software from time to time.
+You may be required to update the Software in order to continue using Skype.
+You agree to accept such updates subject to these Terms unless other terms accompany the updates.
+Skype is not obligated to make any updates available and does not guarantee that we will continue to support the version of the operating system or device for which you licensed the Software or that updated Software will be compatible for use with end users running older versions of the Software.
 Microsoft Corporation or its affiliates and subsidiaries may also automatically download updates to the Skype Software for Windows, if you have chosen to receive Microsoft Updates.
-These updates are required to maintain software compatibility, provide security updates or bug fixes, or offer new features, functionality or versions.
-You agree to receive such updates from Skype in order to continue using the Skype Software and you agree to accept such Updates subject to these Terms.</p>
+Updates may be required to maintain software compatibility, provide security updates or bug fixes, or offer new features, functionality or versions.</p>
 <p>
 <b>5.4 Suspension, technical improvement and maintenance:</b> From time to time, Skype may need to perform maintenance on or upgrade the Software, Products or Skype Websites or the underlying infrastructure that enables you to use the Software, Products or Skype Websites.
 This may require Skype to temporarily suspend or limit your use of some or all of the Software, Products or Skype Websites until such time as this maintenance and/or upgrade can be completed.
@@ -160,7 +160,7 @@ Find out more about calling 112, the dedicated emergency number for the EU at ww
 </p>
 <p>
 <b>5.6.1 </b>In a very limited number of countries, and for defined Internet Communications Software versions and platforms only, Skype will try to provide limited emergency calling as a stand-alone feature but can provide no commitment in this respect.
-Click here for the listing of countries (“Enabled Countries”) and software versions and other platforms (“Enabled Versions”) that enable limited Skype emergency calling.
+See the full list of countries (“Enabled Countries”) and software versions and other platforms (“Enabled Versions”) that enable limited Skype emergency calling.
 Skype emergency calling is not available for any other countries, versions or platforms.
 You should keep traditional wireless (mobile) or fixed line telephone services available for your calls to Emergency Services and use Skype’s limited emergency calling only as an absolute last resort.
 In particular, please also note that:</p>
@@ -185,7 +185,7 @@ The content of communications is entirely the responsibility of the person from 
 You therefore may be exposed to content that is offensive, unlawful, harmful to minors, obscene, indecent or otherwise objectionable.
 The content of communications may be protected by intellectual property rights, which are owned by third parties.
 You are responsible for the content you choose to communicate and access using the Software.
-In particular, you are responsible for ensuring that you do not submit material that is (i) copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner (ii) a falsehood or misrepresentation (iii) offensive, unlawful, harmful to minors, obscene, defamatory, libellous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or that encourages conduct that would be considered a criminal offense, gives rise to civil liability, violates any law, or is otherwise objectionable.
+In particular, you are responsible for ensuring that you do not submit material that is (i) copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner (ii) a falsehood or misrepresentation (iii) offensive, unlawful, harmful to minors, obscene, defamatory, libelous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or that encourages conduct that would be considered a criminal offense, gives rise to civil liability, violates any law, or is otherwise objectionable.
 (iv) an advertisement or solicitation of business.
 or (v) impersonating another person.
 Skype reserves the right (but shall have no obligation) to review content for the purpose of enforcing these Terms.
@@ -205,8 +205,9 @@ Any false, misleading or inaccurate information provided by you may result in ci
 A number of factors may impact the quality of your communications and use of the Software, Products (depending on the Products used) or Skype Websites, and may result in the failure of your communications including but not limited to: your local network, firewall, your internet service provider, the public internet, the public switched telephone network and your power supply.
 Skype takes no responsibility for any disruption, interruption or delay caused by any failure of or inadequacy in any of these items or any other items over which we have no control.</p>
 <p>
-<b>5.10 Changes to Products:</b> Skype is constantly improving the Software and Products and may also need to change technical features from time to time in order to comply with applicable regulations.
-Accordingly, you acknowledge and agree that the Products and functionality of the Software may vary from time to time.
+<b>5.10 Changes to Products:</b> Skype is constantly improving the Software and Products and may change them at any time.
+Additionally, there are reasons why Skype may stop providing the Software and Products (or portions thereof) including (without limitation) that it is no longer feasible for us to provide it, the technology advances, customer feedback indicates a change is needed, external issues arise that make it imprudent or impractical to continue, or any reason set out in paragraph 11.2.
+As a result of such changes, you may need to use an upgraded version of the Software.
 Technical requirements for use of Products and Software and feature descriptions are available on the Skype Website.
 If you do not agree with any changes to Software and Products you may terminate your relationship with Skype in accordance with paragraph 11.
 You may need to upgrade to a new version in order to enjoy the benefit of certain Products.
@@ -325,7 +326,7 @@ All calls will be disconnected and require a re-dial after a 4-hour duration and
 <p>(ii) <b>Premium rate numbers:</b> The charges payable for calling premium rate numbers consist of a per-minute rate available at www.skype.com/go/rates-premium.
 No connection fee is payable.</p>
 <p>(iii) Skype may change the rates for calling phones and premium rate numbers at any time without notice to you by posting such change at www.skype.com/go/allrates.
-The new rate will apply to your next purchase after the new rates have been published.
+The new rate will apply to your next use after the new rates have been published.
 Please check the latest rates before you make your call.
 If you do not accept the new rates, do not make your call.</p>
 <p>(iv) The duration of a call shall be based on one-minute increments.
@@ -421,7 +422,8 @@ ENDING YOUR RELATIONSHIP WITH SKYPE</b>
 <p>(d) if Skype reasonably suspects that you are using our Products, Software and/or Skype Websites fraudulently or that your User Account is being used by a third party fraudulently;</p>
 <p>(e) if you have purchased Skype Credit from an unauthorised reseller;</p>
 <p>(f) in respect of a particular Product, on thirty (30) days notice if Skype decides to cease offering that Product;</p>
-<p>(g) immediately, if required due to a change in laws/regulation by a regulator or authority with a lawful mandate, or by any of Skype’s partners;</p>
+<p>(g) immediately, if (in Skype’s reasonable discretion) required due to a change in or adverse interpretation of laws/regulation or where required by a regulator or authority with a lawful mandate, or by any of Skype’s partners;<br>
+</p>
 <p>(h) on thirty (30) days notice if Skype decides to cease offering the Software to users in your jurisdiction generally.</p>
 <p>
 <b>11.3</b> Skype shall effect such termination by preventing your access to your User Account, the Software, Products and/or Skype Websites (as applicable).
@@ -453,12 +455,12 @@ or</p>
 or</p>
 <p>(c) any damage to or corruption of data (whether direct or indirect);</p>
 <p>(d) any claim, damage or loss (whether direct or indirect ) arising from or relating to:</p>
-<p>(i) your inability to use the Software to contact Emergency Services;</p>
+<p>(i) your inability to use the Software, including any Enabled Versions, to contact Emergency Services;</p>
 <p>(ii) your failure to make additional arrangements to access Emergency Services in accordance with paragraph 5.5 above;</p>
-<p>(iii)the service limitations set out in paragraph 5.6;</p>
-<p>(iv)your failure to provide accurate physical location information to an Emergency Services operative.
+<p>(iii) the limitations set out in paragraph 5.6;</p>
+<p>(iv) your failure to provide accurate physical location information to an Emergency Services operative.
 or</p>
-<p>(v)conduct of third party Emergency Services operatives and calling centres to which you may be connected.</p>
+<p>(v) conduct of third party Emergency Services operatives and calling centres to which you may be connected.</p>
 <p>(e) any claim, damage or loss (whether direct or indirect) arising from or relating to:</p>
 <p>(i) any product or service provided by a third party under their own terms of service, including without limitation, Skype WiFi;</p>
 <p>(ii) any Third Party Technology;</p>
@@ -507,8 +509,6 @@ Please read these guidelines carefully which form part of the Terms.</p>
 Software development kits provided through Skype Developer on the Skype Website (including “SkypeKit”) and the use of any application program interface (“API”) exposed or made available by Skype are subject to their own licensing terms in which case such licensing terms will govern your use of that software.
 If you use any such software development kit or API (as applicable) you agree that you have read and will comply with the applicable licensing terms, which are available on http://developer.skype.com/.</p>
 <p>
-<b>14.4</b> Qik Free and Open Source Software Notice is incorporated herein by reference.</p>
-<p>
 <b>15.
 YOUR CONFIDENTIAL INFORMATION AND YOUR PRIVACY</b>
 </p>
@@ -541,11 +541,12 @@ MISCELLANEOUS</b>
 <b>18.2</b> For your convenience, Skype may provide you with a translation of the English language version of these Terms.
 In the event of any inconsistency between a non-English version of these Terms and the English version, the English version shall govern your relationship with Skype.</p>
 <p>
-<b>18.3</b> These Terms constitute the entire agreement between you and Skype with respect to your use of the Software, Products and/or Skype Websites and replace any prior agreements between you and Skype with respect to the Software, Products and/or Skype Websites.</p>
+<b>18.3</b> These Terms (and where applicable, the Microsoft Software License Agreement) constitute the entire agreement between you and Skype with respect to your use of the Software, Products and/or Skype Websites and replace any prior agreements between you and Skype with respect to the Software, Products and/or Skype Websites.</p>
 <p>
 <b>18.4</b> If any provision of these Terms (or part of it), is found by any court or administrative body of competent jurisdiction or an arbitrator to be illegal, invalid or unenforceable, then such provision (or part of it) shall be removed from the Terms without affecting the legality, validity or enforceability of the remainder of the Terms.
 Paragraph 20.3(i) says what happens if parts of paragraph 20.3 (arbitration and class action waiver) are found to be illegal, invalid or unenforceable.
-Paragraph 20.3(i) prevails over this paragraph if inconsistent with it.</p>
+Paragraph 20.3(i) prevails over this paragraph if inconsistent with it.
+In the event of any direct conflict between these Terms and the Microsoft Software License Agreement, the Microsoft Software License Agreement will apply if you are using a version of the Software that is included with Windows 8.1 or later.</p>
 <p>
 <b>18.5</b> The failure by Skype to exercise, or delay in exercising, a legal right or remedy provided by these Terms or by law shall not constitute a waiver of Skype’s right or remedy.
 If Skype waives a breach of these Terms, this shall not operate as a waiver of a subsequent breach of the Terms.</p>
@@ -683,28 +684,28 @@ and</p>
 <p>(b) You represent that you are the person or entity responsible for the mobile phone account associated with the mobile number you provide when using Pay by Mobile, or are authorised by that person or entity to incur such charges.</p>
 <p>
 <b>20.3 BINDING ARBITRATION AND CLASS ACTION WAIVER FOR UNITED STATES ACCOUNTS.</b> If you select Pay by Mobile and your mobile phone account is registered with a mobile phone carrier in the USA or you reside in the USA, the following additional terms apply:</p>
-<p>(a) Paragraph 20.3 applies to any dispute arising between you and either Skype or any third party including mobile phone carriers and Skype’s corporate affiliates (collectively, <b>“Disputed Party”</b> or <b>“Disputed Parties”</b>) relating to your use of Pay by Mobile, EXCEPT IT DOES NOT INCLUDE A DISPUTE RELATING TO THE ENFORCEMENT OR VALIDITY OF YOUR, SKYPE’S, OR EITHER OF OUR LICENSORS’ INTELLECTUAL PROPERTY RIGHTS.
+<p>(a) Paragraph 20.3 applies to any dispute arising between you and either Skype or any third party including mobile phone carriers and Skype’s corporate affiliates (collectively, <b>“Disputed Party”</b> or <b>“Disputed Parties”</b>) relating to your use of Pay by Mobile, EXCEPT IT DOES NOT INCLUDE A DISPUTE RELATING TO THE ENFORCEMENT OR VALIDITY OF YOUR, YOUR LICENSORS’, SKYPE’S, OR SKYPE'S LICENSORS’ INTELLECTUAL PROPERTY RIGHTS.
 <b>Dispute</b>, for purposes of paragraph 20.3, means any dispute, action, or other controversy whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis.
 Dispute will be given the broadest possible meaning allowable under law.</p>
 <p>(b) In the event of a dispute, you must provide Skype or other Disputed Party with a Notice of Dispute, which is a written statement of the name, address and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested.
-You must send any Notice of Dispute to Skype or its corporate affiliate at ATTN: Legal Department, Microsoft Corporation One Microsoft Way Redmond, WA 98052-7329.
+You must send any Notice of Dispute to Skype or its corporate affiliate at ATTN: LCA ARBITRATION One Microsoft Way Redmond, WA 98052-7329.
 and to any other Disputed Party at its principal place of business in the USA, marked ATTN: Legal Department.
 The Disputed Party will send any Notice of Dispute to your address if it has it, or otherwise to your e-mail address on file.
 You and the Disputed Party will attempt to resolve any dispute through informal negotiation within 60 days from the date the Notice of Dispute is sent, after which you or the Disputed Party may commence arbitration.</p>
-<p>(c) You may also litigate any dispute in a small claims court in your county of residence, if the dispute meets all requirements to be heard in the small claims court.
+<p>(c) You may also litigate any dispute in a small claims court in your county of residence, or King County, Washington, or Santa Clara County, if the dispute meets all requirements to be heard in the small claims court.
 You may litigate in a small claims court whether or not you negotiated informally first.</p>
-<p>(d) <b>Binding Arbitration.</b> If you and a Disputed Party do not resolve any dispute by informal negotiation or in small claims court, any other effort to resolve the dispute will be conducted exclusively by binding arbitration governed by the United States Federal Arbitration Act (“FAA”).
+<p>(d) <b>Binding Arbitration.</b> If you and Skype or any other a Disputed Party do not resolve any dispute by informal negotiation or in small claims court, any other effort to resolve the dispute will be conducted exclusively by binding arbitration governed by the United States Federal Arbitration Act (“FAA”).
 You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury.
 Instead, all disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right of appeal under the FAA.
 Any court with jurisdiction over the parties may enforce the arbitrator’s award.</p>
 <p>(e) <b>Class Action Waiver.</b> Any proceedings to resolve or litigate any dispute in any forum will be conducted solely on an individual basis.
-Neither you nor a Disputed Party will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity.
+Neither you, Skype nor any other Disputed Party will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which any party acts or proposes to act in a representative capacity.
 No arbitration or proceeding will be combined with another without the prior written consent of all parties to all affected arbitrations or proceedings.</p>
 <p>(f) Any arbitration will be conducted by the American Arbitration Association (the “AAA”) under its Commercial Arbitration Rules.
 If you are an individual and use the Software or Products for personal or household use, or if the value of the dispute is $75,000 USD or less whether or not you are an individual or how you use them, its Supplementary Procedures for Consumer-Related Disputes will also apply.
 For more information, see adr.org or call +1-800-778-7879.
-In a dispute involving $75,000 USD or less, Skype will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees.
-You and Skype agree to the terms governing procedures, fees and incentives at go.microsoft.com/fwlink/?linkid=275219.  To commence arbitration, submit the form available at go.microsoft.com/fwlink/?linkid=275627 to the AAA.
+In a dispute involving $75,000 USD or less, Skype or other Disputed Parties will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees.
+You, Skype and other Disputed Parties agree to the terms governing procedures, fees and incentives at go.microsoft.com/fwlink/?linkid=275219.  To commence arbitration, submit the form available at go.microsoft.com/fwlink/?linkid=275627 to the AAA.
 You agree to commence arbitration only in your county of residence, in Santa Clara County, California, or another Disputed Party’s principal place of business in the USA. Skype and other Disputed Parties agree to commence arbitration only in your county of residence.</p>
 <p>(g) To the extent permitted by law, any claim or dispute relating to your use of Pay by Mobile must be filed within one year in small claims court (paragraph 20.3(c)) or in arbitration (paragraph 20.3(d)).
 The one-year period begins when the claim or dispute first could be filed.
@@ -719,5 +720,5 @@ If any other provision of paragraph 20.3 is found to be illegal, invalid or unen
 <b>YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN.
 BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.</b>
 </p>
-<p>© Skype – Last updated: April 2013<br>
-</p> 
+<p>© Skype and/or Microsoft – Last updated: August 2013</p>
+<p> </p> 
