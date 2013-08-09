@@ -1,7 +1,7 @@
 
 Privacy statement Microsoft Store Privacy Statement
 <p>
-<strong>Last updated: April 2013</strong>
+<strong>Last updated: August 2013</strong>
 </p>
 <p>Microsoft is committed to protecting your privacy.
 This privacy statement applies to the data collected by Microsoft through its Microsoft Stores, including the Microsoft Store websites that specifically point to this privacy statement (the “Site” or “Website”) and its Microsoft Store retail locations that specifically point to this privacy statement (the “Store”)(collectively, the “Microsoft Stores”).
@@ -22,12 +22,12 @@ We may use information from your browser, such as language choice, to improve yo
 <p>In order to offer you a more consistent and personalized experience in your interactions with Microsoft, information collected through one Microsoft service may be combined with information obtained through other Microsoft services.
 We may also supplement the information we collect with information obtained from other companies.
 For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.</p>
-<p>To sign in to the Website, you will be asked to enter an e-mail address and password, which we refer to as your Microsoft account (formerly known as Windows Live™ ID).
+<p>To sign in to the Website, you will be asked to enter an e-mail address and password, which we refer to as your Microsoft account (formerly known as Windows Live® ID).
 After you create your Microsoft account, you can use the same credentials to sign in to many different Microsoft sites and services, as well as those of select Microsoft partners that display the Microsoft account logo.
 By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services.
-To learn more about how your credential information is used when you sign in to participating sites, please read the Microsoft Online Privacy Statement at http://privacy.microsoft.com/.We may also use GeoIP or Geo Location mapping each time you visit the Website to help automatically direct you to the specific Microsoft Store Website intended for your location, but we do not store this information as part of your account information.</p>
+To learn more about how your credential information is used when you sign in to participating sites, please read the Microsoft Online Privacy Statement athttp://privacy.microsoft.com/.We may also use GeoIP or Geo Location mapping each time you visit the Website to help automatically direct you to the specific Microsoft Store Website intended for your location, but we do not store this information as part of your account information.</p>
 Use of your information
-<p>The information collected in the Store or on the Website will be used to operate the Store and the Website and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
+<p>The information collected in the Store or on the Website will be used to operate the Store and the Website and to provide the service(s) or carry out the transaction(s) you have requested or authorized, to include sending you a reminder if you have items in your shopping cart.
 We may also use this information to provide customer support, to facilitate returns and exchanges, to respond to questions or complaints, to conduct customer surveys, to detect and prevent fraud and for other purposes described in this Privacy Statement.</p>
 <p>In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Store or the Website and any related Microsoft products or services, perform statistical analysis, and make the Website easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Website to your particular preferences or interests.</p>
 <p>We may use your information to provide you with important information about the product or service that you are using, including critical updates and notifications.
@@ -75,13 +75,14 @@ When you sign out, these cookies are deleted from your computer.
 We also use cookies to improve the sign-in experience.
 For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out.
 This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in.
+In addition, we use cookies to store items in your Shopping Cart between visits.
 If you are using a public computer or do not want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.</li>
 <li>
 <strong>Targeted Advertising</strong>When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you.
 Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed.
 This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again.
 We also use this information to help select and display targeted advertisements that we believe may be of interest to you.
-You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in Microsoft Advertising Privacy Statement.</li>
+You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, inMicrosoft Advertising Privacy Statement.</li>
 <li>
 <strong>Site Analytics</strong> We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services.
 These analytics help us operate and improve the performance of these sites and services.<p>Some of the cookies we commonly use are listed in the following chart.
@@ -123,8 +124,8 @@ Because your browser connects to those third parties’ web servers to retrieve 
 <li>Click the “Privacy” tab at the top of the window</li>
 <li>Move the slider up or down to select the types of cookies you wish to block</li>
 </ol>
-<p>Instructions for blocking cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.</p>
-<p>Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.</p>
+<p>Instructions for blocking cookies in other browsers are available athttp://www.allaboutcookies.org/manage-cookies/.</p>
+<p>Please be aware that if you choose to block cookies, you will not be able to add items to your shopping cart, proceed to checkout, or sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.</p>
 </li>
 <li>
 <strong>Browser Controls to Delete Cookies.</strong> If you accept cookies, you can delete them later.<p>For example, in Internet Explorer 9, you may delete cookies by taking the following steps:</p>
@@ -134,7 +135,7 @@ Because your browser connects to those third parties’ web servers to retrieve 
 <li>On the pop-up, select the box next to “Cookies” </li>
 <li>Click the “Delete” button</li>
 </ol>
-<p>Instructions for deleting cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.</p>
+<p>Instructions for deleting cookies in other browsers are available athttp://www.allaboutcookies.org/manage-cookies/.</p>
 <p>Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.</p>
 </li>
 <li>
@@ -147,20 +148,19 @@ And when you have a Tracking Protection List enabled, Internet Explorer will sen
 For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.</p>
 </li>
 <li>
-<strong>Advertising Opt-Out Controls </strong> Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use.
+<strong>Advertising Opt-Out Controls </strong>Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use.
 Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft).
 These pages include:<ol>
-<li>Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
+<li>Digital Advertising Alliance (DAA) Consumer Choice Page:http://www.aboutads.info/choices/
 </li>
-<li>Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt_out.asp
+<li>Network Advertising Initiative (NAI) Opt-Out Page:http://www.networkadvertising.org/managing/opt_out.asp
 </li>
 </ol>
 <p>Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices.
-For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/.
+For instance, Microsoft’s advertising preference and opt-out controls are available athttp://choice.live.com/advertisementchoice/.
 Please note that opting out does not mean that you will stop getting ads or see fewer ads.
 however, if you do opt out, the ads that you receive will no longer be behaviorally targeted.
-In addition, opting out does not stop information from being collected.
-</p>
+In addition, opting out does not stop information from being collected.</p>
 </li>
 </ul>Our use of web beacons
 <p>Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services.
@@ -171,26 +171,25 @@ These web beacons may allow the third parties to set or read a cookie on your co
 We prohibit third parties from using web beacons on our sites to collect or access your personal information.
 Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:</p>
 <ul>
-<li>Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
+<li>Omniture (Adobe):http://www.d1.sc.omtrdc.net/optout.html
 </li>
-<li>Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices
+<li>Nielsen:http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices
 </li>
-<li>Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
+<li>Coremetrics:http://www.coremetrics.com/company/privacy.php#optout
 </li>
-<li>Visible Measures: http://corp.visiblemeasures.com/viewer-settings
+<li>Visible Measures:http://corp.visiblemeasures.com/viewer-settings
 </li>
-<li>Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)</li>
+<li>Google Analytics:http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)</li>
 </ul>Other similar technologies
 <p>In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer.
 This may be done to maintain your preferences or to improve speed and performance by storing certain files locally.
 But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior.
-These technologies include Local Shared Objects (or “Flash cookies”) and Silverlight Application Storage.
-</p>
+These technologies include Local Shared Objects (or “Flash cookies”) and Silverlight Application Storage.</p>
 <ul>
 <li>
-<strong>Local Shared Objects or “Flash cookies.” </strong> Web sites that use Adobe Flash technologies may use Local Shared Objects or “Flash cookies” to store data on your computer.
+<strong>Local Shared Objects or “Flash cookies.” </strong>Web sites that use Adobe Flash technologies may use Local Shared Objects or “Flash cookies” to store data on your computer.
 Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser.
-To manage or block Flash cookies, go to http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
+To manage or block Flash cookies, go tohttp://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
 </li>
 <li>
 <strong>Silverlight Application Storage.</strong> Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage.
@@ -207,18 +206,18 @@ For example, we may select the ads we display according to certain general inter
 age, zip or postal code, and gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address.
 (b) the pages you view and links you click when using Microsoft’s and its advertising partners’ Web sites and services.
 and (c) the search terms you enter when using Microsoft’s Internet search services, such as Bing, and (d) information about the users you most frequently interact with through Microsoft’s communications or social networking services, such as Messenger.
-For more information about how we target ads, visit Personalized Advertising from Microsoft.</p>
+For more information about how we target ads, visitPersonalized Advertising from Microsoft.</p>
 <p>When we display personalized targeted ads, we take a number of steps designed to protect your privacy.
 For example, we store page views, clicks, and search terms used for ad personalization separately from your contact information or other data that directly identifies you (such as your name, e-mail address, etc.).
 Further, we have built in administrative, technical, and physical safeguards designed to prevent the unauthorized correlation of this data.
 We also give you the ability to opt-out of personalized ads.
-For more information or to use the opt-out feature, you may visit our opt-out page.
-In addition, you can go to the Network Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies.</p>
-<p>We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement at http://www.atlassolutions.com/privacy.aspx.</p>
+For more information or to use the opt-out feature, you may visit ouropt-out page.
+In addition, you can go to theNetwork Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies.</p>
+<p>We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement athttp://www.atlassolutions.com/privacy.aspx.</p>
 <p>Although the majority of the online advertisements on Microsoft sites are displayed by Microsoft, we also allow third-party ad-serving companies, including other ad networks, to display advertisements on our sites.
 These companies currently include, but are not limited to 24/7 Real Media, Advertising.com, Bidclix, Bluestreak, Burst Media, DoubleClick, EuroClick, Eyeblaster, EyeWonder, Falk, Interpolls, Kanoodle, Mediaplex, Pointroll, TangoZebra, Yahoo! Publisher Network, and Zedo.</p>
 <p>These companies may offer you a way to opt-out of ad targeting based on their cookies You may find more information by clicking on the company names above and following the links to the Web sites of each company.
-Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.</p>
+Some of these companies are members of theNetwork Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.</p>
 Changes to this Privacy Statement <p>We may occasionally update this privacy statement.
 When we do, we will also revise the "last updated" date at the top of the privacy statement.
 For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Website or by directly sending you a notification.
