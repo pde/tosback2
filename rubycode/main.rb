@@ -7,7 +7,8 @@ require 'active_record'
 # require 'pry' #debug
 
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
-ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash)
+# assumes we only need sql if running the full script in production
+ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash) if ARGV.length == 0
 
 $rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
