@@ -1,4 +1,4 @@
-<sitename name="HP.com">
+<sitename name="hp.com">
  <docname name="Privacy Policy">
    <url name="http://www8.hp.com/us/en/privacy/privacy.html" xpath="//div[@id='gateway_article_body']">
      <norecurse name="arbitrary"/>
