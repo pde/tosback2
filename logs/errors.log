@@ -6135,3 +6135,14 @@
 2013-09-07 00:26:24 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-09-07 00:26:47 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-09-07 00:26:51 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-08 00:18:01 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-09-08 00:18:02 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-09-08 00:18:31 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-09-08 00:18:49 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-09-08 00:19:03 -0400 - https://www.yammer.com/about/privacy:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2013-09-08 00:19:29 -0400 - http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1:	404 => Net::HTTPNotFound for http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1 -- unhandled response
+2013-09-08 00:24:04 -0400 - http://www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN:	404 => Net::HTTPNotFound for http://nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN -- unhandled response
+2013-09-08 00:24:10 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-08 00:26:06 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-09-08 00:26:30 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-09-08 00:26:32 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
