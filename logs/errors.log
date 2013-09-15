@@ -6211,3 +6211,16 @@
 2013-09-14 00:25:56 -0400 - http://infospace.com/support/privacypolicy:	getaddrinfo: No address associated with hostname
 2013-09-14 00:26:07 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
 2013-09-14 00:26:10 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-15 00:15:37 -0400 - https://rapidshare.com/rsag_tou.html:	404 => Net::HTTPNotFound for https://rapidshare.com/rsag_tou.html -- unhandled response
+2013-09-15 00:15:37 -0400 - https://rapidshare.com/rsag_ppolicy.html:	404 => Net::HTTPNotFound for https://rapidshare.com/rsag_ppolicy.html -- unhandled response
+2013-09-15 00:15:39 -0400 - https://www.yammer.com/about/privacy:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2013-09-15 00:15:56 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-09-15 00:15:56 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-09-15 00:16:09 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-09-15 00:17:03 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-09-15 00:18:40 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-09-15 00:20:02 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-09-15 00:21:42 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-15 00:24:57 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-09-15 00:26:16 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-15 00:28:42 -0400 - http://infospace.com/support/privacypolicy:	getaddrinfo: No address associated with hostname
