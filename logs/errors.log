@@ -6325,3 +6325,18 @@
 2013-09-23 00:25:28 -0400 - http://www.officedepot.com/a/customerservice/termsofuse/:	500 => Net::HTTPInternalServerError for http://www.officedepot.com/a/customerservice/termsofuse/ -- unhandled response
 2013-09-23 00:25:37 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-09-23 00:26:46 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-24 00:16:15 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-09-24 00:16:15 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-09-24 00:16:26 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-09-24 00:16:59 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-09-24 00:18:31 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-09-24 00:19:53 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-09-24 00:20:42 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-09-24 00:21:07 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-24 00:22:33 -0400 - http://csoboard.com/privacy-policy/:	522 =>  for http://csoboard.com/privacy-policy/ -- unhandled response
+2013-09-24 00:23:21 -0400 - http://www.livingly.com/privacy-policy/:	503 => Net::HTTPServiceUnavailable for http://www.livingly.com/privacy-policy/ -- unhandled response
+2013-09-24 00:23:33 -0400 - http://www.personified.com/privacy/:	503 => Net::HTTPServiceUnavailable for http://www.personified.com/privacy/ -- unhandled response
+2013-09-24 00:24:03 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-09-24 00:26:23 -0400 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 91797290, last used 1379996783.4012616 seconds ago
+2013-09-24 00:27:14 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-24 00:29:44 -0400 - http://ereader.soc.io/privacy-policy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 93669560, last used 1379996984.567703 seconds ago
