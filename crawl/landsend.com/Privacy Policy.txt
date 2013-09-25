@@ -117,17 +117,17 @@ Underwear </li>
 </li>
 <li> Plus Size Clothing </li>
 <li> Petite Clothing </li>
+<li> New Arrivals </li>
 <li> Sale </li>
 </ul>
 </li>
 <li> Men <ul>
 <li>
 </li>
-<li> Dress Shirts <ul>
+<li> Outerwear <ul>
 <li> Regular </li>
 <li> Tall </li>
 <li> Big </li>
-<li> Big and Tall </li>
 </ul>
 </li>
 <li> Polos, T-shirts &amp.
@@ -138,7 +138,14 @@ Turtlenecks <ul>
 <li> Big and Tall </li>
 </ul>
 </li>
-<li> Casual Buttondown Shirts <ul>
+<li> Dress Shirts <ul>
+<li> Regular </li>
+<li> Tall </li>
+<li> Big </li>
+<li> Big and Tall </li>
+</ul>
+</li>
+<li> Casual Button-down Shirts <ul>
 <li> Regular </li>
 <li> Tall </li>
 <li> Big </li>
@@ -168,12 +175,6 @@ Blazers <ul>
 <li> Short </li>
 </ul>
 </li>
-<li> Ties </li>
-<li> Shoes <ul>
-<li> Regular </li>
-<li> Wide </li>
-</ul>
-</li>
 <li> Sleepwear <ul>
 <li> Regular </li>
 <li> Tall </li>
@@ -181,6 +182,18 @@ Blazers <ul>
 <li> Big and Tall </li>
 </ul>
 </li>
+<li> Shoes <ul>
+<li> Regular </li>
+<li> Wide </li>
+</ul>
+</li>
+<li> Ties </li>
+<li> Belts &amp.
+Accessories </li>
+<li> Socks &amp.
+Underwear </li>
+<li> Hats, Gloves &amp.
+Scarves </li>
 <li> Shorts <ul>
 <li> Regular </li>
 <li> Tall </li>
@@ -193,24 +206,13 @@ Blazers <ul>
 <li> Big and Tall </li>
 </ul>
 </li>
-<li> Outerwear <ul>
-<li> Regular </li>
-<li> Tall </li>
-<li> Big </li>
-</ul>
-</li>
-<li> Hats, Gloves &amp.
-Scarves </li>
-<li> Socks &amp.
-Underwear </li>
-<li> Belts &amp.
-Accessories </li>
 <li> Activewear <ul>
 <li> Regular </li>
 <li> Tall </li>
 <li> Big </li>
 </ul>
 </li>
+<li> New Arrivals </li>
 <li> Sale </li>
 </ul>
 </li>
@@ -218,9 +220,20 @@ Accessories </li>
 <li>
 </li>
 <li> Girls <ul>
-<li> Backpacks &amp.
-Lunch Boxes </li>
+<li> Outerwear <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+</ul>
+</li>
 <li> Tops <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+</ul>
+</li>
+<li> Sweaters &amp.
+Cardigans <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
@@ -247,8 +260,7 @@ Skorts <ul>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
-<li> Sweaters &amp.
-Cardigans <ul>
+<li> Shorts <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
@@ -261,26 +273,24 @@ Jackets <ul>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
-<li> Shorts <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-</ul>
-</li>
-<li> Outerwear <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-</ul>
-</li>
 <li> Hats, Gloves &amp.
 Scarves </li>
+<li> Sleepwear <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid/Big Kid </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+<li> Infant/Toddler </li>
+</ul>
+</li>
 <li> Swim <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
+<li> Backpacks &amp.
+Lunch Boxes </li>
 <li> Tights, Socks &amp.
 Underwear <ul>
 <li> Big Kid (7-20) </li>
@@ -296,14 +306,6 @@ Underwear <ul>
 <li> Infant/Toddler </li>
 </ul>
 </li>
-<li> Sleepwear <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid/Big Kid </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-<li> Infant/Toddler </li>
-</ul>
-</li>
 <li> Shoes <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid/Big Kid </li>
@@ -312,26 +314,19 @@ Underwear <ul>
 </ul>
 </li>
 <li> School Uniforms </li>
+<li> New Arrivals </li>
 <li> Sale </li>
 </ul>
 </li>
 <li>   </li>
 <li> Boys <ul>
-<li> Backpacks &amp.
-Lunch Boxes </li>
+<li> Outerwear <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+</ul>
+</li>
 <li> Tops <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-</ul>
-</li>
-<li> Pants <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-</ul>
-</li>
-<li> Shorts <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
@@ -342,6 +337,12 @@ Lunch Boxes </li>
 <li> Little Kid (4-7) </li>
 </ul>
 </li>
+<li> Pants <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+</ul>
+</li>
 <li> Blazers &amp.
 Jackets <ul>
 <li> Big Kid (7-20) </li>
@@ -349,20 +350,30 @@ Jackets <ul>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
-<li> Outerwear <ul>
+<li> Hats, Gloves &amp.
+Scarves </li>
+<li> Sleepwear <ul>
+<li> Big Kid (7-20) </li>
+<li> Little Kid/Big Kid </li>
+<li> Little Kid (4-7) </li>
+<li> Toddler (2T-4T) </li>
+<li> Infant/Toddler </li>
+</ul>
+</li>
+<li> Shorts <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
-<li> Hats, Gloves &amp.
-Scarves </li>
 <li> Swim <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid (4-7) </li>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
+<li> Backpacks &amp.
+Lunch Boxes </li>
 <li> Ties &amp.
 Accessories <ul>
 <li> Big Kid (7-20) </li>
@@ -379,14 +390,6 @@ Underwear <ul>
 <li> Toddler (2T-4T) </li>
 </ul>
 </li>
-<li> Sleepwear <ul>
-<li> Big Kid (7-20) </li>
-<li> Little Kid/Big Kid </li>
-<li> Little Kid (4-7) </li>
-<li> Toddler (2T-4T) </li>
-<li> Infant/Toddler </li>
-</ul>
-</li>
 <li> Shoes <ul>
 <li> Big Kid (7-20) </li>
 <li> Little Kid/Big Kid </li>
@@ -395,6 +398,7 @@ Underwear <ul>
 </ul>
 </li>
 <li> School Uniforms </li>
+<li> New Arrivals </li>
 <li> Sale </li>
 </ul>
 </li>
@@ -534,19 +538,19 @@ Camp </li>
 <li> Home <ul>
 <li> Bedding </li>
 <li> Bath </li>
-<li> Beach Towels </li>
 <li> Throws &amp.
 Home Décor </li>
 <li> Storage &amp.
 Organization </li>
-<li> Backpacks, Luggage &amp.
-Bags </li>
 <li> Seasonal Décor &amp.
 Gifts </li>
+<li> Backpacks, Luggage &amp.
+Bags </li>
+<li> Beach Towels </li>
 <li> Outdoor Living </li>
-<li> Furniture </li>
 <li> Kids Home </li>
 <li> Dog Shop </li>
+<li> New Arrivals </li>
 <li> Sale </li>
 </ul>
 </li>

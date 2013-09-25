@@ -1,5 +1,4 @@
- AVAST Privacy and Information Security Policy Outline:
-<ol>
+ AVAST Privacy and Information Security Policy Outline: <ol>
 <li>Scope of Policy</li>
 <li>Information We Collect When You Visit Our Website</li>
 <li>Information We Collect When You Download or Use our Programs, Request Service or Support, or Pay for Products and Services</li>
@@ -8,8 +7,7 @@
 <li>Information Security</li>
 <li>Compliance with Laws and Dispute Resolution</li>
 <li>How to Request Changes to Your Personal Information</li>
-</ol>
-I.
+</ol> I.
 Scope of Policy <p>This AVAST Privacy and Information Security Policy applies to AVAST Software a.s., Avast Software B.V., AVAST Software, Inc., each of their subsidiaries and affiliates (collectively "Avast"), and all of their contractors, representatives, agents, and resellers while they are working on behalf of Avast (collectively “we” or “us”).
 AVAST Software a.s.
 is a data controller of personal data processed in accordance with this policy.
@@ -19,25 +17,20 @@ This also includes circumstances where you download an Avast product or program 
 It also refers to interactions between your computer and us such as automatic updates, and our <strong>avast! WebRep™</strong>, <strong>
 <strong>avast! FileRep</strong>
 </strong>, and <strong>avast! CommunityIQ</strong> features.
-</p>
-Phone contacts.
+</p> Phone contacts.
 <p>This includes calls for sales, service, or customer support.
 This policy will apply to any information that is collected from you when you call us.
-</p>
-Offline contacts.
+</p> Offline contacts.
 <p>Sometimes we may appear at a "live" or in-person event such as a trade show or promotion.
 If we collect any personally identifiable information in such a case, this policy will apply.
-</p>
-HR data.
+</p> HR data.
 <p>This refers to data concerning Avast employees.
 In general, human resources (HR) data is handled in a manner consistent with the provision of this policy, except that such data is never used or shared with anybody for any direct marketing purposes, and the provisions of this policy relating to in-product messaging do not apply.
-</p>
-Reseller information.
+</p> Reseller information.
 <p>This refers to information that is collected from prospective Avast resellers at the time they apply to join the Avast reseller program.
 Certain information may be collected regarding the reseller or its individual representative(s), including contact information such as telephone number and email address.
 Similar information may be obtained regarding sub-resellers, where applicable.
-</p>
-Other circumstances where you contact us.
+</p> Other circumstances where you contact us.
 <p>This includes contact by email, by clicking the "report a virus" link on our website, through our media contact or news subscription services, by requesting online service or support or opening a support ticket, and any other time that you contact us.
 </p>
 <p>When we refer to "personally identifiable information," "personal data," or "personal information," we mean information that can identify you such as name, identification number, email address, phone number, or other information that refers specifically to you.
@@ -152,7 +145,11 @@ and select an avatar or personalized picture.
 Any information you provide here will be visible to other users.
 The following minimum items of information will be available to all users, regardless of your profile settings: your username, your total number of posts and posts per day, the date and time you registered, your local time, and the date and time of your last activity.</p>
 </li>
-</ul>Support Portal.
+</ul>Jumpshot user forum.
+<p>The posts on the Jumpshot user forum (https://jumpshot.uservoice.com) are accessible solely via your existing Jumpshot Account.
+Before submitting a post you should ensure that you did not enter any personal data.
+Search engines can and do collect information from the discussion forums and can publish it even if the information has been deleted from our servers.
+Deletion or correction of such postings held in a cache by third parties such as search engines is not always possible.</p> Support Portal.
 <p>You may also join the <strong>Support Portal</strong> at support.avast.com.
 Certain features require registration in order to participate.
 Registration for the Support Portal is separate from registration for avast! Forum.
@@ -165,8 +162,9 @@ This information is not shared with other users.
 If you choose to use <strong>avast! Account</strong> you will be asked to provide your first name, last name, and email address.
 You will also be asked to select a password.
 We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your <strong>avast! Account</strong> and/or product settings.
-</p>
-Third-party content and sites.
+</p> Jumpshot Account.
+<p>
+<strong>Jumpshot Account</strong> is a tool that permits you to register your personal details when you use Jumpshot.</p> Third-party content and sites.
 <p>There may be times when we offer links to third-party sites such as Twitter, Facebook, or others.
 </p>
 <ul>
@@ -182,8 +180,7 @@ Clicking on such a thumbnail or profile link will take you away from the Avast w
 By connecting from our website to any third-party site, you agree that we are not responsible for any loss or damage you may suffer as a result of your dealings with the third party, or your use of or reliance on any of that party's content.
 </p>
 </li>
-</ul>
-III.
+</ul> III.
 Information We Collect When You Download or Use our Programs, Request Service or Support, or Pay for Products and Services Free product downloads generally.
 <p>You are not required to disclose any personal information in order to download <strong>avast! Free Antivirus</strong>, <strong>avast! Free Antivirus for Mac</strong>, or <strong>avast! Free Mobile Security</strong>, and you are permitted to use these programs up to 30 days without registration.
 Within 30 days, you are required to register your copy of <strong>avast! Free Antivirus</strong>, <strong>avast! Free Antivirus for Mac</strong>, or <strong>avast! Free Mobile Security</strong> in order to continue using these programs for up to 12 months.
@@ -243,8 +240,7 @@ If you want the best protection, download avast! like I did.”</li>
 If you do not wish to allow Avast to post these messages, click “Skip” at this stage in the registration process.
 You can modify your posting preferences at any time via my avast! Account (https://my.avast.com/en-us/facebook).</p>
 </li>
-</ul>
-Personal data collected by specific products.
+</ul> Personal data collected by specific products.
 <p>Some of our product offerings are required to collect additional personal information in order to deliver full product functionality.
 In general, we collect no more personal information than is required in order to provide full functionality of these products.
 Specific products, and the types of information that they collect when you use them, are as follows:</p>
@@ -311,12 +307,20 @@ Passwords may be backed up on a remote server, and certain other identifying inf
 The <strong>avast! EasyPass</strong> service is provided by a third party under contract with Avast, and the privacy policy, terms of service, and end user license agreement (EULA) of the third party apply to any information that users provide in connection with the <strong>avast! EasyPass</strong> service.</p>
 </li>
 <li>
+<p>Jumpshot: <strong>Jumpshot</strong> is a bootable Linux-based antivirus program that removes tough malware.
+In order to use it, the following information must be stored: (a) your name, surname, email address, password hash, originating IP address, display name and number of scanned systems.
+(b) scanned systems history including data about operating system, hostnames and usernames of the systems, patch level, system health, hardware information (including CPU), graphics card information, hard drive information, system hard drive boot sectors, system´s hard drive volume headers.
+(c) system data information- list of computer software installed, directory listing of software, registry name and entries, registry hives and executables.
+(d) wifi connection security information, i.e.
+the used level of the connection´s encryption.</p>
+</li>
+<li>
 <p>Other products: There may be other products (current or future) that require that we collect certain types of personal information in order to enable full product functionality.
 We will always inform you prior to collecting any such information, usually in the terms of service or end user license agreement (EULA) applicable to the product in question.</p>
 </li>
 </ul>
 <p>The information described above, when collected by the Avast software, is generally not correlated with any other personal information related to you that Avast may be processing, such as information provided during the process of ordering and downloading the software.
-Unless you have permitted otherwise, the information collected by the Avast software is used anonymously in aggregation with similar information from other users of the software for analytical purposes to identify new viruses and threats, for improvement and development of the software, and for statistical purposes.</p> In-product messaging.
+AVAST reserves the right to use the information collected by the Avast software anonymously in aggregation with similar information from other users of the software for any purpose whatsoever including their use for analytical purposes to identify new viruses and threats, for improvement and development of the software and AVAST’s other future products and services, and for statistical purposes.</p> In-product messaging.
 <p> We sometimes communicate with our users using a technique known as "in-product messaging." In-product messaging may be used in the following scenarios: (1) when a user's license is about to expire.
 (2) when a user chooses to update or upgrade an Avast program.
 (3) when a virus database is updated.
@@ -373,8 +377,7 @@ Others have registered for, and certified compliance with, the so-called "Safe H
 Department of Commerce for the handling of personal information.
 In all cases, such third-party service providers have executed agreements with us promising not to use personal information of our users for their own marketing purposes, and not to share this information with other parties.</p>
 </li>
-</ul>
-IV.
+</ul> IV.
 Special Types of Personal Information HR data.
 <p>In general, human resources (HR) data is handled in a manner consistent with the provision of this policy.
 However, such data is never used or shared with anybody for direct marketing purposes, and the provisions of this policy relating to in-product messaging and product downloads do not apply (except in the case where an employee uses our products in his or her personal capacity, in which case the employee's information is subject to the same policies as any other user).
@@ -401,8 +404,7 @@ In some cases this information may be transmitted to or stored within the Europe
 <p>Maintenance of personally identifiable information is performed either by us or by contractors who we hire, or by our subsidiaries, affiliates, representatives, agents, or resellers who are working on our behalf.
 All such third parties must agree to observe the privacy of our users, and to protect the confidentiality of their personal information.
 All have agreed not to share personal information of our users with other parties, and not to use such personal information for their own direct marketing purposes.
-</p>
-Disclosure to third parties.
+</p> Disclosure to third parties.
 <p>There may be limited circumstances in which we are required to disclose your personally identifiable information to unrelated third parties.</p>
 <ul>
 <li>
@@ -521,7 +523,7 @@ Be sure to write "Attention: Privacy" in the address so we know where to direct 
 </li>
 <li>
 <p>For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction.
-Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.</p>
+Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm.</p>
 </li>
 <li>
 <p>For residents of the United States: If you live in the U.S.
