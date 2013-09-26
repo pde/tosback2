@@ -1,35 +1,101 @@
- Register | Log in | Customize <ul>
+ Register | Log in | Customize Menu<ul>
 <li>
-Home
+Home<ul>
+<li>Newsletter</li>
+<li>About Us</li>
+<li>Site Map</li>
+</ul>
 </li>
 <li>
-World Clock
+World Clock<ul>
+<li>Main World Clock</li>
+<li>Extended World Clock</li>
+<li>Personal World Clock</li>
+<li>Event Time Announcer</li>
+</ul>
 </li>
 <li>
-Time Zones
+Time Zones<ul>
+<li>Time Zone Converter</li>
+<li>Meeting Planner</li>
+<li>Time Zone Map</li>
+<li>Time Zone Abbreviations</li>
+<li>Time Zone News</li>
+<li>Daylight Saving Time</li>
+</ul>
 </li>
 <li>
-Calendar
+Calendar<ul>
+<li>Calendar Index</li>
+<li>Calendar 2013</li>
+<li>Calendar 2014</li>
+<li>Print Calendar PDF </li>
+<li>Monthly Calendar</li>
+<li>Basic Calendar Creator</li>
+<li>Advanced Creator</li>
+<li>Holidays</li>
+</ul>
 </li>
 <li>
-Weather
+Weather<ul>
+<li>Worldwide</li>
+<li>Local Weather</li>
+<li>2-week Forecast</li>
+<li>Hour-by-hour</li>
+<li>Past Week</li>
+</ul>
 </li>
 <li>
 Sun &amp.
-Moon
+Moon<ul>
+<li>Sun Calculator</li>
+<li>Moon Calculator</li>
+<li>Moonphases</li>
+<li>Seasons</li>
+<li>Day and Night Map</li>
+<li>Eclipses</li>
+</ul>
 </li>
 <li>
-Timers
+Timers<ul>
+<li>Timer</li>
+<li>Stopwatch</li>
+<li>Countdown to Any Date</li>
+<li>New Year Countdown</li>
+</ul>
 </li>
 <li>
-Calculators
+Calculators<ul>
+<li>Date to Date Calculator</li>
+<li>Date Calculator</li>
+<li>Weekday Calculator</li>
+<li>Business Date</li>
+<li>Business Days</li>
+<li>Dialing Codes</li>
+<li>Distance Calculator</li>
+<li>Travel Time Calculator</li>
+</ul>
 </li>
 <li>
 Apps &amp.
-API
+API<ul>
+<li>iPad Apps</li>
+<li>iPhone Apps</li>
+<li>Android Apps</li>
+<li>Windows 8 Apps</li>
+<li>Free Clock</li>
+<li>Free Countdown</li>
+<li>API for Developers</li>
+</ul>
 </li>
 <li>
-Free Fun
+Free Fun<ul>
+<li>Free Clock for your site</li>
+<li>Free Countdown for your site</li>
+<li>Word Clock</li>
+<li>Age Calculator</li>
+<li>Date Pattern Calculator</li>
+</ul>
 </li>
 </ul>
 <ul>
