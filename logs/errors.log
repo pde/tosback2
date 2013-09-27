@@ -6365,3 +6365,17 @@
 2013-09-26 00:20:42 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-09-26 00:23:45 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-09-26 00:24:56 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-27 00:15:49 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-09-27 00:15:49 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-09-27 00:17:00 -0400 - http://www.inbox.com/privacy_policy.aspx:	Connection timed out - connect(2)
+2013-09-27 00:17:03 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-09-27 00:17:12 -0400 - http://thepiratebay.org/policy:	connection refused: thepiratebay.org:80
+2013-09-27 00:19:23 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-09-27 00:19:55 -0400 - http://www.simplyhired.com/a/legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.simplyhired.com/a/legal/privacy -- unhandled response
+2013-09-27 00:20:33 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-09-27 00:21:21 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-09-27 00:21:46 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-27 00:22:36 -0400 - http://www.cvs.com/help/privacy_policy.jsp:	404 => Net::HTTPNotFound for http://www.cvs.com/help/privacy_policy.jsp -- unhandled response
+2013-09-27 00:24:52 -0400 - http://www.nwf.org/Privacy-Policy.aspx:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 89065200, last used 1380255892.8966455 seconds ago
+2013-09-27 00:27:04 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-09-27 00:28:12 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
