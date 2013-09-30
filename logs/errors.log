@@ -6405,3 +6405,18 @@
 2013-09-29 00:20:36 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
 2013-09-29 00:23:27 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-09-29 00:24:35 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-09-30 00:15:51 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-09-30 00:15:51 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-09-30 00:16:03 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-09-30 00:16:39 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-09-30 00:19:06 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-09-30 00:19:18 -0400 - http://www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx:	503 => Net::HTTPServiceUnavailable for http://www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx -- unhandled response
+2013-09-30 00:20:42 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-09-30 00:21:33 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-09-30 00:21:55 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-09-30 00:23:45 -0400 - http://readwrite.com/page/privacy-policy:	502 => Net::HTTPBadGateway for http://readwrite.com/page/privacy-policy -- unhandled response
+2013-09-30 00:24:20 -0400 - https://www.godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY&ci=20803&app_hdr=0:	Connection reset by peer - SSL_connect
+2013-09-30 00:25:37 -0400 - https://owncube.com/privacy-en.php:	Connection timed out - connect(2)
+2013-09-30 00:26:40 -0400 - https://owncube.com/terms-en.php:	Connection timed out - connect(2)
+2013-09-30 00:26:46 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-09-30 00:28:41 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
