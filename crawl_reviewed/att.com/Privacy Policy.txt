@@ -108,7 +108,7 @@ California customers who wish to request further information about our complianc
 menuItem = sectionID + 'A'.
 activeMenuItem = document.getElementById(menuItem).
 var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA').
-for(m=0;m' + '	' + '<strong>Our Updated AT&amp;T Privacy Policy in easy, FAQ format.</strong>' + '<p>We understand that everyone thinks that privacy policies are long, complicated and difficult to understand.
+for(m=0;m' + '	' + '<strong>Our AT&amp;T Privacy Policy in easy, FAQ format.</strong>' + '<p>We understand that everyone thinks that privacy policies are long, complicated and difficult to understand.
 So we\'re going to try to make this as simple as possible.</p>' + '<strong>DEFINITIONS</strong>' + '<p>
 <strong>Let\'s start with what we mean when we say: </strong>
 </p>' + '<p>
