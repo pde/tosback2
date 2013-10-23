@@ -5,23 +5,26 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/capitalone.com/Terms and Conditions.txt
-#	modified:   ../crawl/cnn.com/Privacy Policy.txt
-#	modified:   ../crawl/dell.com/Consumer Terms of Sale.txt
-#	modified:   ../crawl/ebay.com/Privacy Policy.txt
-#	modified:   ../crawl/ephotozine.com/Privacy Policy.txt
-#	modified:   ../crawl/express.com/Privacy Policy.txt
-#	modified:   ../crawl/gmx.net/Privacy Policy.txt
+#	modified:   ../crawl/consumerist.com/Privacy Policy.txt
+#	modified:   ../crawl/consumerist.com/Terms of Service.txt
+#	modified:   ../crawl/craigslist.org/Privacy Policy.txt
+#	modified:   ../crawl/drudgereport.com/Privacy Policy.txt
+#	modified:   ../crawl/everlane.com/Privacy Policy.txt
+#	modified:   ../crawl/fidelity.com/Privacy Policy.txt
+#	modified:   ../crawl/freefilefillableforms.com/Terms of Service.txt
+#	modified:   ../crawl/landsend.com/Privacy Policy.txt
+#	modified:   ../crawl/nytimes.com/Privacy Policy.txt
+#	modified:   ../crawl/pronto.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
-#	modified:   ../crawl/stackexchange.com/Content Policy.txt
-#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
-#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
 #	modified:   ../crawl/t-online.de/Privacy Policy.txt
+#	modified:   ../crawl/toodledo.com/Privacy Policy.txt
+#	modified:   ../crawl/tube8.com/Privacy Policy.txt
+#	modified:   ../crawl/twowaylove.com/Privacy Policy.txt
+#	modified:   ../crawl/webs.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
-#	modified:   ../crawl_reviewed/github.com/Terms of Service.txt
-#	modified:   ../crawl_reviewed/twitter.com/Privacy Policy.txt
+#	modified:   ../crawl/yelp.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/youtube.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log

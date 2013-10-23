@@ -6693,3 +6693,20 @@
 2013-10-22 00:28:23 -0400 - http://www.mobilytrip.com/pages/privacy_policy:	503 => Net::HTTPServiceUnavailable for http://www.mobilytrip.com/pages/privacy_policy -- unhandled response
 2013-10-22 00:28:23 -0400 - http://www.mobilytrip.com/pages/terms_of_use:	503 => Net::HTTPServiceUnavailable for http://www.mobilytrip.com/pages/terms_of_use -- unhandled response
 2013-10-22 00:28:45 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-10-23 00:15:12 -0400 - http://www.albertsons.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://www.albertsons.com/privacy-policy/ -- unhandled response
+2013-10-23 00:15:52 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-10-23 00:15:53 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-10-23 00:16:05 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-10-23 00:16:14 -0400 - http://thepiratebay.org/policy:	connection refused: thepiratebay.org:80
+2013-10-23 00:17:28 -0400 - http://www.drjays.com/content/customerservice/privacy_policy.html:	503 => Net::HTTPServiceUnavailable for http://www.drjays.com/content/customerservice/privacy_policy.html -- unhandled response
+2013-10-23 00:18:53 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-10-23 00:20:06 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-10-23 00:20:53 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-10-23 00:21:17 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-10-23 00:24:05 -0400 - http://adage.com/privacy:	Connection timed out - connect(2)
+2013-10-23 00:24:08 -0400 - http://www.glassdoor.com/about/privacy.htm:	503 => Net::HTTPServiceUnavailable for http://www.glassdoor.com/about/privacy.htm -- unhandled response
+2013-10-23 00:25:10 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-10-23 00:25:13 -0400 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2013-10-23 00:25:16 -0400 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_termscond:	503 => Net::HTTPServiceUnavailable for http://shop.advanceautoparts.com/MaintPage/index.html -- unhandled response
+2013-10-23 00:26:34 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-10-23 00:27:03 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response

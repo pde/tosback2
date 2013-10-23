@@ -5,24 +5,23 @@ shop by category <ul>
 </ul>
 <ul>
 <li> Women </li>
-<li> Women's Clothing </li>
+<li> Clothing </li>
 <li> Shoes </li>
 <li> Bags </li>
 <li> Accessories </li>
 <li> Beauty </li>
-<li> Other Style </li>
 </ul>
 </li>
 <li> Men <ul>
 </ul>
 <ul>
 <li> Men </li>
-<li> Men's Clothing </li>
-<li> Men's Shoes </li>
-<li> Men's Bags &amp.
+<li> Clothing </li>
+<li> Shoes </li>
+<li> Bags &amp.
 Briefcases </li>
-<li> Men's Accessories </li>
-<li> Men's Grooming </li>
+<li> Accessories </li>
+<li> Grooming </li>
 </ul>
 </li>
 <li> Baby &amp.
@@ -31,19 +30,14 @@ Kids <ul>
 <ul>
 <li> Baby &amp.
 Kids </li>
-<li> Baby &amp.
-Kids Clothing </li>
+<li> Clothing </li>
 <li> Baby Gear </li>
-<li> Baby &amp.
-Kids Furniture </li>
-<li> Nursery Decor </li>
-<li> Kids &amp.
-Baby Bedding &amp.
-...
-</li>
+<li> Furniture </li>
+<li> Decor </li>
+<li> Bedding &amp.
+Bath </li>
 <li> Baby Care </li>
 <li> Baby Toys </li>
-<li> Other Baby </li>
 </ul>
 </li>
 <li> Home &amp.
@@ -55,10 +49,10 @@ Garden </li>
 <li> Kitchen &amp.
 Tabletop </li>
 <li> Furniture </li>
-<li> Home Decor </li>
+<li> Decor </li>
 <li> Bedding &amp.
 Bath </li>
-<li> Home Appliances </li>
+<li> Appliances </li>
 <li> Lighting </li>
 <li> Outdoor Living </li>
 <li> Tools &amp.
@@ -80,7 +74,6 @@ GPS </li>
 <li> Computers </li>
 <li> Phones </li>
 <li> Video Games </li>
-<li> Other Electronics </li>
 </ul>
 </li>
 <li> Drugstore <ul>
@@ -112,27 +105,21 @@ Fitness </li>
 <li> Team Sports </li>
 <li> Individual Sports </li>
 <li> Fan Shop </li>
-<li> Fitness Equipment </li>
-<li> Outdoor Sports </li>
-<li> Water Sports Equipment </li>
+<li> Fitness </li>
+<li> Outdoors </li>
+<li> Water Sports </li>
 </ul>
 </li>
-<li> Automotive Tools &amp.
-Hardware <ul>
+<li> Automotive <ul>
 </ul>
 <ul>
-<li> Automotive Tools &amp.
-Har...
-</li>
-<li> Auto Body Parts </li>
-<li> Automotive Accessories </li>
-<li> Automotive Tools &amp.
-Equ...
-</li>
+<li> Automotive </li>
+<li> Parts </li>
+<li> Accessories </li>
+<li> Tools &amp.
+Equipment </li>
 <li> Tires &amp.
 Wheels </li>
-<li> Other Automotive Tools...
-</li>
 </ul>
 </li>
 <li> Books &amp.
@@ -162,10 +149,9 @@ Crafts </li>
 <li> Knitting &amp.
 Crochet </li>
 <li> Needlework </li>
-<li> Scrapbooking Supplies </li>
+<li> Scrapbooking </li>
 <li> Sewing &amp.
-Quilting Supp...
-</li>
+Quilting </li>
 <li> more...
 </li>
 </ul>
@@ -183,10 +169,6 @@ Stationery </li>
 <li> Gift Baskets </li>
 <li> Gift Wrapping </li>
 <li> Baby Gifts </li>
-<li> Cigars &amp.
-Pipes </li>
-<li> Other Flowers, Food, &amp;...
-</li>
 </ul>
 </li>
 <li> Grocery &amp.
@@ -201,8 +183,7 @@ Spirits </li>
 <li> Condiments </li>
 <li> Meat &amp.
 Seafood </li>
-<li> Baking &amp.
-Cooking Mixes </li>
+<li> Mixes </li>
 <li> Snacks </li>
 <li> Spices </li>
 <li> Chocolate &amp.
@@ -215,18 +196,18 @@ Candy </li>
 </ul>
 <ul>
 <li> Musical Instruments </li>
-<li> Brass Instruments </li>
+<li> Brass </li>
 <li> Drums &amp.
 Percussion </li>
 <li> Guitars &amp.
 Basses </li>
 <li> Pianos &amp.
 Keyboards </li>
-<li> Stringed Instruments </li>
-<li> Woodwind Instruments </li>
-<li> Recording Equipment </li>
+<li> Strings </li>
+<li> Woodwinds </li>
+<li> Recording </li>
 <li> DJ &amp.
-Performing Equipment </li>
+Performing </li>
 <li> more...
 </li>
 </ul>
@@ -237,39 +218,34 @@ Industrial <ul>
 <ul>
 <li> Office &amp.
 Industrial </li>
-<li> General Office &amp.
-Schoo...
-</li>
+<li> General Supplies </li>
 <li> Writing Instruments </li>
 <li> Paper Supplies </li>
-<li> Office Storage &amp.
-Organ...
-</li>
+<li> Storage &amp.
+Organization </li>
 <li> Calculators </li>
 <li> Paper Shredders </li>
-<li> Office Furniture </li>
-<li> Other Office </li>
+<li> Furniture </li>
 </ul>
 </li>
 <li> Party &amp.
-Wedding Supplies <ul>
+Wedding <ul>
 </ul>
 <ul>
 <li> Party &amp.
-Wedding Supplies </li>
+Wedding </li>
 </ul>
 </li>
-<li> Pet Supplies <ul>
+<li> Pets <ul>
 </ul>
 <ul>
-<li> Pet Supplies </li>
-<li> Dog Supplies </li>
-<li> Cat Supplies </li>
-<li> Bird Supplies </li>
-<li> Fish Supplies </li>
-<li> Reptile Supplies </li>
-<li> Small Pet Supplies </li>
-<li> Other Pet Supplies </li>
+<li> Pets </li>
+<li> Dog </li>
+<li> Cat </li>
+<li> Bird </li>
+<li> Fish </li>
+<li> Reptile </li>
+<li> Small Pet </li>
 </ul>
 </li>
 <li> Toys &amp.
@@ -280,7 +256,7 @@ Hobbies <ul>
 Hobbies </li>
 <li> Action Figures &amp.
 Vehicles </li>
-<li> Children's Arts &amp.
+<li> Arts &amp.
 Crafts </li>
 <li> Building Sets &amp.
 Blocks </li>
@@ -288,10 +264,9 @@ Blocks </li>
 Stuffed Toys </li>
 <li> Games &amp.
 Puzzles </li>
-<li> Educational Toys &amp.
-Games </li>
-<li> Outdoor Play </li>
-<li> Pretend Play &amp.
+<li> Learning </li>
+<li> Outdoor </li>
+<li> Pretend &amp.
 Dress-Up </li>
 <li> more...
 </li>
