@@ -6781,3 +6781,20 @@
 2013-10-29 00:24:32 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
 2013-10-29 00:25:46 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-10-29 00:26:17 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-10-30 00:15:55 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-10-30 00:15:55 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-10-30 00:16:08 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-10-30 00:16:50 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-10-30 00:18:28 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-10-30 00:19:09 -0400 - http://www.simplyhired.com/a/legal/privacy:	503 => Net::HTTPServiceUnavailable for http://www.simplyhired.com/a/legal/privacy -- unhandled response
+2013-10-30 00:19:52 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-10-30 00:20:43 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-10-30 00:21:07 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-10-30 00:21:11 -0400 - http://www.agweb.com/privacy_policy.aspx:	404 => Net::HTTPNotFound for http://www.agweb.com/404.aspx?aspxerrorpath=/privacy_policy.aspx -- unhandled response
+2013-10-30 00:21:12 -0400 - http://www.agweb.com/terms_conditions.aspx:	404 => Net::HTTPNotFound for http://www.agweb.com/404.aspx?aspxerrorpath=/terms_conditions.aspx -- unhandled response
+2013-10-30 00:24:25 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-10-30 00:27:27 -0400 - http://www.exponential.com/about-us/privacy.html:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 86480250, last used 1383107247.6743774 seconds ago
+2013-10-30 00:27:38 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-10-30 00:28:06 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-10-30 00:28:22 -0400 - http://www.videobb.com/terms.php:	getaddrinfo: Name or service not known
+2013-10-30 00:28:22 -0400 - http://www.videobb.com/privacy.php:	getaddrinfo: Name or service not known
