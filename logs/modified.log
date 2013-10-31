@@ -5,29 +5,38 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/allthingsd.com/Privacy Policy.txt
 #	modified:   ../crawl/amazon.de/Privacy Policy.txt
-#	modified:   ../crawl/costco.com/Privacy Policy.txt
-#	modified:   ../crawl/delta.com/Privacy Policy.txt
-#	modified:   ../crawl/getcocoon.com/Privacy Policy.txt
+#	modified:   ../crawl/ask.co.uk/Privacy Policy.txt
+#	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
+#	modified:   ../crawl/cbc.ca/Terms of Use.txt
+#	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
+#	modified:   ../crawl/freefilefillableforms.com/Terms of Service.txt
 #	modified:   ../crawl/gmx.net/Privacy Policy.txt
-#	modified:   ../crawl/landsend.com/Privacy Policy.txt
-#	modified:   ../crawl/marketwatch.com/Privacy Policy.txt
-#	modified:   ../crawl/northerntool.com/Privacy Policy.txt
+#	modified:   ../crawl/ikea.com/Privacy Policy.txt
+#	modified:   ../crawl/indeed.com/Privacy Policy.txt
+#	modified:   ../crawl/livestrong.com/Privacy Policy.txt
+#	modified:   ../crawl/nextag.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/paidcontent.org/Privacy Policy.txt
-#	modified:   ../crawl/paidcontent.org/Terms of Service.txt
-#	modified:   ../crawl/shutterfly.com/Privacy Policy.txt
-#	modified:   ../crawl/shutterfly.com/Terms and Conditions.txt
+#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+#	modified:   ../crawl/spiegel.de/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
+#	modified:   ../crawl/syfy.com/Privacy Policy.txt
 #	modified:   ../crawl/t-online.de/Privacy Policy.txt
+#	modified:   ../crawl/toyota.com/Privacy Policy.txt
 #	modified:   ../crawl/tripadvisor.com/Privacy Policy.txt
 #	modified:   ../crawl/tube8.com/Privacy Policy.txt
-#	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
 #	modified:   ../crawl/vh1.com/Privacy Policy.txt
-#	modified:   ../crawl/weebly.com/Privacy Policy.txt
-#	modified:   ../crawl/wsj.com/Privacy Policy.txt
+#	modified:   ../crawl/walgreens.com/Privacy Policy.txt
+#	modified:   ../crawl/wunderground.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl/zillow.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/amazon.com/Kindle for Mac Legal Notices.txt
+#	modified:   ../crawl_reviewed/att.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/github.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
