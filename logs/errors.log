@@ -6839,3 +6839,21 @@
 2013-11-02 00:25:14 -0400 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
 2013-11-02 00:27:20 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-11-02 00:27:54 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-11-03 00:15:58 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-11-03 00:15:58 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-11-03 00:16:12 -0400 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-11-03 00:16:37 -0400 - http://www.allstate.com/about/privacy-statement-aic.aspx:	404 => Net::HTTPNotFound for http://www.allstate.com/404error/404error.aspx -- unhandled response
+2013-11-03 00:16:51 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-11-03 00:17:45 -0400 - http://www.faranow.com/privacy:	getaddrinfo: Name or service not known
+2013-11-03 00:17:45 -0400 - http://www.faranow.com/terms:	getaddrinfo: Name or service not known
+2013-11-03 00:18:24 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-11-03 00:18:48 -0400 - http://www.pof.com/terms.aspx:	500 => Net::HTTPInternalServerError for http://www.pof.com/500.aspx?aspxerrorpath=/terms.aspx -- unhandled response
+2013-11-03 00:19:53 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-11-03 00:20:47 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-11-03 00:21:08 -0400 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-11-03 00:21:46 -0400 - http://www.gamefly.com/about-us/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/privacy-policy -- unhandled response
+2013-11-03 00:21:46 -0400 - http://www.gamefly.com/about-us/terms-of-use/:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/terms-of-use/ -- unhandled response
+2013-11-03 00:24:25 -0400 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-11-03 00:24:45 -0400 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2013-11-03 00:26:42 -0400 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-11-03 00:27:10 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
