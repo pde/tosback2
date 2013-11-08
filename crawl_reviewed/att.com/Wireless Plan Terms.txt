@@ -301,11 +301,12 @@ We may periodically program your Device remotely with system settings for roamin
 AT&amp;T may, at its sole and absolute discretion, modify the programming to enable the operation of the Equipment on other systems.</p>
 <p>If you bought a Device from AT&amp;T, it may have been programmed with a SIM lock which will prevent it from operating with other compatible wireless telephone carriers’ services.
 If you wish to use this Device with the service of another wireless telephone carrier, you must enter a numeric Unlock Code to unlock the phone.
-AT&amp;T will provide the Unlock Code upon request, provided that you meet certain criteria including, but not limited to the following: (a) your account has been active for at least sixty days and is in good standing (i.e.
+AT&amp;T will provide the Unlock Code upon request, provided that you meet certain criteria including, but not limited to the following: (a) you have paid for your Device in full.
+(b) your account has been active for at least sixty days and is in good standing (i.e.
 it has no past due amount or unpaid balance owed AT&amp;T).
-(b) you have fulfilled your Service Commitment by expiration of any contractual term, upgrading to a new Device under AT&amp;T’s standard or early upgrade policies, or payment of any applicable ETF.
-(c) your Device has not been reported lost or stolen.
-and (d) AT&amp;T has the Unlock Code or can reasonably obtain it from the manufacturer.
+(c) you have fulfilled your Service Commitment by expiration of any contractual term, upgrading to a new Device under AT&amp;T’s standard or early upgrade policies, or payment of any applicable ETF.
+(d) your Device has not been reported lost or stolen.
+and (e) AT&amp;T has the Unlock Code or can reasonably obtain it from the manufacturer.
 AT&amp;T will unlock a maximum of five phones per account, per year.
 For Devices sold with a Prepaid Plan, AT&amp;T will provide you with the Unlock Code upon request if you provide a detailed receipt or other proof of purchase of the phone and AT&amp;T has the Unlock Code or can reasonably obtain it from the manufacturer.
 For further details on eligibility requirements and for assistance on obtaining the Unlock Code for your handset, please call 1-800-331-0500 or visit an AT&amp;T company store.</p>
@@ -822,7 +823,7 @@ and (iii) intranet access if permitted by your rate plan (for example, access to
 <p>You agree to use AT&amp;T's wireless data services <u>only</u> for these permitted activities.</p>
 <p>
 <b>Prohibited Activities:</b> AT&amp;T's wireless data services are not intended to be used in any manner which has any of the following effects and such use is prohibited if it: (a) conflicts with applicable law, (b) hinders other customers’ access to the wireless network, (c) compromises network security or capacity, (d) excessively and disproportionately contributes to network congestion, (e) adversely impacts network service levels or legitimate data flows, (f) degrades network performance, (g) causes harm to the network or other customers, (h) is resold either alone or as part of any other good or service, (i) tethers a wireless device to a computing device (such as a computer, Smartphone, eBook or eReader, media player, laptop, or other devices with similar functions) through use of connection kits, applications, devices or accessories (using wired or wireless technology) and you have not subscribed to a specific data plan designed for this purpose, or (j) there is a specific data plan required for a particular use and you have not subscribed to that plan.</p>
-<p>The following specific uses of AT&amp;T's wireless data service are prohibited:&gt;/p&gt;</p>
+<p>The following specific uses of AT&amp;T's wireless data service are prohibited:</p>
 <ul>
 <li>AT&amp;T’s wireless data services may <u>not</u> be used in any manner that defeats, obstructs or penetrates, or attempts to defeat, obstruct or penetrate the security measures of AT&amp;T’s wireless network or systems, or another entity’s network or systems.
 that accesses, or attempts to access without authority, the accounts of others.
@@ -1007,29 +1008,6 @@ Qualified domestic wireless data plan required.
 If combined with a wireless voice plan that includes international voice roaming, your international wireless voice roaming in countries included in the Global Data Add-On's Select International Roam Zone will be limited to the participating Canada/international wireless carriers and you will be restricted from voice roaming through any non-participating Canada/international wireless carriers that may otherwise be included in our generally available Canada and international voice roam zones.</p>
 <p>DATACONNECT GLOBAL/NORTH AMERICA PLANS - Requires minimum one-year Service Commitment and you must remain on the plan, for a minimum one-year term.
 Voice access is restricted and prohibited.</p>
-<p>
-<b>6.10.3   Pooled DataConnect Plans</b>
-</p>
-<p>Pooled Data Connect Plans ("Pooled Plans") available only to customers with a qualified AT&amp;T Business Agreement for wireless Services and their respective Corporate Responsibility Users ("CRUs").
-Consolidated billing is required.
-WIN Advantage® may also be required.
-Within a single Foundation Account (FAN), Customer's CRUs on an eligible Pooled Plan aggregate or "pool" their included wireless data usage ("Included Usage"), creating a "Pool".</p>
-<p>To pool together, each CRU in the Pool must subscribe to a Pooled Plan that has the same amount of Included Usage and the same Additional Kilobyte charge ("Similar Pooled Plan").
-Every billing cycle, each CRU first uses his or her Included Usage.
-If a CRU does not use all his or her Included Usage it creates an underage in the amount of unused kilobytes ("Under Usage").
-If a CRU uses more than his or her Included Usage it creates an overage with respect to kilobytes of data usage ("Over Usage").
-The Pool's Under Usage kilobytes and Over Usage kilobytes are then aggregated respectively and compared.
-If the aggregate Under Usage kilobytes exceed the aggregate Over Usage kilobytes, then no CRU in the Pool pays Additional Kilobyte charges.
-If the aggregate Over Usage kilobytes exceeds the aggregate Under Usage kilobytes, then the ratio of Under Usage kilobytes to Over Usage kilobytes is applied to the data usage of each CRU in the Pool with Overage Usage, resulting in a monetary credit against the corresponding Additional Kilobyte charges.</p>
-<p>For example, if a Pool has 900 Under Usage kilobytes and 1000 Over Usage kilobytes (90%), then each CRU with Over Usage will receive a credit equal to 90% of his or her Additional Kilobyte charges.
-CRUs changing price points or migrating to Pooled Plans during a bill cycle may result in one-time prorations or other minor impacts to the credit calculation.
-Credits will only appear on WIN Advantage®.
-Customer may have more than one Pool within a FAN provided that Customer may only have one Pool for Similar Pooled Plans within a FAN.
-however, an individual CRU can only be in one Pool at a time.</p>
-<p>AT&amp;T reserves the right to limit the number of CRUs in a Pool due to business needs and system limitations.
-CRUs on Pooled Plans and CRUs participating in a legacy Pooled Data Connect plan pool created prior to February 17, 2006 ("Legacy Pool") cannot be in the same Pool but can be within the same FAN.
-End users on non-pooling AT&amp;T plans may be included in the same FAN as CRUs on Pooled Plans.
-however these non-pooling end users will not receive the pooling benefits or contribute Included Usage to a Pool.</p>
 <br>
 <p>
 <b>6.11   <u>AT&amp;T DataPlus<sup>SM</sup>/AT&amp;T DataPro<sup>SM</sup> Plans</u>
@@ -1081,7 +1059,7 @@ AT&amp;T does not sell, supply, install or otherwise support Microsoft® softwar
 You choose a specific allotment of monthly shared data usage for a monthly recurring charge and then pay an additional charge for each Device added to the Mobile Share plan you select.
 You must specifically identify the devices (the “Designated Devices”) that will share your monthly allotment of data usage under the Mobile Share plan you select.
 If you add a WHP Device for unlimited talk only, it will be counted as one of the (10) Designated Devices under the Mobile Share plan.
-At least one of the Designated Devices must be a smartphone and the remaining Designated Devices can include: smartphone(s), tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), mobile hotspot(s), basic or quick messaging phone(s), WHP Device(s) or Home Base(s).
+Designated Devices can include: smartphone(s), tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), mobile hotspot(s), basic or quick messaging phone(s), WHP Device(s) or Home Base(s).
 If, during a billing period, your data usage exceeds the monthly allotment of data in the Mobile Share plan you select, you will automatically be charged for overage as specified in your rate plan.
 If, during a billing period, you do not use all of the data allotment in the Mobile Share plan you select, you will forfeit that usage.
 Authorized users on the account may temporarily suspend data access for particular Device(s) during a specific billing cycle, but monthly charges for the suspended Device(s) will continue to apply.
@@ -1091,9 +1069,9 @@ An activation fee will be charged when converting from a prepaid or Session-Base
 Access to corporate email, intranet sites and/or other business applications may be available for an additional monthly charge per Device.
 Discounts otherwise applicable to your Mobile Share rate plan do not apply to the additional monthly Device charge.
 Additional deposits and other restrictions may apply.</p>
-<p>If you use a Mobile Share plan without a designated smartphone on the account, or with any device that is not a Designated Device, or without all of the required elements of the plan, you agree that AT&amp;T may suspend or terminate service to the account until you add a smartphone, you designate the devices(s) that you are using with a plan which are not Designated Devices, or you add all of the required elements of the plan.
-In addition, if you use a Mobile Share plan without a designated smartphone on the account, with any device that is not a Designated Device, or without all of the required elements of the plan, you agree that AT&amp;T may place any non-complying Device(s) on an appropriate Mobile Share plan(s) or add any other required element of the plan.
-If you use a tethering and/or mobile hotspot Device with more than five (5) simultaneous users, you agree that AT&amp;T may suspend or terminate service to the account.</p>
+<p>If you use a Mobile Share plan with any device that is not a Designated Data Device, for tethering or as a mobile hotspot with more than five (5) simultaneous users, or otherwise use the plan in any way that is inconsistent with its terms, you agree that AT&amp;T may: (a) suspend or terminate service to the account.
+(b) place any non-complying Device on an appropriate Mobile Share plan.
+and/or (c) add any other required element of the plan.</p>
 <br>
 <p>
 <b>6.15   <u>AT&amp;T Mobile Share - Data Plans (for Data-Only Devices)</u>
