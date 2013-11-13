@@ -6981,3 +6981,40 @@
 2013-11-12 00:25:46 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-11-12 00:26:13 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
 2013-11-12 00:27:05 -0500 - http://www.optimumisp.com/aup.cfm.html:	getaddrinfo: Name or service not known
+2013-11-13 00:15:11 -0500 - http://privacy.aol.com/privacy-policy:	500 => Net::HTTPInternalServerError for http://privacy.aol.com/privacy-policy -- unhandled response
+2013-11-13 00:16:15 -0500 - http://privacy.aol.com:	500 => Net::HTTPInternalServerError for http://privacy.aol.com/ -- unhandled response
+2013-11-13 00:16:20 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-11-13 00:16:20 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-11-13 00:16:42 -0500 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-11-13 00:17:23 -0500 - http://www.linkwithin.com/privacy:	503 => Net::HTTPServiceUnavailable for http://www.linkwithin.com/privacy -- unhandled response
+2013-11-13 00:17:54 -0500 - http://www.medicinenet.com/script/main/art.asp?articlekey=12507:	getaddrinfo: Name or service not known
+2013-11-13 00:18:17 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-11-13 00:19:33 -0500 - http://www.express.com/custserv/custserv_popup.jsp?pageName=Privacy:	getaddrinfo: Name or service not known
+2013-11-13 00:20:12 -0500 - http://www.match.com/registration/privacystatement.aspx?lid=4:	getaddrinfo: Name or service not known
+2013-11-13 00:21:32 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-11-13 00:22:53 -0500 - https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm:	getaddrinfo: Name or service not known
+2013-11-13 00:23:39 -0500 - http://privacy.microsoft.com/FR-FR/fullnotice.mspx:	getaddrinfo: Name or service not known
+2013-11-13 00:24:46 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	getaddrinfo: Name or service not known
+2013-11-13 00:25:06 -0500 - http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms:	getaddrinfo: Name or service not known
+2013-11-13 00:26:08 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-11-13 00:26:35 -0500 - http://www.6pm.com/privacy-policy:	getaddrinfo: Name or service not known
+2013-11-13 00:27:20 -0500 - http://privacy.aol.com/privacy-policy/:	getaddrinfo: Name or service not known
+2013-11-13 00:27:51 -0500 - http://www.williams-sonoma.com/customer-service/legal-statement.html:	getaddrinfo: Name or service not known
+2013-11-13 00:28:07 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-11-13 00:28:30 -0500 - http://privacy.aol.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://privacy.aol.com/privacy-policy/ -- unhandled response
+2013-11-13 00:28:35 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-11-13 00:29:23 -0500 - http://www.radioshack.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=privacy:	getaddrinfo: Name or service not known
+2013-11-13 00:31:01 -0500 - http://privacy.microsoft.com/en-us/fullnotice.mspx:	getaddrinfo: Name or service not known
+2013-11-13 00:32:39 -0500 - http://privacy.aol.com/privacy-policy/:	getaddrinfo: Name or service not known
+2013-11-13 00:33:00 -0500 - http://legal.aol.com/terms-of-service/full-terms/:	getaddrinfo: Name or service not known
+2013-11-13 00:35:55 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-11-13 00:36:26 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2013-11-13 00:37:30 -0500 - http://www.couponsinc.com/Corporate/Privacy.aspx:	getaddrinfo: Name or service not known
+2013-11-13 00:39:32 -0500 - http://privacy.aol.com/privacy-policy/:	500 => Net::HTTPInternalServerError for http://privacy.aol.com/privacy-policy/ -- unhandled response
+2013-11-13 00:39:56 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	getaddrinfo: Name or service not known
+2013-11-13 00:40:29 -0500 - http://www.zappos.com/privacy-policy:	getaddrinfo: Name or service not known
+2013-11-13 00:41:27 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-11-13 00:41:47 -0500 - http://www.zales.com/helpdesk/index.jsp?display=safety&subdisplay=privacy:	getaddrinfo: Name or service not known
+2013-11-13 00:42:31 -0500 - http://www.about.com/gi/pages/mprivacy.htm:	getaddrinfo: Name or service not known
+2013-11-13 00:43:10 -0500 - http://privacy.microsoft.com/en-us/fullnotice.mspx:	getaddrinfo: Name or service not known
+2013-11-13 00:43:30 -0500 - http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement:	getaddrinfo: Name or service not known
