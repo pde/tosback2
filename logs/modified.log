@@ -5,20 +5,41 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/amazon.de/Privacy Policy.txt
+#	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
+#	modified:   ../crawl/care2.com/Privacy Policy.txt
+#	modified:   ../crawl/cheapoair.com/Privacy Policy.txt
 #	modified:   ../crawl/cnn.com/Privacy Policy.txt
-#	modified:   ../crawl/earthlink.net/Cable Internet Terms of Use.txt
-#	modified:   ../crawl/earthlink.net/Internet Service Agreement.txt
-#	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
+#	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
+#	modified:   ../crawl/continental.com/Privacy Policy.txt
+#	modified:   ../crawl/dillards.com/Policies and Notices.txt
+#	modified:   ../crawl/ft.com/Privacy Policy.txt
 #	modified:   ../crawl/help.twcable.com/Residential Services Subscriber Agreement.txt
-#	modified:   ../crawl/nature.org/Privacy Policy.txt
+#	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
+#	modified:   ../crawl/netzero.net/Terms of Service.txt
+#	modified:   ../crawl/nfl.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/phoenix.edu/Privacy Policy.txt
+#	modified:   ../crawl/phonedeck.com/Privacy Policy.txt
+#	modified:   ../crawl/sencha.com/Privacy Policy.txt
 #	modified:   ../crawl/shopstyle.com/Terms of Service.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/webmd.com/Privacy Policy.txt
+#	modified:   ../crawl/sprint.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
+#	modified:   ../crawl/t-online.de/Privacy Policy.txt
+#	modified:   ../crawl/toyota.com/Privacy Policy.txt
+#	modified:   ../crawl/vh1.com/Privacy Policy.txt
+#	modified:   ../crawl/www.whitehouse.gov/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl/xfinity.comcast.net/Privacy Policy.txt
+#	modified:   ../crawl/yelp.com/Terms of Service.txt
 #	modified:   ../crawl/zillow.com/Privacy Policy.txt
+#	modified:   ../crawl/zynga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/allrecipes.com/Terms and Conditions.txt
+#	modified:   ../crawl_reviewed/comcast.net/Web Services Privacy Policy.txt
+#	modified:   ../crawl_reviewed/xing.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/xing.com/Terms and Conditions.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log

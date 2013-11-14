@@ -1,40 +1,93 @@
- Skip Navigation <ul>
+ <ul>
+<li>Blog</li>
+<li>Forum</li>
+<li>Contact Us</li>
+</ul>
+<ul>
+<li>
+</li>
 <li> Products <ul>
+<ul>
+<li>Why Sencha</li>
+<li> Integrated Products <ul>
 <li>Sencha Complete</li>
 <li>Sencha Touch Bundle</li>
+</ul>
+</li>
+<li> Frameworks <ul>
 <li>Sencha Touch</li>
 <li>Sencha Ext JS</li>
 <li>Sencha GXT</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Tools <ul>
 <li>Sencha Architect</li>
 <li>Sencha Animator</li>
+</ul>
+</li>
+<li> Management <ul>
 <li>Sencha Space</li>
 </ul>
 </li>
+</ul>
+</ul>
+</li>
+<li> Services <ul>
+<ul>
+<li>
+<ul>
+<li>Overview</li>
+<li>Find a Partner</li>
+<li>Find a Developer</li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
 <li> Support <ul>
-<li>Sencha Care</li>
-<li>Sencha Services</li>
-<li>FAQ</li>
+<li>Overview</li>
+<li>FAQs</li>
+<li>Login</li>
 </ul>
 </li>
 <li> Training <ul>
-<li>Open Enrollment</li>
-<li>Courses</li>
-<li>Sencha Certification Program</li>
+<li>Overview</li>
+<li>Certification</li>
+<li>Open Enrollment Courses</li>
+<li>Live Online Training</li>
+<li>Private On-Site Training</li>
+</ul>
+</li>
+<li> Partners <ul>
+<li>Overview</li>
+<li>Benefits</li>
+<li>Partners</li>
+<li>Become a Partner</li>
+<li>Resellers</li>
+</ul>
+</li>
+<li> Community <ul>
+<li>Blog</li>
+<li>Forum</li>
+<li>Documentation</li>
+<li>Sencha Devs</li>
+<li>Sencha Market</li>
+<li>Sencha Try</li>
+<li>App Gallery</li>
 </ul>
 </li>
 <li> Company <ul>
 <li>Overview</li>
 <li>Team</li>
-<li>Careers</li>
-<li>Events</li>
-<li>Press</li>
-<li>Partners</li>
-<li>Contact</li>
 <li>Customers</li>
+<li>Events</li>
+<li>News</li>
+<li>Careers</li>
+<li>Contact Us</li>
 </ul>
 </li>
-<li>Blog</li>
-<li>Contact</li>
 <li> Store <ul>
 <li>Sencha Complete</li>
 <li>Sencha Touch Bundle</li>
@@ -48,31 +101,6 @@
 <li>Authorized Resellers</li>
 </ul>
 </li>
-</ul>
-<ul>
-<li>
-Log in / Register Username Password Log in Remember Me? Register for a Sencha account » </li>
-<li>Forum</li>
-<li>App Gallery</li>
-<li> Developers <ul>
-<li>Developer Center</li>
-<li>Sencha Devs</li>
-<li>Sencha Market</li>
-<li>Sencha Try</li>
-</ul>
-</li>
-<li> Documentation <ul>
-<li>Ext JS 4</li>
-<li>Ext JS 3</li>
-<li>Sencha GXT 3</li>
-<li>Sencha Touch 2</li>
-<li>Sencha Touch 1</li>
-<li>Touch Charts</li>
-<li>Sencha Architect</li>
-<li>Sencha Animator</li>
-</ul>
-</li>
-<li>Cart 0</li>
 </ul> Home / Legal Privacy Policy <p>
 </p>
 <p>Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure.
@@ -167,52 +195,62 @@ If we make material changes to this policy, we will notify you here, by email, o
 </li>
 </ul>
 <ul>
+<li> Services <ul>
+<li>Find a Partner</li>
+<li>Find a Developer</li>
+</ul>
+</li>
 <li> Support <ul>
-<li>Sencha Services</li>
 <li>FAQ</li>
+<li>Login</li>
 </ul>
 </li>
 <li> Training <ul>
-<li>Courses</li>
-<li>Sencha Certification Program</li>
+<li>Overview</li>
+<li>Certification</li>
+<li>Open Enrollment Courses</li>
+<li>Live Online Training</li>
+<li>Private On-Site Training</li>
 </ul>
 </li>
-<li>Developer Center</li>
+</ul>
+<ul>
+<li> Partners <ul>
+<li>Benefits</li>
+<li>Partners</li>
+<li>Become a Partner</li>
+<li>Resellers</li>
+</ul>
+</li>
+<li> Community <ul>
+<li>Blog</li>
+<li>Forum</li>
+<li>Documentation</li>
 <li>Sencha Devs</li>
 <li>Sencha Market</li>
 <li>Sencha Try</li>
+<li>App Gallery</li>
+</ul>
+</li>
 </ul>
 <ul>
 <li> Company <ul>
 <li>Team</li>
-<li>Careers</li>
+<li>Customers</li>
 <li>Events</li>
 <li>Press</li>
-<li>Partners</li>
+<li>Careers</li>
 <li>Contact</li>
-<li>Customers</li>
 </ul>
 </li>
 </ul>
 <ul>
-<li>Blog</li>
-<li>Forum</li>
-<li>API Docs</li>
-<li>App Gallery</li>
-<li>Resource Library</li>
-<li>Store</li>
-<li>Legal</li>
-</ul>
-<ul>
-<li>Facebook</li>
-<li>LinkedIn</li>
-<li>Twitter</li>
-<li>Tumblr</li>
-<li>Vimeo</li>
-<li>Google+</li>
-</ul> Sign up for exclusive Sencha news! Sign up <p>Thanks for signing up!</p>
-<br>
-<br>
-<p>Find Sencha developers at SenchaDevs</p>
-<p>© 2013 Sencha Inc.
-All rights reserved.</p> 
+<li>
+<li>
+<li>
+<li>
+<li>
+</ul> Sign up to get exclusive Sencha News <p>Thanks for signing up!</p>
+<p> © 2013 Sencha Inc.
+All rights reserved.
+Sitemap Legal </p> 
