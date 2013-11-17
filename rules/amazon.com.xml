@@ -10,7 +10,7 @@
    </url>
  </docname>
  <docname name="Conditions of Use">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=508088" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=508088" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
@@ -45,7 +45,7 @@
    </url>
  </docname>
  <docname name="Amazon App Suite Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=201008370" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;nodeId=201008370&amp;qid=1384707232&amp;sr=1-2" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
@@ -55,7 +55,7 @@
    </url>
  </docname>
  <docname name="Third Party Licenses">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&amp;nodeId=200910440&amp;qid=1368379047&amp;sr=1-1" xpath="//td[@class=&apos;center-col&apos;]/div[2]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-6?ie=UTF8&amp;nodeId=200910440&amp;qid=1384707488&amp;sr=1-6" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
