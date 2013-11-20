@@ -1,9 +1,20 @@
  <ul>
-<li>Contact Tealium</li>
-<li>Blog</li>
-<li> Products Products back <ul>
+<li>
+<i>
+</i>Contact Tealium</li>
+<li>
+<i>
+</i>Blog</li>
+<li>
+<i>
+</i>Products <i>
+</i>Products back <i>
+</i>
+<ul>
 <li>Overview</li>
-<li> Tag Management Suite Tag Management Suite back <ul>
+<li> Tag Management Suite Tag Management Suite back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>Tealium iQ</li>
 <li>Privacy</li>
@@ -11,7 +22,9 @@
 <li>Audit</li>
 </ul>
 </li>
-<li> Data Distribution Suite Data Distribution Suite back <ul>
+<li> Data Distribution Suite Data Distribution Suite back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>AudienceStream</li>
 <li>EventStream</li>
@@ -20,8 +33,15 @@
 </li>
 </ul>
 </li>
-<li> Solutions Solutions back <ul>
-<li> Solutions by Role Solutions by Role back <ul>
+<li>
+<i>
+</i>Solutions <i>
+</i>Solutions back <i>
+</i>
+<ul>
+<li> Solutions by Role Solutions by Role back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>Web Analytics</li>
 <li>Digital Marketing</li>
@@ -29,7 +49,9 @@
 <li>Executives</li>
 </ul>
 </li>
-<li> Solutions by Industry Solutions by Industry back <ul>
+<li> Solutions by Industry Solutions by Industry back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>E-Commerce</li>
 <li>Media &amp.
@@ -39,7 +61,12 @@ Publishing</li>
 </li>
 </ul>
 </li>
-<li> Partners Partners back <ul>
+<li>
+<i>
+</i>Partners <i>
+</i>Partners back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>SYNC for Agencies</li>
 <li>SYNC for Vendors</li>
@@ -47,15 +74,32 @@ Publishing</li>
 <li>Vendor Request</li>
 </ul>
 </li>
-<li> Education Education back <ul>
+<li>
+<i>
+</i>Education <i>
+</i>Education back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>Digital Velocity</li>
 <li>Tealium University</li>
 <li>Tealium Learning Community</li>
 </ul>
 </li>
-<li>Resources</li>
-<li> Company Company back <ul>
+<li> Resources Resources back <ul>
+<li>All Resources</li>
+<li>Case Studies</li>
+<li>Datasheets</li>
+<li>Webinars</li>
+<li>Whitepapers</li>
+</ul>
+</li>
+<li>
+<i>
+</i>Company <i>
+</i>Company back <i>
+</i>
+<ul>
 <li>Overview</li>
 <li>About Us</li>
 <li>Customers</li>
@@ -69,7 +113,10 @@ Publishing</li>
 </ul>
 </li>
 </ul>
-<p> Tealium </p> rows <ul>
+<p> Tealium </p>
+<i>
+</i>
+<ul>
 <li> Products </li>
 <li> Solutions </li>
 <li> Partners </li>
@@ -77,12 +124,24 @@ Publishing</li>
 <li> Resources </li>
 <li> Company </li>
 </ul>
+<p> Tealium </p>
+<ul>
+<li> Products </li>
+<li> Solutions </li>
+<li> Partners </li>
+<li> Education </li>
+<li> Resources </li>
+<li> Company </li>
+<li> Request a Demo </li>
+</ul>
 <ul>
 <li>Blog</li>
 <li>Contact Us</li>
 </ul>
 <ul>
-<li>🔒Login</li>
+<li>
+<i>
+</i> Login</li>
 <li>Request a Demo</li>
 </ul>
 <ul>
@@ -141,10 +200,17 @@ Education
 <li>Tealium Learning Community</li>
 </ul>
 </li>
-</ul> Digital Velocity 2014 <br> Learn more about our user conference » <ul>
+</ul> Digital Velocity 2014 <br> Join us Jan.
+22–24, 2014, for the industry’s most comprehensive user conference » <ul>
 <li>
-Company
-<ul>
+Resources <ul>
+<li>Case Studies</li>
+<li>Datasheets</li>
+<li>Webinars</li>
+<li>Whitepapers</li>
+</ul>
+</li>
+</ul> Digital Data Distribution Platforms in Action <br> Download the whitepaper today » <ul>
 <li>About Us</li>
 <li>Customers</li>
 <li>Leadership</li>
@@ -153,21 +219,49 @@ Company
 <li>News Coverage</li>
 <li>Events</li>
 <li>Digital 100</li>
-<li>Careers</li>
 </ul>
-</li>
-</ul> “Digital Data Distribution Platforms in Action” <br> Download the whitepaper today » <p>Request a demo</p>
-<i>
-</i> Privacy Policy Default Menu
 <ul>
-<li>Products</li>
-<li>Solutions</li>
-<li>Partners</li>
-<li>Education</li>
-<li>Resources</li>
-<li>About Us</li>
+<li>
+<i>
+</i> Blog</li>
+<li>
+<i>
+</i> Login</li>
+<li>
+<i>
+</i> Careers</li>
+<li>
+<i>
+</i> Contact Us</li>
 </ul>
-<p>This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site.
+<p>
+<strong>US Headquarters</strong>
+<br> 11085 Torreyana Road<br> San Diego, CA 92121<br>
+<strong>Sales:</strong> (888) 622-2050<br>
+<strong>Tel:</strong> +1 (858) 779-1344<br>
+<strong>Fax:</strong> +1 (858) 345-3844</p>
+<ul>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+</ul> Privacy Policy <p>This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site.
 The term “personal data” refers to personally identifiable information about you, such as your name, mailing address, e-mail address, telephone number, and any other information that identifies you personally.</p>
 Your Consent
 <p>By using this web site or any web site belonging to the Company, you consent to our use of your personal data as described in this privacy policy.</p>
@@ -218,9 +312,7 @@ Governing Law
 <p>This privacy policy forms part of our web site Terms of Use and as such shall be governed by and construed in accordance with the laws of the State of California.</p>
 Questions About our Privacy Policy
 <p>If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
-This policy was last updated on November 22, 2011.</p> Ready to Learn More? Request a Demo <p>See first-hand how Tealium can help you succeed.</p> Learn More Free Resources <p>White papers and other resources to help you succeed.</p> Learn More View Products <p>Find the solution that is right for your business.</p> Learn More United States <p>11085 Torreyana Road<br> San Diego, CA 92121<br>
-<br> Sales: (888) 622-2050<br> Tel: +1 (858) 779-1344<br> Fax: +1 (858) 345-3844 </p> United Kingdom <p>20 Hanover Square<br> London, W1S1JY<br> +44 (0) 20 70 84 62 68</p> Germany <p>Neuer Wall 50<br> 20354 Hamburg<br> +49 408 22186462</p>
-<ul>
+This policy was last updated on November 22, 2011.</p> Ready to Learn More? Request a Demo <p>See first-hand how Tealium can help you succeed.</p> Learn More Free Resources <p>White papers and other resources to help you succeed.</p> Learn More View Products <p>Find the solution that is right for your business.</p> Learn More <ul>
 <li>
 Products
 <ul>
@@ -276,11 +368,35 @@ Company
 <li>Careers</li>
 </ul>
 </li>
+</ul> US Headquarters <p>11085 Torreyana Road<br> San Diego, CA 92121<br>
+<br> Sales: (888) 622-2050<br> Tel: +1 (858) 779-1344<br> Fax: +1 (858) 345-3844 </p> United Kingdom <p>20 Hanover Square<br> London, W1S1JY<br> +44 (0) 20 70 84 62 68</p> Germany <p>Neuer Wall 50<br> 20354 Hamburg<br> +49 408 22186462</p> Singapore <p>14 Mohd Sultan Rd 03-2<br> Singapore 238963<br> Tel: +65.6631.8912</p> The Netherlands <p>Zilverenberg 36,<br> 5234 BM 's-Hertogenbosch<br>netherlands@tealium.com</p> About Tealium <p>Tealium is the leader in enterprise tag management, audience segmentation, profile enrichment and digital data distribution.
+Tealium brings order to marketing chaos to fuel the next generation of digital marketing.</p>
+<ul>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
+<li>
+<i>
+</i>
+</li>
 </ul>
-<p>Copyright © 2013 Tealium.
-All Rights Reserved.</p>
 <ul>
 <li>Site Map</li>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
-</ul> linkedinfacebooktwitterrss 
+</ul>
+<p>Copyright © 2013 Tealium.
+All Rights Reserved.</p> 
