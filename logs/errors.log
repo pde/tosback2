@@ -7132,3 +7132,19 @@
 2013-11-21 00:24:56 -0500 - https://getcocoon.com/privacy_policy:	500 => Net::HTTPInternalServerError for https://getcocoon.com/privacy_policy -- unhandled response
 2013-11-21 00:25:34 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
 2013-11-21 00:26:06 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2013-11-22 00:15:50 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2013-11-22 00:15:50 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2013-11-22 00:16:00 -0500 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2013-11-22 00:16:34 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2013-11-22 00:18:07 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2013-11-22 00:19:40 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2013-11-22 00:20:28 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2013-11-22 00:20:52 -0500 - http://www.adotas.com/privacy-policy/:	404 => Net::HTTPNotFound for http://www.adotas.com/privacy-policy/ -- unhandled response
+2013-11-22 00:21:40 -0500 - http://www.cvs.com/help/privacy_policy.jsp:	404 => Net::HTTPNotFound for http://www.cvs.com/help/privacy_policy.jsp -- unhandled response
+2013-11-22 00:23:27 -0500 - http://www.officedepot.com/a/customerservice/Privacy/:	404 => Net::HTTPNotFound for http://www.officedepot.com/a/customerservice/Privacy/ -- unhandled response
+2013-11-22 00:23:37 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2013-11-22 00:23:54 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2013-11-22 00:24:45 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2013-11-22 00:25:42 -0500 - http://www.godtube.com/terms-of-use.html:	500 => Net::HTTPInternalServerError for http://www.godtube.com/error-on-page.html?aspxerrorpath=/terms-of-use.html -- unhandled response
+2013-11-22 00:27:57 -0500 - http://ereader.soc.io/privacy-policy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 83954570, last used 1385098077.0096793 seconds ago
+2013-11-22 00:27:58 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
