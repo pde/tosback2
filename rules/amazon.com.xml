@@ -5,7 +5,7 @@
    </url>
  </docname>
  <docname name="Amazon Kindle Store Terms of Use">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=201014950" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201014950" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
@@ -15,32 +15,32 @@
    </url>
  </docname>
   <docname name="Kindle for Android Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200495390" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201222440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Kindle for PC Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200499360" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200499360" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Kindle for Mac Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200443370" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200443370" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="AMAZON SILK TERMS &amp; CONDITIONS">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200775270" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200775270" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Kindle Cloud Reader Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200701450" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200701450" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Kindle for Windows 8 Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200939440" xpath="//td[@class=&apos;center-col&apos;]/*[not(@class=&apos;cBox secondary&apos;) and not(@class=&apos;cBox primary&apos;)]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200939440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
