@@ -1,6 +1,6 @@
 
 <p>
-<i>Updated November 7, 2013</i>
+<i>Updated December 16, 2013</i>
 </p>
 <p>We take your privacy seriously.
 Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc.
@@ -115,8 +115,8 @@ They may use this information to provide you with interest-based (behavioral) ad
 They may use cookies, pixel trackers, web beacons or other internet or mobile technology to collect non-personal and/or anonymous information about your use of the Services (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) and precise geolocation and user device identification (if you have provided your consent for such collection) during and about your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
 In certain cases, you have options and choices about the collection and use of information by third parties on our Websites:</p>
 <ul>
-<li>For more information about these third-party Ad Networks and opting out of tracking, see: http://www.networkadvertising.org/managing/opt_out.asp.</li>
-<li>For more information about interest-based advertising and opting out, see: http://www.aboutads.info/choices/
+<li>For more information about these third-party Ad Networks and opting out of tracking through the NAI, see: http://www.networkadvertising.org/managing/opt_out.asp.</li>
+<li>For more information about interest-based advertising and opting out through the DAA, see: http://www.aboutads.info/choices/
 </li>
 <li>For more information about disabling and controlling third-party cookies in your browser, see: http://www.aboutcookies.org/Default.aspx?page=1
 </li>
@@ -126,6 +126,13 @@ In certain cases, you have options and choices about the collection and use of i
 <p>In addition to the above, we have implemented on our Services certain "Google Analytics" features that support Display Advertising, including re-targeting.
 Visitors to our Websites may opt out of Google Analytics, customize the Google Display Network ads by using the Google Ad Preferences Manager and learn more about how Google serves ads by viewing its Customer Ads Help Center.
 If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.</p> Other Privacy Considerations <p>We may transfer your information to a third party if we or any of our affiliates are involved in a transfer or all or part of our business or assets (e.g., a sale, merger, dissolution, liquidation or reorganization) or are taking steps in anticipation of such a transaction (e.g., participating in due diligence).</p>
+<dt>Do Not Track Browser Disclosure</dt>
+<dd>
+<p>Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers.
+DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.</p>
+<p>We are committed to providing you with meaningful choices about the information collected on our Websites for third party purposes, and that is why we provide the NAI "Consumer Opt-out" link and the DAA opt-out link above.
+However, <b>we do not recognize or respond to browser-initiated DNT signals</b>, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.</p>
+</dd>
 <dt>Information from Children Under 13</dt>
 <dd>We do not knowingly collect any personally identifiable information from children under 13.
 If we determine that a user is under 13, we will delete all personally identifiable information collected from that user.</dd>
