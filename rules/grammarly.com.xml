@@ -1,6 +1,6 @@
 <sitename name="grammarly.com">
  <docname name="Privacy Policy">
-   <url name="http://privacy-policy.truste.com/verified-policy/www.grammarly.com" xpath="//div[@id='b']" reviewed="true">
+   <url name="http://www.grammarly.com/privacy-policy" xpath="//div[@class='terms-page']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

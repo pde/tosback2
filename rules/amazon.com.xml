@@ -1,6 +1,6 @@
 <sitename name="amazon.com">
  <docname name="Amazon.com Privacy Notice">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=468496" xpath="//span[@class=&apos;small&apos;]" reviewed="true">
+   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
