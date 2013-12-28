@@ -20,7 +20,7 @@ We use these cookies to operate Bing services and provide you a more relevant se
 <p>Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server.
 Cookies contain text that can be read by a web server in the domain that issued the cookie to you.
 That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well.
-Here is an example of a unique ID number stored in a cookie that Microsoft might place on your hard disk when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801 </p>
+Here is an example of a unique ID number stored in a cookie that Microsoft might place on your device when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801 </p>
 <p>We may use cookies for: </p>
 <ul>
 <li>
@@ -65,15 +65,15 @@ It is also used to preserve a user’s choice to opt out of behaviorally targete
 CC Contains a country code as determined by reverse IP address lookup.
 Microsoft account authentication
 Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Microsoft account.
-NAP Contains an encrypted version of the user’s country, ZIP code, age, gender, language and occupation, if known, based on the user’s Windows Live profile.
+NAP Contains an encrypted version of the user’s country, Postal code, age, gender, language and occupation, if known, based on the user’s Microsoft account profile.
 MH Appears on co-branded sites where Microsoft is partnering with an advertiser, this cookie identifies the advertiser so the right ad is selected.
 ACH01
 Maintains information about which ad and where the user clicked on the ad.
 TOptOut Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.
-<p>In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites.
+<p>In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your device when you visit Microsoft sites.
 In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics.
 In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks.
-Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive.
+Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services..
 </p>
 <p>
 <b>How to Control Cookies</b>
@@ -109,12 +109,15 @@ If you accept cookies, you can delete them later.
 <b>Browser Controls for “Do Not Track” and Tracking Protection.</b> Some newer browsers have incorporated “Do Not Track” features.
 Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked.
 Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
-Microsoft does not currently respond to the DNT signal but work is underway to enable that capability in the future.</p>
-<p>Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers.
+Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals.
+In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.</p>
+</li>
+</ul>
+<p>Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers.
 When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked.
 By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you.
-Additionally, in Internet Explorer 10 you may switch DNT "off" or "on" independently, if you'd like.  For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer privacy statement or Internet Explorer Help.</p>
-</li>
+For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer privacy statement or Internet Explorer Help.</p>
+<ul>
 <li>
 <b>Advertising Opt-Out Controls.</b> Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use at Your privacy and Microsoft personalized ads.
 Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft).
@@ -144,8 +147,7 @@ We may include web beacons in our promotional e-mail messages or newsletters to 
 <p>We may also work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site.</p>
 <p>Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations.
 These web beacons may allow the third parties to set or read a cookie on your computer.
-We prohibit third parties from using web beacons on our sites to collect or access your personal information.
-Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers: </p>
+These companies may collect information about your online activities across websites or online services, however, we prohibit third parties from using web beacons on our sites to collect or access your personal information. You may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers: </p>
 <p> </p>
 <ul>
 <li>Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
@@ -328,25 +330,24 @@ You may clear your search history from appearing on the site by following the st
 Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above.
 You may also contact Microsoft by using the web form.
 We will respond to requests to access or delete your personal information within 30 days.
-</p> Bing Mobile, Maps and Location ServicesMobile and Location Services <p>If you have agreed to allow access to your location, we collect the following information to improve your search and mapping results, provide you deals for local businesses, and operate and improve our services: </p>
-<p>
-<b>
-</b> </p>
-<p>
-<b>Bing Search services and Bing Mobile applications:</b> The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application.
-Refer to the documentation that came with your device for information about how to turn off location for an application.</p>
+</p> Bing Mobile, Maps and Location ServicesMobile and Location Services <p>If you have agreed to allow access to your location, the app may collect that information to provide more relevant experiences and enhanced features that rely on knowing your location, and to improve Microsoft products and services.  For example, we use your location to improve your search and mapping results, and provide you deals for local businesses.</p>
+<p> </p>
 <ul>
 <li>
+<b>Bing Search services and Bing Mobile applications:</b> The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application.
+Refer to the documentation that came with your device for information about how to turn off location for an application.</li>
+<li>
 <b>"Check In” and “Reminders”:</b> When you sign into these services, Microsoft stores the approximate location of your device along with your Microsoft account.
-To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.
-</li>
+To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.</li>
 <li>
 <b>Mapping features:</b> Features on Microsoft's sites and services are based in part on the Bing Maps service.
-When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
-</li>
+When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.</li>
 </ul>
 <p>If you’ve allowed a Bing mobile application to access your location, when you conduct a search, the approximate location of your device will be sent to Microsoft along with the search terms, time and date of your search and a unique identifier generated by the application.
-This information will be used to provide and improve search and mapping results.</p>
+This information will be used to provide and improve search and mapping results.
+With your consent, some Bing mobile applications may collect more precise location information to provide a more relevant experience or provide enhanced features that rely on knowing your location.</p>
+<br>
+<br>
 <p>Refer to the documentation that came with your device for information about how to turn off location for a Bing Search application.
 If you turn off or disable location for the Bing Search application or the browser that you use to go to m.bing.com, you will stop sharing your device's location with Bing.
 </p>
@@ -524,11 +525,11 @@ We also use this information to help select and display targeted advertisements 
 <strong>You may opt out of receiving targeted ads from Microsoft Advertising by visiting our </strong>
 <strong>Your privacy and Microsoft personalized ads</strong>.  For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Statement.
 </p>
-<br>We also allow third-party ad companies, including other ad networks, to display advertisements on our sites.  In some cases, these third parties may also place cookies on your computer.
+<p>We also allow third-party ad companies, including other ad networks, to display advertisements on our sites.  In some cases, these third parties may also place cookies on your computer and may collect information about your online activities across websites or online services.
 These companies currently include, but are not limited to: 24/7 Real Media, AdBlade, AdConion, AdFusion, Advertising.com, AppNexus, Bane Media, Brand.net, CasaleMedia, Collective Media, InMobi,Interclick, Jumptap, Millennial Media, Mobclix, Mojiva, ROI Media, SpecificMedia, Tribal Fusion, ValueClick, Yahoo!, YuMe and Zumobi.
 These companies may offer you a way to opt out of ad targeting based on their cookies.  You may find more information by clicking on the company names above and following the links to the web sites of each company.
-Many of them are also members of the Network Advertising Initiativeor the Digital Advertising Alliance, which each provide a simple way to opt out of ad targeting from participating companies.
-Communication PreferencesCommunications <p>You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive.  You also have the option of proactively making choices about the receipt of promotional email, telephone calls and postal mail from Microsoft by visiting and signing in to the Promotional Communications Manager.</p>
+Many of them are also members of the Network Advertising Initiativeor the Digital Advertising Alliance, which each provide a simple way to opt out of ad targeting from participating companies.</p>
+<p>You should also be aware that some browsers have incorporated “Do Not Track” (DNT) features that, when turned on, send a signal in the browser header to websites and online services indicating that you do not wish to be tracked.  It is up to the website or online service you visit (and any third party’s providing advertising, content, or other functionality on the website or online service) to decide how it will interpret and treat the signal.   However, there is not yet a common understanding of how to interpret the DNT signal.  As a result, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals.  In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.</p> Communication PreferencesCommunications <p>You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive.  You also have the option of proactively making choices about the receipt of promotional email, telephone calls and postal mail from Microsoft by visiting and signing in to the Promotional Communications Manager.</p>
 <p>If you receive promotional emails from us and would like to stop getting them in the future, you can do so by following the directions in that message.</p>
 <p>You also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail from Microsoft by visiting and signing into the Promotional Communications Manager allows you to update contact information, manage Microsoft-wide contact preferences, opt out of subscriptions, and choose whether to share your contact information with Microsoft partners.
 If you do not have a Microsoft account, you can manage your Microsoft email communication preferences by using this web form.
@@ -664,9 +665,8 @@ To act on a good faith belief that access or disclosure is necessary to protect 
 <br>
 </li>
 </ul>
-<p>Please note that our sites may include links to third-party sites whose privacy practices may differ from those of Microsoft.  If you submit personal information to any of those sites, your information is governed by the privacy statements on those sites.  We encourage you to review the privacy statement of any site you visit.  </p>
-<br>
-<br>
+<p>Please note that our sites and online services may contain advertising, content, or other functionality provided by other companies that may collect information about your online activities across websites or online services.  Our sites and services may also include links to the sites or services of other companies.
+Information collected by those companies will be governed by the privacy statements of those companies.  We encourage you to review the privacy statement of any site or service you use.</p>
 <p>
 <b>Protecting the Security of Personal Information </b>
 </p>
