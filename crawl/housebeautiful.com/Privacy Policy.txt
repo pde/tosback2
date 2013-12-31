@@ -84,6 +84,13 @@ Privacy02 += '<li>
 <strong>Third Parties.
 </strong> We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines.
 Those third parties have privacy policies that differ from this Privacy Policy.</li>'.
+Privacy02 += '<li>
+<strong>Tracking Requests</strong>.
+Hearst does not act on Do Not Track requests from your browser.
+For more information click here.</li>'.
+Privacy02 += '<li>
+<strong>Effect of Tracking Requests</strong>.
+Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.</li>'.
 Privacy02 += '</ol>'.
 Privacy02 += ''.
 var Privacy03 = '<p>
@@ -267,7 +274,7 @@ Any changes to this privacy policy will be effective upon thirty (30) calendar d
 These changes will be effective immediately for new users of our Covered Sites.
 Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>'.
 Privacy10 += ''.
-var Privacy11 = '<p>This policy was last updated on July 26, 2013.</p>'.
+var Privacy11 = '<p>This policy was last updated on December 30, 2013.</p>'.
 Privacy11 += ''.
 document.write('').
 document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
