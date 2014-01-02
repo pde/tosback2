@@ -7760,3 +7760,19 @@
 2014-01-01 00:27:49 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
 2014-01-01 00:28:37 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
 2014-01-01 00:28:44 -0500 - http://www.oprah.com/privacy_policy.html:	404 => Net::HTTPNotFound for http://www.oprah.com/privacy_policy.html -- unhandled response
+2014-01-02 00:15:47 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2014-01-02 00:15:47 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2014-01-02 00:15:59 -0500 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2014-01-02 00:16:41 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2014-01-02 00:18:06 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2014-01-02 00:20:18 -0500 - http://www.data.gov/privacypolicy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 85809890, last used 1388640018.0805702 seconds ago
+2014-01-02 00:22:18 -0500 - http://www.data.gov/datapolicy:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 85809890, last used 1388640138.4303129 seconds ago
+2014-01-02 00:23:13 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2014-01-02 00:25:44 -0500 - http://www.americanidol.com/legal/terms:	404 => Net::HTTPNotFound for http://www.americanidol.com/legal/terms -- unhandled response
+2014-01-02 00:25:49 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2014-01-02 00:26:00 -0500 - http://www.nature.org/aboutus/governance/privacy-policy.xml:	404 => Net::HTTPNotFound for http://www.nature.org/aboutus/governance/privacy-policy.xml -- unhandled response
+2014-01-02 00:30:13 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2014-01-02 00:30:31 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2014-01-02 00:31:20 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2014-01-02 00:31:46 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2014-01-02 00:32:22 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
