@@ -58,7 +58,7 @@ Analytics Reports;</li>' + '<li>Assist in the prevention and investigation of il
 </li>' + '<li>
 <strong>With other companies that perform services on our behalf</strong> only as needed for them to perform those services.
 We require them to protect your information consistent with our Policy.</li>' + '<li>
-<strong>With other companies and entities, to</strong>:</li>' + '<ul>' + '<li>Respond to 911 calls and other emergencies or exigencies;</li>' + '<li>Comply with court orders and other legal process.
+<strong>With other companies and entities, to</strong>:</li>' + '<ul>' + '<li>Respond to 911 requests and other emergencies or exigencies;</li>' + '<li>Comply with court orders and other legal process.
 </li>' + '<li>Assist with identity verification, and preventing fraud and identity theft;</li>' + '<li>Enforce our agreements and property rights.
 and </li>' + '<li>Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection </li>' + '</ul>' + '</ul>' + '<p>
 <strong>Details on Personal and Anonymous &amp.
@@ -103,8 +103,14 @@ Controls').
 } document.write('</li>'*/ + ' <li>How to Contact Us</li>' + ' </ul>' + '<p>
 <strong>Your California Privacy Rights</strong>
 </p>' + '<p>California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes.
-As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for their direct marketing purposes without your consent.
-California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.</p>' + ' ').
+As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.</p>' + '<p>
+<strong>California Web Site Data Collection &amp.
+"Do Not Track" Notices</strong>
+</p>' + '<p>
+<strong>Web Site Data Collection:</strong> We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services.
+AT&amp;T provides information about the opt-out choices it makes available, and the opt-outs choices provided by certain third-party website and mobile application analytics companies we use here.</p>' + '<p>
+<strong>"Do Not Track" Notice:</strong> Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, AT&amp;T currently does not respond to those signals.
+For more information on Do Not Track, please visit www.allaboutdnt.com.</p>' + '<p>California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.</p>' + '').
 } function setFaqContent(sectionID)
 { document.getElementById(sectionID).scrollIntoView(true).
 menuItem = sectionID + 'A'.
@@ -579,11 +585,11 @@ You\'ll need to opt-out on <u>each</u> computer browser and mobile device you wa
 <strong>E-Mail:</strong> Every marketing e-mail we send contains instructions and a link that will allow you to stop additional marketing e-mails for that product or service type.
 You also can unsubscribe from AT&amp;T marketing e-mails here.</p>' + ' <p>
 <strong>Text Messages</strong>: Opt-out of AT&amp;T marketing text message contacts by replying "stop" to any message.</p>' + ' <p>
-<strong>Consumer Telemarketing:</strong> Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here, or by sending an e-mail to privacypolicy@att.com.
+<strong>AT&amp;T Consumer Telemarketing:</strong> Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here.
 You also can ask the AT&amp;T representative to remove you from our telemarketing lists when you receive a marketing or promotional call from us.</p>' + ' <p>
-<strong>Business Telemarketing:</strong> Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.</p>' + ' <p>
-<strong>Do Not Call:</strong> The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry.
-Putting your number on these Registries also may limit our telemarketing calls to that number.</p>' + ' <p>
+<strong>AT&amp;T Business Telemarketing:</strong> Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.</p>' + ' <p>
+<strong>Federal Do Not Call:</strong> The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry.
+Putting your number on these Registries also may limit our AT&amp;T telemarketing calls to that number.</p>' + ' <p>
 <strong>Postal Mail:</strong> To review our Residential Do Not Mail Policy Statement and to limit postal mail solicitations, click here.
 You will still receive billing statements, legal notices, product updates and other similar correspondence, and you may still receive some promotional mailings.</p>' + ' <p>All of our practices are designed to satisfy state and federal legal requirements limiting marketing contacts.
 Those laws and regulations - such as the requirements governing the state and federal "Do Not Call" lists - generally permit companies to contact their own current and, in some cases, former customers, even when those customers are listed on the federal and state "Do Not Call" lists.</p>' + ' <p>Restricting our use of your CPNI will not eliminate all types of our marketing contacts.</p>
@@ -596,6 +602,8 @@ Although this opt out does not apply to Metrics Reports, it will apply if we com
 </li>' + ' <li>
 <p>Are there any other opt-out choices I should know about? </p>' + ' <p>We may use services provided by analytics companies to obtain information about website performance and how you use our mobile applications and other products and services.
 Go here for more information about the opt-outs made available by some of those vendors, and to make choices about participation.</p>
+</li>' + ' <li>
+<p>These Choices and Controls also are available at www.att.com/yourchoices.</p>
 </li>' + ' </ol>' + ' <strong>HOW TO CONTACT US ABOUT THIS POLICY</strong>' + '<ul>' + '<li>
 <p>We encourage you to contact us directly at either of these addresses below for any questions about this Privacy Policy.</p>' + '<ul>
 <li>
@@ -774,7 +782,7 @@ We will provide a preview of the updated privacy policy ��� before it goes
 Please check back soon for updates.
 The policy on these pages has an effective date of 11/18/2010.
 </strong>
-</p>' + '' + '' + '' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' + '' + 'Your Rights and Choices' + ' <p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
+</p>' + '' + '' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' + '' + 'Your Rights and Choices' + ' <p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
 <br> More</p>' + ' <p>You can choose to be removed from call lists that we use to contact customers with marketing and promotional offers.
 <br> More</p> ' + ' <p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
 <br> More</p> ' + '' + '' + '<p>The Ponemon Institute has named AT&amp;T as one of the 20 most trusted companies on privacy for 2012.</p>' + '' + '' + '<p>
@@ -820,7 +828,7 @@ If you have more than one AT&amp;T account, such as wireless and AT&amp;T U-vers
 We require logging in for security, to make sure it\'s really you making a change to your account.</p>' +'<p>
 </p>' + '' + '' + ' ').
 } else { document.write('' + 'Return to Privacy Policy Home' + ' ').
-document.write('' + '' + '' + '<p>AT&amp;T is a licensee of the TRUSTe Privacy Program and you may contact TRUSTe if a privacy question is not properly addressed.</p>' + '' +'' + 'Your Rights and Choices' + ' <p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
+document.write('' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' +'' + 'Your Rights and Choices' + ' <p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
 <br> More</p>' + ' <p>You can choose to be removed from call lists that we use to contact customers with marketing and promotional offers.
 <br> More</p> ' + ' <p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
 <br> More</p> ' + '' ).
