@@ -79,10 +79,11 @@ In the event all or a portion of the assets owned or controlled by us, our paren
 </ol>
 </li>
 <li>
-<strong>Local Device Storage and other Tracking Technologies:</strong>
+<strong>Local Device Storage and other Tracking Technologies.
+Do Not Track (DNT):</strong>
 <ol>
 <li>
-<p>The Service may place and/or store code or other types of information and/or devices (e.g., "cookies") on your computer, mobile or other device ("Local Device Storage").
+<p>The Service will at times place and/or store code or other types of information and/or devices (e.g., "cookies") on your computer, mobile or other device ("Local Device Storage").
 We may use Local Device Storage for any lawful business purpose, including without limitation to determine which of our messages have been opened by recipients so we can gauge the effectiveness of marketing campaigns, to control the display of ads, to track usage patterns, the movements of individual users, and your geographic location, to help diagnose problems with our servers, to gather broad demographic information, to analyze trends, to conduct research, to deliver editorial content, to record registration and personalization information, and to otherwise administer the Service.
 For example, if you register on any part of the Service and are given the option to save your user name and password, we may provide this convenience to you via Local Device Storage.
 Local Device Storage may also collect and store your personally identifiable information, which may be shared with our parent, subsidiaries, and affiliates and other companies.</p>
@@ -95,12 +96,16 @@ However, if you disable Local Device Storage, some portions of the Service may n
 <p>In addition to Local Device Storage, we may use web beacons, web bugs, clear gifs, and similar technologies (collectively, together with Local Device Storage, the "Tracking Technologies").
 We use Tracking Technologies for all or some of the same lawful business purposes we describe above for use of Local Device Storage.</p>
 </li>
+<li>
+<p>As discussed below, you may opt out of third party tracking on the Service at any time.
+However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to any potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals. </p>
+</li>
 </ol>
 </li>
 <li>
 <strong>How to Opt-Out of Third Party Tracking Technologies:</strong>
-<p>Our advertising service vendors and other third parties may also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this Service and other sites, applications, destinations, and services you have visited, and to determine whether you have seen a particular advertisement before to avoid sending you duplicate advertisements, and for other lawful business purposes.
-In doing so, these third parties may collect non-personally identifiable data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data.
+<p>Our advertising service vendors and other third parties will at times also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this Service and other sites, applications, destinations, and services you have visited, and to determine whether you have seen a particular advertisement before to avoid sending you duplicate advertisements, and for other lawful business purposes.
+In doing so, these third parties will collect non-personally identifiable data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data.
 The use of Tracking Technologies by third parties is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith.
 If you do not want the services that Tracking Technologies provide, you may be able to opt-out by visiting http://www.aboutads.info.</p>
 </li>
