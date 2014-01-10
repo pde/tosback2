@@ -44,6 +44,8 @@ When working a support issue we do our best to respect your privacy as much as p
 All cloned repositories are deleted as soon as the support issue has been resolved.</p> Maintaining security <p>We protect your login from brute force attacks with rate limiting.
 All passwords are filtered from all our logs and are one-way encrypted in the database using <code>bcrypt</code>.
 Login information is always sent over SSL.</p>
+<p>We also allow you to use two-factor authentication, or 2FA, as an additional security measure when accessing your GitHub account.
+Enabling 2FA adds security to your account by requiring both your password as well as access to a security code on your phone to access your account.</p>
 <p>We have full time security staff to help identify and prevent new attack vectors.
 We always test new features in order to rule out potential attacks, such as XSS-protecting wikis, and ensuring that Pages cannot access cookies.</p>
 <p>We also maintain relationships with reputable security firms to perform regular penetration tests and ongoing audits of GitHub and its code.

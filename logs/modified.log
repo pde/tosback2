@@ -5,33 +5,42 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/amtrak.com/Web Notices and Terms of Use.txt
-#	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
+#	modified:   ../crawl/adidas.com/Privacy Policy.txt
 #	modified:   ../crawl/cbsalary.com/Privacy Policy.txt
+#	modified:   ../crawl/en.softonic.com/Privacy Policy.txt
 #	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
-#	modified:   ../crawl/geek.com/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Universal Terms Of Service.txt
-#	modified:   ../crawl/imvu.com/Privacy Policy.txt
-#	modified:   ../crawl/ivillage.com/Privacy Policy.txt
-#	modified:   ../crawl/juno.com/Privacy Policy.txt
-#	modified:   ../crawl/netzero.net/Privacy Policy.txt
-#	modified:   ../crawl/netzero.net/Terms of Service.txt
+#	modified:   ../crawl/freecode.com/Privacy Statement.txt
+#	modified:   ../crawl/geico.com/Privacy Policy.txt
+#	modified:   ../crawl/github.com/Security.txt
+#	modified:   ../crawl/gmx.net/Privacy Policy.txt
+#	modified:   ../crawl/honda.com/Privacy Policy.txt
+#	modified:   ../crawl/indeed.com/Privacy Policy.txt
+#	modified:   ../crawl/journeys.com/Privacy Policy.txt
+#	modified:   ../crawl/kongregate.com/Privacy Policy.txt
+#	modified:   ../crawl/landsend.com/Privacy Policy.txt
+#	modified:   ../crawl/lexus.com/Privacy Policy.txt
+#	modified:   ../crawl/naver.com/Privacy Policy.txt
+#	modified:   ../crawl/npr.org/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/pcmag.com/Privacy Policy.txt
+#	modified:   ../crawl/pagesjaunes.fr/Privacy Policy.txt
 #	modified:   ../crawl/peekyou.com/Privacy Policy.txt
-#	modified:   ../crawl/putlocker.com/Privacy Policy.txt
+#	modified:   ../crawl/reddit.com/Terms of Service.txt
+#	modified:   ../crawl/rollingstone.com/Privacy Policy.txt
+#	modified:   ../crawl/scribd.com/Privacy Policy.txt
 #	modified:   ../crawl/seekingalpha.com/Privacy Policy.txt
+#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+#	modified:   ../crawl/slashdot.org/Privacy Policy.txt
+#	modified:   ../crawl/sourceforge.net/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
-#	modified:   ../crawl/stackexchange.com/Content Policy.txt
-#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
-#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
 #	modified:   ../crawl/syfy.com/Privacy Policy.txt
+#	modified:   ../crawl/t-mobile.com/Terms and Conditions.txt
 #	modified:   ../crawl/t-online.de/Privacy Policy.txt
-#	modified:   ../crawl/tealium.com/Privacy Policy.txt
-#	modified:   ../crawl/toyota.com/Privacy Policy.txt
-#	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
+#	modified:   ../crawl/usmagazine.com/Privacy Policy.txt
+#	modified:   ../crawl/vh1.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/habbo.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/habbo.com/Terms of Service.txt
+#	modified:   ../crawl_reviewed/youtube.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
