@@ -5,20 +5,33 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/airbnb.com/Privacy Policy.txt
-#	modified:   ../crawl/airbnb.com/Terms of Service.txt
-#	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
+#	modified:   ../crawl/classmates.com/Privacy Policy.txt
+#	modified:   ../crawl/craigslist.org/Privacy Policy.txt
+#	modified:   ../crawl/ebay.co.uk/Privacy Policy.txt
+#	modified:   ../crawl/everydayhealth.com/Privacy Policy.txt
+#	modified:   ../crawl/github.com/Security.txt
+#	modified:   ../crawl/imgur.com/Privacy Policy.txt
+#	modified:   ../crawl/imgur.com/Terms of Service.txt
+#	modified:   ../crawl/jobgo.com/Privacy Policy.txt
+#	modified:   ../crawl/mainstreet.com/Privacy Policy.txt
+#	modified:   ../crawl/myoffers.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/opendns.com/Privacy Policy.txt
 #	modified:   ../crawl/peekyou.com/Privacy Policy.txt
+#	modified:   ../crawl/safeway.com/Privacy Policy.txt
 #	modified:   ../crawl/shopstyle.com/Terms of Service.txt
-#	modified:   ../crawl/spokeo.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/surveymonkey.com/Privacy Policy.txt
 #	modified:   ../crawl/syfy.com/Privacy Policy.txt
 #	modified:   ../crawl/t-online.de/Privacy Policy.txt
-#	modified:   ../crawl/theatlantic.com/Privacy Policy.txt
+#	modified:   ../crawl/tealium.com/Privacy Policy.txt
+#	modified:   ../crawl/timeanddate.com/Privacy Policy.txt
+#	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
+#	modified:   ../crawl/toyota.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
-#	modified:   ../crawl_reviewed/comcast.com/Privacy Statement.txt
+#	modified:   ../crawl/xfinity.comcast.net/Privacy Policy.txt
+#	modified:   ../crawl/yahoo.fr/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/flickr.com/Terms of Service.txt
+#	modified:   ../crawl_reviewed/yahoo.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
