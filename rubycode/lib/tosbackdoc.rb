@@ -13,7 +13,7 @@ class TOSBackDoc
     @name = hash[:name]
     @url = hash[:url]
     @xpath = (hash[:xpath] == "") ? nil : hash[:xpath]
-    @reviewed = (hash[:reviewed] == "") ? nil : hash[:reviewed]
+    @reviewed = (hash[:reviewed].nil? || hash[:reviewed].empty? || hash[:reviewed] == false || hash[:reviewed] == "false" ) ? nil : hash[:reviewed]
     @save_dir = (@reviewed == nil) ? "#{$results_path}#{@site}/" : "#{$reviewed_crawl_path}#{@site}/"
     @save_path = "#{@save_dir}#{@name}.txt"
   end #init
