@@ -1,30 +1,30 @@
- Kindle for PC Legal Notices <p> This page covers the legal notices for Kindle for PC.
+ Kindle for PC Legal Notices <p>This page covers the legal notices for Kindle for PC.
 </p>
 <dfn>A.
 INTELLECTUAL PROPERTY NOTICES</dfn>
 <br>
 <ol>
 <li>
-<strong> Patent Notices</strong>
+<strong>Patent Notices</strong>
 <p>The Kindle application and/or methods used in association with the Kindle device and Kindle service may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc.
 or its affiliates.
 </p>
 </li>
 <li>
-<strong> Trademark Notices</strong>
+<strong>Trademark Notices</strong>
 <p>Amazon, the Amazon logo, Kindle, the AmazonKindle logo, and Whispersync are trademarks of Amazon.com, Inc.
 or its affiliates.
 </p>
 </li>
 <li>
-<strong> Copyright Notices</strong>
+<strong>Copyright Notices</strong>
 <p>Kindle software © 2010-2013 Amazon.com, Inc.
 or its affiliates.
 All rights reserved.
 </p>
 </li>
 <li>
-<strong> Other Notices</strong>
+<strong>Other Notices</strong>
 <p>All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
 </p>
 </li>
@@ -61,7 +61,7 @@ Box 81226 </p>
 <dfn>C.
 NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION</dfn>
 <p>
-<strong> 1.
+<strong>1.
 Components Licensed Under the MIT License</strong>
 </p>
 <p>a.
@@ -78,7 +78,7 @@ MIT License (full text) </p>
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 </p>
 <p>
-<strong> 2.
+<strong>2.
 Components Licensed Under The Apache License, Version 2.0</strong>
 </p>
 <p> a.
@@ -167,7 +167,7 @@ However, in accepting such obligations, You may act only on Your own behalf and 
 <br>
 <ol>
 <li>
-<strong> Libjpeg</strong>
+<strong>Libjpeg</strong>
 <p>In plain English: </p>
 <br>
 <ol>
@@ -241,7 +241,7 @@ Actually both licenses are BSD-style Open Source licenses.
 In case of any license issues related to OpenSSL please contact openssl-core@openssl.org.
 </p>
 <p>
-<strong> OpenSSL License</strong>
+<strong>OpenSSL License</strong>
 </p>
 <p>Copyright (c) 1998-2008 The OpenSSL Project.
 All rights reserved.
@@ -273,7 +273,7 @@ OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
 This product includes software written by Tim Hudson (tjh@cryptsoft.com).
 </p>
 <p>
-<strong> Original SSLeay License</strong>
+<strong>Original SSLeay License</strong>
 </p>
 <p>Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com).
 All rights reserved.
@@ -313,7 +313,7 @@ i.e.
 this code cannot simply be copied and put under another distribution license [including the GNU Public License.] </p>
 </li>
 <li>
-<strong> ZipUtils</strong>
+<strong>ZipUtils</strong>
 <p>Copyright (c) 1990-2007 Info-ZIP.
 All rights reserved.
 </p>
@@ -345,7 +345,7 @@ Such altered versions are further prohibited from misrepresentative use of the Z
 </ol>
 </li>
 <li>
-<strong> LibXML2</strong>
+<strong>LibXML2</strong>
 <p>Except where otherwise noted in the source code (e.g.
 the files hash.c, list.c and the trio files, which are covered by a similar licence but with different Copyright notices) all the files are: </p>
 <p>1998-2003 Daniel Veillard.
@@ -376,7 +376,7 @@ THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.
 </p>
 </li>
 <li>
-<strong> XML Security Library </strong>
+<strong>XML Security Library </strong>
 <p>xmlsec, xmlsec-openssl, xmlsec-gnutls, xmlsec-gcrypt libraries © 2002-2010 Aleksey Sanin.
 All Rights Reserved.
 </p>
@@ -413,7 +413,7 @@ IN NO EVENT SHALL THE ALEKSEY SANIN BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LI
 </p>
 </li>
 <li>
-<strong> CxImage</strong>
+<strong>CxImage</strong>
 <p>© 07/Aug/2001, Davide Pizzolato.
 </p>
 <p>This software is provided 'as-is', without any express or implied warranty.
@@ -435,7 +435,7 @@ If you use this software in a product, an acknowledgment in the product document
 </ol>
 </li>
 <li>
-<strong> Free Type Project</strong>
+<strong>Free Type Project</strong>
 <p> Portions of this software are copyright © 2005-2010 The Free Type Project (www.freetype.org).
 All rights reserved.
 </p>
@@ -444,7 +444,7 @@ and its affiliates elect to use the FreeType Project code under the FreeType Pro
 </p>
 </li>
 <li>
-<strong> Libpng</strong>
+<strong>Libpng</strong>
 <p> This copy of the libpng notices is provided for your convenience.
 In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.
 </p>
@@ -496,7 +496,7 @@ OSI Certified Open Source is a certification mark of the Open Source Initiative.
 <p> Glenn Randers-Pehrsonglennrp at users.sourceforge.net February 1, 2012 </p>
 </li>
 <li>
-<strong> Software Provided by Hewlett-Packard Company and Silicon Graphics Computer Systems, Inc.</strong>
+<strong>Software Provided by Hewlett-Packard Company and Silicon Graphics Computer Systems, Inc.</strong>
 <p> The following notice is for certain software files (the "Boost Software") included with this app that are free software contained in the Boost C++ libraries.
 </p>
 <p> The following are the names of the Boost Software files included with this app and the Copyright Notice for the Boost Software: </p>
@@ -514,7 +514,7 @@ It is provided "as is" without express or implied warranty.
 </p>
 </li>
 <li>
-<strong> Ogg Vorbis</strong>
+<strong>Ogg Vorbis</strong>
 <p>Ogg Vorbis © year, Xiph.Org Foundation </p>
 <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: </p>
 <ul>
@@ -532,7 +532,7 @@ or business interruption) however caused and on any theory of liability, whether
 </p>
 </li>
 <li>
-<strong> Webkit</strong>
+<strong>Webkit</strong>
 <p>
 <strong> a.
 Names and Copyright Notices</strong>
