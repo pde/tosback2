@@ -11,32 +11,33 @@ World Clock<ul>
 <li>Main World Clock</li>
 <li>Extended World Clock</li>
 <li>Personal World Clock</li>
-<li>Event Time Announcer</li>
-<li>Lookup Time</li>
+<li>World Time Lookup </li>
 </ul>
 </li>
 <li>
 Time Zones<ul>
 <li>Time Zone Converter</li>
-<li>Meeting Planner</li>
+<li>International Meeting Planner</li>
+<li>Event Time Announcer</li>
 <li>Time Zone Map</li>
 <li>Time Zone Abbreviations</li>
 <li>Time Zone News</li>
 <li>Daylight Saving Time</li>
+<li>Time Changes Worldwide</li>
+<li>Time Difference</li>
 </ul>
 </li>
 <li>
 Calendar<ul>
-<li>Calendars</li>
+<li>Calendar Info</li>
 <li>Calendar 2014</li>
 <li>Calendar 2015</li>
-<li>Print Calendar PDF </li>
 <li>Monthly Calendar</li>
+<li>Easy-Print PDF Calendar </li>
+<li>Add your own Calendar Events</li>
 <li>Calendar Creator</li>
-<li>Adv.
-Calendar Creator</li>
-<li>Add Events</li>
-<li>Holidays</li>
+<li>Advanced Calendar Creator</li>
+<li>Holidays Worldwide</li>
 </ul>
 </li>
 <li>
@@ -54,9 +55,10 @@ Moon<ul>
 <li>Sun Calculator</li>
 <li>Moon Calculator</li>
 <li>Moonphases</li>
+<li>Eclipses</li>
 <li>Seasons</li>
 <li>Day and Night Map</li>
-<li>Eclipses</li>
+<li>Moon Light World Map</li>
 </ul>
 </li>
 <li>
@@ -70,14 +72,16 @@ Timers<ul>
 </li>
 <li>
 Calculators<ul>
-<li>Date to Date Calculator</li>
-<li>Date Calculator</li>
-<li>Weekday Calculator</li>
-<li>Business Date</li>
-<li>Business Days</li>
-<li>Dialing Codes</li>
+<li>Date to Date Calculator (duration)</li>
+<li>Business Date to Date (exclude holidays)</li>
+<li>Date Calculator (add / subtract)</li>
+<li>Business Date (exclude holidays)</li>
+<li>International Dialing Codes</li>
 <li>Distance Calculator</li>
+<li>Distance Signpost</li>
 <li>Travel Time Calculator</li>
+<li>Weekday Calculator</li>
+<li>Week Number Calculator</li>
 </ul>
 </li>
 <li>
@@ -97,7 +101,7 @@ Free Fun<ul>
 <li>Free Clock for your site</li>
 <li>Free Countdown for your site</li>
 <li>Word Clock</li>
-<li>Age Calculator</li>
+<li>Alternative Age Calculator</li>
 <li>Date Pattern Calculator</li>
 </ul>
 </li>
