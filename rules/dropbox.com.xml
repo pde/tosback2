@@ -1,6 +1,6 @@
 <sitename name="dropbox.com">
  <docname name="Privacy Policy">
-   <url name="https://www.dropbox.com/privacy" xpath="//div[@id='privacy-content']" reviewed="true">
+   <url name="https://www.dropbox.com/privacy" xpath="//div[@id='privacy-policy']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
