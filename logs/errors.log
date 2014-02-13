@@ -8641,3 +8641,35 @@
 2014-02-12 00:27:02 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
 2014-02-12 00:27:27 -0500 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/privacy/?page=privacy&cbRecursionCnt=1 -- unhandled response
 2014-02-12 00:27:41 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
+2014-02-13 00:15:35 -0500 - https://medium.com/policy/9db0094a1e0f:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2014-02-13 00:15:35 -0500 - https://medium.com/policy/f03bf92035c9:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2014-02-13 00:15:51 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2014-02-13 00:15:52 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2014-02-13 00:16:04 -0500 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2014-02-13 00:16:47 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2014-02-13 00:18:23 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2014-02-13 00:18:40 -0500 - http://www.data.gov/privacypolicy:	404 => Net::HTTPNotFound for http://www.data.gov/privacypolicy -- unhandled response
+2014-02-13 00:18:44 -0500 - http://www.data.gov/datapolicy:	404 => Net::HTTPNotFound for http://www.data.gov/datapolicy -- unhandled response
+2014-02-13 00:18:45 -0500 - https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm:	404 => Net::HTTPNotFound for https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm -- unhandled response
+2014-02-13 00:19:00 -0500 - http://msn.foxsports.com/other/page/privacy-policy:	404 => Net::HTTPNotFound for http://msn.foxsports.com/other/page/privacy-policy -- unhandled response
+2014-02-13 00:19:44 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2014-02-13 00:22:42 -0500 - http://www.americanidol.com/legal/terms:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 100081910, last used 1392268962.2214618 seconds ago
+2014-02-13 00:22:44 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2014-02-13 00:22:51 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/2/:	404 => Net::HTTPNotFound for http://www.nbc.com/privacy-policy/terms-of-service/2 -- unhandled response
+2014-02-13 00:22:54 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/3/:	404 => Net::HTTPNotFound for http://www.nbc.com/privacy-policy/terms-of-service/3 -- unhandled response
+2014-02-13 00:23:17 -0500 - http://www.nature.org/aboutus/governance/privacy-policy.xml:	404 => Net::HTTPNotFound for http://www.nature.org/aboutus/governance/privacy-policy.xml -- unhandled response
+2014-02-13 00:23:45 -0500 - http://www.accesshollywood.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.accesshollywood.com/privacy-policy -- unhandled response
+2014-02-13 00:24:59 -0500 - http://www.earthlink.net/about/policies/privacy/:	Connection timed out - connect(2)
+2014-02-13 00:26:02 -0500 - http://www.earthlink.net/about/policies/cable.faces:	Connection timed out - connect(2)
+2014-02-13 00:27:05 -0500 - http://www.earthlink.net/about/policies/use.faces:	Connection timed out - connect(2)
+2014-02-13 00:28:08 -0500 - http://www.earthlink.net/about/policies/isa.faces:	Connection timed out - connect(2)
+2014-02-13 00:28:17 -0500 - http://www.gamefly.com/about-us/privacy-policy:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/privacy-policy -- unhandled response
+2014-02-13 00:28:17 -0500 - http://www.gamefly.com/about-us/terms-of-use/:	503 => Net::HTTPServiceUnavailable for http://www.gamefly.com/about-us/terms-of-use/ -- unhandled response
+2014-02-13 00:30:31 -0500 - http://www.hsbc.com/1/2/terms-and-conditions:	404 => Net::HTTPNotFound for http://www.hsbc.com/1/2/terms-and-conditions -- unhandled response
+2014-02-13 00:31:28 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2014-02-13 00:31:47 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2014-02-13 00:31:59 -0500 - https://www.change.org/static/user_agreement.html:	404 => Net::HTTPNotFound for https://www.change.org/static/user_agreement.html -- unhandled response
+2014-02-13 00:32:46 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2014-02-13 00:33:23 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2014-02-13 00:33:45 -0500 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/privacy/?page=privacy&cbRecursionCnt=1 -- unhandled response
+2014-02-13 00:33:58 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
