@@ -5,27 +5,31 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/about.com/Privacy Policy.txt
-#	modified:   ../crawl/allstate.com/Privacy Policy.txt
-#	modified:   ../crawl/consumersearch.com/Privacy Policy.txt
-#	modified:   ../crawl/dailymotion.com/Terms of Use.txt
-#	modified:   ../crawl/delta.com/Privacy Policy.txt
-#	modified:   ../crawl/ebay.com/Terms of Service.txt
-#	modified:   ../crawl/en.softonic.com/Privacy Policy.txt
+#	modified:   ../crawl/advair.com/Privacy Policy.txt
+#	modified:   ../crawl/bankrate.com/Privacy Policy.txt
+#	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
+#	modified:   ../crawl/fedex.com/Privacy Policy.txt
+#	modified:   ../crawl/fidelity.com/Privacy Policy.txt
+#	modified:   ../crawl/gamestop.com/Privacy Policy.txt
 #	modified:   ../crawl/gmx.net/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Universal Terms Of Service.txt
-#	modified:   ../crawl/jcrew.com/Privacy Policy.txt
-#	modified:   ../crawl/npr.org/Privacy Policy.txt
+#	modified:   ../crawl/indeed.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
 #	modified:   ../crawl/peekyou.com/Privacy Policy.txt
-#	modified:   ../crawl/spencersonline.com/Privacy Policy.txt
+#	modified:   ../crawl/pof.com/Terms of Use.txt
+#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
+#	modified:   ../crawl/subaru.com/Privacy Policy.txt
 #	modified:   ../crawl/syfy.com/Privacy Policy.txt
-#	modified:   ../crawl/timeanddate.com/Privacy Policy.txt
-#	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
-#	modified:   ../crawl/urbanoutfitters.com/Privacy Policy.txt
+#	modified:   ../crawl/tealium.com/Privacy Policy.txt
+#	modified:   ../crawl/toyota.com/Privacy Policy.txt
+#	modified:   ../crawl/webmd.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/netflix.com/Terms of Use.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
