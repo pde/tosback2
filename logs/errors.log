@@ -8915,3 +8915,32 @@
 2014-02-21 00:29:36 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
 2014-02-21 00:30:00 -0500 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/privacy/?page=privacy&cbRecursionCnt=1 -- unhandled response
 2014-02-21 00:30:12 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
+2014-02-25 00:36:55 -0500 - https://medium.com/policy/9db0094a1e0f:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2014-02-25 00:36:55 -0500 - https://medium.com/policy/f03bf92035c9:	SSL_connect returned=1 errno=0 state=SSLv3 read server hello A: sslv3 alert handshake failure
+2014-02-25 00:37:20 -0500 - http://imgur.com/privacy:	503 => Net::HTTPServiceUnavailable for http://imgur.com/privacy -- unhandled response
+2014-02-25 00:37:24 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2014-02-25 00:37:24 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2014-02-25 00:37:42 -0500 - http://nbcsports.msnbc.com/id/23114206:	404 => Net::HTTPNotFound for http://www.nbcsports.com/id/23114206 -- unhandled response
+2014-02-25 00:38:43 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2014-02-25 00:41:21 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2014-02-25 00:41:43 -0500 - http://www.data.gov/privacypolicy:	404 => Net::HTTPNotFound for http://www.data.gov/privacypolicy -- unhandled response
+2014-02-25 00:41:49 -0500 - http://www.data.gov/datapolicy:	404 => Net::HTTPNotFound for http://www.data.gov/datapolicy -- unhandled response
+2014-02-25 00:41:49 -0500 - https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm:	404 => Net::HTTPNotFound for https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm -- unhandled response
+2014-02-25 00:44:13 -0500 - http://tracking.quisma.com/policy.htm:	too many connection resets (due to Timeout::Error - Timeout::Error) after 0 requests on 85319740, last used 1393307053.96353 seconds ago
+2014-02-25 00:44:21 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2014-02-25 00:44:21 -0500 - http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms -- unhandled response
+2014-02-25 00:44:53 -0500 - https://discussions.apple.com/static/apple/tutorial/tou.html:	404 => Net::HTTPNotFound for https://discussions.apple.com/static/apple/tutorial/tou.html -- unhandled response
+2014-02-25 00:44:59 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2014-02-25 00:45:44 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2014-02-25 00:45:50 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/2/:	404 => Net::HTTPNotFound for http://www.nbc.com/privacy-policy/terms-of-service/2 -- unhandled response
+2014-02-25 00:45:52 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/3/:	404 => Net::HTTPNotFound for http://www.nbc.com/privacy-policy/terms-of-service/3 -- unhandled response
+2014-02-25 00:46:06 -0500 - http://www.nature.org/aboutus/governance/privacy-policy.xml:	404 => Net::HTTPNotFound for http://www.nature.org/aboutus/governance/privacy-policy.xml -- unhandled response
+2014-02-25 00:46:33 -0500 - http://www.accesshollywood.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.accesshollywood.com/privacy-policy -- unhandled response
+2014-02-25 00:48:47 -0500 - http://www.hsbc.com/1/2/terms-and-conditions:	404 => Net::HTTPNotFound for http://www.hsbc.com/1/2/terms-and-conditions -- unhandled response
+2014-02-25 00:49:57 -0500 - http://www.carbonunity.com/privacy-policy:	404 => Net::HTTPNotFound for http://carbonunity.com/privacy-policy -- unhandled response
+2014-02-25 00:50:33 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2014-02-25 00:50:51 -0500 - https://www.change.org/static/user_agreement.html:	404 => Net::HTTPNotFound for https://www.change.org/static/user_agreement.html -- unhandled response
+2014-02-25 00:52:03 -0500 - http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage:	404 => Net::HTTPNotFound for http://www.jcpenney.com/jcp/CustomerServiceSub.aspx?CatTyp=CSR&CatID=12490&cmResetCat=True&CmCatId=homepage -- unhandled response
+2014-02-25 00:52:51 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2014-02-25 00:53:24 -0500 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/privacy/?page=privacy&cbRecursionCnt=1 -- unhandled response
+2014-02-25 00:53:44 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
