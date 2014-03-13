@@ -1,6 +1,6 @@
 <sitename name="apple.com">
  <docname name="Privacy Policy">
-   <url name="http://www.apple.com/privacy/" xpath="//div[@id='policy']" reviewed="true">
+   <url name="http://www.apple.com/legal/privacy/en-ww/" xpath="//div[@id='main']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
