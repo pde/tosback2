@@ -5,18 +5,33 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/adn.com/Privacy Policy.txt
-#	modified:   ../crawl/avis.com/Privacy Policy.txt
-#	modified:   ../crawl/drugs.com/Privacy Policy.txt
-#	modified:   ../crawl/kansascity.com/Privacy Policy.txt
+#	modified:   ../crawl/agame.com/Privacy Policy.txt
+#	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+#	modified:   ../crawl/amazon.fr/Privacy Policy.txt
+#	modified:   ../crawl/buckle.com/Privacy Policy.txt
+#	modified:   ../crawl/dell.com/Consumer Terms of Sale.txt
+#	modified:   ../crawl/en.softonic.com/Privacy Policy.txt
+#	modified:   ../crawl/fairpoint.com/Privacy Policy.txt
+#	modified:   ../crawl/ft.com/Privacy Policy.txt
+#	modified:   ../crawl/godaddy.com/Domain Name Registration Agreement.txt
+#	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
-#	modified:   ../crawl/pier1.com/Privacy Policy.txt
-#	modified:   ../crawl/seekingalpha.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/t-mobile.com/Terms and Conditions.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
 #	modified:   ../crawl/tealium.com/Privacy Policy.txt
+#	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
+#	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
 #	modified:   ../crawl/zillow.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/dropbox.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/spotify.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/spotify.com/Terms and Conditions (Mobile).txt
+#	modified:   ../crawl_reviewed/spotify.com/Terms and Conditions (Premium).txt
+#	modified:   ../crawl_reviewed/spotify.com/Terms and Conditions (Unlimited).txt
+#	modified:   ../crawl_reviewed/spotify.com/Terms and Conditions of Use.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
