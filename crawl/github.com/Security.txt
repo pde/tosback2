@@ -36,7 +36,7 @@ We do not retroactively remove repositories from backups when deleted by the use
 Any user with shell access to the file system would have access to the decryption routine, thus negating any security it provides.
 Therefore, we focus on making our machines and network as secure as possible.</p> Employee access <p>No GitHub employees ever access private repositories unless required to for support reasons.
 Staff working directly in the file store access the compressed Git database, your code is never present as plaintext files like it would be in a local clone.
-Support staff may log into your account to access settings related to your support issue.
+Support staff may sign into your account to access settings related to your support issue.
 In rare cases staff may need to pull a clone of your code, this will only be done with your consent.
 Support staff does not have direct access to clone any repository, they will need to temporarily attach their SSH key to your account to pull a clone.
 When working a support issue we do our best to respect your privacy as much as possible, we only access the files and settings needed to resolve your issue.
