@@ -2,3 +2,6 @@
 ######################
 .DS_Store
 rubycode/lib/tosback_secrets.rb
+
+# Ignore bundler config
+/.bundle
