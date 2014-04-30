@@ -9,10 +9,10 @@ To review our updated terms click here.</p>
 <strong>
 </strong>
 <br>
-<strong>THESE TERMS OF SERVICE (“TERMS”) CONSTITUTE A CONTRACT BETWEEN YOU AND ZENDESK AND GOVERN USE OF AND ACCESS TO THE SERVICE AND SITE BY YOU, AGENTS AND END-USERS WHETHER IN CONNECTION WITH A PAID SUBSCRIPTION TO THE SERVICE OR A FREE TRIAL OF THE SERVICE.</strong>
+<strong>THESE TERMS OF SERVICE (TERMS) CONSTITUTE A CONTRACT BETWEEN YOU AND ZENDESK AND GOVERN USE OF AND ACCESS TO THE SERVICE AND SITE BY YOU, AGENTS AND END-USERS WHETHER IN CONNECTION WITH A PAID SUBSCRIPTION TO THE SERVICE OR A FREE TRIAL OF THE SERVICE.</strong>
 </p>
 <p>
-<strong>By accepting these Terms, or by accessing or using the Service or Site, or authorizing or  permitting any Agent or End-User to access or use the Service, You agree to be bound by these Terms</strong>.  If You are entering into these Terms on behalf of a company, organization or another legal entity (an “<strong>Entity</strong>”), You are agreeing to these Terms for that Entity and representing to Zendesk that You have the authority to bind such Entity and its affiliates to these Terms, in which case the terms “<strong>Subscriber</strong>,” “<strong>You</strong>,” “<strong>Your</strong>” or related capitalized terms herein shall refer to such Entity and its affiliates.  If You do not have such authority, or if You do not agree with these Terms, You must not accept these Terms and may not use the Service.</p>
+<strong>By accepting these Terms, or by accessing or using the Service or Site, or authorizing or  permitting any Agent or End-User to access or use the Service, You agree to be bound by these Terms</strong>.  If You are entering into these Terms on behalf of a company, organization or another legal entity (an <strong>Entity</strong>), You are agreeing to these Terms for that Entity and representing to Zendesk that You have the authority to bind such Entity and its affiliates to these Terms, in which case the terms <strong>Subscriber</strong>, <strong>You</strong>, <strong>Your</strong> or related capitalized terms herein shall refer to such Entity and its affiliates.  If You do not have such authority, or if You do not agree with these Terms, You must not accept these Terms and may not use the Service.</p>
 <p>
 <strong>1. </strong>
 <strong>DEFINITIONS</strong>
@@ -25,10 +25,10 @@ To review our updated terms click here.</p>
 <p>
 <strong>API:  </strong>means the application programming interfaces developed and enabled by Zendesk that permits Subscriber to access certain functionality provided by the Service, including without limitation, the Zendesk REST API that enables the interaction with a Zendesk instance automatically through HTTP requests and the Zendesk application development API that enables the integration of a Zendesk instance with other web applications.</p>
 <p>
-<strong>Confidential Information:  </strong>means all information disclosed by You to Zendesk or by Zendesk to You which is in tangible form and labeled “confidential” (or with a similar legend) or which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure.  For purposes of these Terms, Your Data shall be deemed Confidential Information.  Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving party at the time of disclosure by the disclosing party.
+<strong>Confidential Information:  </strong>means all information disclosed by You to Zendesk or by Zendesk to You which is in tangible form and labeled confidential (or with a similar legend) or which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure.  For purposes of these Terms, Your Data shall be deemed Confidential Information.  Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving party at the time of disclosure by the disclosing party.
 (b) was or is obtained by the receiving party by a third party not known by the receiving party to be under an obligation of confidentiality with respect to such information.
 (c) is or becomes generally available to the public other than by violation of these Terms.
-or (d)  was or is independently developed by the receiving party without use of the disclosing party’s Confidential Information.</p>
+or (d)  was or is independently developed by the receiving party without use of the disclosing partys Confidential Information.</p>
 <p>
 <strong>Documentation</strong>:  means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Service provided or made available by Zendesk to You, Agents or End-Users through the Site or otherwise.</p>
 <p>
@@ -38,7 +38,7 @@ or (d)  was or is independently developed by the receiving party without use of
 <p>
 <strong>Other Services</strong>:  means third party products, applications, services, software, products, networks, systems, directories, websites, databases and information which the Service links to, or which You may connect to or enable in conjunction with the Service, including, without limitation, certain Other Services which may be integrated directly into Your Zendesk Service.</p>
 <p>
-<strong>Service</strong>:  means the on-demand Zendesk customer service solution and tools provided by Zendesk, including, individually and collectively, Software, the API and any Documentation.  Any new or modified features added to or augmenting the Service or updates or enhancements to the Service (“<strong>Updates</strong>”) are also subject to these Terms and We reserve the right to deploy Updates at any time.</p>
+<strong>Service</strong>:  means the on-demand Zendesk customer service solution and tools provided by Zendesk, including, individually and collectively, Software, the API and any Documentation.  Any new or modified features added to or augmenting the Service or updates or enhancements to the Service (<strong>Updates</strong>) are also subject to these Terms and We reserve the right to deploy Updates at any time.</p>
 <p>
 <strong>Service Plan</strong>:  means the service plan and the functionality and services associated therewith  (as detailed on the Site) for which You subscribe with respect to each Agent.</p>
 <p>
@@ -50,7 +50,7 @@ or (d)  was or is independently developed by the receiving party without use of
 <p>
 <strong>Your Data</strong>:  means all electronic data, text, messages or other materials submitted to the Service by You, Agents and End-Users in connection with Your use of the Service.</p>
 <p>
-<strong>Zendesk</strong>:  means Zendesk, Inc., a Delaware corporation or any of its successors or assignees.  In these Terms, Zendesk may also be referred to through the use of “<strong>We</strong>” or “<strong>Our</strong>.”</p>
+<strong>Zendesk</strong>:  means Zendesk, Inc., a Delaware corporation or any of its successors or assignees.  In these Terms, Zendesk may also be referred to through the use of <strong>We</strong> or <strong>Our</strong>.</p>
 <p>
 <strong>2.
 GENERAL CONDITIONS.
@@ -69,23 +69,23 @@ We assume no responsibility for the reliability or performance of any connection
 <strong>2.3</strong> You agree not to (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Service available to any third party, other than authorized Agents and End Users in furtherance of Your internal business purposes as expressly permitted by these Terms.
 (b) use the Service to process data on behalf of any third party other than Agents or End Users.
 (c) modify, adapt, or hack the Service or otherwise attempt to gain unauthorized access to the Service or related systems or networks.
-(d) falsely imply any sponsorship or association with Zendesk, (e) use the Service in any unlawful manner, including but not limited to violation of any person’s privacy rights.
+(d) falsely imply any sponsorship or association with Zendesk, (e) use the Service in any unlawful manner, including but not limited to violation of any persons privacy rights.
 (f) use the Service to send unsolicited or unauthorized junk mail, spam, pyramid schemes or other forms of duplicative or unsolicited messages.
- (g) use the Service to store or transmit files, materials, data, text, audio, video, images or other content that infringes on any person’s intellectual property rights.
+ (g) use the Service to store or transmit files, materials, data, text, audio, video, images or other content that infringes on any persons intellectual property rights.
 (h) use the Service in any manner that interferes with or disrupts the integrity or performance of the Service and its components.
 (i) attempt to decipher, decompile, reverse engineer or otherwise discover the source code of any software making up the Service.
 (j) use the Service to knowingly post, transmit, upload, link to, send or store any content that is unlawful, racist, hateful, abusive, libelous, obscene, or discriminatory.
-(k) use the Service to store or transmit any “protected health information” as that term is defined in 45 C.F.R.
+(k) use the Service to store or transmit any protected health information as that term is defined in 45 C.F.R.
 160.103.
-(l) use the Service to knowingly post transmit, upload, link to, send or store any viruses, malware, Trojan horses, time bombs, or any other similar harmful software (“<strong>Malicious Software</strong>”).
+(l) use the Service to knowingly post transmit, upload, link to, send or store any viruses, malware, Trojan horses, time bombs, or any other similar harmful software (<strong>Malicious Software</strong>).
 or (m) try to use, or use the Service in violation of these Terms.</p>
 <p>
 <strong>2.4</strong> You are responsible for compliance with the provisions of these Terms by Agents and End Users and for any and all activities that occur under Your Account, as well as for all Your Data.  Without limiting the foregoing, You are solely responsible for ensuring that use of the Service to store and transmit Your Data is compliant with all applicable laws and regulations.  You also maintain all responsibility for determining whether the Service or the information generated thereby is accurate or sufficient for Your purposes.
-Subject to any limitation on the number of individual Agents available under the Service Plan for which You subscribed, access to and use of the Service is restricted to the specified number of individual Agents permitted under Your subscription to the Service.   You agree and acknowledge that each Agent will be identified by a unique username and password (“<strong>Login</strong>”) and that an Agent Login may only be used by one (1) individual.
+Subject to any limitation on the number of individual Agents available under the Service Plan for which You subscribed, access to and use of the Service is restricted to the specified number of individual Agents permitted under Your subscription to the Service.   You agree and acknowledge that each Agent will be identified by a unique username and password (<strong>Login</strong>) and that an Agent Login may only be used by one (1) individual.
 You will not share an Agent Login among multiple individuals.
 The foregoing shall not be deemed to limit Your use of Our Multi-Branding and Light Agent features if Your Service Plan includes these features.  You and Your Agents are responsible for maintaining the confidentiality of all Login information for Your Account.</p>
 <p>
-<strong>2.5</strong> In addition to Our rights as set forth in Section 8.4, Zendesk reserves the right, in Zendesk’s reasonable discretion, to temporarily suspend Your access to and use of the Service:  (a) during planned downtime for upgrades and maintenance to the Service (of which Zendesk will use commercially reasonable efforts to notify You in advance both through Our forum page and a notice to Your Account owner and Agents) (“<strong>Planned Downtime</strong>”).
+<strong>2.5</strong> In addition to Our rights as set forth in Section 8.4, Zendesk reserves the right, in Zendesks reasonable discretion, to temporarily suspend Your access to and use of the Service:  (a) during planned downtime for upgrades and maintenance to the Service (of which Zendesk will use commercially reasonable efforts to notify You in advance both through Our forum page and a notice to Your Account owner and Agents) (<strong>Planned Downtime</strong>).
 (b) during any unavailability caused by circumstances beyond Our reasonable control, such as, but not limited to, acts of God, acts of government, acts of terror or civil unrest, technical failures beyond Our reasonable control (including, without limitation, inability to access the Internet), or acts undertaken by third parties, including without limitation, distributed denial of service attacks.
 or (c) if We suspect or detect any Malicious Software connected to Your Account or use of the Service by You, Agents or End Users.  We will use commercially reasonable efforts to schedule Planned Downtime for weekends (Pacific time zone) and other off-peak hours.</p>
 <p>
@@ -94,14 +94,14 @@ DATA PRIVACY AND SECURITY.
 CONFIDENTIALITY</strong>
 </p>
 <p>
-<strong>3.1</strong> Subject to the express permissions of these Terms, You and Zendesk will protect each other’s Confidential Information from unauthorized use, access or disclosure in the same manner as each protects its own Confidential Information, but with no less than reasonable care.  Except as otherwise expressly permitted pursuant to these Terms, each of us may use each other’s Confidential Information solely to exercise our respective rights and perform our respective obligations under these Terms and shall disclose such Confidential Information solely to those of our respective employees, representatives and agents who have a need to know such Confidential Information for such purposes and who are bound to maintain the confidentiality of, and not misuse, such Confidential Information.</p>
+<strong>3.1</strong> Subject to the express permissions of these Terms, You and Zendesk will protect each others Confidential Information from unauthorized use, access or disclosure in the same manner as each protects its own Confidential Information, but with no less than reasonable care.  Except as otherwise expressly permitted pursuant to these Terms, each of us may use each others Confidential Information solely to exercise our respective rights and perform our respective obligations under these Terms and shall disclose such Confidential Information solely to those of our respective employees, representatives and agents who have a need to know such Confidential Information for such purposes and who are bound to maintain the confidentiality of, and not misuse, such Confidential Information.</p>
 <p>
 <strong>3.2</strong> Zendesk will maintain commercially reasonable administrative, physical and technical safeguards to protect the security, confidentiality and integrity of Your Data.
 These safeguards include encryption of Your Data in transmission (using SSL or similar technologies), except for certain Other Services that do not support encryption, which You may link to through Service at Your election.  Our compliance with the provisions of this Section 3.2 shall be deemed compliance with Our obligations to protect Your Data as set forth in Section 3.1.</p>
 <p>
 <strong>3.3</strong> You agree that Zendesk and the service providers We use to assist in providing the Service to You shall have the right to access Your Account and to use, modify, reproduce, distribute, display and disclose Your Data solely to the extent necessary to provide the Service, including, without limitation, in response to Your support requests.  Any third party service providers We utilize will only be given access to Your Account and Your Data as is reasonably necessary to provide the Service and will be subject to confidentiality obligations.</p>
 <p>Zendesk may also access or disclose information about You, Your Account, Agents or End Users, including Your Data, in order to (a) comply with the law or respond to lawful requests or legal process.
-(b) protect Zendesk’s or its customers’ or partners’ rights or property, including enforcement of these Terms or other policies associated with the Service.
+(b) protect Zendesks or its customers or partners rights or property, including enforcement of these Terms or other policies associated with the Service.
 (c) act on a good faith belief that such disclosure is necessary to protect personal safety or avoid violation of applicable law or regulation.</p>
 <p>
 <strong>3.4</strong> We collect certain information about You, Agents and End Users as well as Your and their respective devices, computers and use of the Service.  We use, disclose, and protect this information as described in Our Privacy Policy, the then-current version of which is available at www.zendesk.com/privacy and is incorporated into the Terms.</p>
@@ -109,10 +109,10 @@ These safeguards include encryption of Your Data in transmission (using SSL or s
 <strong>4.
 INTELLECTUAL PROPERTY RIGHTS</strong>
 </p>
-<p>Each of us shall maintain all rights, title and interest in and to all our respective patents, inventions, copyrights, trademarks, domain names, trade secrets, know-how and any other intellectual property and/or proprietary rights (collectively, “<strong>Intellectual Property Rights</strong>”).
+<p>Each of us shall maintain all rights, title and interest in and to all our respective patents, inventions, copyrights, trademarks, domain names, trade secrets, know-how and any other intellectual property and/or proprietary rights (collectively, <strong>Intellectual Property Rights</strong>).
 The rights granted to You, Agents and End Users to use the Service under these Terms do not convey any additional rights in the Service, or in any Intellectual Property Rights associated therewith.
 Subject only to limited rights to access and use the Service as expressly herein, all rights, title and interest in and to the Service and all hardware, software and other components of or used to provide the Service, including all related intellectual property rights, will remain with and belong exclusively to Zendesk.  Zendesk shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Service or otherwise use any suggestions, enhancement requests, recommendations or other feedback We receive from You, Agents or End Users.
-Zendesk®, and Zendesk’s other product and service names, and logos used or displayed on the Service are registered or unregistered trademarks of Zendesk (collectively, “<strong>Marks</strong>”), and You may only use such Marks to identify You as a Subscriber.
+Zendesk®, and Zendesks other product and service names, and logos used or displayed on the Service are registered or unregistered trademarks of Zendesk (collectively, <strong>Marks</strong>), and You may only use such Marks to identify You as a Subscriber.
 provided You do not attempt, now or in the future, to claim any rights in the Marks, degrade the distinctiveness of the Marks, or use the Marks to disparage or misrepresent Zendesk, its services or products.</p>
 <p>
 <strong>5.
@@ -125,24 +125,24 @@ Zendesk is not liable for any damage or loss caused or alleged to be caused by o
 <strong>6.
 VOICE FUNCTIONALITY</strong>
 </p>
-<p>If Your Service Plan and subscription to the Service allows You to use the Zendesk Voice™ service, You understand and agree that (a) the Service is not intended to support or carry emergency calls to any emergency services such as public safety answering points, (b) Zendesk will not be held liable for any claim, damages or loss (and You hereby waive any and all such claims or causes of action), arising from or relating to Your (or Agents or End Users) inability to use the Service to make such emergency calls, (c) You are solely responsible for Your operation of Zendesk Voice in compliance with all applicable laws in all jurisdictions governing use of the Service by You, Agents and End Users, including but not limited to telephone recording and wiretapping laws, and (d) You will defend, hold harmless and indemnify Zendesk from and against any third party claim arising from any of the foregoing.
+<p>If Your Service Plan and subscription to the Service allows You to use the Zendesk Voice service, You understand and agree that (a) the Service is not intended to support or carry emergency calls to any emergency services such as public safety answering points, (b) Zendesk will not be held liable for any claim, damages or loss (and You hereby waive any and all such claims or causes of action), arising from or relating to Your (or Agents or End Users) inability to use the Service to make such emergency calls, (c) You are solely responsible for Your operation of Zendesk Voice in compliance with all applicable laws in all jurisdictions governing use of the Service by You, Agents and End Users, including but not limited to telephone recording and wiretapping laws, and (d) You will defend, hold harmless and indemnify Zendesk from and against any third party claim arising from any of the foregoing.
 Zendesk may disable the phone numbers provided to You if unused or substantially underused for 60 days, or if Your subscription to the Service, Account or rights to access and/or use the Service is otherwise suspended, terminates or cancelled.  Use of Zendesk Voice is subject to the payment of additional fees and charges, including, without limitation, the phone call rates as detailed on the Site.</p>
 <p>
 <strong>7.
 BILLING, PLAN MODIFICATIONS AND PAYMENTS</strong>
 </p>
 <p>
-<strong>7.1  </strong>Unless otherwise indicated on a Form referencing these Terms and subject to Section 7.2, all charges associated with Your access to and use of the Service (“<strong>Subscription Charges</strong>”) are due in full upon commencement of Your Subscription Term.
+<strong>7.1  </strong>Unless otherwise indicated on a Form referencing these Terms and subject to Section 7.2, all charges associated with Your access to and use of the Service (<strong>Subscription Charges</strong>) are due in full upon commencement of Your Subscription Term.
 If You fail to pay Your Subscription Charges or charges for other services indicated on any Form referencing these Terms within five (5) business days of Our notice to You that payment is due or delinquent, or if You do not update payment information upon Our request, in addition to Our other remedies, We may suspend or terminate access to and use of the Service by You, Agents and End Users.</p>
 <p>
-<strong>7.2 </strong> If You choose to upgrade Your Service Plan or increase the number of authorized Agents during Your Subscription Term (a “<strong>Subscription Upgrade</strong>”), any incremental Subscription Charges associated with such Subscription Upgrade will be prorated over the remaining period of Your then current Subscription Term, charged to Your Account and due and payable upon implementation of such Subscription Upgrade.
+<strong>7.2 </strong> If You choose to upgrade Your Service Plan or increase the number of authorized Agents during Your Subscription Term (a <strong>Subscription Upgrade</strong>), any incremental Subscription Charges associated with such Subscription Upgrade will be prorated over the remaining period of Your then current Subscription Term, charged to Your Account and due and payable upon implementation of such Subscription Upgrade.
  In any future Subscription Term, Your Subscription Charges will reflect any such Subscription Upgrades.</p>
 <p>
 <strong>7.3</strong>  No refunds or credits for Subscription Charges or other fees or payments will be provided to You if You elect to downgrade Your Service Plan.
 Downgrading Your Service Plan may cause loss of content, features, or capacity of the Service as available to You under Your Account, and Zendesk does not accept any liability for such loss.
 Zendesk reserves the right to contact You about special pricing if You maintain an exceptionally high number of End Users, an unusually high monthly ticket ratio per Agent, an unusually high level of open tickets or other excessive stress on the Service.</p>
 <p>
-<strong>7.4  </strong>Unless otherwise stated, Our charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively “<strong>Taxes</strong>”).
+<strong>7.4  </strong>Unless otherwise stated, Our charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively <strong>Taxes</strong>).
 You are responsible for paying Taxes except those assessable against Zendesk based on its income.
 We will invoice You for such Taxes if We believe We have a legal obligation to do so and You agree to pay such Taxes if so invoiced.</p>
 <p>
@@ -164,14 +164,14 @@ Your Data cannot be recovered once Your Account is cancelled.</p>
 </strong>
 </p>
 <p>
-<strong>8.4</strong> Zendesk reserves the right to modify, suspend or terminate the Service (or any part thereof), Your Account or Your and/or Agents’ or End Users’ rights to access and use the Service, and remove, disable and discard any of Your Data if We believe that You, Agents or End Users have violated these Terms.  This includes the removal or disablement of Your Data in accordance with Our Copyright Infringement Notice and Takedown Policy available at www.zendesk.com/company/ippolicy.
+<strong>8.4</strong> Zendesk reserves the right to modify, suspend or terminate the Service (or any part thereof), Your Account or Your and/or Agents or End Users rights to access and use the Service, and remove, disable and discard any of Your Data if We believe that You, Agents or End Users have violated these Terms.  This includes the removal or disablement of Your Data in accordance with Our Copyright Infringement Notice and Takedown Policy available at www.zendesk.com/company/ippolicy.
 Unless legally prohibited from doing so, Zendesk will use commercially reasonable efforts to contact You directly via email to notify You when taking any of the foregoing actions.
 Zendesk shall not be liable to You, Agents, End Users or any other third party for any such modification, suspension or discontinuation of Your rights to access and use the Service.  Any suspected fraudulent, abusive, or illegal activity by You, Agents or End Users may be referred to law enforcement authorities at Our sole discretion.</p>
 <p>
 <strong>9.
 DISCLAIMER OF WARRANTIES</strong>
 </p>
-<p>THE SITE AND THE SERVICE, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND ZENDESK EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+<p>THE SITE AND THE SERVICE, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN AS IS AND AS AVAILABLE BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND ZENDESK EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 YOU ACKNOWLEDGE THAT ZENDESK DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES OR OTHER MALICIOUS SOFTWARE, AND NO INFORMATION OR ADVICE OBTAINED BY YOU FROM ZENDESK OR THROUGH THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.</p>
 <p>
 <strong>10.
@@ -180,20 +180,20 @@ LIMITATION OF LIABILITY</strong>
 <p>
 <strong>10.1 </strong>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE) WILL EITHER PARTY TO THESE TERMS, OR THEIR AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS OR LICENSORS BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, PUNITIVE OR OTHER SIMILAR DAMAGES, INCLUDING LOST PROFITS, LOST SALES OR BUSINESS, LOST DATA, BUSINESS INTERRUPTION OR ANY OTHER LOSS INCURRED BY SUCH PARTY OR THIRD PARTY IN CONNECTION WITH THESE TERMS OR THE SERVICE, REGARDLESS OF WHETHER SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF OR COULD HAVE FORESEEN SUCH DAMAGES.</p>
 <p>
-<strong>10.2 </strong>NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THESE TERMS, ZENDESK’S AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY ARISING OUT OF THESE TERMS OR OTHERWISE IN CONNECTION WITH ANY SUBSCRIPTION TO, OR USE OR EMPLOYMENT OF THE SERVICE, SHALL IN NO EVENT EXCEED THE SUBSCRIPTION CHARGES PAID BY YOU DURING THE TWELVE (12) MONTHS PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
+<strong>10.2 </strong>NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THESE TERMS, ZENDESKS AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY ARISING OUT OF THESE TERMS OR OTHERWISE IN CONNECTION WITH ANY SUBSCRIPTION TO, OR USE OR EMPLOYMENT OF THE SERVICE, SHALL IN NO EVENT EXCEED THE SUBSCRIPTION CHARGES PAID BY YOU DURING THE TWELVE (12) MONTHS PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
 YOU ACKNOWLEDGE AND AGREE THAT THE ESSENTIAL PURPOSE OF THIS SECTION 10.2 IS TO ALLOCATE THE RISKS UNDER THESE TERMS BETWEEN THE PARTIES AND LIMIT POTENTIAL LIABILITY GIVEN THE SUBSCRIPTION CHARGES, WHICH WOULD HAVE BEEN SUBSTANTIALLY HIGHER IF ZENDESK WERE TO ASSUME ANY FURTHER LIABILITY OTHER THAN AS SET FORTH HEREIN.
 ZENDESK HAS RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO PROVIDE YOU THE RIGHTS TO ACCESS AND USE THE SERVICE PROVIDED FOR IN THESE TERMS.</p>
 <p>
 <strong>10.3</strong> Some jurisdictions do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply to You.
-IN THESE JURISDICTIONS, ZENDESK’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.</p>
+IN THESE JURISDICTIONS, ZENDESKS LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.</p>
 <p>
 <strong>11.
 INDEMNIFICATION</strong>
 </p>
 <p>
-<strong>11.1 </strong>Zendesk will indemnify and hold You harmless, from and against any claim against You by reason of Your use of the Service as permitted hereunder, brought by a third party alleging that the Service infringes or misappropriates a third party’s valid patent, copyright, trademark or trade secret (an “<strong>IP Claim</strong>”).
+<strong>11.1 </strong>Zendesk will indemnify and hold You harmless, from and against any claim against You by reason of Your use of the Service as permitted hereunder, brought by a third party alleging that the Service infringes or misappropriates a third partys valid patent, copyright, trademark or trade secret (an <strong>IP Claim</strong>).
 Zendesk shall, at its expense, defend such IP Claim and pay damages finally awarded against You in connection therewith, including the reasonable fees and expenses of the attorneys engaged by Zendesk for such defense, provided that (a) You promptly notify Zendesk of the threat or notice of such IP Claim, (b) Zendesk will have the sole and exclusive control and authority to select defense attorneys, defend and/or settle any such IP Claim, and (c) You fully cooperate with Zendesk in connection therewith.
-If use of the Service by You, Agents or End Users has become, or in Zendesk’s opinion is likely to become, the subject of any such IP Claim, Zendesk may at its option and expense (a) procure for You the right to continue using the Service as set forth hereunder.
+If use of the Service by You, Agents or End Users has become, or in Zendesks opinion is likely to become, the subject of any such IP Claim, Zendesk may at its option and expense (a) procure for You the right to continue using the Service as set forth hereunder.
 (b) replace or modify the Service to make it non-infringing.
 or (c) if options (a) or (b) are not commercially and reasonably practicable as determined by Zendesk, terminate Your subscription to the Service and repay You, on a pro-rated basis, any Subscription Charges previously paid to Zendesk for the corresponding unused portion of Your Subscription Term.
 Zendesk will have no liability or obligation under this Section 11.1 with respect to any IP Claim if such claim is caused in whole or in part by (i) compliance with designs, data, instructions or specifications provided by You.
@@ -212,12 +212,12 @@ ENTIRE AGREEMENT.
 REVISIONS</strong>
 </p>
 <p>
-<strong>12.1  </strong>You may not, directly or indirectly, by operation of law or otherwise, assign all or any part of these Terms or Your rights under these Terms or delegate performance of Your duties under these Terms without Zendesk’s prior consent, which consent will not be unreasonably withheld.
+<strong>12.1  </strong>You may not, directly or indirectly, by operation of law or otherwise, assign all or any part of these Terms or Your rights under these Terms or delegate performance of Your duties under these Terms without Zendesks prior consent, which consent will not be unreasonably withheld.
 We may, without Your consent, assign Our agreement with You to any affiliate or in connection with any merger or change of control of Zendesk or the sale of all or substantially all of Our assets provided that any such successor agrees to fulfill its obligations pursuant to these Terms.
 Subject to the foregoing restrictions, these Terms will be fully binding upon, inure to the benefit of and be enforceable by the parties and their respective successors and assigns.</p>
 <p>
 <strong>12.2  </strong>These Terms, together with any Form(s), constitute the entire agreement, and supersede any and all prior agreements between You and Zendesk with regard to the subject matter hereof.  We may amend these Terms from time to time, in which case the new Terms will supersede prior versions.
-We will notify You not less than ten (10) days prior to the effective date of any such amendment and Your continued use of the Service following the effective date of any such amendment may be relied upon by Zendesk as Your consent to any such amendment.  Zendesk’s failure to enforce at any time any provision of these Terms does not constitute a waiver of that provision or of any other provision of the Terms.</p>
+We will notify You not less than ten (10) days prior to the effective date of any such amendment and Your continued use of the Service following the effective date of any such amendment may be relied upon by Zendesk as Your consent to any such amendment.  Zendesks failure to enforce at any time any provision of these Terms does not constitute a waiver of that provision or of any other provision of the Terms.</p>
 <p>
 <strong>13.
 SEVERABILITY</strong>
@@ -231,7 +231,7 @@ EXPORT COMPLIANCE AND USE RESTRICTIONS</strong>
 export control and economic sanctions laws.
 You agree to comply with all such laws and regulations as they relate to access to and use of the Service, Software and such other components by You, Agents and End Users.
 You shall not access or use the Service if You are located in any jurisdiction in which the provision of the Service, Software or other components is prohibited under U.S.
-or other applicable laws or regulations (a “<strong>Prohibited Jurisdiction</strong>”) and You shall not provide access to the Service to any government, entity or individual located in any Prohibited Jurisdiction.  You represent, warrant and covenant that (i) You are not named on any U.S.
+or other applicable laws or regulations (a <strong>Prohibited Jurisdiction</strong>) and You shall not provide access to the Service to any government, entity or individual located in any Prohibited Jurisdiction.  You represent, warrant and covenant that (i) You are not named on any U.S.
 government list of persons or entities prohibited from receiving U.S.
 exports, or transacting with any U.S.
 person, (ii) You are not a national of, or a company registered in, any Prohibited Jurisdiction, (iii) You shall not permit Agents or End Users to access or use the Service in violation of any U.S.
@@ -246,14 +246,14 @@ These Terms do not create a partnership, franchise, joint venture, agency, fiduc
 <strong>16.
 SURVIVAL</strong>
 </p>
-<p>Sections 1, 3, 4 and 9-19 shall survive any termination of our agreement with respect to use of the Service by You, Agents or End Users.  Termination of such agreement shall not limit Your or Zendesk’s liability for obligations accrued as of or prior to such termination or for any breach of these Terms.<strong>
+<p>Sections 1, 3, 4 and 9-19 shall survive any termination of our agreement with respect to use of the Service by You, Agents or End Users.  Termination of such agreement shall not limit Your or Zendesks liability for obligations accrued as of or prior to such termination or for any breach of these Terms.<strong>
 </strong>
 </p>
 <p>
 <strong>17.
 NOTICE</strong>
 </p>
-<p>All notices to be provided by Zendesk to You under these Terms may be delivered in writing (i) by nationally recognized overnight delivery service (“<strong>Courier</strong>”) or US mail to the contact mailing address provided by You on any Form.
+<p>All notices to be provided by Zendesk to You under these Terms may be delivered in writing (i) by nationally recognized overnight delivery service (<strong>Courier</strong>) or US mail to the contact mailing address provided by You on any Form.
 or (ii) electronic mail to the electronic mail address provided for Your Account owner.
 You must give notice to us in writing by Courier or US Mail to the following address:  Zendesk, Inc., Attn:  Legal Department, 989 Market St., Suite 300, San Francisco, CA  94103 USA.  All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.</p>
 <p>
@@ -267,8 +267,8 @@ You hereby expressly agree to submit to the exclusive personal jurisdiction of t
 FEDERAL GOVERNMENT END USE PROVISIONS</strong>
 </p>
 <p>If You are a U.S.
-federal government department or agency or contracting on behalf of such department or agency, this Service is a “Commercial Item” as that term is defined at 48 C.F.R.
-§2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as those terms are used in 48 C.F.R.
+federal government department or agency or contracting on behalf of such department or agency, this Service is a Commercial Item as that term is defined at 48 C.F.R.
+§2.101, consisting of Commercial Computer Software and Commercial Computer Software Documentation, as those terms are used in 48 C.F.R.
 §12.212 or 48 C.F.R.
 §227.7202.
 Consistent with 48 C.F.R.
