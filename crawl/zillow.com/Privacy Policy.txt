@@ -24,10 +24,10 @@ Rentals
 <ul>
 <li> Apartments For Rent</li>
 <li> Houses For Rent</li>
-<li>Rental IQ Quiz</li>
 </ul>
 <dl>
 <dd>Renter's Guide</dd>
+<dd>Rental IQ Quiz</dd>
 </dl>
 <dl>
 <dd>Post a Rental For Free</dd>
@@ -70,7 +70,7 @@ Advice
 <dt>Education Guides</dt>
 <dd>Foreclosure Center</dd>
 <dd>Mortgage Education Center</dd>
-<dd>Buyers Guide</dd>
+<dd>Buyer's Guide</dd>
 <dd>Zillow Help Center</dd>
 </dl>
 </li>
@@ -89,7 +89,7 @@ Find a Pro
 </dd>
 <dt>Marketing on Zillow</dt>
 <dd> Real Estate Agent Advertising </dd>
-<dd> Join the Professional Directory </dd>
+<dd>Join the Professional Directory</dd>
 </dl>
 </li>
 <li>
@@ -131,8 +131,7 @@ Data</li>
 </li>
 </ul>
 <ul>
-<li>
-For Pros <ul>
+<li> For Pros <ul>
 <li>Agents</li>
 <li>Rental Pro</li>
 </ul>
