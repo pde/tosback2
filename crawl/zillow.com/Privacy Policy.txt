@@ -13,7 +13,10 @@ Homes
 <li>Browse All Homes</li>
 </ul>
 <dl>
-<dd>Post a Home For Free</dd>
+<dt>Post a Home For Free</dt>
+<dd>For Sale by Owner</dd>
+<dd>For Sale by Agent</dd>
+<dd>Make Me Move</dd>
 </dl>
 </li>
 <li>
@@ -35,51 +38,24 @@ Mortgages
 <ul>
 <li> Mortgage Rates</li>
 <li> Refinance</li>
+<li>Get Pre-Approved</li>
 </ul>
 <dl>
 <dt>Calculators</dt>
 <dd>Mortgage Calculator</dd>
 <dd>Refinance Calculator</dd>
 <dd>Affordability Calculator</dd>
-<dd>See All</dd>
 </dl>
 <dl>
-<dt>Resources</dt>
-<dd>Mortgage Education Center</dd>
-<dd>HARP Program</dd>
+<dt>Popular</dt>
 <dd>FHA Loan</dd>
 <dd>Home Equity Loan</dd>
 </dl>
-</li>
-<li>
-Agents
 <dl>
-<dt>Find Trusted Pros</dt>
-<dd> Real Estate Agents </dd>
-<dd> Mortgage Lenders </dd>
-<dd> Property Managers </dd>
-<dd> Home Improvement Pros </dd>
-<dd> Review an Agent, Lender or Pro </dd>
-</dl>
-<dl>
-<dd>
-</dd>
-<dt>For Agents</dt>
-<dd> Real Estate Agent Advertising </dd>
-<dd>Join the Agent Directory</dd>
-<dd>Access Agent Hub</dd>
-</dl>
-<dl>
-<dd>
-</dd>
-<dt>For Rental Pros</dt>
-<dd> Real Estate Advertising </dd>
-</dl>
-<dl>
-<dd>
-</dd>
-<dt>For Pros</dt>
-<dd> Join the Professional Directory </dd>
+<dt>Tools</dt>
+<dd>Get Custom Quotes</dd>
+<dd>HARP Program</dd>
+<dd>Mortgage Education Center</dd>
 </dl>
 </li>
 <li>
@@ -100,14 +76,32 @@ Advice
 </dl>
 </li>
 <li>
-Local<dl>
+Find a Pro
+<dl>
+<dt>Find a Real Estate Professional</dt>
+<dd> Real Estate Agents </dd>
+<dd> Mortgage Lenders </dd>
+<dd> Property Managers </dd>
+<dd> Home Improvement Pros </dd>
+<dd> Review an Agent, Lender or Pro </dd>
+</dl>
+<dl>
+<dd>
+</dd>
+<dt>Marketing on Zillow</dt>
+<dd> Real Estate Agent Advertising </dd>
+<dd>Join the Professional Directory</dd>
+</dl>
+</li>
+<li>
+Local Info<dl>
 <dt>Popular</dt>
 <dd>Real Estate Market Reports</dd>
 <dd>Compare Places</dd>
 </dl>
 </li>
 <li>
-Remodel<ul>
+Home Design<ul>
 <li>Bathrooms</li>
 <li>Bedrooms</li>
 <li>Gardens</li>
@@ -115,13 +109,17 @@ Remodel<ul>
 <li>Living Rooms</li>
 </ul>
 </li>
-<li> More <dl>
-<dt>Guides</dt>
-<dd>Foreclosure Center</dd>
-<dd>Mortgage Education Center</dd>
-<dd>Buyer's Guide</dd>
-<dd>Renter's Guide</dd>
-</dl>
+<li> More <ul>
+<li>Mobile</li>
+<li>What Zillow Offers</li>
+<li>Real Estate Advertising</li>
+<li>Widgets, Badges &amp.
+Data</li>
+<li>Zillow Visuals</li>
+<li>Zillow Research</li>
+<li>Zillow TV Spots</li>
+<li>Help</li>
+</ul>
 <dl>
 <dt>
 <strong>Blogs</strong>
@@ -130,28 +128,17 @@ Remodel<ul>
 <dd>Zillow Pros Blog</dd>
 <dd>Zillow Engineering</dd>
 </dl>
-<dl>
-<dt>
-<strong>More</strong>
-</dt>
-<dd>Real Estate Advertising</dd>
-<dd>Advertising Solutions</dd>
-<dd>Zillow Visuals</dd>
-<dd>Zillow Research</dd>
-<dd>Zillow TV Spots</dd>
-<dd>Widgets, Badges &amp.
-Data</dd>
-<dd>Zillow Mobile Apps</dd>
-<dd>Help</dd>
-</dl>
 </li>
 </ul>
 <ul>
-<li>For Agents </li>
+<li> For Pros <ul>
+<li>Agents</li>
+<li>Rental Pro</li>
+</ul>
+</li>
 <li>
 Sign InorJoin
 </li>
-<li>?</li>
 </ul> Find home values and listings Location: Search <ul>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
