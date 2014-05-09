@@ -63,4 +63,10 @@ class TOSBackNotifier
     end
   end # send_notification_emails
     
+  def write_notifications
+    if @changes.length > 0
+      changes = @changes.join("\n")
+      TOSBackApp.log_stuff("Changes that would have been sent:\n#{changes}",$dev_log)
+    end
+  end #write_notifications
 end

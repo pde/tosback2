@@ -27,6 +27,13 @@ class TOSBackApp
     git_commit
     $notifier.send_notifications
   end
+
+  def run_app_dev
+    scrape_docs
+    check_notify_for_docs
+    write_docs
+    $notifier.write_notifications
+  end
   
   def git_commit
     io = IO.popen("git add #{$reviewed_crawl_path}")

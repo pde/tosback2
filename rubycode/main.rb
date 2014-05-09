@@ -18,6 +18,7 @@ $error_log = "errors.log"
 $run_log = "run.log"
 $modified_log = "modified.log"
 $empty_log = "empty.log"
+$dev_log = "dev.log"
 $notifier = TOSBackNotifier.instance
 
 if ARGV.length == 0
@@ -31,6 +32,10 @@ elsif ARGV[0] == "-empty"
   
   TOSBackApp.find_empty_crawls($results_path,512)
 
+elsif ARGV[0] == "-dev"
+  tba = TOSBackApp.new($rules_path)
+  
+  tba.run_app_dev
 else
   filecontent = File.open(ARGV[0])
   ngxml = Nokogiri::XML(filecontent)
