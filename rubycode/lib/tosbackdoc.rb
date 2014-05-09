@@ -73,23 +73,26 @@ class TOSBackDoc
   end #puts_doc
   
   def download_full_page()
-    mech = Mechanize.new { |agent| 
-      agent.user_agent_alias = 'Mac FireFox'
-      agent.post_connect_hooks << lambda { |_,_,response,_|
-        if response.content_type.nil? || response.content_type.empty?
-          response.content_type = 'text/html'
-        end
-      }
-      agent.ssl_version = 'SSLv3'
-      agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
-      agent.agent.http.reuse_ssl_sessions = false
-    }
-    # gonext = nil
-
     begin
-      @newdata = mech.get(@url)
+      #Mechanize.start closes any persistent network connections
+      #http://mechanize.rubyforge.org/Mechanize.html#method-c-start
+      Mechanize.start do |agent| 
+        agent.user_agent_alias = 'Mac FireFox'
+        agent.post_connect_hooks << lambda { |_,_,response,_|
+          if response.content_type.nil? || response.content_type.empty?
+            response.content_type = 'text/html'
+          end
+        }
+        agent.max_history = 0
+        agent.ssl_version = 'SSLv3'
+        agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
+        agent.agent.http.reuse_ssl_sessions = false
+
+        @newdata = agent.get(@url)
+      end # Mechanize.start
     rescue => e
       TOSBackApp.log_stuff("#{url}:\t#{e.message}",$error_log)
+      #TOSBackApp.log_stuff("#{url}:\t#{e.message}\n#{e.backtrace.join("\n")}",$dev_log)
     end
   end #download_full_page
   
