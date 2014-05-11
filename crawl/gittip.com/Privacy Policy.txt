@@ -1,5 +1,5 @@
  Privacy Policy <p>
-<i>Last Updated: April 9, 2013</i>
+<i>Last Updated: May 9, 2014</i>
 </p>
 <p>This Privacy Policy ("Policy") explains how your personal information is
 collected, used and disclosed by Gittip, LLC and its subsidiaries and
@@ -86,8 +86,15 @@ Balanced Payments provides payment processing.</li>
 <li>
 Google Analytics provides website traffic analysis.</li>
 <li>
+Segment.io provides an abstraction layer service for website analytics.</li>
+<li>
 Heroku provides website and database hosting.</li>
 </ul>
+<p>Gittip supports "Do Not Track"
+(DNT), which a privacy setting in many browsers.
+Enabling your browser's DNT
+settings ensures that Gittip will disable any use of third-party analytics
+services.</p>
 <p>We may also share your information as follows:</p>
 <ul>
 <li>to comply with laws or to respond to lawful requests and legal process.
