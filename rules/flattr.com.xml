@@ -1,11 +1,11 @@
 <sitename name="flattr.com">
  <docname name="Terms of Use">
-   <url name="http://flattr.com/terms" xpath="//div[@class='section']" reviewed="true">
+   <url name="https://flattr.com/terms" xpath="//div[@class='section']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://flattr.com/privacy" xpath="//div[@class='section']" reviewed="true">
+   <url name="https://flattr.com/privacy" xpath="//div[@class='section']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

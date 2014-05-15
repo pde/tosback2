@@ -84,7 +84,8 @@ class TOSBackDoc
           end
         }
         agent.max_history = 0
-        agent.ssl_version = 'SSLv3'
+        # SSLv23 is compatible with SSLv2, SSLv3, and TLSv1
+        agent.ssl_version = 'SSLv23'
         agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
         agent.agent.http.reuse_ssl_sessions = false
 
