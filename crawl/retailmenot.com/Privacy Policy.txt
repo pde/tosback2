@@ -1,16 +1,17 @@
  Privacy Policy <p>
 </p>
-<p>Effective Date: January 31, 2014</p>
+<p>Effective Date: May 16, 2014</p>
 <p>This Privacy Policy ("<strong>
 <em>Privacy Policy</em>
 </strong>") explains how RetailMeNot, Inc.
 ("RetailMeNot", "us", "our", and "we"), collects and uses information when you interact with us.
-This Privacy Policy applies to all users of RetailMeNot's website published at www.RetailMeNot.com (and any other websites with “RetailMeNot” branding that link to this Privacy Policy, including, without limitation, the RetailMeNot on Facebook application) and any mobile-device applications we offer, such our iOS and Android applications, that are branded “RetailMeNot” and link or reference this Privacy Policy (collectively, the "<strong>
+This Privacy Policy applies to all users of RetailMeNot's website published at www.RetailMeNot.com (and any other websites with “RetailMeNot” branding that link to this Privacy Policy, including, without limitation, m.RetailMeNot.com) and any mobile-device applications we offer, such our iOS and Android applications, that are branded “RetailMeNot” and link or reference this Privacy Policy (collectively, the "<strong>
 <em>Services</em>
 </strong>").</p>
 <p>Please read this Privacy Policy carefully.
 This Privacy Policy replaces and supersedes the last version of this Privacy Policy for all users (including for those users that registered prior to the Effective Date).
-If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with the Services.</p>
+If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with the Services.
+Your use of the Services is also subject to our Terms of Use.</p>
 <p>Please Contact Us if you have any questions or comments about our privacy practices or this Privacy Policy.
 You can reach us via postal mail at the following address:</p>
 <p>RetailMeNot, Inc.<br> Attention: Legal Department<br> 301 Congress Avenue, Suite 700<br> Austin, Texas 78701<br> 512-777-2970</p>
@@ -80,7 +81,6 @@ How RetailMeNot Uses Personal Information
 <li>Operate and improve our Services;</li>
 <li>Provide users with coupons for products and services from participating merchants, including coupons based on variables such as stated and anticipated user interests, personal characteristics, or location;</li>
 <li>Evaluate eligibility of users for certain coupons, products or services;</li>
-<li>Provide card-linked offers;</li>
 <li>Evaluate the types of coupons, products or services that may be of interest to users;</li>
 <li>Track redemption of coupons and perform other analytics;</li>
 <li>Provide user support, including to our merchants or business partners;</li>
@@ -100,9 +100,9 @@ When and Why RetailMeNot Discloses Personal Information
 <p>We may share your Personal Information as required or permitted by law as described below:</p>
 <ul>
 <li>With affiliated companies (e.g., subsidiaries and other companies owned by or controlled by RetailMeNot) who may only use the Personal Information for the purposes described in Section 3 above;</li>
-<li>With our service providers that provide services for us to assist us in carrying out the purposes described in Section 3 above such as sending emails on our behalf, processing payments, and facilitating card-linked offers.
-Qualcomm Labs, Inc., for example, is a service provider that enables certain geo-location features of our mobile-device applications.
-Consequently, Qualcomm Labs, Inc.
+<li>With our service providers that provide services for us to assist us in carrying out the purposes described in Section 3 above such as sending emails, push notifications, or SMS messages on our behalf and conducting surveys or sweepstakes on our behalf.
+Qualcomm Retail Solutions, Inc., for example, is a service provider that enables certain geo-location features of our mobile-device applications.
+Consequently, Qualcomm Retail Solutions, Inc.
 and its affiliates collect, store, and process, on RetailMeNot’s behalf, certain Location Information and related data on servers in the United States.
 Our service providers are bound by law or contract to protect Personal Information and are only allowed to use the Personal Information in accordance with the terms of our service agreements with them;</li>
 <li>Merchants, but only to the extent you have redeemed a coupon offered by the merchant, or participated in an offer, contest or other activity sponsored or offered through RetailMeNot on behalf of the merchant.
@@ -117,15 +117,17 @@ or as needed to support auditing, compliance, and corporate governance functions
 We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate.
 If RetailMeNot is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on one or more of our Services of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 or</li>
-<li>Otherwise with your consent.We encourage RetailMeNot merchants and business partners to adopt and post privacy policies.
+<li>Otherwise with your consent.
+We encourage RetailMeNot merchants and business partners to adopt and post privacy policies.
 However, the use of your Personal Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
 When you choose to interact with a RetailMeNot merchant or business partner, we encourage you to read any privacy policy they may have posted on their website.<p>We may also disclose information about you that is not personally identifiable.
 For example, we may provide our merchants, business partners, or other third parties with reports that contain aggregated and statistical data about our users.</p>
 </li>
 </ul>5.
 Cookies and Related Technologies
-<p>When you use our Services, we collect certain information by automated or electronic means, using technologies such as cookies, pixel tags and web beacons, browser analysis tools, and web server logs.
-As you use our Services, your browser and devices communicate with servers operated by us, our business partners and services providers to coordinate and record the interactivity and fill your requests for services and information.</p>
+<p>When you use our Services, we collect certain information by automated or electronic means, using technologies such as cookies, flash local storage objects, pixel tags, web beacons, browser analysis tools, and web server logs.
+As you use our Services, your browser and devices communicate with servers operated by us, our business partners and services providers to coordinate and record the interactivity and fill your requests for services and information.
+Additional information on how to opt-out of certain tracking features is set forth in the Your Choices section below.</p>
 <p>The information from cookies and related technology is stored in web server logs and also in web cookies kept on your computers or mobile devices, which are then transmitted back to our Services by your computers or mobile devices.
 These servers are operated and the cookies managed by us, our business partners or our service providers.</p>
 <p>For example, when you access our Services, RetailMeNot and our service providers may place cookies on your computers or mobile devices.
@@ -145,6 +147,12 @@ Your browser usually erases Session cookies once you exit your browser.
 <em>Persistent</em>
 </strong>" cookies are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser.
 We use Persistent cookies for a number of purposes, such as retrieving certain information you have previously provided (such as your user id if you asked to be remembered), and storing your preferences.</p>
+<p>We also use flash local storage objects (“Flash LSOs”) to collect and store Transaction Information and Relationship Information in connection with your use of the Services.
+For example, we use Flash LSOs to store settings, preferences, and usage information which helps us personalize your visits, whether you are accessing the Services via one of our websites or one of our mobile-device applications.
+Flash LSOs are different from browser cookies because of the amount and type of data stored.
+Typically, you cannot control, delete, or disable the acceptance of Flash LSOs through your web browser.
+For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions.
+To see the Flash LSOs currently on your computer, choose “Website Storage Settings Panel” and follow the instructions to review and, if you choose, to delete any specific Flash LSO.</p>
 <p>Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions.
 When you access these pages or open email messages, the pixel tags and web beacons generate a notice of that action to us, or our service providers.
 These tools allow us to measure response to our communications and improve our web pages and promotions.</p>
@@ -161,8 +169,8 @@ In that case, this Privacy Policy governs how we use that information.</p>
 <p>Additionally, if you have visited one of our mobile websites or activated one of our mobile-device applications, and if the settings on your location-aware device allow us to receive Location Information, we will collect that automatically.
 If we associate Location Information with other Personal Information, this Privacy Policy governs how we would use that information too.</p>
 <p>RetailMeNot has relationships with third party advertising companies to place advertisements on our behalf onto other websites, and to perform tracking and reporting functions for our Services and our advertisements.
-We do not share Personal Information with third party advertising companies.
-however, these third parties may automatically collect information about your visit to our Services and other websites, your IP address, your ISP and the browser you use to visit our Services.
+Except as disclosed in this Privacy Policy, we do not share Personal Information with third party advertising companies.
+Even so, these third parties may automatically collect information about your visit to our Services and other websites, your IP address, your ISP and the browser you use to visit our Services.
 They do this by using cookies, clear gifs and other technologies.
 Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Services and the other websites tracked by these third parties.
 This Privacy Policy does not cover the collection methods or use of the information collected by these third parties, and RetailMeNot is not responsible for cookies or clear gifs in third party ads.
@@ -174,16 +182,20 @@ Your Choices
 <p>We think that you benefit from a more personalized experience when we know more about you and the kinds of coupons you like.
 However, you can limit the information you provide to RetailMeNot, and you can limit the communications that RetailMeNot sends to you.</p>
 Email
-<p>You can manage your email preferences by logging into the Community and clicking on the "Email Preferences" link.
+<p>You can manage your email preferences by logging into the Community and clicking on the "Account Preferences" link.
 You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you.
 You may choose to subscribe to some types of messages, and may choose to unsubscribe from others.
 You may also update your subscription preferences from time to time.
 If you wish to opt out of receiving offers directly from RetailMeNot merchants or business partners, you can follow the opt-out instructions in the emails that they send you.</p>
 Cookies
-<p>You may manage how your browser handles cookies and related technologies by adjusting its privacy and security settings.
+<p>Currently, our Services do not recognize browser do-not-track signals.
+However, you may manage how your browser handles cookies and related technologies by adjusting its privacy and security settings.
 Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available.
-Please note that if you disable cookies, you may be unable to access some customized features of our Services.
-You can opt-out of being targeted by certain third party advertising companies online at www.networkadvertising.org/consumer/opt_out.asp.</p>
+The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+You can opt-out of being targeted by certain third party advertising companies online at www.networkadvertising.org/consumer/opt_out.asp.
+As stated above, to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions.
+To see the Flash LSOs currently on your computer, choose “Website Storage Settings Panel” and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
+Please note that if you disable cookies and/or Flash LSOs, you may be unable to access some customized features of our Services.</p>
 Mobile
 <p>If you access any of our Services through a mobile device or mobile browser, you may manage how your Personal Information is shared with RetailMeNot.
 The Personal Information collected by our Services via a mobile device may include the following: (i) periodic collection of your location and time of day.
@@ -193,8 +205,12 @@ The Personal Information collected by our Services via a mobile device may inclu
 and (v) information about your use of features, functions, or clicks on notifications or content.
 In addition to the other uses of your Personal Information described in this Privacy Policy, RetailMeNot may use and process Personal Information we collect via a mobile device to: (a) send notifications when you arrive at or leave places.
 and (b) infer the location of the places you visit most often, determine your frequency at these locations, and send notifications when you arrive at or leave those places.</p>
+<p>You may be prompted to opt-in to sharing your Location Information via our mobile device applications by clicking the green “Enable” button as shown in the screen shot below.
+To opt-in, you may also need to enable location services through the settings on your mobile device.</p>
 <p>You may opt-out of sharing your Location Information by toggling off the “Location” option within the “Settings” menu of our mobile- device applications.
 (This feature is available in our iOS-based applications, version 2.2 or higher and in our Android-based applications, version 2.0 or higher).</p>
+<p>You may opt-out of receiving different types of push notifications by toggling off the “Notifications” options within the “Settings” menu of our mobile- device applications.
+This feature is available in the most recent versions of our iOS-based and Android-based applications.</p>
 <p>Alternatively, you may adjust the settings on your mobile device to prevent the sharing of Location Information.
 You may also manage how your mobile device or mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings.
 Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your mobile device and mobile browser settings.
@@ -203,47 +219,23 @@ Connecting through Social Networks
 <p>You may manage the sharing of certain Personal Information when you register with us through a social media platform or application, such as through Facebook Connect.
 Please refer to the privacy settings of the social media platform or application to determine how you may adjust our permissions and manage the interactivity between RetailMeNot and your social media account.
 By registering with RetailMeNot through a social media platform, you grant RetailMeNot permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social network's terms of use and this Privacy Policy.</p>
-RetailMeNot App on Facebook
-<p>The RetailMeNot App on Facebook (the “App”) provides two separate privacy controls that allow you to control sharing of your actions taken from within the App, such as selecting a favorite store or saving a coupon.
-First, you can adjust the App's settings in order to control sharing outside of the App (e.g., with other Facebook users who have not authorized the App themselves).
-Second, you can adjust the App's sharing button to control sharing throughout Facebook (e.g., with all Facebook users regardless of whether they have authorized the App themselves).
-Both of these controls are explained in more detail below.</p>
-The App's Settings
-<p>When you authorize the App, you may select who on Facebook can see activity created by your actions outside of the App.
-The default setting is “Friends”.
-The “Friends” setting means that your activity within the App may be shared outside of the App with your friends.
-For example, some of your friends may see, on your activity feed, newsfeed, ticker, and elsewhere on Facebook, the coupons you save or redeem.</p>
-<p>During the authorization step, pictured above, you can change this setting to “Public”, “Only Me” or “Custom”.
-Alternatively, at any time after authorizing the App you can update your settings in Facebook by visiting Account Settings &gt.
-Apps &gt.
-RetailMeNot &gt.
-Edit and changing the selection for "Posts on your behalf:"</p>
-<p>Please note that the “Only Me” setting means that your activity within the App will not be shared outside of the App with other Facebook users.
-However, the App will continue to post your activity on a unique profile page that is shared with your friends who have authorized the App themselves unless you turn off the App's sharing button as explained below.</p>
-The App's Sharing Button
-<p>When you begin using the RetailMeNot App on Facebook, a unique profile page is created to display your actions taken from within the App.
-This profile page is automatically shared with any of your friends who have also authorized the App.
-The App's sharing button allows you to control (i) what activities are posted to your unique profile page and (ii) what activities are shared outside of the App.</p>
-<p>At any time during your use of the App, you can click the sharing button, pictured above, to “OFF” or “ON”.
-The default setting of the App's sharing button is “ON”.
-Setting the App's sharing button to “ON” means your activities (regardless of the App's settings described above) will be posted to your unique profile page which is shared with all of your friends who have also authorized the App.
+Text-to-Phone Feature
+<p>With certain coupon offers available on our websites, you may be presented with an option to send yourself an SMS message containing a link.
+An example of this feature is shown in the screen shot below.
+The link will allow you to access from your mobile device the coupon offer you have selected.
 </p>
-<p>Turning the App's sharing button to “OFF” will prevent your actions taken from within the App (while the sharing button is set to “OFF”) from being posted to your unique profile page.
-In addition, your actions taken from within the App while the sharing button is set to “OFF” will not be displayed outside of the App, regardless of the App's settings described above.
-In this manner, the App's sharing button functions as an override to the App's settings to ensure you may control sharing of your activity from right within the App.
-If you have any questions concerning these privacy controls, please do not hesitate to Contact Us.</p>
-RetailMeNot SMS Programs
-<p>To utilize certain features of the Services, you may be required to enter your mobile phone number.
-We will only use your mobile phone number to send you specific coupons that you have requested to be sent to your mobile device and to send you alerts, from time to time, related to special coupon offers.
-You can opt out of RetailMeNot SMS programs at any time by Contacting Us or texting STOP to 42767 from your mobile device.
-Standard messaging rates may apply to SMS programs.
+<p>By clicking "Send this offer", you authorize RetailMeNot to use an automatic telephone dialing system to send you a text message that contains a link to the coupon offer you have selected.
+Your agreement to receive this text is not a condition of purchase.
+However, message and data rates may apply.
+You represent and warrant that any phone number you enter belongs to you and is associated with a mobile device in your possession.
+You can opt out of receiving texts from RetailMeNot at any time by Contacting Us or by texting STOP to 42767 from your mobile device.
 Check your service carrier plan for your standard text messaging fees.</p>
 7.
 Accessing and Correcting Personal Information
 <p>Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners.
 You can do several things to help keep Personal Information about you current.
 You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.</p>
-<p>If you want to close your account or have other questions or requests, or if you would like to access or request a correction to any other personal information we hold regarding you, please Contact Us.</p>
+<p>If you want to close your account or have other questions or requests, or if you would like to access or request a correction to any other Personal Information we hold regarding you, please Contact Us.</p>
 <p>We will retain your information for as long as your account is active or as needed to provide you services.
 If you wish to cancel your account or request that we no longer use your information to provide you services, Contact Us.
 In response, we will cancel or remove your information but may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
