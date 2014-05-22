@@ -7,46 +7,20 @@ Names and Copyright Notices</p>
 <p> i.
 Amazon Cloud Drive Desktop applications </p>
 <ul>
-<li>
-Sparkle, Copyright (c) 2006 Andy Matuschak
-</li>
-<li>
-JSON.Net, Copyright (c) 2007, James Newton-King
-</li>
-<li>
-SLF4J, Copyright (c) 2004-2011, QOS.ch
-</li>
-<li>
-RSVerticallyCenteredTextFieldCell, Copyright (c) 2006 Red Sweater Software
-</li>
-<li>
-SCEvents, Copyright (c) 2007-2013 Stuart Connolly
-</li>
-<li>
-DDcurl, Copyright (c) 2007 Dave Dribin
-</li>
+<li> Sparkle, Copyright (c) 2006 Andy Matuschak </li>
+<li> JSON.Net, Copyright (c) 2007, James Newton-King </li>
+<li> SLF4J, Copyright (c) 2004-2011, QOS.ch </li>
+<li> RSVerticallyCenteredTextFieldCell, Copyright (c) 2006 Red Sweater Software </li>
+<li> SCEvents, Copyright (c) 2007-2013 Stuart Connolly </li>
+<li> DDcurl, Copyright (c) 2007 Dave Dribin </li>
 </ul>
 <p>ii.
 Amazon Cloud Drive Photos applications </p>
 <ul>
-<li>
-SLF4J, Copyright (c) 2004-2011, QOS.ch
-</li>
-<li>
-AFNetworking, Copyright (c) 2013 AFNetworking (http://afnetworking.com/)
-</li>
-<li>
-GIKPopoverBackgroundView, Copyright (c) 2013, Geeks in Kilts (http://geeksinkilts.com/)
-</li>
-<li>
-UICKeyChainStore, Copyright (c) 2011 kishikawa katsumi
-</li>
-<li>
-ReactiveCocoa, Copyright (c) 2012 - 2014, GitHub, Inc.
-</li>
-<li>
-Libextobjc, Copyright (c) 2012 - 2013 Justin Spahr-Summers
-</li>
+<li> SLF4J, Copyright (c) 2004-2011, QOS.ch </li>
+<li> AFNetworking, Copyright (c) 2011, Gowalla </li>
+<li> GIKPopoverBackgroundView, Copyright (c) 2013, Geeks in Kilts (http://geeksinkilts.com/) </li>
+<li> SSKeyChain, Copyright (c) 2010-2013, Sam Soffes </li>
 </ul>
 <p>b.
 MIT License (full text)</p>
@@ -65,9 +39,7 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Desktop applications </p>
 <ul>
-<li>
-bspatch.c and bsdiff.c from bsdiff 4.3, Copyright (c) 2003-2005, Colin Percival
-</li>
+<li> bspatch.c and bsdiff.c from bsdiff 4.3, Copyright (c) 2003-2005, Colin Percival </li>
 </ul>
 <p> b.
 License for bspatch.c and bsdiff.c, from bsdiff 4.3 (full text)</p>
@@ -92,73 +64,32 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Desktop applications </p>
 <ul>
-<li>
-Google Toolbox for Mac, Copyright (c) 2008, Google Inc.
+<li> Google Toolbox for Mac, Copyright (c) 2008, Google Inc.
 </li>
-<li>
-JsonKit, Copyright (c) 2011, John Engelhart
-</li>
-<li>
-Apache log4net, Copyright 2004-2011, The Apache Software Foundation
-</li>
-<li>
-log4j, Copyright (c) 2007, The Apache Software Foundation
-</li>
-<li>
-SQLiteJDBC, Copyright (c) 2008, Taro Saito
-</li>
-<li>
-Jackson, Copyright (c) 2007, Tatu Saloranta
-</li>
-<li>
-Commons Collections with Generics
-</li>
-<li>
-Apache Commons Codec, Copyright (c) 2002-2011, The Apache Software Foundation
-</li>
-<li>
-Apache Commons Collections, Copyright (c) 2001-2008, The Apache Software Foundation
-</li>
-<li>
-Apache Commons Lang, Copyright (c) 2001-2011, The Apache Software Foundation
-</li>
-<li>
-Apache Commons Logging, Copyright (c) 2003-2007, The Apache Software Foundation
-</li>
-<li>
-Apache HttpComponents, Copyright (c) 1999-2011, The Apache Software Foundation
-</li>
-<li>
-Jetty, Copyright (c) 1995-2009, Mort Bay Consulting Pty Ltd
-</li>
-<li>
-Objenesis, Copyright (c) 2006-2013, Joe Walnes, Henri Tremblay and Leonardo Mesquita
-</li>
+<li> JsonKit, Copyright (c) 2011, John Engelhart </li>
+<li> Apache log4net, Copyright 2004-2011, The Apache Software Foundation </li>
+<li> log4j, Copyright (c) 2007, The Apache Software Foundation </li>
+<li> SQLiteJDBC, Copyright (c) 2008, Taro Saito </li>
+<li> Jackson, Copyright (c) 2007, Tatu Saloranta </li>
+<li> Commons Collections with Generics </li>
+<li> Apache Commons Codec, Copyright (c) 2002-2011, The Apache Software Foundation </li>
+<li> Apache Commons Collections, Copyright (c) 2001-2008, The Apache Software Foundation </li>
+<li> Apache Commons Lang, Copyright (c) 2001-2011, The Apache Software Foundation </li>
+<li> Apache Commons Logging, Copyright (c) 2003-2007, The Apache Software Foundation </li>
+<li> Apache HttpComponents, Copyright (c) 1999-2011, The Apache Software Foundation </li>
+<li> Jetty, Copyright (c) 1995-2009, Mort Bay Consulting Pty Ltd </li>
+<li> Objenesis, Copyright (c) 2006-2013, Joe Walnes, Henri Tremblay and Leonardo Mesquita </li>
 </ul>
 <p>ii.
 Amazon Cloud Drive Photos applications </p>
 <ul>
-<li>
-Apache HttpComponents, Copyright (c) 1999-2011, The Apache Software Foundation
-</li>
-<li>
-Apache Commons Codec, Copyright (c) 2002-2011, The Apache Software Foundation
-</li>
-<li>
-Apache Commons IO, Copyright (c) 2002-2012, The Apache Software Foundation
-</li>
-<li>
-Apache Commons Lang, Copyright (c) 2001-2011, The Apache Software Foundation
-</li>
-<li>
-Joda-time, Copyright (c) 2001-2011, Stephen Colebourne
-</li>
-<li>
-Google Guava, Copyright (c) 2009 , the Guava Authors
-</li>
-<li>
-JsonKit, Copyright (c) 2011, John Engelhart
-</li>
+<li> Apache HttpComponents, Copyright (c) 1999-2011, The Apache Software Foundation </li>
+<li> Apache Commons Codec, Copyright (c) 2002-2011, The Apache Software Foundation </li>
+<li> Apache Commons IO, Copyright (c) 2002-2012, The Apache Software Foundation </li>
+<li> Apache Commons Lang, Copyright (c) 2001-2011, The Apache Software Foundation </li>
+<li> Joda-time, Copyright (c) 2001-2011, Stephen Colebourne </li>
+<li> Google Guava, Copyright (c) 2009 , the Guava Authors </li>
+<li> JsonKit, Copyright (c) 2011, John Engelhart </li>
 </ul>
 <p>b.
 The Apache License, Version 2.0 (full text)</p>
@@ -273,27 +204,16 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Desktop Application </p>
 <ul>
-<li>
-Growl SDK, Copyright (c) 2004-2011, The Growl Project
-</li>
-<li>
-Jsr-305, Copyright (c) 2007-2009, JSR305 expert group
-</li>
-<li>
-MiGBase64, Copyright (c) 2004, Mikael Grev, MiG InfoCom AB
-</li>
-<li>
-CocoaLumberjack, Copyright (c) 2010, Deusty, LLC
-</li>
+<li> Growl SDK, Copyright (c) 2004-2011, The Growl Project </li>
+<li> Jsr-305, Copyright (c) 2007-2009, JSR305 expert group </li>
+<li> MiGBase64, Copyright (c) 2004, Mikael Grev, MiG InfoCom AB </li>
+<li> CocoaLumberjack, Copyright (c) 2010, Deusty, LLC </li>
 </ul>
 <p>ii.
 Amazon Cloud Drive Photos application </p>
 <ul>
-<li>
-MiGBase64, Copyright (c) 2004, Mikael Grey, MiG InfoCom AB
-</li>
-<li>
-Google Protocol Buffers, Copyright (c) 2008, Google Inc.
+<li> MiGBase64, Copyright (c) 2004, Mikael Grey, MiG InfoCom AB </li>
+<li> Google Protocol Buffers, Copyright (c) 2008, Google Inc.
 </li>
 </ul>
 <p>b.
@@ -319,19 +239,15 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Desktop applications </p>
 <ul>
-<li>
-Json.org, Copyright (c) 2002, JSON.org
-</li>
+<li> Json.org, Copyright (c) 2002, JSON.org </li>
 </ul>
 <p>b.
 The JSON License (full text)</p>
 <p> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 <ul>
-<li>
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+<li> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 </li>
-<li>
-The Software shall be used for Good, not Evil.
+<li> The Software shall be used for Good, not Evil.
 </li>
 </ul>
 <p> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -345,10 +261,8 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Photo Applications </p>
 <ul>
-<li>
-libjpeg-turbo, Copyright (c) 1991-2010, Thomas G.
-Lane, Guido Vollbeding
-</li>
+<li> libjpeg-turbo, Copyright (c) 1991-2010, Thomas G.
+Lane, Guido Vollbeding </li>
 </ul>
 <p>b.
 Terms and Conditions (full text)</p>
@@ -400,10 +314,8 @@ Names and Copyright Notices</p>
 <p>i.
 Amazon Cloud Drive Desktop applications </p>
 <ul>
-<li>
-lipjpeg-turbo, Copyright (c) 1991-2010, Thomas G.
-Lane, Guido Vollbeding
-</li>
+<li> lipjpeg-turbo, Copyright (c) 1991-2010, Thomas G.
+Lane, Guido Vollbeding </li>
 </ul>
 <p>b.
 Terms and Conditions (full text)</p>
@@ -421,8 +333,7 @@ DEFINITIONS.
 "General Purpose Desktop Computers and Servers" means computers, including desktop and laptop computers, or servers, used for general computing functions under end user control (such as but not specifically limited to email, general purpose Internet browsing, and office suite productivity tools).
 The use of Software in systems and solutions that provide dedicated functionality (other than as mentioned above) or designed for use in embedded or function-specific software applications, for example but not limited to: Software embedded in or bundled with industrial control systems, wireless mobile telephones, wireless handheld devices, netbooks, kiosks, TV/STB, Blu-ray Disc devices, telematics and network control switching equipment, printers and storage management systems, and other related systems are excluded from this definition and not licensed under this Agreement.
 "Programs" means (a) Java technology applets and applications intended to run on the Java Platform, Standard Edition platform on Java-enabled General Purpose Desktop Computers and Servers.
-and (b) JavaFX technology applications intended to run on the JavaFX Runtime on JavaFX-enabled General Purpose Desktop Computers and Servers."README File" means the README file for the Software set forth in the Software or otherwise accessible from Oracle at or through the following URL: http://www.oracle.com/technetwork/java/javase/documentation/index.html
-</p>
+and (b) JavaFX technology applications intended to run on the JavaFX Runtime on JavaFX-enabled General Purpose Desktop Computers and Servers."README File" means the README file for the Software set forth in the Software or otherwise accessible from Oracle at or through the following URL: http://www.oracle.com/technetwork/java/javase/documentation/index.html </p>
 <p> 2.
 LICENSE TO USE.
 Subject to the terms and conditions of this Agreement including, but not limited to, the Java Technology Restrictions of the Supplemental License Terms, Oracle grants you a non-exclusive, non-transferable, limited license without license fees to reproduce and use internally the Software complete and unmodified for the sole purpose of running Programs.
@@ -1375,8 +1286,7 @@ MULTIPLE-LICENSED CODE.</p>
 <p> EXHIBIT A - Mozilla Public License.</p>
 <p> ``The contents of this file are subject to the Mozilla Public License Version 1.1 (the "License").
 you may not use this file except in compliance with the License.
-You may obtain a copy of the License at http://www.mozilla.org/MPL/
-</p>
+You may obtain a copy of the License at http://www.mozilla.org/MPL/ </p>
 <p> Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied.
 See the License for the specific language governing rights and limitations under the License.</p>
 <p> The Original Code is ______________________________________.</p>
@@ -1569,12 +1479,9 @@ ooooooo ooooo</p>
 <p> The Ultimate Packer for eXecutables </p>
 <p>Copyright (c) 1996-2000 Markus Oberhumer &amp.
 Laszlo Molnar </p>
-<p>
-http://wildsau.idv.uni-linz.ac.at/mfx/upx.html </p>
-<p>
-http://www.nexus.hu/upx </p>
-<p>
-http://upx.tsx.org </p>
+<p> http://wildsau.idv.uni-linz.ac.at/mfx/upx.html </p>
+<p> http://www.nexus.hu/upx </p>
+<p> http://upx.tsx.org </p>
 <p> PLEASE CAREFULLY READ THIS LICENSE AGREEMENT, ESPECIALLY IF YOU PLAN TO MODIFY THE UPX SOURCE CODE OR USE A MODIFIED UPX VERSION.
 </p>
 <p> ABSTRACT </p>
@@ -2030,8 +1937,7 @@ Any law or regulation that provides that the language of a contract shall be con
 <p> The contents of this file are subject to the CID Font Code Public License Version 1.0 (the "License").
 You may not use this file except in compliance with the License.
 You may obtain a copy of the License at Silicon Graphics, Inc., attn: Legal Services, 2011 N.
-Shoreline Blvd., Mountain View, CA 94043 or at http://www.sgi.com/software/opensource/cid/license.html
-</p>
+Shoreline Blvd., Mountain View, CA 94043 or at http://www.sgi.com/software/opensource/cid/license.html </p>
 <p> Software distributed under the License is distributed on an "AS IS" basis.
 ALL WARRANTIES ARE DISCLAIMED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE OR OF NON-INFRINGEMENT.
 See the License for the specific language governing rights and limitations under the License.
@@ -2114,8 +2020,7 @@ This notice may not be removed or altered from any source distribution.</p>
 <p> --- begin of LICENSE ---</p>
 <p> Apache License</p>
 <p> Version 2.0, January 2004</p>
-<p> http://www.apache.org/licenses/
-</p>
+<p> http://www.apache.org/licenses/ </p>
 <p> TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
 <p> 1.
 Definitions.</p>
@@ -2181,8 +2086,7 @@ We also recommend that a file or class name and description of purpose be includ
 <p> Licensed under the Apache License, Version 2.0 (the "License").
 you may not use this file except in compliance with the License.</p>
 <p> You may obtain a copy of the License at</p>
-<p> http://www.apache.org/licenses/LICENSE-2.0
-</p>
+<p> http://www.apache.org/licenses/LICENSE-2.0 </p>
 <p> Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and limitations under the License.</p>
 <p> --- end of LICENSE ---</p>
