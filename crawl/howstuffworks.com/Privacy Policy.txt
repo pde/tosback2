@@ -8,7 +8,6 @@
 <li> Podcasts </li>
 <li> Blogs </li>
 <li> Quizzes </li>
-<li> Games </li>
 </ul>
 <ul>
 <li>Adventure</li>
@@ -26,7 +25,6 @@ Garden</li>
 <li>Video</li>
 <li>Shows</li>
 <li>Quizzes</li>
-<li>Games</li>
 </ul> Home &gt.
 About Us Privacy Policy <ul>
 <li>Company Info</li>
@@ -392,13 +390,13 @@ Garden</li>
 <li>Video</li>
 <li>Shows</li>
 <li>Quizzes</li>
-<li>Games</li>
 </ul>
 <ul>
 <li>
 <dl>
 <dt>HOWSTUFFWORKS</dt>
 <dd>Adventure</dd>
+<dd>Animals</dd>
 <dd>Auto</dd>
 <dd>Culture</dd>
 <dd>Entertainment</dd>
@@ -415,7 +413,6 @@ Garden</dd>
 <dl>
 <dt>MORE STUFF</dt>
 <dd>Blogs</dd>
-<dd>Games</dd>
 <dd>HSW Tools</dd>
 <dd>RSS</dd>
 <dd>Maps</dd>
@@ -423,34 +420,22 @@ Garden</dd>
 <dd>Quizzes</dd>
 <dd>Newsletters</dd>
 <dd>Video</dd>
+<dd>HSW Brazil</dd>
+<dd>HSW China </dd>
 </dl>
 </li>
 <li>
 <dl>
-<dt>OUR WEBSITES</dt>
-<dd>Animal Planet</dd>
-<dd>Animalist</dd>
-<dd>Animal Planet Live</dd>
-<dd>Destination America</dd>
-<dd>Discovery Channel</dd>
-<dd>Discovery Fit &amp.
-Health</dd>
-<dd>Discovery News</dd>
-<dd>FWThinking</dd>
-<dd>HSW Brazil</dd>
-<dd>HSW China </dd>
-<dd>Investigation Discovery</dd>
-<dd>Oprah Winfrey Network</dd>
-<dd>Revision3</dd>
-<dd>Science Channel</dd>
-<dd>Velocity</dd>
-<dd>Stuff You Should Know</dd>
-<dd>Stuff to Blow Your Mind</dd>
+<dt>STUFF WEBSITES</dt>
+<dd>BrainStuff</dd>
+<dd>CarStuff</dd>
+<dd>Fw:Thinking</dd>
+<dd>Stuff Mom Never Told You</dd>
 <dd>Stuff of Genius</dd>
-<dd>TLC</dd>
-<dd>Discovery Education</dd>
-<dd>Discovery Retreats</dd>
-<dd>Store</dd>
+<dd>Stuff They Don't Want You to Know</dd>
+<dd>Stuff to Blow Your Mind</dd>
+<dd>Stuff You Missed in History Class</dd>
+<dd>Stuff You Should Know</dd>
 </dl>
 </li>
 <li>
@@ -465,7 +450,7 @@ Health</dd>
 <dl>
 <dt>CORPORATE</dt>
 <dd>About Us</dd>
-<dd>Careers @ Discovery</dd>
+<dd>Careers @ HSW</dd>
 <dd>Privacy Policy</dd>
 <dd>Visitor Agreement</dd>
 </dl>
