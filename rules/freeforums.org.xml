@@ -1,6 +1,6 @@
 <sitename name="freeforums.org">
  <docname name="Privacy Policy">
-   <url name="http://www.crowdgather.com/legal/" xpath="//div[@id='post-15']" reviewed="true">
+   <url name="http://www.crowdgather.com/legal/" xpath="//div[@class='legal']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
