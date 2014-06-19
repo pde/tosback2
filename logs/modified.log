@@ -5,27 +5,33 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/allstate.com/Privacy Policy.txt
-#	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
-#	modified:   ../crawl/bostonglobe.com/Privacy Policy.txt
-#	modified:   ../crawl/dillards.com/Policies and Notices.txt
-#	modified:   ../crawl/fidelity.com/Privacy Policy.txt
-#	modified:   ../crawl/geek.com/Privacy Policy.txt
-#	modified:   ../crawl/geico.com/Privacy Policy.txt
+#	modified:   ../crawl/acrobat.com/Privacy Policy.txt
+#	modified:   ../crawl/adobe.com/Privacy Policy.txt
+#	modified:   ../crawl/capitalone.com/Privacy Policy.txt
+#	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
+#	modified:   ../crawl/craigslist.org/Privacy Policy.txt
+#	modified:   ../crawl/drudgereport.com/Privacy Policy.txt
+#	modified:   ../crawl/fisher-price.com/Privacy Policy.txt
+#	modified:   ../crawl/godaddy.com/Domain Name Registration Agreement.txt
 #	modified:   ../crawl/ign.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
 #	modified:   ../crawl/northerntool.com/Privacy Policy.txt
-#	modified:   ../crawl/pcmag.com/Privacy Policy.txt
-#	modified:   ../crawl/saksfifthavenue.com/Privacy Policy.txt
+#	modified:   ../crawl/npr.org/Privacy Policy.txt
+#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
 #	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
 #	modified:   ../crawl/stackexchange.com/Content Policy.txt
 #	modified:   ../crawl/stackexchange.com/Terms of Service.txt
 #	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
-#	modified:   ../crawl/tealium.com/Privacy Policy.txt
-#	modified:   ../crawl/wayfair.com/Privacy Policy.txt
+#	modified:   ../crawl/syfy.com/Privacy Policy.txt
+#	modified:   ../crawl/uk.yahoo.com/Privacy Policy.txt
+#	modified:   ../crawl/united.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl/yahoo.de/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/lastpass.com/Terms of Service.txt
+#	modified:   ../crawl_reviewed/xing.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/xing.com/Terms and Conditions.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
