@@ -12833,3 +12833,44 @@
 2014-06-23 00:26:51 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
 2014-06-23 00:27:16 -0400 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/intl/404.aspx?cbRecursionCnt=1 -- unhandled response
 2014-06-23 00:27:30 -0400 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
+2014-06-24 00:15:06 -0400 - http://www.dishnetwork.com/downloads/legal/PrivacyStatement.pdf:	404 => Net::HTTPNotFound for http://www.dish.com/data/error_404/default.aspx -- unhandled response
+2014-06-24 00:15:39 -0400 - http://rapidshare.com/privacy/tou:	404 => Net::HTTPNotFound for http://rapidshare.com/privacy/tou -- unhandled response
+2014-06-24 00:15:57 -0400 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2014-06-24 00:15:57 -0400 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2014-06-24 00:16:51 -0400 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2014-06-24 00:17:16 -0400 - http://www.oxygen.com/legal/privacyPolicy.aspx:	404 => Net::HTTPNotFound for http://www.oxygen.com/legal/privacyPolicy.aspx -- unhandled response
+2014-06-24 00:17:22 -0400 - http://www.cnbc.com/id/15837353/print:	404 => Net::HTTPNotFound for http://www.cnbc.com/id/15837353/print -- unhandled response
+2014-06-24 00:17:25 -0400 - http://support.lockerz.com/entries/515604-Terms-of-Use:	404 => Net::HTTPNotFound for http://support.lockerz.com/entries/515604-Terms-of-Use -- unhandled response
+2014-06-24 00:18:17 -0400 - http://onlineshoes.custhelp.com/cgi-bin/onlineshoes.cfg/php/enduser/std_adp.php?p_faqid=55:	getaddrinfo: Name or service not known
+2014-06-24 00:18:22 -0400 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2014-06-24 00:18:44 -0400 - http://www.data.gov/privacypolicy:	404 => Net::HTTPNotFound for http://www.data.gov/privacypolicy -- unhandled response
+2014-06-24 00:18:44 -0400 - http://www.data.gov/datapolicy:	404 => Net::HTTPNotFound for http://www.data.gov/datapolicy -- unhandled response
+2014-06-24 00:18:45 -0400 - https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm:	404 => Net::HTTPNotFound for https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm -- unhandled response
+2014-06-24 00:18:53 -0400 - http://www.fandango.com/PrivacyPolicy.aspx?mode=popup:	404 => Net::HTTPNotFound for http://www.fandango.com/PrivacyPolicy?mode=popup -- unhandled response
+2014-06-24 00:19:13 -0400 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2014-06-24 00:19:13 -0400 - http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms -- unhandled response
+2014-06-24 00:20:49 -0400 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2014-06-24 00:21:05 -0400 - https://otalliance.org/privacy.html:	404 => Net::HTTPNotFound for https://otalliance.org/privacy.html -- unhandled response
+2014-06-24 00:21:59 -0400 - http://theapprovedcard.com/moreinfo/privacypolicy/:	404 => Net::HTTPNotFound for http://www.theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2014-06-24 00:22:03 -0400 - http://www.nbc.com/privacy-policy/terms-of-service/2/:	403 => Net::HTTPForbidden for http://www.nbc.com/privacy-policy/terms-of-service/2 -- unhandled response
+2014-06-24 00:22:05 -0400 - http://www.nbc.com/privacy-policy/terms-of-service/3/:	403 => Net::HTTPForbidden for http://www.nbc.com/privacy-policy/terms-of-service/3 -- unhandled response
+2014-06-24 00:22:17 -0400 - http://www.nature.org/aboutus/governance/privacy-policy.xml:	404 => Net::HTTPNotFound for http://www.nature.org/aboutus/governance/privacy-policy.xml -- unhandled response
+2014-06-24 00:22:20 -0400 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	404 => Net::HTTPNotFound for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
+2014-06-24 00:22:25 -0400 - http://www.voanews.com/english/news/69075687.html:	503 => Net::HTTPServiceUnavailable for http://www.voanews.com/english/news/69075687.html -- unhandled response
+2014-06-24 00:22:26 -0400 - http://geek.net/terms-of-use.cfm:	404 => Net::HTTPNotFound for http://geek.net/terms-of-use.cfm -- unhandled response
+2014-06-24 00:22:42 -0400 - http://www.accesshollywood.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.accesshollywood.com/privacy-policy -- unhandled response
+2014-06-24 00:22:59 -0400 - http://www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-&-Security:	Redirect limit of 20 reached
+2014-06-24 00:23:43 -0400 - https://ixquick.com/eng/privacy-policy.html:	SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)
+2014-06-24 00:23:57 -0400 - http://geek.net/terms-of-use.cfm:	404 => Net::HTTPNotFound for http://geek.net/terms-of-use.cfm -- unhandled response
+2014-06-24 00:24:26 -0400 - http://www.hsbc.com/1/2/terms-and-conditions:	404 => Net::HTTPNotFound for http://www.hsbc.com/1/2/terms-and-conditions -- unhandled response
+2014-06-24 00:24:29 -0400 - http://agb.web.de/Datenschutzerklaerung/AGB/20120801/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20120801/ -- unhandled response
+2014-06-24 00:25:30 -0400 - http://www.carbonunity.com/privacy-policy:	500 => Net::HTTPInternalServerError for http://www.carbonunity.com/privacy-policy -- unhandled response
+2014-06-24 00:25:55 -0400 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2014-06-24 00:25:58 -0400 - https://wiki.sonic.net/wiki/Category:Policies:	SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)
+2014-06-24 00:26:05 -0400 - https://www.change.org/static/user_agreement.html:	404 => Net::HTTPNotFound for https://www.change.org/static/user_agreement.html -- unhandled response
+2014-06-24 00:26:14 -0400 - http://www.audiusa.com/us/brand/en/tools/imprint/privacy.html:	404 => Net::HTTPNotFound for http://www.audiusa.com/us/brand/en/tools/imprint/privacy.html -- unhandled response
+2014-06-24 00:27:01 -0400 - http://www.kansascity.com/privacy_policy/:	404 => Net::HTTPNotFound for http://www.kansascity.com/privacy_policy/ -- unhandled response
+2014-06-24 00:27:31 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2014-06-24 00:28:01 -0400 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/intl/404.aspx?cbRecursionCnt=1 -- unhandled response
+2014-06-24 00:28:15 -0400 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
+2014-06-24 00:28:23 -0400 - https://www.dropbox.com/privacy:	500 => Net::HTTPInternalServerError for https://www.dropbox.com/privacy -- unhandled response
