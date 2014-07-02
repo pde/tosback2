@@ -16,13 +16,11 @@ Manage </li>
 </li>
 <li>Support</li>
 <li> Back to My Apps</li>
-</ul> Sign In   Hi, {username}   <ul>
-<li> Account Settings </li>
-<li> Billing &amp.
-Payments </li>
-<li> Vouchers </li>
-<li>   English   <ul>
-</ul>
-</li>
-<li> Logout </li>
+</ul> Sign In Hi, {username} <ul>
+<li>Account Settings</li>
+<li>Billing &amp.
+Payments</li>
+<li>Vouchers</li>
+<li>English</li>
+<li>Logout</li>
 </ul> 
