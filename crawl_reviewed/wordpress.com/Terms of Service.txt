@@ -27,9 +27,9 @@ You must immediately notify Automattic of any unauthorized uses of your blog, yo
 Automattic will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.</li>
 <li>
 <strong>Responsibility of Contributors.
-</strong>If you operate a blog, comment on a blog, post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), You are entirely responsible for the content of, and any harm resulting from, that Content.
-That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software.
-By making Content available, you represent and warrant that:
+</strong>Ifyouoperate a blog, comment on a blog, post material to the Website, post links on the Website, or otherwise make (or allowanythird party to make) material available by means of the Website (any such material, “Content”), You are entirely responsibleforthe content of, and any harm resulting from, that Content.
+That is the case regardless of whether the Content inquestionconstitutes text, graphics, an audio file, or computer software.
+By making Content available, you representandwarrant that:
 <ul>
 <li>the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;</li>
 <li>if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;</li>
@@ -38,13 +38,13 @@ By making Content available, you represent and warrant that:
 <li>the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);</li>
 <li>the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;</li>
 <li>your blog is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;</li>
-<li>your blog is not named in a manner that misleads your readers into thinking that you are another person or company.
-For example, your blog’s URL or name is not the name of a person other than yourself or company other than your own.
+<li>your blog is not presented in a manner that misleads your readers into thinking that you are another person or company.
 and</li>
 <li>you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Automattic or otherwise.</li>
 </ul>
-<p>By submitting Content to Automattic for inclusion on your Website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your blog.
-If you delete Content, Automattic will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.</p>
+<p>By submitting Content to Automattic for inclusion on your Website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your blog. This license allows Automattic to make publicly-posted content available to third parties selected by Automattic (through the Automattic Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) your content through their services.</p>
+<p>You also give other WordPress.com users permission to share your Content on other WordPress.com sites and add their own Content to it (aka to reblog your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your site (the Reblogging function on WordPress.com does this automatically!).</p>
+<p>If you delete Content, Automattic will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.</p>
 <p>Without limiting any of those representations or warranties, Automattic has the right (though not the obligation) to, in Automattic’s sole discretion (i) refuse or remove any content that, in Automattic’s reasonable opinion, violates any Automattic policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in Automattic’s sole discretion.
 Automattic will have no obligation to provide a refund of any amounts previously paid.</p>
 </li>
@@ -128,12 +128,12 @@ You can opt out of their terms of service at any time by de-activating a partner
 <strong>Domain Names.</strong> If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”), including their Registration Rights and Responsibilities.</li>
 <li>
 <strong>Changes.
-</strong>Automattic reserves the right, at its sole discretion, to modify or replace any part of this Agreement.
-It is your responsibility to check this Agreement periodically for changes.
-Your continued use of or access to the Website following the posting of any changes to this Agreement constitutes acceptance of those changes.
-Automattic may also, in the future, offer new services and/or features through the Website (including, the release of new tools and resources).
-Such new features and/or services shall be subject to the terms and conditions of this Agreement.
-<strong>
+</strong>We are constantly updating our services, and that means sometimes we have to change the legal terms under which our services are offered.
+If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect.
+The notice will designate a reasonable period of time after which the new Terms will take effect.
+If you disagree with our changes, then you should stop using WordPress.com within the designated notice period.
+Your continued use of WordPress.com will be subject to the new Terms.
+However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.<strong>
 <br>
 </strong>
 </li>
@@ -190,4 +190,5 @@ March 6, 2012: Clarified definition of Website with addition of “Jetpack by Wo
 April 6, 2012: Added “Attribution” paragraph to clarify our attribution policy.<br>
 November 12, 2012: Replaced VIP Services terms and conditions with cross references to VIP Hosting/Support and VIP Support services terms and conditions, located at vip.wordpress.com.
 removed “towards individuals or entities” from prohibition against threats of violence in Section 2.<br>
-June 12, 2013: Edited “Attribution” paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.</p> 
+June 12, 2013: Edited “Attribution” paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.<br>
+July 3, 2014: Elaborated on licensing with regards to Firehose, clarified our impersonation policy, added reblogging language, and removed our right to unilaterally change the Terms of Service.</p> 
