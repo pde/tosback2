@@ -1,4 +1,7 @@
- <p> Welcome to Dashlane! Dashlane SAS, a wholly owned subsidiary of Dashlane Inc.
+ <p>
+<strong>THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS AND ALSO LIMITS THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE.</strong>
+</p>
+<p> Welcome to Dashlane! Dashlane SAS, a wholly owned subsidiary of Dashlane Inc.
 (a Delaware corporation) ("<strong>Dashlane</strong>", "<strong>we</strong>", "<strong>us</strong>", or "<strong>our</strong>"), operates www.Dashlane.com (the "<strong>Site</strong>") and provides our users (each user, "<strong>you</strong>") with the Dashlane software application, a web assistant designed to simplify and expedite your experience on the web by holding personal data in a secure vault and actively using it to perform repetitive web actions (the "<strong>App</strong>"), as well as a number of related services (collectively, with the App, the "<strong>Services</strong>").
 The following terms and conditions (the "<strong>Terms of Service</strong>") form a binding agreement between you and us regarding your use of the Site and Services.
 </p>
@@ -6,16 +9,30 @@ The following terms and conditions (the "<strong>Terms of Service</strong>") for
 By accessing the site and using the services you agree to be bound by these terms of service.
 If you are entering into these terms of service on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to all of these terms and conditions, in which case the terms "you" or "your" shall refer to such entity.
 If you do not have such authority, or if you do not wish to be bound by these terms of service, you may not access or use this site.
-You hereby agree to the use of electronic communications in order to enter into this agreement, to create other records and to the electronic delivery of notices, policies and records of transactions between you and dashlane with respect to this agreement, as further detailed in section 14.
+You hereby agree to the use of electronic communications in order to enter into this agreement, to create other records and to the electronic delivery of notices, policies and records of transactions between you and Dashlane with respect to this agreement, as further detailed in section 14.
 This agreement includes a class action waiver that affects your rights.
 </p>
 <ol>
 <li>
 <strong>Registration</strong>.
-To use our Services, you must download the App, register through the App and set up an account with us by providing your email address and selecting a password (your "<strong>Account Credentials</strong>").
+<ol>
+<li>To use our Services, you must download the App, register through the App and set up an account with us by providing your email address and selecting a password (collectively, referred to as your "<strong>Account Credentials</strong>").
 You may not transfer or share your Account Credentials with any third parties, and you are solely responsible for maintaining the confidentiality of your Account Credentials.
 You acknowledge and agree that we rely on Account Credentials to know whether users using our Services are authorized to do so.
-You agree to be responsible for any act or omission of any users that access the Site or Services under Your Account Credentials.
+You agree to be responsible for any act or omission of any users that access the Site or Services under Your Account Credentials.</li>
+<li>Dashlane enables you to share access credentials for third party accounts, such as Netflix, twitter, Hulu, etc., along with secure notes and comments (collectively, access credentials and related notes and comments are referred to as “<strong>Third Party Account Information</strong>”) with other Dashlane users that you designate (“<strong>Recipients</strong>”) and create and manage a group of Recipients that can access your Third Party Account Information (“<strong>Sharing Group</strong>”).
+By creating a Sharing Group, you are authorizing Dashlane to share your Third Party Account Information with the Recipients in your Sharing Group.
+By granting admin privileges to a Recipient in a Sharing Group, you may also authorize Dashlane to allow that Recipient to reshare or update your Third Party Account Information.
+You are responsible for granting or revoking a Recipient’s access to your Third Party Account Information at all times.</li>
+<li>You may designate an individual as your emergency contact and set parameters around release of your Third Party Account Information, including a waiting period after we receive a request from an emergency contact for you to respond to such request.
+You agree that provided the parameters for release are met, Dashlane may release your Third Party Account Information to any person you designate as an emergency contact and you release Dashlane from any and all liability and waive any claim you may have as a result of or in connection with such release.</li>
+<li>In the event that you are purchasing a Dashlane Premium license that allows you to share the service offered via the Site and the App with a group of people, (“<strong>Team Version</strong>”), then in addition to these Terms binding each individual user of the Site and App, you agree to the following: <ol>
+<li>You have the authority to act on behalf of (and bind) any person or organization for which you are registering the Team Version to these Terms of Service;</li>
+<li>Each person that you provide with a Dashlane account pursuant to your Team Version license will be provided with a copy of these Terms of Service;</li>
+<li>You or the people or organization(s) that you have granted access to your Team Version (and not Dashlane) will be responsible for managing Account Credentials for each person to whom you grant access and you agree to pay Dashlane an annual license fee for each account.</li>
+</ol>
+</li>
+</ol>
 </li>
 <li>
 <strong>Our app</strong>.
@@ -50,8 +67,8 @@ Dashlane cannot guarantee the completeness or accuracy of the Stored Data that i
 As the App processes are automatic, Dashlane does not screen the Stored Data when provided through the App.
 <strong>You should confirm the accuracy of the Stored Data that is inputted onto a web page by the App each and every time you use the App.</strong> The App operates in third-party web browsers, and Dashlane has no responsibility for any such browser.
 Your use of these third-party browsers on third party websites will be at your own risk and subject to the terms and conditions of those third parties.
-Dashlane makes no representations or warranties, express or implied, regarding the third party websites or services, and dashlane disclaims all liability related thereto.
-To uninstall the App, please visit the App FAQ https://www.dashlane.com/support/).
+Dashlane makes no representations or warranties, express or implied, regarding the third party websites or services, and Dashlane disclaims all liability related thereto.
+To uninstall the App, please visit the App FAQ https://www.Dashlane.com/support/).
 </li>
 <li>
 <em>Usage Information</em>.
@@ -104,7 +121,7 @@ Ownership of all such Marks and the goodwill associated therewith remains with u
 Any use of third party software provided in connection with the Site or Services will be governed by such third parties’ licenses and not by these Terms of Service.
 </li>
 <li>
-<strong>Rules regardig content you provide</strong>.
+<strong>Rules regarding content you provide</strong>.
 When you access the Site and/or Services, you obtain access to various kinds of information and materials, all of which we call "<strong>Content</strong>." We do not consider your Stored Data as Content, but Content will include information and materials posted to a public area of the Site.
 You are entirely responsible for each individual item of Content that you post or otherwise make publicly available on the Site or the Services.
 As between you and us, you retain ownership and any intellectual property rights in any copyrighted materials that are contained in Content that you post to the Site or through the Services.
@@ -115,6 +132,14 @@ Though we strive to enforce these rules with all of our Users, you may be expose
 You access the Site and Services at your own risk.
 We may, but are not obligated to terminate your account and/or remove Content from the Site if we determine or suspect that you or your Content violates the terms of these Terms of Use or the applicable agreement with the offending User(s).
 We take no responsibility for your exposure to Content on the Site or through the Services whether it violates our content policies or not.
+</li>
+<li>
+<strong>Safe Search</strong>.
+The Dashlane “<strong>Safe Search</strong>” function is an optional enhancement offered by Dashlane that replaces your browser’s default search engine with a new search engine that provides additional security information about each website listed in your search results, such as any past security breaches on the site, your password strength for that site, or whether the site emails your passwords back to you in plain text.
+By opting in to use Safe Search, you expressly permit and authorize Dashlane to install cookies and the Safe Search executable code on your browser.
+You may disable Safe Search any time, which will reset your search engine to its prior state.
+DASHLANE PROVIDES THE SAFE SEARCH RESULTS AS A COURTESY ONLY AND DOES NOT REPRESENT OR WARRANT ANY RESULTS OF ANY SEARCH RESULTS NOR DOES DASHLANE ASSUME ANY RESPONSIBILITY OR LIABILITY FOR THE PRACTICES OF ANY THIRD PARTY SITE OR GUARANTEE THE SECURITY OF ANY THIRD PARTY SITE.
+SAFE SEARCH RESULTS DO NOT CONSTITUTE AN ENDORSEMENT OR APPROVAL OF ANY SITE.
 </li>
 <li>
 <strong>General Rules of User Conduct</strong>.
@@ -219,7 +244,7 @@ You agree that in no event will we be liable to you in connection with any websi
 We can only give you the benefits of our service by conducting business through the Internet, and therefore we need you to consent to our giving you Communications electronically.
 This Section 14 informs you of your rights when receiving Communications from us electronically.
 For contractual purposes, you (i) consent to receive communications from us in an electronic form.
-and (ii) agree that all terms and conditions, agreements, notices, documents, disclosures, and other communications (<strong>"Communications"</strong>) that we provide to you electronically satisfy any legal requirement that such Communications would satisfy if it were in a writing.
+and (ii) agree that all terms and conditions, agreements, notices, documents, disclosures, and other communications (<strong>"Communications"</strong>) that we provide to you electronically satisfy any legal requirement that such Communications would satisfy if it were in writing.
 Your consent to receive Communications and do business electronically, and our agreement to do so, applies to all of your interactions and transactions with us.
 The foregoing does not affect your non-waivable rights.
 You may also receive a copy of these Terms of Service by accessing this Site.
@@ -260,20 +285,28 @@ Government end users acquire the App and any other software component of the Ser
 <li>
 <strong>NOTICE</strong>.
 We may give notice to you by email, a posting on the Site, or other reasonable means.
-You must give notice to us in writing via email to support@dashlane.com or as otherwise expressly provided.
-Please report any violations of these Terms of Service to support@dashlane.com.
+You must give notice to us in writing via email to support@Dashlane.com or as otherwise expressly provided.
+Please report any violations of these Terms of Service to support@Dashlane.com.
 </li>
 <li>
-<strong>Arbitration Agreement And Jury Trial Waiver, Class Action Waiver, And Forum Selection Clause.</strong> All controversies, disputes, demands, counts, claims, or causes of action between you and Dashlane arising out of, under, or related to this Agreement or our privacy practices (including any action we take or authorize with respect to information about or provided by you) shall be settled exclusively through binding arbitration.
+<strong>Arbitration Agreement And Jury Trial Waiver, Class Action Waiver, And Forum Selection Clause.</strong>
+<br>
+<strong>PLEASE READ THIS CAREFULLY.
+IT AFFECTS YOUR RIGHTS.
+YOU AGREE THAT BY ENTERING INTO THIS AGREEMENT, YOU ARE WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+YOU AGREE THAT YOU MAY BRING CLAIMS AGAINST DASHLANE ONLY IN YOUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+ANY ARBITRATION WILL TAKE PLACE ON AN INDIVIDUAL BASIS.
+CLASS ARBITRATIONS AND CLASS ACTIONS ARE NOT PERMITTED.</strong> All controversies, disputes, demands, counts, claims, or causes of action between you and Dashlane arising out of, under, or related to this Agreement or our privacy practices (including any action we take or authorize with respect to information about or provided by you) shall be settled exclusively through binding arbitration.
 <ol>
 <li> Arbitration shall be subject to the Federal Arbitration Act and not any state arbitration law.
 The arbitration shall be conducted before one commercial arbitrator with substantial experience in resolving commercial contract disputes from the American Arbitration Association ("AAA").
 As modified by this Agreement, and unless agreed upon by the parties in writing, the arbitration will be governed by the AAA’s Commercial Arbitration Rules and, if the arbitrator deems them applicable, the Supplementary Procedures for Consumer Related Disputes (collectively "Rules and Procedures").
 </li>
-<li> You are thus GIVING UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract EXCEPT for matters that may be taken to small claims court.
-Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury.
-You are entitled to a FAIR HEARING, BUT the arbitration procedures are SIMPLER AND MORE LIMITED THAN RULES APPLICABLE IN COURT.
-Arbitrator decisions are as enforceable as any court order and are subject to VERY LIMITED REVIEW BY A COURT.
+<li>
+<strong>YOU ARE THUS GIVING UP YOUR RIGHT TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS UNDER THIS CONTRACT EXCEPT FOR MATTERS THAT MAY BE TAKEN TO SMALL CLAIMS COURT.
+YOUR RIGHTS WILL BE DETERMINED BY A NEUTRAL ARBITRATOR AND NOT A JUDGE OR JURY.
+YOU ARE ENTITLED TO A FAIR HEARING, BUT THE ARBITRATION PROCEDURES ARE SIMPLER AND MORE LIMITED THAN RULES APPLICABLE IN COURT.
+ARBITRATOR DECISIONS ARE AS ENFORCEABLE AS ANY COURT ORDER AND ARE SUBJECT TO VERY LIMITED REVIEW BY A COURT.</strong>
 </li>
 <li> You and Dashlane must abide by the following rules: (a) for any claim that could otherwise be brought in small claims court, the arbitration shall be conducted solely based on written submissions and, if the arbitrator deems it appropriate, a telephonic hearing.
 (b) if the claim exceeds what can be recovered in a small claims court, the arbitration shall be conducted solely based on written submissions or a telephonic hearing, unless the arbitrator deems a face-to-face hearing is appropriate, in which case one should be held at a location agreed to by you and Dashlane, and if the parties cannot agree on a location for the hearing, the arbitrator will determine a location for the proceedings which is reasonably convenient to both parties with due consideration of their ability to travel and other pertinent circumstances.
@@ -338,4 +371,4 @@ Any changes to this Terms of Service Agreement will be effective thirty (30) cal
 <p> Dashlane Inc.<br> 73 Spring St.<br> Room 604<br> New York, NY 10012<br>
 </p>
 <p>LAST UPDATED.
-November, 2011.</p> 
+July 7, 2014.</p> 
