@@ -115,7 +115,7 @@ however the information we provide and your actions on those Shared Registration
 A list of those Shared Registration Sites is set forth below, and may be updated from time to time.
 Current Shared Registration Sites are: The National Magazine Company Limited.
 You may elect to change your User Registration at any time by logging in and editing your User Registration (each of our Covered Sites will contain log-in information).
-You may also log-in to cancel any user User Registration that you may have selected or that we may have assigned.
+You may also log-in to cancel any User Registration that you may have selected or that we may have assigned.
 If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for the purpose of assuring you are not automatically registered again, against your wishes.
 You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).
 When we delete any information, it will be deleted from the active database, but may remain in our archives.
@@ -166,7 +166,7 @@ in that event, your applicable registration information may be collected directl
 We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect.
 These third parties will use your information in accordance with their own privacy policy.</li>'.
 Privacy04 += '<li>
-<strong>Delivery of Advertising and Other Content</strong>
+<strong>Delivery of Advertising and Other Content.</strong>
 </li>'.
 Privacy04 += '<ol>'.
 Privacy04 += '<li>In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Covered Sites and elsewhere on the internet and in other media.
@@ -186,6 +186,12 @@ We require these companies to delete the Personally Identifiable Information we 
 These companies may use the resulting non-personal information and such cookies for their own marketing purposes, and they may provide the same to their customers for their customer\'s marketing purposes.
 If you would like to know your choices about not having this information used by such companies, please visit: alc-opt-out.com.</li>'.
 Privacy04 += '</ol>'.
+Privacy04 += '<li>
+<strong>Subscription Video Services.</strong> We may offer the right for you to access video content as a paid subscription service ("Paid Video Subscription Services").
+As a condition of becoming a subscriber, you must grant your consent to allow us to share information about the content you have viewed to third parties in order to provide you with the service, for our and others\' marketing purposes and to help you inform others about your experiences on social media services such as Facebook and Twitter.
+If you no longer wish us to share information about what you have watched on our service, you can cancel your subscription at any time.
+A list of those Paid Video Subscription Services, together with information on how to contact customer service about your account, will appear here.
+Current Paid Video Subscription Services are: Cosmobody — service@cosmobody.com</li>'.
 Privacy04 += '</ol>'.
 var Privacy05 = '<p>
 <strong>5.
@@ -194,12 +200,15 @@ Right to Opt-out</strong>
 Privacy05 += '<ol>'.
 Privacy05 += '<li>
 <strong>California &amp.
-Canadian Users: Your California Privacy Rights.</strong>California\'s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses\' practices related to disclosing personal information to third parties for the third parties\' direct marketing purposes.�� Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties\' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.�� We have such a policy in place.
+Canadian Users: Your California Privacy Rights.</strong> California\'s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses\' practices related to disclosing personal information to third parties for the third parties\' direct marketing purposes.
+Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties\' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.
+We have such a policy in place.
 Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared with third parties for the third parties\' direct or indirect marketing purposes, in accordance with such laws.
 In addition to reviewing Sections 4(d) and 5(d), if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Mail Preference Service, P.O.
 Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com.
 Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities.
-Again, Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.�� For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</li>'.
+Again, Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.
+For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</li>'.
 Privacy05 += '<li>
 <strong>Mobile Opt-out.
 </strong> We may provide you messages, including marketing, via your wireless email address or by short message service ("<strong>SMS Service</strong>"), WAP or Mobile Services as described in Section 6.
@@ -274,7 +283,7 @@ Any changes to this privacy policy will be effective upon thirty (30) calendar d
 These changes will be effective immediately for new users of our Covered Sites.
 Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>'.
 Privacy10 += ''.
-var Privacy11 = '<p>This policy was last updated on December 30, 2013.</p>'.
+var Privacy11 = '<p>This policy was last updated on July 17, 2014.</p>'.
 Privacy11 += ''.
 document.write('').
 document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
