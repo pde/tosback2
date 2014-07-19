@@ -20,7 +20,7 @@
    </url>
  </docname>
  <docname name="Apple Support Communities Use Agreement">
-   <url name="https://discussions.apple.com/static/apple/tutorial/tou.html" xpath="//div[@id='main']" reviewed="true">
+   <url name="https://discussions.apple.com/docs/DOC-5952" xpath="//section[@class='jive-content-body']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

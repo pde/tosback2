@@ -1,6 +1,6 @@
 <sitename name="vbulletin.com">
 	<docname name="Terms and Conditions">
-		<url name="http://www.vbulletin.com/terms/" reviewed="true" xpath="//div[@id='terms-wrapper']">
+		<url name="http://www.internetbrands.com/ibterms/" reviewed="true" xpath="//div[@id='main']">
 			<norecurse name="arbitrary"/>
 		</url>
 	</docname>
