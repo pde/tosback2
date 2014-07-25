@@ -16,7 +16,6 @@ After all, GitHub's code is hosted on GitHub, too!</p> Need to report a security
 System Security <ul>
 <li>System installation using hardened, patched OS</li>
 <li>Dedicated firewall and VPN services to help block unauthorized system access</li>
-<li>Dedicated intrusion detection devices to provide an additional layer of protection against unauthorized system access</li>
 <li>Distributed Denial of Service (DDoS) mitigation services powered by industry-leading solutions</li>
 </ul>
 Operational Security <ul>
