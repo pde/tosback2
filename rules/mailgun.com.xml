@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sitename name="mailgun.com">
-  <docname name="Terms of service">
+  <docname name="Terms of Service">
     <url name="http://www.mailgun.com/terms" xpath="//main" lang="EN">
       <norecurse name="arbitrary"/>
     </url>
   </docname>
-  <docname name="Privacy policy">
+  <docname name="Privacy Policy">
     <url name="http://www.mailgun.com/privacy" xpath="//main" lang="EN">
       <norecurse name="arbitrary"/>
     </url>
