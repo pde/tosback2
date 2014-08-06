@@ -1,6 +1,6 @@
 
 <p>
-<strong>Last Updated: May 5, 2014</strong>
+<strong>Last Updated: August 5, 2014</strong>
 </p>
 Foursquare Labs, Inc.
 Privacy Policy
@@ -10,7 +10,7 @@ We do, too.
 We are committed to giving you transparency of our privacy practices and control over your data in connection with Foursquare's Services (as defined in Foursquare's Terms of Service).
 To that end, in addition to this Privacy Policy, we have developed the following other documents that complement and are part of this policy, all of which describe the data we collect, how we use it, with whom we share it, and your choices regarding your data:</p>
 <ul>
-<li>A 'Privacy 101’ page, a concise and easy to read way to learn about privacy on the Services and the guiding principles that inform how we develop the Services and the decisions we make.
+<li>A 'Privacy 101' page, a concise and easy to read way to learn about privacy on the Services and the guiding principles that inform how we develop the Services and the decisions we make.
 and</li>
 <li>A set of FAQs related to privacy.</li>
 </ul>
@@ -19,7 +19,7 @@ The Services are not available to individuals who are younger than 13 years old.
 What Personal Information Does Foursquare Collect?
 <ul>
 <li>Personal Information You Provide to Us: We receive and store any information you enter on our Services or provide to us in any other way.
-The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, use information regarding your use of our Services, and browser information.
+The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, location, use information regarding your use of our Services, and browser information.
 We automatically receive your location when you use the Services.
 We use various technologies to determine location, such as location services of the applicable operating system or browser and sensor data from your device that may, for example, provide information on nearby Wi-Fi- access points and cell towers.
 The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Services, improving the content of the Services, customizing the advertising and content you and your friends see (including Foursquare or third-party advertising or content), and communicating with you about specials and new features.
@@ -41,14 +41,20 @@ We neither rent nor sell your Personal Information to anyone, though, as describ
 The default user settings for all data about you that is visible to others is summarized in our Privacy FAQs, together with information on how to change the default user settings or how to generally remove information, where applicable.
 Foursquare may share your Personal Information only as described in this Privacy Policy and related documents.</p>
 <ul>
-<li>Friends: Your friends can see, for example, your location (as described in more detail below), name, email, phone number, photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your Foursquare account), a list of your friends, plans you write or comment on, tips you write, and which Foursquare Services you use.
-Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge.
+<li>Friends and Followers:<ul>
+<li> Friends on Swarm and Foursquare (prior to version 8.0.0): Your friends can see, for example, your location (as described in more detail below), name, email, phone number, profile photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your Foursquare account), a list of your friends, plans you write or comment on, photos you post, tips you write, and which Foursquare Services you use.
+</li>
+<li>Followers and people you follow on Foursquare (version 8.0.0 and later): Followers can see your publicly available information and you can see the publicly available information of users you follow, as described below (under "Publicly Available Information, the Foursquare API, and Apps").
+</li>
+<li>Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge.
 We therefore urge you to think carefully about including any specific information you may deem private in comments, plans or tips or other content (location or otherwise) that you create in the Services.</li>
+</ul>
+</li>
 <li>Businesses, Locations, Events and Brands: One of the key purposes of the Services is to help users learn about businesses, locations, events and brands (for example, a TV show, a TV personality, newspaper or a consumer good that manages a page on the Service) that are relevant to them, and for these entities to provide information about themselves, their locations and events to users, as well as to reward users when they visit their location or event through offers and specials.
-When you check-in to a particular location that is a ‘claimed location’ your check-ins are shared with that location in order for it to better provide services to you.
-Additionally, brands may have access to aggregated and anonymous data, such as de-identified check-in data (that is, not tied to individual users) of users that like their brand.
+When you visit to a particular location that is a ‘claimed location’ your visits are shared with that location in order for it to better provide services to you.
+Additionally, brands may have access to aggregated and anonymous data, such as de-identified data about places that its followers visit (that is, not tied to individual users).
 For more info read the Privacy FAQs.</li>
-<li>Publicly Available Information, the Foursquare API, and Apps: When you use the Services, certain information is public, such as your public user profile information, tips, likes, public photos, lists that you create and lists of friends, and may be searchable by search engines and be shared with or disclosed to third parties, including through our API to a wide range of users and services.  We may also share or disclose aggregated and anonymous data, such as de-identified check-in data (that is, not tied to individual users), to third parties, including users of our API, for analytical or other purposes.</li>
+<li>Publicly Available Information, the Foursquare API, and Apps: When you use the Services, certain information is public, such as your public user profile information, tips, likes, saves, public photos, lists that you create and save, tastes, badges, mayorships, and lists of friends and/or followers (as applicable to a particular Service), and may be searchable by search engines and be shared with or disclosed to third parties, including through our API to a wide range of users and services.  We may also share or disclose aggregated and anonymous data, such as de-identified check-in data (that is, not tied to individual users), to third parties, including users you may follow and users of our API, for analytical or other purposes.</li>
 </ul>
 <p>In addition, use of third party apps developed using our API are subject to the terms of use and privacy policies of such third party developers.
 Certain Personal Information may be made available to third party developers if you or your "friends" use these third party apps.
@@ -65,7 +71,11 @@ This information is NOT shared with others.
 Also, the Services use your mobile device’s ‘background location’ to provide the Services, including to send you notifications of tips/friends/plans/interesting things etc.
 near you.
 If you have ‘background location’ turned on, the Foursquare app will, from time to time, tell us about your device’s location even if you are not directly interacting with the application.</p>
-<p>Sharing Location with the Foursquare app - Your location data is ONLY shared with others when you proactively decide to "check in" on the Foursquare app to tell the Services you’re at a particular place or, if you have turned on ‘check-in by friends,’ when your friend mentions you in his or her check in.
+<p>Sharing Location with the Foursquare app (version 8.0.0 and later) - Your real-time location is not shared on the Foursquare app.
+If you write a tip, like or otherwise interact with a place, users may infer that you have been to that location.
+Some content, like tips, are time stamped and other users could use that information to infer when you were at a place even though tips can be posted when you aren’t at the place you are leaving a tip about.
+Also, if you check into a place on Swarm, Foursquare may show your followers that you have been to that place.</p>
+<p>Sharing Location with the Foursquare app (prior to version 8.0.0) - Your location data is ONLY shared with others when you proactively decide to "check in" on the Foursquare app to tell the Services you’re at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in.
 The location information shared with a "check in" is the location information of that place.</p>
 <p>Sharing Location with Swarm app - By default, neighborhood sharing is turned on and your location data, at a neighborhood level, is shared with your Swarm friends and is updated from time to time using your background location.
 You can turn off neighborhood sharing in which case your location will only be shared when you proactively decide to "check in" on the Swarm app to tell the Services you’re at a particular place or, if you have turned on ‘check-in by friends,’ when your friend mentions you in his or her check in.
@@ -103,7 +113,7 @@ By continuing to use our Services through your computer or mobile device, you co
 This Privacy Policy and Foursquare's Cookie Policy covers the use of cookies by Foursquare and its service providers and does not cover the use of cookies by any advertisers.
 For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here or click here.
 Also, certain versions of the iOS operating system permit you to limit ad tracking in the system settings.
-Additionally, you can opt-out of Foursquare serving behaviorally targeted ads outside of the Foursquare app and Foursquare.com in your account settings.</p>
+Additionally, you can opt-out of Foursquare serving behaviorally targeted ads outside of Foursquare's apps and websites in your account settings.</p>
 Is Personal Information About Me Secure?
 <p>Your Foursquare account Personal Information is protected by a password for your privacy and security.
 You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately, and limiting access to your computer and browser by signing off after you have finished accessing your account.</p>
