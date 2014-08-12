@@ -1,21 +1,40 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 8 commits.
+# Your branch is ahead of 'origin/master' by 10 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
+#	modified:   ../crawl/agame.com/Privacy Policy.txt
 #	modified:   ../crawl/allstate.com/Privacy Policy.txt
+#	modified:   ../crawl/cartoonnetwork.com/Privacy Policy.txt
+#	modified:   ../crawl/elearners.com/Privacy Policy.txt
 #	modified:   ../crawl/fitbit.com/Privacy Policy.txt
-#	modified:   ../crawl/freecreditscore.com/Privacy Policy.txt
+#	modified:   ../crawl/funbrain.com/Privacy Policy.txt
+#	modified:   ../crawl/geek.net/Privacy Policy.txt
+#	modified:   ../crawl/godaddy.com/Domain Name Registration Agreement.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
+#	modified:   ../crawl/infoplease.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
+#	modified:   ../crawl/laredoute.fr/Privacy Policy.txt
+#	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
+#	modified:   ../crawl/poptropica.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
+#	modified:   ../crawl/tealium.com/Privacy Policy.txt
+#	modified:   ../crawl/thinkgeek.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/grammarly.com/Terms of Service and License Agreement.txt
 #	modified:   ../crawl_reviewed/linkedin.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/linkedin.com/Terms of Service.txt
+#	modified:   ../crawl_reviewed/verizon.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
