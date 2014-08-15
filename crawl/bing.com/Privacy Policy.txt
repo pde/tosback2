@@ -456,7 +456,10 @@ Bing only displays this information and does not store it.
 The Finance app only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
 </li>
 <li>Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app.
-  </li>
+</li>
+<li>Flurry Analytics is used in some Bing-powered aps to better understand how you use the app.
+For more about Flurry Analytics and information on how to opt out, please visit http://www.flurry.com/legal-privacy/end-user-opt-out.
+</li>
 </ul>
 <br>
 <br>
