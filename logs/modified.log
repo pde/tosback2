@@ -1,41 +1,32 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 16 commits.
+# Your branch is ahead of 'origin/master' by 18 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
-#	modified:   ../crawl/allstate.com/Privacy Policy.txt
-#	modified:   ../crawl/bing.com/Privacy Policy.txt
-#	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
+#	modified:   ../crawl/acdelco.com/Privacy Policy.txt
+#	modified:   ../crawl/agame.com/Privacy Policy.txt
+#	modified:   ../crawl/ask.com/Terms of Service.txt
 #	modified:   ../crawl/booking.com/Privacy Policy.txt
-#	modified:   ../crawl/cox.com/Acceptable Use Policy.txt
-#	modified:   ../crawl/dell.com/Consumer Terms of Sale.txt
-#	modified:   ../crawl/dickssportinggoods.com/Privacy Policy.txt
+#	modified:   ../crawl/buick.com/Privacy Policy.txt
+#	modified:   ../crawl/cadillac.com/Privacy Policy.txt
+#	modified:   ../crawl/centurylink.com/Acceptable Use Policy.txt
+#	modified:   ../crawl/chevrolet.com/Privacy Policy.txt
 #	modified:   ../crawl/ebay.com/Privacy Policy.txt
+#	modified:   ../crawl/elearners.com/Privacy Policy.txt
 #	modified:   ../crawl/fandango.com/Privacy Policy.txt
-#	modified:   ../crawl/freecreditscore.com/Privacy Policy.txt
-#	modified:   ../crawl/gap.com/Privacy Policy.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
-#	modified:   ../crawl/ideeli.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
-#	modified:   ../crawl/mtv.com/Privacy Policy.txt
-#	modified:   ../crawl/mylife.com/Privacy Policy.txt
-#	modified:   ../crawl/officedepot.com/Privacy Policy.txt
-#	modified:   ../crawl/otalliance.org/Privacy Policy.txt
+#	modified:   ../crawl/mycertifiedservice.com/Privacy Policy.txt
+#	modified:   ../crawl/sencha.com/Privacy Policy.txt
+#	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
-#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
-#	modified:   ../crawl/stackexchange.com/Content Policy.txt
-#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
-#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
-#	modified:   ../crawl/t-mobile.com/Terms and Conditions.txt
-#	modified:   ../crawl/toyota.com/Privacy Policy.txt
-#	modified:   ../crawl/tube8.com/Privacy Policy.txt
-#	modified:   ../crawl/vh1.com/Privacy Policy.txt
+#	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
 #	modified:   ../crawl/weebly.com/Privacy Policy.txt
+#	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
 #	modified:   ../crawl_reviewed/att.com/Privacy Policy.txt
 #	modified:   ../logs/empty.log
