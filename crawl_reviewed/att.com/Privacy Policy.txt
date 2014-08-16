@@ -1,4 +1,5 @@
-���// JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 08-15-2014 KD5879 Changed links resolving to pid 24374 to email address.
+// // JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
