@@ -276,9 +276,7 @@ The types of data we collect includes the following, without limitation: (a) a l
 <li>
 <p>avast! SecureLine: When you use the <b>avast! SecureLine</b> virtual private network (VPN) service, the server may capture certain basic data such as the time and network location from which the VPN connection was made and the duration of the VPN connection.
 This information is routinely deleted within 30 days.
-In addition, the system may store data on the bandwidth transferred per session.
-The <b>avast! SecureLine</b> service is provided by a third party under contract with Avast, and the privacy policy, terms of service, and end user license agreement (EULA) of the third party apply to any information that users provide in connection with the <b>avast! SecureLine</b> service.
-</p>
+In addition, the system may store data on the bandwidth transferred per session.</p>
 </li>
 <li>
 <p>avast! EasyPass: <b>avast! EasyPass</b> is a program that stores user passwords under a single master password and permits the user to log on to multiple sites using a unitary sign-on credential.
@@ -287,12 +285,21 @@ Passwords may be backed up on a remote server, and certain other identifying inf
 The <b>avast! EasyPass</b> service is provided by a third party under contract with Avast, and the privacy policy, terms of service, and end user license agreement (EULA) of the third party apply to any information that users provide in connection with the <b>avast! EasyPass</b> service.</p>
 </li>
 <li>
-<p>Grimefighter: Grimefighter is a bootable Linux-based antivirus program that removes tough malware.
+<p>Grimefighter: <b>Grimefighter</b> is a bootable Linux-based antivirus program that removes tough malware.
 In order to use it, the following information must be stored: (a) your name, surname, email address, password hash, originating IP address, display name and number of scanned systems.
 (b) scanned systems history including data about operating system, hostnames and usernames of the systems, patch level, system health, hardware information (including CPU), graphics card information, hard drive information, system hard drive boot sectors, system´s hard drive volume headers.
 (c) system data information- list of computer software installed, directory listing of software, registry name and entries, registry hives and executables.
 (d) wifi connection security information, i.e.
 the used level of the connection´s encryption.</p>
+</li>
+<li>
+<p>SafePrice: When you use <b>SafePrice</b>, information related to certain shops or products (including but not limited to product name, identifier, article number and price) will be transferred to Avast.
+This information is used to retrieve available offers (e.g.
+coupons or cheaper prices) from partners of third parties cooperating with Avast.
+Avast requests offers anonymously from those third parties and will not transfer or disclose PII to them.
+Certain third party‘s partners/service providers may also use cookies in relation to services they provide on or via <b>SafePrice</b>.
+For example, when you click on an offer presented within the product, a cookie may be placed on your computer.
+Third party/third party‘s partner/service provider sites, offers and/or cookies are not controlled by us and are not subject to this privacy policy.</p>
 </li>
 <li>
 <p>Other products: There may be other products (current or future) that require that we collect certain types of personal information in order to enable full product functionality.
