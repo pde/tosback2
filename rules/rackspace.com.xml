@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitename name="rackspace.com">
+  <docname name="US Acceptable Use Policy">
+    <url name="http://www.rackspace.com/information/legal/aup" xpath="//div[@id='content-main']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Global Acceptable Use Policy">
+    <url name="http://www.rackspace.com/information/legal/global/aup" xpath="//div[@id='content-main']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Política de Uso Aceitável">
+    <url name="http://www.rackspace.com/information/legal/pt/aup" xpath="//div[@id='content-main']" lang="PT">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Política de uso aceptable">
+    <url name="http://www.rackspace.com/information/legal/es/aup" xpath="//div[@id='content-main']" lang="ES">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="可接受使用政策">
+    <url name="http://www.rackspace.com/information/legal/cn/aup" xpath="//div[@id='content-main']" lang="CN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Beleid voor Acceptabel Gebruik">
+    <url name="http://www.rackspace.com/information/legal/nl/aup" xpath="//div[@id='content-main']" lang="NL">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Nutzungsbedingungen">
+    <url name="http://www.rackspace.com/information/legal/de/aup" xpath="//div[@id='content-main']" lang="DE">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Statement">
+    <url name="http://www.rackspace.com/information/legal/privacystatement" xpath="//div[@id='content-main']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

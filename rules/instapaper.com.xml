@@ -1,0 +1,22 @@
+<sitename name="instapaper.com">
+  <docname name="Terms of Service">
+    <url name="https://www.instapaper.com/terms" xpath="//div[@class='colophon_page']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.instapaper.com/privacy" xpath="//div[@class='colophon_page']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="API Terms of Use">
+    <url name="https://www.instapaper.com/api/terms" xpath="//div[@class='colophon_page']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Copyright Policy">
+    <url name="https://www.instapaper.com/dmca" xpath="//div[@class='colophon_page']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

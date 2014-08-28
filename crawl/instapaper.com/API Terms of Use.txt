@@ -1,0 +1,45 @@
+
+API Terms of Use
+<p>Instapaper strives to be fair and enabling toward developers.
+To protect Instapaper, its server resources, and its users, some rules are necessary.
+We apologize for the legalities necessary here, and will try to keep this brief.</p>
+<p>These policies may change at any time, without notice, as needs change over time and new rules need to be added for the good of the service and its users.</p>
+<p>
+<strong>Disclaimer:</strong> Instapaper content, the Instapaper API, and any other Instapaper products and services provided hereunder are provided "as is" and on an "as-available" basis, without warranty of any kind.
+Instapaper disclaims all warranties, whether express, implied, statutory, or otherwise, including without limitation warranties of merchantability, noninfringement, fitness for a particular purpose, and any warranties or conditions arising out of course of dealing or usage of trade.
+Instapaper does not warrant that the Instapaper content and Instapaper API and any other Instapaper products and services provided hereunder will meet all of your requirements or that use of such Instapaper content and Instapaper API be error-free uninterrupted, virus-free, or secure.</p>
+<p>
+<strong>Limitation of Liability:</strong> In no event will Instapaper be liable to you for any special, incidental, exemplary, punitive or consequential damages (including loss of use, data, business or profits) arising out of or in connection with this agreement or your use of the Instapaper API, Instapaper content, or other Instapaper products and services whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not you have been advised of the possibility of such loss or damage.
+The foregoing limitations will survive and apply even if any limited remedy specified in this agreement is found to have failed its essential purpose.
+In any case, Instapaper will have zero aggregate liability under this agreement.</p>
+<p>
+<strong>Denial and Revocation:</strong> Instapaper reserves the right to deny and/or revoke an application's API access for any reason.
+Such reasons may include that the app's keys have been compromised, published, or shared, or the app has been abusive or in violation of any policies.</p>
+Implementation rules
+<p>Apps must not store users' passwords.
+Passwords may only be collected for the xAuth token acquisition and must be discarded afterward.
+Apps must make reasonable efforts to prevent passwords from being compromised, and must not disclose passwords to any other services or individuals.</p>
+<p>Apps must not add bookmarks to users' accounts that the users did not explicitly request to be added.
+Apps may not automate the addition of bookmarks from other inputs that are not based on a per-item user action.
+For example, automatically adding bookmarks to a user's account from RSS feeds is not permitted, but automatically adding bookmarks that the user has starred in his or her personal Google Reader account or favorited in his or her Twitter account is permitted because the user was required to take an explicit action to select each item.</p>
+<p>Apps must not make multiple simultaneous requests to the Instapaper Mobilizer or the "Bookmarks: Get Text" method.
+Such requests must be performed in series, not in parallel.
+Requests to the Instapaper Mobilizer must only be made when the user has explicitly requested a page to be viewed, and may not be automatically bulk-loaded in advance or in the background.</p>
+<p>Apps must not attempt to circumvent any subscription-account requirements.</p>
+<p>For page additions that require full content to be supplied, including those for which the API returns the "1220: Domain requires full content to be supplied" error, apps that send the full content must not substantially alter the page's content from the way it appears in a standard web browser.</p>
+<p>Apps must not attempt to circumvent the API's refusal to save content from any sites for which the API returned the "1221: Domain has opted out of Instapaper compatibility" error.</p>
+<p>Apps must only interact with Instapaper using these published API methods, and must not "scrape" the Instapaper website for any functionality.</p>
+Use of customer data
+<p>Apps may not use users' Instapaper data or other personal data in any way that a reasonable person would likely deem "creepy" or otherwise unacceptable.
+Instapaper reserves the right to decide whether an app's usage of users' data is creepy.</p>
+<p>Apps must not destroy or alter customer data except when the user has performed an explicit action to do so.</p>
+Use of trademarks
+<p>Apps and other products and services may not use Instapaper's name, logos, or other trademarks in their titles or logos, or in any way that implies endorsement, sponsorship, or false association with Instapaper.
+However, apps may describe themselves as "for Instapaper", e.g.
+"IReader for Instapaper".
+Instapaper reserves the right to judge whether an app's use of its name, logos, or other trademarks is acceptable.</p>
+Things that should be obvious but aren't
+<p>App descriptions must be accurate and must not mislead users.</p>
+<p>Apps must not spam anyone or any services in any way.
+Instapaper reserves the right to judge whether any behavior is considered spam.</p>
+<p>Apps must not attempt to interfere with, disrupt, or disable any API features.</p>
