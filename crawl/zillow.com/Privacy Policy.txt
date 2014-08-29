@@ -25,6 +25,7 @@ Rentals
 <ul>
 <li> Apartments For Rent</li>
 <li> Houses For Rent</li>
+<li>All Rental Listings</li>
 </ul>
 <dl>
 <dd>Renter's Guide</dd>
@@ -77,13 +78,13 @@ Agents
 <dd>
 </dd>
 <dt>For Rental Pros</dt>
-<dd> Real Estate Advertising </dd>
+<dd> Real Estate Advertising</dd>
 </dl>
 <dl>
 <dd>
 </dd>
 <dt>For Pros</dt>
-<dd> Join the Professional Directory </dd>
+<dd> Join the Professional Directory</dd>
 </dl>
 </li>
 <li>
@@ -145,13 +146,12 @@ Home Design<ul>
 <dd>Zillow TV Spots</dd>
 <dd>Widgets, Badges &amp.
 Data</dd>
-<dd>Zillow Mobile Apps</dd>
+<dd>Mobile</dd>
 <dd>Help</dd>
 </dl>
 </li>
 </ul>
 <ul>
-<li>Advertise</li>
 <li>
 Sign InorJoin
 </li>
