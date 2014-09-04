@@ -3,30 +3,6 @@
 <p> JavaScript is not enabled on your browser </p> You must have JavaScript enabled on your Web browser to fully interact with our site and place an order.
 (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.) <ul>
 <li>
-New Arrivals <ul>
-<li>
-<ul>
-<li>
-<i>
-</i>Back to Main Menu New Arrivals </li>
-</ul>
-</li>
-<li>
-<ul>
-<li>
-<ul>
-<li>Women</li>
-<li>Men</li>
-<li>Girls</li>
-<li>Boys</li>
-<li>Home</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
 Women <ul>
 <li>
 <ul>
@@ -37,16 +13,16 @@ Women <ul>
 <li>
 <i>
 </i>Back to Women Featured Shops </li>
-<li>Swim Shop</li>
+<li>Outerwear Shop</li>
 <li>Jeans 101</li>
+<li>Performance Collection</li>
 <li>Shoes &amp.
 Boots</li>
-<li>Outerwear</li>
 <li>
 <li>New Arrivals</li>
-<li>Cardigan Shop</li>
 <li>Looks To Love</li>
-<li>Performance Collection</li>
+<li>Cardigan Shop</li>
+<li>Tailored Collection</li>
 <li>Sale</li>
 </ul>
 </li>
@@ -68,7 +44,7 @@ Shop By Size Range <ul>
 <li>
 <ul>
 <li> Categories <ul>
-<li>Swimsuits</li>
+<li>Outerwear</li>
 <li>Knit Tops, Polos &amp.
 Turtlenecks</li>
 <li>Shirts &amp.
@@ -85,15 +61,15 @@ Crops</li>
 <li>Blazers &amp.
 Jackets</li>
 <li>Activewear</li>
-<li>Outerwear</li>
-<li>Hats, Gloves &amp.
-Scarves</li>
+<li>Swimsuits</li>
 <li>Sleepwear</li>
 <li>Shoes</li>
 <li>Socks, Tights &amp.
 Underwear</li>
 <li>Accessories &amp.
 Handbags</li>
+<li>Hats, Gloves &amp.
+Scarves</li>
 <li>Totes</li>
 </ul>
 </li>
@@ -113,12 +89,13 @@ Featured Shops <ul>
 <li>
 <i>
 </i>Back to Men Featured Shops </li>
-<li>Swim Shop</li>
+<li>Jeans Lineup</li>
+<li>Made to Work</li>
 <li>Shoes &amp.
 Boots</li>
-<li>Made to Work</li>
-<li>Jeans Lineup</li>
+<li>Outerwear Shop</li>
 <li>
+</li>
 <li>New Arrivals</li>
 <li>Favorite Looks</li>
 <li>
@@ -145,7 +122,7 @@ Tall</li>
 <li>
 <ul>
 <li> Categories <ul>
-<li>Swimwear</li>
+<li>Outerwear</li>
 <li>Polos, T-shirts &amp.
 Turtlenecks</li>
 <li>Dress Shirts</li>
@@ -160,13 +137,13 @@ Hoodies</li>
 <li>Sportcoats &amp.
 Blazers</li>
 <li>Sleepwear</li>
-<li>Outerwear</li>
-<li>Hats, Gloves &amp.
-Scarves</li>
+<li>Swimwear</li>
 <li>Shoes</li>
 <li>Ties</li>
 <li>Belts &amp.
 Accessories</li>
+<li>Hats, Gloves &amp.
+Scarves</li>
 <li>Socks &amp.
 Underwear</li>
 <li>Activewear</li>
@@ -187,8 +164,7 @@ Kids <ul>
 <li>
 <i>
 </i>Back to Kids Featured Shops </li>
-<li>Backpacks &amp.
-Lunch Boxes</li>
+<li>Outerwear Shop</li>
 <li>Shoes &amp.
 Boots</li>
 <li>School Uniforms</li>
@@ -226,9 +202,7 @@ Shop By Age Range <ul>
 <li>
 <i>
 </i>Back to Kids Girls </li>
-<li>Backpacks &amp.
-Lunch Boxes</li>
-<li>Swim</li>
+<li>Outerwear</li>
 <li>Tops</li>
 <li>Graphic Tees</li>
 <li>Sweaters &amp.
@@ -244,13 +218,15 @@ Skorts</li>
 <li>Shorts</li>
 <li>Blazers &amp.
 Jackets</li>
-<li>Outerwear</li>
-<li>Hats, Gloves &amp.
-Scarves</li>
 <li>Sleepwear</li>
+<li>Swim</li>
+<li>Backpacks &amp.
+Lunch Boxes</li>
 <li>Tights, Socks &amp.
 Underwear</li>
 <li>Accessories</li>
+<li>Hats, Gloves &amp.
+Scarves</li>
 <li>Shoes</li>
 </ul>
 </li>
@@ -262,10 +238,7 @@ Underwear</li>
 <li>
 <i>
 </i>Back to Kids Boys </li>
-<li>Backpacks &amp.
-Lunch Boxes</li>
-<li>Swim</li>
-<li>Shorts</li>
+<li>Outerwear</li>
 <li>Tops</li>
 <li>Graphic Tees</li>
 <li>Sweaters</li>
@@ -273,16 +246,19 @@ Lunch Boxes</li>
 Hoodies</li>
 <li>Pants</li>
 <li>Jeans</li>
+<li>Shorts</li>
 <li>Blazers &amp.
 Jackets</li>
-<li>Outerwear</li>
-<li>Hats, Gloves &amp.
-Scarves</li>
 <li>Sleepwear</li>
+<li>Swim</li>
+<li>Backpacks &amp.
+Lunch Boxes</li>
 <li>Ties &amp.
 Accessories</li>
 <li>Socks &amp.
 Underwear</li>
+<li>Hats, Gloves &amp.
+Scarves</li>
 <li>Shoes</li>
 </ul>
 </li>
@@ -291,25 +267,21 @@ Underwear</li>
 </ul>
 </li>
 <li>
-Swim <ul>
+Outerwear <ul>
 <li>
 <ul>
 <li>
 <i>
-</i>Back to Main Menu Swim </li>
-<li> Shop Swim </li>
+</i>Back to Main Menu Outerwear </li>
+<li> Shop Outerwear </li>
 <li>Women</li>
 <li>Men</li>
 <li>Girls</li>
 <li>Boys</li>
-<li>Cover-ups &amp.
-Rash Guards</li>
-<li>Water Shoes &amp.
-Sandals</li>
-<li>Totes &amp.
-Bags</li>
-<li>Beach Towels</li>
-<li>Swim Tees</li>
+<li>Hats, Gloves &amp.
+Scarves</li>
+<li>Long Underwear</li>
+<li>Snow Boots</li>
 </ul>
 </li>
 </ul>
@@ -329,7 +301,6 @@ Featured Shops <ul>
 <li>Bedding</li>
 <li>Bath</li>
 <li>Totes</li>
-<li>Beach Towels</li>
 <li>
 <li>New Arrivals</li>
 <li>Supima Bed &amp.
@@ -348,10 +319,9 @@ Categories <ul>
 <li>Bath</li>
 <li>Blankets &amp.
 Throws</li>
-<li>Beach Towels</li>
-<li>Totes</li>
 <li>Storage &amp.
 Organization</li>
+<li>Totes</li>
 <li>Home Décor &amp.
 Gifts</li>
 <li>Kitchen &amp.
@@ -360,6 +330,7 @@ Dining</li>
 Bags</li>
 <li>Kids Home</li>
 <li>Dog Shop</li>
+<li>Beach Towels</li>
 </ul>
 </li>
 </ul>
@@ -380,8 +351,8 @@ Featured Shops <ul>
 <i>
 </i>Back to Uniforms Featured Shops </li>
 <li>Find your School</li>
-<li>Backpacks &amp.
-Lunch Boxes</li>
+<li>Shoes &amp.
+Boots</li>
 <li>
 <li>Polos that Perform</li>
 <li>Iron Knee Pants</li>
@@ -645,8 +616,8 @@ In those instances where Lands' End collects personal information from a child, 
 Parents or guardians may also request that Lands' End not make contact with their child.
 If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.</p>
 <i>
-</i> Get Exclusive Offers + News Sign Up Privacy Policy &amp.
-Contact Info facebook twitter pinterest twitter pinterest sywr sywr Le Blog <ul>
+</i> Get Exclusive Offers + News Privacy Policy &amp.
+Contact Info Sign Up facebook twitter pinterest twitter pinterest sywr sywr Le Blog <ul>
 <li>Customer Service</li>
 <li>Guaranteed.
 Period.<sup>®</sup>
@@ -708,7 +679,7 @@ Policies <ul>
 <li>California Transparency Act</li>
 </ul>
 </li>
-</ul> Sustainability <p>We're a proud partner of the National Forest Foundation.</p> Learn More Shop Our E-Catalog <p>Environmentally friendly, easy to shop and always at your fingertips.</p> Browse Catalog Connect With Us <p>From tablet to smart phone, we're everywhere you are.</p> Learn More Shop Your Way Rewards <p>Make every purchase rewarding.
+</ul> Sustainability <p>We're a proud partner of the National Forest Foundation.</p> Learn More Shop Our E-Catalog <p>Environmentally friendly, easy to shop and always at your fingertips.</p> Browse Catalog Apostrophe <p>The Lands' End quarterly filled with fashion, beauty, travel and more.</p> Learn More Shop Your Way Rewards <p>Make every purchase rewarding.
 Join today.
 Earn today.
 It's free.</p> Join Now ® Copyright 2014 Lands' End 
