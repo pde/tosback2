@@ -25,7 +25,7 @@ For example, automatically adding bookmarks to a user's account from RSS feeds i
 <p>Apps must not make multiple simultaneous requests to the Instapaper Mobilizer or the "Bookmarks: Get Text" method.
 Such requests must be performed in series, not in parallel.
 Requests to the Instapaper Mobilizer must only be made when the user has explicitly requested a page to be viewed, and may not be automatically bulk-loaded in advance or in the background.</p>
-<p>Apps must not attempt to circumvent any subscription-account requirements.</p>
+<p>Apps must not attempt to circumvent any Premium account requirements.</p>
 <p>For page additions that require full content to be supplied, including those for which the API returns the "1220: Domain requires full content to be supplied" error, apps that send the full content must not substantially alter the page's content from the way it appears in a standard web browser.</p>
 <p>Apps must not attempt to circumvent the API's refusal to save content from any sites for which the API returned the "1221: Domain has opted out of Instapaper compatibility" error.</p>
 <p>Apps must only interact with Instapaper using these published API methods, and must not "scrape" the Instapaper website for any functionality.</p>
