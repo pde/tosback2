@@ -30,7 +30,7 @@ class TOSBackNotifier
     if @changes.length > 0
       bodytext = ""
       @changes.each {|change| bodytext += "#{change[:site]}: #{change[:name]}\n"}
-      url = "https://github.com/tosdr/tosback2/commit/" + @commit
+      url = "https://github.com/tosdr/tosback2/commit/" + @commit + "?diff=split"
       
       mail = Mail.deliver do
         to 'tosdr@googlegroups.com'
