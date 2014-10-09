@@ -222,7 +222,7 @@ Mobile Applications provided by salesforce.com may obtain information from, or a
 For example, a Mobile Application may: access a camera on a User’s Device to enable the User to upload photographs to the Services.
 access the call history on a User’s Device to enable the User to upload that information to the Services.
 access calendar information on a User’s Device to enable the User to match meeting attendees with contacts submitted by the User to the Services.
-access the geographic location of a User’s Device to enable the User to identify contacts submitted by the User the Services who are nearby.
+access the geographic location of a User’s Device to enable the User to identify contacts submitted by the User to the Services who are nearby.
 or access contact information on a User’s Device to enable the User to sync contact information between the information that is stored on the User’s Device and the information that is submitted to the Services.
 Information obtained to provide Mobile Application services may include information obtained in preparation for anticipated updates to those services.
 Mobile Applications may transmit information to and from Devices to provide the Mobile Application services.</p>
