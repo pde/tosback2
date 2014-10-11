@@ -38,12 +38,12 @@ Homes for Sale MENU Homes <ul>
 </ul>
 </li>
 </ul>Rentals <ul>
-<li> Rentals <ul>
+<li> CA rentals <ul>
 <li>
 <ul>
 <li> Apartments for rent </li>
 <li> Houses for rent </li>
-<li> All rental listings </li>
+<li> All Rental listings </li>
 </ul>
 </li>
 </ul>
@@ -63,6 +63,7 @@ Homes for Sale MENU Homes <ul>
 <ul>
 <li> Get pre-approved </li>
 <li> Mortgage rates </li>
+<li> CA mortgage rates </li>
 </ul>
 </li>
 </ul>
@@ -71,6 +72,7 @@ Homes for Sale MENU Homes <ul>
 <li>
 <ul>
 <li> Refinance rates </li>
+<li> CA refinance rates </li>
 <li> HARP program </li>
 </ul>
 </li>
@@ -167,10 +169,11 @@ Homes for Sale MENU Homes <ul>
 </ul>
 </li>
 </ul>Local <ul>
-<li> Local <ul>
+<li> CA <ul>
 <li>
 <ul>
 <li> Home values </li>
+<li> Schools </li>
 </ul>
 </li>
 </ul>
@@ -256,6 +259,10 @@ help <ul>
 </ul>
 </li>
 <li>
+<ul>
+<li> Most expensive homes </li>
+<li> Most expensive rentals </li>
+</ul>
 </li>
 </ul>
 </li>
