@@ -62,9 +62,11 @@ Girls <ul>
 <li>Bras </li>
 <li>Panties </li>
 <li>Socks </li>
+<li>Sleepwear </li>
 <li>ACCESSORIES <ul>
 <li>Bags + Wallets </li>
 <li>Jewelry </li>
+<li>Sunglasses </li>
 <li>Scarves </li>
 <li>Cold Weather</li>
 <li>Hats</li>
@@ -199,9 +201,14 @@ Socks </li>
 </ul>
 <ul>
 <li>
+Sleepwear </li>
+</ul>
+<ul>
+<li>
 ACCESSORIES <ul>
 <li>Bags + Wallets </li>
 <li>Jewelry </li>
+<li>Sunglasses </li>
 <li>Scarves </li>
 <li>Cold Weather</li>
 <li>Hats</li>
@@ -276,6 +283,7 @@ Guys <ul>
 </ul>
 </li>
 <li>Outerwear </li>
+<li>Dorm </li>
 <li>Footwear <ul>
 <li>Sneakers</li>
 </ul>
@@ -298,7 +306,6 @@ Guys <ul>
 </li>
 <li>ROOM </li>
 <li>Uniform </li>
-<li>Dorm </li>
 </ul>
 </li>
 </ul>
@@ -374,6 +381,10 @@ Outerwear </li>
 </ul>
 <ul>
 <li>
+Dorm </li>
+</ul>
+<ul>
+<li>
 Footwear <ul>
 <li>Sneakers</li>
 </ul>
@@ -414,10 +425,6 @@ ROOM </li>
 <ul>
 <li>
 Uniform </li>
-</ul>
-<ul>
-<li>
-Dorm </li>
 </ul>
 </li>
 <li>
