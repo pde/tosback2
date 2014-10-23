@@ -6,7 +6,7 @@
     </url>
   </docname>
   <docname name="Terms of Service">
-    <url name="http://my.verizon.com/central/vzc.portal?_nfpb=true&amp;_pageLabel=vzc_help_policies&amp;id=TOS" xpath="//div[@class='＿bea-wlp-disc-context-hook']/table[(@border='0') and (@bgcolor='white')]/tr[3]/td[@style='line-height:15px']" reviewed="true">
+    <url name="https://my.verizon.com/central/vzc.portal?_nfpb=true&amp;_pageLabel=vzc_help_policies&amp;id=TOS" xpath="//div[@class='＿bea-wlp-disc-context-hook']/table[(@border='0') and (@bgcolor='white')]/tr[3]/td[@style='line-height:15px']" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
