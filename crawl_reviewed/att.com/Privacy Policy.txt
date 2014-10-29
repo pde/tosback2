@@ -1,5 +1,4 @@
-���// JavaScript Document // Updated 08-15-2014 KD5879 Changed links resolving to pid 24374 to email address.
-// // JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 10-28-2014 KD5879 // // JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
@@ -675,9 +674,9 @@ That includes "opting out" of some programs, setting privacy preferences, and un
 We\'ve listed your choices below.</p>' + '<ul>' + '<li>
 <strong>Online Advertising from AT&amp;T Adworks</strong>: You can opt-out of all Relevant Advertising delivered by AT&amp;T AdWorks on your computer by visiting this page.
 You will need to opt-out on <strong>each</strong> computer browser you wish to exclude.</li>' + '<li>
-<strong>Mobile Advertising from AT&amp;T Adworks</strong>: You can opt-out of receiving Relevant Advertising delivered by AT&amp;T AdWorks by visiting this page on your mobile device.
+<strong>Mobile Advertising from AT&amp;T Adworks</strong>: You can opt-out of receiving Relevant Advertising delivered by AT&amp;T AdWorks on your mobile device.
 You will need to opt-out on <strong>each</strong> mobile device you wish to exclude.' + '<ul>
-<li>You also can follow the steps below:' + '<ul>
+<li>You can follow the steps below:' + '<ul>
 <li>From your AT&amp;T mobile device you want to opt out, go to http://205.234.28.93/mobileoptout/</li>' + '<li>Make sure you are on the AT&amp;T wireless network, and not on any Wi-Fi</li>' + '<li>Choose the blue Opt-Out button.
 You should receive the following message: "Thank you.
 This device will not be receiving AT&amp;T AdWorks Relevant Advertising"</li>' + '</ul>
