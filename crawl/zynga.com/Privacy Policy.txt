@@ -589,8 +589,9 @@ Instagram <ul>
 <li>Privacy</li>
 <li>Security</li>
 <li>Contact</li>
-</ul> ©<?php print date('Y', time());?> Zynga.
-All rights reserved.
+</ul>
+<p>©2014 Zynga Inc.
+All rights reserved.</p>
 <ul>
 <li>
 <i>
