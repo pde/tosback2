@@ -1,11 +1,11 @@
 <sitename name="owncube.com">
  <docname name="Privacy">
-   <url name="https://owncube.com/privacy-en.php" xpath="//section[@id='content']" reviewed="true">
+   <url name="https://owncube.com/privacy-en.php" xpath="//section[@class='info_content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Use">
-   <url name="https://owncube.com/terms-en.php" xpath="//section[@id='content']" reviewed="true">
+   <url name="https://owncube.com/terms-en.php" xpath="//section[@class='info_content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

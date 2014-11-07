@@ -1,11 +1,11 @@
 <sitename name="evernote.com">
  <docname name="Privacy Policy">
-   <url name="http://evernote.com/legal/privacy.php" xpath="//div[@id='content']" reviewed="true">
+   <url name="https://evernote.com/legal/privacy.php" xpath="//div[@class='content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms of Service">
-   <url name="http://evernote.com/legal/tos.php" xpath="//div[@id='content']" reviewed="true">
+   <url name="https://evernote.com/legal/tos.php" xpath="//div[@class='content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
