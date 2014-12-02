@@ -1,7 +1,4 @@
-// JavaScript Document
-// Updated 10-28-2014 KD5879 //
-// JavaScript Document
-// Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 12-01-2014 KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
@@ -9,8 +6,7 @@ checkAnc = pid.indexOf('#').
 if(checkAnc != '-1') { pid = pid.split('#').
 pid = pid[0].
 } } //alert(pid).
-function renderPrintLink() {
-document.write ('' + 'View our current policy' + '').
+function renderPrintLink() { document.write ('' + 'View our current policy' + '').
 } function renderLandingPageContent() { document.write('	' + ' About Our Privacy Policy' + '<p>Whenever you do something like buy one of our products, stream a movie or download an app, information is created.
 Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information.
 There’s a quick summary below, and the entire policy is written in an easy FAQ format.
@@ -82,24 +78,19 @@ Analytics Reports.
 var privacyFAQlink = ''.
 // alert (pid).
 if ( pid == '2506' ) { privacyFAQlink = '/gen/privacy-policy?pid=13692'.
-} document.write(' <li>Definitions</li>' + '<li>Scope of this Policy</li>'
-/* + '<li>Scope of this Policy').
+} document.write(' <li>Definitions</li>' + '<li>Scope of this Policy</li>' /* + '<li>Scope of this Policy').
 } else { document.write('Policy Scope"&gt;Policy Scope').
-} document.write('</li>'*/ + '<li>The Information We Collect, How We Collect It, And How We Use It</li>' + '<li>Information Sharing</li>' + '<li>Online Activity Tracking and Advertising</li>' + '<li>Location Information</li>'
-/* + '<li>Aggregate &amp.
+} document.write('</li>'*/ + '<li>The Information We Collect, How We Collect It, And How We Use It</li>' + '<li>Information Sharing</li>' + '<li>Online Activity Tracking and Advertising</li>' + '<li>Location Information</li>' /* + '<li>Aggregate &amp.
 Anonymous Information').
 } else { document.write('Information Sharing"&gt;Information Sharing').
 } document.write('</li>'*/ + '<li>Aggregate and Anonymous Information</li>' + '<li>External Marketing &amp.
-Analytics Reports</li>' + '<li>Online Privacy Policy for Children</li>'
-/* + '<li>Online Privacy Policy for Children').
+Analytics Reports</li>' + '<li>Online Privacy Policy for Children</li>' /* + '<li>Online Privacy Policy for Children').
 } else { document.write('Our Online Privacy Policy for Children"&gt;Our Online Privacy Policy for Children').
 } document.write('</li>'*/ + '<li>Data Protection &amp.
-Security</li>' + '<li>Changes</li>'
-/* + '<li>Changes').
+Security</li>' + '<li>Changes</li>' /* + '<li>Changes').
 } else { document.write('Changes"&gt;Changes to This Policy').
 } document.write('</li>'*/ + '<li>Choices &amp.
-Controls</li>'
-/* + '<li>Customer Controls &amp.
+Controls</li>' /* + '<li>Customer Controls &amp.
 Choices').
 } else { document.write('Customer Control"&gt;Choices &amp.
 Controls').
@@ -114,8 +105,7 @@ As stated in this Privacy Policy, we will not sell your Personal Information to 
 AT&amp;T provides information about the opt-out choices it makes available, and the opt-outs choices provided by certain third-party website and mobile application analytics companies we use here.</p>' + '<p>
 <strong>"Do Not Track" Notice:</strong> Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, AT&amp;T currently does not respond to those signals.
 For more information on Do Not Track, please visit www.allaboutdnt.com.</p>' + '<p>California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.</p>' + '').
-} function setFaqContent(sectionID)
-{ document.getElementById(sectionID).scrollIntoView(true).
+} function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true).
 menuItem = sectionID + 'A'.
 activeMenuItem = document.getElementById(menuItem).
 var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA').
@@ -637,8 +627,7 @@ When AT&amp;T uses third parties to perform services on its behalf that require 
 <em>AT&amp;T does not sell CPNI to unaffiliated third parties.
 </em>
 </p>' + 'Restricting our use of your CPNI' + '<p>If you wish to restrict our use of your CPNI for marketing purposes, you may contact a customer service representative at the customer service phone number located on your AT&amp;T telephone bill or one of the following numbers:</p>' + '<p>Wireless - 1-800-331-0500</p>' + '<p>Business - 1-888-944-0447</p>' + '<p>Residential - 1-800-288-2020</p>' + '<p>Spanish Language - 1-800-870-5855</p>' + '<p>For assistance in other languages, please visit world.att.com.</p>' + '<p>Legacy AT&amp;T Consumer - 1-800-222-0300</p>' + '<p>Restricting our use of your CPNI for marketing purposes will not affect the provision of any AT&amp;T products or services to which you subscribe, nor will it eliminate all types of AT&amp;T marketing contacts.</p>').
-if ( pid == 'printversion' ) {
-document.write('Customer Service Contact Numbers' + '<p>
+if ( pid == 'printversion' ) { document.write('Customer Service Contact Numbers' + '<p>
 <strong>Wireless</strong> — 1-800-331-0500</p>' + '<p>
 <strong>Business</strong> — 1-888-944-0447</p>' + '<p>
 <strong>Residential</strong> — 1-800-288-2020</p>' + '<p>
@@ -649,8 +638,7 @@ document.write('Customer Service Contact Numbers' + '<p>
 <strong>Ether</strong> — Please contact Ether using the Customer Support request.</p>' // + '<p>
 <strong>Keen</strong> — Please contact Keen using the Customer Support form.</p>' + '<p>
 <strong>AT&amp;T Internet Services</strong> — Customers can manage newsletter subscriptions or other e-mail communications from Yahoo! by modifying their AT&amp;T Yahoo! Marketing Preferences.</p>').
-} } function renderDNM() {
-document.write('<p>AT&amp;T will maintain a company-specific (Internal) Do Not Mail (DNM) list of existing and prospective residential customers who request not to receive any AT&amp;T marketing materials via US Postal Mail.' + '</p>
+} } function renderDNM() { document.write('<p>AT&amp;T will maintain a company-specific (Internal) Do Not Mail (DNM) list of existing and prospective residential customers who request not to receive any AT&amp;T marketing materials via US Postal Mail.' + '</p>
 <ul>' + '<li>Consumers must contact the AT&amp;T residential care center at 1-800-288-2020 and specify each individual member of the household and each associated address to be added to the DNM list.</li>' + '<li>Generally AT&amp;T processes DNM requests within 30 days.
 However, because our mailings are processed well in advance, you may continue to receive additional offers for some time after the request date.' + '<ul>' + '<li>Please note that AT&amp;T may direct mail market to certain neighborhoods or zip codes.
 These offerings are delivered to all homes in a neighborhood or zip code.
@@ -690,7 +678,7 @@ You will need to opt-out on <strong>each</strong> computer browser you wish to e
 <strong>Mobile Advertising from AT&amp;T Adworks</strong>: You can opt-out of receiving Relevant Advertising delivered by AT&amp;T AdWorks on your mobile device.
 You will need to opt-out on <strong>each</strong> mobile device you wish to exclude.' + '<ul>
 <li>You can follow the steps below:' + '<ul>
-<li>From your AT&amp;T mobile device you want to opt out, go to http://mobileoptout.att.com/</li>' + '<li>Make sure you are on the AT&amp;T wireless network, and not on any Wi-Fi</li>' + '<li>Choose the blue Opt-Out button.
+<li>From your AT&amp;T mobile device you want to opt out, go to mobileoptout.att.com/</li>' + '<li>Make sure you are on the AT&amp;T wireless network, and not on any Wi-Fi</li>' + '<li>Choose the blue Opt-Out button.
 You should receive the following message: "Thank you.
 This device will not be receiving AT&amp;T AdWorks Relevant Advertising"</li>' + '</ul>
 </li>' + '</ul>
@@ -730,10 +718,10 @@ If you do not want Flurry Analytics to collect information related to the use of
 If you opt-out, Flurry will cease collection of information related to your use of the U-verse App, as well as any other application on your device that contains the Flurry software agent.</li>' + '<li>For more information about Crittercism and its privacy policy, please go to http://www.crittercism.com.
 If you do not want Crittercism to collect information related to the use of the U-verse App from your device, you may opt out of Crittercism data collection by going to "Settings" in the U-verse App, selecting "Diagnostics" and turning the toggle switch for "Enable Diagnostics" to "OFF".
 If you opt-out, the U-verse App will no longer send information to Crittercism.</li>' + '</ul>
-</li>' + '<li>AD-X is a technology that anonymously measures advertising effectiveness.
-AT&amp;T uses AD-X to measure the effectiveness of advertising shown on AT&amp;T mobile applications.
-Learn more about AD-X, its privacy policy, and opt-out of its collection of information at https://ad-x.co.uk/dont_track.php.
-If you opt-out, AT&amp;T mobile applications will no longer send anonymous information to AD-X.</li>' + '<li>AT&amp;T uses Google Analytics on some of its websites.
+</li>' + '<li>Criteo is a technology that anonymously measures advertising effectiveness.
+AT&amp;T uses Criteo to measure the effectiveness of advertising shown on AT&amp;T mobile applications.
+Learn more about Criteo, its privacy policy, and opt-out of its collection of information at http://www.criteo.com/privacy/.
+If you opt-out, AT&amp;T mobile applications will no longer send anonymous information to Criteo.</li>' + '<li>AT&amp;T uses Google Analytics on some of its websites.
 Website visitors that don\'t want their visit data reported by the Google Analytics JavaScript can install the Google Analytics opt-out browser add-on.
 This add-on instructs the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) to prohibit sending visit information to Google Analytics.
 The browser add-on is available for most modern browsers.
@@ -784,9 +772,7 @@ We recommend that you read the applicable privacy policy for all third-party app
 If, however, we are going to use/disclose AT&amp;T I DISH Network Customer Account Information in a manner different from that stated at the time of collection we will notify AT&amp;T | DISH Network customers directly.</p>' ).
 } function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + 'En Français' + '' + '' + '<p>
 <strong>Welcome.</strong> The AT&amp;T Privacy Policy lays out our commitments to privacy and describes our policies for helping to protect personal information.
-We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&amp;T Policy, and we welcome your feedback.</p>'
-// + '<p>View the current AT&amp;T privacy policy</p>'
-// + 'Welcome to the AT&amp;T Privacy Policy,<p>effective date <strong>11/18/2010</strong>.
+We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&amp;T Policy, and we welcome your feedback.</p>' // + '<p>View the current AT&amp;T privacy policy</p>' // + 'Welcome to the AT&amp;T Privacy Policy,<p>effective date <strong>11/18/2010</strong>.
 We invite you to learn more about our commitments, safeguards and customer choices.</p> ' // + '<p>
 <strong>Welcome to the AT&amp;T Privacy Policy.
 We will provide a preview of the updated privacy policy ��� before it goes into effect.
@@ -847,8 +833,7 @@ document.write('' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy 
 <br> More</p> ' + '<p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
 <br> More</p> ' + '' ).
 document.write('' + 'More Information' + '<p>Visit www.att.net/smartcontrols for tips on keeping your family safe while staying connected, and links to more safety resources.</p>' + '<p>Learn more about Smart Limits parental controls for Internet, wireless, television and home phone.</p>' ).
-} if (pid == '2566') {} else {
-// document.write('<p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
+} if (pid == '2566') {} else { // document.write('<p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
 <br> More</p> ').
 } document.write(' ').
 /*if(pid=='13692') { document.write('' + 'More Information' + '<p>Visit www.att.net/smartcontrols for tips on keeping your family safe while staying connected, and links to more safety resources.</p>' + '<p>Learn more about Smart Limits parental controls for Internet, wireless, television and home phone.</p>' + ' ').
