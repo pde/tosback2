@@ -20890,3 +20890,71 @@
 2014-12-06 00:33:19 -0500 - http://womu.alexanderstreet.com/help/view/terms_of_use:	404 => Net::HTTPNotFound for http://womu.alexanderstreet.com/help/view/terms_of_use -- unhandled response
 2014-12-06 00:33:22 -0500 - http://www.detroitmedia.com/termsofservice:	404 => Net::HTTPNotFound for http://www.detroitmedia.com/termsofservice -- unhandled response
 2014-12-06 00:33:23 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
+2014-12-07 00:15:11 -0500 - http://www.dishnetwork.com/downloads/legal/PrivacyStatement.pdf:	404 => Net::HTTPNotFound for http://www.dish.com/data/error_404/default.aspx -- unhandled response
+2014-12-07 00:16:37 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	Connection timed out - connect(2)
+2014-12-07 00:16:47 -0500 - http://www.gather.com/privacy.jsp:	404 => Net::HTTPNotFound for http://gather.com/privacy.jsp -- unhandled response
+2014-12-07 00:17:14 -0500 - http://identi.ca/doc/tos:	404 => Net::HTTPNotFound for https://identi.ca/doc/tos -- unhandled response
+2014-12-07 00:17:14 -0500 - http://identi.ca/doc/privacy:	404 => Net::HTTPNotFound for https://identi.ca/doc/privacy -- unhandled response
+2014-12-07 00:17:25 -0500 - http://www.foodfunandfacts.com/privacypolicy.html:	getaddrinfo: Name or service not known
+2014-12-07 00:18:34 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	Connection timed out - connect(2)
+2014-12-07 00:18:35 -0500 - http://www.speeddate.com/apps/site/views/mp/privacypolicy.php:	404 => Net::HTTPNotFound for https://www.speeddate.com/apps/site/views/mp/privacypolicy.php -- unhandled response
+2014-12-07 00:19:12 -0500 - http://sp.search-results.com/en/docs/about/privacy.shtml:	503 => Net::HTTPServiceUnavailable for http://sp.search-results.com/en/docs/about/privacy.shtml -- unhandled response
+2014-12-07 00:19:36 -0500 - http://www.oxygen.com/legal/privacyPolicy.aspx:	404 => Net::HTTPNotFound for http://www.oxygen.com/legal/privacyPolicy.aspx -- unhandled response
+2014-12-07 00:19:42 -0500 - http://www.cnbc.com/id/15837353/print:	404 => Net::HTTPNotFound for http://www.cnbc.com/id/15837353/print -- unhandled response
+2014-12-07 00:19:45 -0500 - http://support.lockerz.com/entries/515604-Terms-of-Use:	getaddrinfo: Name or service not known
+2014-12-07 00:21:02 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	Connection timed out - connect(2)
+2014-12-07 00:21:38 -0500 - http://karoo.co.uk/privacy-policy.aspx:	404 => Net::HTTPNotFound for http://www.karoo.co.uk/Error.aspx?aspxerrorpath=/privacy-policy.aspx -- unhandled response
+2014-12-07 00:21:40 -0500 - http://onlineshoes.custhelp.com/cgi-bin/onlineshoes.cfg/php/enduser/std_adp.php?p_faqid=55:	getaddrinfo: Name or service not known
+2014-12-07 00:21:45 -0500 - https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js:	404 => Net::HTTPNotFound for https://d2wvvaown1ul17.cloudfront.net/site-static/c5807641fcc724e3f238ffc7788f7fbc10c0f706/pages/home/about/tosBody.html.js -- unhandled response
+2014-12-07 00:22:06 -0500 - http://www.data.gov/privacypolicy:	404 => Net::HTTPNotFound for http://www.data.gov/privacypolicy -- unhandled response
+2014-12-07 00:22:07 -0500 - http://www.data.gov/datapolicy:	404 => Net::HTTPNotFound for http://www.data.gov/datapolicy -- unhandled response
+2014-12-07 00:23:13 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	Connection timed out - connect(2)
+2014-12-07 00:23:51 -0500 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp -- unhandled response
+2014-12-07 00:23:51 -0500 - http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms:	403 => Net::HTTPForbidden for http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms -- unhandled response
+2014-12-07 00:25:04 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	Connection timed out - connect(2)
+2014-12-07 00:25:20 -0500 - https://www.meebo.com/privacy/full/:	404 => Net::HTTPNotFound for https://www.meebo.com/privacy/full/ -- unhandled response
+2014-12-07 00:25:44 -0500 - http://www.vcstar.com/privacy/:	404 => Net::HTTPNotFound for http://www.vcstar.com/privacy/ -- unhandled response
+2014-12-07 00:26:05 -0500 - http://theapprovedcard.com/moreinfo/privacypolicy/:	503 => Net::HTTPServiceUnavailable for http://theapprovedcard.com/moreinfo/privacypolicy/ -- unhandled response
+2014-12-07 00:26:09 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/2/:	403 => Net::HTTPForbidden for http://www.nbc.com/privacy-policy/terms-of-service/2 -- unhandled response
+2014-12-07 00:26:10 -0500 - http://www.nbc.com/privacy-policy/terms-of-service/3/:	403 => Net::HTTPForbidden for http://www.nbc.com/privacy-policy/terms-of-service/3 -- unhandled response
+2014-12-07 00:26:15 -0500 - http://www.naplesnews.com/privacy/:	404 => Net::HTTPNotFound for http://www.naplesnews.com/privacy/ -- unhandled response
+2014-12-07 00:26:24 -0500 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	404 => Net::HTTPNotFound for http://www.travelocity.com/info/info_window/0,,TRAVELOCITY%7CPRIVACY_WINDOW,00.html -- unhandled response
+2014-12-07 00:26:26 -0500 - http://www.united.com/page/article/06867100200.html?jumpLink=%2Fprivacy:	404 => Net::HTTPNotFound for http://www.united.com/web/en-us/apps/search/notfound.aspx?http://www.united.com/page/article/06867100200.html?jumpLink=%2Fprivacy -- unhandled response
+2014-12-07 00:26:27 -0500 - http://www.putlocker.com/page.php?privacy:	404 => Net::HTTPNotFound for http://www.putlocker.com/page.php?privacy -- unhandled response
+2014-12-07 00:26:33 -0500 - http://geek.net/terms-of-use.cfm:	503 => Net::HTTPServiceUnavailable for http://geek.net/terms-of-use.cfm -- unhandled response
+2014-12-07 00:26:50 -0500 - http://www.worldstarhiphop.com/videos/ppolicy.php:	404 => Net::HTTPNotFound for http://www.worldstarhiphop.com/videos/ppolicy.php -- unhandled response
+2014-12-07 00:26:57 -0500 - http://www.accesshollywood.com/privacy-policy:	404 => Net::HTTPNotFound for http://www.accesshollywood.com/privacy-policy -- unhandled response
+2014-12-07 00:27:29 -0500 - http://www.cvs.com/help/privacy_policy.jsp:	404 => Net::HTTPNotFound for http://www.cvs.com/help/privacy_policy.jsp -- unhandled response
+2014-12-07 00:28:14 -0500 - https://ixquick.com/eng/privacy-policy.html:	SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)
+2014-12-07 00:28:34 -0500 - http://www.townandcountrymag.com/privacy/:	404 => Net::HTTPNotFound for http://www.townandcountrymag.com/privacy/ -- unhandled response
+2014-12-07 00:28:36 -0500 - http://geek.net/privacy-statement.cfm:	503 => Net::HTTPServiceUnavailable for http://geek.net/privacy-statement.cfm -- unhandled response
+2014-12-07 00:28:37 -0500 - http://geek.net/terms-of-use.cfm:	404 => Net::HTTPNotFound for http://geek.net/terms-of-use.cfm -- unhandled response
+2014-12-07 00:28:46 -0500 - http://geeknetmedia.com/privacy-statement/:	403 => Net::HTTPForbidden for http://geeknetmedia.com/privacy-statement/ -- unhandled response
+2014-12-07 00:29:10 -0500 - http://www.hsbc.com/1/2/terms-and-conditions:	404 => Net::HTTPNotFound for http://www.hsbc.com/1/2/terms-and-conditions -- unhandled response
+2014-12-07 00:29:13 -0500 - http://agb.web.de/Datenschutzerklaerung/AGB/20120801/:	500 => Net::HTTPInternalServerError for http://agb.web.de/Datenschutzerklaerung/AGB/20120801/ -- unhandled response
+2014-12-07 00:30:20 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	Connection timed out - connect(2)
+2014-12-07 00:30:31 -0500 - http://www.adn.com/privacy_policy/:	404 => Net::HTTPNotFound for http://www.adn.com/privacy_policy/ -- unhandled response
+2014-12-07 00:31:04 -0500 - http://www.pronto.com/help/legal/policy.do:	404 => Net::HTTPNotFound for http://www.pronto.com/help/legal/policy.do -- unhandled response
+2014-12-07 00:31:14 -0500 - http://www.carbonunity.com/privacy-policy:	connection refused: www.carbonunity.com:80
+2014-12-07 00:31:34 -0500 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	404 => Net::HTTPNotFound for http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page -- unhandled response
+2014-12-07 00:31:36 -0500 - https://wiki.sonic.net/wiki/Category:Policies:	SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: (null)
+2014-12-07 00:31:53 -0500 - https://www.change.org/static/user_agreement.html:	404 => Net::HTTPNotFound for https://www.change.org/static/user_agreement.html -- unhandled response
+2014-12-07 00:31:56 -0500 - http://byliner.com/about/privacy:	connection refused: www.byliner.com:443
+2014-12-07 00:33:01 -0500 - http://www.metrolyrics.com/privacy.html:	Connection timed out - connect(2)
+2014-12-07 00:33:02 -0500 - http://www.audiusa.com/us/brand/en/tools/imprint/privacy.html:	404 => Net::HTTPNotFound for http://www.audiusa.com/us/brand/en/tools/imprint/privacy.html -- unhandled response
+2014-12-07 00:34:21 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	Connection timed out - connect(2)
+2014-12-07 00:34:21 -0500 - http://www.squidoo.com/squidoo/65355501-Terms-of-Service:	404 => Net::HTTPNotFound for http://www.squidoo.com/squidoo/65355501-Terms-of-Service -- unhandled response
+2014-12-07 00:35:33 -0500 - http://www.playfirst.com/privacy-policy.html:	404 => Net::HTTPNotFound for http://www.playfirst.com/privacy-policy.html -- unhandled response
+2014-12-07 00:35:40 -0500 - http://www.kansascity.com/privacy_policy/:	404 => Net::HTTPNotFound for http://www.kansascity.com/privacy_policy/ -- unhandled response
+2014-12-07 00:35:42 -0500 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	500 => Net::HTTPInternalServerError for http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/ -- unhandled response
+2014-12-07 00:35:55 -0500 - http://www.patch.com/privacy:	404 => Net::HTTPNotFound for http://patch.com/privacy -- unhandled response
+2014-12-07 00:35:57 -0500 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	connection refused: www.sprintpcs.com:80
+2014-12-07 00:36:00 -0500 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	404 => Net::HTTPNotFound for http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html -- unhandled response
+2014-12-07 00:36:10 -0500 - http://msnlatino.telemundo.com/legal_privacy/:	404 => Net::HTTPNotFound for http://www.telemundo.com/legal_privacy -- unhandled response
+2014-12-07 00:36:10 -0500 - http://www.livejournal.com/legal/privacy.bml:	503 => Net::HTTPServiceUnavailable for http://www.livejournal.com/legal/privacy.bml -- unhandled response
+2014-12-07 00:36:10 -0500 - http://www.livejournal.com/legal/tos.bml:	503 => Net::HTTPServiceUnavailable for http://www.livejournal.com/legal/tos.bml -- unhandled response
+2014-12-07 00:37:32 -0500 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	Connection timed out - connect(2)
+2014-12-07 00:37:36 -0500 - http://www.careerpath.com/privacy/:	404 => Net::HTTPNotFound for http://www.careerbuilder.com/intl/404.aspx?cbRecursionCnt=1 -- unhandled response
+2014-12-07 00:37:57 -0500 - http://womu.alexanderstreet.com/help/view/terms_of_use:	404 => Net::HTTPNotFound for http://womu.alexanderstreet.com/help/view/terms_of_use -- unhandled response
+2014-12-07 00:38:00 -0500 - http://www.detroitmedia.com/termsofservice:	404 => Net::HTTPNotFound for http://www.detroitmedia.com/termsofservice -- unhandled response
+2014-12-07 00:38:01 -0500 - http://infospace.com/support/privacypolicy:	404 => Net::HTTPNotFound for http://infospace.com/support/privacypolicy -- unhandled response
