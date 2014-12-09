@@ -1,26 +1,23 @@
  <p>
 <strong>Your browser is out of date</strong> and Zillow may not function correctly.
 Please upgrade to the latest version of one of these free browsers: Internet Explorer, Firefox, Safari or Chrome.
-</p>  MENU Homes <ul>
+</p>
+ MENU Homes <ul>
 <li> Homes for sale <ul>
 <li>
 <ul>
 <li> Homes for sale </li>
 <li> For sale by owner </li>
 <li> Foreclosures </li>
+<li> Open houses </li>
 </ul>
 </li>
 <li>
 <ul>
-<li> Open houses </li>
 <li> New homes </li>
 <li> Coming soon </li>
-</ul>
-</li>
-<li>
-<ul>
 <li> Recent home sales </li>
-<li> Browse all homes </li>
+<li> All homes </li>
 </ul>
 </li>
 </ul>
@@ -31,12 +28,10 @@ Please upgrade to the latest version of one of these free browsers: Internet Exp
 <li> For sale by owner </li>
 <li> For sale by agent </li>
 <li> Coming Soon </li>
+<li> Make Me Move </li>
 </ul>
 </li>
 <li>
-<ul>
-<li> Make Me Move </li>
-</ul>
 </li>
 </ul>
 </li>
@@ -253,6 +248,7 @@ help <ul>
 <li> Zillow Affiliates </li>
 <li> Brokers and Zillow </li>
 <li> MLS and Zillow </li>
+<li> Widgets and data </li>
 </ul>
 </li>
 </ul>
