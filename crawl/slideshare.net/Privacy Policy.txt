@@ -381,15 +381,22 @@ Dublin 2 Ireland Back to Top <ul>
 <li>
 Help Center
 </li>
-<li>About</li>
+<li>
+About
+<ul>
 <li>Press</li>
 <li>Blog</li>
+<li>Developers</li>
+</ul>
+</li>
 <li>Careers</li>
 <li>Advertising</li>
 <li>Talent Solutions</li>
+<li>
+Sales Solutions
+</li>
 <li>Small Business</li>
 <li>Mobile</li>
-<li>Developers</li>
 <li>
 Language <ul>
 <li>Bahasa Indonesia</li>
@@ -442,4 +449,5 @@ Community Guidelines
 </li>
 <li>Cookie Policy</li>
 <li>Copyright Policy</li>
+<li>Unsubscribe</li>
 </ul> 
