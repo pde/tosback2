@@ -70,13 +70,52 @@ Ce prestataire s'est engagé contractuellement à garantir un niveau de sécurit
 </li>
 </ul>
 </ul>
-<p>Vous pouvez à tout moment avoir accès et changer les informations concernant vos coordonnées dans votre espace client à la rubrique « modification de votre compte » et gérer vos newsletters à la rubrique « modification de vos newsletters ».<strong>
-</strong>
+<p>Vous pouvez à tout moment avoir accès et changer les informations concernant vos coordonnées dans votre espace client à la rubrique « modification de votre compte » et gérer vos newsletters à la rubrique « modification de vos newsletters ».
 </p>
 <p>
 <strong>Conformément à la Loi Informatique et Libertés du 06/01/1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant et d'opposition à leur traitement.
 Si vous souhaitez l'exercer, vous pouvez écrire à La Redoute – Service Relations Clients – 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.</strong>
 </p>
+<ul>
+<li>
+<strong>Données bancaires</strong>
+</li>
+<ul>
+<li>
+<strong>La collecte des données</strong>
+</li>
+</ul>
+</ul>
+<p> </p>
+<p>Afin d´assurer la sécurité des paiements, La Redoute utilise les services d’un prestataire, OGONE, certifié PCI-DSS.
+Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.
+ </p>
+<p>Lorsque vous passez une commande en  paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système d’OGONE qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes.
+<strong>Les données sont stockées sur les serveurs OGONE et ne sont à aucun moment transmises sur les serveurs de La Redoute.</strong> OGONE fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
+</p>
+<p>Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne.
+Elles sont enregistrées chez OGONE de façon sécurisée.
+Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ».
+Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes,</p>
+<ul>
+<ul>
+<li>
+<strong>Traitement des paiements </strong>
+</li>
+</ul>
+</ul>
+<p>Le prélèvement sur mon compte s'effectue au fur et à mesure de l'expédition des articles.
+Les retours sont crédités sur votre compte.
+En cas de produits différés, le débit du montant de la commande peut être effectué en plusieurs fois selon les différentes dates de livraison de vos produits.</p>
+<ul>
+<ul>
+<li>
+<strong>Durée de conservation des données </strong>
+</li>
+</ul>
+</ul>
+<p>Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, OGONE garde les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction (paiements après expédition de la marchandise) et au traitement des éventuelles réclamations (retours, litiges).</p>
+<p>Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de  la carte.</p>
 <ul>
 <li>
 <strong>Les Cookies</strong>
@@ -210,5 +249,4 @@ Tel est notamment le cas des boutons "Partager", "J'aime", issus de réseaux soc
 <li>S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte.</li>
 </ul>
 <p>Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de Redoute.fr à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter Redoute.fr.</p>
-<p>Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.</p>
-<p> </p> 
+<p>Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.</p> 
