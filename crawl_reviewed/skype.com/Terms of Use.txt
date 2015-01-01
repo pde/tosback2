@@ -99,11 +99,8 @@ If you do not agree with the amended Terms, you may terminate your relationship 
 <b>4.
 LICENCE</b>
 <p>
-<b>
-</b>
-<b>4.1</b> Licence.
-Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, free of charge license to download and install the Software on a personal computer, mobile phone or other device.
-and personally use the Software through your individual Skype user account (“<b>User Account</b>”).
+<b>4.1 Licence.</b> Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, free of charge license to download and install the Software on a personal computer, mobile phone or other device.
+and personally use the Software through your individual Skype user account, acting as an individual and not as a business entity (“<b>User Account</b>”).
 For the avoidance of doubt, (a) IT administrators working on behalf of a company may download and install the Skype Software onto personal computers or other devices used by personnel of such company.
 and (b) you are permitted to use the Software at a university or other educational institution, or at work.
 Skype reserves all rights not expressly granted to you under these Terms.</p>
@@ -142,9 +139,11 @@ Connecting to the Internet via a corporate or other private network which masks 
 If your use of the Internet Communications Software is dependent upon the use of a processor and bandwidth owned or controlled by a third party, you acknowledge and agree that your licence to use the Internet Communications Software is subject to you obtaining consent from the relevant third party for such use.
 You represent and warrant that by accepting these Terms, you have obtained such consent.</p>
 <p>
-<b>5.3 Updates to the Software:</b> Skype may automatically check your version of the Skype Software. We may also automatically download configuration changes and updates to the Software from time to time.
+<b>5.3 Updates to the Software:</b> Skype may automatically check your version of the Skype Software.
+We may also automatically download configuration changes and updates to the Software from time to time.
 You may be required to update the Software in order to continue using Skype.
 You agree to accept such updates subject to these Terms unless other terms accompany the updates.
+If you do not agree, please discontinue use of and uninstall the Software.
 Skype is not obligated to make any updates available and does not guarantee that we will continue to support the version of the operating system or device for which you licensed the Software or that updated Software will be compatible for use with end users running older versions of the Software.
 Microsoft Corporation or its affiliates and subsidiaries may also automatically download updates to the Skype Software for Windows, if you have chosen to receive Microsoft Updates.
 Updates may be required to maintain software compatibility, provide security updates or bug fixes, or offer new features, functionality or versions.</p>
@@ -183,11 +182,8 @@ Where limited emergency calling is supported Skype will not charge you to make a
 If however your country is not supported for limited emergency calling then you should not attempt to, and agree not to, make any emergency calls using your Internet Communications Software.
 If, with your permission, another user uses your User Account, it is your responsibility to inform that user of the limited circumstances in which limited emergency calling is available.</p>
 <p>
-<b>
-</b>
-<b>5.7</b> Content of Communications: Skype is not the source of, does not verify or endorse and takes no responsibility for the content of communications made using the Software, including but not limited to any media that is shared through our communication features.
-By using the Software, you agree that the content of communications that you submit may be transmitted to the recipient of your communication and that messages and content shared through messaging features may be stored on Skype servers (a) to convey and synchronize your messages and content and (b) to enable you and your recipients to view the messages and related content.
-Messages are generally stored by Skype until you have deleted a message or cleared your message history, or as otherwise described in our Privacy Policy unless otherwise permitted or required by law.</p>
+<b>5.7 Content of Communications:</b> Skype is not the source of, does not verify or endorse and takes no responsibility for the content of communications made using the Software, including but not limited to any media that is shared through our communication features.
+By using the Software, you grant Skype an intellectual property license to use the content of communications to provide the Products, for example to transmit your communication to the intended recipient.</p>
 <p>Skype reserves the right to review content submitted on or through the Software, Products and Skype Websites for the purpose of enforcing these Terms.
 Skype may, in its sole discretion, block or otherwise prevent delivery of any instant message, SMS, video, media, or other communication to or from the Software, Products and Skype Websites as part of our efforts to protect the Software, Products, Skype Websites or our customers, or to otherwise enforce these Terms.
 The following rules apply to your conduct and content when using the Software, Products and Skype Websites:</p>
@@ -301,7 +297,7 @@ You agree not to solicit, for commercial purposes, any users of the Skype Websit
 You agree not to circumvent, disable or otherwise interfere with the security related features of the Skype Website or Software or features that prevent or restrict the use of any content thereof.</p>
 <p>
 <b>6.5 Your Information:</b> From time to time, Skype may request information from you for the purpose of supplying the Software or Products to you.
-You shall ensure that any such information is complete, up-to-date and accurate.</p>
+You shall ensure that any such information (including, where applicable, your billing information) is complete, up-to-date and accurate.</p>
 <p>
 <b>6.6 No Reselling.</b> The Software and Products are for your individual use.
 You shall not resell or commercialise the Software and/or Products to any third party.</p>
@@ -344,22 +340,20 @@ If you do not accept the new rates, do not make your call.</p>
 <p>(iv) The duration of a call shall be based on one-minute increments.
 Fractions of minutes will be rounded up to the next minute.
 The connection fee, where applicable, will be charged at the beginning of the call.
-At the end of a call, fractional cent charges will be rounded up to the nearest whole cent, for example a total call price of €0.034 will be rounded up to €0.04.
-During the call, charges incurred will be deducted automatically from the Skype Credit balance in your User Account.</p>
+Any fractional currency unit charges will be rounded up to the nearest whole minimum currency unit, for example a total call price of €0.034 will be rounded up to €0.04.
+Charges incurred will be deducted automatically from the Skype Credit balance in your User Account.</p>
 <p>
-<b>8.2 Charges for other Paid For Products:</b> The charges for other Paid For Products will be confirmed to you before you complete a purchase from Skype.
+<b>8.2 Charges for other Paid For Products: </b>The charges for other Paid For Products will be confirmed to you before you complete a purchase from Skype.
 Skype may change the charges payable for the purchase of such Products at any time without any notice to you.
 You can choose whether or not to accept the new charges prior to completing your next purchase of the applicable Product.
-The new charges will apply to your next purchase after the new charges have been published.</p>
+The new charges will apply to your next purchase after the new charges have been published.
+Fractional currency unit charges for SMS and Skype WiFi usage will be rounded up to the nearest whole minimum currency unit.
+For example, if you send three SMS at the same time to a single destination at the rate of €0.056, you will be charged €0.17.</p>
 <p>
 <b>8.3 Promotional Offers:</b> From time to time, Skype may offer Paid-For Products for free for a trial period.
 Skype reserves the right to charge you for such Products (at the normal rate) in the event that Skype determines (in its reasonable discretion) that you are abusing the terms of the offer, including if you are using any service, proxy or other devices or anonymous IP address that prevents us from locating you.</p>
 <p>
-<b>8.4 Tax:</b> Skype may collect VAT or other indirect taxes at the appropriate rate (as per applicable tax rules).
-15% Luxembourg VAT generally applies if you are located in the EU and the Products are purchased and used in the EU.
-8% Swiss VAT applies if you are located in Switzerland.
-Other local taxes may apply in certain countries.
-When you purchase a voucher or pre-paid card, depending on the country, 15% Luxembourg VAT, local VAT or other taxes may apply and may be deducted from the value of the voucher or prepaid card upon redemption.
+<b>8.4 Tax:</b> All prices for Paid For Products are inclusive of applicable taxes, including VAT, unless otherwise stated.
 You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you.
 The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended.
 The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.</p>
@@ -758,10 +752,7 @@ The new recurring monthly payment shall begin on the date upon which you change 
 <p>
 <b>YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN.
 BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.</b>
-<br>
 </p>
-<p>© Skype and/or Microsoft – Last updated: June 2014</p>
-<p>
-</p> Call
+<p>© Skype and/or Microsoft – Last updated: 31 December 2014</p> Call
 Send SMS
 Add to Skype You'll need Skype CreditFree via Skype 
