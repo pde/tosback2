@@ -493,25 +493,43 @@ Bags</li>
 </li>
 </ul>
 </li>
-<li>
-Sale <ul>
-<li>
-<ul>
+<li> Sale <ul>
 <li>
 <i>
-</i>Back to Main Menu Sale </li>
-<li>Shop Sale</li>
+</i>Back to Main Menu </li>
+<li>
+<ul>
+<li> Sale <ul>
+<li>
+<i>
+</i>Back to Sale Sale </li>
 <li>Women</li>
 <li>Men</li>
 <li>Girls</li>
 <li>Boys</li>
 <li>Home</li>
+<li>School Uniform</li>
 </ul>
+</li>
+</ul>
+</li>
+<li>
 <ul>
-<li>Clearance</li>
+<li> Clearance <ul>
+<li>
+<i>
+</i>Back to Clearance Clearance </li>
+<li>Women</li>
+<li>Men</li>
+<li>Girls</li>
+<li>Boys</li>
+<li>Home</li>
 <li>On The Counter</li>
 <li>Not Quite Perfect</li>
+<li>In-season Savings</li>
 <li>Clearance - Last Chance</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
