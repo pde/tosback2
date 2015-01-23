@@ -1,5 +1,8 @@
  <p>Connexity</p>
 <ul>
+<?php icl_post_languages().
+//do_action('icl_language_selector').
+?>
 <li>Login</li>
 <li>
 <li>
