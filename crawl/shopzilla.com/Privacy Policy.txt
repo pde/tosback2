@@ -1,8 +1,5 @@
  <p>Connexity</p>
 <ul>
-<?php icl_post_languages().
-//do_action('icl_language_selector').
-?>
 <li>Login</li>
 <li>
 <li>
@@ -61,9 +58,9 @@ life stage</li>
 <li>Multi-screen</li>
 </ul>
 <ul>
-<li>Publisher Monetization</li>
-<li>CPC Product Monetization</li>
-<li>CPM Display Monetization</li>
+<li>Publisher Monetisation</li>
+<li>CPC Product Monetisation</li>
+<li>CPM Display Monetisation</li>
 </ul>
 </li>
 <li> About <ul>
