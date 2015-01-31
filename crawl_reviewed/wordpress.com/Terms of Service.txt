@@ -1,10 +1,8 @@
  Terms of Service The gist:
 <p>We (the folks at Automattic) run a blog and web site hosting service called WordPress.com and would <strong>love</strong> for you to use it.
 Our basic service is free, and we offer paid upgrades for advanced features such as domain hosting and extra storage.
-Our service is designed to give you as much control and ownership over what goes on your site as possible and encourage you to express yourself freely.
-However, be responsible in what you publish.
-In particular, make sure that none of the prohibited items listed below appear on your site or get linked to from your site (things like spam, viruses, or hate content).</p>
-<p>You can check our page on types of blogs to get a sense of the types of sites that are welcome on our service (or not!).</p>
+Our service is designed to give you as much control and ownership over what goes on your site as possible and encourage you to express yourself freely. However, be responsible in what you publish.
+In particular, make sure that none of the prohibited items (things like spam, viruses, or serious threats of violence) appear on your site or get linked to from your site.</p>
 <p>If you find a WordPress.com site that you believe violates our terms of service, please visit our dispute resolution &amp.
 reporting page.</p>
 <p>(Note, we’ve decided to make the below Terms of Service available under a Creative Commons Sharealike license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you don’t mind we’d appreciate a link to WordPress.com somewhere on your site.
@@ -17,8 +15,10 @@ The Website is offered subject to your acceptance without modification of all of
 <p>Please read this Agreement carefully before accessing or using the Website.
 By accessing or using any part of the web site, you agree to become bound by the terms and conditions of this agreement.
 If you do not agree to all the terms and conditions of this agreement, then you may not access the Website or use any services.
-If these terms and conditions are considered an offer by Automattic, acceptance is expressly limited to these terms.
-The Website is available only to individuals who are at least 13 years old.</p>
+If these terms and conditions are considered an offer by Automattic, acceptance is expressly limited to these terms.</p>
+<p>The Website is not directed to children younger than 13, and service on the Website is only offered to users 13 years of age or older.
+If you are under 13 years old, please do not register to use the Website.
+Any person who registers as a user or provides their personal information to the Website represents that they are 13 years of age or older.</p>
 <ol>
 <li>
 <strong>Your WordPress.com Account and Site.</strong> If you create a blog on the Website, you are responsible for maintaining the security of your account and blog, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the blog.
@@ -28,21 +28,9 @@ Automattic will not be liable for any acts or omissions by You, including any da
 <li>
 <strong>Responsibility of Contributors.
 </strong>If you operate a blog, comment on a blog, post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), You are entirely responsible for the content of, and any harm resulting from, that Content.
-That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software.
-By making Content available, you represent and warrant that:
-<ul>
-<li>the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;</li>
-<li>if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;</li>
-<li>you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;</li>
-<li>the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;</li>
-<li>the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);</li>
-<li>the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;</li>
-<li>your blog is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;</li>
-<li>your blog is not presented in a manner that misleads your readers into thinking that you are another person or company.
-and</li>
-<li>you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Automattic or otherwise.</li>
-</ul>
-<p>By submitting Content to Automattic for inclusion on your Website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your blog. This license allows Automattic to make publicly-posted content available to third parties selected by Automattic (through the Automattic Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) your content through their services.</p>
+That is the case regardless of what form the Content takes, which includes, but is not limited to text, photo, video, audio, or code.
+By making Content available, you represent and warrant that your content does not violate these terms or the User Guidelines.
+<p>By submitting Content to Automattic for inclusion on your Website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing, and promoting your blog. This license allows Automattic to make publicly-posted content available to third parties selected by Automattic (through the Automattic Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) your content through their services.</p>
 <p>You also give other WordPress.com users permission to share your Content on other WordPress.com sites and add their own Content to it (aka to reblog your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your site (the Reblogging function on WordPress.com does this automatically!).</p>
 <p>If you delete Content, Automattic will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.</p>
 <p>Without limiting any of those representations or warranties, Automattic has the right (though not the obligation) to, in Automattic’s sole discretion (i) refuse or remove any content that, in Automattic’s reasonable opinion, violates any Automattic policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in Automattic’s sole discretion.
@@ -125,7 +113,7 @@ Footer credits and the WordPress.com toolbar may not be altered or removed regar
 <strong>Friends of WP.com Themes.</strong> By activating a partner theme from the Friends of WP.com section of our themes directory, you agree to that partner’s terms of service.
 You can opt out of their terms of service at any time by de-activating a partner theme.</li>
 <li>
-<strong>Domain Names.</strong> If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”), including their Registration Rights and Responsibilities.</li>
+<strong>Domain Names.</strong> If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”) and the Domain Name Registration and Customer Service Agreement.</li>
 <li>
 <strong>Google Apps</strong>.
 If you purchase a Google Apps subscription, this section applies.
@@ -188,25 +176,5 @@ Automattic may assign its rights under this Agreement without condition.
 This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.</li>
 </ol>
 <p>
-<strong>Change log:</strong>
-</p>
-<ul>
-<li>July 7, 2009: Added “not pornographic” to paragraph 2 “Responsibility of Contributors”.</li>
-<li>December 18, 2010: Added automatic renewal section to paragraph 3 “Payment and Renewal”.</li>
-<li>February 1, 2011: Clarified procedure regarding termination of repeat infringers in paragraph 7.</li>
-<li>April 27, 2011: Added “Advertisements” paragraph to clarify our ad policy.</li>
-<li>May 17, 2011: Added “Friends of WordPress.com Themes” paragraph.</li>
-<li>September 9, 2011: Added “Domain Names” paragraph.</li>
-<li>October 17, 2011: Added “Firehose” paragraph.</li>
-<li>March 6, 2012: Clarified definition of Website with addition of “Jetpack by WordPress.com”.</li>
-<li>April 6, 2012: Added “Attribution” paragraph to clarify our attribution policy.</li>
-<li>November 12, 2012: Replaced VIP Services terms and conditions with cross references to VIP Hosting/Support and VIP Support services terms and conditions, located at vip.wordpress.com.
-removed “towards individuals or entities” from prohibition against threats of violence in Section 2.</li>
-<li>June 12, 2013: Edited “Attribution” paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.</li>
-<li>July 3, 2014: Elaborated on licensing with regards to Firehose, clarified our impersonation policy, added reblogging language, and removed our right to unilaterally change the Terms of Service.</li>
-<li>July 15, 2014: Added “Translation” section.</li>
-<li>September 2, 2014: Removed old non-retina Creative Commons graphic, added a link instead.
-Made this list bullets.
-Linked ad policy in April 27 changelog bullet.</li>
-<li>October 8, 2014: Added “Google Apps” Section.</li>
-</ul> 
+<strong>Change log</strong>
+</p> 
