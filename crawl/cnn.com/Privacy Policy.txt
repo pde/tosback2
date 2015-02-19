@@ -25,11 +25,11 @@ News<ul>
 Regions<ul>
 <li>U.S.</li>
 <li>China</li>
-<li>Africa</li>
-<li>Latin America</li>
 <li>Asia</li>
-<li>Europe</li>
 <li>Middle East</li>
+<li>Africa</li>
+<li>Europe</li>
+<li>Americas</li>
 </ul>
 </li>
 <li>
@@ -48,12 +48,14 @@ TV<ul>
 </li>
 <li>
 Features<ul>
+<li>Style</li>
+<li>Travel</li>
+<li>All Features</li>
 </ul>
 </li>
 <li>
 Opinions<ul>
 <li>iReport</li>
-<li>CNN Profiles A-Z</li>
 </ul>
 </li>
 <li>
@@ -63,6 +65,7 @@ More…<ul>
 <li>CNN Mobile</li>
 <li>Tools &amp.
 Extras</li>
+<li>CNN Profiles A-Z</li>
 <li>CNN Arabic</li>
 <li>CNN Español</li>
 <li>CNN Mexico</li>
@@ -80,6 +83,7 @@ Extras</li>
 <li>CNN Mobile</li>
 <li>Tools &amp.
 Extras</li>
+<li>CNN Profiles A-Z</li>
 </ul>
 </li>
 </ul> CNN Privacy Statement <p>
@@ -367,11 +371,11 @@ News<ol>
 Regions<ol>
 <li>U.S.</li>
 <li>China</li>
-<li>Africa</li>
-<li>Latin America</li>
 <li>Asia</li>
-<li>Europe</li>
 <li>Middle East</li>
+<li>Africa</li>
+<li>Europe</li>
+<li>Americas</li>
 </ol>
 </li>
 </ol>
@@ -394,13 +398,18 @@ TV<ol>
 </li>
 </ol>
 <ol>
-<li>Features</li>
+<li>
+Features<ol>
+<li>Style</li>
+<li>Travel</li>
+<li>All Features</li>
+</ol>
+</li>
 </ol>
 <ol>
 <li>
 Opinions<ol>
 <li>iReport</li>
-<li>CNN Profiles A-Z</li>
 </ol>
 </li>
 </ol>
@@ -412,6 +421,7 @@ More…<ol>
 <li>CNN Mobile</li>
 <li>Tools &amp.
 Extras</li>
+<li>CNN Profiles A-Z</li>
 </ol>
 </li>
 </ol>
