@@ -11,7 +11,7 @@ Pratiques spécifiques à certains produits
 Autres ressources utiles liées à la confidentialité et à la protection des données Masquer les exemples
 Afficher les exemples
 Masquer les exemples
-<p>Date de la dernière modification : 19 décembre 2014 (voir les versions archivées)</p>
+<p>Date de la dernière modification : 25 février 2015 (voir les versions archivées)</p>
 <p>Télécharger la version PDF
 </p>
 <p>Vous pouvez avoir recours à nos services pour toutes sortes de raisons : pour rechercher et partager des informations, pour communiquer avec d'autres personnes ou pour créer des contenus.
@@ -86,7 +86,7 @@ Cela comprend :
 <strong>Données de localisation</strong>
 </p>
 <p>Lorsque vous utilisez des services Google, nous sommes susceptibles de collecter et traiter des données relatives à votre position exacte.
-Nous utilisons différentes technologies pour vous localiser, y compris l'adresse IP, les signaux GPS et d'autres capteurs nous permettant notamment d'identifier les appareils, les points d'accès WiFi et les antennes-relais se trouvant à proximité.
+Nous utilisons différentes technologies pour vous localiser, y compris l'adresse IP, les signaux GPS et d'autres capteurs nous permettant notamment d'identifier les appareils, les points d'accès WiFi et les antennes-relais se trouvant à proximité.
 </p>
 </li>
 <li>
@@ -109,7 +109,9 @@ Ce numéro et les informations concernant votre installation (type de système d
 <strong>Cookies et identifiants anonymes</strong>
 </p>
 <p>Nos partenaires et nous-mêmes utilisons différentes technologies pour collecter et stocker des données lorsque vous accédez à un service Google, par exemple en envoyant un ou plusieurs cookies ou identifiants anonymes sur votre appareil.
-Nous utilisons également des cookies et des identifiants anonymes lorsque vous interagissez avec les services que nous proposons à nos partenaires, comme des services de publicité ou les fonctionnalités Google qui peuvent apparaître sur d'autres sites.</p>
+Nous utilisons également des cookies et des identifiants anonymes lorsque vous interagissez avec les services que nous proposons à nos partenaires, comme des services de publicité ou les fonctionnalités Google qui peuvent apparaître sur d'autres sites.
+Notre produit Google Analytics permet aux entreprises et aux propriétaires de sites d'analyser le trafic sur leurs sites Web et sur leurs applications.
+Lorsqu'il est utilisé parallèlement à nos services publicitaires, tels que ceux utilisant le cookie DoubleClick, les informations Google Analytics sont associées, à l'aide de la technologie Google, aux informations relatives aux visites sur plusieurs sites.</p>
 </li>
 </ul>
 </li>
@@ -148,19 +150,22 @@ Nous souhaitons faire preuve de transparence sur la façon dont nous collectons 
 Vous pouvez par exemple effectuer les actions ci-dessous :
 </p>
 <ul>
+<li>
+Consulter l'historique de votre compte Google afin d'accéder aux paramètres qui vous permettent de contrôler la collecte d'informations personnelles des services Google, tels que Recherche Google, YouTube et Historique des positions.
+</li>
 <li>Utiliser Google Dashboard pour vérifier et contrôler certains types de données liés à votre Compte Google.
 </li>
-<li>Grâce aux paramètres des annonces, vous pouvez consulter et modifier vos préférences relatives aux annonces qui vous sont présentées sur les sites Google et sur le Web, telles que les catégories susceptibles de vous intéresser.
+<li>Grâce aux paramètres des annonces, vous pouvez consulter et modifier vos préférences relatives aux annonces Google qui vous sont présentées sur les sites Google et sur le Web, telles que les catégories susceptibles de vous intéresser.
 Vous pouvez également choisir de désactiver certains services publicitaires Google.
 </li>
 <li>
-Utiliser notre outil d’édition pour visualiser la façon dont certaines personnes voient votre Profil Google et pour l’ajuster en conséquence.
+Ajuster l'affichage du profil associé à votre compte Google.
 </li>
 <li>
-Contrôler avec qui vous partagez vos données.
+Contrôler avec qui vous partagez vos donnés par le biais de votre compte Google.
 </li>
 <li>
-Supprimer des données de plusieurs de nos services.
+Supprimer des données associées à votre compte Google de plusieurs de nos services.
 </li>
 <li>
 Choisissez si le nom et la photo de votre profil paraîtront dans les recommandations partagées qui apparaissent dans les annonces.</li>
@@ -322,6 +327,9 @@ En savoir plus Exemple
 En savoir plus Exemple
 "services de publicité"Par exemple, si vous consultez fréquemment des sites Web et des blogs de jardinage sur lesquels nos annonces sont diffusées, il est possible que des annonces ayant trait à cette activité commencent à apparaître lorsque vous parcourez le Web.
 En savoir plus Exemple
+"et d'autres capteurs"Il se peut que votre appareil soit équipé de capteurs fournissant des informations susceptibles de déterminer votre position avec plus de précision.
+Par exemple, un accéléromètre permet de mesurer la vitesse, tandis qu'un gyroscope permet de connaître le sens de déplacement.
+En savoir plus Exemple
 "de collecter des informations"Elles incluent des informations variées : préférences et données liées à votre utilisation des services, messages Gmail, profil G+, photos, vidéos, historique de navigation, recherches sur des cartes, documents ou tout autre contenu hébergé par Google.
 En savoir plus Exemple
 "recoupées avec celles issues d'autres services Google (y compris des informations personnelles)"Par exemple, lorsque vous êtes connecté à votre compte Google et que vous effectuez une recherche dans Google, vous voyez s'afficher des résultats issus de pages Web publiques, ainsi que des pages, des photos et des posts Google+ émanant de vos amis.
@@ -344,6 +352,9 @@ En savoir plus Exemple
 "judiciaires ou administratives"Comme d'autres entreprises spécialisées dans les technologies et les communications, nous recevons régulièrement des demandes d'autorités administratives et de tribunaux du monde entier nous invitant à transmettre des informations sur les utilisateurs.
 En savoir plus Exemple
 "Paramètres de partage ou de visibilité"Par exemple, vous pouvez définir vos paramètres pour que votre nom et votre photo n'apparaissent pas dans une annonce.
+En savoir plus Exemple
+"associées aux informations relatives aux visites sur plusieurs sites"Google Analytics repose sur des cookies propriétaires.
+Les données générées via Google Analytics peuvent être associées, à l'aide de la technologie Google, à des cookies tiers, liés à des visites sur d'autres sites Web, par exemple, lorsqu'un annonceur souhaite utiliser ses données Google Analytics afin de créer des annonces plus pertinentes ou d'analyser son trafic de manière plus approfondie.
 En savoir plus Exemple
 "sommes susceptibles de collecter et traiter des données relatives à votre position exacte"Par exemple, Google Maps peut centrer le plan sur votre position actuelle.
 En savoir plus Exemple

@@ -11,7 +11,7 @@ Práticas específicas de produto
 Outros materiais úteis relacionados a privacidade e segurança Ocultar exemplos
 Mostrar exemplos
 Ocultar exemplos
-<p>Última modificação: 19 de dezembro de 2014 (visualizar versões arquivadas)</p>
+<p>Última modificação: 25 de fevereiro de 2015 (visualizar versões arquivadas)</p>
 <p>Fazer o download da versão em PDF
 </p>
 <p>Existem muitas maneiras diferentes pelas quais o usuário pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo.
@@ -83,7 +83,7 @@ Endereço de protocolo de Internet (IP)
 <strong>Informações do local</strong>
 </p>
 <p>Quando o usuário utiliza os serviços da Google, podemos coletar e processar informações sobre a localização real dele.
-Além disso, usamos várias tecnologias para determinar o local, como endereço IP, GPS e outros sensores que podem, por exemplo, fornecer à Google informações sobre dispositivos, pontos de acesso Wi-Fi e torres de celular próximos.
+Além disso, usamos várias tecnologias para determinar a localização, como endereço IP, GPS e outros sensores que podem, por exemplo, fornecer à Google informações sobre dispositivos, pontos de acesso Wi-Fi e torres de celular próximos.
 </p>
 </li>
 <li>
@@ -105,9 +105,10 @@ Este número e as informações sobre sua instalação (por exemplo, o tipo de s
 <p>
 <strong>Cookies e identificadores anônimos</strong>
 </p>
-<p>Nós, juntamente com nossos parceiros, usamos várias tecnologias para coletar e armazenar informações quando o usuário visita um serviço da Google.
-Tais informações podem incluir o envio de um ou mais cookies ou identificadores anônimos para o dispositivo do usuário.
-Também usamos cookies e identificadores anônimos quando o usuário interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos da Google que podem aparecer em outros sites.</p>
+<p>Nós e nossos parceiros usamos várias tecnologias para coletar e armazenar informações quando o usuário visita um serviço da Google.Tais informações podem incluir o envio de um ou mais cookies ou identificadores anônimos para o dispositivo do usuário.
+Também usamos cookies e identificadores anônimos quando o usuário interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos da Google que podem aparecer em outros sites.
+Nosso produto Google Analytics ajuda empresas e proprietários de sites a analisar o tráfego nos respectivos websites e apps.
+Quando as informações do Google Analytics são usadas com nossos serviços de publicidade, como os que usam o cookie DoubleClick, elas são vinculadas, por meio da tecnologia da Google, a informações sobre visitas a diversos sites.</p>
 </li>
 </ul>
 </li>
@@ -147,19 +148,23 @@ Por exemplo, o usuário pode:
 </p>
 <ul>
 <li>
+Visitar seu Histórico da Conta do Google para definir as configurações que permitem controlar o conjunto de informações pessoais nos serviços do Google, como a Pesquisa Google, YouTube e Histórico de Localização.
+</li>
+<li>
 Rever e controlar determinados tipos de informações ligados a sua Conta do Google por meio do Google Dashboard.
 </li>
-<li>O usuário pode visualizar e editar suas preferências sobre os anúncios exibidos na Google e na Web, como as categorias de seu interesse, por meio das Configurações de anúncios.
-O usuário também pode desativar determinados serviços de anúncios da Google aqui.
+<li>
+Ver e editar preferências sobre os anúncios exibidos no Google e na Web, como as categorias de interesse do usuário, por meio das Configurações de anúncios.
+O usuário também pode desativar determinados serviços de anúncios do Google aqui.
 </li>
 <li>
-Use nosso editor para ver e ajustar a forma como seu Perfil do Google é mostrado a indivíduos em particular.
+Ajustar a forma como seu Perfil associado à Conta do Google é mostrado a outras pessoas.
 </li>
 <li>
-Controlar com quem compartilha informações.
+Controlar com quem compartilha informações por meio da sua Conta do Google.
 </li>
 <li>
-Obtenha informações de muitos de nossos serviços.
+Receber informações associadas à sua Conta do Google de muitos de nossos serviços.
 </li>
 <li>O usuário pode escolher se o nome e a foto do perfil dele devem aparecer nas recomendações compartilhadas exibidas em anúncios.</li>
 </ul>
@@ -322,6 +327,10 @@ Exemplo
 "serviços de publicidade"Por exemplo, se o usuário costuma visitar sites e blogs sobre jardinagem que exibam nossos anúncios, é possível que comece a ver anúncios relacionados a esse interesse enquanto navega na Web.
 Saiba mais.
 Exemplo
+"e outros sensores"O dispositivo do usuário pode ter sensores que forneçam informações que ajudem a ter um melhor entendimento sobre a localização do usuário.
+Por exemplo, um acelerômetro pode ser usado para determinar, por exemplo, velocidade ou um giroscópio pode ser usado para descobrir a direção da viagem.
+Saiba mais.
+Exemplo
 "coletar informações"Isso inclui informações como: dados de uso e preferências, mensagens do Gmail, perfil do G+, fotos, vídeos, histórico de navegação, pesquisas de mapas, documentos ou outro conteúdo hospedado na Google.
 Saiba mais.
 Exemplo
@@ -352,6 +361,10 @@ Exemplo
 Saiba mais.
 Exemplo
 "compartilhamento limitado ou configurações de visibilidade"Por exemplo, o usuário pode alterar as configurações de modo que seu nome e foto não apareçam em anúncios.
+Saiba mais.
+Exemplo
+"vinculadas às informações sobre visitas a diversos sites"O Google Analytics é baseado em cookies primários.
+Os dados gerados pelo Google Analytics podem ser vinculados, por meio da tecnologia da Google, a cookies de terceiros, relacionados a visitas a outros websites, por exemplo quando um anunciante deseja usar os dados do Google Analytics do usuário para criar anúncios mais relevantes ou para analisar melhor seu tráfego.
 Saiba mais.
 Exemplo
 "coletar e processar informações sobre sua localização real"Por exemplo, o Google Maps pode centralizar a visualização de mapas na sua localização atual.

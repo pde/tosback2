@@ -11,8 +11,8 @@ Produktspezifische Praktiken
 Weitere hilfreiche Informationen zu Datenschutz und Sicherheit Beispiele ausblenden
 Beispiele anzeigen
 Beispiele ausblenden
-<p>Zuletzt geändert am: 19.
-Dezember 2014 (archivierte Versionen anzeigen)</p>
+<p>Zuletzt geändert am: 25.
+Februar 2015 (archivierte Versionen anzeigen)</p>
 <p>PDF-Version herunterladen
 </p>
 <p>Sie können unsere Dienste auf vielfältige Weise nutzen – um Informationen zu suchen und zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte zu erstellen.
@@ -83,7 +83,7 @@ IP-Adresse.
 <strong>Standortbezogene Informationen</strong>
 </p>
 <p>Wenn Sie Google-Dienste nutzen, erfassen und verarbeiten wir möglicherweise Informationen über Ihren tatsächlichen Standort.
-Wir verwenden zur Standortbestimmung verschiedene Technologien, wie IP-Adressen, GPS und andere Sensoren, die Google beispielsweise Informationen über nahe gelegene Geräte, WLAN-Zugangspunkte oder Mobilfunkmasten bereitstellen.
+Wir verwenden zur Standortbestimmung verschiedene Technologien, wie IP-Adressen, GPS und andere Sensoren, die Google beispielsweise Informationen über nahe gelegene Geräte, WLAN-Zugangspunkte oder Mobilfunkmasten bereitstellen.
 </p>
 </li>
 <li>
@@ -105,8 +105,12 @@ Diese Nummer und installationsspezifische Daten, wie zum Beispiel Art des Betrie
 <p>
 <strong>Cookies und anonyme Kennungen</strong>
 </p>
-<p>Unsere Partner und wir verwenden verschiedene Technologien, um Informationen zu erfassen und zu speichern, wenn Sie einen Google-Dienst aufrufen, darunter möglicherweise auch das Senden einzelner oder mehrerer Cookies oder anonymer Kennungen an Ihr Gerät.
-Darüber hinaus verwenden wir Cookies und anonyme Kennungen auch bei Ihrer Interaktion mit Diensten, die Teil unseres Angebots für Partner sind, zum Beispiel Werbedienste oder auf anderen Websites verfügbare Google-Funktionen.</p>
+<p>Unsere Partner und wir verwenden verschiedene Technologien, um Informationen zu erfassen und zu speichern, wenn Sie einen Google-Dienst aufrufen.
+Hierzu gehört möglicherweise auch das Senden einzelner oder mehrerer Cookies oder anonymer Kennungen an Ihr Gerät.
+Darüber hinaus verwenden wir Cookies und anonyme Kennungen auch bei Ihrer Interaktion mit Diensten, die Teil unseres Angebots für Partner sind, zum Beispiel Werbedienste oder auf anderen Websites verfügbare Google-Funktionen.
+Unser Produkt Google Analytics unterstützt Unternehmen und Websiteinhaber bei der Analyse des Traffics zu ihren Websites und Apps.
+Bei Verwendung von Google Analytics zusammen mit unseren Werbediensten, z. B.
+solchen, die das DoubleClick-Cookie nutzen, werden Google Analytics-Daten mithilfe von Google-Technologie mit Daten über Besuche auf mehreren Websites verknüpft.</p>
 </li>
 </ul>
 </li>
@@ -147,17 +151,19 @@ Unser Ziel ist, Klarheit darüber zu schaffen, welche Informationen wir erheben,
 Sie können beispielsweise:
 </p>
 <ul>
+<li>Über die Einstellungen im Verlauf Ihres Google-Kontos festlegen, welche personenbezogenen Daten durch Google-Dienste wie die Google-Suche, YouTube oder den Standortverlauf erfasst werden.
+</li>
 <li>Durch Nutzung des Google-Dashboards bestimmte Arten von Informationen, die mit Ihrem Google-Konto verknüpft sind, überprüfen und verwalten.
 </li>
-<li>Mithilfe der Anzeigeneinstellungen können Sie Ihre Anzeigenvorgaben für Werbung, die Ihnen in Google und im gesamten Web angezeigt wird, abrufen und bearbeiten, beispielsweise die Kategorien, die Sie möglicherweise interessieren.
+<li>Mithilfe der Anzeigeneinstellungen Ihre Anzeigenvorgaben für Google-Werbung, die Ihnen auf Google und im gesamten Web angezeigt wird, abrufen und bearbeiten, beispielsweise die Kategorien, die Sie möglicherweise interessieren.
 Hier können Sie auch bestimmte Google-Werbedienste deaktivieren.
 </li>
-<li>Durch Nutzung unseres Editors Ihr Google-Profil aufrufen und dessen Darstellung gegenüber bestimmten Personen anpassen.
-</li>
 <li>
-Kontrollieren, mit wem Sie Informationen teilen.
+Anpassen, wie das mit Ihrem Google-Konto verknüpfte Profil anderen Personen angezeigt wird.
 </li>
-<li>Informationen aus vielen unserer Dienste exportieren.
+<li>Über Ihr Google-Konto steuern, mit wem Sie Informationen teilen.
+</li>
+<li>Informationen, die mit Ihrem Google-Konto verknüpft sind, aus vielen unserer Dienste exportieren.
 </li>
 <li>
 Festlegen, ob Ihr Profilname und Ihr Profilbild in geteilten Empfehlungen innerhalb von Anzeigen erscheinen sollen.</li>
@@ -324,6 +330,10 @@ Beispiel
 "Werbedienste"Wenn Sie zum Beispiel häufig Websites und Blogs zum Thema Gartenarbeit besuchen und dort unsere Anzeigen geschaltet werden, sehen Sie beim Surfen im Web möglicherweise Anzeigen zu diesem Interessengebiet.
 Weitere Informationen.
 Beispiel
+"und andere Sensoren"Ihr Gerät ist möglicherweise mit Sensoren ausgestattet, die Informationen zur genaueren Bestimmung Ihres Standorts liefern.
+Beispielsweise kann mithilfe eines Beschleunigungsmessers die Bewegungsgeschwindigkeit und mit einem Gyroskop die Bewegungsrichtung festgestellt werden.
+Weitere Informationen.
+Beispiel
 "erfassen möglicherweise Informationen"Erfasst werden Informationen wie Nutzungsdaten, Einstellungen, Gmail-Nachrichten, Google+ Profil, Fotos, Videos, Browserverlauf, Kartensuchen, Dokumente oder andere von Google gehostete Inhalte.
 Weitere Informationen.
 Beispiel
@@ -356,6 +366,10 @@ Beispiel
 Weitere Informationen.
 Beispiel
 "Freigabe- und Sichtbarkeitseinstellungen"Sie können zum Beispiel einstellen, dass Ihr Name und Ihr Profilbild nicht in Anzeigen erscheinen.‌‍⁢⁡⁠‮‎⁣
+Weitere Informationen.
+Beispiel
+"mit Daten über Besuche auf mehreren Websites verknüpft"Google Analytics basiert auf Erstanbieter-Cookies.
+Über Google Analytics generierte Daten können mithilfe von Google-Technologie mit Drittanbieter-Cookies verknüpft werden, die im Zusammenhang mit Besuchen auf anderen Websites stehen, beispielsweise wenn ein Werbetreibender seine Google Analytics-Daten zur Erstellung relevanterer Anzeigen nutzen oder seinen Traffic genauer analysieren möchte.
 Weitere Informationen.
 Beispiel
 "erfassen und verarbeiten wir möglicherweise Informationen über Ihren tatsächlichen Standort"Google Maps beispielsweise kann die Kartenansicht auf Ihren aktuellen Standort zentrieren.
