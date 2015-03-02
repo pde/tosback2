@@ -21,8 +21,47 @@
 <li>Disclosure</li>
 <li>Hall of Fame</li>
 </ul>
-<p>Please email security reports to Chad Whitacre using the key below.
-Thank you.</p> $ gpg --keyserver pgp.mit.edu --recv-keys 0x6ee18a8dc47977c2
+<p>We take the security of our systems seriously, and we value the security community.
+The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.</p> Guidelines <p>We ask that all researchers:</p>
+<ul>
+<li>Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;</li>
+<li>Perform research only within the scope set out below;</li>
+<li>Use the identified communication channels to report vulnerability information to us.
+and</li>
+<li>Keep information about any vulnerabilities you’ve discovered confidential between yourself and Gratipay until we’ve had 90 days to resolve the issue.</li>
+</ul>
+<p>If you follow these guidelines when reporting an issue to us, we commit to:</p>
+<ul>
+<li>Not pursue or support any legal action related to your research;</li>
+<li>Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission);</li>
+<li>Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.</li>
+</ul>Scope <ul>
+<li>https://gratipay.com</li>
+</ul>
+<p>Source code is available on GitHub.</p> Out of scope <p>Any services hosted by 3rd party providers and services are excluded from scope.</p>
+<p>In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope:</p>
+<ul>
+<li>Findings from physical testing such as office access (e.g.
+open doors, tailgating)</li>
+<li>Findings derived primarily from social engineering (e.g.
+phishing, vishing)</li>
+<li>Findings from applications or systems not listed in the ‘Scope’ section</li>
+<li>UI and UX bugs and spelling mistakes</li>
+<li>Network level Denial of Service (DoS/DDoS) vulnerabilities</li>
+</ul>
+<p>Things we do not want to receive:</p>
+<ul>
+<li>Personally identifiable information (PII)</li>
+<li>Credit card holder data</li>
+</ul>How to Report a Security Vulnerability <p>If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing chad@zetaweb.com.
+Please include the following details with your report:</p>
+<ul>
+<li>Description of the location and potential impact of the vulnerability;</li>
+<li>A detailed description of the steps required to reproduce the vulnerability (POC scripts, screenshots, and compressed screen captures are all helpful to us).
+and</li>
+<li>Your name/handle and a link for recognition in our Hall of Fame.</li>
+</ul>
+<p>If you’d like to encrypt the information, please use our PGP Key below:</p> $ gpg --keyserver pgp.mit.edu --recv-keys 0x6ee18a8dc47977c2
 gpg: requesting key C47977C2 from hkp server pgp.mit.edu
 gpg: key C47977C2: "Chad Whitacre &lt;chad@zetaweb.com&gt;" imported
 gpg: Total number processed: 1
