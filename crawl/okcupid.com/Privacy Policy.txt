@@ -241,7 +241,11 @@ Third parties may use anonymous information about your visits to our site and ot
 </p> Email sent! <p> An email is on its way to <strong>
 </strong>.
 If you don’t see it, try checking your Spam folder.
-</p> Okay <ul>
+</p> Okay Your session has expired <p> Refresh the page to get things working again! </p>
+<ul>
+<li> Refresh </li>
+</ul>
+<ul>
 <li>About</li>
 <li>Contact</li>
 <li>Help</li>
