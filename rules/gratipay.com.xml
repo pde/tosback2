@@ -1,0 +1,22 @@
+<sitename name="gratipay.com">
+ <docname name="Terms of Service">
+   <url name="https://gratipay.com/about/policies/terms-of-service" xpath="//div[@id='content']" reviewed="false">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="https://gratipay.com/about/policies/terms-and-conditions" xpath="//div[@id='content']" reviewed="false">
+    <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://gratipay.com/about/policies/privacy" xpath="//div[@id='content']" reviewed="false">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Security">
+   <url name="https://gratipay.com/about/security/" xpath="//div[@id='content']" reviewed="false">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
