@@ -1,15 +1,15 @@
  <ul>
 <li> home </li>
 <li> shows <ul>
+<li> News </li>
 <li> Full Episodes </li>
 <li> All Shows </li>
 <li> Music From The Shows </li>
-<li> Shows Blog </li>
 <li> TV Schedule </li>
 </ul>
 </li>
 <li> celebrity <ul>
-<li> Gossip + News </li>
+<li> News </li>
 <li> Celebrity Photos </li>
 <li> Greatest Lists </li>
 <li> Big Morning Buzz Live </li>
@@ -17,7 +17,7 @@
 </ul>
 </li>
 <li> music <ul>
-<li> Gossip + News </li>
+<li> News </li>
 <li> Storytellers Live </li>
 <li> Super Bowl Blitz </li>
 <li> Top 20 Countdown </li>
@@ -660,7 +660,7 @@ Hip Hop Atlanta</li>
 &amp.
 Tiny</li>
 <li>Top 20 Countdown</li>
-<li>VH1 Blog</li>
+<li>VH1 Show News</li>
 <li>VH1 Celebrity</li>
 <li>VH1 Classic</li>
 <li>VH1 Mobile</li>
