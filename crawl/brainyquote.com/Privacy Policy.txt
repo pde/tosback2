@@ -15,7 +15,7 @@ When you access the Site and/or submit a quote, we may collect such things as yo
 This information, on its own, cannot usually be used to identify you.</p> 4.
 Use of Information
 <p>We may use the Collected Information for a wide variety of purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again).
-All jokes aside, we and our third party service providers may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site.</p>
+All jokes aside, we and our third party service providers may use this information to help administer the Site and the servers that provide the Site, generate statistical information, to understand anonymous user interests and demographics, to advertise to previous visitors of the site, monitor and analyze Site traffic and usage patterns, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site.</p>
 <p>If you contact us for support or assistance, we may use any contact information you provide to us, including your name or email address, (also deemed "Collected Information" hereunder) to provide service and support to you.
 We may also use Collected Information and the associated statistical data we and our third party service providers generate to deliver targeted advertisements to you and other visitors of the Site.</p>
 <p>We and our third party service providers may store Collected Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely.</p> 5.
@@ -30,10 +30,15 @@ Google's use of the DART cookie enables it to serve ads to our users based on th
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 </li>
-<li>RadiumOne, which uses cookies to identify and collect anonymous user interests on the Site.
+<li>Google Analytics, as a third party vendor, uses cookies to help us identify anonymous user interests, identify anonymous user demographics and to display advertising to previous visitors to this site.
+Google Analytics uses a cookie to provide analysis, anonymous interest data, and anonymous demographic data from visits to our sites and other sites on the Internet.
+Users may opt out of the use of the Google Analytics cookie by visiting the Google Analytics Opt-out Browser Tool.
+Tracking of users through the Google Analytics cookie mechanisms are subject to Google's own privacy policies.
+</li>
+<li>RadiumOne, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site.
 You may opt out of the RadiumOne cookie by visiting the RadiumOne Preference Manager.
 </li>
-<li>Glam Media, which uses cookies to identify and collect anonymous user interests on the Site.
+<li>Glam Media, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site.
 You may opt out of the Glam Media cookie by visiting the Glam Media Preference Manager.
 </li>
 <li>Sonobi, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site.
@@ -48,6 +53,15 @@ You may opt out of this cookie by visiting the Scorecard Research Preference Man
 </li>
 <li>Yieldbot, uses cookies to identify anonymous user interests (starting to notice a pattern here?) on the Site.
 You may opt out of this cookie by visiting - wait for it - the Yieldbot Privacy Policy Opt-out.
+</li>
+<li>Amazon, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site.
+You may opt out of this cookie by visiting the Amazon Advertising Preferences Opt-out.
+</li>
+<li>Sovrn, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site.
+You may opt out of this cookie by visiting the Sovrn Privacy Policy.
+</li>
+<li>Index Exchange, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site.
+You may opt out of this cookie by visiting the NAI Opt-out.
 </li>
 </ul>
 <p>If all or part of our company is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction.</p>
@@ -128,7 +142,7 @@ Thanks
 We are not sure why you have so much time on your hands, but congratulations on your life of leisure.
 Quiz coming soon!</p>
 <p>
-<b>Last updated:</b> February 12, 2014</p>
+<b>Last updated:</b> April 14, 2015</p>
 <p>Copyright 2001 - 2015 BrainyQuote.com All Rights Reserved.</p>
 <p>Do not duplicate or redistribute in any form.
 We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!</p> 
