@@ -882,17 +882,17 @@ XFINITY WiFi is not available in all locations and availability is subject to ch
 <strong>ADDITIONAL PROVISIONS APPLICABLE TO XFINITY VOICE SERVICE<br>
 </strong>In addition to the General Terms and Conditions above, the following terms and conditions are specifically applicable to XFINITY Voice Customers.<br>
 <strong>1.
-SPECIAL NOTICE FOR COMCAST DIGITAL VOICE SUBSCRIBERS: LIMITATIONS OF XFINITY Voice SERVICE</strong>
+SPECIAL NOTICE FOR COMCAST DIGITAL VOICE SUBSCRIBERS: LIMITATIONS OF XFINITY VOICE SERVICE</strong>
 </p>
 <blockquote>
 <p>
 <strong>a.
-Limitations.</strong> XFINITY Voice includes 911/Enhanced 911 functionality (“911/E911”) that may differ from the 911/E911 functionality furnished by other providers.
+Limitations.</strong> XFINITY Voice includes 911/Enhanced 911 and certain plans include text-to-911 (where emergency authorities make such service available) functionality (collectively “911/E911”) that may differ from the 911/E911 functionality furnished by other providers.
 As such, it may have certain limitations.
 CAREFULLY READ THE INFORMATION BELOW.
 YOU ACKNOWLEDGE AND ACCEPT ANY LIMITATIONS OF 911/E911.
-YOU AGREE TO CONVEY THESE LIMITATIONS TO ALL PERSONS WHO MAY HAVE OCCASION TO PLACE CALLS OVER THE SERVICES.
-IF YOU HAVE ANY QUESTIONS ABOUT 911/E911, CALL 1-800-XFINITY.</p>
+YOU AGREE TO CONVEY THESE LIMITATIONS TO ALL PERSONS WHO MAY PLACE CALLS OR TEXTS OVER THE SERVICES.
+IF YOU HAVE ANY QUESTIONS ABOUT 911/E911, CALL 1-800-XFINITY</p>
 <blockquote>
 <p>
 <strong>i.
@@ -900,12 +900,14 @@ Correct Address:</strong> In order for your 911/E911 calls to be properly direct
 If you move XFINITY Voice to a different address without Comcast’s approval, 911/E911 calls may be directed to the wrong emergency authority, may transmit the wrong address, and/or XFINITY Voice (including 911/E911) may fail altogether.
 Therefore, you must call 1-800-XFINITY before you move XFINITY Voice to a new address.
 Comcast will need several business days to update your Premises address in the E911 system so that your 911/E911 calls can be properly directed.
-All changes in service address require Comcast’s prior approval.</p>
+All changes in service address require Comcast’s prior approval.
+In order to utilize text-to-911 service, you must be eligible to use the XFINITY Connect Mobile Application (“XCMA”) and activate Voice 2go™, properly authenticated and logged into the XCMA using a supported mobile device and operating system, and connected to the Internet over a Wi-Fi or commercial mobile radio service network.
+In order for text-to-911 (where emergency authorities make such service available) to be properly directed to emergency services, you must provide permission for the XCMA to request and receive your location from your mobile device’s operating system.</p>
 <p>
 <strong>ii.
 Service Interruptions: </strong>XFINITY Voice uses the electrical power in your home.
 If there is an electrical power outage, 911 calling may be interrupted if a battery backup in the associated voice-capable modem is not installed, fails, or is exhausted after several hours.
-Furthermore, calls, including calls to 911/E911, may not be completed if there is a problem with network facilities, including network congestion, network/equipment/power failure, or another technical problem.</p>
+Furthermore, calls, including calls and texts to 911/E911, may not be completed if there is a problem with network facilities, including network congestion, network/equipment/power failure, or another technical problem.</p>
 <p>
 <strong>iii.
 Suspension and Termination by Comcast: </strong>You understand and acknowledge that all XFINITY Voice, including 911/E911, as well as all online features of XFINITY Voice, where we make these features available, will be disabled if your account is suspended or terminated.</p>
@@ -916,7 +918,7 @@ Therefore, XFINITY Voice cannot accommodate the assignment of a telephone number
 </blockquote>
 <p>
 <strong>b.
-Limitation of Liability and Indemnification.</strong> YOU ACKNOWLEDGE AND AGREE THAT COMCAST WILL NOT BE LIABLE FOR ANY SERVICE OUTAGE, INABILITY TO DIAL 911 USING THE SERVICE(S), AND/OR INABILITY TO ACCESS EMERGENCY SERVICE PERSONNEL.
+Limitation of Liability and Indemnification.</strong> YOU ACKNOWLEDGE AND AGREE THAT COMCAST WILL NOT BE LIABLE FOR ANY SERVICE OUTAGE, INABILITY TO DIAL OR TEXT 911 USING THE SERVICE(S), AND/OR INABILITY TO ACCESS EMERGENCY SERVICE PERSONNEL.
 YOU AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS COMCAST AND ITS AFFILIATES, SUPPLIERS OR AGENTS FROM ANY AND ALL CLAIMS, LOSSES, DAMAGES, FINES, PENALTIES, COSTS, AND EXPENSES (INCLUDING, BUT NOT LIMITED TO, REASONABLE ATTORNEYS’ FEES) BY, OR ON BEHALF OF, YOU OR ANY THIRD PARTY OR USER OF THE SERVICE(S) RELATING TO THE FAILURE OR OUTAGE OF THE SERVICE(S), INCLUDING THOSE RELATED TO 911/E911.</p>
 </blockquote>
 <p>
@@ -974,4 +976,4 @@ ADDITIONAL TERMS OF SERVICE</strong>
 <br>
 To view additional terms of service applicable to XFINITY Voice in Maine, please go to http://www.comcast.com/tariffs.
 </p>
-<p>Stnd 1014</p>
+<p>Stnd 0115</p>
