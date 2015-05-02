@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
@@ -788,7 +788,7 @@ The policy on these pages has an effective date of 11/18/2010.
 </p>' + '' + '' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' + '' + 'Your Rights and Choices' + '<p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
 <br> More</p>' + '<p>You can choose to be removed from call lists that we use to contact customers with marketing and promotional offers.
 <br> More</p> ' + '<p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
-<br> More</p> ' + '' + '' + '<p>The Ponemon Institute has named AT&amp;T as one of the 20 most trusted companies on privacy for 2012.</p>' + '' + '' + '<p>
+<br> More</p> ' + '' /*+ '' + '<p>The Ponemon Institute has named AT&amp;T as one of the 20 most trusted companies on privacy for 2012.</p>' + ''*/ + '' + '<p>
 <strong>Lost or stolen phone?</strong>
 <br> For help on what to do, visit att.com/stolenphone.</p>' + '' + '' + '<p>
 <strong>Please Be Aware</strong> AT&amp;T will never contact you by e-mail to ask for your personal information.
