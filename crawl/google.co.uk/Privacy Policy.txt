@@ -11,7 +11,7 @@ Specific product practices
 Other useful privacy and security-related materials Hide examples
 Show examples
 Hide examples
-<p>Last modified: 25 February 2015 (view archived versions)</p>
+<p>Last modified: 1 May 2015 (view archived versions)</p>
 <p>Download PDF version
 </p>
 <p>There are many different ways that you can use our services – to search for and share information, to communicate with other people or to create new content.
@@ -105,9 +105,9 @@ This number and information about your installation (for example, the operating 
 <strong>Cookies and anonymous identifiers</strong>
 </p>
 <p>We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more cookies or anonymous identifiers to your device.
-We also use cookies and anonymous identifiers when you interact with services that we offer to our partners, such as advertising services or Google features that may appear on other sites.
+We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 Our Google Analytics product helps businesses and site owners analyse the traffic to their websites and apps.
-When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is linked, using Google technology, with information about visits to multiple sites.</p>
+When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites.</p>
 </li>
 </ul>
 </li>
@@ -122,7 +122,7 @@ If other users already have your email or other information that identifies you,
 <p>If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts.
 We will respect the choices that you make to limit sharing or visibility settings in your Google Account.
 </p>
-<p>When you contact Google, we keep a record of your communication to help solve any issues that you might be facing.
+<p>When you contact Google, we keep a record of your communication to help solve any issues you might be facing.
 We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 </p>
 <p>We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services.
@@ -160,7 +160,7 @@ You can also opt out of certain Google advertising services here.
 Adjust how the Profile associated with your Google Account appears to others.
 </li>
 <li>
-Control with whom you share information through your Google Account.
+Control who you share information with through your Google Account.
 </li>
 <li>
 Take information associated with your Google Account out of many of our services.
@@ -363,7 +363,8 @@ Example
 Learn more.
 Example
 "linked with information about visits to multiple sites"Google Analytics is based on first-party cookies.
-Data generated through Google Analytics can be linked, using Google technology, to third-party cookies, related to visits to other websites, for instance, when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyse its traffic.
+Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites.
+for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyse its traffic.
 Learn more.
 Example
 "may collect and process information about your actual location"For example, Google Maps can centre the maps view on your current location.

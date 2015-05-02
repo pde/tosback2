@@ -11,7 +11,7 @@ Práticas específicas de produto
 Outros materiais úteis relacionados a privacidade e segurança Ocultar exemplos
 Mostrar exemplos
 Ocultar exemplos
-<p>Última modificação: 25 de fevereiro de 2015 (visualizar versões arquivadas)</p>
+<p>Última modificação: 1 de maio de 2015 (visualizar versões arquivadas)</p>
 <p>Fazer o download da versão em PDF
 </p>
 <p>Existem muitas maneiras diferentes pelas quais o usuário pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo.
@@ -105,10 +105,11 @@ Este número e as informações sobre sua instalação (por exemplo, o tipo de s
 <p>
 <strong>Cookies e identificadores anônimos</strong>
 </p>
-<p>Nós e nossos parceiros usamos várias tecnologias para coletar e armazenar informações quando o usuário visita um serviço da Google.Tais informações podem incluir o envio de um ou mais cookies ou identificadores anônimos para o dispositivo do usuário.
-Também usamos cookies e identificadores anônimos quando o usuário interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos da Google que podem aparecer em outros sites.
+<p>Nós, juntamente com nossos parceiros, usamos várias tecnologias para coletar e armazenar informações quando o usuário visita um serviço da Google.
+Tais informações podem incluir o envio de um ou mais cookies ou identificadores anônimos para o dispositivo do usuário.
+Também usamos cookies e identificadores anônimos quando o usuário interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos da Google que possam aparecer em outros sites.
 Nosso produto Google Analytics ajuda empresas e proprietários de sites a analisar o tráfego nos respectivos websites e apps.
-Quando as informações do Google Analytics são usadas com nossos serviços de publicidade, como os que usam o cookie DoubleClick, elas são vinculadas, por meio da tecnologia da Google, a informações sobre visitas a diversos sites.</p>
+Quando as informações do Google Analytics são usadas com nossos serviços de publicidade, como os que usam o cookie DoubleClick, elas são vinculadas a informações sobre visitas a diversos sites, pelo cliente do Google Analytics ou pela Google, por meio da tecnologia da Google.</p>
 </li>
 </ul>
 </li>
@@ -364,7 +365,7 @@ Exemplo
 Saiba mais.
 Exemplo
 "vinculadas às informações sobre visitas a diversos sites"O Google Analytics é baseado em cookies primários.
-Os dados gerados pelo Google Analytics podem ser vinculados, por meio da tecnologia da Google, a cookies de terceiros, relacionados a visitas a outros websites, por exemplo quando um anunciante deseja usar os dados do Google Analytics do usuário para criar anúncios mais relevantes ou para analisar melhor seu tráfego.
+Os dados gerados pelo Google Analytics podem ser vinculados, pelo cliente do Google Analytics ou pela Google, por meio da tecnologia da Google, a cookies de terceiros, relacionados a visitas a outros websites, por exemplo quando um anunciante deseja usar os dados do Google Analytics do usuário para criar anúncios mais relevantes ou para analisar melhor seu tráfego.
 Saiba mais.
 Exemplo
 "coletar e processar informações sobre sua localização real"Por exemplo, o Google Maps pode centralizar a visualização de mapas na sua localização atual.
