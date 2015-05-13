@@ -884,8 +884,8 @@ all service options will be displayed in the shopping cart.
 If you have any concerns regarding the condition or packaging of your order, simply describe the issue on the delivery receipt provided by the driver and contact us for assistance.
 </p>
 <p>Large Parcel Delivery Methods:</p>
-<p>Curbside Delivery: Self-Service</p>
-<p> Our Self-Service delivery method covers the essentials.
+<p>Curbside (You Unload)</p>
+<p> This delivery method covers the essentials.
 A delivery truck will pull up to the curb outside of your home within your 4-hour appointment window.
 From there, you will be responsible for unloading the item(s) from the truck and any further transport beyond that point.
 We recommend asking a family member or friend for an extra hand.
@@ -897,8 +897,8 @@ We recommend asking a family member or friend for an extra hand.
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Curbside Delivery: Lift-Gate Service</p>
-<p> Our Lift-Gate service features a skilled delivery team that will unload the item(s) from the delivery truck and lower it to the curb outside your home.
+<p>Curbside (We Unload)</p>
+<p> A skilled delivery team will unload the item(s) from the delivery truck and lower it to the curb outside your home.
 You will be responsible for further transport beyond that point.
 We recommend asking a family member or friend for an extra hand.
 </p>
@@ -908,8 +908,8 @@ We recommend asking a family member or friend for an extra hand.
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Front Door: Drop-Off</p>
-<p> Our Front Door: Drop-Off offers an extra set of hands.
+<p>Front Door Drop Off (No Signature Required)</p>
+<p> Our Front Door Drop-Off service offers an extra set of hands.
 A skilled delivery team will unload the item(s) from the truck and take it to the first available dry area outside your home (front door, porch, or garage).
 You will then be responsible for further transport beyond that point.
 </p>
@@ -922,9 +922,9 @@ Your item(s) will be left in the first available dry area, as long as the delive
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Entryway</p>
-<p> Inside Delivery takes Front Door even further.
-For our Entryway option, a skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
+<p>Inside Entryway</p>
+<p> Inside Entryway service takes your items even further.
+A skilled delivery team will bring the item(s) inside your home and place it in the immediate entryway.
 </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrives at the local terminal.</li>
@@ -932,8 +932,8 @@ For our Entryway option, a skilled delivery team will bring the item(s) inside y
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Room of Choice</p>
-<p> Our Room of Choice option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.* </p>
+<p>Room of Choice</p>
+<p> Our less-sweat method, the Room of Choice option features a skilled delivery team that will bring your item(s) inside, and place it in the room of your choosing.* </p>
 <p> *Upstairs carrying limit of two flights of stairs (up to 15 steps each) </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once their items arrive at the local terminal.</li>
@@ -941,19 +941,19 @@ For our Entryway option, a skilled delivery team will bring the item(s) inside y
 <li>Packaging Removal Included: No</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Inside Delivery: Room of Choice &amp.
+<p>Room of Choice &amp.
 Packaging Removal</p>
-<p> For even less maintenance, this delivery option includes professional packaging removal.
-A skilled delivery team will bring your item(s) inside, and place it in the room of your choosing.* Packaging will be removed and disposed of for your convenience.
+<p> Our Room of Choice &amp.
+Packaging Removal option features a skilled delivery team that will bring your item(s) inside, place it in the room of your choosing*, then remove and dispose of all packaging for your convenience.
 </p>
 <p> *Upstairs carrying limit of two flights of stairs (up to 15 steps each) </p>
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrive at the local terminal.</li>
 <li>Signature Required: Yes</li>
-<li>Packaging Removal Included: No</li>
+<li>Packaging Removal Included: Yes</li>
 <li>Assembly Service Included: No</li>
 </ul>
-<p>Full Service Delivery: Room of Choice, Packaging Removal, &amp.
+<p>Full Service Delivery &amp.
 Assembly</p>
 <p> Our easiest, no-sweat method, Full Service Delivery takes your item from delivery to assembly.
 A delivery team will bring your item(s) inside and place it in the room of your choice.* Packaging will be removed and disposed of, followed by basic assembly for your convenience.** </p>
@@ -964,8 +964,8 @@ Please note that the delivery team will not perform plumbing installation, elect
 <ul>
 <li>Appointment Scheduling: The delivery partner will call you to arrange a date and 4-hour appointment window once your item(s) arrive at the local terminal.</li>
 <li>Signature Required: Yes</li>
-<li>Packaging Removal Included: No</li>
-<li>Assembly Service Included: No</li>
+<li>Packaging Removal Included: Yes</li>
+<li>Assembly Service Included: Yes</li>
 </ul>
 <p>When Will My Order Arrive?</p>
 <p> Every product on our site has an estimated Lead Time - the number of business days it takes for an item to be processed and prepared for shipment at the warehouse.
