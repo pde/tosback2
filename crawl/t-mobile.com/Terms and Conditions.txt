@@ -1,10 +1,10 @@
  <br>
 <br>
-<p>Did you activate (or renew) service prior to March 18, 2015? If yes, please click the date for the applicable version of the Terms and Conditions: November 10, 2014 | March 27, 2014 | October 20, 2013 | December 30, 2011 | July 24, 2011 | July 18, 2010 | June 28, 2008 | December 2004</p>
+<p>Did you activate (or renew) service prior to June 12, 2015? If yes, please click the date for the applicable version of the Terms and Conditions: March 18, 2015 | November 10, 2014 | March 27, 2014 | October 20, 2013 | December 30, 2011 | July 24, 2011 | July 18, 2010 | June 28, 2008 | December 2004</p>
 <br>T-Mobile Terms &amp.
 Conditions.
 <p> </p>
-<p>Effective March 18, 2015.
+<p>Effective June 12, 2015.
 <br>
 <br>
 </p>
@@ -258,19 +258,28 @@ Your Device may not be able to access data, or you may be charged for data usage
 <strong>
 <u>Additional important information about your Data Plan can be found at http://www.t-mobile.com/Company/CompanyInfo.aspx?tp=Abt_Tab_ConsumerInfo&amp;tsp=Abt_Sub_InternetServices.
 Permissible and Prohibited Uses</u>
-</strong> .
-Your Data Plan is intended for Web browsing, messaging, and similar activities on your Device and not on any other equipment.
-Except to the extent explicitly permitted by your Data Plan, other uses, including for example, using your Device as a modem or tethering your Device to a personal computer or other hardware, are not permitted.
-Other examples of prohibited uses can be found in Section 18.
+</strong>.
+Your Data Plan is intended for Web browsing, messaging, and similar activities.
+Examples of other uses that are not permitted because they are a misuse of your Device or your Service can be found in Section 18.
+Tethering your Device to other lawful devices is permitted pursuant to the terms and conditions and allotments of your Data Plan.
 <strong>
 <u>Protective Measures</u>
-</strong>: To provide the majority of our customers with a good experience and minimize capacity issues and degradation in network performance, we may take certain steps with our network, including, but not limited to, temporarily reducing data throughput for a subset of customers who use a disproportionate amount of network resources.
+</strong>: To provide the best possible experience for the most possible customers and minimize capacity issues and degradation in network performance, we take certain steps to manage our network, including, but not limited to, prioritizing the data usage of Unlimited high-speed data customers who use more than 21 GB of data during a billing cycle below that of other customers in times and locations where there are competing customer demands for network resources for the remainder of their billing cycle.
+Where the network is lightly loaded in relation to available capacity, a customer whose data is de-prioritized will notice little, if any, effect from having lower priority.
+This will be the case in the vast majority of times and locations.
+At times and locations where the network is heavily loaded in relation to available capacity, however, these customers will likely see significant reductions in data speeds, especially if they are engaged in data-intensive activities.
+T-Mobile constantly works to improve network performance and capacity, but there are physical and technical limits on how much capacity is available, and in constrained locations the frequency of heavy loading in relation to available capacity may be greater than in other locations.
+When network loading goes down or the customer moves to a location that is less heavily loaded in relation to available capacity, the customer's speeds will likely improve.
+See www.T-Mobile.com/OpenInternet for details and for current data amount subject to this practice.
 In addition, if you exceed the amount specified in your Data Plan during a billing cycle, we may reduce your data speed for the remainder of that billing cycle.
 If you use your Data Plan in a manner that could interfere with other customers' service, affect our ability to allocate network capacity among customers, or degrade service quality for other customers, we may suspend, terminate, or restrict your data sessions, or switch you to a more appropriate Data Plan.
 We also manage our network to facilitate the proper functioning of services that require consistent high speeds, such as video calling, which may, particularly at times and in areas of network congestion, result in reduced speeds for other services.
-Additionally, we may implement other network management practices, such as caching less data, using less capacity, and sizing video more appropriately for a Device to transmit data files more efficiently.
+Additionally, we may implement other network management practices, such as deploying streaming video optimization technology.
+This technology is intended to manage data usage on the network, reduce the risk of streaming video stalling and buffering, and reduce the amount of high-speed data consumption used for streaming video.
+Streaming video optimization improves streaming video reliability as well makes room for other users to enjoy higher browsing speeds.
+The streaming video optimization process is agnostic as to the streaming video content itself and to the website that provides it.
+While most changes to streaming video files are likely to be indiscernible, the optimization process may minimally impact the appearance of the streaming video as displayed on a users device.
 These practices operate without regard to the content itself or the source of the content, and do not discriminate against offerings that might compete against those offered by T-Mobile on the basis of such competition.
-While we avoid changing text, image, and video files in the compression process when practical, the process may impact the appearance of files as displayed on a device.
 <strong>
 <u>Downloadable Content and Applications:</u>
 </strong> Content or Applications (e.g., downloadable or networked applications, wallpapers, ringtones, games, and productivity tools) ("Content &amp.
@@ -468,10 +477,9 @@ You agree not to misuse the Service or Device, including but not limited to: (a)
 (d) tampering with or modifying your T-Mobile Device.
 (e) "spamming" or engaging in other abusive or unsolicited communications, or any other mass, automated voice or data communication for commercial or marketing purposes.
 (f) reselling T-Mobile Devices for profit, or tampering with, reprogramming or altering T-Mobile Devices for the purpose of reselling the T-Mobile Device.
-(g) using the Service in connection with server devices or host computer applications, including continuous Web camera posts or broadcasts, automatic data feeds, automated machine-to-machine connections or peer-to-peer (P2P) file-sharing applications that are broadcast to multiple servers or recipients, "bots" or similar routines that could disrupt net user groups or email use by others or other applications that denigrate network capacity or functionality.
-(h) accessing, or attempting to access without authority, the information, accounts or devices of others, or penetrate, or attempt to penetrate, T-Mobile's or another entity's network or systems.
-(i) running software or other devices that maintain continuously active Internet connections when a computer's connection would otherwise be idle, or "keep alive" functions (e.g.
-using a Data Plan for Web broadcasting, operating servers, telemetry devices and/or supervisory control and data acquisition devices).
+(g) using the Service in connection with server devices or host computer applications.
+(h) using applications which automatically consume unreasonable amounts of available network capacity.
+(i) using applications which are designed for unattended use, automatic data feeds, automated machine-to-machine connections, or applications that are used in a way that degrades network capacity or functionality.
 or (j) assisting or facilitating anyone else in any of the above activities.
 Unless authorized by T-Mobile, you agree that you won't install, deploy, or use any regeneration equipment or similar mechanism (for example, a repeater or signal booster) to originate, amplify, enhance, retransmit or regenerate a transmitted RF signal and, unless authorized by T-Mobile, you agree that you will not use a telephone number on the T-Mobile network for any purpose but for access to the public switched telephone network.
 You agree that a violation of this section harms T-Mobile, which cannot be fully redressed by money damages, and that T-Mobile shall be entitled to immediate injunctive relief in addition to all other remedies available.</p>
