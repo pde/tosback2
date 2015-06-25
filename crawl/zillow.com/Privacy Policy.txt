@@ -9,13 +9,13 @@
 <li>·</li>
 <li>Firefox</li>
 </ul>
- MENU Buy <ul>
+ MENU Homes <ul>
 <li> Homes for sale <ul>
 <li>
 <ul>
 <li> Homes for sale </li>
-<li> Foreclosures </li>
 <li> For sale by owner </li>
+<li> Foreclosures </li>
 <li> Open houses </li>
 </ul>
 </li>
@@ -29,37 +29,30 @@
 </li>
 </ul>
 </li>
-<li> Resources <ul>
+<li> Post a home for sale <ul>
 <li>
 <ul>
-<li> Buyer's guide </li>
-<li> Foreclosure center </li>
-<li> Real Estate App </li>
-<li> Buyers Agent </li>
+<li> For sale by owner </li>
+<li> For sale by agent </li>
+<li> Coming Soon </li>
+<li> Make Me Move </li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>Rent <ul>
+</ul>Rentals <ul>
 <li> Rentals <ul>
 <li>
 <ul>
 <li> Apartments for rent </li>
 <li> Houses for rent </li>
 <li> Pet friendly rentals </li>
-<li> All rental listings </li>
 </ul>
 </li>
-<li>
-</li>
-</ul>
-</li>
-<li> Resources <ul>
 <li>
 <ul>
+<li> All rental listings </li>
 <li> Rent affordability calculator </li>
-<li> Renter's guide </li>
-<li> Rentals App </li>
 </ul>
 </li>
 </ul>
@@ -82,28 +75,6 @@
 <p>Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.</p>
 </li>
 <li> Post a rental (It's free) </li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>Sell <ul>
-<li> Selling tools <ul>
-<li>
-<ul>
-<li> How much is my home worth? </li>
-<li> Home values </li>
-<li> Sellers Agent </li>
-</ul>
-</li>
-</ul>
-</li>
-<li> Post a home for sale <ul>
-<li>
-<ul>
-<li> For sale by agent </li>
-<li> For sale by owner </li>
-<li> Coming soon </li>
-<li> Make me move </li>
 </ul>
 </li>
 </ul>
@@ -142,12 +113,12 @@
 <li>
 <ul>
 <li> Mortgage education center </li>
-<li> Mortgages App </li>
+<li> Mortgages app </li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>Agent finder <ul>
+</ul>Agents <ul>
 <li> Looking for pros? <ul>
 <li>
 <ul>
@@ -207,11 +178,20 @@
 </li>
 </ul>
 </li>
-</ul>Home design <ul>
-<li> Find design ideas <ul>
+</ul>Local <ul>
+<li> Local <ul>
 <li>
 <ul>
-<li> Kitchens </li>
+<li> Home values </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>Home design <ul>
+<li> Explore spaces <ul>
+<li>
+<ul>
+<li> All spaces </li>
 <li> Bathrooms </li>
 <li> Bedrooms </li>
 </ul>
@@ -219,13 +199,20 @@
 <li>
 <ul>
 <li> Dining rooms </li>
-<li> Living rooms </li>
-<li> See all spaces </li>
+<li> Entryways </li>
+<li> Landscape Yard </li>
+</ul>
+</li>
+<li>
+<ul>
+<li> Great rooms </li>
+<li> Home offices </li>
+<li> Kitchens </li>
 </ul>
 </li>
 </ul>
 </li>
-<li> Popular styles <ul>
+<li> Filter by styles <ul>
 <li>
 <ul>
 <li> Contemporary </li>
@@ -235,19 +222,33 @@
 </li>
 </ul>
 </li>
-<li> Find a pro <ul>
+<li> Filter by cost <ul>
 <li>
 <ul>
-<li> Home improvement pros </li>
+<li> Budget </li>
+<li> Mid-range </li>
+<li> Luxury </li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>More <ul>
+<li> Guides &amp.
+help <ul>
+<li>
+<ul>
+<li> Foreclosure center </li>
+<li> Buyer's guide </li>
+<li> Renter's guide </li>
+<li> Zillow Help Center </li>
+</ul>
+</li>
+</ul>
+</li>
 <li> Blogs <ul>
 <li>
 <ul>
-<li> Zillow Blog </li>
+<li> Zillow blog </li>
 <li> Zillow for pros blog </li>
 <li> Zillow engineering blog </li>
 </ul>
@@ -269,12 +270,10 @@
 <li>
 <ul>
 <li> Rental advertising </li>
-<li> Zillow Research </li>
-<li> Zillow Visuals </li>
-<li> Zillow Help Center </li>
+<li> Zillow research </li>
+<li> Zillow visuals </li>
+<li> Zillow Mobile Apps </li>
 </ul>
-</li>
-<li>
 </li>
 </ul>
 </li>
