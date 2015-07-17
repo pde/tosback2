@@ -244,7 +244,7 @@ Rep.
 <li> Products &amp.
 Services <ul>
 <li>
-</li>
+<ol>
 <li> Laptops &amp.
 Ultrabooks <ol>
 <li> View all laptops </li>
@@ -268,10 +268,10 @@ Ultrabooks <ol>
 <li> ThinkPad Yoga </li>
 </ol>
 </li>
-</ul>
+</ol>
 </li>
 <li>
-</li>
+<ol>
 <li> Tablets <ol>
 <li> View all tablets </li>
 <li> Lenovo A Series </li>
@@ -283,8 +283,10 @@ Ultrabooks <ol>
 <li> ThinkPad Yoga </li>
 </ol>
 </li>
-<li>
+</ol>
 </li>
+<li>
+<ol>
 <li> Desktops <ol>
 <li> View all desktops </li>
 <li> A Series All-in-Ones </li>
@@ -300,6 +302,8 @@ Ultrabooks <ol>
 <li> M Series Towers </li>
 <li> Q Series Minis </li>
 <li> Erazer X Series </li>
+</ol>
+</li>
 </ol>
 </li>
 <li> Workstations </li>
@@ -319,6 +323,7 @@ Warranty </li>
 <li> New Product Announcements </li>
 <li> Outlet </li>
 </ul>
+</li>
 <li> Shop by Industry <ul>
 <li> Home &amp.
 Home Office </li>
@@ -358,5 +363,6 @@ Local Government </li>
 <li> Order Status </li>
 <li> Support </li>
 </ul>
-</li> trusteValidation <small>2015 Lenovo.
+</li>
+</ul> trusteValidation <small>2015 Lenovo.
 All rights reserved.</small> Print this pagePrivacySite MapTerms of Use 
