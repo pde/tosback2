@@ -1,83 +1,15 @@
- <ul>
-<li>About</li>
-<li>Explore</li>
-<li>Search</li>
-</ul> Sign in <b>
-</b>
+ <i>
+</i> Oh snap! We don't support this version of your browser, <em>and neither should you!</em>
+<p>You are visiting this page because we detected an unsupported browser.
+Your browser does not support security features that we require.
+We highly recommend that you update your browser.
+If you believe you have arrived here in error, please contact us.
+Be sure to include your browser version.</p>
+<p>These are the ones we recommend:</p>
 <ul>
-<li> Twitter </li>
-<li> GitHub </li>
-<li> Facebook </li>
-<li> Google </li>
-<li> Bitbucket </li>
-<li> OpenStreetMap </li>
-</ul>
-<ul>
-<li>Basic Info</li>
-<li>Features</li>
-<li>Policies</li>
-<li>Security</li>
-</ul>
-<b>Announcing Gratipay 2.0</b>! Thanks for bearing with us as we finish sweeping up after this major upgrade.
-As always, feel free to get in touch privately via email or publicly on GitHub with any questions or issues.
-Security <ul>
-<li>Disclosure</li>
-<li>Hall of Fame</li>
-</ul>
-<p>We take the security of our systems seriously, and we value the security community.
-The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.</p> Guidelines <p>We ask that all researchers:</p>
-<ul>
-<li>Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing;</li>
-<li>Perform research only within the scope set out below;</li>
-<li>Use the identified communication channels to report vulnerability information to us.
-and</li>
-<li>Keep information about any vulnerabilities you’ve discovered confidential between yourself and Gratipay until we’ve had 90 days to resolve the issue.</li>
-</ul>
-<p>If you follow these guidelines when reporting an issue to us, we commit to:</p>
-<ul>
-<li>Not pursue or support any legal action related to your research;</li>
-<li>Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission);</li>
-<li>Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.</li>
-</ul>Scope <ul>
-<li>https://gratipay.com</li>
-</ul>
-<p>Source code is available on GitHub.</p> Out of scope <p>Any services hosted by 3rd party providers and services are excluded from scope.</p>
-<p>In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope:</p>
-<ul>
-<li>Findings from physical testing such as office access (e.g.
-open doors, tailgating)</li>
-<li>Findings derived primarily from social engineering (e.g.
-phishing, vishing)</li>
-<li>Findings from applications or systems not listed in the ‘Scope’ section</li>
-<li>UI and UX bugs and spelling mistakes</li>
-<li>Network level Denial of Service (DoS/DDoS) vulnerabilities</li>
-</ul>
-<p>Things we do not want to receive:</p>
-<ul>
-<li>Personally identifiable information (PII)</li>
-<li>Credit card holder data</li>
-</ul>How to Report a Security Vulnerability <p>If you believe you’ve found a security vulnerability in one of our products or platforms please send it to us by emailing security@gratipay.com.
-Please include the following details with your report:</p>
-<ul>
-<li>Description of the location and potential impact of the vulnerability;</li>
-<li>A detailed description of the steps required to reproduce the vulnerability (POC scripts, screenshots, and compressed screen captures are all helpful to us).
-and</li>
-<li>Your name/handle and a link for recognition in our Hall of Fame.</li>
-</ul>
-<p>To encrypt your message, you may use our PGP key:</p> $ curl https://gratipay.com/about/security/pgp.asc | gpg --import
-gpg: key 7A5F6B30: "Gratipay Security &lt;security@gratipay.com&gt;" imported
-gpg: Total number processed: 1
-gpg: imported: 1
-$ <p>We only use PGP to decrypt messages, never to encrypt messages or authenticate our identity.
-Instead, we'll create a private repository on GitHub for ongoing communication about the vulnerability, which we'll invite you to join (see our internal policy document for more details).</p> Feedback <ul>
-<li>About</li>
-<li>Contact Us</li>
-<li>FAQ</li>
-<li>Terms</li>
-<li>Colophon</li>
-<li>Blog</li>
-<li>Twitter</li>
-<li>GitHub</li>
-<li>Google Plus</li>
-<li>Facebook</li>
+<li> Google Chrome Download latest </li>
+<li> Mozilla Firefox Download latest </li>
+<li> Opera Download latest </li>
+<li> Apple Safari Upgrade your OS </li>
+<li> Microsoft Internet Explorer Download latest </li>
 </ul> 
