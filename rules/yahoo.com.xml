@@ -1,10 +1,10 @@
 <sitename name="yahoo.com">
  <docname name="Terms of Service">
-  <url name="http://info.yahoo.com/legal/us/yahoo/utos/terms/" xpath="//div[@id=&apos;rb&apos;]" reviewed="true">
+  <url name="https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm" xpath="//div[@id=&apos;targetDiv&apos;]" reviewed="true">
   </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://info.yahoo.com/privacy/us/yahoo/" xpath="//div[@id=&apos;pp-content1&apos;]" reviewed="true">
+   <url name="https://policies.yahoo.com/us/en/yahoo/privacy/index.htm" xpath="//div[@class='yui3-u-2-3 ml_yui3-u-1']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

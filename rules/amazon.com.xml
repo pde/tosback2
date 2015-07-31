@@ -1,62 +1,62 @@
 <sitename name="amazon.com">
- <docname name="Amazon.com Privacy Notice">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Amazon Kindle Store Terms of Use">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201014950" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Conditions of Use">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=508088" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
-  <docname name="Kindle for Android Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201222440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Kindle for PC Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200499360" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Kindle for Mac Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200443370" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="AMAZON SILK TERMS &amp; CONDITIONS">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200775270" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Kindle Cloud Reader Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200701450" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Kindle for Windows 8 Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200939440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Amazon App Suite Legal Notices">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;nodeId=201008370&amp;qid=1384707232&amp;sr=1-2" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+ <!--<docname name="Amazon.com Privacy Notice">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Amazon Kindle Store Terms of Use">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201014950" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Conditions of Use">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=508088" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+  <!--<docname name="Kindle for Android Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201222440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Kindle for PC Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200499360" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Kindle for Mac Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200443370" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="AMAZON SILK TERMS &amp; CONDITIONS">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200775270" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Kindle Cloud Reader Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200701450" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Kindle for Windows 8 Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200939440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Amazon App Suite Legal Notices">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;nodeId=201008370&amp;qid=1384707232&amp;sr=1-2" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
  <docname name="Interest-Based Ads">
-   <url name="http://www.amazon.com/b/?&amp;node=5160028011" xpath="//div[@id=&apos;centercolatf&apos;]/div[@class=&apos;unified_widget rcmBody&apos;]" reviewed="true">
+   <url name="http://www.amazon.com/b/?&amp;node=5160028011" xpath="//div[@class='acs-bgtext-widget']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Third Party Licenses">
-   <url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-6?ie=UTF8&amp;nodeId=200910440&amp;qid=1384707488&amp;sr=1-6" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+ <!--<docname name="Third Party Licenses">-->
+   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-6?ie=UTF8&amp;nodeId=200910440&amp;qid=1384707488&amp;sr=1-6" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
 </sitename>

@@ -20,7 +20,7 @@
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.skype.com/en/legal/privacy/" xpath="//div[@class='parsys']" reviewed="true">
+   <url name="https://www.microsoft.com/privacystatement/en-us/skype/default.aspx" xpath="//div[@id='divJsEnabled']/*[not(@class='logo_relatedLink_Section') and not(@class='logo_Section')]" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
