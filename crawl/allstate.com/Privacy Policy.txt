@@ -2,10 +2,10 @@
 <li>Find An Agent</li>
 <li>Contact Us</li>
 <li>Español</li>
-<li>Denver, CO,80202</li>
+<li>Set Your Location</li>
 <li>
 </li>
-</ul> Get a Quote? <p>Your location is set for Denver, CO, 80202</p> Edit Select a product to get a quote.<br>Retrieve a saved quote <dl>
+</ul> Get a Quote? <p>Enter a valid US ZIP Code to set your location.</p> Edit Select a product to get a quote.<br>Retrieve a saved quote <dl>
 <dd> Auto </dd>
 <dd> Home </dd>
 <dd> Renters </dd>
@@ -81,12 +81,12 @@ Retirement</li>
 <li>
 </li>
 <li> Update Zip Code expand <ul>
-<li>Denver, CO,80202Edit</li>
+<li>Set Your LocationEdit</li>
 </ul>
 </li>
 <li>Find A Local Agent</li>
-<li> Get A Quote in 80202 expand <ul>
-<li> Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
+<li> Get A Quote expand <ul>
+<li> Set Your Location Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
 VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote </li>
 </ul>
 </li>
@@ -408,7 +408,8 @@ We may still contact you about your Allstate policy, billing issues, claims and 
 <br> We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 Contact Us &amp.
 Quote <p>Get A Quote</p>
-<p>Your location is set for:</p> Denver, CO 80202 Edit Beginning of dialog window.
+<p>Your location is set for:</p> Enter a valid US ZIP Code to set your location.
+Edit Beginning of dialog window.
 It begins with a link called "Get a Quote?".
 Escape will cancel and close the window.
 GET A QUOTE Select a product to get a quote.
@@ -428,20 +429,11 @@ Vehicle</dd>
 <dd>More</dd>
 </dl> End Dialog.
 AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec.
-VehicleBusiness InsuranceMore<br>GET A QUOTE <br>Retrieve a saved quote <p> Agents Near 80202</p>
-<ul>
-<li> J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website </li>
-<li> Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website </li>
-<li> K.D.
-Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website </li>
-<li> Tiffany Mai 720-441-5608 2785 N Speer Blvd # Lw01 Denver, CO 80211 Visit website </li>
-</ul> Previous <ul>
-<li> J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE </li>
-<li> Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE </li>
-<li> K.D.
-Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE </li>
-<li> Tiffany Mai 2785 N Speer Blvd # Lw01 Denver, CO 80211 WEBSITE </li>
-</ul> Next More Agents More Agents <p>24-hour support</p>
+VehicleBusiness InsuranceMore<br>GET A QUOTE <br>Retrieve a saved quote <p>Find Your Local Agent</p>
+<p> Enjoy the personal attention you deserve.
+An Allstate agent is ready to help you with all your insurance needs.
+Find yours today.
+</p> Enter your Zip Code <p>24-hour support</p>
 1-800-ALLSTATE <br>(1-800-255-7828) <ul>
 <li>Company</li>
 <li>Our Story</li>
@@ -491,5 +483,5 @@ SECURITY</li>
 Please, try again.
 Location data not available.
 Please enter zip code.
-ZIP Code: Cancel <br>Use My Current Location City, State <p>Denver, CO</p> Please Wait...Updating Location...<br>It's taking a bit longer than expected.
+ZIP Code: Cancel <br>Use My Current Location City, State <p>Set Your Location</p> Please Wait...Updating Location...<br>It's taking a bit longer than expected.
 Your update should be done soon.
