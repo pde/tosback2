@@ -168,4 +168,4 @@ Privacy Statement</p>
 <i>
 </i>
 <i>
-</i> 
+</i> $('head').append('');
