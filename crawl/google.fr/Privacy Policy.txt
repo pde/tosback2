@@ -5,7 +5,7 @@ Ces règles sont importantes et nous espérons que vous prendrez le temps de les
 Sachez que des fonctionnalités permettant de gérer vos données et de protéger votre confidentialité et votre sécurité sont disponibles dans la section Mon compte.</p> Règles de confidentialité Masquer les exemples
 Afficher les exemples
 Masquer les exemples
-<p>Date de la dernière modification : 30 juin 2015 (voir les versions archivées)</p>
+<p>Date de la dernière modification : 19 août 2015 (voir les versions archivées)</p>
 <p>Télécharger la version PDF</p>
 <p>Vous pouvez avoir recours à nos services pour toutes sortes de raisons : pour rechercher et partager des informations, pour communiquer avec d'autres personnes ou pour créer des contenus.
 En nous transmettant des informations, par exemple en créant un compte Google, vous nous permettez d'améliorer nos services.
@@ -110,7 +110,7 @@ Lorsqu'il est utilisé parallèlement à nos services publicitaires, tels que ce
 </ul>
 </li>
 </ul>
-<p>Les informations que nous recueillons lorsque vous êtes connecté à Google peuvent être associées à votre compte Google.
+<p>Outre les informations vous concernant que nous obtenons par l'intermédiaire de nos partenaires, les données que nous recueillons lorsque vous êtes connecté à Google peuvent être associées à votre compte Google.
 Nous les traitons alors comme des données personnelles.
 Pour en savoir plus sur la manière dont vous pouvez accéder aux informations associées à votre compte Google, les gérer ou les supprimer, consultez la section Transparence et liberté de choix des présentes règles.
 </p>
@@ -152,7 +152,7 @@ Vous pouvez par exemple effectuer les actions ci-dessous :
 </p>
 <ul>
 <li>
-Consulter l'historique de votre compte Google afin d'accéder aux paramètres qui vous permettent de contrôler la collecte d'informations personnelles des services Google, tels que Recherche Google, YouTube et Historique des positions.
+Vérifier et mettre à jour les commandes relatives à l'activité afin de déterminer les types de données (tels que les vidéos que vous avez visionnées sur YouTube ou vos dernières recherches) que vous souhaiteriez enregistrer dans votre compte lorsque vous utilisez des services Google.
 </li>
 <li>Utiliser Google Dashboard pour vérifier et contrôler certains types de données liés à votre Compte Google.
 </li>
@@ -253,7 +253,7 @@ Votre administrateur de domaine est susceptible de pouvoir :
 </ul>
 </li>
 </ul>
-<p>Nous sommes susceptibles de partager publiquement, ainsi qu'avec nos partenaires (éditeurs, annonceurs ou sites associés) des informations agrégées, qui ne permettent pas d'identifier personnellement l'utilisateur.
+<p>Nous pouvons être amenés à partager publiquement, ainsi qu'avec nos partenaires (éditeurs, annonceurs ou sites associés) des informations qui ne permettent pas d'identifier personnellement l'utilisateur.
 Nous pouvons, par exemple, partager publiquement des informations relatives aux tendances d'utilisation de nos services.
 </p>
 <p>Dans le cas où Google prendrait part à une opération de fusion, d’acquisition ou à toute autre forme de cession d’actifs, nous nous engageons à garantir la confidentialité de vos données personnelles et à vous informer avant que celles-ci ne soient transférées ou soumises à de nouvelles règles de confidentialité.
@@ -274,8 +274,8 @@ En particulier :
 Ces personnes sont soumises à de strictes obligations de confidentialité et sont susceptibles de faire l’objet de sanctions disciplinaires pouvant aller jusqu’au licenciement en cas de manquement à ces obligations.</li>
 </ul>Haut de la page
 Champ d'application des présentes Règles de confidentialité
-<p>Les présentes Règles de confidentialité s’appliquent à tous les services proposés par Google Inc.
-et par ses filiales, y compris à YouTube et aux services proposés sur d’autres sites (comme par exemple nos services publicitaires), mais excluent les services régis par d’autres règles de confidentialité n’incorporant pas les présentes.
+<p>Les présentes Règles de confidentialité s'appliquent à tous les services proposés par Google Inc.
+et par ses filiales, y compris à YouTube, aux services fournis par Google sur les appareils Android et aux services proposés sur d'autres sites (nos services publicitaires, par exemple), mais excluent les services régis par d'autres règles de confidentialité n'incorporant pas les présentes.
 </p>
 <p>Les présentes Règles de confidentialité ne s’appliquent pas aux services proposés par d’autres sociétés ou personnes, notamment aux produits ou aux sites qui peuvent vous être proposés dans les résultats de recherche, aux sites qui peuvent incorporer des services Google ou aux autres sites accessibles à partir de nos services.
 Les présentes Règles de confidentialité ne couvrent pas les pratiques en matière de protection des données d’autres sociétés ou organisations qui font la publicité de nos services et qui peuvent utiliser des cookies, des balises pixel ou d’autres technologies pour afficher et proposer des annonces pertinentes.
@@ -329,10 +329,10 @@ la manière dont nous utilisons les cookies .
 </li>
 <li>Une page qui explique quelles données vous nous transmettez lorsque vous consultez des sites Web qui utilisent nos produits publicitaires, d'analyse et sociaux
 </li>
+<li>L'outil de vérification des paramètres de confidentialité facilite le contrôle de vos principaux paramètres de confidentialité.
+</li>
 <li>Le Centre de sécurité Google, qui fournit des informations sur la manière de renforcer la sécurité sur Internet</li>
-</ul>
-Nous assurons la confidentialité et la sécurité de vos informations personnelles, et nous vous en donnons le contrôle.
-<p>Accédez aux réponses aux questions courantes concernant la confidentialité et la sécurité</p> Exemple
+</ul> Exemple
 "accès à vos données personnelles"Par exemple, Google Dashboard vous permet de visualiser rapidement et facilement une partie des données associées à votre compte Google.
 En savoir plus Exemple
 "annonces que vous trouvez les plus utiles"Par exemple, si vous consultez fréquemment des sites Web et des blogs de jardinage, il est possible que des annonces ayant trait à cette activité apparaissent lorsque vous parcourez le Web.
@@ -399,11 +399,10 @@ En savoir plus Exemple
 En savoir plus Exemple
 "Points d'accès WiFi et antennes-relais"Par exemple, nous pouvons déterminer approximativement l'endroit où se trouve votre appareil en fonction de la position connue des antennes-relais situées à proximité.
 En savoir plus Exemple
-"résultats de recherche plus pertinents"
-<p>Par exemple, nous pouvons rendre vos recherches plus pertinentes et plus intéressantes en incluant des photos, des posts et d'autres contenus mis en ligne par vous ou vos amis.
-</p>
-<p>En savoir plus</p> Exemple
-"supprimer vos contenus"
-<p>Par exemple, vous pouvez supprimer votre historique Web, votre blog, un site Google dont vous êtes propriétaire, votre chaîne YouTube, votre profil Google+ ou votre compte Google dans son intégralité.</p> Exemple
-"des informations relatives aux tendances"
-<p>Vous pouvez consulter des exemples dans Google Tendances des recherches et YouTube Trends.</p> 
+"résultats de recherche plus pertinents"Par exemple, nous pouvons rendre vos recherches plus pertinentes et plus intéressantes en incluant des photos, des posts et d'autres contenus mis en ligne par vous ou vos amis.
+En savoir plus Exemple
+"supprimer vos contenus"Par exemple, vous pouvez supprimer votre historique Web, votre blog, un site Google dont vous êtes propriétaire, votre chaîne YouTube, votre profil Google+ ou votre compte Google dans son intégralité.
+En savoir plus Exemple
+"des informations relatives aux tendances"Vous pouvez consulter des exemples dans Google Tendances des recherches et YouTube Trends.
+En savoir plus Nous assurons la confidentialité et la sécurité de vos informations personnelles, et nous vous en donnons le contrôle.
+<p>Accédez aux réponses aux questions courantes concernant la confidentialité et la sécurité</p> 

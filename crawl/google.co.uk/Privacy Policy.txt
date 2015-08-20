@@ -6,7 +6,7 @@ we hope you will take time to read it carefully.
 And remember, you can find controls to manage your information and protect your privacy and security at My Account.</p> Privacy Policy Hide examples
 Show examples
 Hide examples
-<p>Last modified: 30 June 2015 (view archived versions)</p>
+<p>Last modified: 19 August 2015 (view archived versions)</p>
 <p>Download PDF version</p>
 <p>There are many different ways that you can use our services – to search for and share information, to communicate with other people or to create new content.
 When you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier.
@@ -33,7 +33,7 @@ Information that we collect
 <ul>
 <li>
 <p>
-<strong>Information that you give us.</strong> For example, many of our services require you to sign up for a Google Account.
+<strong>Information you give us.</strong> For example, many of our services require you to sign up for a Google Account.
 When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card to store with your account.
 If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Google Profile, which may include your name and photo.
 </p>
@@ -107,31 +107,31 @@ When used in conjunction with our advertising services, such as those using the 
 </ul>
 </li>
 </ul>
-<p>Information we collect when you are signed-in to Google may be associated with your Google Account.
+<p>Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account.
 When information is associated with your Google Account, we treat it as personal information.
 For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy.
 </p>
 Back to top
 How we use information that we collect
 <p>We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones and to protect Google and our users.
-We also use this information to offer you tailored content – such as giving you more relevant search results and ads.
+We also use this information to offer you tailored content – like giving you more relevant search results and ads.
 </p>
 <p>We may use the name that you provide for your Google Profile across all of the services we offer that require a Google Account.
 In addition, we may replace past names associated with your Google Account, so that you are represented consistently across all our services.
 If other users already have your email or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo.
 </p>
 <p>If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts.
-We will respect the choices that you make to limit sharing or visibility settings in your Google Account.
+We will respect the choices you make to limit sharing or visibility settings in your Google Account.
 </p>
 <p>When you contact Google, we keep a record of your communication to help solve any issues you might be facing.
 We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 </p>
 <p>We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services.
-One of the products that we use to do this on our own services is Google Analytics.
+One of the products we use to do this on our own services is Google Analytics.
 For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer.
 When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health.
 </p>
-<p>Our automated systems analyse your content (including emails) to provide you with personally relevant product features, such as customised search results, tailored advertising and spam and malware detection.
+<p>Our automated systems analyse your content (including emails) to provide you personally relevant product features, such as customised search results, tailored advertising and spam and malware detection.
 </p>
 <p>We may combine personal information from one service with information, including personal information, from other Google services – for example, to make it easier to share things with people you know.
 We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent.
@@ -149,7 +149,7 @@ For example, you can:
 </p>
 <ul>
 <li>
-Visit your Google Account History for settings that allow you to control the collection of personal information from Google services, such as Search, YouTube and Location History.
+Review and update your Google activity controls to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services.
 </li>
 <li>
 Review and control certain types of information tied to your Google Account by using Google Dashboard.
@@ -252,7 +252,7 @@ Your domain administrator may be able to:
 </ul>
 </li>
 </ul>
-<p>We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites.
+<p>We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites.
 For example, we may share information publicly to show trends about the general use of our services.
 </p>
 <p>If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
@@ -274,7 +274,7 @@ They may be disciplined or their contract terminated if they fail to meet these 
 </ul>Back to top
 When this Privacy Policy applies
 <p>Our Privacy Policy applies to all of the services offered by Google Inc.
-and its affiliates, including YouTube, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 </p>
 <p>Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services or other sites linked from our services.
 Our Privacy Policy does not cover the information practices of other companies and organisations that advertise our services and that may use cookies, pixel tags and other technologies to serve and offer relevant ads.
@@ -328,10 +328,10 @@ how Google uses cookies.
 </li>
 <li>A page that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
 </li>
+<li>The Privacy Checkup tool, which makes it easy to review your key privacy settings.
+</li>
 <li>Google’s safety centre, which provides information on how to stay safe and secure online.</li>
-</ul>
-We keep your personal information private and safe — and put you in control.
-<p>Get answers to common questions about privacy and security.</p> Example
+</ul> Example
 "access to your personal information"For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account.
 Learn more.
 Example
@@ -425,11 +425,13 @@ Example
 "Wi-Fi access points and mobile phone masts"For example, Google can approximate your device’s location based on the known location of nearby mobile masts.
 Learn more.
 Example
-"more relevant search results"
-<p>For example, we can make search more relevant and interesting for you by including photos, posts and more from you and your friends.
-</p>
-<p>Learn more</p> Example
-"removing your content"
-<p>For example, you can delete your Web History, your blog, a Google Site you own, your YouTube Channel, your Google+ profile or your entire Google account.</p> Example
-"to show trends"
-<p>You can see some of these at Google Trends and YouTube Trends.</p> 
+"more relevant search results"For example, we can make search more relevant and interesting for you by including photos, posts and more from you and your friends.
+Learn more.
+Example
+"removing your content"For example, you can delete your Web History, your blog, a Google Site you own, your YouTube Channel, your Google+ profile or your entire Google account.
+Learn more.
+Example
+"to show trends"You can see some of these at Google Trends and YouTube Trends.
+Learn more.
+We keep your personal information private and safe — and put you in control.
+<p>Get answers to common questions about privacy and security.</p> 
