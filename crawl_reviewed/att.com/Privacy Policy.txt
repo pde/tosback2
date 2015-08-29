@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
@@ -137,14 +137,14 @@ Use of our products and services, as well as visits to our websites, are subject
 </li>' + '<li>
 <p>Do you have any Privacy Policies other than this one?</p>' + '<p>
 <br>Yes.
-The Joint AT&amp;T EchoStar Privacy Policy for AT&amp;T|DISH Network Customer Account Information remains in effect for AT&amp;T|DISH subscribers.</p>' + '<p>
-<br>AT&amp;T companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies</p>' + '<p>
+AT&amp;T companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies</p>' + '<p>
 <br>Some areas outside the United States require us to work a little differently.
-In that case, AT&amp;T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws.
+In that case, AT&amp;T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws, such as with our wireless operations in Mexico.
 Satellite TV subscribers in certain U.S.
 Territories also may have separate privacy policies.
 Satellite TV subscribers in certain U.S.
-Territories also may have separate privacy policies.</p>
+Territories also may have separate privacy policies.</p>' + '<p>
+<br>The Joint AT&amp;T EchoStar Privacy Policy for AT&amp;T|DISH Network Customer Account Information remains in effect for AT&amp;T|DISH subscribers.</p>
 </li>' + ' <li>
 <p>What about my family members and other users of my AT&amp;T account? Does this Policy apply to them?</p>' + ' <p>
 <br>Yes.
