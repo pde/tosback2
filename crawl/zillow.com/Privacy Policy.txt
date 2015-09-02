@@ -9,13 +9,13 @@
 <li>·</li>
 <li>Firefox</li>
 </ul>
-Homepage Homes <ul>
+Homepage Buy <ul>
 <li> Homes for sale <ul>
 <li>
 <ul>
 <li> Homes for sale </li>
-<li> For sale by owner </li>
 <li> Foreclosures </li>
+<li> For sale by owner </li>
 <li> Open houses </li>
 </ul>
 </li>
@@ -29,30 +29,35 @@ Homepage Homes <ul>
 </li>
 </ul>
 </li>
-<li> Post a home for sale <ul>
+<li> Resources <ul>
 <li>
 <ul>
-<li> For sale by owner </li>
-<li> For sale by agent </li>
-<li> Coming Soon </li>
-<li> Make Me Move </li>
+<li> Buyer's guide </li>
+<li> Foreclosure center </li>
+<li> Real estate app </li>
+<li> Find a buyer's agent </li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>Rentals <ul>
+</ul>Rent <ul>
 <li> Rentals <ul>
 <li>
 <ul>
 <li> Apartments for rent </li>
 <li> Houses for rent </li>
 <li> Pet friendly rentals </li>
+<li> All rental listings </li>
 </ul>
 </li>
+</ul>
+</li>
+<li> Resources <ul>
 <li>
 <ul>
-<li> All rental listings </li>
 <li> Rent affordability calculator </li>
+<li> Renter's guide </li>
+<li> Rentals app </li>
 </ul>
 </li>
 </ul>
@@ -75,6 +80,28 @@ Homepage Homes <ul>
 <p>Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.</p>
 </li>
 <li> List your rental (it's free) </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>Sell <ul>
+<li> Selling tools <ul>
+<li>
+<ul>
+<li> How much is my home worth? </li>
+<li> Home values </li>
+<li> Find a seller's agent </li>
+</ul>
+</li>
+</ul>
+</li>
+<li> Post a home for sale <ul>
+<li>
+<ul>
+<li> For sale by agent </li>
+<li> For sale by owner </li>
+<li> Coming soon </li>
+<li> Make me move </li>
 </ul>
 </li>
 </ul>
@@ -183,20 +210,11 @@ Homepage Homes <ul>
 </li>
 </ul>
 </li>
-</ul>Local <ul>
-<li> Local <ul>
-<li>
-<ul>
-<li> Home values </li>
-</ul>
-</li>
-</ul>
-</li>
 </ul>Home design <ul>
-<li> Explore spaces <ul>
+<li> Find design ideas <ul>
 <li>
 <ul>
-<li> All spaces </li>
+<li> Kitchens </li>
 <li> Bathrooms </li>
 <li> Bedrooms </li>
 </ul>
@@ -204,20 +222,13 @@ Homepage Homes <ul>
 <li>
 <ul>
 <li> Dining rooms </li>
-<li> Entryways </li>
-<li> Landscape Yard </li>
-</ul>
-</li>
-<li>
-<ul>
-<li> Great rooms </li>
-<li> Home offices </li>
-<li> Kitchens </li>
+<li> Living rooms </li>
+<li> See all spaces </li>
 </ul>
 </li>
 </ul>
 </li>
-<li> Filter by styles <ul>
+<li> Popular styles <ul>
 <li>
 <ul>
 <li> Contemporary </li>
@@ -227,29 +238,15 @@ Homepage Homes <ul>
 </li>
 </ul>
 </li>
-<li> Filter by cost <ul>
+<li> Find a pro <ul>
 <li>
 <ul>
-<li> Budget </li>
-<li> Mid-range </li>
-<li> Luxury </li>
+<li> Home improvement pros </li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>More <ul>
-<li> Guides &amp.
-help <ul>
-<li>
-<ul>
-<li> Foreclosure center </li>
-<li> Buyer's guide </li>
-<li> Renter's guide </li>
-<li> Zillow Help Center </li>
-</ul>
-</li>
-</ul>
-</li>
 <li> Blogs <ul>
 <li>
 <ul>
@@ -262,7 +259,7 @@ help <ul>
 <li> Partners <ul>
 <li>
 <ul>
-<li> Zillow Affiliates </li>
+<li> Zillow affiliates </li>
 <li> Brokers and Zillow </li>
 <li> MLS and Zillow </li>
 <li> Widgets and data </li>
@@ -276,7 +273,7 @@ help <ul>
 <li> Rental advertising </li>
 <li> Zillow research </li>
 <li> Zillow visuals </li>
-<li> Zillow mobile apps </li>
+<li> Zillow help center </li>
 </ul>
 </li>
 </ul>
@@ -321,7 +318,7 @@ Also, the pages on the Services may include Web beacons or pixels, which are ele
 We may, for example, implement a pixel on the pages of the Services where you view a certain advertisement so that we can track whether you visit a Web site associated with that advertisement at a later time.  </p>
 </li>
 <li>
-<strong>Third-party Cookies and Web beacons.</strong> We work with service providers and advertising networks to track and manage cookie information and your activities while you're using the Services and your online activities over time and across different websites.
+<strong>Third-party Cookies and Web beacons.</strong> We work with service providers and advertising networks to track and manage cookie information and your activities while you're using the Services and your online activities over time and across different websites and devices.
 For example, third-parties may use cookies to deliver advertisements to you based on your visit to the Services.
 For additional information, please refer to the section below entitled, "Behavioral Advertising." You may opt-out of cookie tracking and analysis from any of these service providers and advertising networks by Opting Out of Collection of Information, which is explained further below.  <p> Some pages of the Services may use third-party Web beacons from Yahoo! In addition to our use of the data to analyze visitor activity on the Services, Yahoo! may use anonymous information about your visit in order to improve its products and services and to provide advertisements about goods and services that may be of interest to you.</p>
 <p>We have implemented Google Analytics remarketing, which tracks and manages cookie information so that we and third-party service providers can better deliver advertisements that are relevant and useful to you on the Services and various websites across the Internet.
@@ -417,7 +414,7 @@ While we are ready to assist you in managing the Personal Information you provid
 <p>Please note that this policy may be amended from time to time.
 You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.</p>
 <p>
-<em> — Updated March 2015</em>
+<em> — Updated September 2015</em>
 </p>
 <ul>
 <li>About</li>
