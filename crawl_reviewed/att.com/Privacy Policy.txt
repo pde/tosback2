@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
+���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // // Updated 09-15-2015 | Keith Davis - KD5879 // // Updated 09-17-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about_us/privacy_policy/print_policy.html') { pid = 'printversion'.
 } else { var url = location.href.
 pid = url.split('=').
 pid = pid[1].
@@ -137,11 +137,9 @@ Use of our products and services, as well as visits to our websites, are subject
 </li>' + '<li>
 <p>Do you have any Privacy Policies other than this one?</p>' + '<p>
 <br>Yes.
-AT&amp;T companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies</p>' + '<p>
+Companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies</p>' + '<p>
 <br>Some areas outside the United States require us to work a little differently.
-In that case, AT&amp;T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws, such as with our wireless operations in Mexico.
-Satellite TV subscribers in certain U.S.
-Territories also may have separate privacy policies.
+In that case, AT&amp;T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws.
 Satellite TV subscribers in certain U.S.
 Territories also may have separate privacy policies.</p>' + '<p>
 <br>The Joint AT&amp;T EchoStar Privacy Policy for AT&amp;T|DISH Network Customer Account Information remains in effect for AT&amp;T|DISH subscribers.</p>
@@ -602,16 +600,13 @@ We will provide you with other appropriate notice of important changes at least 
 CONTROLS</strong>' + ' <ol>' + '<li>
 <p>You can choose not to receive some types of advertising online, on your satellite TV service or on your wireless device.</p>
 <br>' + '<ul>' + '<li>
-<p>Opt-out of Relevant Advertising delivered online by AT&amp;T here and you can opt out of Mobile Relevant Advertising on your mobile device here.
-You'll need to opt-out on each browser and mobile device you want to exclude.</p>
+<p>Opt-out of Relevant Advertising delivered by AT&amp;T here.</p>
 </li>' + '<li>
-<p>Opt-out of Online Behavioral Advertising provided by AT&amp;T and other advertisers on your computer by clicking the "Advertising Choices" " link at the bottom of our web pages.</p>
-</li>' + '<li>
-<p>Opt-out of Relevant Advertising by AT&amp;T on Satellite TV Viewing here.</p>
+<p>Opt-out of Online Behavioral Advertising provided by AT&amp;T and other advertisers on your computer by clicking the "Advertising Choices" link at the bottom of our web pages.</p>
 </li>' + '<li>
 <p>Opt-out of interest-based advertising on att.net powered by Yahoo! here.</p>
 </li>' + '<li>
-<p>Opt-out of online behavioral advertising from many other ad networks at the Network Advertising Initiative (NAI) site..</p>
+<p>Opt-out of online behavioral advertising from many other ad networks at the Network Advertising Initiative (NAI) site.</p>
 </li>' + '<li>
 <p>When you see online ads for AT&amp;T products and services that display this icon , click and you will get information on how to opt-out.</p>
 </li>' + '<li>
@@ -648,7 +643,6 @@ Those laws and regulations - such as the requirements governing the state and fe
 Analytics and other similar reports? </p>' + '<p>
 <br>Yes.
 Click here to opt-out.
-Satellite TV-only customers who have recently joined the AT&amp;T Family of Companies can opt out here.
 This opt-out also applies to the sharing of your anonymous information with other companies for their use in creating marketing and analytics reports.
 Although this opt out does not apply to Metrics Reports, it will apply if we combine Metrics Report information with other customer information (like demographics) to create reports that we provide to our business customers or service suppliers.</p>
 </li>' + '<li>
@@ -744,19 +738,10 @@ If you want more information about controlling cookies, visit aboutcookies.org.<
 } function renderOptOut() { document.write('<p>You have choices about how your information is collected and used, both by AT&amp;T and by other companies.
 That includes "opting out" of some programs, setting privacy preferences, and unsubscribing from certain kinds of emails or letters.
 We've listed your choices below.</p>' + '<ul>' + '<li>
-<strong>Online Advertising from AT&amp;T</strong>: You can opt-out of Relevant Advertising delivered by AT&amp;T on your computer by going to Opt out of Relevant Advertising at http://www.att.com/cmpchoice on <strong>each</strong> computer browser you wish to exclude.</li>' + '<li>
-<strong>Mobile Advertising from AT&amp;T</strong>: You can opt-out of receiving Relevant Advertising delivered by AT&amp;T on your mobile device.
-You will need to opt-out on <strong>each</strong> mobile device you wish to exclude.' + '<ul>
-<li>You can follow the steps below:' + '<ul>
-<li>Make sure you are on the AT&amp;T wireless network, and not on any Wi-Fi</li>' + '<li>From your AT&amp;T mobile device you want to opt out, go to mobileoptout.att.com/</li>' + '<li>Choose the blue Opt-Out button.
-You should receive the following message: "Thank you.
-This device will not be receiving AT&amp;T Relevant Advertising"</li>' + '</ul>
-</li>' + '</ul>
-</li>' + '<li>
+<strong>Relevant Advertising from AT&amp;T:</strong> You can opt-out of Relevant Advertising delivered by AT&amp;T by going to Manage Your Privacy Choices.</li>' + '<li>
 <strong>Online Behavioral Advertising from AT&amp;T and Other Advertisers:</strong> You can opt out of online behavioral advertising from our advertising partners and others by going to Your Advertising Choices site.
-You will need to opt-out on <strong>each</strong> computer browser you wish to exclude.</li>' + '<li>
-<strong>Advertising on Satellite TV:</strong> You can opt out of Relevant Advertising by AT&amp;T on Satellite TV by going to manage your privacy choices.
-If you are a satellite only subscriber by going to www.att.com/directvprivacy</li>' + '<li>
+You will need to opt-out on each computer browser you wish to exclude.
+</li>' + '<li>
 <strong>Advertising on att.net</strong>: You can opt-out of receiving targeted online ads from Yahoo! when using our att.net email service or other Yahoo! services by accessing ATT.net marketing preferences through your account.</li>' + '<li>
 <strong>Additional Advertising Opt-Out Choices:</strong> You can opt out of online behavioral advertising from other companies who have joined an association called the Network Advertising Initiative.</li>' + '<li>
 <strong>Information about Cookies and Similar Technologies:</strong> To limit collection of data on web sites that may be used for advertising, see the Definitions for information on how to manage cookies and other similar technologies on your computer.</li>' + '</ul>' + '<p>Please keep in mind that in some cases, your choice will be linked to the specific phone, computer or web browser you're using, because that's how we know it's you.
@@ -890,14 +875,14 @@ Will my anonymous information be used in External Marketing &amp.
 Analytics Reports?</p>' +'<p>
 <strong>A.</strong> These reports will use anonymous information from AT&amp;T consumer accounts.
 Business accounts are not included except for small-business U-verse accounts.
-However, they can opt out just like consumer accounts by visiting www.att.com/cmpchoice.</p>' +'<p>
+However, they can opt out just like consumer accounts by visiting www.att.com/cmpchoice.</p>' /*	+'<p>
 <strong>Q.</strong> For AT&amp;T Relevant Advertising, why do I have to opt out from each computer or mobile device?</p>' +'<p>
 <strong>A.</strong> That's a good question.
 Opt-out works differently for your computer than for your mobile device.
 On your computer's web browser, opt-out works through a small data file called a "cookie." The cookie communicates from your browser, telling advertisers that you don't want to receive the relevant ad.
 It is anonymous, and is not linked to your identity or account.
 This is the current, standard method for online advertising.
-You can learn more about cookies here, and you can opt-out your computer's browser at http://preferences-mgr.truste.com/?&amp;type=att&amp;pid=ATT_Publisher if you are on that computer now.</p>' +'<p>For mobile, different devices use different technologies.
+You can learn more about cookies here, and you can opt-out your computer's browser at http://preferences-mgr.truste.com/?&amp;type=att&amp;pid=ATT_Publisher if you are on that computer now.</p>'*/ +'<p>For mobile, different devices use different technologies.
 Some mobile devices, for example, do not support the use of cookies.
 Therefore, to ensure that we don't deliver AT&amp;T Relevant Advertising to your mobile device, we must be able to accurately identify the device that you are opting out.
 To do that, on each device that you wish to opt-out, go to http://preferences-mgr.truste.com/?&amp;type=att&amp;pid=ATT_Publisher and click "Opt-Out".
