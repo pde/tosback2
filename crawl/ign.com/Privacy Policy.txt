@@ -5,13 +5,13 @@
 <li>California Do Not Track – CalOPPA</li>
 <li>Email Overview</li>
 <li>Interest Based Ads</li>
-</ul> Version Française Ziff Davis, LLC Privacy Policy <strong>Effective March 2015</strong>
-<p>This Privacy Policy describes what information Ziff Davis, LLC (“Ziff Davis” or “we”) gathers, how we collect it, our information-sharing practices, how users may change the way their information is collected and how to access their information that is provided on our websites.</p>
+</ul> Version Française Ziff Davis, LLC Privacy Policy <strong>Effective September 29,2015</strong>
+<p>This Privacy Policy describes what information Ziff Davis, LLC (“Ziff Davis” or “we”) gathers, how we collect it, our information-sharing practices, how users may change the way their information is collected and how to access their information that is provided on our websites and mobile applications.</p>
 <p>
 <strong>TRUSTe Certification</strong>
 </p>
-<p>Ziff Davis has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.</p>
-<p>For a list of TRUSTe certified sites, please click on the TRUSTe seal located above.</p>
+<p>Ziff Davis has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program.</p>
+<p>For a list of TRUSTe certified sites, please click here.</p>
 <p>
 <strong>Privacy Policy Overview</strong>
 </p>
@@ -49,10 +49,11 @@ We collect such Personal Information when you provide it to us or use our servic
 <li>Purchase a software license or a product;</li>
 <li>Sign up for emails, bulletins, newsletters, webinars or white papers;</li>
 <li>Enter a sweepstakes, contest, competition or prize draw;</li>
-<li>Register for site membership or create a profile on any of our sites, including IGN, AskMen One, PCMag.com, Toolbox.com, LogicBuy.com and TechBargains.com;</li>
+<li>Register for site membership or create a profile on any of our sites, including IGN, AskMen One, PCMag.com, Toolbox.com, LogicBuy.com and TechBargains.com, Ookla.com and Speedtest.net;</li>
 <li>Participate in surveys;</li>
 <li>Use a third party connection or log-in to create a membership or profile on any of our sites, access our content, or forward our content to another person, platform or service, e.g.
-through email, Facebook, Twitter, Google+, StumbleUpon, LinkedIn and/or Pinterest.
+through email, Facebook, Twitter, Google+, StumbleUpon, LinkedIn and/or Pinterest;</li>
+<li>Host Ookla’s Speedtest or Pingtest application or use such application on your desktop or through an app.
 or</li>
 <li>Otherwise communicate with us.</li>
 </ul>
@@ -65,7 +66,15 @@ In some cases, we may not be able to remove your Personal Information, in which 
 Please refer to the Terms of Use for our websites for more information.</p>
 <p>We display personal testimonials of satisfied customers on our emedia web sites in addition to other endorsements.
 With your consent we may post your testimonial along with your name.
-If you wish to update or delete your testimonial, you can contact us at ZDLegal1@ziffdavis.com</p>
+If you wish to update or delete your testimonial, you can contact us at ZDLegal1@ziffdavis.com <strong>and be sure to include “Privacy Policy” in the subject line.</strong>
+</p>
+<p>
+<em>Referrals</em>  If you choose to use our referral service to send an article to a friend, we will ask you for your friend’s email address.
+We will automatically send your friend a one-time email inviting him or her to visit the website.
+Ziff Davis does not store your friend’s email address.</p>
+<p>
+<em>Import Contacts</em> You can import contacts from your Outlook or other email account address book to invite them to become members of our website.
+We collect the username and password for the email account from which you wish to import your contacts, and will only use your personal information for that purpose.</p>
 <p>
 <strong>Part 2-</strong>
 <strong>
@@ -87,16 +96,19 @@ We do this to improve services we offer you, to improve marketing, analytics, or
 <em>Web Beacons</em> are electronic files that allow a website to count users who have visited that page or to access certain cookies.
 When you receive email messages or newsletters from us, we may use web beacons, customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused email communications or other information.</p>
 <p>
+<em>ETag</em> We and our e-commerce partners, affiliates, or analytics providers, use technologies such as tags to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.
+We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.</p>
+<p>
 <em>Pixel Tags</em> also known as clear GIFs, beacons, spotlight tags or web bugs, are a method for passing information from the user’s computer to a third party website.
 Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns.
 Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and they are sometimes used in conjunction with small Javascript-based applications.
 We may also implement pixel tags provided by other companies for the same purpose.
 We use clear GIFs in our HTML-based emails to let us know which emails have been opened by recipients.</p>
 <p>
-<em>Local Shared Objects</em>  (“LSOs”) are found in technologies such as HTML5 or Flash to store user settings and video viewing history.
-Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use HTML5- or Flash-based LSOs to collect and store information.
-Various browsers may offer their own management tools for removing HTML5 LSOs.
-To manage Flash LSOs please click here.</p>
+<em>Local Shared Objects and Local Storage</em>  We use Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5, to store user settings and video viewing history.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use Flash cookies and HTML5 to collect and store information.
+Various browsers may offer their own management tools for removing Local Storage/HTML5.
+To manage Flash Local Shared Objects please click here.</p>
 <p>
 <em>IP Addresses</em> are a unique string of numbers that identifies each computer attached to the Internet.
 We use IP Addresses to analyze trends, administer our websites, track users’ location, and gather broad demographic information for aggregate use.
@@ -107,9 +119,7 @@ By combining the information, we are better able to understand our users and to 
 <p>
 <em>Device ID (identification)</em> is a distinctive number associated with a smartphone or similar handheld device.
 Device IDs are different than hardware serial numbers.
-iOS uses the Identifier for Advertising (IDFA) and Android uses Advertising ID.
-.
-Some of our apps and mobile sites may create a unique device ID for your smartphone or other mobile device using our own algorithm.
+iOS uses the Identifier for Advertising (IDFA) and Android uses Advertising ID.Some of our apps and mobile sites may create a unique device ID for your smartphone or other mobile device using our own algorithm.
 We use Device IDs – either our own, IDFA or Advertising ID- to analyze trends, administer our mobile sites and apps, track mobile users’ location, and gather broad demographic information for aggregate use.
 We may connect information about a visitor’s Device ID with other information we gather about that visitor as described in this Privacy Policy.
 By combining the information, we are better able to understand our users and to better market services and products to our users.</p>
@@ -122,15 +132,21 @@ We do not link the information we store within the analytics software to any per
 For example, if you access My IGN (my.ign.com) using a third party connection or log-in (such as Google+, Facebook or Yahoo!), we may also collect your user ID, username or email address associated with that third party service or any information you have made public in connection with that service or the third party shares with us.
 In addition, we may use data collected by a third party operator/licensee of localized versions or editions of PCMag.com, IGN.com, or AskMen.com.</p>
 <p>
+<em>Speedtest—Broadband Performance Data Services.
+</em> When using our Speedtest application, we collect test results, approximate location of the server and user machine (using publicly available information and if made available by your mobile device) as well as the network address and the ISP, college or organization that operates the network you test.
+The information we collect via the broadband and mobile performance tests run on the Speedtest app, speedtest.net or pingtest.net is done so anonymously and is then aggregated for a few different broadband performance data services.
+We do so with the express intent of providing a neutral and unbiased monitoring and reporting resource for users around the world.
+This anonymous, aggregated data can be accessed via subscription services.</p>
+<p>
 <em>Social Media Widgets.</em> Our websites include social media features, such as the Facebook “Like” button and widgets, which include the “Share This” button or interactive mini-programs that run on our sites.
 These features may collect your IP Address, track which page you are visiting on our site, and may set a cookie to enable the features to function properly.
-Social media features and widgets are either hosted by a third party or hosted directly on our sites.<strong>Your interactions with these Features are governed by the privacy policy of the company providing it.</strong>
+Social media features and widgets are either hosted by a third party or hosted directly on our sites.<strong>Your interactions with these features are governed by the privacy policy of the company providing it.</strong>
 </p>
 <p>
 <em>Online Ad Serving.</em> Ziff Davis and some of our advertisers use third party advertising service companies to serve advertisements when you visit our sites or use our apps.
 Often, these third party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web, app and email advertisement and to create a record of interaction with our content that they use in conjunction with their advertising which appears on other sites or apps, or for reporting website traffic, app use, statistics, advertisement data and/or other activities on our sites.
 We will also engage third party providers to assist with the segmentation of this data.
-Ziff Davis and/or these third party advertisers may collect non-Personal Information about you for online behavioral advertising (OBA) purposes- which includes mobile devices and apps- in order for you to receive relevant interest-based advertising from us in the future but see below - Interest Based Ads- for more information on OBA].<strong>The specific providers we use are subject to change.</strong>
+Ziff Davis and/or these third party advertisers may collect non-Personal Information about you for online behavioral advertising (OBA) purposes- which includes mobile devices and apps- in order for you to receive relevant interest-based advertising from us in the future but see below - Interest Based Ads- for more information on OBA.<strong>The specific providers we use are subject to change.</strong>
 </p>
 <p>For a list of the applicable providers, click here.
 For information about how to opt out of tracking methods for these entities and others, click here.</p>
@@ -141,10 +157,8 @@ For information about how to opt out of tracking methods for these entities and 
 <em>Statistical Reports and Mailing Lists</em>. The aggregate statistics that describe our online audience—which are often based on the information you provide when you subscribe, register, or browse our sites—help us sell advertising by, among other things, describing the demographics of our visitors, and otherwise publicize Ziff Davis and our brands.
 In addition, we make some information collected by our B2B and emedia divisions, such as the name of our users, their mailing address, phone number, email address—and in certain circumstances their employer's name, company size and other industry data—available on a rental or other basis (e.g.
 sale) to third party providers of goods and services when such information is provided in connection with webcasts and white papers or other sponsored downloads.
-Please note that we only take such actions in connection with emails collected by PCMag, Toolbox.com, ITtoolbox, HR World, Inside CRM, IT Management, IT Security, Voip-News, and Web Hosting Unleashed.
-Please see the sections Webcasts and White Papers/Other Sponsored Downloads below to learn more.
-To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control What is Collected section below.
-</p>
+Please note that we only take such actions in connection with emails collected by PCMag, Toolbox.com, ITtoolbox, Inside CRM, IT Management, IT Security, and Voip-News.Please see the sections Webcasts and White Papers/Other Sponsored Downloads below to learn more.
+To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control What is Collectedsection below.</p>
 <p>
 <em>Email Deployment, Data Analysis E-Commerce and Other Services</em>. We provide customer lists, email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, customer support and service, research, statistical analysis, data and website hosting, and other data and transaction processing.
 These companies work on our behalf, and we do not provide our lists or other data to them for their own permanent use.
@@ -166,7 +180,13 @@ Please read the contest rules carefully before you submit your data.</p>
 <em>Co-Branded Sites and Services. </em>When you use a co-branded service (a service operated with a partner of Ziff Davis), or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that partner.
 Use of your information by such partners is subject to their privacy policies as well as ours.</p>
 <p>
-<em>Online Data. </em>See below under Interest-based Ads for data that we may sell, license or transfer to third parties.</p>
+<em>Speedtest Results. </em>We license the results from all tests run through our Ookla brand—including speedtest.net and pingtest.net—to third parties.</p>
+<p>
+<em>Online Data. </em>All Online Data is collected anonymously as described here.
+However, data collected on Speedtest.net is not anonymous as follows: Ookla collects users’ IP Addresses as described in the above section.Ookla licenses the online data collected on Speedtest.net to various companies around the world, including IP addresses and results from the speed tests taken.
+In most cases, the IP addresses are masked or partially hidden, but in some cases we provide the full IP address to the company licensing the information.
+In the cases in which we provide the full IP address, it is because the company, typically an Internet Service Provider (ISP) or mobile carrier, owns those IP addresses and provides them to their customers when their customers enter into a service contract.
+Because the company owns the IP address, we provide that full information to those companies when they specifically request that information.See below Interest-based Ads for data that we may sell, license or transfer to third parties.</p>
 <p>
 <em>Ecommerce</em>. When shopping on some of our sites or pages, users may need to provide personally identifiable information that is necessary to fulfill an online order, including name, billing address, shipping address, telephone number, email address, credit card number (with expiration date), and any of the above information needed to send a package to a gift recipient.
 If a user creates an account, the credit card information above will not be stored under their account.
@@ -178,9 +198,9 @@ While these third parties may have access to Personal Information in order to pe
 </p>
 <p>
 <em>Personal Information </em>.
- How we use personal information is described in the section What We Provide to Third Parties.</p>
+ We only use Personal Information in a way that is compatible with and relevant to the purpose for which it was collected.How we use personal information is further described in the section What We Provide to Third Parties.</p>
 <p>
-<em>Emails</em>.  We use email addresses to send offers of services or products (and as set forth in the section What We Provide to Third Parties ).
+<em>Emails</em>. We use email addresses to send offers of services or products (and as set forth in the section What We Provide to Third Parties).
 Any recipient will be able to unsubscribe from receiving these emails by following the instructions at the bottom of the email.</p>
 <p>
 <em>Other Information: Ad Serving and Ziff Davis</em>. At times we display ads both on our network of owned and operated websites and apps and on non-Ziff Davis websites and apps.
@@ -200,7 +220,7 @@ We use this information to get a more accurate picture of audience interests in 
 Some of these third parties may combine the Online Data with their own data about you to form a more detailed picture.</strong>
 </p>
 <p>
-<strong>We store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name or email address), which we obtained as described above under Personal Information -however in some situations we combine the Online Data with your email address.</strong>
+<strong>We store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name or email address), which we obtained as described above under Personal Information-however in some situations we combine the Online Data with your email address.</strong>
 </p>
 <p>We will engage third party providers to assist with the collection, storage and segmentation of Online Data.
 and the providers are required to maintain the confidentiality of this information.
@@ -233,23 +253,24 @@ Online advertisements on our sites targeted to you based on previously collected
 This icon is also on each of our web pages.
 The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.</p>
 <ul>
-<li>European Union and Switzerland residents should visit the European DAA by clicking here.</li>
+<li>European Union and Switzerland residents should visit the European DAA User Choice website YourOnlineChoices by clicking here.</li>
 <li>Canadian residents should visit the DAA of Canada by clicking here.</li>
 <li>U.S.
 residents and residents of all other countries not listed above can click here for the DAA site to learn more about the use of cookies, your opt-out choices, and more.</li>
 </ul>
-<p>Ziff Davis adheres to the EU self-regulatory initiative for online behavioral advertising (OBA).</p>
+<p>Ziff Davis adheres to the EDAA principles and the EU self-regulatory initiative for online behavioral advertising (OBA).</p>
 <p>
 <em>Pixel Tags</em>.  You can disable pixel tags by changing your browser settings to omit images and disable Javascript, or there may be commercially available software packages that can assist with dealing with pixel tags.</p>
 <p>
 <em>Updating Your Registration Information</em>. You can correct, delete or change the information collected during user registration at any time at the profile page for that membership, app or website.
 Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems.</p>
+<p>You may opt-out of location-based services at any time by editing the setting at the device level or by emailing us at ZDLegal1@ziffdavis.com;<strong>and be sure to include “Privacy Policy” in the subject line.</strong>
+</p>
 <p>If you have any trouble accessing, correcting or deleting any of your information, contact the website directly by clicking on the appropriate link (which should lead to a “Contact Us” or support page):</p>
 <ul>
 <li>IGN</li>
 <li>AskMen One</li>
 <li>PCMag.com</li>
-<li>PCMag.com Utility Library</li>
 <li>Computer Shopper</li>
 <li>LogicBuy.com</li>
 <li>Ziff Davis B2B Focus sites</li>
@@ -257,10 +278,13 @@ Please allow five to ten business days for corrections or changes to be publicly
 <li>Techbargains.com</li>
 <li>emedia (US)</li>
 <li>emedia (UK)</li>
+<li>Ookla</li>
+<li>Speedtest.net</li>
+<li>Pingtest.net</li>
 </ul>
 <p>
 <em>Your Newsletter and Email Subscriptions</em>. You can opt-out or unsubscribe to a newsletter or other email lists at any time by following the instructions at the end of the newsletters or email you receive.
-You can also do so through the PCMag newsletter subscription management page (this page will display all of your newsletter subscriptions for PCMag.com and certain other Ziff Davis Newsletters), IGN’s newsletter management page , emedia’s Bulletins list (US) or emedia’s Bulletins list (UK).
+You can also do so through the PCMag newsletter subscription management page (this page will display all of your newsletter subscriptions for PCMag.com and certain other Ziff Davis Newsletters),emedia’s Bulletins list (US) or emedia’s Bulletins list (UK).
 Please allow five to ten business days for changes to take effect.
 </p>
 <p>
@@ -268,7 +292,7 @@ Please allow five to ten business days for changes to take effect.
 You can correct or change your Toolbox.com subscriptions and preferences using the account settings here.
 Please note member service-related communications are an integral part of the Toolbox.com service to which you subscribe and you will continue to receive these emails as part of the Toolbox.com service unless you cancel your account.</p>
 <p>
-<em>Stop Sharing of Lists</em>.  Many customers appreciate the communications they receive from the third party providers of goods and services to whom our PCMag, B2B and emedia divisions provide lists of our customers, but if you no longer wish to receive messages from individual providers, follow the unsubscribe link and instructions at the bottom of the message.
+<em>Stop Sharing of Lists</em>.  Many customers appreciate the communications they receive from the third party providers of goods and services to whom our PCMag, B2B, emedia and Ookla divisions provide lists of our customers, but if you no longer wish to receive messages from individual providers, follow the unsubscribe link and instructions at the bottom of the message.
 To stop receiving messages from all third parties— including messages from third parties to whom you provided your Personal Information in order to download a white paper, case study or other document, or to enter an advertiser-sponsored sweepstakes or other contest—please send an email with your preference request changes to ZDLegal1@ziffdavis.com <strong>and include “Privacy Policy” in the subject line.</strong>
 </p>
 <p>If you encounter any issues with changing your preferences, please send an email to ZDLegal1@ziffdavis.com and include “Privacy Policy” in the subject line.
@@ -308,7 +332,7 @@ You should log out of your browser at the end of each session to ensure that oth
 <em>Children</em>. Ziff Davis websites are not intended for use by children, especially those under 13.
 No one under age 13 should provide any Personal Information or use our public discussion areas, forums or chats.
 Minors under the age of 18 are prohibited from making purchases on our sites.
-If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (for example, they may receive unsolicited messages from other parties).</p>
+If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (for example, they may receive unsolicited messages from other parties).If it is discovered that we have collected PII from someone under 13, we will delete that information immediately.</p>
 <p>
 <em>Data Retention</em>. The time period for which we keep information varies according to the information’s use.
 In some cases, there are legal requirements to keep data for a minimum period.
@@ -329,10 +353,9 @@ If you wish for us to refrain from gathering your Personal Information, please s
 If you are a California resident and wish to make such a request, please submit your request in writing to:</p>
 <p> Ziff Davis Legal Department<br> 28 East 28th Street<br> New York, NY 10016<br>
 </p>
-<p>
-<strong>Please visit our <strong>Terms of Use</strong> page for more information concerning your use of Ziff Davis websites and other services.
-The <strong>Terms of Use</strong> are incorporated by reference into this Privacy Policy.</strong>
-</p>
+<p>For more information concerning your use of Ookla’s websites and services (including Speedtest and Pingtest), please visit Ookla Terms of Use page.The Ookla Terms of Use page are incorporated by reference into this Privacy Policy.</p>
+<p>For more information concerning your use of all other Ziff Davis websites and services, please visit Ziff Davis' Terms of Use page.
+The Ziff Davis Terms of Use are incorporated by reference into this Privacy Policy.</p>
 <p>
 <em>Changes to the Privacy Policy</em>.  We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them.
 If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our sites that our Privacy Policy has changed prior to the change becoming effective.
@@ -347,9 +370,9 @@ and be sure to include <em>Privacy Policy</em> in the subject line.You may also
 <p> Ziff Davis Legal Department<br> 28 East 28th Street<br> New York, NY 10016<br>
 </p>
 <p>
-<strong>TRUSTe-Certified Websites</strong>
+<strong>TRUSTe-Certified Websites and Mobile Applications</strong>
 </p>
-<p>The TRUSTe program covers only information that is collected through these websites: Ziff Davis, TechBargains, IGN, IGN Canada, IGN UK, IGN Australia, AskMen, AskMen Canada, AskMen UK, AskMen Australia, PCMag, PCMag Canada, PCMag UK, PCMag Australia, Toolbox.com, ITtoolbox, ExtremeTech, Computer Shopper, Geek, LogicBuy, HR World, Inside CRM, IT Management, IT Security, Voip-News, emedia.com, emedia.co.uk, and Web Hosting Unleashed and does not cover information that may be collected through our mobile applications.</p>
+<p>The TRUSTe program covers only information that is collected through these websites: Ziff Davis, IGN, IGN Canada, IGN UK, IGN Australia, IGN Mobile, AskMen, AskMen Canada, AskMen UK, AskMen Australia, PCMag, PCMag Canada, PCMag UK, PCMag Australia, PCMag Mobile, ExtremeTech, ExtremeTech Mobile, Computer Shopper, Geek, Geek Mobile, LogicBuy, TechBargains, Toolbox.com, ITtoolbox, Inside CRM, IT Management, IT Security, Voip-News, emedia.com, emedia.co.uk, emediausa.com, Ookla, Speedtest,and Pingtest and information that may be collected through these mobile applications: IGN Entertainment App, IGN App for PlayStation All Stars, IGN Video Game News Reviews Guides, IGN App for GW2, IGN App for Dead Space 3, IGN App for Elder Scrolls V, IGN App for Final Fantasy XIV, IGN App for PlanetSide2, TechBargains App, and the SpeedTest App.</p>
 <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe by clicking here.</p>
 <br>A j2 Global, Inc.
 Company <p>Use of the site is governed by our Terms of Use and Privacy Policy.
