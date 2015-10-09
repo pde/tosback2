@@ -1,10 +1,10 @@
- <p>This page describes our privacy practices with respect to Flickr.<br>
-<br>
+ <p>This page describes our privacy practices with respect to Flickr.</p>
+<p>
 <strong>Account Information</strong>
 </p>
 <ul>
 <li>In your profile privacy settings, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city.</li>
-<li>In your Account Settings, you may also hide photos or your profile from searches on flickr.com as well as from searches on 3rd party sites that use the Yahoo API, including Yahoo Image Search.</li>
+<li>In your Settings, you may also hide photos or your profile from searches on flickr.com as well as from searches on 3rd party sites that use the Yahoo API, including Yahoo Image Search.</li>
 </ul>
 <p>
 <strong>Information Collection, Use &amp.
@@ -43,7 +43,7 @@ from a mobile device) or manually geotag your photo, the photo's location can be
 <li>Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data, By default, flickr will display a link showing EXIF data about photos or video you upload.
 The link,shows on all your individual photo pages, and displays the make &amp.
 model of the camera you used to take the shot.
-You can elect to hide this link in ‘Settings’ under the “Privacy &amp.
+You can elect to hide this link in "Settings" under the “Privacy &amp.
 Permissions” tab.</li>
 <li>Some cameras can store GPS (location) coordinates in a photo's EXIF header.
 If you like, you Flickr can import that data and use it to place your photos on your map automatically.</li>
@@ -59,11 +59,13 @@ Click here to create your geofences.</li>
 Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo</li>
 </ul>
 </li>
+</ul>
 <p>
-<strong>     Image recognition</strong>
+<strong>Image recognition</strong>
 </p>
 <ul>
-<li>We use image recognition algorithms to identify scenes, actions, or objects to tag your photos and make it easier to search images.</li>
+<li>We use image recognition algorithms to help you organize your photos and make it easier to search images.
+For example, the algorithms might identify and tag scenes, actions, objects, or public figures.</li>
 <li>You may hide your images from appearing in search results.</li>
 </ul>
 <p>
@@ -72,7 +74,7 @@ Further, you can change the geo preferences setting on individual photos by clic
 <ul>
 <li>You can delete individual photos that you have on Flickr by selecting the photos that you wish to delete, then clicking the delete button.
 Or you can delete groups of photos using batch operations.</li>
-<li>Visit your Flickr account information to edit your profile, default privacy settings for photos, and more.</li>
+<li>Visit your Settings to edit your profile, default privacy settings for photos, and more.</li>
 </ul>
 <p>
 <strong>Communication</strong>
@@ -88,6 +90,4 @@ Or you can delete groups of photos using batch operations.</li>
 <li>When you use Flickr, you are subject to the Flickr Community Guidelines.</li>
 <li>Please see Flickr Help if you have questions about this service.</li>
 </ul>
-<p>For additional information on how Yahoo treats your personal information, please visit our Privacy Policy.  </p>
-</ul>
-<p> </p> 
+<p>For additional information on how Yahoo treats your personal information, please visit our Privacy Policy.</p> 
