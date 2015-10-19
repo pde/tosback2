@@ -1,23 +1,26 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 1 commit.
+# Your branch is ahead of 'origin/master' by 2 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/alibaba.com/Privacy Policy.txt
 #	modified:   ../crawl/booking.com/Privacy Policy.txt
 #	modified:   ../crawl/cbsalary.com/Privacy Policy.txt
 #	modified:   ../crawl/cheaptickets.com/Privacy Policy.txt
-#	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
+#	modified:   ../crawl/paypal.com/Privacy Policy.txt
 #	modified:   ../crawl/peekyou.com/Privacy Policy.txt
+#	modified:   ../crawl/pipl.com/Privacy Policy.txt
+#	modified:   ../crawl/shopstyle.com/Privacy Policy.txt
 #	modified:   ../crawl/springfieldnewssun.com/Privacy Policy.txt
+#	modified:   ../crawl/stepstone.com/Privacy Policy.txt
 #	modified:   ../crawl/superpages.com/Privacy Policy.txt
-#	modified:   ../crawl/telekom.de/Privacy Policy.txt
 #	modified:   ../crawl/www.craigslist.org/Terms Of Use.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
 #	modified:   ../logs/empty.log
