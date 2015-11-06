@@ -18,7 +18,7 @@ Un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adre
 <br>A défaut de nous communiquer certaines de ces informations, nous ne serons pas en mesure de vous fournir l’intégralité de nos services.<br> <br>À tout moment, vous disposez de la faculté de modifier ces informations depuis la rubrique "Mes informations" de votre compte PriceMinister.<br>
 <br>Enfin, vos informations sont analysées dans le cadre de la prévention des risques de fraude.
 Les vérifications opérées à cette fin sont susceptibles d’entraîner la suspension de l’exécution de votre commande voire, si le résultat de l’analyse ne permet pas de garantir sa sécurité, de l’annuler.
-La survenance d’un incident (impayé au motif d’une utilisation frauduleuse d’un moyen de paiement, fraude à la livraison, etc.) entraînera l’inscription de vos données au sein d’une liste noire, ce qui pourra, lors de prochaines commandes, conduire PriceMinister à réaliser des vérifications supplémentaires, voire à potentiellement refuser votre commande.<br>
+La survenance d’un incident (impayé au motif d’une utilisation frauduleuse d’un moyen de paiement, fraude à la livraison, etc.) entraînera l’inscription de vos données au sein d’une liste noire, ce qui pourra, lors de prochaines commandes, conduire PriceMinister à réaliser des vérifications supplémentaires, à vous refuser un moyen de paiement ou à vous proposer un moyen de paiement alternatif, voire à potentiellement refuser votre commande.<br>
 <br>
 <b>2.
 Jeux concours</b>
@@ -47,8 +47,10 @@ Destinataires de vos données</b>
 <br>
 <br>Nous sommes amenés à rendre un certain nombre de sous-traitants destinataires de certaines de vos données de compte et de navigation, pour les finalités suivantes :<br>
 <br>- la sécurisation des paiements;<br>- la gestion des assurances souscrites;<br>- l'optimisation de notre plateforme et de l'envoi de nos newsletters.
-A cette fin, nous avons recours à un prestataire situé aux Etats-Unis, titulaire de la certification Safe Harbor;<br>- le traitement des appels téléphoniques dans le cadre de notre service clients.<br>
-<br>Nous sommes également amenés à partager certaines informations avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne.<br>
+A cette fin, nous avons recours à un prestataire situé aux Etats-Unis, titulaire de la certification Safe Harbor;<br>- le traitement des appels téléphoniques dans le cadre de notre service clients.
+Notre prestataire étant situé au Maroc, les transferts de données vers celui-ci sont encadrés par des clauses contractuelles types de l’Union européenne.<br>
+<br>Nous sommes également amenés à partager certaines informations relatives à votre navigation sur la plateforme avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne.
+Ces transferts sont encadrés par des clauses contractuelles types de l’Union européenne et ont été autorisés par la CNIL (décision DF-2015-864).<br>
 <br>Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.<br>
 <br>
 <br>
@@ -93,6 +95,8 @@ Vous permettre d'accéder à des espaces réservés et personnels de la platefor
 JSESSIONID<br>MEM_ID…
 Tests pour l’amélioration continue de l’affichage et des services proposés (abtesting)
 ab_XXXX<br>pmcookies
+Si vous acceptez de vous géolocaliser, permet d’afficher les produits qui ne sont disponibles qu'en retrait chez un vendeur près de chez vous.Peut également être utilisé dans le cadre de la lutte anti-fraude.
+PMGeolocateMe
 <br> <br>
 <b>4.
 Quels cookies peuvent être déposés par les partenaires de PriceMinister ?</b>
@@ -142,6 +146,10 @@ Analyse de l'audience de la plateforme et des indicateurs de performances market
 Analyse des comportements des utilisateurs de la plateforme afin d'adresser des messages commerciaux personnalisés et mesure de l'efficacité des campagnes de marketing relationnel
 13 mois
 "mruid", "ruid"
+<b>Acxiom</b>
+Adapter les publicités en fonction de vos affinités et de votre historique de navigation
+13 mois
+"acx"
 <b>Criteo/Tedemis</b>
 Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation et envoi de courriels correspondants à celles-ci
 13 mois
@@ -150,6 +158,10 @@ Adapter les recommandations de produits et les publicités en fonction de vos af
 Adapter les publicités affichées sur la plateforme à vos préférences
 3 mois
 Cookies commençant par "ud"
+<b>Krux</b>
+Définir des segments d’utilisateurs basés sur des attributs et caractéristiques variés afin de leur adresser des contenus et des publicités adaptés.
+6 mois
+"krxd.net"
 <b>Ligatus</b>
 Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation
 6 mois
@@ -158,10 +170,10 @@ Cookies commençant par "ligatus"
 Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation
 12 mois
 Cookies commençant par "nxtck"
-<b>Quantum-Advertising</b>
-Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation
-45 jours
-"adnxs","krx","hmrtgp"
+<b>Rakuten</b>
+Analyse des actions des utilisateurs de PriceMinister sur le site
+3 ans
+"grm", "mall_uuid"
 <b>Rich Relevance</b>
 Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation
 12 mois
