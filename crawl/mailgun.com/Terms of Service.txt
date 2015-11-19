@@ -1,296 +1,56 @@
- Terms of Service <p>
-<strong>MAILGUN TERMS OF SERVICE</strong> between Rackspace US, Inc.
-("<strong>we</strong>" or "<strong>Rackspace</strong>") and the customer who orders Rackspace® Mailgun services ("<strong>you</strong>" or "<strong>Customer</strong>").</p>
-<p>
-<strong>THE AGREEMENT.</strong> Your use of Rackspace's Mailgun services is governed by these Mailgun Terms of Service, the Mailgun Acceptable Use Policy, and the terms of your Order.
-When we use the term "Agreement" in any of the Order, Terms of Service, or Acceptable Use Policy, we are referring collectively to all of them.
-Sections 1 - 26 of these Terms of Service state the general terms applicable to all Services, and Sections 27-31 state additional terms that will apply only if you elect to purchase the particular services described in those sections.
-If the individual who submits an Order does so on behalf of a company or other legal entity, the individual represents that he or she has authority to bind that entity to the Agreement.
-</p>
+ Terms of Service <p>The following additional Product Terms and Service Level Agreement apply to the Mailgun Services.</p>
 <p>
 <strong>1.
-DEFINED TERMS.</strong> Some words used in the Agreement have particular meanings:</p>
-<p>"<strong>Acceptable Use Policy</strong>" or "<strong>AUP</strong>" means the Acceptable Use Policy posted at http://www.rackspace.com/information/legal/aup as of the date you sign the Order.</p>
-<p>"<strong>API</strong>" means application programming interface.</p>
-<p>"<strong>Affiliate</strong>" means any and all legal entities which now or hereafter the ultimate parent of Rackspace controls.
-For the purpose of this definition, "control" shall mean an entity, directly or indirectly, holding more than fifty per cent (50%) of the issued share capital, or more than fifty per cent (50%) of the voting power at general meetings, or which has the power to appoint and to dismiss a majority of the directors or otherwise to direct the activities of such legal entity.</p>
-<p>"<strong>Business Day</strong>" means 8:00 a.m.
-- 5:00 p.m.
-Monday through Friday, United States central time, excluding federal public holidays in the United States.</p>
-<p>"<strong>Confidential Information</strong>" means all information disclosed by one of us to the other, whether before or after the effective date of the Agreement, that the recipient should reasonably understand to be confidential, including: (i) unpublished prices and other terms of service, audit and security reports, product development plans, nonpublic information of the parties relating to its business activities or financial affairs, data center designs (including non-graphic information you may observe on a tour of a data center), server configuration designs, and other proprietary information or technology, and (ii) information that is marked or otherwise conspicuously designated as confidential.
-Information that is developed by one of us on our own, without reference to the other's Confidential Information, or that becomes available to one of us other than through violation of the Agreement or applicable law, shall not be "Confidential Information" of the other party.
-Confidential Information shall not include Customer Data.</p>
-<p>"<strong>Customer Data</strong>" means all data, records, files, input materials, reports, forms and other such items that are received, stored, or transmitted using the Services.</p>
-<p>"<strong>Order</strong>" means: (i) the online order that you submit or accept for the Mailgun Services, (ii) any other written order (either in electronic or paper form) provided to you by Rackspace for signature that describes the type or types of services you are purchasing, and that is signed by you, either manually or electronically, and (iii) your use or provisioning of the Services through the Mailgun control panel or through a Mailgun API.</p>
-<p>"<strong>Personally Identifiable Information</strong>" or "<strong>PII</strong>" means: (i) a combination of any information that identifies an individual with that individual's sensitive and non-public financial, health or other data or attribute, such as a combination of the individual's name, address, or phone number with the individual's social security number or other government issued number, financial account number, date of birth, address, biometric data, mother's maiden name, or other personally identifiable information.
-(ii) any "non-public personal information" as that term is defined in the Gramm-Leach-Bliley Act found at 15 USC Subchapter 1, § 6809(4), and (iii) "protected health information" as defined in the Health Insurance Portability and Accountability Act found at 45 CFR §160.103.</p>
-<p>"<strong>Services</strong>" means the software and services described in the Order and includes any services which you self-provision through the Mailgun website or which you utilize via an API.</p>
-<p>"<strong>Support</strong>" means (i) Rackspace employees with training and experience relative to the Services will be available 'live' by telephone, chat, or email Monday through Friday, 8 AM CST until 6 PM CST.
-Mailgun support is available by calling: 888-571-8972, emailing support@mailgunhq.com or opening a web chat at http://www.mailgun.com.(ii) any additional level of support offered by Rackspace applicable to the specific Services ordered by you.</p>
+Service Level Agreement.</strong> We guarantee that the Mailgun Service (meaning any or all of the API, SMTP and Outbound Delivery services listed at http://status.mailgun.net) will be available 99.99% of the time in any given monthly billing period, excluding Maintenance.</p>
+<p>You are entitled to a credit of 5% of your given monthly fee for the Mailgun Services for each 30 minutes of Mailgun Service unavailability (after the first .01%) in a given monthly period.</p>
 <p>
 <strong>2.
-RACKSPACE'S OBLIGATIONS.</strong> Contingent on Rackspace's acceptance of your Order, and subject to these Terms of Service, Rackspace agrees to provide the Services and Support described in your Order.
-Rackspace agrees to follow security procedures at least as stringent, in Rackspace's reasonable judgment, as those described at http://www.rackspace.com/information/legal/securitypractices.php.</p>
-<p>
-<strong>3.
-YOUR OBLIGATIONS.</strong> You agree to do each of the following: (i) comply with applicable law and the Acceptable Use Policy (ii) pay when due the fees for the Services, (iv) use reasonable security precautions in light of your use of the Services, including encrypting any PII transmitted to and from, and while stored on, the Services (including the underlying servers and devices) (v) cooperate with Rackspace's reasonable investigation of outages, security problems, and any suspected breach of the Agreement, (vi) keep your billing contact and other account information up to date.
-and (vii) immediately notify Rackspace of any unauthorized use of your account or any other breach of security.
-In the event of a dispute between us regarding the interpretation of applicable law or the AUP, Rackspace's reasonable determination shall control.</p>
-<p>
-<strong>Customer Data Security</strong>: In addition to the foregoing obligations, you acknowledge that you are solely responsible for taking steps to maintain appropriate security, protection and backup of Customer Data.
-Rackspace's security obligations with respect to Customer Data are limited to those obligations described in Section 2 above.
-Rackspace makes no other representation regarding the security of Customer Data.
-Customer is solely responsible for determining the suitability of the Services in light of the type of Customer Data used with the Services.</p>
-<p>
-<strong>4.
-ACCESS TO THE SERVICES.</strong> You may access the Services via the online Mailgun control panel, via SMTP, or via Mailgun API.
-Rackspace may modify the Mailgun website or APIs at any time, or may transition to new API's.
-Your use of any API you download from the Rackspace or Mailgun website is governed by the license terms included with the code in the file named "COPYING" or "LICENSE" or like caption.</p>
-<p>
-<strong>5.
-SERVICE LEVEL AGREEMENTS.</strong> The Mailgun Service Level Agreement is as follows:</p>
-<p>5.1 We guaranty that the Mailgun service will be available 99.9% of the time in any given monthly billing period, excluding scheduled maintenance.</p>
-<p>5.2 You will be entitled to a credit of 5% of the monthly Mailgun fees for each 30 minutes of downtime, up to 100% of the Mailgun fees for the monthly billing period.</p>
-<p>5.3 For purposes of this SLA, "the Mailgun service" means the API, SMTP and MX services listed at http://status.mailgun.net/.</p>
-<p>
-<strong>5.4 Limitations</strong>
-</p>
-<p>5.4.1 You are not entitled to a credit if you are in breach of your services agreement with Rackspace (including your payment obligations to us) until you have cured the breach.
-You are not entitled to a credit if downtime would not have occurred but for your breach of your agreement with Rackspace, including violation of the AUP, your misuse of the Services or your failure to comply with the Mailgun Service Management terms below.
+Credit Limitations.</strong> You are not entitled to a credit if you are in breach of the terms governing your use of the Services until you have cured the breach.
+You are not entitled to a credit if downtime would not have occurred but for your breach of the Services Agreement or this Exhibit A, including violation of the AUP.
 You are not entitled to a credit for downtime or outages resulting from denial of service attacks, virus activity, hacking attempts, or any other circumstances that are not within our control.</p>
-<p>5.4.2 To receive a credit, you must request a credit by emailing support@mailgun.com within thirty (30) days following the end of the downtime.
+<p>To receive a credit, you must request a credit by creating a support ticket in the Mailgun control panel within thirty (30) days following the end of the downtime.
 You must show that your use of the Services was adversely affected in some way as a result of the downtime to be eligible for the credit.</p>
-<p>5.4.3 Notwithstanding anything in this Service Level Agreement to the contrary, the maximum total credit for the monthly billing period, including all guaranties, shall not exceed 100% of your Mailgun fee for that billing period.
+<p>Notwithstanding anything in this Service Level Agreement to the contrary, the maximum total credit for the monthly billing period, including all guaranties, shall not exceed 100% of the fees for that billing period.
 Credits that would be available but for this limitation will not be carried forward to future billing periods.</p>
 <p>
-<strong>6.
-TERM.</strong> The initial term for each Order begins on the date we make the Services available for your use and continues for the period stated in the Order.
-If no period is stated in the Order, then the initial term shall be one month.
-Upon expiration of the initial term, the Order will automatically renew for successive renewal terms of one month each, unless and until one of us gives the other a written notice of non-renewal prior to the expiration of the initial term, or then-current renewal term, as applicable.
-You can send an email to support@mailgun.com if you would like to cancel your account.</p>
+<strong>3.
+Suspension of Services.</strong> We may suspend the Services without liability if: (i) we reasonably believe that the Services are being used in violation of the Agreement.
+(ii) you don’t cooperate with our reasonable investigation of any suspected violation of the Agreement.
+(iii) there is an attack on the Services or your Services are accessed or manipulated by a third party without your consent, (iv) we are required by law or by a regulatory or government body to suspend the Services, or (v) there is another event for which we reasonably believe that the suspension of the Services is necessary to protect the Rackspace network or our other customers.</p>
+<p>You agree that if your Mailgun Services are reinstated after a suspension for non-payment or for your breach of the Agreement (including the AUP), you will pay a reinstatement fee of $100.</p>
 <p>
-<strong>7.
-FEES.</strong> Rackspace will charge you fees in accordance with your Order.
-Unless you have made other arrangements, Rackspace will charge your credit card without invoice as follows: (i) for recurring fees, in advance, on or around the first day of each billing cycle, and (ii) for non-recurring fees (such as fees for initial set-up, overages, compute cycle fees, and domain name registration) on or around the date incurred, or on or around the first day of the billing cycle that follows the date incurred, at Rackspace's option.
-provided that Rackspace may wait to charge your credit card until the total aggregate fees due are at least $50.
-Unless otherwise agreed in the Order, your billing cycle will be monthly, beginning on the date that Rackspace first makes the Services available to you.
-Rackspace may suspend all Services (including Services provided pursuant to any unrelated Order or other agreement we may have with you) if our charges to your credit card are rejected for any reason.
-Rackspace may charge interest on overdue amounts at 1.5% per month (or the maximum legal rate if it is less than 1.5%).
-If any amount is overdue by more than thirty (30) days, and Rackspace brings a legal action to collect, or engages a collection agency, you must also pay Rackspace's reasonable costs of collection, including attorney fees and court costs.
-All fees are stated and will be charged in US Dollars.
-Any "credit" that we may owe you, such as a credit for failure to meet a Service Level Agreement, will be applied to fees due from you for Services, and will not be paid to you as a refund.
-Charges that are not disputed within sixty (60) days of the date charged are conclusively deemed accurate.
-You must provide Rackspace with accurate factual information to help Rackspace determine if any tax is due with respect to the provision of the Services, and if Rackspace is required by law to collect taxes on the provision of the Services, you must pay Rackspace the amount of the tax that is due or provide satisfactory evidence of your exemption from the tax.
-You authorize Rackspace to obtain a credit report at any time during the term of the Agreement.</p>
-<p>
-<strong>8.
-FEE INCREASES.</strong> For those Services provided on a month-to-month term, we may increase fees at any time on thirty (30) days advance written notice.
-If your Order contains Services with a specified term longer than one month, then we may increase your fees effective as of the first day of the renewal term that first begins thirty (30) days from the day of our written notice of a fee increase.
-In addition, if during the initial term or any renewal term there is an increase in the Producer Price Index over the Producer Price Index reported for the month in which you signed your Order, we may increase your fees by the same percentage as the increase in the Producer Price Index.
-provided that we may not increase your fees pursuant to this sentence more often than once per twelve months, and we must give you at least thirty (30) days advance written notice of the increase.
-The "Producer Price Index" means the Producer Price Index for Finished Goods, WPUSOP3000, not seasonally adjusted, and first published as "preliminary" data by the United States Bureau of Labor Statistics in its PPI Detailed Report or successor publication.
-For historical information on the Producer Price Index, you may visit the Bureau of Labor Statistics website.
-(Example: i f the Producer Price Index for the month in which you sign the Order is 186, and then increases in a subsequent month during the term of the Order to 195, we may increase your fees by up to 4.8% ).</p>
-<p>
-<strong>9.
-SUSPENSION.</strong> We may suspend the Services without liability if: (i) we reasonably believe that the Services are being used (or have been or will be used) in violation of the Agreement, (ii) we discover that you are, or are affiliated in any manner with, a person who has used similar services abusively in the past.
-(iii) you don't cooperate with our reasonable investigation of any suspected violation of the Agreement.
-(iv) we reasonably believe that the Services have been accessed or manipulated by a third party without your consent, (v) we reasonably believe that suspension of the Services is necessary to protect our network or our other customers, (vi) a payment for the Services is overdue, or (vii) suspension is required by law.
-We will give you reasonable advance notice of a suspension under this paragraph and a chance to cure the grounds on which the suspension are based, unless we determine, in our reasonable commercial judgment, that a suspension on shorter or contemporaneous notice is necessary to protect Rackspace or our other customers from imminent and significant operational or security risk.
-If the suspension was based on your breach of your obligations under the Agreement, then we may continue to charge you the fees for the Services during the suspension, and may charge you a reasonable reinstatement fee (not to exceed $150) upon reinstatement of the Services.</p>
-<p>
-<strong>10.
-TERMINATION FOR CONVENIENCE.
-EARLY TERMINATION FEE.</strong> You may terminate the Agreement for convenience at any time on thirty (30) days advance written notice.
-If you terminate the Agreement for convenience, in addition to other amounts you may owe, you must pay an early termination fee equal to any minimum monthly financial commitment you have made for the remaining portion of the then-current term.</p>
-<p>
-<strong>11.
-TERMINATION FOR BREACH.</strong> We may terminate the Agreement for breach on written notice if: (i) we discover that the information you provided to us about yourself or your proposed use of the Services was materially inaccurate or incomplete, (ii) if you are an individual, you were not at least 18 years old or otherwise did not have the legal capacity to enter into the Agreement at the time you submitted the Order , or if you are an entity or fiduciary, the individual submitting the Order did not have the legal right or authority to enter into the Agreement on behalf of the person represented to be the customer, (iii) your payment of any invoiced amount is overdue, and you do not pay the overdue amount within three (3) days of our written notice, (iv) a credit report indicates you no longer meet our reasonable credit criteria, provided that if we terminate on these grounds, we must give you a reasonable opportunity to migrate your environment out of Rackspace in an orderly fashion, (v) you use the Services in violation of the AUP and fail to remedy the violation within ten (10) days of our written notice, (vi) you violate the AUP more than once, even if you cure each violation, or (vii) you fail to comply with any other provision of the Agreement and do not remedy the failure within thirty (30) days of our notice to you describing the failure.</p>
-<p>You may terminate the Agreement for breach on written notice if: (i) we materially fail to provide the Services as agreed and do not remedy that failure within five (5) days of your written notice describing the failure, or (ii) we materially fail to meet any other obligation stated in the Agreement and do not remedy that failure within thirty (30) days of your written notice describing the failure.</p>
-<p>
-<strong>12.
-ACCESS TO DATA.</strong>
-</p>
-<p>
-<strong>12.1 You will not have access to your data stored on the Services during a suspension or following termination.</strong>
-</p>
-<p>
-<strong>13.
-ACCESS TO YOUR CUSTOMER DATA OR USE OF THE SERVICES.</strong> Rackspace is not responsible to you for unauthorized access to your data or the unauthorized use of the Services unless the unauthorized access or use results from Rackspace's failure to meet its security obligations stated in the Agreement.
-You are responsible for the use of the Services by any employee of yours, any person to whom you have given access to the Services, and any person who gains access to your data or the Services as a result of your failure to use reasonable security precautions, even if such use was not authorized by you.</p>
-<p>Rackspace agrees that it will not use or disclose Customer Data other than as directed as part of the Services.
-Customer Data is and at all times shall remain the exclusive property of Customer and will remain in the exclusive care, custody, and control of Customer.</p>
-<p>
-<strong>14.
-DISCLAIMERS.</strong>
-</p>
-<p>
-<strong>14.1 We do not promise that the Services will be uninterrupted, error-free, or completely secure.
-You acknowledge that there are risks inherent in Internet connectivity that could result in the loss of your privacy, Customer Data, Confidential Information, and property.
-Rackspace has no obligation to provide security other than as stated in this Agreement or applicable Order.
-We disclaim any and all warranties not expressly stated in the Agreement, including the implied warranties of merchantability, fitness for a particular purpose, and noninfringement.
-You are solely responsible for the suitability of the service chosen, including the suitability as it relates to your Customer Data.
-The Services are provided AS IS, subject to any applicable Service Level Agreement (as described in Section 5 above).
-Any voluntary services we may perform for you at your request and without any additional charge are provided AS IS, including any services that are deemed Unsupported.</strong>
-</p>
-<p>
-<strong>14.2 Some of the services are designed to help you comply with various regulatory requirements that may be applicable to you.
-However, you are responsible for understanding the regulatory requirements applicable to your business and for selecting and using those services in a manner that complies with the applicable requirements.</strong>
-</p>
-<p>
-<strong>14.3 You are solely responsible for determining the suitability of the Services for your use in light of any applicable regulations such as HIPAA, GLB, and in compliance with the EU Data Privacy requirements or other applicable data privacy laws and regulations.</strong>
-</p>
-<p>
-<strong>15.
-EXPORT MATTERS.</strong> You represent and warrant that you are not on the United States Department of Treasury, Office of Foreign Asset Controls list of Specially Designated National and Blocked Persons and are not otherwise a person to whom Rackspace is legally prohibited to provide the Services.
-You may not provide administrative access to the Service to any person (including any natural person or government or private entity) that is located in or is a national of any country that is embargoed or highly restricted under United States export regulations.</p>
-<p>
-<strong>16.
-CONFIDENTIAL INFORMATION.</strong> Each of us agrees not to use the other's Confidential Information except in connection with the performance or use of the Services, as applicable, the exercise of our respective legal rights under the Agreement, or as may be required by law.
-Each of us agrees not to disclose the other's Confidential Information to any third person except as follows:</p>
-<p>(i) to our respective service providers, agents, and representatives, provided that such service providers, agents, or representatives agree to confidentiality measures that are at least as stringent as those stated in this Agreement.</p>
-<p>(ii) to law enforcement or government agency if required by a subpoena or other compulsory legal process, or if either of us believes, in good faith, that the other's conduct may violate applicable criminal law as required by law.
-or</p>
-<p>(iii) in response to a subpoena or other compulsory legal process, provided that each of us agrees to give the other written notice of at least seven (7) days prior to disclosing Confidential Information under this subsection (or prompt notice in advance of disclosure, if seven (7) days advance notice is not reasonably feasible), unless the law forbids such notice.</p>
-<p>
-<strong>17.
-LIMITATION ON DAMAGES.</strong> Our obligations to you are defined by this Agreement.
-We are not liable to you for failing to provide the Services unless the failure results from a breach of an applicable Service Level Agreement, or results from our gross negligence or willful misconduct.
-The credits stated in any applicable Service Level Agreement are your <strong>sole and exclusive</strong> remedy for our failure to meet those guarantees for which credits are provided unless such failure is due to Rackspace's willful misconduct.</p>
-<p>
-<strong>Neither of us (nor any of our employees, agents, affiliates or suppliers) is liable to the other for any lost profits or any other indirect, special, incidental or consequential loss or damages of any kind, or for any loss that could have been avoided by the damaged party's use of reasonable diligence, even if the party responsible for the damages has been advised or should be aware of the possibility of such damages.
-In no event shall either of us be liable to the other for any punitive damages.</strong>
-</p>
-<p>
-<strong>Notwithstanding anything in the Agreement to the contrary, except for liability based on willful misconduct or fraudulent misrepresentation, and liability for death or personal injury resulting from Rackspace's negligence, the maximum aggregate monetary liability of Rackspace and any of its employees, agents, suppliers, or affiliates in connection with the Services, the Agreement, and any act or omission related to the Services or Agreement, under any theory of law (including breach of contract, tort, strict liability, violation of law, and infringement) shall not exceed the greater of (i) the amount of fees you paid for the Services for the six months prior to the occurrence of the event giving rise to the claim, or (ii) Five Hundred Dollars ($500.00).</strong>
-</p>
-<p>
-<strong>18.
-INDEMNIFICATION.</strong> If we, our affiliates, or any of our or their respective employees, agents, or suppliers (the "<strong>Rackspace Indemnitees</strong>") are faced with a legal claim by a third party arising out of your actual or alleged gross negligence, willful misconduct, violation of law, failure to meet the security obligations required by the Agreement, violation of the AUP, or violation of Section 15 (Export Matters) of these Terms of Service, then you will pay the cost of defending the claim (including reasonable attorney fees) and any damages award, fine, or other amount that is imposed on the Rackspace Indemnitees as a result of the claim.
-Your obligations under this Section include claims arising out of the acts or omissions of your employees, any other person to whom you have given access to the Services, and any person who gains access to the Services as a result of your failure to use reasonable security precautions, even if the acts or omissions of such persons were not authorized by you.
-If you resell the Services, the grounds for indemnification stated above also include any claim brought by your customers or end users arising out of your resale of the Services.
-We will choose legal counsel to defend the claim, provided that these decisions must be reasonable and must be promptly communicated to you.
-You must comply with our reasonable requests for assistance and cooperation in the defense of the claim.
-We may not settle the claim without your consent, although such consent may not be unreasonably withheld.
-You must pay expenses due under this Section as we incur them.</p>
-<p>
-<strong>19.
-WHO MAY USE THE SERVICES.</strong> You may resell the Services, but you are responsible for use of the Services by any third party to the same extent as if you were using the Services yourself.
-If you resell any part of the Services, then you must include the content of Section 22 (No High Risk Use).
-Unless otherwise agreed, Rackspace will provide support only to you, not to any other person you authorize to use the Services.
-There are no third party beneficiaries to the Agreement, meaning that third parties do not have any rights against either of us under the Agreement.</p>
-<p>
-<strong>20.
-NOTICES.</strong> Your routine communications regarding the Services should be sent via electronic mail to support@mailgun.com.
-If you want to give us a notice regarding termination of the Agreement for breach, indemnification, or other non-routine legal matter, you should send it by electronic mail and first-class United States mail to:</p>
-<p>legalnotice@rackspace.com</p>
-<p>General Counsel</p>
-<p>Rackspace US, Inc.</p>
-<p>One Fanatical Place, City of Windcrest</p>
-<p>San Antonio, Texas 78218</p>
-<p>MAIL STOP US109-2301</p>
-<p>Rackspace's routine communications regarding the Services and legal notices will be sent to the individual(s) you designate as your contact(s) on your account either by electronic mail, United States mail, or overnight courier, except that Rackspace may give notice of an amendment to the AUP by posting the notice on the Mailgun control panel.
-Notices are deemed received as of the time delivered, or if that time does not fall within a Business Day, as defined below, as of the beginning of the first Business Day following the time delivered, except that notices of AUP amendments are deemed delivered as of the first time that you log on to the Mailgun control panel after the time that the notice is posted.
-For purposes of counting days for notice periods, the Business Day on which the notice is deemed received counts as the first day.
-Notices must be given in the English language.</p>
-<p>
-<strong>21.
-OWNERSHIP OF INTELLECTUAL PROPERTY.</strong> Each of us retains all right, title and interest in and to our respective trade secrets, inventions, copyrights, and other intellectual property.
-Any intellectual property developed by Rackspace during the performance of the Services shall belong to Rackspace unless we have agreed with you in advance in writing that you shall have an interest in the intellectual property.</p>
-<p>
-<strong>22.
-IP ADDRESSES.</strong> Upon expiration or termination of the Agreement, you must discontinue use of the Services and relinquish use of the IP addresses and server names assigned to you by Rackspace in connection with Services, including pointing the DNS for your domain name(s) away from Rackspace Services.
-You agree that Rackspace may, as it determines necessary, make modifications to DNS records and zones on Rackspace managed or operated DNS servers and services.</p>
-<p>
-<strong>23.
-ASSIGNMENT/SUBCONTRACTORS.</strong> You may not assign the Agreement without Rackspace's prior written consent.
-We may assign the Agreement in whole or in part to an Affiliate with sufficient financial standing in order to meet its obligations under this Agreement or as part of a corporate reorganization or a sale of our business, and we may transfer your Confidential Information as part of any such transaction.
-Rackspace may use third party service providers to perform all or any part of the Services, but Rackspace remains responsible to you under this Agreement for work performed by its third party service providers to the same extent as if Rackspace performed the Services itself.</p>
-<p>
-<strong>24.
-FORCE MAJEURE.</strong> Neither of us will be in violation of the Agreement if the failure to perform the obligation is due to an event beyond our control, such as significant failure of a part of the power grid, significant failure of the Internet, natural disaster, war, riot, insurrection, epidemic, strikes or other organized labor action, terrorism, or other events of a magnitude or type for which precautions are not generally taken in the industry.</p>
-<p>
-<strong>25.
-GOVERNING LAW, LAWSUITS.</strong> The Agreement is governed by the laws of the State of Texas, exclusive of any Texas choice of law principle that would require the application of the law of a different jurisdiction, and the laws of the United States of America, as applicable.
-The Agreement shall not be governed by the United Nations Convention on the International Sale of Goods.
-Each of us agrees that any dispute or claim, including without limitation, statutory, contract or tort claims, relating to or arising out of this Agreement or the alleged breach of this Agreement, shall, upon timely written request of either of us, be submitted to binding arbitration.
-The party asserting the claim may elect to have the arbitration be in-person, telephonic or decided based on written submissions.
-The arbitration shall be conducted in the city in which you reside.
-The arbitration shall proceed in accordance with the commercial arbitration rules of the American Arbitration Association ("AAA") in effect at the time the claim or dispute arose.
-The arbitration shall be conducted by one arbitrator from AAA or a comparable arbitration service who is selected pursuant to the applicable rules of the AAA.
-The arbitrator shall issue a reasoned award with findings of fact and conclusions of law and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
-Either you or we may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement, or to enforce or vacate an arbitration award.
-We will pay the fee for the arbitrator and your filing fee, to the extent that it is more than a court filing fee.
-We agree that we will not seek reimbursement of our fees and expenses if the arbitrator rules in our favor.
-You and we waive any right to a trial by jury, so that disputes will be resolved through arbitration.
-No claim subject to this provision may be brought as a class or collective action, nor may you assert such a claim as a member of a class or collective action that is brought by another claimant.
-Each of us agrees that we will not bring a claim under the Agreement more than two years after the time that the claim accrued.
-Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.</p>
-<p>
-<strong>26.
-SOME AGREEMENT MECHANICS.</strong> These Terms of Service may have been incorporated in your Order by reference to a page on the Mailgun website.
-Although we may from time to time revise the Terms of Service posted on that page, those revisions will not be effective as to an Order that we accepted prior to the date we posted the revision, and your Order will continue to be governed by the Terms of Service posted on the effective date of the Order.
-However, any amended Terms of Service will become effective the earlier of either your acceptance of the amended Terms of Service, your continued use of the Services after notice of the amended Terms of Service, or thirty days after the date Rackspace posts such amended Terms of Service on the Rackspace or Mailgun website.
-In addition, if over time you sign multiple Orders for a single account, then the Terms of Service incorporated in the latest Order posted on the effective date of the latest Order will govern the entire account.
-Rackspace may accept or reject any Order you submit in its sole discretion.
-Rackspace's provisioning of the Services described in an Order shall be Rackspace's acceptance of the Order.</p>
-<p>An Order may be amended by a formal written agreement signed by both parties, or by an exchange of correspondence, including electronic mail, that includes the express consent of an authorized individual for each of us.
-Any such correspondence that adds or modifies Services in connection with an account established by an Order shall be deemed to be an amendment to that Order, notwithstanding the fact that the correspondence does not expressly refer to the Order.</p>
-<p>Other than as stated herein, the Agreement may be modified only by a formal document signed by both parties.</p>
-<p>If there is a conflict between the terms of any of the documents that comprise the Agreement, the documents will govern in the following order: Order, Terms of Service, and the Acceptable Use Policy.
-If any part of the Agreement is found unenforceable by a court or other tribunal, the rest of the Agreement will nonetheless continue in effect, and we agree that the tribunal may reform the unenforceable part if it is possible to do so consistent with the material economic incentives of the parties resulting in this Agreement.
-Each of us may enforce each of our respective rights under the Agreement even if we have waived the right or failed to enforce the same or other rights in the past.
-Our relationship is that of independent contractors and not business partners.
-Neither of us is the agent for the other, and neither of us has the right to bind the other on any agreement with a third party.
-The captions in the Agreement are for convenience only and are not part of the Agreement.
-The use of the word "including" in the Agreement shall be read to mean "including without limitation." Sections 1, 7, 16, 17, 18, 24 and all other provisions that by their nature are intended to survive expiration or termination of the Agreement shall survive expiration or termination of the Agreement.</p>
-<p>If you have made any change to the Agreement documents that you did not bring to our attention in a way that is reasonably calculated to put us on notice of the change, the change shall not become part of the Agreement.</p>
-<p>The Agreement may be signed in multiple counterparts, which, taken together, will be considered one original.
-Facsimile signatures, signatures on an electronic image (such as .pdf or .jpg format), and electronic signatures shall be deemed to be original signatures.</p>
-<p>This Agreement is the complete and exclusive agreement between you and Rackspace regarding its subject matter and supersedes and replaces any prior agreement, understanding, or communication, written or oral.</p>
-<p>
-<strong>ADDITIONAL TERMS FOR CERTAIN SERVICES</strong>
-</p>
-<p>
-<strong>27.
-UNSUPPORTED CONFIGURATION ELEMENTS OR SERVICES.</strong> If you ask us to implement a configuration element (hardware or software) or other service in a manner that is not customary at Rackspace, or that is in "end of life" or "end of support" status, we may designate the element or service as "unsupported," "non-standard," "best efforts," "reasonable endeavor," "one-off," "EOL," "end of support," or with like term in the Order (referred to in this Section as an "<strong>Unsupported Service</strong>").
-Rackspace makes no representation or warranty whatsoever regarding any Unsupported Service, and you agree that Rackspace will not be liable to you for any loss or damage arising from the provision of the Unsupported Service.
-The Service Level Agreement will not apply to the Unsupported Service, or any other aspect of the Services that is adversely affected by the Unsupported Service.
-You acknowledge that Unsupported Services may not interoperate with Rackspace's other services.</p>
-<p>
-<strong>28.
+<strong>4.
 MAILGUN SERVICES MANAGEMENT</strong>
 </p>
 <p>
-<strong>28.1 Documentation.</strong> You agree to comply with the Mailgun documentation found here: http://documentation.mailgun.com/</p>
+<strong>4.1 Documentation.</strong> You agree to comply with the Mailgun documentation found at: http://documentation.mailgun.com and agree that we may establish new procedures for your use of the Services as we deem necessary for the optimal performance of the Services.</p>
 <p>
-<strong>28.2 Filtering.</strong> While Mailgun does provide some email filtering services designed to filter spam it does not provide virus scanning and Rackspace recommends that you employ additional security measures to protect against spam, email phishing attempts and email infected with viruses.
-Email that is quarantined by the filtering system is excluded from the Service Level Agreements.
-Mailgun will use commercially reasonable efforts to deliver your email messages.
-Third party filtering services and other policies of recipient email services may from time to time prevent successful delivery of your messages.
-Recipient email services may block the attempts of Mailgun to deliver email successfully.
-While Mailgun will reattempt to deliver email according to its policies, it does not store outbound email messages so if the email is not accepted by the recipient email service, it will be lost.
-<strong>You acknowledge that the technological limitations of the filtering service will likely result in the capture of some legitimate email and the failure to capture some unwanted email, including email infected with viruses.
-In addition, you acknowledge that there is no guarantee that your email will be delivered successfully and your email will be lost if it is not accepted by the recipient email service.
-You hereby release Rackspace and its employees, agents, affiliates, and third party suppliers from any liability for damages arising from the failure of Mailgun's filtering services to capture unwanted email or from the capture of legitimate email, or from a failure of your email to reach its intended recipient.</strong>
-</p>
+<strong>4.2 Delivery &amp.
+Filtering.</strong> We will use commercially reasonable efforts to deliver your email messages, but we do not guarantee delivery.
+Third party filtering services and other policies of recipient email services may prevent successful delivery of your messages.
+While the Mailgun Services will reattempt to deliver email according to our policies, it does not store outbound email messages so if the email is not accepted by the recipient email service, it will be lost.
+While the Mailgun Service does provide some email filtering services designed to filter spam it does not provide virus scanning and Rackspace recommends that you employ additional security measures to protect against spam, email phishing attempts and email infected with viruses.
+You acknowledge that the limitations of the filtering service will likely result in the capture of some legitimate email and the failure to capture some unwanted email, including email infected with viruses.
+You hereby release Rackspace and its employees, agents, affiliates, and third party suppliers from any liability for damages arising from the failure of the Mailgun Service’s filtering services to filter unwanted email or from the capture of legitimate email, or from a failure of your email to reach its intended recipient.</p>
 <p>
-<strong>28.3 Message Size Limitations.</strong> An individual email message may not exceed the per-message size limit (including attachments) of 25MB.
-or it may be permanently lost.</p>
+<strong>4.3 Message Size Limitations.</strong> An individual email message may not exceed the per-message size limit (including attachments) of 25MB or it may be permanently lost.</p>
 <p>
-<strong>28.4 Content Privacy.</strong> Your email messages and other items sent or received via the mail service will include: (i) the content of the communication ("<strong>content</strong>"), and (ii) certain information that is created by the systems and networks that are used to create and transmit the message (the "<strong>message routing data</strong>").
-The content includes things like the text of email messages and attached media files, and is generally the information that could be communicated using some media other than email (like a letter, telephone call, CD, DVD, etc.) The message routing data includes information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information, and is generally information that would not exist but for the fact that the communication was made via email.
-The content of your items is your Confidential Information and is subject to the restrictions on use and disclosure described in this Terms of Service.
-However, you agree that we may view and use the message routing data for our general business purposes, including maintaining and improving security, improving our services, and developing products.
+<strong>4.4 Content Privacy.</strong> You acknowledge and understand that the Mailgun Services include the transmission of unencrypted email in plain text over the public internet.
+We do not encrypt Customer Data which you upload to the Mailgun Services, and it is stored (and transmitted) in similar fashion as you provide it.
+You are responsible for encrypting any sensitive data you use in conjunction with the Mailgun Services.
+Email sent using the Mailgun Services may be unsecured, may be intercepted by other users of the public internet, and may be stored and disclosed by third parties (such as a recipient’s email service provider).
+Although Mailgun Services include support for TLS, content will be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.</p>
+<p>
+<strong>4.5 Routing Data.</strong> Your email messages and other items sent or received via the mail service will include information that is created by the systems and networks that are used to create and transmit the message including information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information (“message routing data”).
+You agree that we may view and use the message routing data for our general business purposes, including maintaining and improving security, improving our services, and developing products.
 In addition, you agree that we may disclose message routing data to third parties in aggregate statistical form, provided that we do not include any information that could be used to identify you.</p>
 <p>
-<strong>28.5 Usage Data.</strong> We collect and store information related to your use of the Services, such as use of the Website, API, SMTP, POP3, IMAP, and filtering choices and usage.
+<strong>4.6 Usage Data.</strong> We collect and store information related to your use of the Services, such as use of the Website, API, SMTP and filtering choices and usage.
 You agree that we may use this information for our general business purposes and may disclose the information to third parties in aggregate statistical form, provided that we do not include any information that could be used to identify you.</p>
 <p>
-<strong>29.
-SERVICE OPTIMIZATION.</strong> By using the Services, you agree that we may establish new procedures for your use of the Services as we deem necessary for the optimal performance of the Services.</p>
+<strong>4.7 Test Services.</strong> If you use any Services that have been designated as a "Beta" service, limited release, pilot test, early access program, preview, or similar designation, then your use of that Service is subject to the terms at http://www.rackspace.com/information/legal/testterms.php.</p>
 <p>
-<strong>30.
-TEST SERVICES.</strong> If you use any Services that have been designated as a "Beta" service, limited release, pilot test, early access program, preview, or similar designation, then your use of that Service is subject to the terms at http://www.rackspace.com/information/legal/testterms.php.</p>
-<p>© 2014 Rackspace US, Inc.</p>
-<p>November 20, 2014 revision</p> 
+<strong>5.
+HIPAA.</strong> If Rackspace is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then the HIPAA Business Associate Addendum published at http://www.rackspace.com/information/legal/Mailgun-BAA as of the date that Rackspace becomes your Business Associate is part of the Agreement.</p>
+<p>© 2015 Rackspace US, Inc.</p>
+<p>November 4, 2015 revision</p> 
