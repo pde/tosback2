@@ -1,19 +1,19 @@
  <p> Search </p> Go to Pro <ul>
 <li> People </li>
-<li> Business </li>
 <li> Phone </li>
+<li> Business </li>
 <li> Address </li>
 </ul> People Where Search Cancel <ul>
 <li> e.g.
 Jon Snow </li>
 <li> City, State or ZIP Where </li>
+</ul> Phone Search Cancel <ul>
+<li> e.g.
+206-867-5309 </li>
 </ul> Business Where Search Cancel <ul>
 <li> e.g.
 TGI Fridays </li>
 <li> City, State or ZIP Where </li>
-</ul> Phone Search Cancel <ul>
-<li> e.g.
-206-867-5309 </li>
 </ul> Address Where Search Cancel <ul>
 <li> e.g.
 1600 Pennsylvania Ave NW </li>
@@ -81,8 +81,8 @@ How do I contact you? <p>If you have any questions about this policy, please wri
 <strong>Find</strong>
 <ul>
 <li> People Search </li>
-<li> Business Search </li>
 <li> Phone Search </li>
+<li> Business Search </li>
 <li> Address Search </li>
 </ul>
 <strong>Your Whitepages</strong>
