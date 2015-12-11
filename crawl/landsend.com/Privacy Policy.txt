@@ -207,7 +207,9 @@ Shop By Age Range <ul>
 </li>
 <li>
 <ul>
-<li> Girls <ul>
+<li>
+<strong>Girls</strong>
+<ul>
 <li>
 <i>
 </i>Back to Kids Girls </li>
@@ -236,7 +238,9 @@ Lunch Boxes</li>
 </li>
 <li>
 <ul>
-<li> Boys <ul>
+<li>
+<strong>Boys</strong>
+<ul>
 <li>
 <i>
 </i>Back to Kids Boys </li>
@@ -326,16 +330,32 @@ Bath</li>
 <li>Sale</li>
 </ul>
 </li>
+<li>
+</li>
+<li>
+<strong>More For the Home</strong>
+<ul>
+<li>
+<i>
+</i>Back to All Home More For the Home </li>
+<li>Kids Home</li>
+<li>Dog Shop</li>
+<li>Luggage &amp.
+Bags</li>
+<li>Canvas Totes</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
 <ul>
 <ul>
-<li> Bedding <ul>
+<li>
+<strong>Bedding</strong>
+<ul>
 <li>
 <i>
 </i>Back to All Home Bedding </li>
-<li>View All</li>
 <li>Sheets &amp.
 Pillowcases</li>
 <li>Duvet Covers &amp.
@@ -346,39 +366,29 @@ Throws</li>
 <li>Pillows</li>
 </ul>
 </li>
-<li> Bath <ul>
+<li>
+<strong>Bath</strong>
+<ul>
 <li>
 <i>
 </i>Back to All Home Bath </li>
-<li>View All</li>
 <li>Towels</li>
 <li>Rugs &amp.
 Mats</li>
 <li>Beach Towels</li>
 </ul>
 </li>
-<li> Décor <ul>
+<li>
+<strong>Décor</strong>
+<ul>
 <li>
 <i>
 </i>Back to All Home Décor </li>
-<li>View All</li>
 <li>Seasonal</li>
 <li>Tabletop</li>
 <li>Storage &amp.
 Organization</li>
 <li>Doormats</li>
-</ul>
-</li>
-<li> More for the Home <ul>
-<li>
-<i>
-</i>Back to All Home More for the Home </li>
-<li>View All</li>
-<li>Kids Home</li>
-<li>Dog Shop</li>
-<li>Luggage &amp.
-Bags</li>
-<li>Canvas Totes</li>
 </ul>
 </li>
 </ul>
@@ -426,8 +436,10 @@ Shop By Age Range <ul>
 </li>
 <li>
 <ul>
-<li> Girls &amp.
-Women <ul>
+<li>
+<strong>Girls &amp.
+Women</strong>
+<ul>
 <li>
 <i>
 </i>Back to Uniforms Girls &amp.
@@ -452,8 +464,10 @@ Bags</li>
 </li>
 <li>
 <ul>
-<li> Boys &amp.
-Men <ul>
+<li>
+<strong>Boys &amp.
+Men</strong>
+<ul>
 <li>
 <i>
 </i>Back to Uniforms Boys &amp.
@@ -480,7 +494,9 @@ Bags</li>
 </i>Back to Main Menu </li>
 <li>
 <ul>
-<li> Sale <ul>
+<li>
+<strong>Sale</strong>
+<ul>
 <li>
 <i>
 </i>Back to Sale Sale </li>
@@ -496,7 +512,9 @@ Bags</li>
 </li>
 <li>
 <ul>
-<li> Clearance <ul>
+<li>
+<strong>Clearance</strong>
+<ul>
 <li>
 <i>
 </i>Back to Clearance Clearance </li>
@@ -532,6 +550,7 @@ Gifts <ul>
 <li>Stockings &amp.
 Stuffers</li>
 <li>Personalized Gifts</li>
+<li>Canvas Totes</li>
 <li>Gift Cards</li>
 </ul>
 </li>
