@@ -28,7 +28,7 @@ Software Security <p>We employ a team of 24/7/365 server specialists at GitHub t
 We employ a wide range of monitoring solutions for preventing and eliminating attacks to the site.</p> Communications <p>All private data exchanged with GitHub is always transmitted over SSL (which is why your dashboard is served over HTTPS, for instance).
 All pushing and pulling of private data is done over SSH authenticated with keys, or over HTTPS using your GitHub username and password.</p>
 <p>The SSH login credentials used to push and pull can not be used to access a shell or the filesystem.
-All users are virtual (meaning they have no user account on our machines) and are access controlled through the peer reviewed, open source git-shell.</p> File system and backups <p>Every piece of hardware we use has an identical copy ready and waiting for an immediate hot-swap in case of hardware or software failure.
+All users are virtual and have no user account on our machines.</p> File system and backups <p>Every piece of hardware we use has an identical copy ready and waiting for an immediate hot-swap in case of hardware or software failure.
 Every line of code we store is saved on a minimum of three different servers, including an off-site backup.
 We do not retroactively remove repositories from backups when deleted by the user, as we may need to restore the repository for the user if it was removed accidentally.</p>
 <p>We do not encrypt repositories on disk because it would not be any more secure: the website and git back-end would need to decrypt the repositories on demand, slowing down response times.
