@@ -141,7 +141,6 @@ Vehicle </dd>
 <ul>
 <li> Insurance &amp.
 More <ul>
-<li>My Offers</li>
 <li>Auto</li>
 <li>Home</li>
 <li>Renters</li>
@@ -149,6 +148,8 @@ More <ul>
 <li>Motorcycle</li>
 <li>Business</li>
 <li>Life</li>
+<li>Roadside</li>
+<li>My Offers</li>
 </ul>
 <ul>
 <li>Boat</li>
@@ -207,7 +208,6 @@ VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved q
 </li>
 <li> Insurance &amp.
 More expand <ul>
-<li> My Offers </li>
 <li> Auto </li>
 <li> Home </li>
 <li> Renters </li>
@@ -215,6 +215,8 @@ More expand <ul>
 <li> Motorcycle </li>
 <li> Business </li>
 <li> Life </li>
+<li> Roadside </li>
+<li> My Offers </li>
 <li> More expand <ul>
 <li>Boat</li>
 <li>Motorhome</li>
@@ -605,7 +607,7 @@ Find yours today.</p> Find Your Local Agent <p>24-hour support</p>
 </li>
 </ul>
 <ul>
-<strong>© 2015 Allstate Insurance Company</strong>
+<strong>© 2016 Allstate Insurance Company</strong>
 <br>All Rights Reserved</ul>
 <ul>
 <li>
