@@ -45,9 +45,15 @@ Shoot</li>
 <li>Time Management</li>
 <li>Tower Defence</li>
 <li>Uphill Racing</li>
-</ul> Sign In <ul>
-</ul>
-<ul>
+</ul> Sign In Categories <ul>
+<li>
+<p>{text} ({games_number})</p>
+</li>
+</ul> Games <ul>
+<li>
+<p>{text}</p>
+</li>
+</ul> View more results <ul>
 <li>Home</li>
 <li>privacy policy</li>
 </ul> privacy policy <p>
