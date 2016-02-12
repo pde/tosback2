@@ -28,7 +28,7 @@ Accounts registered by "bots" or other automated methods are not permitted.</p>
 <p>You must provide your name, a valid email address, and any other information requested in order to complete the signup process.</p>
 </li>
 <li>
-<p>Your login may only be used by one person - a single login shared by multiple people is not permitted.
+<p>Your login may only be used by one person - i.e., a single login may not be shared by multiple people - except that a machine user's actions may be directed by multiple people.
 You may create separate logins for as many people as your plan allows.</p>
 </li>
 <li>
@@ -39,7 +39,7 @@ GitHub cannot and will not be liable for any loss or damage from your failure to
 <p>You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).</p>
 </li>
 <li>
-<p>One person or legal entity may not maintain more than one free account.</p>
+<p>One person or legal entity may not maintain more than one free account, and one machine user account that is used exclusively for performing automated tasks.</p>
 </li>
 <li>
 <p>You may not use the Service for any illegal or unauthorized purpose.
@@ -227,7 +227,7 @@ Map design and imagery subject to the MapBox Terms of Service.</p>
 </li>
 </ol>
 <p>
-<small>Last Updated: March 7, 2015</small>
+<small>Last Updated: February 11, 2016</small>
 </p>
 <ul>
 <li> Contact a human </li>
