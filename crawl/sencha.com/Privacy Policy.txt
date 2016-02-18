@@ -15,6 +15,11 @@ Frameworks <ul>
 </ul>
 </li>
 <li>
+Test <ul>
+<li>Sencha Test</li>
+</ul>
+</li>
+<li>
 Tools <ul>
 <li>IDE Plugins</li>
 <li>Cmd</li>
@@ -62,6 +67,7 @@ Company
 Store
 <ul>
 <li>Ext JS</li>
+<li>Sencha Test</li>
 <li>GXT</li>
 <li>Architect</li>
 <li>Web Application Manager</li>
@@ -205,6 +211,7 @@ Products<ul>
 <li>Why Sencha</li>
 <li>Sencha Platform</li>
 <li>Ext JS</li>
+<li>Sencha Test</li>
 <li>GXT</li>
 <li>Sencha Touch</li>
 <li>IDE Plugins</li>
@@ -267,6 +274,7 @@ Company<ul>
 <li>
 Store<ul>
 <li>Ext JS</li>
+<li>Sencha Test</li>
 <li>GXT</li>
 <li>Architect</li>
 <li>Web Application Manager</li>

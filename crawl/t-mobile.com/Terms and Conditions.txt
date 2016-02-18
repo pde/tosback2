@@ -1,10 +1,10 @@
  <br>
-<p>Did you activate (or renew) service prior to January 25, 2016? If yes, please click the date for the applicable version of the Terms and Conditions: November 14, 2015 | June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004</p>
+<p>Did you activate (or renew) service prior to February __, 2016? If yes, please click the date for the applicable version of the Terms and Conditions: January 25, 2016 | November 14, 2015 | June12, 2015 | March 18, 2015 |November 10, 2014 |March 27, 2014 |October 20, 2013 |December 30, 2011 |July 24, 2011 |July 18, 2010 |June 28, 2008 | December 2004</p>
 <p>
 <strong>T-Mobile Terms &amp.
 Conditions</strong>
 </p>
-<p>Effective as of January 25, 2016</p>
+<p>Effective as of February 17, 2016</p>
 <p>Thanks for choosing T-Mobile.
 Please read these Terms &amp.
 Conditions (T&amp;Cs), which contain important information about your relationship with T-Mobile, including mandatory arbitration of disputes between us, instead of class actions or jury trials.
@@ -83,7 +83,10 @@ If you do not have a Data Plan, your Device may not be able to access data servi
 and</li>
 <li>Incur Charges on your account.</li>
 </ul>
-<p>The easiest way to designate an Authorized User is through your my.T-mobile.com account.</p>
+<p>The easiest way to designate an Authorized User is through your my.T-mobile.com account.
+Keep in mind that you should not share your account validation information, which includes the last four digits of your social security number or your passcode.
+This information is sensitive so take steps to protect it.
+We will treat presentation of the proper account validation information as authorized access to an account.</p>
 <p>
 <strong>WHERE, HOW, AND WHEN DOES MY SERVICE WORK?</strong>
 </p>
@@ -96,8 +99,9 @@ You agree that we are not liable for problems relating to Service availability o
 <li>For more information about roaming, click here.</li>
 <li>To provide the best possible experience for the most possible customers, we prioritize the data usage of a small percentage of our data customers who use the highest amount of data (currently, more than 25GB) below that of other customers in times and locations where there are competing customer demands for network resources.
 Click here for more information.</li>
-<li>Additionally, we may implement other network management practices, such as caching less data and deploying streaming video optimization technology.
+<li>We utilize streaming video optimization technology throughout our network, as a customer-controlled feature on qualifying plans, which minimizes high speed data consumption, while also improving the service experience for all customers.
 For more information on video optimization, click here.</li>
+<li>Additionally, we may implement other network practices, such as caching less data.</li>
 <li>Our Open Internet Policy includes important information on these topics as well as information on commercial terms, performance characteristics (such as expected speed, latency) and network practices.</li>
 </ul>
 <p>
@@ -429,12 +433,16 @@ Export Control laws and regulations, and the import laws and regulations of fore
 <p>
 <strong>Streaming Video</strong>
 </p>
-<p>We may deploy streaming video optimization technology throughout our network so that available network capacity can be utilized to provide a good service experience for the maximum number of customers.
-This technology is intended to manage data usage on the network, reduce the risk of streaming video stalling and buffering, and reduce the amount of high-speed data consumed for streaming video.
+<p>We deploy streaming video optimization technology throughout our network as a customer-controlled feature on qualifying plans, which also ensures that available network capacity can be utilized to provide a good service experience for the maximum number of customers.
+This technology is intended to manage data usage on the network, reduce the risk of streaming video stalling and buffering on mobile devices, and reduce the amount of high-speed data consumed for streaming video.
 Streaming video optimization improves streaming video reliability and, by reducing the amount of data used for streaming video on the network, makes room for other users to enjoy higher speeds.
+Video optimization occurs only to data streams that are identified by our packet-core network as video.
 The streaming video optimization process is agnostic as to the streaming video content itself and to the service that provides it.
-While video streaming optimization happens in the background and should be indiscernible, the optimization process may minimally impact the appearance of the streaming video as displayed on a users device, but is very unlikely to be noticed by users in most circumstances.
-<br>
+While many changes to streaming video files are likely to be indiscernible, the optimization process may impact the appearance of the streaming video as displayed on a user’s device.
+Plans that feature this technology allow customers to choose to enable (and disable) video streaming optimization when connected to the cellular network.
+When enabled, video is typically delivered at DVD quality (480p or better).
+</p>
+<p>For more information about video optimization, click here <br>
 </p>
 <p>
 <strong>Examples of Permitted and Prohibited Uses of the Service and Your Device</strong>
