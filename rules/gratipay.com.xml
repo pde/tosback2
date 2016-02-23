@@ -10,7 +10,7 @@
    </url>
  </docname>
  <docname name="Security">
-   <url name="https://gratipay.com/about/security/" xpath="//div[@id='content']" reviewed="false">
+   <url name="https://hackerone.com/gratipay" xpath="//div[@id='content']" reviewed="false">
      <norecurse name="arbitrary" />
    </url>
  </docname>
