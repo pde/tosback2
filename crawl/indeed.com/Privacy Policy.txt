@@ -213,7 +213,7 @@ Employers may disable an account, however Indeed must preserve business records 
 <strong>2.
 Uses and Disclosures of Information</strong>
 </p>
-<p>We may use any information collected pursuant to this Privacy Policy, including information that identifies you as a specific individual (“Personal Information”), for the purposes set forth in this Paragraph 2 and Paragraphs 3 and 8 below.
+<p>We may use any information collected pursuant to this Privacy Policy, including information that identifies you as a specific individual (“Personal Information”), for the purposes set forth in this Paragraph 2 and Paragraphs 3, 4 and 8 below.
 Indeed uses such information to provide our services and features to you, including to provide employer information to you, to measure and improve those services and features, and to provide you with customer support.
 For example, Indeed uses your previous search and browsing history (e.g., the jobs you click on) to determine relevant search results and provide you with recommended jobs.
 Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Information, to employers that may be interested in contacting you.
@@ -226,7 +226,7 @@ or (c) may protect our rights, reputation, property, safety, or that of the publ
 We may use a variety of methods to detect and address anomalous activity and screen content to prevent abuse such as spam.
 These efforts may on occasion result in a temporary or permanent suspension or termination of some functions for some users.
 We provide email proxy and relay services to the users of our Indeed products, including: Indeed Resume, Indeed Apply, and Post a Job.
-We monitor, review, store and analyze your content (including your resumes, cover letters, applications, messages, responses, offer letters and other materials) that you send, store or receive, including via automated means and otherwise, for data analysis, quality control, and to refine the Site or any other Indeed product or service regardless of whether the job vacancy has been filled (including to provide better search results and other listings for job seekers and employers, provide you with personally relevant product features, and to prevent fraud and reduce unwanted mail).</p>
+We monitor, review, store and analyze your content (including your resumes, cover letters, applications, messages, responses, offer letters and other materials) that you send, store or receive, including via automated means and otherwise, for data analysis, quality control, and to refine the Site or any other Indeed product or service (including to provide better search results and other listings for job seekers and employers, provide you with personally relevant product features, and to prevent fraud and reduce unwanted mail).</p>
 <p>
 <strong>Any information shared by you with Indeed may be shared with or transferred to any Indeed affiliated entity (including those located outside the European Union), no matter where located, for the purpose of providing you services and improving the Site.
 By using the Site, you consent to this transfer and acknowledge that the services provided to you and the functionality of the Site could not be provided without such a transfer.
@@ -275,7 +275,7 @@ pixel tags and similar technologies.
 physical location information.
 and demographic information, including gender, dates of birth, ZIP codes, etc.
 Non-Personal Information may also include Personal Information that has been aggregated or de-identified.
-If we combine any Non-Personal Information with Personal Information (such as combining your ZIP code with your name), then we will only use and disclose such combined information for the purposes described in Sections 2, 3 and 8 of this Privacy Policy while it is so combined.
+If we combine any Non-Personal Information with Personal Information (such as combining your ZIP code with your name), then we will only use and disclose such combined information for the purposes described in this Paragraph 4 and Paragraphs 2, 3 and 8 of this Privacy Policy while it is so combined.
 If we are required to treat Non-Personal Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information.</p>
 <p>
 <strong>5.
@@ -797,7 +797,8 @@ and (b) websites proximately reachable from Creative URLs and your services and 
 You shall protect your passwords and take full responsibility for your own, and third party, use of your accounts.
 Job Ads may be placed on (y) any content or property provided by Indeed (“Indeed Property”), and (z) any other content or property provided by a third party (“Partner”) upon which Indeed places Job Ads or provides search results of Job Listings (“Partner Property”).
 You shall direct only to Indeed any communications regarding Job Ads on Partner Properties.
-By posting a Job Ad on Indeed, you authorize Indeed to reformat the Job Ad to be effectively displayed on a mobile device.
+By posting a Job Ad, including by XML feed, on Indeed: (i) you authorize Indeed to reformat and host the Job Ad to be effectively displayed on a mobile device and (ii) you authorize Indeed to reformat and host the Job Ad on an Indeed hosted page so it can be displayed more effectively on Indeed or its publisher network.
+All dashboards will reflect the total click count, including the clicks on the Indeed reformatted and hosted page.
 Indeed may offer certain Employers who sponsor Job Ads the opportunity to be displayed more prominently on the Site (“Featured Employer”).
 Featured Employer is awarded at Indeed’s sole discretion.
 The Featured Employer program may be changed or removed by Indeed at any time, at Indeed’s sole discretion.</p>
@@ -1188,7 +1189,7 @@ All withholding tax remittances to the government are your sole responsibility a
  Invoices may be provided to you via electronic mail.</p>
 <p>
 <strong>6.
-Indemimnification</strong>
+Indemnification</strong>
 </p>
 <p>You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your ITA use, Creative, site or Your Services, or your breach of these ITA Terms.</p>
 <p>*For the purposes of this Agreement, the Asia-Pacific Region is defined as the following countries and territories: American Samoa, Antarctica, Australia, Bangladesh, Bhutan, Brunei, Cambodia, China, Christmas Island, Cocos Islands, Cook Islands, East Timor, Fiji, French Polynesia, French Southern Territories, Guam, Heard Island and McDonald Islands, Hong Kong, Indonesia, Japan, Kiribati, Laos, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Georgia and the South Sandwich Islands, South Korea, Sri Lanka, Taiwan, Thailand, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis and Futuna.</p>
@@ -1447,7 +1448,7 @@ The parties may apply to any court of competent jurisdiction for a temporary res
 <p>
 <strong>Categories of EEA Data</strong>
 </p>
-<p>We receive certain information related to individual independent contractors, and employees and individual representatives of Indeed, Inc.’s corporate business partners (including vendors and advertising customers).
+<p>We receive certain information related to individual independent contractors, and employees and individual representatives of Indeed's corporate business partners (including vendors and advertising customers).
 Such EEA/CH Data includes, without limitation, names, addresses, work phone numbers, work email addresses, and any other personal data that are affirmatively provided to Indeed, Inc.
 in order to manage our business relationship.</p>
 <p>We also provide data processing services to affiliated and unaffiliated entities.
