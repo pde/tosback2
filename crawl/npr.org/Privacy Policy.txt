@@ -341,7 +341,7 @@ Film</li>
 <b>Email</b>
 </li>
 </ul> May 7, 20139:51 AM ET <p>
-<strong>Effective Date July 25, 2014</strong>
+<strong>Effective Date April 5, 2016</strong>
 </p>
 <p>
 <em>See related: NPR Terms of Use</em>
@@ -370,6 +370,7 @@ If you are under 13, please do not attempt to register for any NPR Services or p
 <li>NPR collects credit card information provided by NPR Shop customers.</li>
 <li>NPR's web server creates access logs for visitors to the NPR Services, recording such information as IP address, date and time of visit, path taken, browser, list of files downloaded or viewed, and time spent listening to audio.</li>
 <li>NPR collects information from a visitor's mobile device or app, including unique device identifier, operating system, phone model, app version and/or automobile make (for certain connected car platforms).</li>
+<li>NPR collects information enabling it to recognize a visitor as the same visitor when the visitor accesses the NPR Services using different browsers or devices.</li>
 <li>In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service, NPR collects information about each visitor's listening activity, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency.
 NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations.
 NPR may share this information with the Member stations localized to or associated with a visitor's account.</li>
@@ -444,6 +445,8 @@ This third-party vendor may use this unique device identifier and usage informat
 Any unique device identifier and usage information collected by this third-party vendor will be processed and used by this third-party vendor solely to operate its interactive audio sponsorship acknowledgement services.
 NPR is not responsible for, and assumes no liability for, the privacy and information collection and use practices of this or any other third-party vendor.
 If you do not agree to the collection and use of this information by NPR's third-party vendor, please do not engage the interactive audio sponsorship acknowledgement features.</p>
+<p>NPR uses Google's Universal Analytics service to collect information that enables NPR to recognize a visitor as the same user when the visitor accesses the NPR Services using different browsers or devices.
+See the "Opting Out of Cookies and Web Beacons" section below for more information about opting out of this collection of information by Google Analytics.</p>
 <p>Like other web servers, the server used by NPR for the NPR Services automatically creates log files for each visitor who accesses the NPR Services.
 These "access logs" allow us to make our site more useful to our visitors.
 The access logs do NOT record a visitor's name, address, email address, credit card information, or other similar personally-identifying information.
@@ -471,8 +474,11 @@ Bitly may collect additional information, particularly from users with Bitly acc
 We encourage you to review Bitly's privacy policy before you share our content.
 Bitly's privacy policy can be found here.
 If you would prefer that Bitly not collect information about the shortened URLs you share, you can copy the full URL of the story you want to share from the location bar in your browser and share the story directly by email.</p>
-<strong>
-<br> Cookies and Other Technologies</strong>
+<p>The NPR Services also may feature Nielsen proprietary measurement software that includes visitors in Nielsen's market research, such as Nielsen Digital Content Ratings.
+For example, Nielsen's measurement software may collect information about content that was viewed, where the content was viewed, and general information about the content that was viewed.
+To learn more about the information that Nielsen software may collect and your choices with regard to it, including how to opt out of the collection of information for this Nielsen digital measurement research, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
+See the "Opting Out of Cookies and Web Beacons" section below for more information about opting out of the collection of information for this Nielsen digital measurement research.</p>
+<strong>Cookies and Other Technologies</strong>
 <p>
 <strong>
 </strong>NPR also uses "cookies" to collect information.
@@ -496,7 +502,10 @@ We may use web beacons on this site from time to time for these and other purpos
 <p>
 <strong>
 </strong>If you wish to prevent certain or all cookies from being set to your hard drive or device, or to clear existing cookies from your browser's or device's cache, you may be able to disable them in your browser's or device's preferences, although your browser or device might then be unable to accommodate certain functionalities on the NPR Services.
-Visitors desiring to prevent data from being collected by Google Analytics may use the opt-out browser add-on developed by Google for this purpose.</p>
+Visitors desiring to prevent data from being collected by Google Analytics, including user ID information collected through Google's Universal Analytics service, may use the opt-out browser add-on developed by Google for this purpose.</p>
+<p>Visitors desiring to opt out of, or opt back into, Nielsen digital measurement research on browsers may do so at http://www.nielsen.com/digitalprivacy#choice.
+Opting out of the collection of information for Nielsen digital measurement research is cookie-based and will only affect the specific browser on which the opt out is applied.
+If you subsequently delete your browser cookies, you will need to opt out again.</p>
 <p>In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third-party vendors and other participating companies, please visit <strong>http://networkadvertising.org/choices</strong>.
 Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based.
 Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied.
@@ -539,7 +548,8 @@ Opting Out of Communications."</p>
 <p>NPR may share with third parties anonymous information that does not identify its visitors.
 The use and disclosure of such information is not subject to restrictions under this Privacy Policy.</p>
 <p>NPR, with the assistance from time to time of its third-party service vendors, uses non-identifying information (in aggregated and non-aggregated form), including non-identifying aggregate data regarding age, gender and/or visitor interests, to analyze use of and better design the NPR Services.
-It may share with third parties in aggregate, non-identifying form as appropriate.
+For example, NPR may use information to recognize a visitor as the same user when the visitor accesses the NPR Services using different browsers or devices.
+NPR may share information with third parties in aggregate, non-identifying form as appropriate.
 For example, we may tell a third party that a certain number or category of visitors accessed a particular audio stream on the NPR Services.
 We may share non-identifying aggregate information with third-party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR.
 We may share non-identifying information, in aggregated or non-aggregated form, with third-party vendors to help NPR analyze and improve the NPR Services.
