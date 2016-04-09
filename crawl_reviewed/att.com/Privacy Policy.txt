@@ -662,7 +662,8 @@ Go here for more information about the opt-outs made available by some of those 
 <li>
 <p>E-mail us at privacypolicy@att.com</p>
 </li>' + '<li>
-<p>Write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.</p>
+<p>Write to us at AT&amp;T Privacy Policy, Chief Privacy Office, 208 S.
+Akard, Room 1033, Dallas, TX 75202.</p>
 </li>
 </ul>
 </li>' + '<li>
@@ -835,7 +836,7 @@ We will not sell or provide non-public AT&amp;T | DISH Network Customer Account 
 Please be aware that when you visit other organizations' interactive television applications, you may be subject to the privacy policy of the new application.
 We recommend that you read the applicable privacy policy for all third-party applications in order to understand how they use your personal Information, </p>' + 'PRIVACY POLICY UPDATES' + '<p>If we decide to Change this Privacy Policy, we will post those changes to this policy and other places we deem appropriate.
 If, however, we are going to use/disclose AT&amp;T I DISH Network Customer Account Information in a manner different from that stated at the time of collection we will notify AT&amp;T | DISH Network customers directly.</p>' ).
-} function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + 'En Français' + '' + '' + '<p>Welcome DIRECTV Customers<br>DIRECTV is now part of the AT&amp;T family.
+} function renderPrivacyRightCol() { if (pid == '2506') { document.write(//'' //+ 'En Español' //	+ 'En Français' //+ '' //+ '' //+ '<p>Welcome DIRECTV Customers<br>DIRECTV is now part of the AT&amp;T family.
 For convenience, all AT&amp;T products and services are covered under a single, easy-to-read Privacy Policy.
 The policy lays out our commitments to privacy and describes our policies for helping to protect personal information.
 We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&amp;T Policy, and we welcome your feedback.</p>' // + '<p>View the current AT&amp;T privacy policy</p>' // + 'Welcome to the AT&amp;T Privacy Policy,<p>effective date <strong>11/18/2010</strong>.
@@ -845,7 +846,7 @@ We will provide a preview of the updated privacy policy ��� before it goes
 Please check back soon for updates.
 The policy on these pages has an effective date of 11/18/2010.
 </strong>
-</p>' + '' + '' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' + '' + 'Your Rights and Choices' + '<p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
+</p>' //+ '' '' + ' ' + '' + '<p>AT&amp;T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed</p>' + '' + '' + 'Your Rights and Choices' + '<p>You have choices about how your information is used and collected, both by AT&amp;T and other companies.
 <br> More</p>' + '<p>You can choose to be removed from call lists that we use to contact customers with marketing and promotional offers.
 <br> More</p> ' + '<p>We protect the confidentiality of your Customer Proprietary Network Information as required by law.
 <br> More</p> ' + '' /*+ '' + '<p>The Ponemon Institute has named AT&amp;T as one of the 20 most trusted companies on privacy for 2012.</p>' + ''*/ + '' + '<p>
