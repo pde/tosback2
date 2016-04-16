@@ -105,7 +105,8 @@ As stated in this Privacy Policy, we will not sell your Personal Information to 
 <strong>Web Site Data Collection:</strong> We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services.
 AT&amp;T provides information about the opt-out choices it makes available, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here.</p>' + '<p>
 <strong>"Do Not Track" Notice:</strong> Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, AT&amp;T currently does not respond to those signals.
-For more information on Do Not Track, please visit www.allaboutdnt.com.</p>' + '<p>California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.</p>' + '').
+For more information on Do Not Track, please visit www.allaboutdnt.com.</p>' + '<p>California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&amp;T Privacy Policy, Chief Privacy Office, 208 S.
+Akard, Room 1033, Dallas, TX 75202.</p>' + '').
 } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true).
 menuItem = sectionID + 'A'.
 activeMenuItem = document.getElementById(menuItem).
@@ -535,7 +536,8 @@ A list of the advertising partners who collect information on our sites and the 
 <p>We will not contact a child under the age of 13 about special offers or for marketing purposes without parental consent.</p>
 </li>' + '<li>
 <p>You or your child can review, edit, update, and delete information relating to your child's sub-account and, if you no longer wish your child to have such an account, you can revoke your consent at any time, by logging on to manage your account here.</p>
-</li>' + '</ul>' + '<p>You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&amp;T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036 with any questions or concerns you may have about our Children's Online Privacy Policy.</p>
+</li>' + '</ul>' + '<p>You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&amp;T Privacy Policy, Chief Privacy Office, 208 S.
+Akard, Room 1033, Dallas, TX 75202with any questions or concerns you may have about our Children's Online Privacy Policy.</p>
 </li>' + '</ol>' + ' <strong>QUESTIONS ABOUT DATA PROTECTION AND SECURITY</strong>' + ' <ol>' + '<li>
 <p>Do we sell your Personal Information?</p>' + '<p>
 <br>No.

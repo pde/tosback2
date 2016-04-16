@@ -73,16 +73,16 @@ LMI shall have a royalty-free, worldwide, perpetual license to use or incorporat
 </li>
 </ol>
 <p>2.1.
-Accepted Payment Methods: Payments for subscriptions to LMI’s Services may generally be made by preauthorized credit card charge, direct debit, check, bank draft, wire transfer or other online payment services (such as PayPal<sup>®</sup>) as described further below.
-Please note that when Customer selects PayPal to make payments, the transaction is re-directed from LMI’s site to PayPal’s payment site and Customer’s financial information is not shared with LMI.</p>
+Accepted Payment Methods: Payments for subscriptions to LMI’s Services may generally be made by preauthorized credit card charge, direct debit, check, bank draft, wire transfer or other online payment services (such as Stripe<sup>®</sup>) as described further below.
+Please note that when Customer selects credit card to make payments, the transaction is re-directed from LMI’s site to Stripe’s payment site and Customer’s financial information is not shared with LMI.</p>
 <ul>
 <li>
 <u>Month-to-Month Subscriptions</u>.
-In the event that Customer’s subscription to a Service is on a monthly basis, payment of the subscription fee must be by preauthorized credit card charge, direct debit or other online payment services accepted by LMI (such as PayPal<sup>®</sup>) only, and Customer’s subscription will automatically renew each calendar month unless Customer provides LMI with written notice of non-renewal during the prior calendar month.
+In the event that Customer’s subscription to a Service is on a monthly basis, payment of the subscription fee must be by preauthorized credit card charge, direct debit or other online payment services accepted by LMI (such as Stripe<sup>®</sup>) only, and Customer’s subscription will automatically renew each calendar month unless Customer provides LMI with written notice of non-renewal during the prior calendar month.
 Customer will automatically be charged the applicable monthly subscription fee for each month or partial month that Customer’s month-to-month subscription is in effect.</li>
 <li>
 <u>Annual Subscriptions by Payment Card</u>.
-Customer may elect to purchase annual subscriptions to the Service by credit card, direct debit or other online payment services accepted by LMI (such as PayPal<sup>®</sup>).
+Customer may elect to purchase annual subscriptions to the Service by credit card, direct debit or other online payment services accepted by LMI (such as Stripe<sup>®</sup>).
 In the event that Customer cancels the payment card provided to LMI to pay for the Service or the card expires or is otherwise terminated, Customer must promptly provide LMI with a new valid card number in order to maintain its subscription to the Service and avoid any disruptions to its subscription renewal.
 Customer authorizes LMI, from time-to-time, to undertake steps to determine whether the card number provided to LMI is a valid card number and authorizes LMI to automatically update Customer’s credit card information using software designed for updating purposes.</li>
 <li>
@@ -232,10 +232,7 @@ When ordering, purchasing or accessing Services from LMI under this Agreement, C
 </strong>
 <strong>Address for Notices</strong>
 United States of America LogMeIn, Inc.<br> 320 Summer Street<br> Boston, MA 02210 LogMeIn, Inc.<br> Attn.: Legal Department<br> 320 Summer Street<br> Boston, MA 02210 Brazil LogMeIn Consultoria e Serviços de Informática Ltda.<br> Rua Joaquim Floriano, No.
-243, suite 113,<br> Zip Code 04534-010,<br> City of São Paulo, State of São Paulo, Brazil LogMeIn Consultoria e Serviços de Informática Ltda.<br> c/o LogMeIn Ireland Ltd.<br> Attn.: Contracts Department<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, Ireland
-<p>With a Copy to:<br> LogMeIn, Inc.<br> Attn.: Legal Department<br> 320 Summer Street<br> Boston, MA 02210 </p> Any country other than the United States of America or Brazil LogMeIn Ireland Limited<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, Ireland LogMeIn Ireland Limited<br> Attn.: Contracts Department<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, Ireland
-<p>With a Copy to:<br> LogMeIn, Inc.<br> Attn.: Legal Department<br> 320 Summer Street<br> Boston, MA 02210</p>
-<p> </p>
+243, suite 113,<br> Zip Code 04534-010,<br> City of São Paulo, State of São Paulo, Brazil LogMeIn Consultoria e Serviços de Informática Ltda.<br> c/o LogMeIn Ireland Ltd.<br> Attn.: Contracts Department<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, IrelandWith a Copy to:<br> LogMeIn, Inc.<br> Attn.: Legal Department<br> 320 Summer Street<br> Boston, MA 02210  Any country other than the United States of America or Brazil LogMeIn Ireland Limited<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, Ireland LogMeIn Ireland Limited<br> Attn.: Contracts Department<br> Bloodstone Building Block C<br> 70 Sir John Rogerson’s Quay<br> Dublin 2, IrelandWith a Copy to:<br> LogMeIn, Inc.<br> Attn.: Legal Department<br> 320 Summer Street<br> Boston, MA 02210 <p> </p>
 <p>_________________________</p>
 <p>
 <sup>*</sup>        If the Services purchased hereunder have been purchased via credit card, debit card or other payment card, this legal entity will provide recourse to the Customer cardholder in case of a refund or chargeback.</p>
