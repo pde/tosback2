@@ -1,4 +1,4 @@
- Privacy Policy <p>Effective Date: November 3, 2015</p>
+ Privacy Policy <p>Effective Date: May 24, 2016</p>
 <p>POPSUGAR Inc., its subsidiaries and affiliates (“POPSUGAR,” “we,” “us,” “our”) take your privacy seriously and has developed this Privacy Policy (“Privacy Policy”) to explain what we collect from our users (“users” or “you”) and how we use and share this information.
 This Privacy Policy applies to your use of our websites, mobile websites, mobile applications and any related services which you can find out about more in our Terms of Service at http://www.popsugar.com/tos (“Service(s)”).
 We may change this Privacy Policy from time to time and will notify you by revising the date at the top of the Privacy Policy.
@@ -20,13 +20,10 @@ If you are a member of a Service through which you may receive a payment (i.e., 
 <li>
 ✪ When You Visit Our Websites or Use Our Services.
 Even if you do not register with us, whenever you interact with our Services, we may collect the following: IP address, language setting, operating system type, the page you requested, an Identifier for Advertising if you are using an iOS device or an Android ID if you are using an Android device, user agent, and time stamp.
-We collect information about your search and click activity on the Services (for example, when you “favorite” a product featured on our Services or “follow” a brand, designer or another user), or your user generated content or activity related to your use of certain Services (for example, photos that you take or upload, comments that you provide or workout routines that you create).
-</li>
-<li>
-✪ When You Turn On Location Services.
-Our most recent ShopStyle iOS-based mobile application (available to users for download in the United States) allows us to determine your geo-location relative to nearby merchants with whom we’ve partnered so that we can provide you notifications of promotional deals that may be of interest to you.
-When you have allowed us to access your location, we may access your geo-location even if you are not using the ShopStyle iOS-based mobile application.
-Please see our section on “What Choices Do I Have?” under the subheading “Geo-Location” for information on how to limit the location information.
+We collect information about your search and click activity on the Services (for example, when you “favorite” a product featured on or “follow” a brand, designer or another user on our Services).
+With your permission, we may have access to your photo album in connection with providing you a Service (i.e.
+Emoticode).
+We may collect your user generated content or activity related to your use of certain Services (for example, photos that you take or upload, comments that you provide or workout routines that you create, or URL links).
 </li>
 <li>
 ✪ When You Provide Third Party Account Information.
@@ -142,7 +139,7 @@ We use “persistent” cookies to save your login information for future logins
 We also use “session ID” cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by users and web traffic routing on the Services.
 Unlike persistent cookies, session ID cookies are deleted from your computer when you log off from a Service and close your browser.
 </p>
-<p>We, and third parties with whom we partner, may also deliver a file knowns as a web beacon, pixel or pixel tag (“Web Beacons”) to you through our Services from an ad network.
+<p>We, and third parties with whom we partner, may also deliver a file known as a web beacon, pixel or pixel tag (“Web Beacons”) to you through our Services from an ad network.
 Web Beacons are small, invisible graphic images that may be used on the Service interface or in emails relating to the Service to collect certain information and monitor user activity on the Service interface, such as to count visits, understand usage effectiveness and to determine if an email has been opened and acted upon.
 Web Beacons allow ad networks and service providers that we use to provide anonymized, aggregated auditing, research and reporting for us, for advertisers and our other partners.
 Web Beacons also enable ad networks to serve targeted advertisements to you when you visit other websites.
@@ -162,6 +159,9 @@ This Privacy Policy does not cover the practices of these third party social net
 <p>Some of the advertisements you see on our Services or on emails we deliver to you are delivered by advertisers who collect information about your online activities with the emails we send and/or on our Services through the use of Cookies, Web Beacons, and other technologies.
 The third parties collecting this information may include, but are not limited to,
 Adaptive Media,
+AdRoll,
+Amplitude,
+AppNexus,
 BlueKai,
 Brightroll,
 Criteo,
@@ -170,6 +170,7 @@ Google,
 MediaMath,
 Nielsen NetRatings,
 Nielsen SiteCensus,
+Nielsen Digital Measurement,
 Oracle,
 PubMatic,
 Pulse360,
@@ -190,13 +191,13 @@ here.
 </p>
 <p>
 In addition, POPSUGAR works with third parties to provide analytics information regarding your usage of our Services or to help us track the advertisements that are delivered to you to determine the effectiveness of advertising on our Services.
-Third parties that use cookies, web beacons and other technologies to assist us with our traffic measurement, research and analytics include, but are not limited to, Adjust, Adobe, Comscore, LiveRamp, Tapad, Moat, Nielsen, DoubleClick and Flurry.
+Third parties that use cookies, web beacons and other technologies to assist us with our traffic measurement, research and analytics include, but are not limited to, Adobe, Comscore, LiveRamp, Tapad, TubeMogul, Moat, Nielsen, DoubleClick and Flurry.
 To opt out of collection of your information by Nielsen, or to obtain information about the technologies they use or their own privacy policies, please visit the Nielsen consumer opt out page located
 here.
 To opt out of collection of your information by Flurry analytics via our mobile applications, please visit the Flurry end user opt out page located
 here.
-To opt out of collection of your information by Adobe and Adjust via our mobile applications (if applicable) on your mobile device, please do the following: (i) for an iOS device, go to “Settings” and select “ShopStyle,” or for an Android device open the ShopStyle app and open “Settings” within the app.
-and (ii) once in “Settings” under “Analytics,” disable the analytics to stop data collection from your mobile device by Adobe and Adjust.
+To opt out of collection of your information by Adobe via our mobile applications (if applicable) on your mobile device, please do the following: (i) for an iOS device, go to “Settings” and select “ShopStyle,” or for an Android device open the ShopStyle app and open “Settings” within the app.
+and (ii) once in “Settings” under “Analytics,” disable the analytics to stop data collection from your mobile device by Adobe.
 </p>
 </li>
 <li>
@@ -217,9 +218,6 @@ If you do not accept cookies, you may not be able to use all portions of the Ser
 If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings, contacting us at
 community@popsugar.com,
 or by clicking the “unsubscribe” link in an email we send to you.
-If you do not wish to receive our ShopStyle trendbook publication by postal mail, you can contact us at
-http://www.shopstyle.com/page/Feedback
-or community@popsugar.com.
 </li>
 <li>
 ✪ Deactivating Your Account.
@@ -232,19 +230,6 @@ community@popsugar.com.
 You may de-link your POPSUGAR account from an account on another service such as a social media account in your account setting.
 However, in order to de-link it completely, you may also have to adjust your account settings with the third party application.
 For example, if you want to de-link your Facebook account with POPSUGAR, you must de-link your accounts in both your POPSUGAR account settings and in your Facebook application settings.
-</li>
-<li>
-✪ Geo-Location.
-If you access our Services through the most recent ShopStyle iOS-based mobile application (available to users for download in the United States), you may adjust the settings on your mobile device to allow or prevent the sharing of your geo-location information.
-Please note that if you disable the sharing of your location information, you may be unable to access some features of ShopStyle.
-<ul>
-<li>
-Under iOS Settings, you may disable “Location Services” on your mobile device.<br>
-</li>
-<li>
-You may also opt-out of sharing your location information by toggling off the “Location” option within the “MORE” settings menu of the most recent ShopStyle iOS-based mobile application.<br>
-</li>
-</ul>
 </li>
 <li>
 ✪ Push Notifications.
