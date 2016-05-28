@@ -89,17 +89,16 @@ Search Menu <ul>
 <li> Regulatory capital securities </li>
 </ul>
 </li>
+<li> Events and presentations <ul>
+</ul>
+</li>
 <li> Share and dividend information <ul>
 <li> Dividend calculators </li>
 <li> Dividend history </li>
 <li> Dividend timetable </li>
-<li> Equity analyst coverage </li>
 <li> Scrip dividend </li>
 <li> Share analytics </li>
 <li> Treasury shares </li>
-</ul>
-</li>
-<li> Events and presentations <ul>
 </ul>
 </li>
 </ul>
@@ -107,6 +106,7 @@ Search Menu <ul>
 <li> Investor resources <ul>
 <li> Contact our registrar </li>
 <li> Investor contacts </li>
+<li> Equity analyst coverage </li>
 <li> Frequently asked questions - investor relations </li>
 </ul>
 </li>
@@ -396,12 +396,12 @@ Patent Nos.
 <li>Reports and documentation</li>
 <li>Supplier code of conduct</li>
 </ul> Investor relations <ul>
-<li>Financial and regulatory reports</li>
-<li>Share and dividend information</li>
-<li>Events and presentations</li>
 <li>Investor resources</li>
 <li>Fixed income securities</li>
+<li>Financial and regulatory reports</li>
+<li>Events and presentations</li>
 <li>Stock exchange announcements</li>
+<li>Share and dividend information</li>
 <li>Risk and responsibility</li>
 </ul> News and insight <ul>
 <li>Media resources</li>
