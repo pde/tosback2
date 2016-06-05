@@ -1,10 +1,4 @@
- Toggle navigation <ul>
-<li>Residential</li>
-<li> Business</li>
-<li>Sign In</li>
-<li>Sign Out</li>
-</ul>
-<ul>
+ <ul>
 <li>Residential</li>
 <li>Business</li>
 </ul>
@@ -40,11 +34,42 @@ My AccountPay Your BillCheck Your MailOrder StatusOrder StatusTrouble Ticket Sta
 <i>
 </i>
 <i>
-</i> Skip to Content <ul>.
-<ul>
+</i> Toggle navigation <ul>
+<li>Bundle</li>
+<li>Internet</li>
+<li>Video/TV</li>
+<li>
+Phone<ul>
+<li>Frontier Texting</li>
 </ul>
+</li>
+<li>
+Security<ul>
+<li>Connected Home </li>
+<li>Content Anywhere </li>
+<li>Multi-Device Security </li>
+<li>Equipment Protection </li>
+<li>Identity Protection </li>
+<li>Premium Technical Support </li>
 </ul>
-<ul>
+</li>
+<li>
+Help Center<ul>
+<li>Account &amp.
+Billing </li>
+<li>Internet </li>
+<li>Support Wizard </li>
+<li>Trouble Ticket Status </li>
+<li>Order Status </li>
+<li>Contact Us </li>
+<li>MyFrontier Mobile App </li>
+</ul>
+</li>
+<li>Sign In</li>
+<li>Sign Out</li>
+</ul>
+<i>
+</i> Skip to Content <ul>
 </ul>
 <ul>
 <li>
