@@ -50,6 +50,9 @@ You understand that your website will not receive credit for traffic in these re
 If we or comScore require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to accommodate such requests.
 </li>
 <li>
+<strong>HTTPS.</strong> We offer free HTTPS on all WordPress.com sites by default, including those using custom domains, via Let’s Encrypt.
+By signing up and using a custom domain on WordPress.com, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your site.</li>
+<li>
 <strong>Advertisements.</strong> Automattic reserves the right to display advertisements on your blog unless you have purchased an Ad-free Upgrade or a VIP Service account.</li>
 <li>
 <strong>Attribution.</strong> Automattic reserves the right to display attribution links such as ‘Blog at WordPress.com,’ theme author, and font attribution in your blog footer or toolbar.
@@ -71,9 +74,9 @@ You can read about our refund policy here.</li>
 <li>
 <strong>Automatic Renewal.
 </strong>
-<br>
-Unless you notify Automattic before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you.
-Upgrades can be canceled at any time in the Upgrades section of your website’s dashboard.</li>
+<p>Unless you notify Automattic before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you.
+Upgrades can be canceled at any time in the Upgrades section of your website’s dashboard.</p>
+</li>
 <li>
 <strong>VIP Service. </strong>VIP Hosting/Support and VIP Support services are provided by Automattic under the terms and conditions for each such service, which are located at vip.wordpress.com/hosting-tos and vip.wordpress.com/support-tos, respectively.
 By signing up for a VIP Hosting/Support or VIP Support services account, you agree to abide by such terms and conditions.</li>
@@ -111,13 +114,15 @@ You own your VaultPress Content.</li>
 </ul>
 </li>
 <li>
-<strong>Payment, Renewal and Refunds.</strong> VaultPress offers different levels of service. By signing up for a particular level of service, you agree to pay VaultPress the applicable subscription fees.
+<strong>Payment, Renewal and Refunds.</strong>
+<p>VaultPress offers different levels of service. By signing up for a particular level of service, you agree to pay VaultPress the applicable subscription fees.
 Unless you notify us before the end of your subscription period that you no longer wish to run VaultPress, your subscription will renew automatically.
 If we change pricing for a service to which you’re subscribed, we will notify you before your subscription is set to renew.
 You authorize us to charge any then-applicable fees to your credit card or other payment method we have on file for you.
 We offer refunds up to thirty (30) days after payment.
 Payment failures will result in the cancellation of your VaultPress plan.
-Each WordPress website requires a separate subscription to run VaultPress.</li>
+Each WordPress website requires a separate subscription to run VaultPress.</p>
+</li>
 <li>
 <strong>Cancellation.
 </strong>If you cancel your subscription to VaultPress, we will queue your backed-up VaultPress Content for deletion.</li>
