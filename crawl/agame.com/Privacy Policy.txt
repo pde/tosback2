@@ -1,12 +1,8 @@
- Explore Games <ul>
-<li>Home</li>
+ Categories <ul>
+<li> Home </li>
 <li> Multiplayer <ul>
 <li> Social Games </li>
 <li> 2 player </li>
-<li> Casino Games </li>
-<li> MMO &amp.
-Strategy </li>
-<li> .io Games </li>
 </ul>
 </li>
 <li> Action <ul>
@@ -72,10 +68,45 @@ Strategy </li>
 <li> Boxing </li>
 </ul>
 </li>
+</ul> Sign In Categories <ul>
+<li>
+<p>{text} ({games_number})</p>
+</li>
+</ul> Games <ul>
+<li>
+<p>{text}</p>
+</li>
+</ul> View more results <ul>
+<li>
+<p>For you</p>
+</li>
+<li>
+<p>Specials</p>
+</li>
+<li>
+<p>Multiplayer</p>
+</li>
+<li>
+<p>Action</p>
+</li>
+<li>
+<p>Adventure</p>
+</li>
+<li>
+<p>Puzzle</p>
+</li>
+<li>
+<p>Girls</p>
+</li>
+<li>
+<p>Racing</p>
+</li>
+<li>
+<p>Sports</p>
+</li>
 </ul>
 <ul>
-<li>
-<p>For you</p> For you <ul>
+<li> For you <ul>
 </ul> My last played games <ul>
 <li>
 </li>
@@ -94,8 +125,7 @@ Strategy </li>
 <li>
 </li>
 </ul> FAVE GAMES <p>Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.</p> Join for free </li>
-<li>
-<p>Specials</p> Hot Games <ul>
+<li> Hot Games <ul>
 <li> Dreamfields </li>
 <li> Slotomania </li>
 <li> Diep.io </li>
@@ -120,8 +150,7 @@ Strategy </li>
 </li>
 </ul>
 </li>
-<li>
-<p>Multiplayer</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Social Games </li>
 <li> 2 player </li>
 <li> Casino Games </li>
@@ -133,15 +162,14 @@ Strategy </li>
 <li> Most popular </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
-<li> Family Barn </li>
-<li> Harvest Honors Classic </li>
-<li> Pyramid Solitaire Duel </li>
-<li> Crystical </li>
-<li> Klondike - the lost expedition </li>
+<li> Forge of Empires </li>
+<li> WeSpin </li>
+<li> Goodgame Empire </li>
 <li> Goodgame Poker </li>
-</ul> Spotlight Forge of Empires </li>
-<li>
-<p>Action</p> Top Categories <ul>
+<li> Klondike </li>
+<li> Family Barn </li>
+</ul> Spotlight Slotomania </li>
+<li> Top Categories <ul>
 <li> Arena Fighting </li>
 <li> Anime and Manga Games </li>
 <li> Shooting Games </li>
@@ -162,8 +190,7 @@ Souls: A Soul Adventure </li>
 <li> Sniper Team 2 </li>
 <li> Mighty Knight 2 </li>
 </ul> Spotlight Hero Simulator: Idle Adventure </li>
-<li>
-<p>Adventure</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Platform Games </li>
 <li> Physics </li>
 <li> Funny Games </li>
@@ -183,8 +210,7 @@ Souls: A Soul Adventure </li>
 <li> Tomb Runner </li>
 <li> Stealth Hunter </li>
 </ul> Spotlight Easy Joe World </li>
-<li>
-<p>Puzzle</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Casino Games </li>
 <li> Hidden Objects </li>
 <li> Colored Blocks </li>
@@ -204,8 +230,7 @@ Souls: A Soul Adventure </li>
 <li> Jewel Academy </li>
 <li> 3D Mahjong </li>
 </ul> Spotlight Mahjong Chain </li>
-<li>
-<p>Girls</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Animal Games </li>
 <li> Beauty Games </li>
 <li> Caring </li>
@@ -226,8 +251,7 @@ Souls: A Soul Adventure </li>
 <li> Disney Descendants: Smarte Couture </li>
 <li> Gingerbread House: Sara's Cooking Class </li>
 </ul> Spotlight My Dolphin Show 8 </li>
-<li>
-<p>Racing</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> BMX Games </li>
 <li> Truck Games </li>
 <li> Flight Games </li>
@@ -248,8 +272,7 @@ Souls: A Soul Adventure </li>
 <li> ATV Destroyer </li>
 <li> FMX Team </li>
 </ul> Spotlight Car Eats Car 2: Mad Dreams </li>
-<li>
-<p>Sports</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Athletics </li>
 <li> Basketball </li>
 <li> Billiards </li>
@@ -270,15 +293,7 @@ Souls: A Soul Adventure </li>
 <li> Baseball </li>
 <li> Snooker </li>
 </ul> Spotlight England Soccer League </li>
-</ul> Sign In Categories <ul>
-<li>
-<p>{text} ({games_number})</p>
-</li>
-</ul> Games <ul>
-<li>
-<p>{text}</p>
-</li>
-</ul> View more results privacy policy <ul>
+</ul> privacy policy <ul>
 <li>Home</li>
 <li>privacy policy</li>
 </ul>
