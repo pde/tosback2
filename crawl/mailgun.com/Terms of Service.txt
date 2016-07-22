@@ -39,7 +39,7 @@ You hereby release Rackspace and its employees, agents, affiliates, and third pa
 We do not encrypt Customer Data which you upload to the Mailgun Services, and it is stored (and transmitted) in similar fashion as you provide it.
 You are responsible for encrypting any sensitive data you use in conjunction with the Mailgun Services.
 Email sent using the Mailgun Services may be unsecured, may be intercepted by other users of the public internet, and may be stored and disclosed by third parties (such as a recipient’s email service provider).
-Although Mailgun Services include support for TLS, content will be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.</p>
+Although Mailgun Services include support for TLS, content may be transmitted even if the recipient does not also support TLS, resulting in an unencrypted transmission.</p>
 <p>
 <strong>4.5 Routing Data.</strong> Your email messages and other items sent or received via the mail service will include information that is created by the systems and networks that are used to create and transmit the message including information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information (“message routing data”).
 You agree that we may view and use the message routing data for our general business purposes, including maintaining and improving security, improving our services, and developing products.
@@ -52,5 +52,5 @@ You agree that we may use this information for our general business purposes and
 <p>
 <strong>5.
 HIPAA.</strong> If Rackspace is your “Business Associate” as defined in the Health Insurance Portability and Accountability Act of 1996, as amended, then the HIPAA Business Associate Addendum published at http://www.rackspace.com/information/legal/Mailgun-BAA as of the date that Rackspace becomes your Business Associate is part of the Agreement.</p>
-<p>© 2015 Rackspace US, Inc.</p>
-<p>November 4, 2015 revision</p> 
+<p>© 2016 Rackspace US, Inc.</p>
+<p>July 21, 2016 revision</p> 
