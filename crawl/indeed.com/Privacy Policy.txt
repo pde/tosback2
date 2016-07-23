@@ -113,17 +113,15 @@ For more information on other cookie settings offered in Safari, refer to the fo
 </p>
 <ul>
 <li>From the main menu, select ‘Settings’ (or ‘Preferences’, when using OS X)</li>
-<li>Click ‘Privacy &amp.
-security’ in the sidebar</li>
+<li>Click ‘Advanced’</li>
 <li>Under “Cookies”, select an option for handling cookies</li>
-<li>To enable cookies: Check ‘Allow local data to be set’ or ‘Keep local data only until I quit my browser’ depending on your preference</li>
-<li>To disable cookies: Check ‘Block sites from setting any data’ or ‘Block third-party cookies and site data’ depending on your preference</li>
+<li>To enable cookies: Check ‘Accept’ or ‘Accept only from the sites I visit’ depending on your preference</li>
+<li>To disable cookies: Check ‘Never accept cookies’</li>
 <li>Note there are various levels of cookie enablement and disablement in Opera.
-For more information on other cookie settings offered in Opera, refer to the following page from Opera Software: http://help.opera.com/opera/Windows/1967/en/controlPages.html#manageCookies
-</li>
+For more information on other cookie settings offered in Opera, refer to the following page from Opera Software: http://www.opera.com/help/tutorials/security/privacy/ </li>
 </ul>
 <p>
-<strong>Microsoft Internet Explorer 6.0, 7.0, 8.0, 9.0, 10.0, 11.0</strong>
+<strong>Microsoft Internet Explorer 6.0, 7.0, 8.0, 9.0, 10.0</strong>
 </p>
 <ul>
 <li>Click on ‘Tools’ at the top of your browser window and select ‘Internet Options’</li>
@@ -131,7 +129,19 @@ For more information on other cookie settings offered in Opera, refer to the fol
 <li>To enable cookies: Set the slider to ‘Medium’ or below</li>
 <li>To disable cookies: Move the slider to the top to block all cookies</li>
 <li>Note there are various levels of cookie enablement and disablement in Explorer.
-For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: http://windows.microsoft.com/en-us/windows-vista/Block-or-allow-cookies
+For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookie
+</li>
+</ul>
+<p>
+<strong>Microsoft Internet Explorer 11 for Windows 10</strong>
+</p>
+<ul>
+<li>Click on ‘Tools’ at the top of your browser window and select ‘Internet Options’</li>
+<li>In the options window navigate to the ‘Privacy’ tab</li>
+<li>To enabled cookies: Choose ‘Allow’ or ‘Be prompted for first and third party cookies,’ depending on your preferences</li>
+<li>To disable cookies: Choose ‘Block’</li>
+<li>Note there are various levels of cookie enablement and disablement in Explorer.
+For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
 </li>
 </ul>
 <p>
@@ -144,7 +154,7 @@ For more information on other cookie settings offered in Internet Explorer, refe
 <li>‘Block all cookies’ blocks all cookies that websites try to save to your computer.
 ‘Block only third party cookies’ blocks third party cookies, which are saved by external web services, such as ads embedded on webpages you have navigated to.</li>
 <li>Note there are various levels of cookie enablement and disablement in Edge.
-For more information on other cookie settings offered in Microsoft Edge, refer to the following page from Microsoft: http://windows.microsoft.com/en-us/windows-10/edge-privacy-faq
+For more information on other cookie settings offered in Microsoft Edge, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/12454/windows-10-microsoft-edge-privacy-faq
 </li>
 </ul>
 <p>If you disable all cookies, you may not be able to take advantage of all the features of this website.
@@ -160,7 +170,7 @@ This means that vendors including Google will display Indeed promotional materia
 <p>You may opt-out of Google Analytics for Display Advertisers including AdWords and opt-out of customized Google Display Network ads by visiting the Google Ads Preferences Manager.
 To provide website visitors more choice on how their data is collected by Google Analytics, Google has developed an Opt-out Browser add-on, which is available by visiting Google Analytics Opt-out Browser Add-on, to enable you to opt-out of Google’s programs.</p>
 <p>
-<b>Indeed marketing service providers.</b> If you do not want Indeed and its marketing services providers to follow your usage of our services via cookies and Web beacons, and to learn more about these providers and their privacy policies, please visit each site: Nielsen, comScore, Yandex (Russia website only), Optimizely, Marketo, Sift Science, Demandbase, Olark, Perfect Audience, Zendesk, Appsflyer, Facebooks, Twitter, Adometry, Sizmek, MediaCom, Mixpanel, Heap Analytics.
+<b>Indeed marketing service providers.</b> If you do not want Indeed and its marketing services providers to follow your usage of our services via cookies and Web beacons, and to learn more about these providers and their privacy policies, please visit each site: Nielsen, comScore, Yandex (Russia website only), Optimizely, Marketo, Sift Science, Demandbase, Olark, Perfect Audience, Zendesk, Appsflyer, Facebook, Twitter, Adometry, Sizmek, MediaCom, Mixpanel, Heap Analytics.
 Opting out of these services does not mean you will no longer receive online advertising.
 It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 </p>
@@ -345,8 +355,8 @@ Opting Out</strong>
 Please note that we may still send other messages to you, such as administrative messages.
 We will try to comply with your request as soon as reasonably practicable.</p>
 <strong>Indeed Terms of Service Introduction</strong>
-<p>Last Updated: July 7, 2016</p>
-<p>When you access or use Indeed’s online and/or mobile services and websites, and any software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”), including, but not limited to, the Indeed Ads Program, Indeed Resume Program (otherwise referred to as the Indeed CV Program in certain countries), Indeed MoBolt, Indeed Prime, Indeed Targeted Ads, Indeed Publisher Program, Indeed Apply, or any other service, (a) you represent that you have read and understand the Cookies Policy and Privacy Policy.
+<p>Last Updated: July 21, 2016</p>
+<p>When you access or use Indeed’s online and/or mobile services and websites, including any Indeed mobile application (collectively the “Indeed Apps”) regardless of where it is downloaded from, and any software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”), including, but not limited to, the Indeed Ads Program, Indeed Resume Program (otherwise referred to as the Indeed CV Program in certain countries), Indeed MoBolt, Indeed Prime, Indeed Targeted Ads, Indeed Publisher Program, Indeed Apply, or any other service, (a) you represent that you have read and understand the Cookies Policy and Privacy Policy.
 and (b) you are agreeing to the terms and conditions of these Terms of Service (the “Agreement”) with the following entity or entities:</p>
 <ul>
 <li>Indeed Brasil Pesquisa de Empregos ltda., AV.
@@ -407,6 +417,7 @@ full-time, part-time, etc.), and such job types are created independently and en
 <p>
 <strong>1(a) </strong>If you are a Job Seeker, any resume or application information that you submit through the Site is subject to this Agreement (including Section 4 below) and to Indeed’s Privacy Policy.
 Without limiting the foregoing, however, please note that by creating a public Indeed Resume through the Site, you are requesting and authorizing Indeed to make available your resume to any Employer that Indeed believes may have an interest in your resume.
+By creating or uploading an Indeed Resume, Indeed may contact you to share Job Listings with you that match the contents of your Indeed Resume.
 In addition, when you indicate your interest in a Job Listing through Indeed Apply (hereinafter, all references on the Site to “Apply Now”, “Easily Apply”, “Apply from your phone” or “Apply with Indeed” are referred to as “Indeed Apply”) you are sending your resume and application information to Indeed, and requesting and authorizing Indeed to make available that information to the applicable Employer(s) for such Job Listing(s).
 When you ask Indeed to transmit an application to an Employer via Indeed Apply, you understand that this is without warranty.
 Indeed does not, however, guarantee that any Employer will receive, access, read or respond to any such resume or application material, or that there will be no mistakes in the transmission of the data.
@@ -420,6 +431,7 @@ Indeed shall store such information regardless of whether a job vacancy has been
 <p>
 <strong>1(b) </strong>If you are an Employer, when you create a Career Site or post a Job Listing on the Site, whether as part of the Indeed Ads Program or otherwise, you agree that this Agreement and all of Indeed’s policies, including the Indeed Privacy Policy and Cookie Policy, apply to you and to the Job Seekers using such Career Sites or indicating an interest in such Job Listings.
 You also agree that, as a service to Job Seekers, Indeed may activate its Indeed Apply email relay function for use in connection with such Job Listing, and that any Job Seekers who wish to indicate an interest in such Job Listing may only do so through Indeed Apply.
+When you use the Indeed Apply email relay function, you acknowledge and agree that Indeed may add certain functions into the email, which allows you to take actions regarding the Job Seeker including setting up an interview, viewing a resume and rejecting a candidate, and that you consent to Indeed monitoring and analyzing these actions.
 Indeed is not responsible for the content of your application form, screener question or its format, and Indeed does not guarantee timely delivery, your receipt of the Job Seeker’s application or that there will be no mistakes in the transmission of the data.
 You agree that Indeed Apply is presented to you without warranty and Indeed assumes no responsibility for the communications between you and the Job Seeker, which communications are yours’ and the Job Seekers’ sole responsibility.
 By using any automated phone screen product, you agree that you are requesting Indeed to send a Job Seeker a telephone number, which the Job Seeker may call with the purpose of answering your telephone screening questions.
@@ -598,6 +610,8 @@ Indeed disclaims any responsibility for the deletion, failure to store, mis-deli
 Indeed disclaims any responsibility for any harm resulting from downloading or accessing any information or material on the Site or on other sites or services on the Internet accessed through the Site.
 Under no circumstances shall Indeed be liable to you or any third party on account of your use or misuse of or reliance on the Site.
 Additionally, under no circumstances shall Indeed be liable to you or any third party on account of your use or misuse of or reliance on any third party site or service you link to from Indeed’s Site.</p>
+<p>Indeed further disclaims all liability for any technical malfunction of the Site, including but not limited to failure of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email delivery, account login, or any other Services provided by Indeed as a result of technical problems or traffic congestion on the Internet or any any third party website or combination thereof, including injury or damage to your or to any other person’s computer, mobile device or other hardware or software, related to or resulting from using or downloading any Content in connection with the Site or Services.
+Under no circumstances will Indeed be responsible for any loss or damage to any content or personal injury or death, resulting from anyone’s use of the Site, Services, User Content, or third party applications, websites, software or content posted on or through the Site or transmitted to users or any interactions between users of the Site or Services, whether online or offline.</p>
 <p>THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE ARE PROVIDED “AS IS,” WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED.
 INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM TO THE FULLEST EXTENT PERMITTED BY LAW ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS.
 INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE.
@@ -736,6 +750,15 @@ Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement
 notwithstanding the foregoing, Indeed’s right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party.</p>
 <p>
 <strong>17.
+The Indeed Apps</strong>
+</p>
+<p>By using any of the Indeed Apps, including but not limited to the Indeed Job Search, Indeed Resume Search, Indeed Employer, Indeed Jobspotter or others, you agree that all of the terms and conditions found herein apply to your use of the Indeed App.
+Additionally, you agree that the Indeed App may send you push notifications, if you turn on receipt of notifications and/or sign up to receive notifications.
+By downloading and using the Indeed App, you are asking Indeed to make formatting changes to any Job Listings as they appear on your phone, in order to enable you to utilize your Indeed Resume.
+You further acknowledge that your use of the Indeed Apps may require use of your data plan from your cellular provider.
+You are responsible for payment of all data usage accrued based on your use of the Indeed App, and Indeed disclaims all responsibility for such data usage.</p>
+<p>
+<strong>18.
 Use of Site by Minors</strong>
 </p>
 <p>The Site is not directed to individuals under the age of fourteen (14), but if you are under the age of 18 or the age of majority in your jurisdiction, you must use Indeed under the supervision of a parent or legal guardian, or responsible adult.</p> B.
@@ -746,7 +769,9 @@ Indeed Resume/CV Program Terms <p>These Indeed Resume Program Terms or Indeed CV
 The Program</strong>
 </p>
 <p>Use of the Indeed Resume Program (“Program”) by an individual who posts his or her resume on the Site (hereinafter, “Resume Owner”) or Employer on or through the Site is subject to all applicable Indeed best-practice guidelines, policies and other terms and conditions made available to you, including through the Site, which may be modified at any time.
-You shall not use any information obtained from the Site except for internal use in selecting and contacting Resume Owners, through Indeed, for purposes of filling your Job Listings.</p>
+You shall not use any information obtained from the Site except for internal use in selecting and contacting Resume Owners, through Indeed, for purposes of filling your Job Listings.
+You are expressly forbidden from using any product or system intended to extract the information from a Resume, in order to circumvent the Resume contact system.
+Use of such system will result in your immediate termination from the Program.</p>
 <p>IMPORTANT NOTICE : YOU EXPRESSLY AGREE THAT: in purchasing or obtaining access to the Program, you agree to pay to Indeed the amount indicated on the Site so that Indeed will facilitate your sending of an email message, indicating your interest, to the email address that the relevant resume submitter has provided to Indeed.
 Indeed does not guarantee that the email address is still in use, that such email will be received, that such email will be read, that such email will be acted upon by any potential Resume Owner, or that any Resume Owner’s resume is valid, accurate or complete in any respect.
 In addition, in accord with the Agreement, you expressly agree that Indeed does not allow its Resume Contact service to be used in a spam like manner, which Indeed defines as sending requests for job positions to persons who are, as indicated by Indeed experience and Resume Owner behavior and reaction, unsuited for the role.
@@ -850,6 +875,8 @@ For example, we may require you to sponsor the following types of Job Ads: ident
 Additionally, Indeed may choose not to accept an employer’s XML feed or any job listings in an XML feed for any or no reason.
 If you are a job board, Indeed reserves the right to include or reject any or all of your job listings.
 For examples of why Indeed may stop accepting such job listings from job boards, refer to the Job Board Inclusion Guidelines.
+As a job board, you may only post job listings on the Site for your own company.
+you may not post job listings on the Site for your clients and if you do or attempt to do so, Indeed reserves the right to disable your account.
 You acknowledge that inclusion of jobs in violation of these guidelines on the Indeed Site may harm Indeed and its users.</i>
 </p>
 <p>
@@ -1120,6 +1147,9 @@ If no hires are made, the deposit is not returned.</p>
 Indeed may consider pre-paid volume discounts</p>
 <p>e.
 Under the pay-per-hire model, payment is due upon receipt of an invoice, unless agreed upon otherwise with your Prime Client Executive or Consultant.</p>
+<p>f.
+The pay-per-hire model can be canceled at any time.
+Hires initiated before cancellation are subject to the invoicing and payment stated above.</p>
 <li>Subscription Model:</li>
 <p>a.
 Under the Subscription Model, Employers agree to pay upfront an initial subscription fee for a period of time specified in any Indeed insertion order or online pricing page (each subscription period to be referred to as a “Term”).</p>
