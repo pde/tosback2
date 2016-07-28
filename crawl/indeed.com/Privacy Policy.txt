@@ -129,7 +129,7 @@ For more information on other cookie settings offered in Opera, refer to the fol
 <li>To enable cookies: Set the slider to ‘Medium’ or below</li>
 <li>To disable cookies: Move the slider to the top to block all cookies</li>
 <li>Note there are various levels of cookie enablement and disablement in Explorer.
-For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookie
+For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
 </li>
 </ul>
 <p>
@@ -138,7 +138,7 @@ For more information on other cookie settings offered in Internet Explorer, refe
 <ul>
 <li>Click on ‘Tools’ at the top of your browser window and select ‘Internet Options’</li>
 <li>In the options window navigate to the ‘Privacy’ tab</li>
-<li>To enabled cookies: Choose ‘Allow’ or ‘Be prompted for first and third party cookies,’ depending on your preferences</li>
+<li>To enable cookies: Choose ‘Allow’ or ‘Be prompted for first and third party cookies,’ depending on your preferences</li>
 <li>To disable cookies: Choose ‘Block’</li>
 <li>Note there are various levels of cookie enablement and disablement in Explorer.
 For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
@@ -161,6 +161,7 @@ For more information on other cookie settings offered in Microsoft Edge, refer t
 Consult your mobile device documentation for information on how to disable cookies.</p>
 <p>In addition, if you would like to remove yourself from Indeed's job seeker web beacon, you must click here.
 Indeed may also provide an employer with code for a Conversion Tracker to place on its website that pings the job seeker web beacon and tracks whenever a job seeker has applied to a job on that employer’s website.
+This Conversion Tracker will attribute an application to Indeed any time the job seeker started their search on Indeed, despite any intervening activity.
 Indeed does not and cannot collect any of the job seeker’s personally identifiable information and does not have access to the cookies in the employer’s domain.
 The Conversion Tracker is simply a counter that notifies Indeed that a job seeker has applied.
 If a jobseeker has disabled the web beacon, the Conversion Tracker will have no functionality.</p>
@@ -1221,7 +1222,8 @@ By posting a Targeted Ad on Indeed, you authorize Indeed to reformat the Job Ad 
  In order to participate in ITA, you must add Indeed’s conversion tracker snippet to your post-apply page (the “Post-Apply Page”).
  The Post-Apply Page on which you add Indeed’s conversion tracker snippet shall be determined by mutual agreement between you and Indeed.
  Any removal of the tracker snippet will disqualify you from the program and will entitle to Indeed to any resulting damages.
- It shall be your responsibility to inform your job applicants that such tracker snippet is in place.</p>
+ It shall be your responsibility to inform your job applicants that such tracker snippet is in place.
+The conversion tracker will attribute an application to Indeed any time the job seeker started their search on Indeed, despite any intervening activity.</p>
 <p>
 <strong>2.
 Cancellation</strong>
