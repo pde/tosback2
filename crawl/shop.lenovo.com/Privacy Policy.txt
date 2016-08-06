@@ -2,7 +2,7 @@
 <li> Products <ul>
 <li> Laptops </li>
 <li> Tablets </li>
-<li> Desktops &amp;<br> All-in-Ones </li>
+<li> Desktops &amp;<br>All-in-Ones </li>
 <li> Workstations </li>
 <li> Servers, Storage &amp.
 Networking </li>
@@ -13,32 +13,41 @@ Warranty </li>
 </ul>
 </li>
 <li> Deals <ul>
-<li> Explore All<br> Deals </li>
+<li> Current Offers <ol>
 <li> Home Laptop Deals </li>
 <li> Professional Laptop Deals </li>
 <li> Desktop Deals </li>
 <li> Tablet Deals </li>
-<li> Clearance Sale </li>
-<li> Deals for Students &amp.
-Educators </li>
-</ul>
+<li> Laptop Coupons </li>
+<li> Desktop Coupons </li>
+<li> Clearance PCs </li>
+<li> Deals for Students and Educators </li>
+</ol>
 </li>
-<li> Solutions <ul>
-<li> Small Business </li>
-<li> Large Enterprise </li>
-<li> Health </li>
-<li> Government </li>
-<li> K-12 Education </li>
-<li> Higher Education </li>
-<li> Business Partners </li>
-<li> Resource Center </li>
-<li> See All Solutions for Work </li>
+<?xml version="1.0" encoding="UTF-8"?>
+<li>
+Back to School Sale Great deals on select PCs and Tablets.<p>Sale ends August 3.</p>
+</li>
+<li>
+Clearance Sale Get these deals before they’re gone.
+Hurry While supplies last!<p>
+</p>
+</li>
+<li>
+Lenovo Preferred Card
+The Best Offers with Instant and Affordable Financing.<p>
+</p>
+</li>
 </ul>
 </li>
 <li> Support <ul>
-<li> Technical support </li>
-<li> Sales order help </li>
-<li> Existing order help </li>
+<li> SALES Sales order help Let us help decide what system is right for you </li>
+<li> ORDER SUPPORT Existing order help Check order status online or talk with an agent </li>
+<li> TECHNICAL SUPPORT Update drivers Stay up to date with the latest drivers and software </li>
+<li> TECHNICAL SUPPORT Search solutions Look up how-to guides and step-by-step instructions </li>
+<li> TECHNICAL SUPPORT Download manuals Read and download information for your Lenovo product </li>
+<li> TECHNICAL SUPPORT Support resources Tools and support for warranty, repair and diagnostics </li>
+<li> TECHNICAL SUPPORT Get technical help Contact a technical support agent for help with your Lenovo device </li>
 </ul>
 </li>
 </ul>
@@ -46,12 +55,16 @@ Educators </li>
 <li> Sales1-855-253-6686</li>
 <li>
 </li>
-<li>
-</li>
 <li> Stay in Touch <ul>
 <li> Email </li>
 <li> SMS </li>
 </ul>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
 </li>
 <li>
 </li>
@@ -60,17 +73,27 @@ Educators </li>
 <li>Lenovo recommends Windows.</li>
 </ul>
 <ul>
-<li> My Lenovo <ul>
-<li> Community </li>
-<li> Account </li>
-</ul>
-</li>
-<li> Contact Sales </li>
+<li> Phone </li>
 <li> Stay in Touch <ul>
 <li> Email </li>
 <li> SMS </li>
 </ul>
 </li>
+<li> For Work <ul>
+<li> Small Business </li>
+<li> Large Enterprise </li>
+<li> Health </li>
+<li> Government </li>
+<li> K-12 Education </li>
+<li> Higher Education </li>
+<li> Students </li>
+<li> Business Partners </li>
+<li> Resource Center </li>
+<li> See all solutions for work </li>
+</ul>
+</li>
+<li> Community </li>
+<li> Account </li>
 <li>
 </li>
 <li> Search <ul>
@@ -277,9 +300,6 @@ Ultrabooks <ol>
 <li> View all laptops </li>
 <li> Lenovo B Series </li>
 <li> Lenovo Flex Series </li>
-<li> Lenovo G Series </li>
-<li> Lenovo LaVie </li>
-<li> Lenovo N Series </li>
 <li> Lenovo S Series </li>
 <li> Lenovo U Series </li>
 <li> Lenovo Y Series </li>
@@ -290,7 +310,6 @@ Ultrabooks <ol>
 <li> ThinkPad Helix </li>
 <li> ThinkPad L </li>
 <li> ThinkPad T </li>
-<li> ThinkPad W </li>
 <li> ThinkPad X </li>
 <li> ThinkPad Yoga </li>
 <li> ThinkPad P </li>
@@ -323,15 +342,12 @@ Ultrabooks <ol>
 <ol>
 <li> Desktops <ol>
 <li> View all desktops </li>
-<li> A Series All-in-Ones </li>
-<li> B Series All-in-Ones </li>
 <li> C Series All-in-Ones </li>
 <li> H Series Towers </li>
 <li> Horizon Table PCs </li>
 <li> K Series Towers </li>
 <li> M Series All-in-Ones </li>
 <li> M Series SFF </li>
-<li> M Series Thin Clients </li>
 <li> M Series Tiny </li>
 <li> M Series Towers </li>
 <li> Q Series Minis </li>
@@ -360,11 +376,9 @@ Warranty </li>
 <li> Lenovo Holiday Deals </li>
 <li> Lenovo Preferred Card </li>
 <li> Trade-In Program </li>
-<li> Lenovo Gift Cards </li>
 <li> Lenovo Photo Service </li>
 <li> Gaming Computers </li>
 <li> Yoga Computers </li>
-<li> Discover Lenovo </li>
 <li> New Product Showcase </li>
 <li> New Product Announcements </li>
 <li> Outlet </li>
@@ -393,17 +407,13 @@ Home Office </li>
 <li> Affiliate Program </li>
 <li> Product Compliance </li>
 <li> Training </li>
-<li> Blogs </li>
 <li> Affinity Discount Program </li>
 <li> Customer Feedback </li>
-<li> Forums </li>
-<li> Help Me Find a PC </li>
 <li> Reset my Homepage </li>
 <li> Community </li>
 </ul>
 </li>
 <li> Customer Support <ul>
-<li> Contact Us </li>
 <li> Shopping Help </li>
 <li> FAQs </li>
 <li> Order Status </li>
@@ -411,4 +421,4 @@ Home Office </li>
 </ul>
 </li>
 </ul> trusteValidation <small>2016 Lenovo.
-All rights reserved.</small> Email this pagePrint this pagePrivacySite MapTerms of UseExternal Submission Policy 
+All rights reserved.</small> Print this pagePrivacySite MapTerms of UseExternal Submission PolicySales Terms and Conditions 
