@@ -1,15 +1,25 @@
- Last.fm <ul>
-<li> Join </li>
-<li> Login </li>
-</ul> Toggle navigation <ul>
+ Last.fm Search
+SearchSearch Toggle navigation<ul>
 <li>Live</li>
 <li>Music</li>
 <li>Events</li>
 <li>Features</li>
-<li>Subscribe</li>
-<li> Login </li>
+<li> Subscribe </li>
 <li> Join </li>
-</ul> Search Search Search Privacy Policy <p>
+<li> Login </li>
+</ul>
+<ul>
+<li>Live</li>
+<li>Music</li>
+<li>Events</li>
+<li>Features</li>
+</ul>
+<ul>
+<li>Join</li>
+<li>Login</li>
+</ul>
+<p> A new version of Last.fm is available, to keep everything running smoothly, please reload the site.
+</p> Privacy Policy <p>
 <strong>Updated on:</strong> Tuesday 15 January 2013 </p>
 <ul>
 <li>We have a pretty simple privacy policy.
