@@ -19,8 +19,8 @@
 Please enter your ZIP Code:</p> GO  &gt.
 <p>
 </p>
-<p>Our services may not be available in ${twcprofile/zipcode}.
-If this is not your ZIP Code, please enter your ZIP Code here.
+<p>Your current location is ${twcprofile/zipcode}.
+If this is incorrect, please update your ZIP Code.
 If it is correct, visit cablemover.com to contact the cable provider that serves your area or call 1-855-394-6832.</p> GO <p>
 </p>
 <p>Your current location is ${twcprofile/zipcode}.
@@ -242,10 +242,8 @@ Contacting Us
 </li>
 <li> Facebook </li>
 <li> Twitter </li>
-<li> Untangled </li>
 <li> Instagram </li>
 <li> YouTube </li>
-<li> Mi Cultura </li>
 </ul>
 <ul>
 <li> Privacy Policy </li>
