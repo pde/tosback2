@@ -1,13 +1,13 @@
- <p>Effective as of September 1, 2015</p>
+ <p>Effective as of October 18, 2016</p>
 <p>Pandora operates a personalized Internet radio service and related platform features available through the web at pandora.com, on mobile devices and tablets, in automobiles, and through other consumer electronic devices (the "<strong>Pandora Service</strong>" or "<strong>Service</strong>").
-As we use it in this policy, "<strong>Pandora</strong>" refers to Pandora Media, Inc.
+As used in this policy, "<strong>Pandora</strong>" refers to Pandora Media, Inc.
 and its subsidiaries.
 This policy applies to all Pandora-authorized operations of the Service.
 We may refer to Pandora as "<strong>we</strong>", "<strong>us</strong>", or "<strong>our</strong>".
 We may refer to you as "<strong>listener</strong>", "<strong>you</strong>", or "<strong>your</strong>".
 The purpose of this policy is to inform you about the information we collect, how we use and share that information, and the ways in which you can control how we use and share that information.
 By submitting your information through our Service, you agree to the terms of this policy and you expressly consent to the collection, use, and disclosure of your information in accordance with this policy.</p> 1.
-Information We Receive or Collect From You <p>
+Information We Receive or Collect from You <p>
 <strong>Registration Data</strong>: When you register, we ask you to provide certain information, which includes your email address, birth year, gender, and zip code (the "<strong>Registration Data</strong>"), as well as a password for your account.</p>
 <p>
 <strong>Payment Information</strong>: If you choose to subscribe to fee-based portions of the Service, purchase a subscription to the Service as a gift, or purchase add-on products or services, you will also be asked to provide (at a minimum) your name and credit card information ("<strong>Payment Information</strong>").</p>
@@ -32,10 +32,15 @@ The email address you provided as part of your Registration Data is not consider
 For example, our servers receive and store information about your computer and browser, including your Internet Protocol (IP) address, browser type, and other related software or hardware information.
 If you access the Service from a mobile phone, tablet, automobile, or other electronic device, we may collect and store information such as device type, operating system version and type, unique identifiers (such as Android Advertising ID, VIN, MAC address, and IDFA), carrier, and other related information for that device.</p>
 <p>
-<strong>Location Information</strong>: As part of registration for the Pandora Service, you agree to provide us with, and allow us to use, your zip or postal code.
+<strong>Location Information</strong>: There are certain features on the Service that, should you choose to use them, will require you to provide personal information about your friends (“<strong>Third Party Personal Information</strong>”).
+If you choose to provide Third Party Personal Information in connection with such features, we may store and use the information for purposes of providing those features.
+By way of example, if you choose to purchase a subscription to the Service for a friend (“give a gift” feature) or share information appearing on the Service with a friend (“share via email” feature), we may ask for your friend’s name and email address to provide the gift (“give a gift”) or share the information (“share via email”).
+We may also use Third Party Personal Information for related purposes, such as to prevent fraud.</p>
+<p>
+<strong>Third Party Personal Information</strong>: As part of registration for the Pandora Service, you agree to provide us with, and allow us to use, your zip or postal code.
 Additionally, we may collect and use approximated or realtime location information, such as GPS location, from devices you use to access the Pandora Service.
 We will provide you with notice and an opportunity to consent before we access and collect your realtime location information, and depending on your device manufacturer, you may have the ability to revoke this consent at any time.</p> 2.
-Information We Receive or Collect From Third Parties <p>We may receive or collect information about you from third parties, and combine and store it on our servers with other information we may have already received or collected from you.
+Information We Receive or Collect from Third Parties <p>We may receive or collect information about you from third parties, and combine and store it on our servers with other information we may have already received or collected from you.
 These third parties include:</p>
 <ul>
 <li>Service partners that provide or make available advertising, features and functionality, and content on or through the Service.</li>
@@ -108,7 +113,7 @@ We do use Contact Information, however, to contact you, and to provide you with 
 For example, if you participate in Pandora's Thumb Rewards program by opting to receive an artist-related reward, or personal call with an artist, we may use your Contact Information to deliver the reward to you, or to contact you and facilitate the call.
 If you provided your Contact Information as part of your use of Pandora's Artist Marketing Platform, we may use your Contact Information to update you on new features and functionality made available as part of the Artist Marketing Platform, or the status of your music submission.
 You may at any time request that we cease using your Contact Information by contacting Listener Support.</p> 5.
-How We Share Information We Receive or Collect With Others <p>
+How We Share Information We Receive or Collect with Others <p>
 <strong>How Your Information Is Shared</strong>: Pandora may share information we receive or collect in a variety of ways, such as:</p>
 <ul>
 <li>When you give Pandora permission through an affirmative election (for example, clicking "yes" in response to a message such as "share my email with this advertiser").</li>
@@ -210,8 +215,8 @@ For detailed instructions on how to adjust your Pandora profile visibility setti
 <p>
 <strong>Cached Profiles on Search Engines</strong>: Please note that although we may deactivate your account or make your profile private at your request, Internet search engines such as Google and Bing cache publicly available webpages for a period of time beyond the control of Pandora, and may make your deactivated or formerly public profile available to users of their services on their platforms until such time as they refresh their webpage cache.
 Please consult with the applicable search engine to determine how you may remove webpages from their webpage cache.</p> 8.
-Security and Content From Other Websites <p>
-<strong>Protection of Data From Loss</strong>: We have implemented security measures designed to protect against the loss, misuse, and alteration of the information we collect or receive from you.
+Security and Content from Other Websites <p>
+<strong>Protection of Data from Loss</strong>: We have implemented security measures designed to protect against the loss, misuse, and alteration of the information we collect or receive from you.
 For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 However, despite our efforts, no security measures are perfect or impenetrable.
 If you have any questions about security on our Service, you can contact our Listener Support team.</p>
@@ -236,15 +241,11 @@ Like many other websites and online services, we do not currently alter our prac
 To find out more about "Do Not Track," you may wish to visit www.allaboutdnt.com/.
 </p>
 11.
-European Union-Swiss Safe Harbor <p>Pandora adheres to the set of data protection principles developed by the United States Department of Commerce, in collaboration with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, which produced the U.S.-European Union Safe Harbor Framework Documents and U.S.-Swiss Safe Harbor Framework Documents.
-The privacy principles in this policy are based on these Safe Harbor Principles, including as they relate to personal information transferred from the European Union ("<strong>EU</strong>") and/or Switzerland to the United States ("<strong>U.S.</strong>").</p>
-<p>Pandora has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
-To learn more about the Safe Harbor program, and to view the status of Pandora's certification, please visit https://www.export.gov/safeharbor/.</p> 12.
 Transfer of Information of International Listeners <p>Please note that the information you submit to us may be transferred to the U.S.
 and other countries to be processed by us or our service providers in order to provide the Service to you or for such other purposes as set forth in this policy.
 If you are not a resident of the U.S., you hereby consent and agree that we may collect, process, use, and store your information, as discussed in this policy, outside your resident jurisdiction, including in the U.S.
 Please be aware that U.S.
-law and the laws of other countries where we may store and process your information may offer different levels of protection for information than may be available in your country.</p> 13.
+law and the laws of other countries where we may store and process your information may offer different levels of protection for information than may be available in your country.</p> 12.
 Changes to our Privacy Policy <p>We will continue to evaluate this policy against new technologies, business practices, Safe Harbor requirements, and our listeners' needs, and may make changes to the policy accordingly.
 Please check this page periodically for updates.
 If we make any material changes to this policy, we will post the updated terms of the policy on the Service, and provide you notice of such chances, which may include notice by email through a message sent to the email address you use to access the Service, or posting a message on the Service.</p>
@@ -253,7 +254,7 @@ These changes will be effective immediately for new users of the Service.
 Please note that at all times you are responsible for updating your information to provide us with your most current email address.
 In the event that the last email address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
 If you do not wish to permit changes in our use of your information, you must notify us prior to the effective date of the changes that you wish to deactivate your account.
-Continued use of the Service following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p> 14.
+Continued use of the Service following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p> 13.
 Governance <p>
 <strong>Enforcement</strong>: Pandora will conduct compliance audits of our relevant privacy practices to verify adherence to this policy and will self-certify with the U.S.
 Department of Commerce for the purposes of EU Safe Harbor compliance.
@@ -264,11 +265,5 @@ any employee that we determine is in violation of this policy may be subject to 
 <p>
 <strong>Dispute Resolution</strong>: Questions or concerns regarding our use or disclosure of information may be directed to our Listener Support team.
 Pandora will investigate and attempt to resolve complaints and disputes regarding use and disclosure of information in accordance with the principles contained in this policy.
-For complaints that cannot be resolved between Pandora and the complainant, Pandora agrees to cooperate with the respective data protection authorities located in the applicable country (or their authorized representatives) and participate in any dispute resolution procedures established by such authorities.</p>
-<p>
-<strong>TRUSTe Privacy Seal</strong>: Pandora has received TRUSTe's Privacy Seal signifying that this policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-The TRUSTe certification covers only information collected through the website: www.pandora.com and the Pandora mobile application and does not cover the collection of information collected through other downloadable software, automobiles, and other consumer electronic devices.
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.</p>
-<p>
-</p> 15.
+For complaints that cannot be resolved between Pandora and the complainant, Pandora agrees to cooperate with the respective data protection authorities located in the applicable country (or their authorized representatives) and participate in any dispute resolution procedures established by such authorities.</p> 14.
 Contact Us <p>If you have any questions about this privacy policy, or the privacy practices of Pandora, contact our Listener Support team for more information, or write to us at Attn: Listener Support, Pandora Media, Inc., 2101 Webster Street, Suite 1650, Oakland, CA 94612 USA.</p> 
