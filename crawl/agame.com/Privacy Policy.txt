@@ -1,11 +1,12 @@
- Explore Games <ul>
-<li>Home</li>
+ Categories <ul>
+<li> Home </li>
 <li> Multiplayer <ul>
 <li> Social Games </li>
 <li> 2 player </li>
 <li> Casino Games </li>
 <li> MMO &amp.
 Strategy </li>
+<li> .io Games </li>
 </ul>
 </li>
 <li> Action <ul>
@@ -23,7 +24,6 @@ Strategy </li>
 <li> Physics </li>
 <li> Funny Games </li>
 <li> Simulation </li>
-<li> Minecraft Games </li>
 <li> Scary Games </li>
 <li> Ninja Games </li>
 </ul>
@@ -71,10 +71,45 @@ Strategy </li>
 <li> Boxing </li>
 </ul>
 </li>
+</ul> Sign In Categories <ul>
+<li>
+<p>{text} ({games_number})</p>
+</li>
+</ul> Games <ul>
+<li>
+<p>{text}</p>
+</li>
+</ul> View more results <ul>
+<li>
+<p>For you</p>
+</li>
+<li>
+<p>Specials</p>
+</li>
+<li>
+<p>Multiplayer</p>
+</li>
+<li>
+<p>Action</p>
+</li>
+<li>
+<p>Adventure</p>
+</li>
+<li>
+<p>Puzzle</p>
+</li>
+<li>
+<p>Girls</p>
+</li>
+<li>
+<p>Racing</p>
+</li>
+<li>
+<p>Sports</p>
+</li>
 </ul>
 <ul>
-<li>
-<p>For you</p> For you <ul>
+<li> For you <ul>
 </ul> My last played games <ul>
 <li>
 </li>
@@ -93,21 +128,20 @@ Strategy </li>
 <li>
 </li>
 </ul> FAVE GAMES <p>Are you a existing user? Then log in to see you favorited games here! Don't have an account yet? Be sure to sign up to use this feature.</p> Join for free </li>
-<li>
-<p>Specials</p> Hot Games <ul>
+<li> Hot Games <ul>
+<li> Slotomania </li>
 <li> Klondike - the lost expedition </li>
-<li> Golden Frontier </li>
-<li> Easy Joe World app </li>
-<li> Five Night's at Golden Freddy's </li>
-<li> Park My Car </li>
-<li> SuperSnake.io </li>
+<li> Hero Simulator: Idle Adventure </li>
+<li> SuperOrbit.io </li>
+<li> Jewel Burst </li>
+<li> Slither.io </li>
 </ul> Mobile Apps More <ul>
-<li> Cloud Critters </li>
+<li> Troll Face Quest Video Games </li>
+<li> Hero Simulator: Idle Adventure </li>
 <li> Troll Face Quest Video Memes </li>
 <li> My Dolphin Show </li>
-<li> Troll Face Quest Unlucky </li>
 <li> Crash Drive 2 </li>
-<li> Mad Truck Challenge </li>
+<li> Mad Truck Challenge: The Beginning </li>
 </ul> Specials <ul>
 <li>
 </li>
@@ -119,27 +153,27 @@ Strategy </li>
 </li>
 </ul>
 </li>
-<li>
-<p>Multiplayer</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Social Games </li>
 <li> 2 player </li>
 <li> Casino Games </li>
 <li> MMO &amp.
 Strategy </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+<li> .io Games </li>
+</ul> All Multiplayer Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
-<li> Family Barn </li>
-<li> Harvest Honors Classic </li>
-<li> Pyramid Solitaire Duel </li>
-<li> Crystical </li>
-<li> Klondike - the lost expedition </li>
+<li> Forge of Empires </li>
+<li> Jackpot </li>
+<li> Goodgame Empire </li>
 <li> Goodgame Poker </li>
-</ul> Spotlight Forge of Empires </li>
-<li>
-<p>Action</p> Top Categories <ul>
+<li> Klondike </li>
+<li> Family Barn </li>
+</ul> Spotlight Slotomania </li>
+<li> Top Categories <ul>
 <li> Arena Fighting </li>
 <li> Anime and Manga Games </li>
 <li> Shooting Games </li>
@@ -147,31 +181,31 @@ Strategy </li>
 <li> Tower Defence </li>
 <li> War Games </li>
 <li> Zombie Games </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Action Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Swords &amp.
 Souls: A Soul Adventure </li>
-<li> Xibalba </li>
+<li> Hero Simulator: Idle Adventure </li>
 <li> Takeover </li>
 <li> Super Mechs </li>
 <li> Sniper Team 2 </li>
 <li> Mighty Knight 2 </li>
-</ul> Spotlight Hero Simulator: Idle Adventure </li>
-<li>
-<p>Adventure</p> Top Categories <ul>
+</ul> Spotlight SuperSnake.io </li>
+<li> Top Categories <ul>
 <li> Platform Games </li>
 <li> Physics </li>
 <li> Funny Games </li>
 <li> Simulation </li>
-<li> Minecraft Games </li>
 <li> Scary Games </li>
 <li> Ninja Games </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Adventure Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Papa Louie 3: When Sundaes Attack </li>
@@ -181,8 +215,7 @@ Souls: A Soul Adventure </li>
 <li> Tomb Runner </li>
 <li> Stealth Hunter </li>
 </ul> Spotlight Easy Joe World </li>
-<li>
-<p>Puzzle</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Casino Games </li>
 <li> Hidden Objects </li>
 <li> Colored Blocks </li>
@@ -190,9 +223,10 @@ Souls: A Soul Adventure </li>
 <li> Match 3 </li>
 <li> Card Solitaire </li>
 <li> Bubble Shooter </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Puzzle Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Mahjong Link </li>
@@ -200,10 +234,9 @@ Souls: A Soul Adventure </li>
 <li> Fitz! </li>
 <li> Spider Soli </li>
 <li> Jewel Academy </li>
-<li> 3D Mahjong </li>
+<li> Bubble Shooter </li>
 </ul> Spotlight Mahjong Chain </li>
-<li>
-<p>Girls</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Animal Games </li>
 <li> Beauty Games </li>
 <li> Caring </li>
@@ -212,20 +245,20 @@ Souls: A Soul Adventure </li>
 <li> Dress Up </li>
 <li> Love Games </li>
 <li> Princess Games </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Girls Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Papa’s Cheeseria </li>
 <li> Shopaholic: Hollywood </li>
 <li> My Puppy Play Day </li>
 <li> My New Room 2 </li>
-<li> Disney Descendants: Smarte Couture </li>
+<li> Hair Do Design </li>
 <li> Gingerbread House: Sara's Cooking Class </li>
-</ul> Spotlight My Dolphin Show 8 </li>
-<li>
-<p>Racing</p> Top Categories <ul>
+</ul> Spotlight My Dolphin Show World </li>
+<li> Top Categories <ul>
 <li> BMX Games </li>
 <li> Truck Games </li>
 <li> Flight Games </li>
@@ -234,20 +267,20 @@ Souls: A Soul Adventure </li>
 <li> Parking </li>
 <li> Boat Racing </li>
 <li> Stunt Driving </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Racing Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Valvoline Race of the Decades </li>
 <li> 4x4 Soccer </li>
-<li> Renegade Racing </li>
+<li> Mad Day 2 </li>
 <li> Bus Man Parking 3D </li>
 <li> ATV Destroyer </li>
 <li> FMX Team </li>
 </ul> Spotlight Car Eats Car 2: Mad Dreams </li>
-<li>
-<p>Sports</p> Top Categories <ul>
+<li> Top Categories <ul>
 <li> Athletics </li>
 <li> Basketball </li>
 <li> Billiards </li>
@@ -256,9 +289,10 @@ Souls: A Soul Adventure </li>
 <li> Golf </li>
 <li> Soccer </li>
 <li> Boxing </li>
-</ul> Browse By <ul>
-<li> Recently Added </li>
+</ul> All Sports Browse By <ul>
 <li> Most popular </li>
+<li> Most played </li>
+<li> Recently Added </li>
 <li> Alphabetical Order </li>
 </ul> Best Games <ul>
 <li> Billiards Master Pro </li>
@@ -268,15 +302,7 @@ Souls: A Soul Adventure </li>
 <li> Baseball </li>
 <li> Snooker </li>
 </ul> Spotlight England Soccer League </li>
-</ul> Sign In Categories <ul>
-<li>
-<p>{text} ({games_number})</p>
-</li>
-</ul> Games <ul>
-<li>
-<p>{text}</p>
-</li>
-</ul> View more results privacy policy <ul>
+</ul> privacy policy <ul>
 <li>Home</li>
 <li>privacy policy</li>
 </ul>
