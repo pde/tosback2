@@ -71,7 +71,15 @@ Strategy </li>
 <li> Boxing </li>
 </ul>
 </li>
-</ul> Sign In Categories <ul>
+</ul> Sign In <p>Pick a theme</p>
+<ul>
+<li>
+Red</li>
+<li>
+Blue</li>
+<li>
+Pink</li>
+</ul> Categories <ul>
 <li>
 <p>{text} ({games_number})</p>
 </li>
