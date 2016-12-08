@@ -1,7 +1,99 @@
- Toggle navigationSuperpages Online Yellow Pages, Local Business Directory <ul>
+ Toggle navigationSuperpages Online Yellow Pages, Local Business Directory
+ <i>
+</i>
+<ul>
+<li> </li>
+<li>Join</li>
+<li>•</li>
+<li>Sign In</li>
+<li>•</li>
+<li>
+</ul>
+<ul>
 <li> </li>
 <li>
-Find <ul>
+<ul>
+<li>Welcome {{user.username | limitTo:15}}{{user.username.length &gt.
+15 ? "..." : ""}}</li>
+<li>My Superpages</li>
+<li>Sign out</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>
+<i>
+</i>Welcome {{user.username | limitTo:15}}{{user.username.length &gt.
+15 ? "..." : ""}}!
+</li>
+<li>
+<i>
+</i>Sign Out
+</li>
+<li>
+<i>
+</i>My Superpages<ul>
+<li>
+<i>
+</i>Favorites
+</li>
+<li>
+<i>
+</i>Reviews
+</li>
+<li>
+<i>
+</i>Coupons
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<i>
+</i>Sign In
+</li>
+<li>
+<i>
+</i>Join
+</li>
+</ul>
+<ul>
+<li>
+<i>
+</i>People Search
+</li>
+<li>
+<i>
+</i>Lottery Results
+</li>
+<li>
+<i>
+</i>Weather
+</li>
+<li>
+<i>
+</i>Maps
+</li>
+<li>
+<i>
+</i>Cars
+</li>
+<li>
+<i>
+</i>Popular Categories
+</li>
+<li>
+<i>
+</i>State Directory
+</li>
+</ul>
+</li>
+<li> </li>
+<li>
+Browse <ul>
 <li>People</li>
 <li>
 </li>
@@ -25,26 +117,6 @@ Find <ul>
 </li>
 <li>Advertise With Us</li>
 </ul>
-<ul>
-<li> </li>
-<li>Join</li>
-<li>•</li>
-<li>Sign In</li>
-<li>
-</ul>
-<ul>
-<li> </li>
-<li>
-<ul>
-<li>Welcome {{user.username | limitTo:15}}{{user.username.length &gt.
-15 ? "..." : ""}}</li>
-<li>My Superpages</li>
-<li>Sign out</li>
-</ul>
-</li>
-</ul>
- <i>
-</i>
 <ol>
 <li>Home</li>
 <li>About Us &amp.
@@ -319,10 +391,11 @@ Directions</li>
 <li>Contact Us</li>
 <li>Patents</li>
 <li>Site Map</li>
-</ul> Claim Your Free Listing
-<p>Claim your free business listing on Superpages.
-The more information you provide about your business, the easier it will be for your customers to find you online.</p>
-Get Your Free Listing Copyright © {{date | date:'yyyy'}} Dex Media, Inc.
+</ul> Free Listing <p> Claim your free business listing</p>
+<p>on Superpages.
+The more information you provide about your business, the easier it will be for customers to find you online.</p>
+Claim This Business Copyright © {{date | date:'yyyy'}} Dex Media, Inc.
 All rights reserved.
-| Terms &amp.
-Conditions | Privacy Policy Connect with us on 
+Terms of Use.
+Privacy Policy.
+Connect with us on 
