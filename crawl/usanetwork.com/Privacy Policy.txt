@@ -388,7 +388,9 @@ Back To Menu
 </li>
 <li> Search
 </li>
-</ul> NBCUniversal <p>   </p> Search form Search <p>X</p> Privacy <ul>
+</ul> NBCUniversal Error message
+<em>Notice</em>: Undefined offset: 1 in <em>drupal_settings_initialize()</em> (line <em>774</em> of <em>/var/www/nbcuni/includes/bootstrap.inc</em>).
+<p>   </p> Search form Search <p>X</p> Privacy <ul>
 <li>Home &amp.
 Summary</li>
 <li>Full Privacy Policy</li>
