@@ -15,8 +15,9 @@
 </ul>
 </li>
 </ul>
-<ul>
-<li>
+<ul> To required<p>Please enter an email address </p>
+<p>Please enter a valid email address </p>
+<p> Use commas to separate multiple email addresses (Maximum 8) </p> Subject Message Send ItineraryCancel <li>
 <ul>
 <li>
 Your notifications1 <ul>
@@ -34,8 +35,8 @@ Your notifications1 <ul>
 <li> Create an Account </li>
 </ul>
 </li>
-<li> My Scratchpad   <p>Things you view while shopping are saved here.</p>
-<p>loading your Scratchpad...</p>
+<li> My Scratchpad   <p>loading your Scratchpad...</p>
+<p>Things you view while shopping are saved here.</p>
 <ul>
 </ul> View Scratchpad </li>
 <li> My Trips </li>
