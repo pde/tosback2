@@ -60,7 +60,7 @@ safety </li>
 <li> NFL Now </li>
 <li> NFL Network </li>
 </ul> NFL.com - Privacy Policy English Deutsch Francais <p>
-<b>Effective Date: August 16, 2001<br> Updated: July 18, 2016</b>
+<b>Effective Date: August 16, 2001<br> Updated: December 19, 2016</b>
 <br>
 </p>
 <br>
@@ -101,7 +101,7 @@ However, we may ask you for some or all of the following types of information wh
 <li>Unique identifiers, such as a user name or password;</li>
 <li>Demographic information, such as gender;</li>
 <li>Financial information, such as credit card or other payment information;</li>
-<li>Geolocation information;</li>
+<li>Real-time Geolocation information;</li>
 <li>Communications preferences;</li>
 <li>Search queries;</li>
 <li>Comments and other information posted in our interactive online forums;</li>
@@ -214,7 +214,7 @@ For example, if you win a contest or sweepstakes, we may ask your permission to 
 <b>Geolocation Information</b>: We may share your geolocation information with service providers that perform certain functions or services on our behalf.
 These companies are authorized to use precise geolocation information only as necessary to provide these services to us.
 We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising.
-If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.</p>
+If you wish to stop the further collection of your geolocation information, whether collected through location services, Bluetooth, or microphone access technology, please opt-out using your device settings.</p>
 </li>
 </ul>
 <p>
@@ -251,7 +251,9 @@ Advertising</b>
 </p>
 <p>We partner with third party advertisers to serve and display advertising on the Services.
 These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising.
-If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here.</p>
+If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here.
+To serve and display advertising relevant to your location, the Services may also track your device's precise geolocation by responding to beacons or inaudible signals sent to your device's microphone.
+If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.</p>
 <p>
 <b>6.
 Social Networking</b>
