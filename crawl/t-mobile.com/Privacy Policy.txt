@@ -1,4 +1,4 @@
- T-Mobile Privacy Policy November 25, 2015 <br>Please click here for Spanish version of the T-Mobile Privacy Policy <br>Please click here for the T-Mobile Privacy Policy Highlights <br>
+ T-Mobile Privacy Policy December 31, 2016 <br>Please click here for Spanish version of the T-Mobile Privacy Policy <br>Please click here for the T-Mobile Privacy Policy Highlights <br>
 <br>
 <p>This Privacy Policy ("Policy") describes how information about you is collected, used, and disclosed by T-Mobile USA, Inc.
 ("T-Mobile") and provides other important privacy information, describes when and how we may change this Policy, and tells you how to contact us with any questions or comments.</p>
@@ -32,6 +32,10 @@ Financial information we collect is governed by T-Mobiles Financial Privacy Po
 <p>We may collect performance and diagnostic data about your use of our network, networks you roam on, WiFi services or your device.
 For example, we may collect information about the performance of the device, signal strength, dropped calls, data failures, battery strength and other device or network performance issues.
 We may also collect information about applications on your device, the fact that an application has been added, when an application is launched or fails to launch, and length of time an application has been running.</p>
+<strong>Telematics</strong>
+<p>If you are a customer of the T-Mobile SyncUp connected car service, we, and our application provider, collect data from the SyncUp device in your car.
+This data includes driver behavior information such as acceleration and braking, speed, and RPM.
+The device also reports vehicle location via GPS and can report on common vehicle issues called Diagnostic Trouble Codes (DTC).</p>
 <strong>Video Data</strong>
 <p>When you use a T-Mobile video application, for example T-Mobile TV, on your device, we may collect information about the programs you watch to determine customer viewing habits so that we can tailor video selections to you or our customers.</p>
 <strong>Back Up and Cloud Services</strong>
@@ -50,24 +54,37 @@ We encourage parents to be involved in the online activities (including wireless
 <p>T-Mobile collects information about you in three primary ways:</p>
 <strong>Information You Provide</strong>
 <p>We collect information that you provide to us when you apply for, purchase, or use our products or services, or otherwise communicate with us.</p> For example, some of the ways you may provide information to us include: <ul>
-<li>When you sign up for our voice or data services or purchase other products or services, we may collect personal contact, billing, and credit information.</li>
-<li>When you establish or modify an online account, we may collect user identification information, passwords, and/or security question responses that you will use for future sign-on.</li>
-<li>When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information.
-We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our customer service representatives or other employees or representatives.</li>
-<li>When you use our services on a phone provided to you by an account holder.</li>
+<li>
+<p>When you sign up for our voice or data services or purchase other products or services, we may collect personal contact, billing, and credit information.</p>
+</li>
+<li>
+<p>When you establish or modify an online account, we may collect user identification information, passwords, and/or security question responses that you will use for future sign-on.</p>
+</li>
+<li>
+<p>When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information.
+We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our customer service representatives or other employees or representatives.</p>
+</li>
+<li>
+<p>When you use our services on a phone provided to you by an account holder.</p>
+</li>
 </ul>
 <strong>Information We Collect Automatically</strong>
 <p>We automatically collect a variety of information associated with your use of your device (on our network, when roaming, or in WiFi mode) and our products and services, some of which may be associated with you or another user on your account.</p>
 <br> For example some of the ways we may automatically collect information include: <ul>
-<li>Our systems capture details about the type and location of wireless device(s) you use, when the device is turned on, calls and text messages you send and receive (but we do not retain the content of those calls or messages after delivery), and other data services you use.</li>
-<li>We may also gather information about the performance of your device and our network.
-Some examples of the types of data collected include: the applications on the device, signal strength, dropped calls, data failures, and other device or network performance issues.</li>
+<li>
+<p>Our systems capture details about the type and location of wireless device(s) you use, when the device is turned on, calls and text messages you send and receive (but we do not retain the content of those calls or messages after delivery), and other data services you use.</p>
+</li>
+<li>
+<p>We may also gather information about the performance of your device and our network.
+Some examples of the types of data collected include: the applications on the device, signal strength, dropped calls, data failures, and other device or network performance issues.</p>
+</li>
 <li>
 <strong>Cookies, Web Beacons, and Similar Technologies</strong>
 <p>We may use, or we may engage third-parties to use on our behalf, cookies (small data text files placed on your computer or device) or similar technologies to identify your computer or device and record your preferences and other data so that our websites can personalize your visit(s), see which areas and features of our websites are popular, and improve our websites and your experience.</p>
 <p>We may also use web beacons (small graphic images on a web page or an HTML e-mail) to monitor interaction with our websites or e-mails.
 Web beacons are generally invisible because they are very small (only 1-by-1 pixel) and the same color as the background of the web page or e-mail message.</p>
-<p>Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites.
+<p>The information we receive through cookies, web beacons and similar technologies may enable us to recognize users across devices, such as smartphones, computers, tablets or related browsers.
+Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites.
 If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Policy.</p>
 </li>
 <li>
@@ -89,6 +106,15 @@ We do allow you to exercise choice regarding the collection of information by th
 <li>
 <strong>Voice Controlled Applications</strong>
 <p>If you use a voice-controlled application, that application may collect and record your requests and other information from you and your phone.</p>
+</li>
+<li>
+<strong>Retail Beacons</strong>
+<p>We may use beacon devices in our retail locations that collect data about your device.
+These programs use signals from smart devices (like mobile phones and tablets) to track movement and wait times.
+Retail beacons collect a unique identifier that your device routinely transmits (e.g., a MAC address) and coverts it to an identifier unique to T-Mobile.
+In some cases, we will use identifiers that are already routinely collected by the T-Mobile network in order to provide you with wireless service.
+We use aggregated data in order to understand general traffic trends in our stores.
+This helps us to better service our customers.</p>
 </li>
 </ul>
 <strong>Information From Other Sources</strong>
@@ -150,6 +176,11 @@ T-Mobile follows the CTIAs Best Practices Guidelines for Location-Based Servic
 <br>
 <p>For more information on location services, see Privacy Resources/Location Services</p>
 <br>
+<strong>Telematics</strong>
+<p>Data from our SyncUp connected car service is used to provide you with that vehicle monitoring service, to enable the functions of the SyncUp associated Motion app, and to enable WiFi connectivity in your car.
+In addition, your data may be shared with our application provider in order to enable third-party services that use your personal data, though in such cases no third-party will be granted access to data that identifies you without first obtaining your consent.
+We may also use such data for any of the other purposes listed in this policy, such as internal analysis, or to personalize offers we provide to you.</p>
+<br>
 <strong>Advertising</strong>
 <p>You may see advertisements when you visit our websites, mobile websites, in mobile applications, or on your device.
 We may help advertisers better reach our customers by providing certain information, including device type, geographic information, language preferences or demographic information obtained from other companies to allow advertisers to determine which ads may be more relevant to you.
@@ -185,8 +216,7 @@ This data may be used by advertisers to help tailor their ads on our websites, a
 This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and de-identified characteristics about your interests.</li>
 <li>When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.
 <br>
-<br>
-For more information see privacy resources/T-Mobile Ad Options for Your Device
+<br> For more information see privacy resources/T-Mobile Ad Options for Your Device
 </li>
 <li>
 <br>
@@ -194,6 +224,7 @@ For more information see privacy resources/T-Mobile Ad Options for Your Device
 </li>
 <li>
 <br>
+<p>T-Mobile adheres to the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Principles for Online Behavioral Advertising.</p>
 </li>
 <li>
 <p>
