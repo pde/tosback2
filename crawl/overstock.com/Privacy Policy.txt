@@ -130,7 +130,7 @@ If you have questions about location and notification privacy, please contact yo
 <b>Security Methods</b>
 <ul>
 <li> We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us.
-To guard this information, the Sites use Secure Sockets Layer (SSL) where we collect personal and sensitive information.
+To guard this information, the Sites use Transport Layer Security (TLS) where we collect personal and sensitive information.
 SSL encrypts your credit card number, name and address so only we are able to decode the information.
 </li>
 </ul>
@@ -138,7 +138,7 @@ SSL encrypts your credit card number, name and address so only we are able to de
 <li>
 <b>E-mail Security</b>
 <ul>
-<li> Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+<li> Please note that e-mail may not be encrypted and is not considered to be a secure means of transmitting credit card information.
 “Phishing” is a scam designed to steal your information.
 If you receive an e-mail that looks like it is from us asking you for certain information, do not respond.
 Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
@@ -162,7 +162,7 @@ If we become aware that an individual is under the age of 13 and has submitted a
 We ask all our customers to take measures to help protect information in their online accounts, including the following: <ul>
 <li>Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses.</li>
 <li>Reset your e-mail account passwords frequently.</li>
-<li>Use complex passwords</li>
+<li>Use complex passwords or passphrases</li>
 <li>Do not use the same password on more than one website.</li>
 <li>Do not share your password with others.</li>
 </ul>
@@ -305,32 +305,28 @@ We work closely with these Vendors to ensure that your transaction is handled wi
 On the checkout page, you will be required to select a method of payment and submit credit card and other information to such Vendor to complete your order.
 On the checkout page, you will be presented with the Vendor’s terms and conditions which you must agree to in order to complete your order.
 </li>
-<li>If you have questions about your order, you should direct them to us and not to the Vendor.</li>
 <li>Upon completion and approval of your order by such Vendor, the Vendor will notify us of the approval and we will process your order and cause it to be shipped directly to the Vendor.
 In this process, the Vendor will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the delivery of your order.
 In this process, the Vendor makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.
 </li>
-<li>The Vendors have assured us that they will process information received from you with at least the same level of privacy protection as set forth in the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries and Switzerland.
-If you choose to provide us and/or the Vendors with information, you consent to the transfer and storage of that information on servers located in the United States.</li>
+<li>Such Vendors must agree, via contract, to provide adequate protections for the Personal Data that are no less protective than those set out in this Policy.</li>
 <li>If you have questions about your order, you should direct them to us and not to the Vendor.</li>
 <li>The Vendors may give you the opportunity to receive marketing messages from them, in which case you should refer to their terms and conditions for details about how they use your information.</li>
-<li>The Vendors have assured us that they will process information received from you with at least the same level of privacy protection as set forth in the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries and Switzerland.
-If you choose to provide us and/or the Vendors with information, you consent to the transfer and storage of that information on servers located in the United States.</li>
 <li>Any information you provide us is controlled and processed by Overstock.com, Inc.,799 W.
 Coliseum Way, Midvale, Utah 84047, USA or its suppliers (where indicated herein).
 As mentioned herein, your information provided at checkout will be controlled and processed by a Vendor.</li>
-<li>We comply with the EU-US Privacy Shield Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
-We certify that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability, as well as the US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.
-If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles or the US-Swiss Safe Harbor Privacy Principles, the Privacy Shield Principles or the US-Swiss Safe Harbor Privacy Principles shall govern, respectively.
-To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
-To learn more about the US-Swiss Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
-We conduct an annual self-assessment to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own privacy program assessments.
-We have certified to the U.S.
-Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles.
-While the Safe Harbor Principles are designed to protect information originating in the European Economic area and Switzerland, our policy is to protect all international customer information in accordance with the Safe Harbor Principles.</li>
-<li>Pursuant to the EU-US Privacy Shield, EU customers have the right to request that we correct or delete their data from our system.</li>
-<li>Customers shipping internationally who wish to inquire about or update information or change marketing preferences or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods: <ul>
+<li>We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.
+We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
+</li>
+<li>We also comply with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.
+We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
+To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
+</li>
+<li>Pursuant to the EU-US Privacy Shield, Overstock.com acknowledges that EU individuals have the right to access the personal information that we maintain about them.
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should contact us directly using one of the following methods: <ul>
 <li>Send an e-mail to customercare@overstock.com
 </li>
 <li>Call our Customer Care line at 00-1-801-559-3816</li>
@@ -338,21 +334,25 @@ While the Safe Harbor Principles are designed to protect information originating
 Coliseum Way, Midvale, Utah 84047, USA</li>
 </ul>
 </li>
+<li>We will provide an individual opt-out choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+To limit the use and disclosure of your personal information, you may submit a written request to customercare@overstock.com.</li>
 <li>In compliance with the EU-US Privacy Shield Principles and US-Swiss Safe Harbor Principles, Overstock.com commits to resolve complaints about your privacy and our collection or use of your information.
-European Union or Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact us using one of the following methods: <ul>
+European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us using one of the following methods: <ul>
 <li>Send an e-mail to customercare@overstock.com
 </li>
 <li>Call our Customer Care line at 00-1-801-559-3816</li>
 <li>Write us at Overstock.com, 799 W.
-Coliseum Way, Midvale, Utah 8404784070, USA</li>
+Coliseum Way, Midvale, Utah 84047, USA</li>
 </ul>
 </li>
-<li>We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.
-If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ (EU-US Privacy Shield) or http://www.bbb.org/us/safe-harbor-complaints (US-Swiss Safe Harbor) for more information and to file a complaint.</li>
+<li>We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.</li>
 <li>Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.</li>
+<li>We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.</li>
 </ul>
 <br>PRIVACY POLICY REVISIONS
 <p>By accessing the Site or interacting with us, you consent to our use of information that is collected or submitted as described in this Privacy Policy.
 We may change or add to this Privacy Policy, so we encourage you to review it periodically.</p>
-<p>This Privacy Policy was last updated on September 29, 2016.</p>
-<p>5.3.20160929</p> 
+<p>This Privacy Policy was last updated on December 19, 2016.</p>
+<p>5.4.20161219</p> 
