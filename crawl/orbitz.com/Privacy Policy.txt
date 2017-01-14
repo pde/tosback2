@@ -5,7 +5,7 @@
 <li> Home </li>
 <li> Hotels </li>
 <li> Flights </li>
-<li> Packages </li>
+<li> Bundle Deals </li>
 <li> Cars </li>
 <li> Cruises </li>
 <li> Deals </li>
@@ -35,10 +35,10 @@ Your notifications1 <ul>
 <li> Create an Account </li>
 </ul>
 </li>
-<li> My Notes   <p>loading your Notes...</p>
+<li> My Lists   <p>loading your Lists...</p>
 <p>Things you view while shopping are saved here.</p>
 <ul>
-</ul> View Notes </li>
+</ul> View Lists </li>
 <li> My Trips </li>
 <li> Support <ul>
 <li>
@@ -52,7 +52,7 @@ Customer Support </li>
 <li> Home currently selected </li>
 <li> Hotels </li>
 <li> Flights </li>
-<li> Packages </li>
+<li> Bundle Deals </li>
 <li> Cars </li>
 <li> Cruises </li>
 <li> Deals </li>
