@@ -1,5 +1,5 @@
  15
-3 2016.12.8.0.17.0 <ul>
+3 2016.13.0.0.239.0 <ul>
 <li>Find a store</li>
 <li>store ads</li>
 <li>
@@ -24,7 +24,10 @@ track order
 <li>
 </li>
 <li>
-<p>customer service</p>
+customer service
+</li>
+<li>
+<p>accessible view</p>
 </li>
 </ul>
 <ul>
@@ -53,10 +56,13 @@ track order
 <li>
 </li>
 <li>
-<p>customer service</p>
+customer service
+</li>
+<li>
+<p>accessible view</p>
 </li>
 </ul> true
-true L15732092485 <p>
+true L15732941088 <p>
 </p>
 <p>
 </p> Your Store:
@@ -69,12 +75,12 @@ selectedStoreName change store <em>
 </strong>
 </em> ***************************************************
 HOST NAME :-&gt.
-lenldtadepr1p02.jcpenney.com
+lenldtadepr1p09.jcpenney.com
 SERVER NAME :-&gt.
-dtcomexpr1l2j1
+dtcomexpr1l1j5
 TIME :-&gt.
-Tue Jan 24 11:11:00 CST 2017
-*************************************************** 2016.12.8.0.17.0 <ul>
+Wed Jan 25 11:15:40 CST 2017
+*************************************************** 2016.13.0.0.239.0 <ul>
 <li> for the home </li>
 <li> bed &amp.
 bath </li>
@@ -107,14 +113,14 @@ For best experience please upgrade to Internet Explorer 7 or above.</p> false <p
 </p>
 <p>
 </p> *************************************************** homepagecontentgrid HOST NAME :-&gt.
-colldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
+lenldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Tue Jan 24 04:14:19 CST 2017 JVM :-&gt.
-dtexppr1c1j4_03 *************************************************** *************************************************** homepagebelowgrid HOST NAME :-&gt.
-colldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
+Wed Jan 25 14:29:27 CST 2017 JVM :-&gt.
+dtexppr1l1j3_03 *************************************************** *************************************************** homepagebelowgrid HOST NAME :-&gt.
+lenldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Tue Jan 24 04:14:19 CST 2017 JVM :-&gt.
-dtexppr1c2j5_04 *************************************************** true <ul>
+Wed Jan 25 14:29:27 CST 2017 JVM :-&gt.
+dtexppr1l1j1_03 *************************************************** true <ul>
 <li>
 <p>
 </p>
