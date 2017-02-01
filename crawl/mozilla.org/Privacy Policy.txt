@@ -5,7 +5,7 @@
 </ul> Home &gt.
 Mozilla Privacy &gt.
 Websites, Communications &amp.
-Cookies Privacy Notice <p>March 14, 2016</p>
+Cookies Privacy Notice <p>January 23, 2017</p>
 <p>We care about your privacy.
 When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.</p>
 <p>This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, and webmaker.org, among others.
@@ -89,7 +89,7 @@ This helps us to improve site content.
 </li>
 <li>Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.
 This helps us offer better web experiences to users.</li>
-<li>Flashtalking, which uses a clear GIF on our download Firefox page.
+<li>DoubleClick, which uses a clear GIF on our download Firefox page.
 This helps us measure the effectiveness of our advertising campaigns.</li>
 </ul>
 </li>
@@ -116,12 +116,16 @@ You can disable the functionality of clear GIFs by viewing emails from us in “
 <li>
 <p>
 <strong>Analytics &amp.
-Optimization</strong>: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on.
-The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
-If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information.
-If you do not want data about your visits to Mozilla websites to be collected by ShareProgress, you can turn on Do Not Track in your browser.
-Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.
-You can opt-out by going to the “Your Choices” section of Flashtalking’s Privacy Policy and selecting “Click here to opt-out”.</p>
+Optimization</strong>: Follow the instructions below to prevent data collection about your visits to Mozilla websites:</p>
+</li>
+<li>Google: Install the Google Analytics Opt-out Browser Add-on, which keeps your visits anonymous and prohibits data transmission to Google Analytics.
+Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns.
+you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).</li>
+<li>Optimizely: Opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information.
+</li>
+<li>
+<p>ShareProgress: You can turn on Do Not Track in your browser.
+</p>
 </li>
 <li>
 <p>
