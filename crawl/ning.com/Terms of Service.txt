@@ -2,7 +2,7 @@
 <em>Last Updated: January 2, 2017</em>
 </p>
 <p>Ning, Interactive Inc.
-(“<strong>Ning</strong>“, “we” or “<strong>us</strong>“) is ana online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “<strong>Ning Platform</strong>“).
+(“<strong>Ning</strong>“, “<strong>we</strong>” or “<strong>us</strong>“) is an online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “<strong>Ning Platform</strong>“).
 Ning is not involved in the management of Networks on the Ning Platform and is not involved in the decisions relating to the focus of Networks or the Content uploaded or published to Networks using the Ning Platform.
 These are your Networks and, as a Network Creator, you are responsible for managing them in all respects (including the actions, conduct, and Content of Your Members) in compliance with these Terms of Service.</p>
 <p>These Terms of Service contain general terms that apply to all users of the Ning Platform whether they create, join or browse Networks.
@@ -119,7 +119,9 @@ Unless so cancelled or terminated, Ning will automatically charge the applicable
 </strong>For example, if you choose a Ning Product Plan with a monthly billing plan, you will be billed each successive month on or about the same date of the month that you initially clicked the purchase button (or otherwise elected to make a purchase).
 Additionally, we may offer a pre-pay payment option (such as annual billing) for payment of Ning Product Plans (“Pre-Payment Plan”).
 If you opt for a Pre-Payment Plan, your Payment Method will be charged the then-current fee for that Ning Product Plan at the commencement of the initial period and each renewal period.
-<strong>You may cancel your Ning Product Plans by following the instructions here.</strong>
+<strong>You may cancel your Ning Product Plans by following the instructions </strong>
+<strong>here</strong>
+<strong>.</strong>
 </p>
 <p>You acknowledge and agree that any credit card and related billing and payment information that you provide to Ning may be shared by Ning with companies who work on Ning’s behalf, such as payment processors and/or credit agencies, solely for the purpose of checking credit, effecting payment to Ning and servicing your account.
 The terms of your payment will be based on your chosen Payment Method and may be determined by agreements between you and the financial institution providing such Payment Method.
@@ -159,9 +161,9 @@ and (ii) disclose any such metrics and analytics regarding Your Content and Netw
 This license will terminate at the time you remove Your Content from the Ning Platform.
 Without limiting the foregoing, you agree that Content you remove may persist for a reasonable amount of time in back-up copies (but these copies will not be available to others).</p>
 <p>For Ning 3.0 Networks, Ning may introduce the option to participate in a marketplace-type program designed to entice Network Creators to benefit from each other in terms of Content and Members across the Ning Platform.
-The intent of such program would be to provide participating Networks with several benefits, including: (i) reaching a broader audience with compelling Content from Your Network (for example, Network Creators of Ning 3.0 Networks could be given the option to feature Content that originated from other participating Ning 3.0 Networks and/or compelling Content from participating Ning 3.0 Networks could be redistributed by Mode Media Corporation on its owned &amp.
+The intent of such program would be to provide participating Networks with several benefits, including: (i) reaching a broader audience with compelling Content from Your Network (for example, Network Creators of Ning 3.0 Networks could be given the option to feature Content that originated from other participating Ning 3.0 Networks and/or compelling Content from participating Ning 3.0 Networks could be redistributed by on its owned &amp.
 operated web properties (in each case, with attribution and links back to the originating Network) and (ii) new ways to attract Members that may be relevant to Your community and objectives (for example, a transparent and automated way for any Member of a participating Ning 3.0 Network to discover other relevant Ning Networks that are participating in such program and/or participating Ning 3.0 Networks may also be given periodic lists of suggested Members from other participating Ning 3.0 Network to invite to Your Network.</p>
-<p>To deliver such an automated marketplace-type program, Ning 3.0 Networks that choose to participate in such program grant to Ning a right to (i) provide, promote and improve the Ning Platform, including through sending invitations and other similar bulletins to Members of Your Network and (ii) make Content submitted to the Ning Platform available for syndication, broadcast or other distribution elsewhere on the Ning Platform or on Mode Media Corporation owned and operated websites.
+<p>To deliver such an automated marketplace-type program, Ning 3.0 Networks that choose to participate in such program grant to Ning a right to (i) provide, promote and improve the Ning Platform, including through sending invitations and other similar bulletins to Members of Your Network and (ii) make Content submitted to the Ning Platform available for syndication, broadcast or other distribution elsewhere on the Ning Platform owned and operated websites.
 The rights in this paragraph would only apply if a Network Creator elects to grant such rights to Ning as part of Ning 3.0 Network subscription purchase flow or other similar mechanism offered to Network Creators by Ning.</p>
 <p>You hereby agree that if Your Content is removed from any Network due to a violation of these Terms of Service, including in response to any valid DMCA (as defined below) take down notice or because such Content contains illegal images, Ning shall have the right to use and reproduce Your Content in any manner without restriction, including in response to any subpoena or other judicial or administrative order, to assist government enforcement agencies or otherwise required by law and to protect the rights, property or safety of Ning, any User or individual, or the general public.</p>
 <p>You are solely responsible for Your Content and Network Data.
@@ -366,7 +368,7 @@ You agree to promptly update all information to keep your account on Ning curren
 Generally speaking, account credentials are non-transferable, but Network Creators will have the ability to reset Member passwords in the event that a Member loses or can’t remember it.
 You will be solely responsible and liable for any activity that occurs under your account credentials.
 Ning reserves the right to log off or deactivate Member accounts, including Your Network, that are inactive for an extended period of time.</p>
-<p>When you create Your Network, Ning gives you the flexibility to choose your own subdomain for Your Network (e.g.,” developer” in the example: http://developer.ning.com) (“<strong>Network Subdomain</strong>“).
+<p>When you create Your Network, Ning gives you the flexibility to choose your own subdomain for Your Network (e.g.,” developer” in the example: https://developer.ning.com) (“<strong>Network Subdomain</strong>“).
 Ning also gives you the option to use your own domain with certain Ning Product Plans (e.g., www.network.com or my.network.com), which is known as domain mapping (“Domain Mapped Networks”).
 You will be solely responsible and liable for any activity that occurs under Your Network’s Subdomain or on Your Domain Mapped Network.
 Ning maintains ownership of your Network Subdomain and grants you a limited, non-exclusive, non-sublicensable, non-transferable, freely revocable, license solely to use the Network Subdomain on the Ning Platform.</p>
@@ -376,11 +378,10 @@ Ning will not be liable for any loss that you may incur as a result of someone e
 However, you may be held liable for losses incurred by Ning or another party due to someone else using your account credentials, Network Subdomain, or password.
 In other words, please be careful with your identity and passwords.</p>
 <p>In order to help us deliver the highest value platform and revenue programs to Network Creators, Ning needs to account for all of the traffic and usage on the Ning Platform.
-Ning uses comScore Inc.
-(“comScore”) to get a third party measurement of the worldwide audience and usage across the Ning Platform.
-You agree to assign the traffic relating to your Network to Ning (through its parent company, Mode Media Corporation), including authorizing us to sign a Traffic Assignment Letter on your behalf for comScore syndicated audience measurement reports (collectively, a “Traffic Assignment”).
+Ning may use third Parties services to get a third party measurement of the worldwide audience and usage across the Ning Platform.
+You agree to assign the traffic relating to your Network to Ning (), including authorizing us to sign a Traffic Assignment Letter on your behalf for comScore syndicated audience measurement reports (collectively, a “Traffic Assignment”).
 As part of your Traffic Assignment, you confirm that you (i) are majority owner of the URL for your Network, (ii) have a legitimate business relationship with Ning, (iii) understand that your Network URL will not receive credit for traffic to such URL in the syndicated audience reports for those entities where Ning elects to include such URL and (iv) traffic for your Network URL may not be assigned to any other company.
-Your Network’s traffic will be viewable in the comScore syndicated audience measurement reports and will be included under the Ning/Mode Media Corporation property and media title roll-up.</p>
+Your Network’s traffic will be viewable in the comScore syndicated audience measurement reports and will be included under the Ning/ property and media title roll-up.</p>
 <p>Should we or comScore require additional documentation to verify ownership of your Network URL, you agree to provide reasonable efforts to accommodate such request.
 For example, if you are not the named registrant of the Network URL, you must provide documentation demonstrating that the registrant of such URL is owned or employed by a company that you own.
 You understand that authorization and acceptance of this Traffic Assignment imposes no legal liability whatsoever on Ning or comScore for damages, whether actual, incidental or consequential, relating to the maintenance or reporting of the Network URL.
@@ -390,7 +391,7 @@ You shall indemnify and hold harmless Ning and comScore from and against any cla
 Network Design
 <p>If as a Network Creator, you have provided any art assets or other intellectual property to Ning to design, or assist you with designing Your Network (“Your Art Assets”) the following additional provisions will apply to you.</p>
 <p>Your Ownership.
-As between Ning and You, You own all right, title and interest, including all intellectual property rights, in and to Your Art Assests and any specific deliverable or work product created by Ning for You (“Deliverables”).
+As between Ning and You, You own all right, title and interest, including all intellectual property rights, in and to Your Art Assets and any specific deliverable or work product created by Ning for You (“Deliverables”).
 provided, however, that in no event shall the term Deliverables include any Ning Tools.
 “Ning Tools” means any Ning Technology or trade secret, process, algorithm, invention, original works of authorship, development, design, improvement, patent, copyright or other intellectual property of Ning which Ning (a) developed or acquired previous to entering into a Network design engagement with You.
 (b) acquired after the commencement of a Network design engagement with You and independently of such design engagement or (c) developed either alone or in collaboration with others, separate and apart from any Network design engagement with You, and all derivative works based thereon.
@@ -414,7 +415,7 @@ The registration and administration of such domain names is conducted pursuant t
 ICANN has delegated the registration and administration of particular TLDs to accredited domain name registrars in accordance with general ICANN policies, as interpreted by each domain name registrar.
 Accordingly, there may be significant differences among registrars in administration of domain names for particular TLDs.</p>
 <p>When purchasing Domain Name Services for Your Network, You are required to enter into a registration agreement with Ning’s then-current domain name registrar.
-The registration agreement and associated terms for Ning’s current registrar (which registrar may change from time to time) can be found here.
+The registration agreement and associated terms for Ning’s current registrar (which registrar may change from time to time) can be found here (Ning Names Terms).
 You should carefully review each particular registration agreement relating to Domain Name Services.
 You are solely responsible for compliance with such registration agreement and continued use of Your Network and the Domain Name Services shall constitute Your binding acceptance of such registration agreement.</p>
 <p>Ning accepts no responsibility for refusal of a domain name registrar to register a particular domain name.
@@ -426,12 +427,9 @@ ICANN policies require cancellation of domain names in certain circumstances, in
 You are not entitled to a refund of registration fees on any such cancellation, and neither Ning nor our applicable registrar accepts liability for any such cancellation.
 It is your sole responsibility to review and adhere to the terms and conditions of the registration agreement for each domain name, including any terms and conditions which may lead to cancellation of domain names.</p>
 23.
-Mode Content Creators
-<p>Ning’s parent company, Mode Media Corporation, offers certain content creators (“Mode Content Creators”) the ability to deliver brand advertising to online audiences in certain targeted lifestyle verticals.
-If a Network Creator chooses to apply to become a Mode Content Creator and is thereafter accepted, the additional terms of this Section 23 will apply to those Networks that have become Mode Content Creators.
-You hereby grant Ning and its affiliates (including Mode Media Corporation) a nonexclusive, worldwide, royalty-free and transferable right and license to use, reproduce, modify, perform, display, prepare derivative works of, or incorporate into other works, transmit and distribute Your Content for any commercial purposes, including advertising, promoting and publicizing such Content on Mode Media Corporation owned and operated websites (such as glam.com, modemediacorp.com bliss.com, brash.com, foodie.com or tend.com) or other affiliated websites.
-If you cancel your account with Ning and remove Your Content from Your Network, the foregoing license shall terminate.
-For the avoidance of doubt, this Section 23 shall only be applicable to any Network whose Network Creator specially chooses to apply to become, and is thereafter accepted as, a Mode Content Creator.</p>
+Licence to Use Content
+<p>You hereby grant Ning and its affiliates a nonexclusive, worldwide, royalty-free and transferable right and license to use, reproduce, modify, perform, display, prepare derivative works of, or incorporate into other works, transmit and distribute Your Content for any commercial purposes, including advertising, promoting and publicizing such Content on any of Ning’s or its affiliates’ owned and operated websites apps or services.
+If you cancel your account with Ning and remove Your Content from Your Network, the foregoing license shall terminate provided such Content is not already in use by Ning or its affiliates in accordance with the rights granted hereunder.</p>
 24.
 Disclaimer of Warranties
 <p>YOUR USE OF THE NING PLATFORM, ANY PRODUCTS OR SERVICES OFFERED THROUGH THE NING PLATFORM, AND ALL NETWORK CODE, PLATFORM CODE, NING THEMES, THIRD PARTY SOFTWARE, NON-NING CODE, AND CONTENT (INCLUDING THIRD PARTY CONTENT), ARE AT YOUR SOLE RESPONSIBILITY AND RISK.
@@ -513,7 +511,7 @@ Governing Law.
 Venue
 <p>This Agreement shall be governed by the laws of the State of California without regard to conflict of law principles.
 The provisions of the United Nations Convention on the International Sale of Goods and the Uniform Computer Information Transactions Act, however designated, are excluded and shall not apply to this Agreement or any transactions hereunder.</p>
-<p>You agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within Santa Clara County, California for the purpose of litigating all such claims or disputes.</p>
+<p>You agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within San Mateo County, California for the purpose of litigating all such claims or disputes.</p>
 32.
 Relationship of the Parties
 <p>The parties are independent contractors with respect to each other.
@@ -554,8 +552,5 @@ Contacting Ning
 <p>
 <strong>Postal:</strong>
 </p>
-<p>Ning Interactive, Inc.<br>
-2850 Horizon Ridge Parkway<br>
-Suite 200<br>
-Henderson, NV 89052<br>
-Attn: Privacy Matters</p> 
+<p>Ning Interactive, Inc.</p>
+<p>2850 Horizon Ridge Parkway</p> 
