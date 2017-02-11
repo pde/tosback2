@@ -5,7 +5,7 @@
 </ul> Home &gt.
 Mozilla Privacy &gt.
 Websites, Communications &amp.
-Cookies Privacy Notice <p>January 23, 2017</p>
+Cookies Privacy Notice <p>February 9, 2017</p>
 <p>We care about your privacy.
 When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.</p>
 <p>This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, and webmaker.org, among others.
@@ -81,7 +81,7 @@ They also assist with user sign-in and authentication so you can bypass entering
 </li>
 <li>
 <p>
-<strong>Metrics</strong>: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
+<strong>Metrics</strong>: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
 We use:</p>
 <ul>
 <li>Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.
@@ -91,6 +91,10 @@ This helps us to improve site content.
 This helps us offer better web experiences to users.</li>
 <li>DoubleClick, which uses a clear GIF on our download Firefox page.
 This helps us measure the effectiveness of our advertising campaigns.</li>
+<li>Flashtalking, which uses a clear GIF on our download Firefox page.
+This helps us measure the effectiveness of our advertising campaigns.</li>
+<li>HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page.
+This information helps us understand the effectiveness of our advertising campaigns and improve them.</li>
 </ul>
 </li>
 </ul>
@@ -105,8 +109,7 @@ Note that certain features of our products and services may not function properl
 <li>
 <p>
 <strong>Do Not Track</strong>: Mozilla does not track users across third party websites to provide targeted advertising.
-You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking.
-This lets you indicate a preference to third party websites about the way your information is collected and used online.</p>
+If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the Metrics section.</p>
 </li>
 <li>
 <p>
