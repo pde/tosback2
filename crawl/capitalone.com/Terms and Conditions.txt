@@ -1,75 +1,43 @@
  Menu <ul>
-<li> Personal </li>
-<li> Business - Selected </li>
-<li> Commercial - Selected </li>
+<li>Personal</li>
+<li>Business - Selected</li>
+<li>
+Commercial - Selected
+</li>
 </ul>
 <ul>
-<li> Personal <ul>
-<li> Personal Home </li>
-<li> Credit Cards Expand Credit Cards Menu Find a Card <ul>
-<li> Credit Cards Home </li>
-<li> View Top Rewards Cards </li>
-<li> Compare Credit Cards </li>
-<li> See if You're Pre-qualified </li>
-<li> Small Business Credit Cards </li>
-<li> Find the Right Card </li>
-<li> Respond to a Mail Offer </li>
-</ul> Benefits And Services <ul>
-<li> View Cardholder Benefits </li>
-<li> See Credit Card FAQ </li>
-<li> Redeem and Learn About Rewards </li>
-<li> Pay Your Bill </li>
-<li> Learn About CreditWise </li>
-<li> Explore Card Topics </li>
-</ul>
-</li>
-<li> Bank Expand Bank Menu Personal Banking <ul>
-<li> Bank Home </li>
-<li> Money Market Account </li>
+<li>
+Personal<ul>
+<li> Bank Expand Bank Menu <ul>
+<li> Credit Cards </li>
 <li> Checking Accounts </li>
 <li> Savings Accounts </li>
-<li> CD Accounts </li>
-<li> Online and Mobile Banking Tools </li>
+<li> Certificates of Deposit </li>
+<li> Online &amp.
+Mobile </li>
 </ul>
 </li>
-<li> Borrow Expand Borrow Menu Mortgages &amp.
-Home Equity <ul>
-<li> Borrow Home </li>
-<li> Mortgages Overview </li>
-<li> Mortgage Rates </li>
-<li> Refinance Overview </li>
-<li> Refinance Rates </li>
-<li> Home Equity Overview </li>
-<li> Home Equity Rates </li>
-</ul> Auto Financing <ul>
-<li> Auto Finance Overview </li>
-<li> New &amp.
-Used Auto Financing </li>
-<li> Auto Loan Refinancing </li>
-<li> Auto Rates </li>
-<li> Auto Loan Calculators </li>
-<li> Auto Learning Center </li>
+<li> Borrow Expand Borrow Menu <ul>
+<li> Auto Loans </li>
+<li> Home Loans </li>
+<li> Home Equity Loans </li>
+<li> Credit Cards </li>
 </ul>
 </li>
-<li> Invest Expand Invest Menu Team with an Advisor <ul>
-<li> Invest Home </li>
-<li> Why Choose Our Advisors </li>
-<li> Wealth and Asset Management </li>
-</ul> Do It Yourself Online <ul>
-<li> Why Invest with Us </li>
-<li> Compare Trade Prices </li>
-<li> Plan Your Retirement </li>
-<li> Open an Account </li>
-<li> Sign In to Your Account </li>
-<li> Investing Learning Center </li>
+<li> Invest Expand Invest Menu <ul>
+<li> Online Investing </li>
+<li> Invest with a Financial Advisor </li>
+<li> Wealth &amp.
+Asset Management </li>
+<li> Certificates of Deposit </li>
 </ul>
 </li>
 <li> Learn </li>
 <li> Contact </li>
 </ul>
 </li>
-<li> Business <ul>
-<li> Business Home </li>
+<li>
+Business<ul>
 <li> Credit Cards Expand Credit Cards Menu Small Business <ul>
 <li> Spark Cash Back Rewards </li>
 <li> Spark Miles Rewards </li>
@@ -77,38 +45,34 @@ Used Auto Financing </li>
 <li> Corporate Card Program </li>
 </ul>
 </li>
-<li> Bank Expand Bank Menu Banking Accounts <ul>
-<li> Bank Home </li>
+<li> Bank Expand Bank Menu <ul>
 <li> Business Checking </li>
 <li> Business Savings </li>
-</ul> Financing &amp.
-Credit <ul>
 <li> Small Business Credit Cards </li>
-<li> Corporate Card Program </li>
 </ul>
 </li>
-<li> Borrow Expand Borrow Menu Financing &amp.
-Credit <ul>
-<li> Borrow </li>
+<li> Borrow Expand Borrow Menu <ul>
 <li> Small Business Credit Cards </li>
-<li> Corporate Card Program </li>
+<li> Business Loans </li>
 </ul>
 </li>
-<li> Invest Expand Invest Menu Investing Accounts <ul>
+<li> Invest Expand Invest Menu <ul>
 <li> 401(k) Plans </li>
-</ul> Banking Accounts <ul>
+<li> Invest with a Financial Advisor </li>
 <li> Business Savings </li>
 </ul>
 </li>
-<li> Manage Expand Manage Menu Business Services <ul>
+<li> Manage Expand Manage Menu <ul>
 <li> Merchant Services </li>
+<li> Cash Management </li>
 </ul>
 </li>
 <li> Learn </li>
 <li> Contact </li>
 </ul>
 </li>
-<li> Commercial <ul>
+<li>
+Commercial<ul>
 <li> Commercial Home </li>
 <li> About </li>
 <li> Industry Expertise Expand Industry Expertise Menu <ul>
@@ -140,8 +104,6 @@ Wealth Management </li>
 <li> Contact </li>
 </ul>
 </li>
-<li> Locations </li>
-<li> Search </li>
 </ul> Terms and Conditions <ul>
 <li>Print</li>
 <li>Contact Us</li>
