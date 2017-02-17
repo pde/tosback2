@@ -5,13 +5,19 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/buckle.com/Privacy Policy.txt
-#	modified:   ../crawl/cbc.ca/Terms of Use.txt
-#	modified:   ../crawl/cbc.ca/Your Content Submissions.txt
-#	modified:   ../crawl/fairpoint.com/Privacy Policy.txt
+#	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
+#	modified:   ../crawl/aetna.com/Privacy Policy.txt
+#	modified:   ../crawl/agame.com/Privacy Policy.txt
+#	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+#	modified:   ../crawl/cnn.com/Privacy Policy.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
 #	modified:   ../crawl/instructables.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
+#	modified:   ../crawl/jetblue.com/Privacy Policy.txt
+#	modified:   ../crawl/mbusa.com/Privacy Policy.txt
+#	modified:   ../crawl/mediaplex.com/Privacy Policy.txt
+#	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
+#	modified:   ../crawl/noaa.gov/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
 #	modified:   ../crawl/otalliance.org/Privacy Policy.txt
@@ -19,14 +25,19 @@ These files were modified since the last commit:
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
 #	modified:   ../crawl/privacychoice.org/Privacy Policy.txt
 #	modified:   ../crawl/privacyscore.com/Privacy Policy.txt
-#	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
-#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+#	modified:   ../crawl/progressive.com/Privacy Policy.txt
+#	modified:   ../crawl/sencha.com/Privacy Policy.txt
+#	modified:   ../crawl/slideshare.net/Privacy Policy.txt
 #	modified:   ../crawl/spiegel.de/Privacy Policy.txt
-#	modified:   ../crawl/toyota.com/Privacy Policy.txt
+#	modified:   ../crawl/tagged.com/Privacy Policy.txt
+#	modified:   ../crawl/tealium.com/Privacy Policy.txt
 #	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+#	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
 #	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
-#	modified:   ../crawl_reviewed/couchsurfing.org/Privacy Policy.txt
+#	modified:   ../crawl/y8.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/gravatar.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/wordpress.com/Privacy Policy.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
