@@ -1,17 +1,13 @@
  Privacy Policy <p>Effective 3/31/2014.
-Last reviewed and updated 9/26/2016.</p> Updates <p> We updated our Privacy Policy on August 12, 2016 in the following ways: </p>
+Last reviewed and updated 2/22/2017.</p> Updates <p> We updated our Privacy Policy on February 22, 2017 in the following way: </p>
 <ul>
-<li>We included AWS as a third party hosting provider.</li>
-</ul>
-<p> We updated our Privacy Policy on September 26, 2016 in the following ways: </p>
-<ul>
-<li>We included Privacy Shield notice.</li>
+<li>We made changes to reflect Mailgun is a standalone company.</li>
 </ul>
 <p>The previous version of our privacy policy is available for review here.</p>
 <br>
-<p> This Privacy Policy (the “Policy”) applies to your use of the Mailgun services (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), made available by Rackspace US, Inc., a parent company of Mailgun, LLC.
+<p> This Privacy Policy (the “Policy”) applies to your use of the Mailgun services (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), made available by Mailgun Technologies, Inc.
 It applies to information we collect about you.
-In this document, “we” refers to Mailgun, LLC and Rackspace US, Inc., and “you” refers to you, the user or customer to whom this Policy applies.
+In this document, “we” refers to Mailgun Technologies Inc., and “you” refers to you, the user or customer to whom this Policy applies.
 This Policy should be read in conjunction with our Terms of Service.
 The use of information processed through our service shall be limited to the purpose of providing the service for which the Client has engaged Mailgun.
 </p>
@@ -85,7 +81,7 @@ The Hosting Providers will host your Platform from its data centers throughout t
 </p>
 <p> We use a third party, Stripe<sup>®</sup>, to process subscription payments, and therefore provide them with the Personally Identifiable Information required to charge your credit card.
 </p>
-<p> We may use third-party services either embedded into our Site (such as Tumblr<sup>®</sup>, Disqus<sup>®</sup>, Mixpanel<sup>™</sup>, VWO<sup>®</sup>, Intercom<sup>®</sup>, KISSMetrics<sup>™</sup>, Moz<sup>™</sup>, Segment<sup>™</sup> and Google<sup>®</sup> Analytics) or outside of it (such as GitHub<sup>®</sup> and Twitter<sup>®</sup>) to communicate with you or to enhance the function of the Site and the Services.
+<p> We may use third-party services either embedded into our Site (such as Disqus<sup>®</sup>, Mixpanel<sup>™</sup>, VWO<sup>®</sup>, Intercom<sup>®</sup>, KISSMetrics<sup>™</sup>, Moz<sup>™</sup>, Segment<sup>™</sup> and Google<sup>®</sup> Analytics) or outside of it (such as GitHub<sup>®</sup> and Twitter<sup>®</sup>) to communicate with you or to enhance the function of the Site and the Services.
 </p>
 <p> We use third-party service providers and platforms for customer engagement, customer chat, product feedback and customer support ticketing.
 </p>
@@ -93,7 +89,7 @@ The Hosting Providers will host your Platform from its data centers throughout t
 </p>
 <p> While we provide these third parties with no more information than is necessary to enable these third-parties to provide the services to us, any information that you provide these services independently is subject to their respective privacy policies and practices.
 </p>
-<p> In certain situations, Rackspace may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+<p> In certain situations, Mailgun may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 </p>
 <p> We may be required by law or court order to provide Personally Identifiable Information or Non-personally Identifiable Information to government authorities or private parties.
 We fully cooperate with law enforcement agencies in identifying those who use the Services for illegal activities, and we may report to law enforcement any activities that we believe in good faith are unlawful.
@@ -131,7 +127,7 @@ If you voluntarily provide Personally Identifiable Information in our blog or an
 If you don’t want to make this information publicly available, you shouldn’t post it.
 </p> 7.
 EU-U.S.
-Privacy Shield and Swiss Safe Harbor <p> Mailgun (and its parent company, Rackspace US, Inc.) participates and has certified its compliance with the EU-U.S.
+Privacy Shield and Swiss Safe Harbor <p> Mailgun participates and has certified its compliance with the EU-U.S.
 Privacy Shield Framework.
 Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.
 To learn more about the Privacy Shield Framework, visit the U.S.
@@ -152,8 +148,8 @@ Mailgun has certified that it adheres to the Safe Harbor Privacy Principles of n
 To learn more about the Safe Harbor program, and to view Mailgun’s certification, please visit https://safeharbor.export.gov/swisslist.aspx.
 </p>
 <p> European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at: </p>
-<b>Mailgun, LLC</b>
-<br>Attn: General Counsel, <br>1 Fanatical Place, City of Windcrest, <br>San Antonio, Texas 78218<br>by email: privacy@mailgun.com <p> If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+<b>Mailgun Technologies, Inc.</b>
+<br>c/o Turn River Capital<br>535 Mission St.<br>San Francisco, CA 94105<br>by email: privacy@mailgun.com <p> If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 </p> 8.
 Modification <p> We may need to modify this Policy to address new issues or changes to our policies.
 We will post changes here, so you should check this page regularly.
@@ -168,8 +164,6 @@ We will never intentionally collect Personally Identifiable Information from chi
 <p> If we elect to transfer ownership or control of the Services, whether in whole or in part, to a third party (for instance through a merger or sale), that third party will take over this Policy and abide by its terms.
 We may notify you of any such transfer, but we won’t require your consent to transfer this Policy or your information to such a third party.
 </p>
-<p> Global Rackspace Privacy Statement is available on the Rackspace Privacy Center at http://www.rackspace.com/information/legal/privacystatement.
-</p>
 <p> Mailgun provides its Services under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes.
 If you are a customer of one of our customers and would no longer like to be contacted by one of our customer that use our service, please contact the customer that you interact with directly.
 Transfers to subsequent third parties are covered by the service agreements with our customers.
@@ -178,10 +172,8 @@ Transfers to subsequent third parties are covered by the service agreements with
 Mailgun will retain the personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 </p> 10.
 Contact <p> If you have questions about this Policy, or if you’re concerned that we are using your information improperly, please contact us by mail: </p>
-<b>Mailgun, LLC</b>
-<br>Attn: General Counsel, <br>1 Fanatical Place, City of Windcrest, <br>San Antonio, Texas 78218<br>by email: privacy@mailgun.com Your app with email in minutes <p>Our API makes integrating real email quick &amp.
+<b>Mailgun Technologies, Inc.</b>
+<br>c/o Turn River Capital<br>535 Mission St.<br>San Francisco, CA 94105<br>by email: privacy@mailgun.com Your app with email in minutes <p>Our API makes integrating real email quick &amp.
 easy.</p>
 <p>Try Mailgun now</p>
-<p>Want better deliverability? Learn more about our managed email service.</p> Jobs Help Team Terms of service Privacy policy Report Spam Contact Blog <p>Made in San Francisco.
-Powered by </p>
-<p>©2017 Rackspace, US Inc.</p> 
+<p>Want better deliverability? Learn more about our managed email service.</p> Jobs Help Team Terms of service Privacy policy Report Spam Contact Blog <p>©2017 Mailgun Technologies, Inc.</p> 
