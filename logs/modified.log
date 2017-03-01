@@ -5,17 +5,16 @@ These files were modified since the last commit:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/advair.com/Privacy Policy.txt
 #	modified:   ../crawl/alibaba.com/Privacy Policy.txt
-#	modified:   ../crawl/buckle.com/Privacy Policy.txt
-#	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
-#	modified:   ../crawl/earthlink.net/Cable Internet Terms of Use.txt
-#	modified:   ../crawl/earthlink.net/Internet Service Agreement.txt
-#	modified:   ../crawl/ft.com/Privacy Policy.txt
+#	modified:   ../crawl/experian.com/Privacy Policy.txt
+#	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
-#	modified:   ../crawl/indeed.com/Privacy Policy.txt
+#	modified:   ../crawl/instructables.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
-#	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
+#	modified:   ../crawl/landsend.com/Privacy Policy.txt
+#	modified:   ../crawl/laredoute.fr/Privacy Policy.txt
+#	modified:   ../crawl/mozilla.org/Privacy Policy.txt
+#	modified:   ../crawl/netzero.net/Terms of Service.txt
 #	modified:   ../crawl/noaa.gov/Privacy Policy.txt
 #	modified:   ../crawl/nytimes.com/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
@@ -23,14 +22,23 @@ These files were modified since the last commit:
 #	modified:   ../crawl/patch.com/Privacy Policy.txt
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
 #	modified:   ../crawl/privacychoice.org/Privacy Policy.txt
-#	modified:   ../crawl/privacyscore.com/Privacy Policy.txt
+#	modified:   ../crawl/progressive.com/Privacy Policy.txt
+#	modified:   ../crawl/shopstyle.com/Privacy Policy.txt
+#	modified:   ../crawl/sony.com/Privacy Policy.txt
 #	modified:   ../crawl/spiegel.de/Privacy Policy.txt
-#	modified:   ../crawl/timeanddate.com/Privacy Policy.txt
+#	modified:   ../crawl/stackexchange.com/APIs Terms of Use.txt
+#	modified:   ../crawl/stackexchange.com/Content Policy.txt
+#	modified:   ../crawl/stackexchange.com/Terms of Service.txt
+#	modified:   ../crawl/stackexchange.com/Trademark Guidance.txt
 #	modified:   ../crawl/ubuntu.com/Terms of Service.txt
-#	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
+#	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
+#	modified:   ../crawl/vermontcountrystore.com/Privacy Policy.txt
+#	modified:   ../crawl/vh1.com/Privacy Policy.txt
 #	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
 #	modified:   ../crawl/zoomerang.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/att.com/Wireless Plan Terms.txt
+#	modified:   ../crawl_reviewed/github.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
