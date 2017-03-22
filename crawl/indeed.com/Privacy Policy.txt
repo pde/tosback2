@@ -181,11 +181,11 @@ If Indeed is going to use Personal Information  (as defined below) collected th
 <strong>2.
 Information Collected</strong>
 </p>
-<p>When you create an Indeed account, request information, subscribe for a service, participate in a survey, post a rating or review, post a question or answer, post a resume, upload content or otherwise actively send us data on our Site, we collect such data including, but not limited to, your user name, password, first and last name, email address, telephone number (including mobile phone number), street address, gender, occupation, interests, messages you send to users, and any other data included in a submitted profile or resume, including but not limited to application materials and answers to screener questions submitted to Employers through Indeed.
+<p>When you create an Indeed account, request information, subscribe for a service, participate in a survey, post a rating or review, post a question or answer, post a resume, upload content or otherwise actively send us data on our Site, we collect such data including, but not limited to, your user name, password, first and last name, email address, telephone number (including mobile phone number), street address, gender, occupation, interests, messages you send to users, and any other data included in a submitted profile or resume, including but not limited to application materials and answers to screener questions submitted to Employers through Indeed and answers you give to any questionnaires sent to you, which you answer.
 In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information).
 If you use any automated phone screening product, Indeed will record and store your answers to an Employer’s screening questions and will forward your answers to the Employer.
 You consent to Indeed listening to and analyzing the recording in accordance with this Privacy Policy.
-In each such instance above, you will know what data we collect through the Site, because you actively submit it. </p>
+In each such instance above, you will know what data we collect through the Site, or collect through screening, because you actively submit it. </p>
 <p>In addition, as part of the standard operation of the Site, Indeed may automatically collect and analyze information from your computer or mobile device, including, but not limited to, your browser type, operating system, IP address and the domain name from which you accessed the Site, and if you are accessing our Site with your mobile device, the type of mobile device.
 In addition, we may automatically record and analyze actions taken on the Site including, but not limited to, date and times of use, clicks, page views, the amount of time you spend on each page, and search queries.
 Indeed reserves the right to match your IP address (or any other information) with other information about you in any way permitted by applicable law.
@@ -235,7 +235,7 @@ Indeed is subject to the investigatory and enforcement powers of the Federal Tra
 These efforts may on occasion result in a temporary or permanent suspension or termination of some functions for some users.
 Indeed provides two-way message proxy and relay services to the users of our Indeed products, including: Indeed Resume, Indeed Apply, and Post a Job.
 By utilizing this Indeed relay function in connection with any of the aforementioned products, you acknowledge that you are asking Indeed to send these messages on your behalf.
-We monitor, review, store and analyze your content (including your resumes, cover letters, applications, messages, responses, offer letters and other materials) that you send, store or receive, including via automated means and otherwise, for data analysis, quality control, and to refine the Site or any other Indeed product or service (including to provide better search results and other listings for job seekers and employers, provide you with personally relevant product features, and to prevent and block fraud and spam or reduce unwanted mail).  When communicating through Indeed’s relay system, you will see an email address with an @indeedemail.com or @indeedmail.com ending.
+We monitor, review, store and analyze your content (including your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials) that you send, store or receive, including via automated means and otherwise, for data analysis, quality control, and to refine the Site or any other Indeed product or service (including to provide better search results and other listings for job seekers and employers, provide you with personally relevant product features, and to prevent and block fraud and spam or reduce unwanted mail).  When communicating through Indeed’s relay system, you will see an email address with an @indeedemail.com or @indeedmail.com ending.
 You retain no ownership rights in these email addresses, which are specific to Employers’ Job Listings, but owned by Indeed.
 Indeed’s relay system will show the name associated with your account or job application in the “To:” or “From:” field.
 Please note that since these message proxy and relay services depend on the functionality of third party providers, there may be technical delays on the part of those email service providers.
@@ -431,7 +431,7 @@ In particular:</p>
 <li>If you access or use the Indeed Publisher Program, you are agreeing to be bound by the Indeed Publisher Program Terms
 </li>
 <li>For all other uses of the Site, you are agreeing to be bound by the Indeed General Terms of Service</li>
-</ul> Indeed General Terms of Service <p>Last Updated: March 2, 2017</p>
+</ul> Indeed General Terms of Service <p>Last Updated: March 21, 2017</p>
 <p>
 <strong>A.
 </strong>The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.</p>
@@ -458,6 +458,7 @@ When you ask Indeed to transmit an application or a message to an Employer via
 Indeed also does not guarantee that any Employer will receive, access, read or respond to any such resume or application material, or that there will be no mistakes in the transmission of the data.
 However, Indeed may alert you when any of the above events occur.
 In addition, by using Indeed Apply, you agree that Indeed is not responsible for the content of the Employer’s application form, messages, screener questions, testing assessments or their format and that Indeed does not guarantee receipt of your application by the Employer, or your receipt of messages from the Employer.
+By using Indeed Apply and answering screener questions, you acknowledge that Employers may have instructed Indeed to send out rejection notices if you have not answered the questions in a manner that the Employer so wishes, and you acknowledge that Indeed has no discretion in the transmission of these rejections.
 When you apply to a job using the Indeed Apply button, Indeed will attempt to send your application to the contact information provided to us by an Employer or their Agent.
 We cannot vouch for the validity of such contact information provided to us.
 If you do not feel comfortable sending an application or messages in this manner, do not use the Indeed Apply or Indeed relay functions and please send your application or messages directly to the Employer by whatever other method you so choose.
@@ -476,7 +477,9 @@ Indeed has no ability to verify the contact information provided by You.
 In the event You provide incorrect contact information, it shall be your responsibility to correct, appropriately respond, or take any steps necessary to protect the privacy of such Job Seekers, and you indemnify Indeed for any damages resulting therefrom.
 In addition, Indeed may, on your behalf, send out reminder emails to Job Seekers you wish to interview.
 Indeed may also send emails to Job Seekers on your behalf indicating that your Job Listing is potentially a match for the Job Seeker’s resume. Indeed is not responsible for the content of your emails, application form, screener questions or their format, and Indeed does not guarantee delivery, your receipt of the Job Seeker’s emails or application materials, or that there will be no mistakes in the transmission of the data.
-You agree that Indeed Apply is presented to you without warranty and Indeed assumes no responsibility for the communications between you and the Job Seeker, which communications are yours’ and the Job Seekers’ sole responsibility.
+When you use screener questions, you may be given the option to instruct Indeed to send out rejection notices if the Job Seeker has not answered the questions in the manner set forth in the online instruction.
+If you choose such option, you agree you are instructing us to send out rejection notices to such candidates and set them to rejected in your Employer dashboard.
+You further acknowledge that Indeed has no discretion in the transmission of these rejections (which is purely mechanical), that transmission is not guaranteed, and that the Job Seeker may not have answered the screener questions accurately. You agree that Indeed Apply is presented to you without warranty and Indeed assumes no responsibility for the communications between you and the Job Seeker, which communications are yours’ and the Job Seekers’ sole responsibility.
 By using any automated phone screen product, you agree that you are requesting Indeed to send a Job Seeker a telephone number, which the Job Seeker may call with the purpose of answering your telephone screening questions.
 You agree these questions are part of your application process, are solely determined by you, and are not being asked by Indeed.
 You also agree that you are only asking Indeed to record the Job Seeker’s answers to your screening questions and that Indeed will forward you the recording of the answers to your questions.
@@ -487,7 +490,8 @@ Indeed shall store such information regardless of whether a job vacancy has been
 You are responsible for the contents of any Career Sites that you create, any Job Listings that you post, and any messages that you send through Indeed Apply or otherwise, including any questions for Job Seekers.
 You agree that Indeed may reject or remove any Job Listing, any part of any Career Site, or any questions for Job Seekers for any or no reason.
 You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of any Career Site created by you, or any Job Listing or screener questions (or answers thereto) posted by you, or any message sent by you (including any questions for Job Seekers contained in any of the foregoing).
-Indeed may provide analytics data regarding your Employer account to anyone at your company at Indeed’s discretion.</p>
+Indeed may provide analytics data regarding your Employer account to anyone at your company at Indeed’s discretion.
+To the extent permitted by law, if you have an unpaid or outstanding invoice or account balance for any Indeed product, Indeed reserves the right to suspend or terminate your use of that Indeed product as well as any other Indeed product, including but not limited to those Indeed products where you do not have an unpaid invoice or account balance.</p>
 <p>
 <strong>1(c) </strong>Regardless of whether you are an Employer or Job Seeker, when you send, store or receive materials (including Job Listings, resumes, and messages) through or using the Site, Indeed may, for example, use such materials for data analysis, quality control, or to refine the Site or any other Indeed product or service (including to provide better search results and other listings for Job Seekers and Employers), whether via automated means or otherwise.
 When you send, store or receive materials through or using the Site, Indeed may also inform a Job Seeker that an Employer has taken an action with regards to a Job Seeker’s application such as opening the application, viewing the application and making a decision with regards to the application, and you hereby consent to Indeed taking such actions.
@@ -506,6 +510,20 @@ For example, Indeed may provide you with data regarding estimated salaries for a
 Indeed may also include salary estimations on pages other than Job Listings on the Site. Please note that all salary figures are approximations based upon multiple third party submissions to Indeed.
 These figures are given to Indeed users for the purpose of generalized comparison only.
 Minimum wage may differ by jurisdiction and you should consult the employer for actual salary figures.</p>
+<p>
+<strong>1(f)</strong> Regardless of whether you are an Employer or Job Seeker, Indeed may provide certain types of career-related information on its Site in the Indeed Career Guide.
+All information contained in the Indeed Career Guide is for informational purposes only, and is in no way to be construed as professional career counseling.
+You understand that Indeed may give suggestions or information regarding best-practices, however, you understand that it is ultimately your responsibility to determine how to pursue your job search or candidate search.
+You further understand that in providing the Indeed Career Guide, Indeed is not acting as a job placement agency or staffing firm.
+You also understand that by referring to the Indeed Career Guide, you are not guaranteed job interviews, job placement or assurance of being hired, and you take full responsibility for use of these services.</p>
+<p>
+<strong>1(g</strong>
+<strong>) </strong>Regardless of whether you are an Employer or Job Seeker, Indeed may provide you an online questionnaire relating to your industry and/or your hiring or job searching needs.
+Indeed may match a Job Seeker’s responses to such questionnaires to determine, on the basis of the Employer’s responses to a questionnaire about its industry and/or hiring needs, whether such Job Seeker would match the Employer’s hiring criteria as specified in the Employer’s questionnaire responses.
+In the event Indeed determines that a Job Seeker matches the Employer’s hiring criteria, Indeed may connect such matching Job Seeker and Employer by sending a note informing both parties of the match, including but not limited to sending an Employer a short description of a Job Seeker taken directly from the Job Seeker’s responses to the questionnaire.
+In all events you will know what data we are providing to either a Job Seeker or Employer, or upon which we relied to make the match, because you have actively submitted it.
+If the Employer and Job Seeker express interest in each other, you agree Indeed may provide the Employer with an email address for the Job Seeker either provided by Indeed or the Job Seeker and, if you are a Job Seeker, you consent to this.
+Regardless of whether you are an Employer or Job Seeker, by submitting the completed questionnaire, you agree and consent to Indeed (i) conducting such matching, utilizing only material you have submitted through the questionnaire process, (ii) presenting matching Job Seekers to Employers, and vice versa and (iii) storing and analyzing such data submitted in response to such online questionnaires.</p>
 <p>
 <strong>2.
 External Sites</strong>
@@ -645,7 +663,7 @@ Indeed may block the transmission of such content.</li>
 </ul>
 <p>Indeed reserves the right to use any User Content (including the content of messages or material sent through or to the Site or Indeed) to prevent potentially illegal or tortious activities, or any other activities that are detrimental to other users.
 Indeed reserves the right to use a variety of methods to detect and block the above anomalous activity and to screen User Content to prevent abuse such as spam or fraud.
-If you use the Site, you consent to Indeed enforcing these rules, which may result in a temporary or permanent suspension or termination of some functions of the Site, including but not limited to the email relay function, for some users, with or without notice, and Indeed shall not be responsible or liable for any such suspension or termination, including any consequences thereof.
+If you use the Site, you consent to Indeed enforcing these rules, which may result in a temporary or permanent suspension or termination of your account or use of certain functions of the Site, including but not limited to the email relay function, for some users, with or without notice, and Indeed shall not be responsible or liable for any such suspension or termination, including any consequences thereof.
 Indeed reserves the right to drop any message with an .ade, .adp, .bat, .chm, .cmd, .com, .cpl, .exe, .hta, .ins, .isp, .jar, .jse, .lib, .lnk, .mde, .msc, .msp, .mst, .pif, .scr, .sct, .shb, .sys, .vb, .vbe, .vbs, .vxd, .wsc, .wsf, .wsh, or .zip attachment for any or no reason.</p>
 <p>
 <strong>7.
@@ -654,6 +672,7 @@ Contact Information</strong>
 </p>
 <p>Some areas of the Site, including areas that may permit you to set up an Indeed account, require you to register or provide an email address.
 If you so register, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by our registration form (including your email address) and (b) be responsible for the confidentiality and use of your username and password, and not transfer or resell your use of or access to the Site to any third party.
+Please note, that any individuals with whom you have shared your username and password, and are able to answer verification questions about your Indeed account, may receive access to information regarding your Indeed account.
 Indeed is not responsible and disclaims all liability if your email is used improperly or falsely by a third party.
 In some instances, multiple users may be linked to the same account (“a Linked Account”). By registering for an Indeed account, you agree to receive mandatory email updates regarding anomalous activity to your Indeed account.<b> </b>If you attempt to send an email from a name or email address that is not true, accurate, current or complete, we reserve the right to drop such email, and attempting to send such email is a violation of our terms.<b> </b>A Linked Account is created when the primary account owner of an Employer account invites other users to the same account.
 When using a Linked Account, all users within the same Linked Account have access to the communications and actions of all other users within the Linked Account, and you consent to such access.</p>
@@ -672,7 +691,7 @@ Under no circumstances shall Indeed be liable to you or any third party on accou
 Additionally, under no circumstances shall Indeed be liable to you or any third party on account of your use or misuse of or reliance on any third party site or service you link to from Indeed’s Site.</p>
 <p>Indeed further disclaims all liability for any technical malfunction of the Site, including but not limited to failure of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email delivery, account login, or any other Services provided by Indeed as a result of technical problems or traffic congestion on the Internet or any any third party website or combination thereof, including injury or damage to your or to any other person’s computer, mobile device or other hardware or software, related to or resulting from using or downloading any Content in connection with the Site or Services.
  Under no circumstances will Indeed be responsible for any loss or damage to any content or personal injury or death, resulting from anyone’s use of the Site, Services, User Content, or third party applications, websites, software or content posted on or through the Site or transmitted to users or any interactions between users of the Site or Services, whether online or offline.</p>
-<p>THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE ARE PROVIDED “AS IS,” WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED.
+<p>THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, CAREER GUIDE, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE ARE PROVIDED “AS IS,” WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED.
 INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM TO THE FULLEST EXTENT PERMITTED BY LAW ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS.
 INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE SITE, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH THE SITE.
 INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES FOR SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THE SITE OR RECEIVED THROUGH ANY LINKS MADE AVAILABLE BY INDEED.</p>
@@ -771,7 +790,9 @@ Miscellaneous</strong>
 In the event of any irreconcilable conflict between this Agreement and the Indeed Ads Program Terms, Indeed Resume Program Terms, Indeed Mobolt Terms, Indeed Prime Terms and Indeed Targeted Ads Terms (if applicable to you), the Indeed Ads Program Terms, Indeed Resume Program Terms, Indeed Mobolt Terms, Indeed Prime Terms and Indeed Targeted Ads Terms will govern with respect to the Indeed Ads Program, Indeed Resume Program, Indeed Mobolt, Indeed Prime and Indeed Targeted Ads, respectively, and the Agreement will otherwise govern.
 Any waiver of any provision of this Agreement will be effective only if in writing and signed by Indeed.
 This Agreement, together with any amendments and any additional agreements you may enter into with Indeed in connection with the Site, shall constitute the entire agreement between you and Indeed concerning the Site.
-If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.</p>
+If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.
+You agree that this Agreement cannot be altered, amended, modified or overridden, except by a document signed by an authorized representative of each party.
+For the avoidance of doubt, email or phone communication between you and an Indeed employee shall not constitute an amendment or alteration of this Agreement.</p>
 <p>By accessing or using the Site, you signify your assent to this Agreement and agree to comply with all applicable laws and regulations, including U.S.
 export and re-export control laws and regulations, copyright laws and other laws regarding intellectual property.
 You represent, warrant and covenant that you are not (a) located in, or a resident or a national of, any country subject to a U.S.
@@ -981,13 +1002,15 @@ Indeed’s determination of click count shall be binding.</strong> Refunds (if 
 Indeed may also provide information in response to valid legal process, such as subpoenas, search warrants and court orders, or to establish or exercise its legal rights or defend against legal claims.
 Indeed shall not be liable for any use or disclosure of such information by such third parties.
 All withholding tax remittances to the government are your sole responsibility and Indeed shall have no liability whatsoever therefor.
-Invoices may be provided to you via electronic mail.</p>
+Invoices may be provided to you via electronic mail.
+To the extent permitted by law, if you have an unpaid or outstanding invoice or account balance for any Indeed product, Indeed reserves the right to suspend or terminate your use of that Indeed product as well as any other Indeed product, including but not limited to those Indeed product where you do not have an unpaid invoice or account balance.</p>
 <p>
 <strong>6.
 Indemnification</strong>
 </p>
 <p>You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors, and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your Program use, Creative, site or Your Services, or breach of these IAP Terms.</p> D.
-Indeed Publisher Program Terms <p>These Indeed Publisher Program Terms (“IPP Terms”) apply to any Publisher that accesses or uses the Indeed Publisher Program, or that otherwise indicates its acceptance of these IPP Terms.</p>
+Indeed Publisher Program Terms <p>Last Updated: March 2, 2017</p>
+<p>These Indeed Publisher Program Terms (“IPP Terms”) apply to any Publisher that accesses or uses the Indeed Publisher Program, or that otherwise indicates its acceptance of these IPP Terms.</p>
 <p>These IPP Terms are between You and Indeed, Inc., 6433 Champion Grandview Way, Building 1, Austin, TX, 78750, USA, and set out the terms and conditions applicable to your participation in the Indeed Publisher Program (the “Program”) and, along with Indeed Terms of Service, use of or access to Indeed’s online and/or mobile services and websites, and software provided by or on behalf of Indeed on or in connection with such services or websites (collectively, the “Site”).
 Any references to “Indeed” shall mean Indeed, Inc.
 The Program, as generally offered by Indeed, is described on https://www.indeed.com/publisher or such other URL as Indeed may provide from time to time.
@@ -1295,7 +1318,8 @@ Termination</strong>
 <p>We may suspend Indeed Prime, your account or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice.
 If you wish to terminate this Agreement, you may do so by notifying Indeed Prime at any time and closing your account.
 All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, success fee provisions, warranty disclaimers, indemnity and limitations of liability.</p> F.
-Indeed Targeted Ads Terms <p>These Indeed Targeted Ads Terms (“ITA Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”), and apply to any Employer who accesses or uses the Indeed Targeted Ads program, or who otherwise indicates its acceptance of these ITA Terms.</p>
+Indeed Targeted Ads Terms <p>Last Updated: March 21, 2017</p>
+<p>These Indeed Targeted Ads Terms (“ITA Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”), and apply to any Employer who accesses or uses the Indeed Targeted Ads program, or who otherwise indicates its acceptance of these ITA Terms.</p>
 <p>Any capitalized terms that are used but not defined in these ITA Terms have the meaning set forth in the Agreement.</p>
 <p>
 <strong>1.
@@ -1339,8 +1363,8 @@ DISCLAIMER AND LIMITATION OF LIABILITY</strong>
 <p>INDEED’S PROVISION OF THE PROGRAM AND THE SITE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
 WITH RESPECT TO THE PROGRAM AND YOUR USE THEREOF, INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION FOR NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR ANY PURPOSE.
 Indeed and its affiliates, and its and their third-party licensors, disclaim all guarantees regarding positioning or the levels or timing of: (i) costs per click, (ii) click through rates, (iii) delivery of any impressions on any Partner Property or Indeed Property or sections of such properties, (iv) clicks or (v) conversions for any Creative.
-EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 6 HEREUNDER, AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE IAP TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
-AND (b) EACH PARTY’S AGGREGATE LIABILITY TO THE OTHER UNDER THESE IAP TERMS IS LIMITED TO AMOUNTS PAID OR PAYABLE TO INDEED BY YOU FOR THE JOB ADS GIVING RISE TO THE CLAIM.</p>
+EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 6 HEREUNDER, AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE ITA TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+AND (b) EACH PARTY’S AGGREGATE LIABILITY TO THE OTHER UNDER THESE ITA TERMS IS LIMITED TO AMOUNTS PAID OR PAYABLE TO INDEED BY YOU FOR THE JOB ADS GIVING RISE TO THE CLAIM.</p>
 <p>
 <strong>5.
 Payment</strong>

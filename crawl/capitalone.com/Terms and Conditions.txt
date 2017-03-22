@@ -1,62 +1,62 @@
  Menu <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Personal|||componentName=primary_nav|||location=1|||destination=/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Business - Selected|||componentName=primary_nav|||location=2|||destination=/small-business-bank/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Commercial - Selected|||componentName=primary_nav|||location=3|||destination=/commercial/",%request%,%response%)*SUB </li>
+<li> Personal </li>
+<li> Business - Selected </li>
+<li> Commercial - Selected </li>
 </ul>
 <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Personal|||componentName=primary_nav|||location=1|||cssClass=mobile-only audience|||destination=/",%request%,%response%)*SUB <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Personal Home|||componentName=primary_nav|||destination=/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Credit Cards|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/",%request%,%response%)*SUB Expand Credit Cards Menu Find a Card <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Credit Cards Home|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=View Top Rewards Cards|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/compare/?filter=rewards",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Compare Credit Cards|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/compare/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=See if You're Pre-qualified|||componentName=primary_nav|||windowMode=new|||decorateLink=true|||interface=rtpm|||type=link|||panelname=p-cc|||sitecatalystStyleClass=RTPM-link external|||destination=%interfaceService.getUrl("rtpm","","body=See if You're Pre-qualified||componentName=primary_nav||panelname=p-cc||sitecatalystStyleClass=RTPM-link external",false,true,false,%request%,%response%)%",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Small Business Credit Cards|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/business/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Find the Right Card|||componentName=primary_nav|||windowMode=new|||decorateLink=true|||interface=rtpm|||type=link|||sitecatalystStyleClass=RTPM-link external|||destination=%interfaceService.getUrl("rtpm","","panelName=p-cc||body=Find the Right Card||componentName=primary_nav||sitecatalystStyleClass=RTPM-link external",false,true,false,%request%,%response%)%",%request%,%response%)*SUB </li>
+<li> Personal <ul>
+<li> Personal Home </li>
+<li> Credit Cards Expand Credit Cards Menu Find a Card <ul>
+<li> Credit Cards Home </li>
+<li> View Top Rewards Cards </li>
+<li> Compare Credit Cards </li>
+<li> See if You're Pre-qualified </li>
+<li> Small Business Credit Cards </li>
+<li> Find the Right Card </li>
 <li> Respond to a Mail Offer </li>
 </ul> Benefits And Services <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=View Cardholder Benefits|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/benefits/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=See Credit Card FAQ|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/faq/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Redeem and Learn About Rewards|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/rewards/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Pay Your Bill|||componentName=primary_nav|||windowMode=new|||type=link|||destination=https://servicing.capitalone.com/c1/login.aspx?redirect=MAKEPAYMENT",%request%,%response%)*SUB </li>
+<li> View Cardholder Benefits </li>
+<li> See Credit Card FAQ </li>
+<li> Redeem and Learn About Rewards </li>
+<li> Pay Your Bill </li>
 <li> Learn About CreditWise </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-cc|||body=Explore Card Topics|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/credit-cards/blog/",%request%,%response%)*SUB </li>
+<li> Explore Card Topics </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Bank|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/bank/",%request%,%response%)*SUB Expand Bank Menu SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Personal Banking|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/bank/",%request%,%response%)*SUB <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Bank Home|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/bank/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Money Market Account|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/online-money-market-account/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Checking Accounts|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/checking-accounts/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Savings Accounts|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/savings-accounts/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=CD Accounts|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/cds/online-cds/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-bn|||body=Online and Mobile Banking Tools|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/online-banking/",%request%,%response%)*SUB </li>
+<li> Bank Expand Bank Menu Personal Banking <ul>
+<li> Bank Home </li>
+<li> Money Market Account </li>
+<li> Checking Accounts </li>
+<li> Savings Accounts </li>
+<li> CD Accounts </li>
+<li> Online and Mobile Banking Tools </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Borrow|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/loans/",%request%,%response%)*SUB Expand Borrow Menu Mortgages &amp.
+<li> Borrow Expand Borrow Menu Mortgages &amp.
 Home Equity <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Borrow Home|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/loans/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Mortgages Overview|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-loans/mortgage",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Mortgage Rates|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-loans/mortgage/rates",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Refinance Overview|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-loans/refinance",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Refinance Rates|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-loans/refinance/rates",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Home Equity Overview|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-equity",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Home Equity Rates|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/home-equity/rates",%request%,%response%)*SUB </li>
+<li> Borrow Home </li>
+<li> Mortgages Overview </li>
+<li> Mortgage Rates </li>
+<li> Refinance Overview </li>
+<li> Refinance Rates </li>
+<li> Home Equity Overview </li>
+<li> Home Equity Rates </li>
 </ul> Auto Financing <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Auto Finance Overview|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/auto-financing",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=New &amp.
-Used Auto Financing|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/autonav",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Auto Loan Refinancing|||componentName=primary_nav|||windowMode=NEW|||type=link|||destination=https://autorefi.capitalone.com",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Auto Rates|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/auto-financing/rates",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Auto Loan Calculators|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/auto-financing/calculators",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-br|||body=Auto Learning Center|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/auto-learning-center",%request%,%response%)*SUB </li>
+<li> Auto Finance Overview </li>
+<li> New &amp.
+Used Auto Financing </li>
+<li> Auto Loan Refinancing </li>
+<li> Auto Rates </li>
+<li> Auto Loan Calculators </li>
+<li> Auto Learning Center </li>
 </ul>
 </li>
 <li> Invest Expand Invest Menu Team with an Advisor <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-in|||body=Invest Home|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/investing/",%request%,%response%)*SUB </li>
+<li> Invest Home </li>
 <li> Why Choose Our Advisors </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-in|||body=Wealth and Asset Management|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/private-client-group/",%request%,%response%)*SUB </li>
+<li> Wealth and Asset Management </li>
 </ul> Do It Yourself Online <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p-in|||body=Why Invest with Us|||componentName=primary_nav|||windowMode=SAME|||type=link|||destination=/investing",%request%,%response%)*SUB </li>
+<li> Why Invest with Us </li>
 <li> Compare Trade Prices </li>
 <li> Plan Your Retirement </li>
 <li> Open an Account </li>
@@ -64,83 +64,83 @@ Used Auto Financing|||componentName=primary_nav|||windowMode=same|||type=link|||
 <li> Investing Learning Center </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Learn|||componentName=primary_nav|||destination=/financial-education/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=p|||body=Contact|||componentName=primary_nav|||destination=/contact/",%request%,%response%)*SUB </li>
+<li> Learn </li>
+<li> Contact </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Business|||componentName=primary_nav|||location=2|||cssClass=mobile-only audience|||destination=/small-business-bank/",%request%,%response%)*SUB <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Business Home|||componentName=primary_nav|||destination=/small-business-bank/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Credit Cards|||componentName=primary_nav|||destination=/credit-cards/business/",%request%,%response%)*SUB Expand Credit Cards Menu Small Business <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Spark Cash Back Rewards|||componentName=primary_nav|||destination=/credit-cards/business/cash-back/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Spark Miles Rewards|||componentName=primary_nav|||destination=/credit-cards/business/travel-and-miles/",%request%,%response%)*SUB </li>
+<li> Business <ul>
+<li> Business Home </li>
+<li> Credit Cards Expand Credit Cards Menu Small Business <ul>
+<li> Spark Cash Back Rewards </li>
+<li> Spark Miles Rewards </li>
 </ul> Corporate <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Corporate Card Program|||componentName=primary_nav|||destination=/commercial/corporate-cards/",%request%,%response%)*SUB </li>
+<li> Corporate Card Program </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Bank|||componentName=primary_nav|||destination=/small-business-bank/",%request%,%response%)*SUB Expand Bank Menu Banking Accounts <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Bank Home|||componentName=primary_nav|||destination=/small-business-bank/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Business Checking|||componentName=primary_nav|||type=link|||destination=/small-business-bank/checking-accounts/online-checking-account/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Business Savings|||componentName=primary_nav|||type=link|||destination=/small-business-bank/savings-cds/online-savings-account/",%request%,%response%)*SUB </li>
+<li> Bank Expand Bank Menu Banking Accounts <ul>
+<li> Bank Home </li>
+<li> Business Checking </li>
+<li> Business Savings </li>
 </ul> Financing &amp.
 Credit <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Small Business Credit Cards|||componentName=primary_nav|||type=link|||destination=/credit-cards/business/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Corporate Card Program|||componentName=primary_nav|||type=link|||destination=/commercial/corporate-cards/",%request%,%response%)*SUB </li>
+<li> Small Business Credit Cards </li>
+<li> Corporate Card Program </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Borrow|||componentName=primary_nav|||destination=/credit-cards/business/",%request%,%response%)*SUB Expand Borrow Menu Financing &amp.
+<li> Borrow Expand Borrow Menu Financing &amp.
 Credit <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-br|||body=Borrow|||componentName=primary_nav|||destination=/credit-cards/business/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-br|||body=Small Business Credit Cards|||componentName=primary_nav|||type=link|||destination=/credit-cards/business/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Corporate Card Program|||componentName=primary_nav|||type=link|||destination=/commercial/corporate-cards/",%request%,%response%)*SUB </li>
+<li> Borrow </li>
+<li> Small Business Credit Cards </li>
+<li> Corporate Card Program </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Invest|||componentName=primary_nav|||windowMode=NEW|||type=link|||destination=http://www.sharebuilder401k.com",%request%,%response%)*SUB Expand Invest Menu Investing Accounts <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-in|||body=401(k) Plans|||componentName=primary_nav|||windowMode=NEW|||type=link|||destination=http://www.sharebuilder401k.com",%request%,%response%)*SUB </li>
+<li> Invest Expand Invest Menu Investing Accounts <ul>
+<li> 401(k) Plans </li>
 </ul> Banking Accounts <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bn|||body=Business Savings|||componentName=primary_nav|||type=link|||destination=/small-business-bank/savings-cds/online-savings-account/",%request%,%response%)*SUB </li>
+<li> Business Savings </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Manage|||componentName=primary_nav|||destination=/small-business-bank/merchant-services/",%request%,%response%)*SUB Expand Manage Menu Business Services <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b-bs|||body=Merchant Services|||componentName=primary_nav|||type=link|||destination=/small-business-bank/merchant-services/",%request%,%response%)*SUB </li>
+<li> Manage Expand Manage Menu Business Services <ul>
+<li> Merchant Services </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Learn|||componentName=primary_nav|||windowMode=NEW|||type=link|||destination=https://sparkbusinessiq.com/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=b|||body=Contact|||componentName=primary_nav|||type=link|||destination=/contact/business-banking/",%request%,%response%)*SUB </li>
+<li> Learn </li>
+<li> Contact </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Commercial|||componentName=primary_nav|||location=3|||cssClass=mobile-only audience|||destination=/commercial/",%request%,%response%)*SUB <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=Commercial Home|||componentName=primary_nav|||destination=/commercial/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=About|||componentName=primary_nav|||destination=/commercial/about/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=Industry Expertise|||componentName=primary_nav|||destination=/commercial/industry-expertise/",%request%,%response%)*SUB Expand Industry Expertise Menu <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=Commercial &amp.
-Industrial|||componentName=primary_nav|||windowMode=same|||type=link|||destination=/commercial/industry-expertise/industrial-manufacturing/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=Commercial Real Estate|||componentName=primary_nav|||destination=/commercial/industry-expertise/commercial-real-estate/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=Energy|||componentName=primary_nav|||destination=/commercial/industry-expertise/energy/",%request%,%response%)*SUB </li>
+<li> Commercial <ul>
+<li> Commercial Home </li>
+<li> About </li>
+<li> Industry Expertise Expand Industry Expertise Menu <ul>
+<li> Commercial &amp.
+Industrial </li>
+<li> Commercial Real Estate </li>
+<li> Energy </li>
 </ul>
 <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=Healthcare|||componentName=primary_nav|||destination=/commercial/healthcare/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=Technology|||componentName=primary_nav|||destination=/commercial/industry-expertise/technology/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-ie|||body=See All Industries|||componentName=primary_nav|||destination=/commercial/industry-expertise/",%request%,%response%)*SUB </li>
+<li> Healthcare </li>
+<li> Technology </li>
+<li> See All Industries </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=Solutions|||componentName=primary_nav|||destination=/commercial/solutions/",%request%,%response%)*SUB Expand Solutions Menu <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Solutions Home|||componentName=primary_nav|||destination=/commercial/solutions/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Commercial Lending|||componentName=primary_nav|||destination=/commercial/lending/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Depository Services|||componentName=primary_nav|||destination=/commercial/depository-services/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Treasury Management|||componentName=primary_nav|||destination=/commercial/treasury-management/",%request%,%response%)*SUB </li>
+<li> Solutions Expand Solutions Menu <ul>
+<li> Solutions Home </li>
+<li> Commercial Lending </li>
+<li> Depository Services </li>
+<li> Treasury Management </li>
 </ul>
 <ul>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Capital Markets|||componentName=primary_nav|||destination=/commercial/capital-markets/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Private Banking &amp.
-Wealth Management|||componentName=primary_nav|||destination=/commercial/private-wealth/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c-s|||body=Corporate Cards|||componentName=primary_nav|||destination=/commercial/corporate-cards/",%request%,%response%)*SUB </li>
+<li> Capital Markets </li>
+<li> Private Banking &amp.
+Wealth Management </li>
+<li> Corporate Cards </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=Insights|||componentName=primary_nav|||destination=/commercial/insights/",%request%,%response%)*SUB </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("panelName=c|||body=Contact|||componentName=primary_nav|||destination=/contact/commercial-banking/",%request%,%response%)*SUB </li>
+<li> Insights </li>
+<li> Contact </li>
 </ul>
 </li>
-<li> SUB*linkDecorationHelper.getDecoratedLinkType("body=Locations|||componentName=primary_nav|||location=4|||destination=http://maps.capitalone.com/locator/",%request%,%response%)*SUB </li>
+<li> Locations </li>
 <li> Search </li>
 </ul> Terms and Conditions <ul>
 <li>Print</li>
