@@ -127,6 +127,7 @@ mpg<sup>
 <ul>
 <li> 2018 Camry <br>View More Info </li>
 <li> 2018 C-HR <br>View More Info </li>
+<li> 2018 Yaris <br>View More Info </li>
 <li> 2018 Sequoia <br>View More Info </li>
 <li> 2018 Tundra <br>View More Info </li>
 <li> 2018 RAV4 <br>View More Info </li>
@@ -239,8 +240,6 @@ Minivan<br>
 <li>
 Crossovers<br>
 </li>
-</ul>
-<ul>
 <li>
 Hybrid Vehicles<br>
 </li>
@@ -259,11 +258,64 @@ Fuel-Efficient Cars<br>
 <li>
 Fuel-Efficient SUVs<br>
 </li>
+</ul>
+<ul>
 <li>
-Search Inventory<br>
+Cars Under $20,000<br>
+</li>
+<li>
+Cars Under $25,000<br>
+</li>
+<li>
+Cars Under $30,000<br>
+</li>
+<li>
+Cars Under $40,000<br>
+</li>
+<li>
+Full-Size SUVs<br>
+</li>
+<li>
+Mid-Size SUVs<br>
+</li>
+<li>
+Full-Size Cars<br>
+</li>
+<li>
+Mid-Size Cars<br>
+</li>
+<li>
+SUVs With Third-Row Seating<br>
+</li>
+<li>
+7-Passenger Vehicles<br>
+</li>
+<li>
+4-Door Sedans<br>
+</li>
+<li>
+2-Door Cars<br>
+</li>
+<li>
+All-Wheel-Drive Vehicles<br>
 </li>
 </ul>
 <ul>
+<li>
+Cars for Teenagers<br>
+</li>
+<li>
+Off-Road Vehicles<br>
+</li>
+<li>
+Luxury Cars<br>
+</li>
+<li>
+Family SUVs<br>
+</li>
+<li>
+Search Inventory<br>
+</li>
 <li>
 Prius Family<br>
 </li>
@@ -571,7 +623,7 @@ Toyota Mobility<br>
 <b>Local Specials</b>
 <br>
 </li>
-</ul> Check out our ADA Compliance Statement <p>Toyota is committed to accessibility, diversity, and inclusion for all of its guests.
+</ul> Accessibility <p>Toyota is committed to accessibility, diversity, and inclusion for all of its guests.
 We believe everyone should be able to visit Toyota.com, use our mobile apps, and access our service easily.
 We welcome feedback.
 If you notice any content, feature or functionality of the Site that you believe is not fully accessible to people with disabilities, please contact us and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement.
@@ -1445,17 +1497,16 @@ Advice</li>
 </ul> Language <ul>
 <li> Español </li>
 </ul> Help <ul>
-<li> Contact Us
-</li>
+<li> Contact Us </li>
+<li> Accessibility </li>
 <li> FAQ </li>
 </ul>
 <ul>
 <li>Privacy Policy</li>
-<li> Legal Terms
-</li>
+<li>Legal Terms</li>
 <li>Site Map</li>
 <li>AdChoices</li>
-<li> AdChoices</li>
+<li> AdChoices </li>
 </ul>
 <p>©2017 Toyota Motor Sales, U.S.A., Inc.
 All information applies to U.S.
@@ -1469,6 +1520,14 @@ Actual dealer price will vary.</li>
 <li>2016 EPA-estimated city/highway mileage.
 Actual mileage will vary.<br>
 2017 EPA-estimated city/highway mileage.
+Actual mileage will vary.</li>
+<li>2017 EPA-estimated mileage.
+Actual mileage will vary.</li>
+<li>2017 EPA-estimated 19 city/27 highway/22 combined mpg for Sienna FWD.
+Actual mileage will vary.</li>
+<li>2017 EPA-estimated 54 city/50 highway/52 combined mpg for Prius.
+Actual mileage will vary.</li>
+<li>2017 EPA-estimated 43 city/39 highway/41 combined mpg for Prius <i>v</i>.
 Actual mileage will vary.</li>
 <li>2017 Prius Prime EPA-estimated combined mpg.
 Actual mpg will vary based on driving habits, weather, temperature and road/traffic conditions.
