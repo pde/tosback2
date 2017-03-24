@@ -227,17 +227,6 @@ Bags </li>
 <li> Sale </li>
 </ul>
 </li>
-<li> Sale SHOP SALE <ul>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
-<li> School Uniforms </li>
-</ul> FEATURED SHOPS <ul>
-<li> On The Counter </li>
-</ul>
-</li>
 <li> School FIND YOUR SCHOOL&gt.
 FEATURED SHOPS <ul>
 <li> Best-in-Class Polos </li>
@@ -336,6 +325,17 @@ Gifts </li>
 </ul> DOG SHOP &gt.
 SEASONAL DECOR &gt.
 ENTERTAINING &gt.
+</li>
+<li> Sale SHOP SALE <ul>
+<li> Women </li>
+<li> Men </li>
+<li> Girls </li>
+<li> Boys </li>
+<li> Home </li>
+<li> School Uniforms </li>
+</ul> FEATURED SHOPS <ul>
+<li> On The Counter </li>
+</ul>
 </li>
 </ul>
 <ul>
@@ -634,30 +634,6 @@ Bags </li>
 <li> Boys </li>
 </ul>
 </li>
-<li> Sale <i>
-</i>
-<ul>
-<li>
-<i>
-</i> Back </li>
-<li> Shop all Sale </li>
-<li> FEATURED SHOPS <i>
-</i>
-<ul>
-<li>
-<i>
-</i> Back </li>
-<li> On The Counter </li>
-</ul>
-</li>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
-<li> School Uniforms </li>
-</ul>
-</li>
 <li> School <i>
 </i>
 <ul>
@@ -827,6 +803,30 @@ Gifts </li>
 <li> DOG SHOP </li>
 <li> SEASONAL DECOR </li>
 <li> ENTERTAINING </li>
+</ul>
+</li>
+<li> Sale <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> Shop all Sale </li>
+<li> FEATURED SHOPS <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> On The Counter </li>
+</ul>
+</li>
+<li> Women </li>
+<li> Men </li>
+<li> Girls </li>
+<li> Boys </li>
+<li> Home </li>
+<li> School Uniforms </li>
 </ul>
 </li>
 <li> Hi, Sign in My Account <i>
