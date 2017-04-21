@@ -134,6 +134,11 @@ Search Menu <ul>
 <li> Subsidiary company reporting <ul>
 </ul>
 </li>
+<li> Stock exchange announcements <ul>
+<li> Inside information
+</li>
+</ul>
+</li>
 <li> Share and dividend information <ul>
 <li> Dividend calculators
 </li>
@@ -152,19 +157,6 @@ Search Menu <ul>
 </li>
 </ul>
 <ul>
-<li> Fixed income securities <ul>
-<li> Covered bond reports
-</li>
-<li> Green bond reports
-</li>
-<li> Credit ratings
-</li>
-<li> Issuance programmes
-</li>
-<li> Regulatory capital securities
-</li>
-</ul>
-</li>
 <li> Investor resources <ul>
 <li> Contact our registrar
 </li>
@@ -176,8 +168,20 @@ Search Menu <ul>
 </li>
 </ul>
 </li>
-<li> Stock exchange announcements <ul>
-<li> Inside information
+<li> Fixed income investors <ul>
+<li> Group securities
+</li>
+<li> Subsidiary company securities
+</li>
+<li> Covered bonds
+</li>
+<li> Green bonds
+</li>
+<li> Issuance programmes
+</li>
+<li> Regulatory capital securities
+</li>
+<li> Credit ratings
 </li>
 </ul>
 </li>
@@ -546,11 +550,11 @@ Patent Nos.
 </ul> Investor relations <ul>
 <li>Group results and reporting </li>
 <li>Subsidiary company reporting</li>
-<li>Fixed income securities</li>
+<li>Stock exchange announcements</li>
 <li>Share and dividend information</li>
 <li>Events and presentations</li>
 <li>Investor resources</li>
-<li>Stock exchange announcements</li>
+<li>Fixed income investors</li>
 </ul> News and insight <ul>
 <li>Media resources</li>
 <li>Insight archive</li>
