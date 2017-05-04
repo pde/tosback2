@@ -6,6 +6,10 @@ Red</li>
 Blue</li>
 <li>
 Pink</li>
+</ul> Apps <ul>
+<li>
+<p>{text}</p>
+</li>
 </ul> Categories <ul>
 <li>
 <p>{text} ({games_number})</p>
