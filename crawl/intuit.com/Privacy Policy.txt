@@ -1,4 +1,4 @@
- 2017.6.0.0.274.0 <ul>
+ 2017.6.1.0.2.0 <ul>
 <li>find a store</li>
 <li>store ads</li>
 <li>gift cards</li>
@@ -9,6 +9,7 @@
 <li>
 <li>recommendations</li>
 <li>track order</li>
+<li>ship to</li>
 <li>customer service</li>
 <li>accessible view</li>
 </ul>
@@ -19,6 +20,7 @@
 <li>
 <li>recommendations</li>
 <li>track order</li>
+<li>ship to</li>
 <li>customer service</li>
 <li>accessible view</li>
 </ul> Your Store: select store 0 my bag $ 0.00 <ul>
@@ -43,18 +45,18 @@ bath</li>
 </li>
 </ul>
 2017.6.1.0.2.0 2017 XM migration-home *************************************************** HOST NAME :-&gt.
-colldtaexpr1p01.jcpenney.com SERVER NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 04:09:47 CDT 2017 JVM :-&gt.
-dtexppr1c1j4_01 *************************************************** Content-ZoneA *************************************************** HOST NAME :-&gt.
-colldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 12:01:19 CDT 2017 JVM :-&gt.
+dtexppr1c2j4_02 *************************************************** Content-ZoneA *************************************************** HOST NAME :-&gt.
+colldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 04:09:47 CDT 2017 JVM :-&gt.
-dtexppr1c1j6_03 *************************************************** Content-ZoneB *************************************************** HOST NAME :-&gt.
-colldtaexpr1p01.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 12:00:17 CDT 2017 JVM :-&gt.
+dtexppr1c2j4_04 *************************************************** Content-ZoneB *************************************************** HOST NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 04:09:47 CDT 2017 JVM :-&gt.
-dtexppr1c1j5_01 *************************************************** <ul>
+Thu May 11 22:10:25 CDT 2017 JVM :-&gt.
+dtexppr1c2j6_02 *************************************************** <ul>
 <li>
 </li>
 <li>
@@ -80,38 +82,38 @@ dtexppr1c1j5_01 *************************************************** <ul>
 <li>
 </li>
 </ul> *************************************************** HOST NAME :-&gt.
-colldtaexpr1p01.jcpenney.com SERVER NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 04:09:47 CDT 2017 JVM :-&gt.
-dtexppr1c1j5_01 *************************************************** Content-ZoneC *************************************************** HOST NAME :-&gt.
-colldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:10:09 CDT 2017 JVM :-&gt.
+dtexppr1c2j5_02 *************************************************** Content-ZoneC *************************************************** HOST NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 04:09:47 CDT 2017 JVM :-&gt.
-dtexppr1c1j3_03 *************************************************** Content-ZoneD *************************************************** HOST NAME :-&gt.
-lenldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:09:04 CDT 2017 JVM :-&gt.
+dtexppr1c2j1_02 *************************************************** Content-ZoneD *************************************************** HOST NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:52:06 CDT 2017 JVM :-&gt.
-dtexppr1l2j5_02 *************************************************** *************************************************** HOST NAME :-&gt.
-lenldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:10:37 CDT 2017 JVM :-&gt.
+dtexppr1c2j4_02 *************************************************** *************************************************** HOST NAME :-&gt.
+colldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:55:23 CDT 2017 JVM :-&gt.
-dtexppr1l2j2_02 *************************************************** *************************************************** HOST NAME :-&gt.
-lenldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:57:38 CDT 2017 JVM :-&gt.
+dtexppr1c2j4_04 *************************************************** *************************************************** HOST NAME :-&gt.
+colldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:55:23 CDT 2017 JVM :-&gt.
-dtexppr1l2j1_02 *************************************************** *************************************************** HOST NAME :-&gt.
-colldtaexpr1p01.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:58:47 CDT 2017 JVM :-&gt.
+dtexppr1c2j3_04 *************************************************** *************************************************** HOST NAME :-&gt.
+colldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:55:04 CDT 2017 JVM :-&gt.
-dtexppr1c1j3_01 *************************************************** *************************************************** HOST NAME :-&gt.
-colldtaexpr1p03.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:55:20 CDT 2017 JVM :-&gt.
+dtexppr1c2j5_04 *************************************************** *************************************************** HOST NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:52:06 CDT 2017 JVM :-&gt.
-dtexppr1c1j4_03 *************************************************** *************************************************** HOST NAME :-&gt.
-lenldtaexpr1p04.jcpenney.com SERVER NAME :-&gt.
+Thu May 11 22:56:00 CDT 2017 JVM :-&gt.
+dtexppr1c2j6_02 *************************************************** *************************************************** HOST NAME :-&gt.
+colldtaexpr1p02.jcpenney.com SERVER NAME :-&gt.
 www.jcpenney.com TIME :-&gt.
-Wed May 10 22:28:48 CDT 2017 JVM :-&gt.
-dtexppr1l2j5_04 *************************************************** true true get connected <ul>
+Thu May 11 05:22:58 CDT 2017 JVM :-&gt.
+dtexppr1c2j2_02 *************************************************** true true get connected <ul>
 <li>
 <li>
 <li>
@@ -155,6 +157,7 @@ more ways to shop <ul>
 <li>jcpenney rewards</li>
 <li>jcpenney credit card</li>
 <li>gift cards</li>
+<li>international shopping</li>
 </ul>
 </li>
 <li>
