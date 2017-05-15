@@ -1,13 +1,12 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 22 commits.
+# Your branch is ahead of 'origin/master' by 23 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	modified:   ../crawl/advair.com/Privacy Policy.txt
 #	modified:   ../crawl/alibaba.com/Privacy Policy.txt
 #	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 #	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
@@ -16,9 +15,11 @@ These files were modified since the last commit:
 #	modified:   ../crawl/nextag.com/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
-#	modified:   ../crawl/privacyscore.com/Privacy Policy.txt
-#	modified:   ../crawl/reuters.com/Privacy Policy.txt
+#	modified:   ../crawl/progressive.com/Privacy Policy.txt
+#	modified:   ../crawl/scribd.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/sonic.net/All Policies.txt
+#	modified:   ../crawl_reviewed/tumblr.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
