@@ -1,25 +1,26 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 49 commits.
+# Your branch is ahead of 'origin/master' by 50 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
 #	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+#	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 #	modified:   ../crawl/ebaumsworld.com/Privacy Policy.txt
+#	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 #	modified:   ../crawl/indeed.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
-#	modified:   ../crawl/nextag.com/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
-#	modified:   ../crawl/peekyou.com/Privacy Policy.txt
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
-#	modified:   ../crawl/privacyscore.com/Privacy Policy.txt
+#	modified:   ../crawl/privacychoice.org/Privacy Policy.txt
+#	modified:   ../crawl/progressive.com/Privacy Policy.txt
 #	modified:   ../crawl/shopstyle.com/Privacy Policy.txt
-#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
-#	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
+#	modified:   ../crawl/spiegel.de/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
+#	modified:   ../crawl_reviewed/sonic.net/All Policies.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
