@@ -1,5 +1,25 @@
  STEAM® SUBSCRIBER AGREEMENT
 <br>
+<p>Table of contents: </p>
+<ol>
+<li>Registration as a subscriber.
+application of terms to you.
+your account</li>
+<li>Licences</li>
+<li>Billing, payment and other subscriptions</li>
+<li>Online conduct, cheating and illegal behavior</li>
+<li>Third party content</li>
+<li>User generated content</li>
+<li>Disclaimers.
+limitation of liability.
+no guarantees.
+limited warranty</li>
+<li>Amendments to this agreement</li>
+<li>Term and termination</li>
+<li>Applicable law/jurisdiction</li>
+<li>Dispute resolution/binding arbitration/class action waiver</li>
+<li>Miscellaneous</li>
+</ol>
 <p>This Steam Subscriber Agreement ("Agreement") is a legal document that explains your rights and obligations as a subscriber of Steam from Valve Corporation (“Valve”).
 Please read it carefully.</p>
 <p>SECTION 11 CONTAINS A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER.
@@ -9,7 +29,8 @@ IF YOU ARE A CUSTOMER WITH RESIDENCE IN THE EUROPEAN UNION, SECTION 11 DOES NOT 
 <p>1.
 REGISTRATION AS A SUBSCRIBER.
 APPLICATION OF TERMS TO YOU.
-YOUR ACCOUNT</p>
+YOUR ACCOUNT<small> ⏶</small>
+</p>
 <p>Steam is an online service offered by Valve.</p>
 <p>You become a subscriber of Steam ("Subscriber") by completing the registration of a Steam user account.
 This Agreement takes effect as soon as you indicate your acceptance of these terms.
@@ -29,19 +50,21 @@ the rights to access and/or use any Contents and Services accessible through Ste
 Some Subscriptions may impose additional terms specific to that Subscription ("Subscription Terms") (for example, an end user license agreement specific to a particular game, or terms of use specific to a particular product or feature of Steam).
 Also, additional terms (for example, payment and billing procedures) may be posted on http://www.steampowered.com or within the Steam service ("Rules of Use").
 Rules of Use include the Steam Online Conduct Rules http://steampowered.com/index.php?area=online_conduct and the Steam Refund Policy http://store.steampowered.com/steam_refunds.
-The Subscription Terms, the Rules of Use, and the Valve Privacy Policy (which can be found at http://www.valvesoftware.com/privacy.htm) are binding on you once you indicate your acceptance of them or of this Agreement, or otherwise become bound by them as described in Section 8 (Amendments to this Agreement).</p>
+The Subscription Terms, the Rules of Use, the Valve video policy (see Section 2.D below) and the Valve Privacy Policy (which can be found at http://www.valvesoftware.com/privacy.htm) are binding on you once you indicate your acceptance of them or of this Agreement, or otherwise become bound by them as described in Section 8 (Amendments to this Agreement).</p>
 <p>C.
 Your Account</p>
 <p>When you complete Steam’s registration process, you create a Steam account ("Account").
 Your Account may also include billing information you provide to Valve for the purchase of Subscriptions, Content and Services and any physical merchandise offered for purchase through Steam (“Hardware”).
 You may not reveal, share or otherwise allow others to use your password or Account except as otherwise specifically authorized by Valve.
 You are responsible for the confidentiality of your login and password and for the security of your computer system.
-Valve is not responsible for the use of your password and Account or for all of the communication and activity on Steam that results from use of your login name and password by you, by any person to whom you may have intentionally or by negligence disclosed your login and/or password in violation of this confidentiality provision, or by any other person who fraudulently used your login and password without your permission.
+Valve is not responsible for the use of your password and Account or for all of the communication and activity on Steam that results from use of your login name and password by you, by any person to whom you may have intentionally or by negligence disclosed your login and/or password in violation of this confidentiality provision.
+Unless it results from Valve’s negligence or fault, Valve is not responsible for the use of your Account by a person who fraudulently used your login and password without your permission.
 If you believe that the confidentiality of your login and/or password may have been compromised, you must notify Valve via the support form (https://support.steampowered.com/newticket.php) without any delay.</p>
 <p>Your Account, including any information pertaining to it (e.g.: contact information, billing information, Account history and Subscriptions, etc.), is strictly personal.
 You may therefore not sell or charge others for the right to use your Account, or otherwise transfer your Account, nor may you sell, charge others for the right to use, or transfer any Subscriptions other than if and as expressly permitted by this Agreement (including any Subscription Terms or Rules of Use) or as otherwise specifically permitted by Valve.</p>
 <p>2.
-LICENSES</p>
+LICENSES<small> ⏶</small>
+</p>
 <p>A.
 General Content and Services License</p>
 <p>Steam and your Subscription(s) require the automatic download and installation of Content and Services onto your computer.
@@ -115,7 +138,8 @@ Except as otherwise permitted under this Agreement (including any Subscription T
 or (iii) exploit the Content and Services or any of its parts for any commercial purpose, except as expressly permitted elsewhere in this Agreement (including any Subscription Terms or Rules of Use).
 </p>
 <p>3.
-BILLING, PAYMENT AND OTHER SUBSCRIPTIONS</p>
+BILLING, PAYMENT AND OTHER SUBSCRIPTIONS<small> ⏶</small>
+</p>
 <p>All charges incurred on Steam, and all purchases made with the Steam Wallet, are payable in advance and final, except as described in Section 7 below and in the Steam Refund Policy http://store.steampowered.com/steam_refunds.</p>
 <p>A.
 Payment Authorization</p>
@@ -123,7 +147,7 @@ Payment Authorization</p>
 Valve may require you to provide your address or other information in order to meet their obligations under applicable tax law.
 </p>
 <p>For Subscriptions purchased based on an agreed usage period, where recurring payments are made in exchange for continued use (“Recurring Payment Subscriptions”), by continuing to use the Recurring Payment Subscription you agree and reaffirm that Valve is authorized to charge your credit card (or your Steam Wallet, if funded), or to process your payment with any other applicable third-party payment processor, for any applicable recurring payment amounts.
-If you have purchased any Recurring Payment Subscriptions, you agree to notify Valve promptly of any changes to your credit card account number, its expiration date and/or your billing address, or your PayPal or other payment account number, and you agree to notify Valve promptly if your credit card or PayPal or other payment account expires or is canceled for any reason.</p>
+If you have purchased any Recurring Payment Subscriptions, you agree to notify Valve promptly of any changes to your credit card account number, its expiration date and/or your billing address, or your PayPal or other payment account number, and you agree to notify Valve promptly if your credit card or PayPal or other payment account expires or is cancelled for any reason.</p>
 <p>If your use of Steam is subject to any type of use or sales tax, then Valve may also charge you for those taxes, in addition to the Subscription or other fees published in the Rules of Use.
 The European Union VAT (“VAT”) tax amounts collected by Valve reflect VAT due on the value of any Content and Services, Hardware or Subscription.</p>
 <p>You agree that you will not use IP proxying or other methods to disguise the place of your residence, whether to circumvent geographical restrictions on game content, to purchase at pricing not applicable to your geography, or for any other purpose.
@@ -185,30 +209,35 @@ Any separate charges or obligations you incur in your dealings with these third 
 Valve makes no representations or warranties, either express or implied, regarding any third party site.
 In particular, Valve makes no representation or warranty that any service or subscription offered via third-party vendors will not change or be suspended or terminated.</p>
 <p>4.
-ONLINE CONDUCT, CHEATING AND ILLEGAL BEHAVIOR</p>
+ONLINE CONDUCT, CHEATING AND ILLEGAL BEHAVIOR<small> ⏶</small>
+</p>
 <p>Your online conduct and interaction with other Subscribers should be guided by common sense and basic etiquette.
-Specific requirements may also be found in the Steam Online Conduct rules at http://steampowered.com/index.php?area=online_conduct, other Rules of Use, the Subscription Terms, or in terms of use imposed by third parties who host particular games or other services.</p>
+They must notably comply with the Steam Online Conduct rules, to be found at http://steampowered.com/index.php?area=online_conduct.
+Depending on terms of use imposed by third parties who host particular games or other services, additional requirements may also be provided in the Subscription Terms applicable to a particular Subscription.</p>
 <p>Steam and the Content and Services may include functionality designed to identify software or hardware processes or functionality that may give a player an unfair competitive advantage when playing multiplayer versions of any Content and Services or modifications of Content and Services (“Cheats”).
 You agree that you will not create Cheats or assist third parties in any way to create or use Cheats.
 You agree that you will not directly or indirectly disable, circumvent, or otherwise interfere with the operation of software designed to prevent or report the use of Cheats.
 You acknowledge and agree that either Valve or any online multiplayer host may refuse to allow you to participate in certain online multiplayer games if you use Cheats in connection with Steam or the Content and Services.
 Further, you acknowledge and agree that an online multiplayer host may report your use of Cheats to Valve, and Valve may communicate your history of use of Cheats to other online multiplayer hosts.
-Valve may terminate your Account or a particular Subscription for any conduct or activity that Valve believes is illegal, constitutes a Cheat, or otherwise negatively affects the enjoyment of Steam by other Subscribers.
-You acknowledge that Valve is not required to provide you notice before terminating your Subscriptions(s) and/or Account, but it may choose to do so.</p>
+Valve may terminate your Account or a particular Subscription for any conduct or activity that is illegal, constitutes a Cheat, or otherwise negatively affects the enjoyment of Steam by other Subscribers.
+You acknowledge that Valve is not required to provide you notice before terminating your Subscription(s) and/or Account.</p>
 <p>You may not use Cheats, automation software (bots), mods, hacks, or any other unauthorized third-party software, to modify or automate any Subscription Marketplace process.</p>
 <p>5.
-THIRD PARTY CONTENT</p>
+THIRD PARTY CONTENT<small> ⏶</small>
+</p>
 <p>In regard to all Subscriptions, Contents and Services that are not authored by Valve, Valve does not screen such third party content available on Steam or through other sources.
 Valve assumes no responsibility or liability for such third party content.
 Some third party application software is capable of being used by businesses for business purposes - however, you may only acquire such software via Steam for private personal use.</p>
 <p>6.
-USER GENERATED CONTENT</p>
+USER GENERATED CONTENT<small> ⏶</small>
+</p>
 <p>A.
 General Provisions </p>
 <p>Steam provides interfaces and tools for you to be able to generate content and make it available to other users and/or to Valve at your sole discretion.
 "User Generated Content" means any content you make available to other users through your use of multi-user features of Steam, or to Valve or its affiliates through your use of the Content and Services or otherwise.</p>
-<p>When you upload your content to Steam to make it available to other users and/or to Valve, you grant Valve and its affiliates the worldwide, non-exclusive, right to use, reproduce, modify, create derivative works from, distribute, transmit, transcode, translate, broadcast, and otherwise communicate, and publicly display and publicly perform, your User Generated Content, and derivative works of your User Generated Content, in connection with the operation, distribution and promotion of the Steam service, Steam games or other Steam offerings.
-This license is granted to Valve for the entire duration of the intellectual property rights and may be terminated if Valve is in breach of the license and has not cured such breach within fourteen (14) days from receiving notice from you sent to the attention of the Valve Legal Department at the applicable Valve address noted on this Privacy Policy page.
+<p>When you upload your content to Steam to make it available to other users and/or to Valve, you grant Valve and its affiliates the worldwide, non-exclusive, right to use, reproduce, modify, create derivative works from, distribute, transmit, transcode, translate, broadcast, and otherwise communicate, and publicly display and publicly perform, your User Generated Content, and derivative works of your User Generated Content, for the purpose of the operation, distribution and promotion of the Steam service, Steam games or other Steam offerings.
+This license is granted to Valve as the content is uploaded on Steam for the entire duration of the intellectual property rights.
+It may be terminated if Valve is in breach of the license and has not cured such breach within fourteen (14) days from receiving notice from you sent to the attention of the Valve Legal Department at the applicable Valve address noted on this Privacy Policy page.
 The termination of said license does not affect the rights of any sub-licensees pursuant to any sub-license granted by Valve prior to termination of the license.
 Valve is the sole owner of the derivative works created by Valve from your Content, and is therefore entitled to grant licenses on these derivative works.
 If you use Valve cloud storage, you grant us a license to store your information as part of that service.
@@ -252,9 +281,9 @@ In particular, with respect to Workshop Contributions, you represent and warrant
 DISCLAIMERS.
 LIMITATION OF LIABILITY.
 NO GUARANTEES.
-LIMITED WARRANTY</p>
-<p>FOR EU CUSTOMERS, THIS SECTION 7 DOES NOT REDUCE YOUR MANDATORY CONSUMER RIGHTS UNDER THE LAWS OF YOUR LOCAL JURISDICTION.
-IN PARTICULAR, SECTIONS 7.A, B, AND C DO NOT APPLY TO EU SUBSCRIBERS.
+LIMITED WARRANTY<small> ⏶</small>
+</p>
+<p>THIS SECTION 7 DOES NOT APPLY TO EU SUBSCRIBERS.
 </p>
 <ul>
 <li>FOR NEW ZEALAND SUBSCRIBERS, THIS SECTION 7 DOES NOT EXCLUDE, RESTRICT OR MODIFY THE APPLICATION OF ANY RIGHT OR REMEDY THAT CANNOT BE SO EXCLUDED, RESTRICTED OR MODIFIED INCLUDING THOSE CONFERRED BY THE NEW ZEALAND CONSUMER GUARANTEES ACT 1993.
@@ -284,7 +313,8 @@ NO GUARANTEES</p>
 LIMITED WARRANTY</p>
 <p>CERTAIN HARDWARE PURCHASED FROM VALVE IS SUBJECT TO A LIMITED WARRANTY, [OR DEPENDING ON YOUR LOCATION, A STATUTORY WARRANTY] WHICH IS DESCRIBED IN DETAIL HERE.</p>
 <p>8.
-AMENDMENTS TO THIS AGREEMENT</p>
+AMENDMENTS TO THIS AGREEMENT<small> ⏶</small>
+</p>
 <p>PLEASE NOTE: If you are a consumer with place of residence in Germany, a different version of Section 8 applies to you, which is available here.</p>
 <p>This Agreement may at any time be mutually amended by your explicit consent to changes proposed by Valve.
 Furthermore, Valve may amend this Agreement (including any Subscription Terms or Rules of Use) unilaterally at any time in its sole discretion.
@@ -295,7 +325,8 @@ If you don’t agree to the amendments or to any of the terms in this Agreement,
 Valve shall not have any obligation to refund any fees that may have accrued to your Account before cancellation of your Account or cessation of use of any Subscription, nor shall Valve have any obligation to prorate any fees in such circumstances.
 </p>
 <p>9.
-TERM AND TERMINATION</p>
+TERM AND TERMINATION<small> ⏶</small>
+</p>
 <p>A.
 Term</p>
 <p>The term of this Agreement (the "Term") commences on the date you first indicate your acceptance of these terms, and will continue in effect until otherwise terminated in accordance with this Agreement.</p>
@@ -317,7 +348,8 @@ In the event that your Account or a particular Subscription is terminated or can
 Survival of Terms</p>
 <p>Sections 2(C), 2(D), 2(F), 2(G), 3(A), 3(B), 3(D), 3(H), and 5 - 12 will survive any expiration or termination of this Agreement.</p>
 <p>10.
-APPLICABLE LAW/JURISDICTION</p>
+APPLICABLE LAW/JURISDICTION<small> ⏶</small>
+</p>
 <p>For All Customers Outside the European Union:</p>
 <p>You agree that this Agreement shall be deemed to have been made and executed in the State of Washington, U.S.A., and any dispute arising hereunder shall be resolved in accordance with the law of Washington excluding the law of conflicts and the Convention on Contracts for the International Sale of Goods.
 Subject to Section 11 (Dispute Resolution/Binding Arbitration/Class Action Waiver) below, you agree that any claim asserted in any legal proceeding by you against Valve shall be commenced and maintained exclusively in any state or federal court located in King County, Washington, having subject matter jurisdiction with respect to the dispute between the parties and you hereby consent to the exclusive jurisdiction of such courts.
@@ -328,7 +360,8 @@ You can file your complaint at http://help.steampowered.com.
 In case of failure, you may, within one year of the failed request, file an online complaint on the European Commission’s Online Dispute Resolution website: https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage, or on the European Consumer Center’s website: http://www.europe-consommateurs.eu/index.php?id=2514.</p>
 <p>In the event that out-of-court dispute resolutions fail, the dispute may be brought before the competent courts.</p>
 <p>11.
-DISPUTE RESOLUTION/BINDING ARBITRATION/CLASS ACTION WAIVER</p>
+DISPUTE RESOLUTION/BINDING ARBITRATION/CLASS ACTION WAIVER<small> ⏶</small>
+</p>
 <p>This Section 11 shall apply to the maximum extent permitted by applicable law.
 If the laws of your jurisdiction prohibit the application of some or all of the provisions of this Section notwithstanding Section 10 (Applicable Law/Jurisdiction), such provisions will not apply to you.
 IN PARTICULAR, IF YOU LIVE IN THE EUROPEAN UNION, THIS SECTION 11 DOES NOT APPLY TO YOU.</p>
@@ -372,7 +405,8 @@ You and Valve also agree not to seek to combine any action or arbitration with a
 <p>Notwithstanding this Section, you have the right to litigate any dispute in small claims court, if all the requirements of the small claims court, including any limitations on jurisdiction and the amount at issue in the dispute, are satisfied.
 </p>
 <p>12.
-MISCELLANEOUS</p>
+MISCELLANEOUS<small> ⏶</small>
+</p>
 <p>Except as otherwise expressly set forth in this Agreement, in the event that any provision of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provision will be enforced to the maximum extent permissible and the remaining portions of this Agreement shall remain in full force and effect.
 This Agreement, including any Subscription Terms, Rules of Use, the Valve Privacy Policy, and the Valve Hardware Warranty Policy, constitutes and contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior oral or written agreements.
 You agree that this Agreement is not intended to confer and does not confer any rights or remedies upon any person other than the parties to this Agreement.</p>
@@ -381,6 +415,6 @@ You agree that this Agreement is not intended to confer and does not confer any 
 You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S.
 Bureau of Export Administration.
 You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.</p>
-<p>This Agreement was last updated on January 1st, 2017 ("Revision Date").
+<p>This Agreement was last updated on June 2nd, 2017 ("Revision Date").
 If you were a Subscriber before the Revision Date, it replaces your existing agreement with Valve or Valve SARL on the day that you explicitly accept it.
 If you prefer to continue using Steam and your existing Subscriptions under the version of the Agreement in effect prior to the Revision Date, you are free to do so.</p> 
