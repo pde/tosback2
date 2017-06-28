@@ -46,7 +46,7 @@ Mailgun’s obligation to provide Services is contingent on verification that yo
 Mailgun shall have no obligation to provide Services for Customer Configurations which do not meet the Mailgun Configuration Requirements.
 Mailgun will provide support only to those individuals designated in your customer portal and is not required to provide any support directly to your end users.</p>
 <p>
-<strong>2.2 Service Level Agreement.</strong> Mailgun guarantees that the Services (meaning any or all of the API, SMTP and Outbound Delivery services listed at http://status.mailgun.net) will be available 99.99% of the time in any given monthly billing period, excluding maintenance.
+<strong>2.2 Service Level Agreement.</strong> Mailgun guarantees that the Services (meaning any or all of the API, SMTP and Outbound Delivery services listed at status.mailgun.com) will be available 99.99% of the time in any given monthly billing period, excluding maintenance.
 You are entitled to a credit of 5% of your given monthly fee for the Services for each 30 minutes of Mailgun Service unavailability (after the first .01%) in a given monthly period.</p>
 <p>
 <strong>2.3 Credit Limitations.</strong> You are not entitled to a credit if you are in breach of the terms governing your use of the Services until you have cured the breach.
