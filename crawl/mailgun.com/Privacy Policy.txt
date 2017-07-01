@@ -1,4 +1,8 @@
  Privacy Policy <p>Last revised and updated 6/27/2017.</p> Updates
+<p>We updated our Privacy Policy on June 30, 2017 in the following way:</p>
+<ul>
+<li>We updated our policy to remove references to the U.S.-Swiss Safe Harbor Framework.</li>
+</ul>
 <p>We updated our Privacy Policy on June 27, 2017 in the following way:</p>
 <ul>
 <li>We made changes to reflect improvements to our Services’ email validation functionality.</li>
@@ -13,19 +17,16 @@ The use of information processed through our service shall be limited to the pur
 Because we respect your privacy, we have documented our policies regarding this information here, and we will not collect or use information about you except in the ways we describe.</p> 1.
 What information we collect
 <p>We collect two types of information about you: Personally Identifiable Information and Non-personally Identifiable Information.</p>
-<p>
-<strong>“Personally Identifiable Information”</strong> is information that lets us know who you are, specifically.
+<p>“Personally Identifiable Information” is information that lets us know who you are, specifically.
 Information in this category includes the information you use when registering to use the Platform, like your name, company name, email address, postal address, other contact information, associated domain name and credit card information.
 Your login credentials are also Personally Identifiable Information.
 Finally, this category includes information tied to your identity that you provide us through other means, such as emails to our support service and comments on our blog.</p>
-<p>
-<strong>“Non-personally Identifiable Information”</strong> is information that doesn’t let us determine your identity.
+<p>“Non-personally Identifiable Information” is information that doesn’t let us determine your identity.
 This generally comes from your use of the Services after registering.
 For instance, our web server logs may show us that someone with a certain Internet Protocol (“IP”) address visited the Site using a certain web browser, but we can’t use that information alone to say whether the visitor was you or someone else.
 Non-personally Identifiable Information also includes information that could personally identify you in its original form, but that we have modified to remove or hide (for instance, by aggregation) any Personally Identifiable Information.
 This collection of information occurs automatically when you use the Services.</p>
-<p>
-<strong>Information we collect by automated means.</strong> Each time you visit the Site, view a Mailgun advertisement on a third party-owned website, or read our marketing email, we may automatically collect information about you via cookies, web beacons and other similar technologies.
+<p>Information we collect by automated means. Each time you visit the Site, view a Mailgun advertisement on a third party-owned website, or read our marketing email, we may automatically collect information about you via cookies, web beacons and other similar technologies.
 These are small files associated with information that your browser or our servers will save and return as part of your use of the Site and the Services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the Site.
 Such information includes standard information from your web browser (such as browser type and browser language), your IP address, and your activities on the Site (such as the web pages viewed and the links clicked, number of visits, access time), the URL of the site from which you came and the site to which you are going when you leave the Site.</p>
 <p>While cookies do not contain Personally Identifiable Information, we may associate the information they contain with Personally Identifiable Information for these and similar purposes.
@@ -66,10 +67,10 @@ Third parties
 <p>Except for the limited circumstances described in this Policy or your applicable agreement / terms of service, we do not provide your information to third parties.
 When we need to provide your Personally Identifiable Information to third parties, we will only share it to the extent reasonably necessary.
 We may also share your Personally Identifiable Information as required or permitted by law and as described below.</p>
-<p>We host the Site and operate the Platform using third parties, including AWS<sup>®</sup>, SoftLayer<sup>®</sup> and Rackspace<sup>®</sup> (the “Hosting Providers”).
+<p>We host the Site and operate the Platform using third parties, including AWS®, SoftLayer® and Rackspace® (the “Hosting Providers”).
 The Hosting Providers will host your Platform from its data centers throughout the United States.</p>
-<p>We use a third party, Stripe<sup>®</sup>, to process subscription payments, and therefore provide them with the Personally Identifiable Information required to charge your credit card.</p>
-<p>We may use third-party services either embedded into our Site (such as Disqus<sup>®</sup>, Mixpanel<sup>™</sup>, VWO<sup>®</sup>, Intercom<sup>®</sup>, KISSMetrics<sup>™</sup>, Moz<sup>™</sup>, Segment<sup>™</sup> and Google<sup>®</sup> Analytics) or outside of it (such as GitHub<sup>®</sup> and Twitter<sup>®</sup>) to communicate with you or to enhance the function of the Site and the Services.</p>
+<p>We use a third party, Stripe®, to process subscription payments, and therefore provide them with the Personally Identifiable Information required to charge your credit card.</p>
+<p>We may use third-party services either embedded into our Site (such as Disqus®, Mixpanel™, VWO®, Intercom®, KISSMetrics™, Moz™, Segment™ and Google® Analytics) or outside of it (such as GitHub® and Twitter®) to communicate with you or to enhance the function of the Site and the Services.</p>
 <p>We use third-party service providers and platforms for customer engagement, customer chat, product feedback and customer support ticketing.</p>
 <p>We may share your contact information with ARIN (American Registry for Internet Numbers) for the purposes of fulfilling your request to re-assign the dedicated IP address to the customer.</p>
 <p>While we provide these third parties with no more information than is necessary to enable these third-parties to provide the services to us, any information that you provide these services independently is subject to their respective privacy policies and practices.</p>
@@ -101,9 +102,10 @@ We follow generally accepted standards to protect the personal information submi
 If you have any questions about the security of your personal information, you can contact us at privacy@mailgun.com.</p>
 <p>Remember, though, that some parts of the Services are public and that email, by its nature, is not a reliably private means of communication.
 If you voluntarily provide Personally Identifiable Information in our blog or another public area of the Site, unrelated parties online will be able to view it and collect it.
-If you don’t want to make this information publicly available, you shouldn’t post it.</p> 7.
+If you don’t want to make this information publicly available, you shouldn’t post it.</p>
+7.
 EU-U.S.
-Privacy Shield and Swiss Safe Harbor
+Privacy Shield
 <p>Mailgun participates and has certified its compliance with the EU-U.S.
 Privacy Shield Framework.
 Mailgun is committed to subjecting all personal data received from the European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.
@@ -114,16 +116,11 @@ Mailgun complies with the Privacy Shield Principles for all onward transfers of 
 <p>With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Mailgun is subject to the regulatory enforcement powers of the U.S.
 Federal Trade Commission.</p>
 <p>Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
-U.S.
-– Swiss Safe Harbor Framework
-<p>Mailgun complies with the U.S.
-– Swiss Safe Harbor Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use and retention of personal data from Switzerland.
-Mailgun has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
-To learn more about the Safe Harbor program, and to view Mailgun’s certification, please visit https://safeharbor.export.gov/swisslist.aspx.</p>
-<p>European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:</p>
-<b>Mailgun Technologies, Inc.</b> 535 Mission St.
-San Francisco, CA 94105 by email: privacy@mailgun.com
+<p>European Union citizens with inquiries or complaints regarding this Policy should first contact Mailgun at:</p>
+<p>Mailgun Technologies, Inc.<br>
+535 Mission St.<br>
+San Francisco, CA 94105<br>
+by email: privacy@mailgun.com</p>
 <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.</p> 8.
 Modification
 <p>We may need to modify this Policy to address new issues or changes to our policies.
