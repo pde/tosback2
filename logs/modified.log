@@ -1,40 +1,34 @@
 These files were modified since the last commit:
 
 # On branch master
-# Your branch is ahead of 'origin/master' by 138 commits.
+# Your branch is ahead of 'origin/master' by 140 commits.
 #
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
+#	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 #	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+#	modified:   ../crawl/allstate.com/Privacy Policy.txt
 #	modified:   ../crawl/buckle.com/Privacy Policy.txt
-#	modified:   ../crawl/cableone.net/Acceptable Use Policy.txt
-#	modified:   ../crawl/cableone.net/Terms and Conditions.txt
-#	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
+#	modified:   ../crawl/centurylink.com/Acceptable Use Policy.txt
+#	modified:   ../crawl/commentcamarche.net/Privacy Policy.txt
 #	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
-#	modified:   ../crawl/fitbit.com/Privacy Policy.txt
-#	modified:   ../crawl/godaddy.com/Universal Terms Of Service.txt
 #	modified:   ../crawl/hotels.com/Privacy Policy.txt
 #	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
-#	modified:   ../crawl/ign.com/Privacy Policy.txt
-#	modified:   ../crawl/indeed.com/Privacy Policy.txt
-#	modified:   ../crawl/instructables.com/Privacy Policy.txt
+#	modified:   ../crawl/hsbc.com/Privacy Policy.txt
+#	modified:   ../crawl/imgur.com/Terms of Service.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
+#	modified:   ../crawl/noaa.gov/Privacy Policy.txt
+#	modified:   ../crawl/npr.org/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
-#	modified:   ../crawl/orbitz.com/Privacy Policy.txt
-#	modified:   ../crawl/paypal.com/Privacy Policy.txt
+#	modified:   ../crawl/onestopplus.com/Privacy Policy.txt
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
-#	modified:   ../crawl/sencha.com/Privacy Policy.txt
-#	modified:   ../crawl/shopstyle.com/Terms of Service.txt
-#	modified:   ../crawl/sony.com/Privacy Policy.txt
 #	modified:   ../crawl/spiegel.de/Privacy Policy.txt
-#	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
-#	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
-#	modified:   ../crawl/webmd.com/Privacy Policy.txt
+#	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+#	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
 #	modified:   ../crawl_reviewed/sonic.net/All Policies.txt
-#	modified:   ../crawl_reviewed/tumblr.com/Terms of Service.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
 #	modified:   ../logs/modified.log
