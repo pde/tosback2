@@ -1,9 +1,12 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-ruby '1.9.3'
+#ruby '1.9.3'
+ruby '2.3.1'
 
 # gem "rails"
+gem "capybara"
+gem "poltergeist"
 gem "nokogiri", "~> 1.6.1"
 gem "mechanize", "~> 2.6.0"
 gem "sanitize", "~> 2.1.0"

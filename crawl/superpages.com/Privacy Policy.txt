@@ -1,4 +1,6 @@
- Toggle navigationSuperpages Online Yellow Pages, Local Business Directory  <i>
+
+Toggle navigationSuperpages Online Yellow Pages, Local Business Directory<i>
+</i> <i>
 </i>
 <ul>
 <li> </li>
@@ -12,8 +14,7 @@
 <li> </li>
 <li>
 <ul>
-<li>Welcome {{user.username | limitTo:15}}{{user.username.length &gt.
-15 ? "..." : ""}}</li>
+<li>Welcome </li>
 <li>My Superpages</li>
 <li>Sign out</li>
 </ul>
@@ -24,75 +25,59 @@
 <ul>
 <li>
 <i>
-</i>Welcome {{user.username | limitTo:15}}{{user.username.length &gt.
-15 ? "..." : ""}}!
-</li>
+</i>Welcome !</li>
 <li>
 <i>
-</i>Sign Out
-</li>
+</i>Sign Out</li>
 <li>
 <i>
 </i>My Superpages<ul>
 <li>
 <i>
-</i>Favorites
-</li>
+</i>Favorites</li>
 <li>
 <i>
-</i>Reviews
-</li>
+</i>Reviews</li>
 <li>
 <i>
-</i>Coupons
-</li>
+</i>Coupons</li>
 </ul>
 </li>
 </ul>
 <ul>
 <li>
 <i>
-</i>Sign In
-</li>
+</i>Sign In</li>
 <li>
 <i>
-</i>Join
-</li>
+</i>Join</li>
 </ul>
 <ul>
 <li>
 <i>
-</i>People Search
-</li>
+</i>People Search</li>
 <li>
 <i>
-</i>Lottery Results
-</li>
+</i>Lottery Results</li>
 <li>
 <i>
-</i>Weather
-</li>
+</i>Weather</li>
 <li>
 <i>
-</i>Maps
-</li>
+</i>Maps</li>
 <li>
 <i>
-</i>City Guides
-</li>
+</i>City Guides</li>
 <li>
 <i>
-</i>Popular Categories
-</li>
+</i>Popular Categories</li>
 <li>
 <i>
-</i>State Directory
-</li>
+</i>State Directory</li>
 </ul>
 </li>
 <li> </li>
-<li>
-Browse <ul>
+<li>Browse <ul>
 <li>People</li>
 <li>Lottery Results</li>
 <li>Weather</li>
@@ -109,7 +94,7 @@ Browse <ul>
 <li>About Us &amp.
 Help</li>
 <li>Privacy Policy</li>
-</ol> Privacy Policy - Straight talk about Internet privacy <p>Dex Media, Inc.
+</ol>Privacy Policy - Straight talk about Internet privacy <p>Dex Media, Inc.
 and its affiliates (individually and collectively known as “DexYP”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.</p>
 <p>PLEASE READ THE FOLLOWING POLICY CAREFULLY BEFORE USING THIS WEBSITE.
 This Privacy Policy applies only to the user privacy of, DEXYP.COM, THRYV.COM, DEXMEDIA.COM , SUPERPAGES.COM, LOCALSEARCH.COM, DIRECTORYSTORE.COM, SHIELDPOWER.COM, FREEGRADER.COM, HOWFINDABLEAREYOU.COM, M.SUPERPAGES.COM, WAP.SUPERPAGES.COM, DEXKNOWS.COM, M.DEXKNOWS.COM, DEXPAGES.COM, DEXCUSTOMWEBSITES.COM, ACCOUNT.DEXKNOWS.COM, DEXKNOWSWHITEPAGES.COM, AND DEXONENATIONAL.COM WEBSITES AND MOBILE APPLICATIONS (each, “This Website”, as applicable).
@@ -117,15 +102,11 @@ This Privacy Policy applies only to the user privacy of, DEXYP.COM, THRYV.COM, D
 It also does not apply to any third party, including through any application or content that may link to or be access from this Website.
 By visiting the Websites (as defined in the Terms of Use), you are acknowledging and accepting this Privacy Policy.
 Your continued use of the Websites after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.</strong>
-</p>
-Privacy Policy Effective Date / Updates
-<p>This Privacy Policy is effective as of July 21, 2017.
+</p>Privacy Policy Effective Date / Updates<p>This Privacy Policy is effective as of July 21, 2017.
 Our business changes constantly.
 Our Privacy Policy will change also, and information collected through This Website is subject to the Privacy Policy in effect at the time the information is collected (unless you consent otherwise as to information related to you).
 You are advised to check this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website) frequently to see recent changes.
-DexYP will notify users of any changes to this Privacy Policy by posting the version of the Privacy Policy containing such changes on this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website).</p>
-Information DexYP and Non-DexYP Family Companies Collect, Store, and/or Share What information does This Website gather, store and/or share?
-<p>When you visit This Website, DexYP may collect, store and/or share the following types of information:</p>
+DexYP will notify users of any changes to this Privacy Policy by posting the version of the Privacy Policy containing such changes on this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website).</p>Information DexYP and Non-DexYP Family Companies Collect, Store, and/or ShareWhat information does This Website gather, store and/or share?<p>When you visit This Website, DexYP may collect, store and/or share the following types of information:</p>
 <ul>
 <li>Personally Identifiable Information You Knowingly Provide</li>
 <li>Personally and Non-Personally Identifiable Information DexYP Collects Automatically</li>
@@ -151,9 +132,7 @@ In addition, DexYP may collect certain search parameters relating to searches co
 <u>Non-Personally Identifiable Information You Knowingly Provide</u>.
 In some cases, we may also collect non-personally identifiable information that you provide, such as search parameters in connection with a search you conduct through This Website, ratings and reviews, and zip code.</p>
 <p>To improve the services we can offer you, we may decide to expand This Website’s capabilities for obtaining information about users in the future.
-We will update this Privacy Policy as our practices change to ensure that you are aware of developments in this area.</p>
-How does DexYP use, store and share information collected on This Website?
-<p>
+We will update this Privacy Policy as our practices change to ensure that you are aware of developments in this area.</p>How does DexYP use, store and share information collected on This Website?<p>
 <u>Specific Purpose</u>.
 When users supply personally identifiable information about themselves for a specific purpose (for example, to register to use a feature on This Website, to purchase a product or service, to obtain a free listing, to register for a program or to use a feature of a program, to receive information, or to apply for a job), we may use, store, and/or share such information for such purpose as well as to analyze and improve services provided by DexYP.</p>
 <p>
@@ -179,18 +158,14 @@ In addition, DexYP may use, store and/or share personally identifiable informati
 We use, store and/or share information DexYP automatically collects through This Website to improve This Website, to improve the services DexYP provides or may want to provide, to monitor its performance, to make This Website easier for you and other users to use, to manage features and programs made available through This Website and to provide behavioral tracking data to non-“DexYP Family” companies, with which we have agreements, for the purpose of presenting you with, among other things, targeted advertising on third party websites.
 For example, DexYP may use information DexYP automatically collects in the ways described in the section entitled "What is a cookie and why does DexYP use them?", below.</p>
 <p>
-<u>Mobile Advertising.</u>We use information DexYP automatically collects through the Mobile Products to improve our mobile products, to monitor its performance, to make Mobile Products easier for you and other users to use, to analyze and manage features and programs made available, now and in the future, through Mobile Products.</p>
-Can I review and request changes to personally identifiable information that I provide through registration forms on This Website?
-<p>
+<u>Mobile Advertising.</u>We use information DexYP automatically collects through the Mobile Products to improve our mobile products, to monitor its performance, to make Mobile Products easier for you and other users to use, to analyze and manage features and programs made available, now and in the future, through Mobile Products.</p>Can I review and request changes to personally identifiable information that I provide through registration forms on This Website?<p>
 <u>Create and Update Profile</u>.
 If you use an available capability on This Website to register with us and create a profile, at any time after you register and create a profile, you may review and request changes to any personally identifiable information you provided through the registration form, by viewing and updating your profile within the application.
 If you use an available capability on Mobile Products to register with us, you may review and request changes to any personally identifiable information you provided through http://www.dexknows.com/user/login or http://www.superpages.com/profiler/login_import.jsp</p>
 <p>
 <u>Opt-Out of Receiving Commercial E-Mail Messages</u>.
 In addition, (i) you may request not to receive (i.e., "opt-out" of receiving) commercial e-mail messages from us (on a category-by category basis), by clicking on Update Your Email Preferences (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page, and (ii) if you have previously opted out of receiving commercial e-mail messages related to one or more categories, you may cancel your request to opt-out of (i.e., consent to receive commercial e-mail messages from us related to) such categories (on a category-by-category basis) by clicking on Update Your Email Preferences (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page.
-Please note that we reserve the right to send certain types of e-mail messages that are not subject to opt-out (see information about e-mails, below) to online users, including those who have opted out of receiving commercial e-mail messages.</p>
-Do you sell or provide my information collected through This Website to companies outside of the "DexYP Family?"
-<p>
+Please note that we reserve the right to send certain types of e-mail messages that are not subject to opt-out (see information about e-mails, below) to online users, including those who have opted out of receiving commercial e-mail messages.</p>Do you sell or provide my information collected through This Website to companies outside of the "DexYP Family?"<p>
 <u>Information Provided by You</u>.
 Except as otherwise disclosed in this policy, we do not sell or provide personally identifiable information you provide to us through This Website to anyone outside of the “DexYP Family” unless (i) you specifically authorize it, (ii) it is to complete a transaction, service or activity that you initiated or requested, (iii) it is to pursue, provide or enhance a service on behalf of DexYP in which case such non- " DexYP Family" entities are not permitted to use such information for any purpose other than to provide such service, (iv) it is to assess your credit ranking or report your failure to fulfill your payment obligations in connection with the purchase of (or application to purchase) products or services through This Website, (v) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (vi) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (vii) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (viii) DexYP transfers all or substantially all of its assets to another entity (in which case DexYP may disclose, sell and/or otherwise provide personally identifiable information to such entity).
 If you provide personally identifiable information to us in the context of an event DexYP sponsors on This Website with another company, such as a contest, or if you register on a co-sponsored section or feature of This Website, you may also be providing such personally identifiable information to the co-sponsor.
@@ -213,12 +188,7 @@ Our co-branded websites may also contain clear .gif files (electronic images tha
 <p>Finally, we may also disclose information DexYP automatically collects to non-"DexYP Family" companies or entities if (a) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (b) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (c) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (d) DexYP transfers all or substantially all of its assets to another entity (in which case DexYP may disclose, sell and/or otherwise provide information DexYP automatically collects to such entity)</p>
 <p>Please note that DexYP may support features and content appearing on other companies’ sites that you may visit.
 These companies may collect information about you, but DexYP does not have control over the privacy practices of these companies.
-If you are visiting a site that indicates that it is "powered by superpages.com" or "DexYP", or if you link to another site from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.</p>
-Do you sell my information collected through Mobile Products to companies outside of the "DexYP Family?"
-<p>Except as otherwise disclosed in this policy, we do not sell or disclose personally identifiable information you provide to us through our Mobile Website to anyone outside of the " DexYP Family" unless (i) you specifically authorize it, (ii) it is to complete a transaction, service or activity that you initiated or requested, (iii) it is to provide a service on behalf of DexYP, in which case such non- “DexYP Family” entities are not permitted to use such information for any purpose other than to provide such service or to analyze expand services offered by DexYP, (iv) it is to pursue, provide or enhance a service on behalf of DexYP, (v) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (vi) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (vii) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (viii) DexYP transfers all or substantially all of its assets to another entity (in which case DexYP may disclose, sell and/or otherwise provide personally identifiable information to such entity)</p>
-How long do you retain my information collected through This Website?
-<p>Information that you provide to us on This Website will be retained in accordance with DexYP’s Records Management and Retention Policy and applicable laws.</p>
-Do you accommodate links to other sites? <p>Yes.
+If you are visiting a site that indicates that it is "powered by superpages.com" or "DexYP", or if you link to another site from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage.</p>Do you sell my information collected through Mobile Products to companies outside of the "DexYP Family?"<p>Except as otherwise disclosed in this policy, we do not sell or disclose personally identifiable information you provide to us through our Mobile Website to anyone outside of the " DexYP Family" unless (i) you specifically authorize it, (ii) it is to complete a transaction, service or activity that you initiated or requested, (iii) it is to provide a service on behalf of DexYP, in which case such non- “DexYP Family” entities are not permitted to use such information for any purpose other than to provide such service or to analyze expand services offered by DexYP, (iv) it is to pursue, provide or enhance a service on behalf of DexYP, (v) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (vi) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (vii) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (viii) DexYP transfers all or substantially all of its assets to another entity (in which case DexYP may disclose, sell and/or otherwise provide personally identifiable information to such entity)</p>How long do you retain my information collected through This Website?<p>Information that you provide to us on This Website will be retained in accordance with DexYP’s Records Management and Retention Policy and applicable laws.</p>Do you accommodate links to other sites?<p>Yes.
 This Website contains links to other sites.
 These other sites may, among other things, allow you to bid on and/or purchase products that you initially viewed on This Website.
 These other sites may (or may not) be "co-branded" or "private-labeled" with (or otherwise contain) the DexYP™ name and logo, Dex Media® name and logo, Superpages®, DexYP.com™, Thryv® name and logo, Superpages®, Superpages.com®, Localsearch.com <sup>SM</sup>, SuperpagesMobile®, DirectoryStore®, SuperYellowPages.com®, Enlightenme.com™, Dex®, Dex Media®, DexKnows®, DexKnows.com®, How Findable Are You?™trademarks or other trademarks or branding of DexYP.
@@ -234,11 +204,7 @@ If you provide personally identifiable information while visiting any DexYP -Hos
 In addition, DexYP may share information which is automatically collected while you visit any DexYP -Hosted Website Ad with non-“ DexYP Family” companies in order to complete a transaction that you initiated, to assess and report the results of the ad or to analyze or expand potential or current DexYP services.
 DexYP is not responsible for the privacy practices employed by the advertiser.<strong>If you are visiting a DexYP-Hosted Website Ad via a link on This Website, you are advised to read the privacy policy of such DexYP-Hosted Website Ad for its policies regarding information tracking, collection, usage and security.
 </strong>
-</p>
-Does DexYP combine personally identifiable information provided through This Website by users of This Website with offline information about such users?
-<p>DexYP reserves the right to combine personally identifiable information you provide through This Website with offline information about you.</p>
-Information Third Party Vendors May Collect, Store, and/or Share
-<p>Non "DexYP Family" companies with which DexYP has an agreement may implement Tracking Methods as stated previously in this policy.
+</p>Does DexYP combine personally identifiable information provided through This Website by users of This Website with offline information about such users?<p>DexYP reserves the right to combine personally identifiable information you provide through This Website with offline information about you.</p>Information Third Party Vendors May Collect, Store, and/or Share<p>Non "DexYP Family" companies with which DexYP has an agreement may implement Tracking Methods as stated previously in this policy.
 Tracking Methods may be used for geographically target advertising, online behavior studies and improving the effectiveness and quality of our potential and current advertising.</p>
 <p>Google Analytics: Google Analytics may be enabled to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation.
 DexYP will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless it has robust notice of, and your prior affirmative (i.e., opt-in) consent to that merger.</p>
@@ -252,8 +218,7 @@ Please visit Google Analytics’ currently available opt-outs for the web</li>
 <li>DexYP and Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how its ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to This Website.</li>
 <li>DexYP may collect data through Google Analytics.
 Data will be used to determine user demographics (age, gender and interest) as an opportunity to monitor its performance, to make This Website easier for you and other users to use, and to manage features and programs made available through This Website.</li>
-</ul>E-Mail Does This Website send e-mail to users of This Website?
-<p>DexYP may send you commercial e-mail messages (unless you have chosen to opt-out of receiving them, with some exceptions, as explained below) and non-commercial e-mail messages (which are not subject to opt-out, as explained below).
+</ul>E-MailDoes This Website send e-mail to users of This Website?<p>DexYP may send you commercial e-mail messages (unless you have chosen to opt-out of receiving them, with some exceptions, as explained below) and non-commercial e-mail messages (which are not subject to opt-out, as explained below).
 For example, DexYP may send you e-mails to (a) conduct online surveys, (b) provide information regarding our company, information regarding our website(s), marketing information about products and services, and newsletters, and (c) confirm registrations and orders placed online and to otherwise communicate with you as a client or other user of our services.
 In addition, occasionally, we may use e-mail lists from third parties to promote our latest specials.</p>
 <p>You may request not to receive (i.e., "opt-out" of receiving) commercial e-mail messages (the primary purpose of which is the commercial advertisement or promotion of a commercial product or service) from us (on a category-by-category basis), by clicking on Update Your Email Preferences (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page.
@@ -263,10 +228,7 @@ Please note that we reserve the right to send e-mails to online users, including
 (c) provide notification concerning a change in the terms or features of, notification of a change in the user’s standing or status with respect to, or at regular periodic intervals, account balance information or other type of account statement with respect to, a subscription, membership, account or comparable ongoing commercial relationship involving the ongoing purchase or use by the user of products or services offered by DexYP.
 (d) provide information directly related to an employment relationship or related benefit plan in which the user is currently involved, participating or enrolled, (e) deliver goods or services that the user is entitled to receive under the terms of a transaction that the user has previously agreed to enter into with DexYP, (f) communicate other non-commercial e-mail messages, and (g) communicate commercial e-mail messages that the user consents to receiving.</p>
 <p>If you are visiting a site via a link on This Website, you are advised to read the privacy policy of that other site for its policies regarding e-mail.
-(See section entitled "Do you accommodate links to other sites?", above)</p>
-Online Advertising
-What is DexYP’s position regarding online advertising and third party ad servers?
-<p>DexYP may place its own advertisements, and/or accept advertisements from third parties that serve advertising, on This Website.
+(See section entitled "Do you accommodate links to other sites?", above)</p>Online AdvertisingWhat is DexYP’s position regarding online advertising and third party ad servers?<p>DexYP may place its own advertisements, and/or accept advertisements from third parties that serve advertising, on This Website.
 DexYP may use its own Tracking Methods or Tracking Methods provided by such third parties in the pages containing the ad(s) that DexYP sends to your browser.
 These Tracking Methods allow DexYP and/or the third parties to automatically collect information (e.g., usage pattern information) about your visit to This Website.</p>
 <p>As an online advertiser, DexYP may use information derived from its Tracking Methods or supplied from third party companies in several ways, such as to:</p>
@@ -275,16 +237,12 @@ These Tracking Methods allow DexYP and/or the third parties to automatically col
 <li>Geographically target advertising </li>
 <li>Deliver product and pricing advertising/information applicable to the customers’ state </li>
 <li>Gauge the effectiveness of our online advertising </li>
-</ul>Security
-What security measures are in place to restrict access to personally identifiable information?
-<p>DexYP is committed to protecting your personally identifiable information that you provide through This Website.
+</ul>SecurityWhat security measures are in place to restrict access to personally identifiable information?<p>DexYP is committed to protecting your personally identifiable information that you provide through This Website.
 This Website is protected with a variety of security measures such as change control procedures and physical access controls (and passwords, as applicable).
 We also implement other control mechanisms in an effort to help protect personally identifiable information that you provide through This Website from being lost, misused or altered inappropriately.</p>
 <p>This Website supports 128 bit Secure Socket Layer (SSL) encryption to transmit certain information (e.g., credit card information provided by the user and social security numbers provided by the user).
 SSL is a transport level technology for authentication and data encryption between a web server and a web browser.
-SSL sends data over the "socket", which is a secure channel at the connection layer.</p>
-Cookies What is a cookie and why does DexYP use them?
-<p>A cookie is a small data string our server writes to your device’s internal drive that contains your unique User ID for This Website.
+SSL sends data over the "socket", which is a secure channel at the connection layer.</p>CookiesWhat is a cookie and why does DexYP use them?<p>A cookie is a small data string our server writes to your device’s internal drive that contains your unique User ID for This Website.
 Cookies help us to identify new and returning users to This Website, analyze click-stream data, and track historical activity on This Website, which allows us to give you a more personalized, useful experience on This Website.
 Cookies may be placed by us, by a third-party that provides services to us, or a non-“DexYP Family” company, with which we have an agreement.</p>
 <p>Cookies help DexYP to enhance the user’s online, mobile experience and can be used to: </p>
@@ -314,8 +272,7 @@ This new cookie tells websites that you have opted out and they will then know n
 Opt-out cookies do not contain a unique user ID number therefore websites are not able to identify your computer uniquely.</p>
 <p>Users who choose to continually delete cookies and not opt out can have their browser advise them each time a website attempts to send a cookie to your system.
 At that time, you can choose to either Accept or Cancel a cookie.
-Users who choose to "opt out" after deleting cookies will receive an anonymous/non personally identifiable cookie.</p>
-Here is How to Set Your Cookie Preferences: <ul>
+Users who choose to "opt out" after deleting cookies will receive an anonymous/non personally identifiable cookie.</p>Here is How to Set Your Cookie Preferences: <ul>
 <li>Microsoft Internet Explorer 5+, 6, 7: From the menu, select Tools and click on Internet Options.
 Click on the Privacy tab.
 Click on Default, it should set to "Medium" </li>
@@ -334,22 +291,15 @@ Under 'Cookies', click check box 'Accept cookies from sites’ </li>
 <li>Other Browsers: Contact the manufacturer of the browser for information </li>
 </ul>How to Opt-out of Behavioral Tracking Cookies: <p>We contract with non-“DexYP Family” companies, with which we have agreements, which use cookies to collect information when you visit This Website.
 This personally and non-personally identifiable information, collected through cookies, is typically used by third party advertising networks to serve you with advertisements while on third party sites and other forms of media, and those advertisements are tailored to meet your preferences and likely interests.
-<br>If you do not wish to participate in this activity, please click here and follow the simple opt-out process.</p>
-Children's Privacy
-Does DexYP knowingly collect personal information from children through This Website?
-<p>DexYP does not knowingly collect personal information from children through This Website.
+<br>If you do not wish to participate in this activity, please click here and follow the simple opt-out process.</p>Children's PrivacyDoes DexYP knowingly collect personal information from children through This Website?<p>DexYP does not knowingly collect personal information from children through This Website.
 DexYP does not request that users provide any personal information through any area of This Website that is directed towards children.
 DexYP may, however, automatically collect certain information regarding users' visits to This Website (for example, the user's IP address, the user's domain name, the user's user agent, which pages the user visits and for how long, the date and time the user accessed This Website and the referral URL) including areas of This Website, if any, that are directed towards children.
 (See Section entitled "Information DexYP Collects".)</p>
 <p>We cannot always determine the age of persons who access and use This Website.
 If a child visits This Website or provides us with the child's information, we encourage the parent or guardian of the child to Contact Us to have such information deleted.
 This Website, and any site to which users may link from This Website, may contain content provided by advertisers or other third parties that may not be suitable for children immediately.
-DexYP asks parents or legal guardians to assist DexYP by supervising any activities of their children at This Website.</p>
-Contact Information
-Who do I contact if I am concerned, or have questions, about my privacy related to This Website?
-<ul>
-<li>Please visit Contact Us
-</li>
+DexYP asks parents or legal guardians to assist DexYP by supervising any activities of their children at This Website.</p>Contact InformationWho do I contact if I am concerned, or have questions, about my privacy related to This Website?<ul>
+<li>Please visit Contact Us</li>
 </ul>
 <ul>
 <li>DIRECTORY</li>
@@ -376,11 +326,9 @@ Directions</li>
 <li>Contact Us</li>
 <li>Patents</li>
 <li>Site Map</li>
-</ul> Free Listing <p> Claim your free business listing</p>
+</ul>Free Listing<p> Claim your free business listing</p>
 <p>on Superpages.
-The more information you provide about your business, the easier it will be for customers to find you online.</p>
-Claim This Business © {{date | date:'yyyy'}} DexYP.
+The more information you provide about your business, the easier it will be for customers to find you online.</p>Claim This Business© 2017 DexYP.
 All rights reserved.
 Terms of Use.
-Privacy Policy.
-Connect with us on 
+Privacy Policy.Connect with us on

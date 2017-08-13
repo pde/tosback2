@@ -1,11 +1,11 @@
 <sitename name="grammarly.com">
  <docname name="Privacy Policy">
-   <url name="http://www.grammarly.com/privacy-policy" xpath="//div[@class='terms-page']" reviewed="true">
+   <url name="https://www.grammarly.com/privacy-policy" xpath="//div[@id='page']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Terms of Service and License Agreement">
-   <url name="http://www.grammarly.com/terms" xpath="//div[@class='terms-page']" reviewed="true">
+   <url name="https://www.grammarly.com/terms" xpath="//div[@id='page']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

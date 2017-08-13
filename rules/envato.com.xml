@@ -1,6 +1,6 @@
 <sitename name="envato.com">
- <docname name="Terms and Conditions">
-   <url name="http://themeforest.net/legal/market" xpath="//div[@class='content-s']" reviewed="true">
+ <docname name="Privacy Policy">
+   <url name="https://envato.com/privacy/" xpath="//div[@class='c-legal o-section o-section--only-padding-top u-bg-grey-light']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

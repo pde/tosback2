@@ -1,6 +1,6 @@
 <sitename name="instagr.am">
  <docname name="Privacy Policy">
-   <url name="http://instagr.am/legal/privacy/">
+   <url name="https://help.instagram.com/155833707900388" xpath="//div[@id='hc2content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

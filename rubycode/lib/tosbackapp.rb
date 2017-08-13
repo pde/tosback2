@@ -62,7 +62,9 @@ class TOSBackApp
   end
   
   def scrape_docs
-    @docs.each do |doc|
+    #docs_length = @docs.length
+    @docs.each_with_index do |doc, i|
+      #puts "scraping #{i + 1} of #{docs_length}"
       doc.scrape
     end
   end #scrape_docs

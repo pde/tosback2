@@ -1,7 +1,8 @@
 require 'nokogiri'
 require 'open-uri'
 require 'sanitize'
-require 'mechanize' # will probably need to use this instead to handle sites that require session info
+require 'capybara/dsl'
+require 'capybara/poltergeist'
 require 'mail'
 require 'active_record'
 # require 'pry' #debug

@@ -1,4 +1,3 @@
-
 <p>
 <strong>Les messages publiés sur Seenthis restent la propriété de leurs auteurs respectifs.</strong>
 </p>
@@ -12,7 +11,9 @@ Mention de la licence de diffusion
 <p>Les utilisateurs qui le souhaitent peuvent, depuis la page de configuration de leur « Profil », indiquer une licence de diffusion sous Creative Commons.
 L’outil ayant vocation au partage d’information, autant promouvoir les licences qui favorisent ce type de comportement.</p>
 Récupérer son propre contenu
-<p>Tout utilisateur peut, d’ors et déjà, récupérer l’intégralité de ses contenus dans un fichier XML au format ATOM. Ce fichier est accessible à l’adresse :</p> https://LOGIN:PASSWD@seenthis.net/?page=xml_export
+<p>Tout utilisateur peut, d’ors et déjà, récupérer l’intégralité de ses contenus dans un fichier XML au format ATOM. Ce fichier est accessible à l’adresse :</p>
+❝quote❞ (shift+tab)_<i>italic</i>_*<b>bold</b>*
+https://LOGIN:PASSWD@seenthis.net/?page=xml_exportLiens:https://LOGIN:PASSWD@seenthis.net/?page=xml_exportImages:
 <p>(remplacez LOGIN et PASSWD par votre login et votre mot de passe personnel).</p>
 API et outils de récupération
 <p>Seenthis propose par ailleurs une API qui permettra à des développeurs tiers de proposer des outils permettant de manipuler vos contenus.</p>

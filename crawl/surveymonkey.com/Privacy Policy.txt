@@ -1,7 +1,4 @@
- <ol>
-<li> Sign In </li>
-<li> Help </li>
-</ol> SurveyMonkey® ÷ <ul>
+ SurveyMonkey® ÷ SIGN IN <ul>
 <li>
 <i>
 </i>Sign In</li>
@@ -10,45 +7,50 @@
 </i>Help</li>
 <li>
 <i>
-</i>Home</li>
-<li>
-<i>
 </i>How It Works</li>
 <li>
 <i>
-</i>Examples <ul>
-<li>Survey Templates</li>
-<li>Survey Tips</li>
-<li>Survey Types</li>
-<li>Academic Research</li>
-<li>Customer Satisfaction</li>
+</i>Products
+<ul>
+<li>Survey platform</li>
+<li>Survey panel</li>
+<li>App Directory</li>
+<li>Wufoo online forms</li>
+<li>SOLUTIONS</li>
+<li>Overview</li>
+<li>Enterprise survey platform</li>
+<li>Customer experience</li>
+<li>Employee engagement</li>
+<li>Content marketing</li>
+<li>Application management</li>
+</ul>
+</li>
+<li>
+<i>
+</i>Examples
+<ul>
+<li>Survey types</li>
+<li>Academic research</li>
+<li>Quizzes</li>
+<li>Customer satisfaction</li>
 <li>Education</li>
 <li>Employee</li>
 <li>Healthcare</li>
-<li>Market Research</li>
-<li>Non Profit</li>
+<li>Market research</li>
+<li>Non profit</li>
 <li>Events</li>
 </ul>
 </li>
 <li>
 <i>
-</i>Survey Services <ul>
-<li>Buy Survey Responses</li>
-<li>Buy a Multi-User Account</li>
-<li>Get Benchmarks</li>
-<li>Mobile App</li>
-<li>Integrations</li>
-<li>Take Surveys</li>
-<li>Wufoo Online Forms</li>
-</ul>
-</li>
-<li>
-<i>
-</i>Business Solutions <ul>
-<li>Overview</li>
-<li>Enterprise Survey Platform</li>
-<li>Customer Satisfaction</li>
-<li>Content Marketing</li>
+</i>Resources
+<ul>
+<li>Customer stories</li>
+<li>Survey templates</li>
+<li>Survey tips</li>
+<li>Mobile app</li>
+<li>Blog</li>
+<li>Help center</li>
 </ul>
 </li>
 <li>
@@ -56,50 +58,39 @@
 </i>Plans &amp.
 Pricing</li>
 </ul> Menu œ <ul>
-<li>
-Policy Center
-<ul>
+<li>Policy Center<ul>
 <li>Overview</li>
 </ul>
 </li>
-<li>
-SurveyMonkey
-<ul>
+<li>SurveyMonkey<ul>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
 </ul>
 </li>
-<li>
-SurveyMonkey Contribute
-<ul>
+<li>SurveyMonkey Contribute<ul>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
 </ul>
 </li>
-<li>
-General Policies
-<ul>
+<li>General Policies<ul>
 <li>Anti-Spam Policy</li>
 <li>Subscription Cancellation Policy (Europe only)</li>
 </ul>
 </li>
-<li>
-Information
-<ul>
+<li>Information<ul>
 <li>Security Statement</li>
-<li>SurveyMonkey Canada - Multi-Year Accessibility Plan</li>
+<li>Canadian Data Centre Overview</li>
+<li>SurveyMonkey Canada Inc.
+Multi-Year Accessibility Plan</li>
 </ul>
 </li>
-<li>
-Requests &amp.
-Forms
-<ul>
+<li>Requests &amp.
+Forms<ul>
 <li>Federal 508 VPAT Template</li>
 <li>SurveyMonkey's W-9 Form</li>
 </ul>
 </li>
-</ul> Privacy Policy Versions:
-September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Effective Date: September 12, 2016 <p>
+</ul> Privacy Policy Versions:September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Effective Date: September 12, 2016 <p>
 <strong>This privacy policy explains how SurveyMonkey handles your personal information and data.
 We value your trust, so we’ve strived to present this policy in clear, plain language instead of legalese.
 The policy is structured so you can quickly find answers to the questions that interest you the most.</strong>
@@ -134,8 +125,7 @@ has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles w
 SurveyMonkey may process some data from individuals or companies in Switzerland via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses.
 To learn more about the Safe Harbor program, and to view our certification, please visit https://safeharbor.export.gov/swisslist.aspx.</p>
 <p>
-<strong>Questions?</strong> For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 3050 S.
-Delaware Street, San Mateo, CA 94403, USA, or electronically through this form.</p>
+<strong>Questions?</strong> For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at One Curiosity Way, San Mateo, CA 94403, USA, or electronically through this form.</p>
 Key Privacy Points: The Stuff You Really Care About
 IF YOU CREATE SURVEYS:
 <ul>
@@ -401,8 +391,7 @@ Visitors to our websites may opt out of certain types of Google Analytics tracki
 If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.</li>
 </ul>
 </li>
-<li>
-Click here for more details about our cookies.
+<li>Click here for more details about our cookies.
 We don’t believe cookies are sinister, but you can still choose to remove or disable cookies via your browser.
 Refer to your web browser’s configuration documentation to learn how to do this.
 Please note that doing this may adversely impact your ability to use our services.
@@ -469,8 +458,7 @@ Please note that if you opt-out, we may no longer be able to provide you our ser
 </ul>
 </li>
 <li>Additional information for Canadian users <ul>
-<li>
-Please read this article for information about the U.S.
+<li>Please read this article for information about the U.S.
 Patriot Act and how it affects the personal information of Canadian users.</li>
 </ul>
 </li>
@@ -568,8 +556,7 @@ If you disagree with the terms of this privacy policy or any updated privacy pol
 <li>
 <strong>Security.</strong> Details about SurveyMonkey’s security practices are available in our Security Statement.
 We are committed to handling your personal information and data with integrity and care.
-However, regardless of the security protections and precautions we undertake, there is always a risk that your personal data may be viewed and used by unauthorized third parties as a result of collecting and transmitting your data through the Internet. If you have any questions about the security of your personal information, contact customer support.
-</li>
+However, regardless of the security protections and precautions we undertake, there is always a risk that your personal data may be viewed and used by unauthorized third parties as a result of collecting and transmitting your data through the Internet. If you have any questions about the security of your personal information, contact customer support.</li>
 <li>
 <strong>Data locations.</strong> Our servers are based in the United States, so your personal information will be hosted and processed by us in the United States.
 Your personal information may also be processed in, or transferred or disclosed to, countries in which SurveyMonkey subsidiaries and offices are located and in which our service providers are located or have services.
@@ -596,8 +583,7 @@ Visitors to our websites may opt out of certain types of Google Analytics tracki
 If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.</li>
 </ul>
 </li>
-<li>
-Click here for more details about our cookies.
+<li>Click here for more details about our cookies.
 We don’t believe cookies are sinister, but you can still choose to remove or disable cookies via your browser.
 Refer to your web browser’s configuration documentation to learn how to do this.
 Please note that doing this may adversely impact your ability to use our services.
@@ -652,6 +638,8 @@ This right may be exercised by contacting customer support.</li>
 </ul>
 <strong> Consents.
 By clicking “I Agree” or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:</strong>
+<p>
+</p>
 <ul>
 <li>You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to <strong>cookies, IP addresses and log files</strong>.</li>
 <li>Our servers are based in the United States, so your personal data will be primarily processed by us in the United States.
@@ -665,8 +653,7 @@ Please note that if you opt-out, we may no longer be able to provide you our ser
 </ul>
 </li>
 <li>Additional information for Canadian users <ul>
-<li>
-Please read this article for information about the U.S.
+<li>Please read this article for information about the U.S.
 Patriot Act and how it affects the personal information of Canadian users.</li>
 </ul>
 </li>
@@ -699,7 +686,7 @@ Alternatively, you may request that we pass on the details of your complaint to 
 <li>About Us:</li>
 <li>Leadership Team</li>
 <li>Board of Directors</li>
-<li>Integrations</li>
+<li>App Directory</li>
 <li>Newsroom</li>
 <li>Office Locations</li>
 <li>Jobs</li>
@@ -715,7 +702,6 @@ Alternatively, you may request that we pass on the details of your complaint to 
 <li>Email Opt-In</li>
 <li>Accessibility</li>
 </ul>
-<i>°</i>
 <ul>
 <li>Language:</li>
 <li>English</li>
@@ -751,45 +737,50 @@ Alternatively, you may request that we pass on the details of your complaint to 
 </i>Help</li>
 <li>
 <i>
-</i>Home</li>
-<li>
-<i>
 </i>How It Works</li>
 <li>
 <i>
-</i>Examples <ul>
-<li>Survey Templates</li>
-<li>Survey Tips</li>
-<li>Survey Types</li>
-<li>Academic Research</li>
-<li>Customer Satisfaction</li>
+</i>Products
+<ul>
+<li>Survey platform</li>
+<li>Survey panel</li>
+<li>App Directory</li>
+<li>Wufoo online forms</li>
+<li>SOLUTIONS</li>
+<li>Overview</li>
+<li>Enterprise survey platform</li>
+<li>Customer experience</li>
+<li>Employee engagement</li>
+<li>Content marketing</li>
+<li>Application management</li>
+</ul>
+</li>
+<li>
+<i>
+</i>Examples
+<ul>
+<li>Survey types</li>
+<li>Academic research</li>
+<li>Quizzes</li>
+<li>Customer satisfaction</li>
 <li>Education</li>
 <li>Employee</li>
 <li>Healthcare</li>
-<li>Market Research</li>
-<li>Non Profit</li>
+<li>Market research</li>
+<li>Non profit</li>
 <li>Events</li>
 </ul>
 </li>
 <li>
 <i>
-</i>Survey Services <ul>
-<li>Buy Survey Responses</li>
-<li>Buy a Multi-User Account</li>
-<li>Get Benchmarks</li>
-<li>Mobile App</li>
-<li>Integrations</li>
-<li>Take Surveys</li>
-<li>Wufoo Online Forms</li>
-</ul>
-</li>
-<li>
-<i>
-</i>Business Solutions <ul>
-<li>Overview</li>
-<li>Enterprise Survey Platform</li>
-<li>Customer Satisfaction</li>
-<li>Content Marketing</li>
+</i>Resources
+<ul>
+<li>Customer stories</li>
+<li>Survey templates</li>
+<li>Survey tips</li>
+<li>Mobile app</li>
+<li>Blog</li>
+<li>Help center</li>
 </ul>
 </li>
 <li>

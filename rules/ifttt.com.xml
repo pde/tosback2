@@ -1,11 +1,11 @@
 <sitename name="ifttt.com">
  <docname name="Privacy Policy">
-   <url name="https://ifttt.com/privacy" reviewed="true" xpath="//article[@class='l-page-content']">
+   <url name="https://ifttt.com/privacy" reviewed="true" xpath="//div[@class='privacy-policy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms of Use">
-   <url name="https://ifttt.com/terms" reviewed="true" xpath="//article[@class='l-page-content']">
+   <url name="https://ifttt.com/terms" reviewed="true" xpath="//div[@class='terms-of-use']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -218,9 +218,11 @@ Search * Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go <ol>
 <li>Home</li>
 <li>Customer Service</li>
 <li>Privacy Policy</li>
-</ol>
-<p>Your browser's Javascript functionality is turned off.
-Please turn it on so that you can experience the full capabilities of this site.</p> Information We Collect and How it is Used
+</ol> &lt;div class="browser-compatibility-alert"&gt.
+&lt;p class="browser-error"&gt;Your browser's Javascript functionality is turned off.
+Please turn it on so that you can experience the full capabilities of this site.&lt;/p&gt.
+&lt;/div&gt.
+Information We Collect and How it is Used
 <p>We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites.
 Our advertising partner will make the data we provide anonymous.
 To choose not to have this information used by our third-party advertising partner click here.
@@ -326,8 +328,7 @@ exclusive offers! Sign Up
 </li>
 </ul> Contact Us <ul>
 <li>Contact Us</li>
-<li>
-</li>
+<li>1.800.753.8558</li>
 <li>Employment</li>
 </ul> Business Accounts
 <ul>
@@ -338,3 +339,4 @@ exclusive offers! Sign Up
 </ul> PRIVACY POLICY
 TERMS OF USE
 SITE MAP © 2017 ALL RIGHTS RESERVED.
+Feedback 

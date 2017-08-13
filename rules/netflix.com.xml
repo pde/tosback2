@@ -1,12 +1,12 @@
 <sitename name="netflix.com">
- <docname name="Terms of Use">
-   <url name="https://www.netflix.com/TermsOfUse" xpath="//div[@class='main-content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
- <docname name="Privacy Policy">
-   <url name="https://www.netflix.com/PrivacyPolicy" xpath="//div[@class='main-content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Terms of Use">
+    <url name="https://help.netflix.com/legal/termsofuse" xpath="//div[@id='pageContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://help.netflix.com/legal/privacy" xpath="//div[@id='pageContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

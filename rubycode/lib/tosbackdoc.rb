@@ -19,9 +19,9 @@ class TOSBackDoc
   end #init
   
   def scrape
-    download_full_page()
+    download_and_filter_with_xpath()
     if @newdata
-      apply_xpath()
+      #apply_xpath()
       strip_tags()
       format_newdata()
     end
@@ -60,7 +60,11 @@ class TOSBackDoc
       prev_file.close
     end
     
-    prev_data.chomp != @newdata.chomp
+    if prev_data
+      prev_data.chomp != @newdata.chomp
+    else
+      true
+    end
   end
   
   def skip_notify?
@@ -72,31 +76,21 @@ class TOSBackDoc
     puts @newdata
   end #puts_doc
   
-  def download_full_page()
+  def download_and_filter_with_xpath
     begin
-      #Mechanize.start closes any persistent network connections
-      #http://mechanize.rubyforge.org/Mechanize.html#method-c-start
-      Mechanize.start do |agent| 
-        agent.user_agent_alias = 'Mac FireFox'
-        agent.post_connect_hooks << lambda { |_,_,response,_|
-          if response.content_type.nil? || response.content_type.empty?
-            response.content_type = 'text/html'
-          end
-        }
-        agent.max_history = 0
-        # SSLv23 is compatible with SSLv2, SSLv3, and TLSv1
-        agent.ssl_version = 'SSLv23'
-        agent.verify_mode = OpenSSL::SSL::VERIFY_NONE # less secure. Shouldn't matter for scraping.
-        agent.agent.http.reuse_ssl_sessions = false
-
-        @newdata = agent.get(@url)
-      end # Mechanize.start
+      session = Capybara::Session.new :poltergeist  
+      session.driver.browser.js_errors = false
+      session.driver.headers = {"User-Agent" => "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0"}
+      session.visit @url
+      raise "404 Error" if session.status_code == 404
+      @newdata = @xpath.nil? ? session.find(:xpath, "//body")['innerHTML'] : session.find(:xpath, @xpath)['innerHTML']
     rescue => e
       TOSBackApp.log_stuff("#{url}:\t#{e.message}",$error_log)
-      #TOSBackApp.log_stuff("#{url}:\t#{e.message}\n#{e.backtrace.join("\n")}",$dev_log)
+    ensure
+      session.driver.quit
     end
-  end #download_full_page
-  
+  end
+
   def format_newdata()
     @newdata.gsub!(/\s{2,}/," ") # changes big gaps of space to a single space
     @newdata.gsub!(/\.\s|;\s/,".\n") # adds new line char after all ". "'s
@@ -104,24 +98,24 @@ class TOSBackDoc
     @newdata.gsub!(/>\s*</,">\n<") # newline between tags
   end #format_tos
   
-  def apply_xpath()
-    if @newdata.class == Mechanize::Page
-      @newdata.encoding ||= "UTF-8" # defaults any nil encoding to utf-8
-      begin
-        tos_data = @xpath.nil? ? @newdata.search("//body").to_s : @newdata.search(@xpath).to_s
-      rescue  
-        @newdata.encoding=("UTF-8")
-        tos_data = @xpath.nil? ? @newdata.search("//body").to_s : @newdata.search(@xpath).to_s
-      end
-    elsif @newdata.class == Mechanize::File
-      tos_data = @newdata.content
-      #TODO log which uris are returning Files and make sure they look okay.
-    end
+  #def apply_xpath()
+    #if @newdata.class == Mechanize::Page
+      #@newdata.encoding ||= "UTF-8" # defaults any nil encoding to utf-8
+      #begin
+        #tos_data = @xpath.nil? ? @newdata.search("//body").to_s : @newdata.search(@xpath).to_s
+      #rescue  
+        #@newdata.encoding=("UTF-8")
+        #tos_data = @xpath.nil? ? @newdata.search("//body").to_s : @newdata.search(@xpath).to_s
+      #end
+    #elsif @newdata.class == Mechanize::File
+      #tos_data = @newdata.content
+      ##TODO log which uris are returning Files and make sure they look okay.
+    #end
 
-    # log_stuff("scrape page page.class: #{mchdoc.class}","caveman.log")
+    ## log_stuff("scrape page page.class: #{mchdoc.class}","caveman.log")
 
-    @newdata = tos_data
-  end #apply_xpath
+    #@newdata = tos_data
+  #end #apply_xpath
   
   def strip_tags()
     begin
@@ -140,5 +134,5 @@ class TOSBackDoc
   end #strip_tags
   
   attr_accessor :name, :url, :xpath, :newdata, :site, :has_prev, :reviewed
-  private :download_full_page, :apply_xpath, :strip_tags, :format_newdata, :skip_notify?, :data_changed?
+  private :download_and_filter_with_xpath, :strip_tags, :format_newdata, :skip_notify?, :data_changed?
 end #TOSBackDoc

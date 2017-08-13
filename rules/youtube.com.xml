@@ -1,16 +1,16 @@
 <sitename name="youtube.com">
  <docname name="Privacy Policy">
-   <url name="http://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
+   <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
 <docname name="Terms of Service">
-  <url name="http://www.youtube.com/t/terms?gl=US" xpath="//div[@id='article-container']" reviewed="true">
+  <url name="https://www.youtube.com/t/terms" xpath="//div[@id='article-container']" reviewed="true">
     <norecurse name="arbitrary"/>
   </url>
 </docname>
  <docname name="Community Guidelines">
-   <url name="http://www.youtube.com/t/community_guidelines" xpath="//div[@id='yts-article']">
+   <url name="https://www.youtube.com/yt/policyandsafety/communityguidelines.html" xpath="//div[@class='yt-cols']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

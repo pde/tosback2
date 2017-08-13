@@ -1,12 +1,13 @@
 <sitename name="bearshare.com">
- <docname name="Terms and Conditions">
-   <url name="http://www.bearshare.com/eula.shtml" xpath="//div[@class='content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
- <docname name="Privacy Policy">
-   <url name="http://www.bearshare.com/privacypolicy.shtml" xpath="//div[@class='content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+ <!--site appears down-->
+ <!--<docname name="Terms and Conditions">-->
+   <!--<url name="http://www.bearshare.com/eula.shtml" xpath="//div[@class='content']" reviewed="true">-->
+     <!--<norecurse name="arbitrary"/>-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Privacy Policy">-->
+   <!--<url name="http://www.bearshare.com/privacypolicy.shtml" xpath="//div[@class='content']" reviewed="true">-->
+     <!--<norecurse name="arbitrary"/>-->
+   <!--</url>-->
+ <!--</docname>-->
 </sitename>

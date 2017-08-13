@@ -1,6 +1,6 @@
 <sitename name="eff.org">
  <docname name="Privacy Policy">
-   <url name="https://www.eff.org/policy" xpath="//div[@id='panel-lefthand-sidebar']">
+   <url name="https://www.eff.org/policy" xpath="//div[@id='main-content']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -1,6 +1,6 @@
 <sitename name="beemp3.com">
  <docname name="Privacy Policy">
-   <url name="http://beemp3.com/tos.html">
+   <url name="http://beemp3.com/tou" xpath="//div[@class='container bg_yellow padding_20px padding-bottom60']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

@@ -10,7 +10,7 @@
    </url>
  </docname>
  <docname name="Google Analytics Terms of Service">   
-   <url name="http://www.google.com/intl/en/analytics/tos.html">
+   <url name="https://www.google.com/analytics/terms/us.html" xpath="//div[@class='main']">
      <norecurse name="arbitrary" />
    </url>
  </docname>

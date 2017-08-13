@@ -1,111 +1,401 @@
- Skip Top Navigation <ul>
+ Skip Top Navigation Menu<ul>
 <li> Who We Are go to What We're Doing header <ul>
-<li> Leadership </li>
-<li> Financials </li>
-<li> Government Relations </li>
-<li> Judicial Officer </li>
-<li> Legal </li>
-<li> Our History </li>
-<li> Postal Facts </li>
-</ul>
-</li> End of sub links <li> What We're Doing go to Newsroom header <ul>
-<li> Transforming Our Business </li>
-<li> Current Initiatives </li>
-<li> Securing The Mail </li>
-<li> REDRESS </li>
-<li> Sustainability </li>
-<li> Corporate Social Responsibility </li>
-<li> Government Services </li>
-<li> Postal Customer Council </li>
-<li> Service Performance Results </li>
-</ul>
-</li> End of sub links <li> Newsroom go to Careers header <ul>
-<li> National News </li>
-<li> Local News </li>
-<li> Electronic News Kits </li>
-<li> Testimony &amp.
-Speeches </li>
-<li> Broadcast Downloads </li>
-<li> Audio Downloads </li>
-<li> Events Calendar </li>
-<li> Photo Gallery </li>
-<li> Service Alerts </li>
-</ul>
-</li> End of sub links <li> Careers go to Doing Business with Us header <ul>
-<li> Career Opportunities </li>
-<li> Working at USPS </li>
-<li> Search &amp.
-Apply </li>
-<li> Application Process </li>
-</ul>
-</li> End of sub links <li> Doing Business with Us <ul>
-<li> Suppliers </li>
-<li> Licensing </li>
-<li> Rights &amp.
-Permissions </li>
-<li> Auctions </li>
-<li> IT Policies, Process &amp.
-Standards </li>
-<li> Public Key Infrastructure </li>
+<li>
+Leadership
+</li>
+<li>
+Financials
+</li>
+<li>
+Government Relations
+</li>
+<li>
+Judicial Officer
+</li>
+<li>
+Legal
+</li>
+<li>
+Our History
+</li>
+<li>
+Postal Facts
+</li>
 </ul>
 </li>
-</ul> End top navigation Search Skip Side Navigation Leadership <ul>
-<li> Board of Governors </li>
-<li> Postmaster General &amp.
-Executive Leadership Team </li>
-<li> Postal Leadership </li>
-<li> Postal Service Profile </li>
+End of sub links
+<li> What We're Doing go to Newsroom header <ul>
+<li>
+Transforming Our Business
+</li>
+<li>
+Current Initiatives
+</li>
+<li>
+Securing The Mail
+</li>
+<li>
+REDRESS
+</li>
+<li>
+Sustainability
+</li>
+<li>
+Corporate Social Responsibility
+</li>
+<li>
+Government Services
+</li>
+<li>
+Postal Customer Council
+</li>
+<li>
+Service Performance Results
+</li>
+</ul>
+</li>
+End of sub links
+<li> Newsroom go to Careers header <ul>
+<li>
+National News
+</li>
+<li>
+Local News
+</li>
+<li>
+Electronic News Kits
+</li>
+<li>
+Testimony &amp.
+Speeches
+</li>
+<li>
+Broadcast Downloads
+</li>
+<li>
+Audio Downloads
+</li>
+<li>
+Events Calendar
+</li>
+<li>
+Photo Gallery
+</li>
+<li>
+Service Alerts
+</li>
+</ul>
+</li>
+End of sub links
+<li> Careers go to Doing Business with Us header <ul>
+<li>
+Career Opportunities
+</li>
+<li>
+Working at USPS
+</li>
+<li>
+Search &amp.
+Apply
+</li>
+<li>
+Application Process
+</li>
+</ul>
+</li>
+End of sub links
+<li> Doing Business with Us <ul>
+<li>
+Suppliers
+</li>
+<li>
+Licensing
+</li>
+<li>
+Rights &amp.
+Permissions
+</li>
+<li>
+Auctions
+</li>
+<li>
+IT Policies, Process &amp.
+Standards
+</li>
+<li>
+Public Key Infrastructure
+</li>
+</ul>
+</li>
+</ul> End top navigation Search <ul>
+<li>
+Who We Are<ul>
+<li>Overview</li>
+<li>
+Leadership
+</li>
+<li>
+Financials
+</li>
+<li>
+Government Relations
+</li>
+<li>
+Judicial Officer
+</li>
+<li>
+Legal
+</li>
+<li>
+Our History
+</li>
+<li>
+Postal Facts
+</li>
+</ul>
+</li>
+<li>
+What We're Doing<ul>
+<li>Overview</li>
+<li>
+Transforming Our Business
+</li>
+<li>
+Current Initiatives
+</li>
+<li>
+Securing The Mail
+</li>
+<li>
+REDRESS
+</li>
+<li>
+Sustainability
+</li>
+<li>
+Corporate Social Responsibility
+</li>
+<li>
+Government Services
+</li>
+<li>
+Postal Customer Council
+</li>
+<li>
+Service Performance Results
+</li>
+</ul>
+</li>
+<li>
+Newsroom<ul>
+<li>Overview</li>
+<li>
+National News
+</li>
+<li>
+Local News
+</li>
+<li>
+Electronic News Kits
+</li>
+<li>
+Testimony &amp.
+Speeches
+</li>
+<li>
+Broadcast Downloads
+</li>
+<li>
+Audio Downloads
+</li>
+<li>
+Events Calendar
+</li>
+<li>
+Photo Gallery
+</li>
+<li>
+Service Alerts
+</li>
+</ul>
+</li>
+<li>
+Careers<ul>
+<li>Overview</li>
+<li>
+Career Opportunities
+</li>
+<li>
+Working at USPS
+</li>
+<li>
+Search &amp.
+Apply
+</li>
+<li>
+Application Process
+</li>
+</ul>
+</li>
+<li>
+Doing Business with Us<ul>
+<li>Overview</li>
+<li>
+Suppliers
+</li>
+<li>
+Licensing
+</li>
+<li>
+Rights &amp.
+Permissions
+</li>
+<li>
+Auctions
+</li>
+<li>
+IT Policies, Process &amp.
+Standards
+</li>
+<li>
+Public Key Infrastructure
+</li>
+</ul>
+</li>
+</ul> Skip Side Navigation Leadership <ul>
+<li>
+Board of Governors
+</li>
+<li>
+Postmaster General &amp.
+Executive Leadership Team
+</li>
+<li>
+Postal Leadership
+</li>
+<li>
+Postal Service Profile
+</li>
 </ul> Financials Government Relations Judicial Officer <ul>
-<li> Rules of Practice </li>
-<li> Administrative Decisions </li>
-<li> Board of Contract Appeals </li>
-<li> Electronic Filing </li>
+<li>
+Rules of Practice
+</li>
+<li>
+Administrative Decisions
+</li>
+<li>
+Board of Contract Appeals
+</li>
+<li>
+Electronic Filing
+</li>
 </ul> Legal <ul>
-<li> Section 508 </li>
-<li> USPS Privacy </li>
-<li> FOIA </li>
-<li> No FEAR Act </li>
+<li>
+Section 508
+</li>
+<li>
+USPS Privacy
+</li>
+<li>
+FOIA
+</li>
+<li>
+No FEAR Act
+</li>
 </ul> Our History <ul>
-<li> Significant Dates </li>
-<li> Stamps and Postcards </li>
-<li> Postage Rates and Historical Statistics </li>
-<li> Photo Galleries </li>
-<li> Postal People </li>
-<li> Moving the Mail </li>
-<li> Delivering the Mail and More </li>
-<li> Post Offices and Facilities </li>
-<li> Uniforms and Equipment </li>
-<li> Additional Resources </li>
-<li> Awards </li>
+<li>
+Significant Dates
+</li>
+<li>
+Stamps and Postcards
+</li>
+<li>
+Postage Rates and Historical Statistics
+</li>
+<li>
+Photo Galleries
+</li>
+<li>
+Postal People
+</li>
+<li>
+Moving the Mail
+</li>
+<li>
+Delivering the Mail and More
+</li>
+<li>
+Post Offices and Facilities
+</li>
+<li>
+Uniforms and Equipment
+</li>
+<li>
+Additional Resources
+</li>
+<li>
+Awards
+</li>
 </ul> Postal Facts <ul>
-<li> Size and Scope </li>
-<li> Decade of Facts and Figures </li>
-<li> Top 12 Things to Know </li>
-<li> This Post Office Is Always Open </li>
-<li> History.
+<li>
+Size and Scope
+</li>
+<li>
+Decade of Facts and Figures
+</li>
+<li>
+Top 12 Things to Know
+</li>
+<li>
+This Post Office Is Always Open
+</li>
+<li>
+History.
 Foundation.
 Art.
 Preservation.
 </li>
-<li> People.
+<li>
+People.
 Community.
-Social Responsibility </li>
-<li> Postage Stamps </li>
-<li> Innovation in the Mail </li>
-<li> Postal Blue Goes Green </li>
-<li> Priority: You </li>
-<li> Innovative Technologies - Systems at Work </li>
-<li> Information Technology </li>
-<li> Security.
+Social Responsibility
+</li>
+<li>
+Postage Stamps
+</li>
+<li>
+Innovation in the Mail
+</li>
+<li>
+Postal Blue Goes Green
+</li>
+<li>
+Priority: You
+</li>
+<li>
+Innovative Technologies - Systems at Work
+</li>
+<li>
+Information Technology
+</li>
+<li>
+Security.
 Law Enforcement.
 Preserving the Trust.
 </li>
-<li> Defending the Frontier.
+<li>
+Defending the Frontier.
 Enforcing the Law.
 </li>
-<li> Military Postal Service Agency </li>
-<li> One Day by the Numbers </li>
-<li> Fun facts </li>
+<li>
+Military Postal Service Agency
+</li>
+<li>
+One Day by the Numbers
+</li>
+<li>
+Fun facts
+</li>
 </ul> Privacy Policy Highlights <br>
 <p>Scope<br>This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.</p>
 <p>Personal Information<br>We collect personal information directly from you and your transactions with us.
@@ -138,38 +428,85 @@ or with your consent</li>
 <br>PRIVACY OFFICE<br>US POSTAL SERVICE<br>475 L'ENFANT PLZ SW RM 9431<br>WASHINGTON DC 20260-1101</li>
 </ul>
 <ul>
-<li> View the Full Privacy Policy › </li>
-</ul> Skip Footer Navigation <ul>
-<li> LEGAL <ul>
-<li> Privacy Policy › </li>
-<li> Terms of Use › </li>
-<li> FOIA › </li>
-<li> No FEAR Act EEO Data › </li>
+<li>
+View the Full Privacy Policy ›
+</li>
+</ul> Skip Footer Navigation
+<ul>
+<li>
+LEGAL
+<ul>
+<li>
+Privacy Policy ›
+</li>
+<li>
+Terms of Use ›
+</li>
+<li>
+FOIA ›
+</li>
+<li>
+No FEAR Act EEO Data ›
+</li>
 </ul>
 </li>
-<li> ON ABOUT.USPS.COM <ul>
-<li> Newsroom › </li>
-<li> USPS Service Alerts › </li>
-<li> Forms &amp.
-Publications › </li>
-<li> Careers › </li>
-<li> Site Index › </li>
+<li>
+ON ABOUT.USPS.COM
+<ul>
+<li>
+Newsroom ›
+</li>
+<li>
+USPS Service Alerts ›
+</li>
+<li>
+Forms &amp.
+Publications ›
+</li>
+<li>
+Careers ›
+</li>
+<li>
+Site Index ›
+</li>
 </ul>
 </li>
-<li> ON USPS.COM <ul>
-<li> USPS.com Home › </li>
-<li> Buy Stamps &amp.
-Shop › </li>
-<li> Print Labels with Postage › </li>
-<li> Customer Service › </li>
-<li> Delivering Solutions to the Last Mile › </li>
+<li>
+ON USPS.COM
+<ul>
+<li>
+USPS.com Home ›
+</li>
+<li>
+Buy Stamps &amp.
+Shop ›
+</li>
+<li>
+Print Labels with Postage ›
+</li>
+<li>
+Customer Service ›
+</li>
+<li>
+Delivering Solutions to the Last Mile ›
+</li>
 </ul>
 </li>
-<li> OTHER USPS SITES <ul>
-<li> Business Customer Gateway › </li>
-<li> Postal Inspectors › </li>
-<li> Inspector General › </li>
-<li> Postal Explorer › </li>
+<li>
+OTHER USPS SITES
+<ul>
+<li>
+Business Customer Gateway ›
+</li>
+<li>
+Postal Inspectors ›
+</li>
+<li>
+Inspector General ›
+</li>
+<li>
+Postal Explorer ›
+</li>
 </ul>
 </li>
 </ul>Copyright© 2017 USPS.

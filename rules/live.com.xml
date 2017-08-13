@@ -1,12 +1,12 @@
 <sitename name="live.com">
- <docname name="Privacy Policy">
-   <url name="http://www.microsoft.com/privacystatement/en-us/core/default.aspx" xpath="//div[@class='pageIntro' or @class='div_content']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
-<docname name="Microsoft Services Agreement">
-   <url name="http://windows.microsoft.com/en-us/windows/microsoft-services-agreement" xpath="//div[@id='S03']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://privacy.microsoft.com/en-us/PrivacyStatement" xpath="//div[@style='background-color:white']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Microsoft Services Agreement">
+    <url name="https://www.microsoft.com/en-us/servicesagreement/" xpath="//div[@class='row-fluid grid-container mscom-grid-container']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

@@ -50,7 +50,7 @@
    <!--</url>-->
  <!--</docname>-->
  <docname name="Interest-Based Ads">
-   <url name="http://www.amazon.com/b/?&amp;node=5160028011" xpath="//div[@class='acs-bgtext-widget']" reviewed="true">
+   <url name="https://www.amazon.com/b?node=5160028011" xpath="//div[@style='margin:0 10px']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

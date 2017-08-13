@@ -1,4 +1,4 @@
-##ToSBack!##
+##ToSBack!
 
 This is a ruby implementation of TOSBack! Designed to scrape the Privacy Policies and Terms of Service agreements from sites defined in the rules folder. 
 

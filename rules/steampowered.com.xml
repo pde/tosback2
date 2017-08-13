@@ -1,6 +1,6 @@
 <sitename name="steampowered.com">
  <docname name="Privacy Policy Agreement">
-   <url name="http://store.steampowered.com/privacy_agreement/" xpath="//div[@id='basicContent']" reviewed="true">
+   <url name="http://store.steampowered.com/privacy_agreement/" xpath="//div[@id='newsColumn']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
