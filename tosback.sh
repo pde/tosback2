@@ -1,5 +1,5 @@
 #!/bin/bash
-source /usr/local/rvm/environments/ruby-1.9.3-p547
+source /usr/local/rvm/environments/ruby-2.3.1@tb2
 LANG=en_US.UTF-8
 
 cd /root/tosback2/rubycode

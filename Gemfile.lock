@@ -47,7 +47,7 @@ GEM
     mini_portile (0.5.3)
     minitest (4.7.5)
     multi_json (1.9.3)
-    mysql2 (0.3.13)
+    mysql2 (0.4.9)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
     nokogiri (1.6.1)
@@ -87,7 +87,7 @@ DEPENDENCIES
   capybara
   mail (~> 2.5.4)
   mechanize (~> 2.6.0)
-  mysql2 (= 0.3.13)
+  mysql2 (= 0.4.9)
   nokogiri (~> 1.6.1)
   poltergeist
   sanitize (~> 2.1.0)
