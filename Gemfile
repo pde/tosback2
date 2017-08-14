@@ -13,5 +13,5 @@ gem "sanitize", "~> 2.1.0"
 gem "mail", "~> 2.5.4"
 gem "activerecord", "~> 4.0.0"
 group :production do
-  gem "mysql2", "0.4.9"
+  gem "mysql2", "~> 0.3.13"
 end
