@@ -1,12 +1,32 @@
- <p>NOTE: Many features on the PayPal Web site require Javascript and cookies.
-You can enable both via your browser's preference settings.</p> Skip to main content<ul>
+&lt;style type="text/css"&gt;body{display:block !important;}&lt;/style&gt;&lt;p class="nonjsAlert"&gt;NOTE: Many features on the PayPal Web site require Javascript and cookies.
+You can enable both via your browser's preference settings.&lt;/p&gt;Skip to main content<ul>
 <li>Sign Up</li>
 <li>Log In</li>
 <li>Help</li>
 <li>Security Center</li>
 </ul>
 <ul>
-<li>Home</li>
+<li>Home<ul>
+<li>Get Started<ul>
+<li>Why Use PayPal</li>
+<li>How It Works</li>
+<li>Where to Shop With It</li>
+</ul>
+</li>
+<li>Send Payment<ul>
+<li>Send Payment Online</li>
+<li>Make a Mass Payment</li>
+</ul>
+</li>
+<li>Request Money<ul>
+<li>Request Money</li>
+<li>Send an Invoice</li>
+</ul>
+</li>
+<li>Sell on eBay</li>
+<li>Developers</li>
+</ul>
+</li>
 <li>Personal</li>
 <li>Business</li>
 <li>Products</li>
@@ -188,8 +208,7 @@ Information you allow PayPal to share with these third-party websites is subject
 <p>You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile.
 You can also close your account through the PayPal website.
 If you close your PayPal account, we will mark your account in our database as "Closed," but may retain personal information from your account to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.</p> Back to top <strong>How you can contact us about privacy questions</strong>
-<p>If you have questions or concerns regarding this policy, you should contact us by using this form.</p> Back to top More Information
-<ul>
+<p>If you have questions or concerns regarding this policy, you should contact us by using this form.</p> Back to top More Information<ul>
 <li>About</li>
 <li>Accounts</li>
 <li>Fees</li>
@@ -199,39 +218,8 @@ If you close your PayPal account, we will mark your account in our database as "
 <li>Legal Agreements</li>
 <li>Jobs</li>
 <li>Mass Pay</li>
-<li>
-</li>
+<li> Site Feedback </li>
 </ul>
 <p>Copyright © 1999-2017 PayPal.
 All rights reserved.<br>Consumer advisory- PayPal Pte.
 Ltd., the holder of PayPal's stored value<br>facility, does not require the approval of the Monetary Authority of Singapore.<br>Users are advised to read the terms and conditions carefully.</p>
-<ul>
-<li>
-Home<ul>
-<li>
-Get Started<ul>
-<li>Why Use PayPal</li>
-<li>How It Works</li>
-<li>Where to Shop With It</li>
-</ul>
-</li>
-<li>
-Send Payment<ul>
-<li>Send Payment Online</li>
-<li>Make a Mass Payment</li>
-</ul>
-</li>
-<li>
-Request Money<ul>
-<li>Request Money</li>
-<li>Send an Invoice</li>
-</ul>
-</li>
-<li>Sell on eBay</li>
-<li>Developers</li>
-</ul>
-</li>
-<li>Personal</li>
-<li>Business</li>
-<li>Products</li>
-</ul> 
