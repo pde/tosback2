@@ -71,7 +71,8 @@ To provide such features or services, where available, Apple and its partners an
 When using third party services that use or provide location data as part of the Service, you are subject to and should review such third party’s terms and privacy policy on use of location data by such third party services.
 Any location data provided by the Service is not intended to be relied upon in situations where precise location information is needed or where erroneous, inaccurate, time-delayed or incomplete location data may lead to death, personal injury, property or environmental damage.
 Apple shall use reasonable skill and due care in providing the Service, but neither Apple nor any of its service and/or content providers guarantees the availability, accuracy, completeness, reliability, or timeliness of location data or any other data displayed by the Service.
-LOCATION-BASED SERVICES ARE NOT INTENDED OR SUITABLE FOR USE AS AN EMERGENCY LOCATOR SYSTEM.</p>
+<u>LOCATION-BASED SERVICES ARE NOT INTENDED OR SUITABLE FOR USE AS AN EMERGENCY LOCATOR SYSTEM.</u>
+</p>
 <p>
 <b>          B.
 Find My iPhone</b>
@@ -93,8 +94,7 @@ Content purchased from the iTunes Store, App Store, or iBookstore is not backed 
 Media synced from your computer is not backed up.
 If you enable iCloud Photo Library, your Photo Library will be backed up separately from the automatic iCloud backup.
 Your iCloud email, contacts, calendars, bookmarks, and documents are stored in, and can be accessed via iCloud on your devices and computers.
-Apple shall use reasonable skill and due care in providing the Service, but, TO THE GREATEST EXTENT PERMISSIBLE BY APPLICABLE LAW, APPLE DOES NOT GUARANTEE OR WARRANT THAT ANY CONTENT YOU MAY STORE OR ACCESS THROUGH THE SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION, LOSS, OR REMOVAL IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, AND APPLE SHALL NOT BE RESPONSIBLE SHOULD SUCH DAMAGE, CORRUPTION, LOSS, OR REMOVAL OCCUR.
-It is your responsibility to maintain appropriate alternate backup of your information and data.</p>
+Apple shall use reasonable skill and due care in providing the Service, but, <u>TO THE GREATEST EXTENT PERMISSIBLE BY APPLICABLE LAW, APPLE DOES NOT GUARANTEE OR WARRANT THAT ANY CONTENT YOU MAY STORE OR ACCESS THROUGH THE SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION, LOSS, OR REMOVAL IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, AND APPLE SHALL NOT BE RESPONSIBLE SHOULD SUCH DAMAGE, CORRUPTION, LOSS, OR REMOVAL OCCUR.</u> It is your responsibility to maintain appropriate alternate backup of your information and data.</p>
 <p>When iCloud Backup is enabled, your device will not back up to iTunes automatically during a sync, but you may choose to manually initiate a backup to iTunes.</p>
 <p>
 <b>          D.
@@ -102,7 +102,9 @@ Photos</b>
 </p>
 <p>
 <b>1.  </b>
+<u>
 <b>iCloud Photo Library</b>
+</u>
 <b>.
 </b>When you enable iCloud Photo Library, your photos, videos and metadata in the Photos App on your iOS device, OS X computer, or Windows PC (“Device Photo Library”) will be automatically sent to iCloud, stored as your Photo Library in iCloud, and then pushed to all of your other iCloud Photo Library-enabled devices and computers.
 If you later make changes (including deletions) to the Device Photo Library on any one of these devices or computers, your changes will automatically be sent to and reflected in your iCloud Photo Library.
@@ -112,7 +114,9 @@ If you do not wish to use iCloud Photo Library, you can turn iCloud Photo Librar
 <p>
 <b> 2.
 </b>
+<u>
 <b>My Photo Stream</b>
+</u>
 <b>.</b> When you use the My Photo Stream feature of iCloud, Apple may store photos taken on your iOS Device or uploaded from your computer for a limited period of time and automatically send the photos to your other Apple devices that have My Photo Stream enabled.
 Please note that a limited number of photos may be stored in the cloud or on your devices at any one time, and older photos will be automatically deleted from My Photo Stream over time.
 Any photos you want to keep on a particular device permanently must be saved to the camera roll or the photo library on your computer.
@@ -122,7 +126,9 @@ This means that iCloud-Photo-Library-enabled devices and computers will send dat
 <p>
 <b> 3.
 </b>
+<u>
 <b>iCloud Photo Sharing</b>
+</u>
 <b>. </b> By using the iCloud Photo Sharing feature, Apple may continuously store the photos and videos you share until you delete them, send those photos and videos to your other Apple devices that have iCloud Photo Sharing enabled, and send them to the Apple devices of the people you choose to share them with, including members of your Family if Family Sharing is enabled. When you use iCloud Photo Sharing, you are allowing your recipients to view, save, copy, and share your photos and videos, as well as contribute photos and videos, and leave comments.
  If you choose to use iCloud Photo Sharing to share photos via a web link, these photos will be publicly available to anyone who has been provided or has access to the web link.
 You can delete individual photos, videos, comments, or entire shared photo streams at any time to stop sharing them immediately, however, photos and videos that the viewer has previously saved to their device or computer will not be deleted.</p>
@@ -260,7 +266,7 @@ No Right of Survivorship</b>
 </p>
 <p>Unless otherwise required by law, You agree that your Account is non-transferable and that any rights to your Apple ID or Content within your Account terminate upon your death.
 Upon receipt of a copy of a death certificate your Account may be terminated and all Content within your Account deleted.
-Contact iCloud Support at www.apple.com/support/iCloud for further assistance.</p>
+Contact iCloud Support at support.apple.com/icloud for further assistance.</p>
 <p>
 <b>          E.
 No Resale of Service</b>
@@ -456,14 +462,18 @@ LIMITATION OF LIABILITY</b>
 <p>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, AS SUCH, TO THE EXTENT SUCH EXCLUSIONS ARE SPECIFICALLY PROHIBITED BY APPLICABLE LAW, SOME OF THE EXCLUSIONS SET FORTH BELOW MAY NOT APPLY TO YOU.</p>
 <p>APPLE SHALL USE REASONABLE SKILL AND DUE CARE IN PROVIDING THE SERVICE.
 THE FOLLOWING DISCLAIMERS ARE SUBJECT TO THIS EXPRESS WARRANTY.</p>
-<p>APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT.</p>
+<p>
+<u>APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT.</u>
+</p>
 <p>YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
 APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 IN PARTICULAR, APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS.
 (II) YOUR USE OF THE SERVICE WILL BE TIMELY, UNINTERRUPTED, SECURE OR ERROR-FREE.
 (III) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF THE SERVICE WILL BE ACCURATE OR RELIABLE.
 AND (IV) ANY DEFECTS OR ERRORS IN THE SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICE WILL BE CORRECTED.</p>
-<p>APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND APPLE DISCLAIMS ANY LIABILITY RELATING THERETO.</p>
+<p>
+<u>APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND APPLE DISCLAIMS ANY LIABILITY RELATING THERETO.</u>
+</p>
 <p>ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE, COMPUTER, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 YOU FURTHER ACKNOWLEDGE THAT THE SERVICE IS NOT INTENDED OR SUITABLE FOR USE IN SITUATIONS OR ENVIRONMENTS WHERE THE FAILURE OR TIME DELAYS OF, OR ERRORS OR INACCURACIES IN, THE CONTENT, DATA OR INFORMATION PROVIDED BY THE SERVICE COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.</p>
 <p>
@@ -539,9 +549,7 @@ and</p>
 <b>ELECTRONIC CONTRACTING</b>
 </p>
 <p>Your use of the Service includes the ability to enter into agreements and/or to make transactions electronically.
-YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS.
-YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SERVICE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS.
-In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility.</p>
+<u>YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS.
+YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SERVICE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS.</u> In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility.</p>
 <p>Last revised: March 1, 2017</p>
-<p>
-</p> 
+<p> </p> 
