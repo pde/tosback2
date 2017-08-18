@@ -1,7 +1,4 @@
  <ul>
-<li>BAL0-0MIA0-0Thu 7:00 PM ET</li>
-<li>BUF0-0PHI0-0Thu 7:00 PM ET</li>
-<li>TB0-0JAX0-0Thu 8:00 PM ET</li>
 <li>MIN0-0SEA0-0Fri 10:00 PM ET</li>
 <li>CAR0-0TEN0-0Sat 3:00 PM ET</li>
 <li>KC0-0CIN0-0Sat 7:00 PM ET</li>
@@ -15,6 +12,9 @@
 <li>ATL0-0PIT0-0Sun 4:00 PM ET</li>
 <li>NO0-0LAC0-0Sun 8:00 PM ET</li>
 <li>NYG0-0CLE0-0Mon 8:00 PM ET</li>
+<li>BAL31MIA7Final</li>
+<li>BUF16PHI20Final</li>
+<li>TB12JAX8Final</li>
 </ul>
 <ul>
 <li>News</li>
@@ -22,6 +22,9 @@
 <li>Schedule</li>
 <li>Standings</li>
 <li>Video</li>
+<li>Fantasy</li>
+</ul>
+<ul>
 <li>Fantasy</li>
 </ul>
 <ul>
@@ -38,7 +41,8 @@
 <li>Photos</li>
 </ul>
 </li>
-</ul>ScoresClose<ul>
+</ul>
+<ul>
 <li>Tickets</li>
 <li>Shop</li>
 <li>Teams</li>

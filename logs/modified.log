@@ -6,19 +6,18 @@ These files were modified since the last commit:
 #   (use "git checkout -- <file>..." to discard changes in working directory)
 #
 #	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
-#	modified:   ../crawl/bostonglobe.com/Privacy Policy.txt
+#	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+#	modified:   ../crawl/bettycrocker.com/Privacy Policy.txt
+#	modified:   ../crawl/blair.com/Privacy Policy.txt
 #	modified:   ../crawl/buckle.com/Privacy Policy.txt
-#	modified:   ../crawl/cabelas.com/Privacy Policy.txt
+#	modified:   ../crawl/cableone.net/Acceptable Use Policy.txt
+#	modified:   ../crawl/cableone.net/Terms and Conditions.txt
 #	modified:   ../crawl/careerpath.com/Privacy Policy.txt
-#	modified:   ../crawl/change.org/Terms of Service.txt
 #	modified:   ../crawl/christianpost.com/Privacy Policy.txt
 #	modified:   ../crawl/cnn.com/Privacy Policy.txt
 #	modified:   ../crawl/daum.net/Privacy Policy.txt
-#	modified:   ../crawl/dishnetwork.com/Privacy Policy.txt
-#	modified:   ../crawl/ebay.co.uk/Privacy Policy.txt
 #	modified:   ../crawl/ehow.com/Privacy Policy.txt
 #	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
-#	modified:   ../crawl/gittip.com/Security.txt
 #	modified:   ../crawl/godtube.com/Terms of Use.txt
 #	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 #	modified:   ../crawl/hotels.com/Privacy Policy.txt
@@ -26,17 +25,14 @@ These files were modified since the last commit:
 #	modified:   ../crawl/ign.com/Privacy Policy.txt
 #	modified:   ../crawl/indeed.com/Privacy Policy.txt
 #	modified:   ../crawl/intuit.com/Privacy Policy.txt
-#	modified:   ../crawl/lexus.com/Privacy Policy.txt
 #	modified:   ../crawl/mediaplex.com/Privacy Policy.txt
-#	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
 #	modified:   ../crawl/mozilla.org/Privacy Policy.txt
 #	modified:   ../crawl/nfl.com/Privacy Policy.txt
 #	modified:   ../crawl/noaa.gov/Privacy Policy.txt
 #	modified:   ../crawl/officemax.com/Privacy Policy.txt
 #	modified:   ../crawl/oodle.com/Privacy Policy.txt
-#	modified:   ../crawl/orbitz.com/Privacy Policy.txt
 #	modified:   ../crawl/pagesjaunes.fr/Privacy Policy.txt
-#	modified:   ../crawl/paypal.com/Privacy Policy.txt
+#	modified:   ../crawl/pbskids.org/Privacy Policy.txt
 #	modified:   ../crawl/peekyou.com/Privacy Policy.txt
 #	modified:   ../crawl/pollen.com/Privacy Policy.txt
 #	modified:   ../crawl/progressive.com/Privacy Policy.txt
@@ -44,28 +40,23 @@ These files were modified since the last commit:
 #	modified:   ../crawl/realclearpolitics.com/Privacy Policy.txt
 #	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
 #	modified:   ../crawl/search-results.com/Privacy Policy.txt
+#	modified:   ../crawl/shockwave.com/Privacy Policy.txt
 #	modified:   ../crawl/shopstyle.com/Terms of Service.txt
 #	modified:   ../crawl/sony.com/Privacy Policy.txt
 #	modified:   ../crawl/spiegel.de/Privacy Policy.txt
-#	modified:   ../crawl/stumbleupon.com/Privacy Policy.txt
 #	modified:   ../crawl/subaru.com/Privacy Policy.txt
-#	modified:   ../crawl/syfy.com/Privacy Policy.txt
 #	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
+#	modified:   ../crawl/toyota.com/Privacy Policy.txt
 #	modified:   ../crawl/ubuntu.com/Terms of Service.txt
 #	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
-#	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
 #	modified:   ../crawl/vh1.com/Privacy Policy.txt
-#	modified:   ../crawl/waterhavens.com/Privacy Policy.txt
+#	modified:   ../crawl/washingtonpost.com/Privacy Policy.txt
 #	modified:   ../crawl/webmd.com/Privacy Policy.txt
 #	modified:   ../crawl/whitepages.com/Privacy Policy.txt
-#	modified:   ../crawl/wix.com/Privacy Policy.txt
+#	modified:   ../crawl/wikia.com/Privacy Policy.txt
 #	modified:   ../crawl/xanga.com/Privacy Policy.txt
-#	modified:   ../crawl/yahoo.fr/Privacy Policy.txt
-#	modified:   ../crawl/yellowpages.com/Privacy Policy.txt
 #	modified:   ../crawl/zillow.com/Privacy Policy.txt
-#	modified:   ../crawl_reviewed/apple.com/iCloud Terms of Service.txt
 #	modified:   ../crawl_reviewed/sonic.net/All Policies.txt
-#	modified:   ../crawl_reviewed/tumblr.com/Terms of Service.txt
 #	modified:   ../crawl_reviewed/wikipedia.org/Terms of Use.txt
 #	modified:   ../logs/empty.log
 #	modified:   ../logs/errors.log
