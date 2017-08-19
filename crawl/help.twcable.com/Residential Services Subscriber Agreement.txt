@@ -82,38 +82,24 @@ Subscriber will not resell or redistribute, or enable others to resell or redist
 Spectrum reserves the right at its sole discretion to immediately suspend, terminate, or restrict use of the Service without notice if such use violates the AUP or the Terms of Service, is objectionable or unlawful, or interferes with Spectrum's systems, or Internet Network, the Internet, or others' use of the Service.</li>
 <li>Prohibited Activities Using the System, Network, and Service.
 Any activity or use of the Service which violates system or network security or integrity are prohibited and may result in criminal and civil liability.
-Such violations include, without limitation, the following:<ul>
-<li>a.
-Unauthorized access to or use of data, systems, or networks, including any attempt to probe, scan, or test the vulnerability of a system or network, or to breach security or authentication measures without express authorization of the owner of the system or network.</li>
-<li>b.
-Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner or network;</li>
-<li>c.
-Interference with Internet service to any user, host, or network, including but not limited to: mail bombing, flooding, or denial of service attacks.</li>
-<li>d.
-Forging the header of any transmitted information packet, email, or Usenet posting;</li>
-<li>e.
-Modifying or tampering with any hardware, software, or configuration provided by Spectrum including but not limited to: routers, switches, and cable modem configuration files.</li>
-<li>f.
-Reselling or otherwise redistributing the Service.</li>
-<li>g.
-Disrupting, degrading or otherwise adversely affecting Spectrum's network or computer equipment owned by Spectrum or other Spectrum subscribers.</li>
-<li>h.
-Transmit unsolicited bulk or commercial messages commonly known as "spam."</li>
-<li>i.
-Assuming or assigning a Spectrum IP address that was not allocated to the user by Spectrum or its network - all Spectrum Internet users must use DHCP assigned by the Service to acquire an IP address.</li>
-<li>j.
-Either of the following activities by a Subscriber using dedicated machines (also known as "machines" or "dedicated servers") or virtual dedicated servers (also known as "VDS", "VPS", "virtual machines", and/or "virtual servers"): (i) running a tunnel or proxy to a server at another host or (ii) hosting, storing, proxy, or use of a network testing utility or denial of service (DoS/DDoS) tool in any capacity.</li>
-<li>k.
-Because the Service is for residential use only, any use of the service for non-residential purposes is not permitted and may result in reduction in service, suspension, or termination at the sole discretion of Spectrum.
+Such violations include, without limitation, the following:<ol>
+<li>Unauthorized access to or use of data, systems, or networks, including any attempt to probe, scan, or test the vulnerability of a system or network, or to breach security or authentication measures without express authorization of the owner of the system or network.</li>
+<li>Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner or network;</li>
+<li>Interference with Internet service to any user, host, or network, including but not limited to: mail bombing, flooding, or denial of service attacks.</li>
+<li>Forging the header of any transmitted information packet, email, or Usenet posting;</li>
+<li>Modifying or tampering with any hardware, software, or configuration provided by Spectrum including but not limited to: routers, switches, and cable modem configuration files.</li>
+<li>Reselling or otherwise redistributing the Service.</li>
+<li>Disrupting, degrading or otherwise adversely affecting Spectrum's network or computer equipment owned by Spectrum or other Spectrum subscribers.</li>
+<li>Transmit unsolicited bulk or commercial messages commonly known as "spam."</li>
+<li>Assuming or assigning a Spectrum IP address that was not allocated to the user by Spectrum or its network - all Spectrum Internet users must use DHCP assigned by the Service to acquire an IP address.</li>
+<li>Either of the following activities by a Subscriber using dedicated machines (also known as "machines" or "dedicated servers") or virtual dedicated servers (also known as "VDS", "VPS", "virtual machines", and/or "virtual servers"): (i) running a tunnel or proxy to a server at another host or (ii) hosting, storing, proxy, or use of a network testing utility or denial of service (DoS/DDoS) tool in any capacity.</li>
+<li>Because the Service is for residential use only, any use of the service for non-residential purposes is not permitted and may result in reduction in service, suspension, or termination at the sole discretion of Spectrum.
 Non-residential purposes include, without limitation, the following:</li>
-<li>l.
-Running any type of server on the system that is not consistent with personal, residential use.
+<li>Running any type of server on the system that is not consistent with personal, residential use.
 This includes but is not limited to FTP, IRC, SMTP, POP, HTTP, SOCS, SQUID, NTP, DNS or any multi-user forums.</li>
-<li>m.
-Distributing in any way information, software or other material obtained through the service or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner.</li>
-<li>n.
-IP address translation or similar facilities intended to provide additional access.</li>
-</ul>
+<li>Distributing in any way information, software or other material obtained through the service or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner.</li>
+<li>IP address translation or similar facilities intended to provide additional access.</li>
+</ol>
 </li>
 <li>No Illegal or Fraudulent Use.
 The Service may be used only for lawful purposes.
@@ -180,27 +166,23 @@ All such charges, including applicable taxes shall be paid by Subscriber and are
 <li>Disruption of Cable Service: In no event shall Spectrum be liable for any failure or interruption of program transmissions or Cable Service resulting in part or entirely from circumstances beyond Spectrum's reasonable control (including without limitation, any interruption or degradation of Cable Service arising from Subscriber's interference, modification or tampering with the Cable Service of digital receiver connection).
 Subject to requirements under applicable law, credit may be given for qualifying outages.</li>
 <li>Copying, Reproduction, and Distribution of Programs: Subscriber agrees that Subscriber shall use the programs, Cable Service, and other services provided by Spectrum solely for Subscriber's personal, non-commercial use and will not copy, reproduce, or otherwise redistribute such programs, Cable Service, or other services except in compliance with applicable law.</li>
-<li>Additional Spectrum Rights:<ul>
-<li>a.
-Spectrum has no obligation to monitor content or services accessible by means of Spectrum's cable system or the digital receiver.
+<li>Additional Spectrum Rights:<ol>
+<li>Spectrum has no obligation to monitor content or services accessible by means of Spectrum's cable system or the digital receiver.
 however, Subscriber acknowledges and agrees that Spectrum has the right to monitor content electronically from time to time and to disclose any information as necessary to satisfy any law or regulation, to operate its programming and data information services properly, or to protect itself or its Subscribers.</li>
-<li>b.
-Spectrum shall have the right to determine in its sole discretion what constitutes an "inappropriate" or "commercial use" of Spectrum's systems, Equipment, or Cable Service.</li>
-</ul>
+<li>Spectrum shall have the right to determine in its sole discretion what constitutes an "inappropriate" or "commercial use" of Spectrum's systems, Equipment, or Cable Service.</li>
+</ol>
 </li>
 <li>Term: Spectrum Cable Service shall continue until such time as terminated by Subscriber, which shall be effective upon notice, or terminated by Spectrum for breach (including nonpayment) of the Terms of Service or otherwise terminated by Spectrum in accordance with the General Terms and Conditions for Services.</li>
 <li>Additional Features, Functionality and Tools: Any additional service features, functionality and tools that Spectrum offers may be further subject to specific terms of use and subject to charges, change, or removal at any time by Spectrum.</li>
-<li>Programming:<ul>
-<li>a.
-Notwithstanding anything to the contrary herein, the Cable Service, including but not limited to all programming, program services, program packages, number of channels, channel allocations, broadcast channels, interactive services, data offerings and other services are subject to change in accordance with applicable law.
+<li>Programming:<ol>
+<li>Notwithstanding anything to the contrary herein, the Cable Service, including but not limited to all programming, program services, program packages, number of channels, channel allocations, broadcast channels, interactive services, data offerings and other services are subject to change in accordance with applicable law.
 Subscriber acknowledges and agrees that it has no right to receive, and Spectrum has no obligation to provide, any particular programming service or channel as part of the Cable Service and that Subscriber is not entering into this agreement or purchasing the Cable Service in reliance on an expectation or promise (explicit or implicit) that any particular programming service or set of programming services shall be included as part of the Cable Service.</li>
-<li>b.
-Notwithstanding anything to the contrary herein, for the avoidance of doubt, and without limiting or abrogating any other rights Spectrum may have under the General Terms and Conditions for Service, in the event particular programming becomes unavailable, either on a temporary or permanent basis, due to a dispute between Spectrum and a third party programmer, Spectrum shall not be liable for compensation, damages (including compensatory, direct, indirect, incidental, special, punitive or consequential losses or damages), credits or refunds of fees for the missing or omitted programming.
+<li>Notwithstanding anything to the contrary herein, for the avoidance of doubt, and without limiting or abrogating any other rights Spectrum may have under the General Terms and Conditions for Service, in the event particular programming becomes unavailable, either on a temporary or permanent basis, due to a dispute between Spectrum and a third party programmer, Spectrum shall not be liable for compensation, damages (including compensatory, direct, indirect, incidental, special, punitive or consequential losses or damages), credits or refunds of fees for the missing or omitted programming.
 Subscriber's sole recourse in such an event shall be termination of the Cable Service in accordance with the General Terms and Conditions for Service.
 The provisions of this paragraph shall not apply to programming to which a Subscriber subscribes on an a la carte basis (i.e.
 channels that are not part of a package or tier).
 provided, however, in that event Spectrum may provide to Customer a pro rata credit of amounts pre-paid for the specific programming to which Subscriber subscribes on an a la carte basis.</li>
-</ul>
+</ol>
 </li>
 <li>Disclaimer: Spectrum assumes no liability for any program, services or information distributed over the cable system and/or Spectrum's digital receiver unless locally produced by Spectrum.
 Spectrum shall not be responsible for any products, merchandise or prizes promoted on or purchased through the use of the cable system or Spectrum's digital receiver, unless such products, merchandise or prizes are provided directly by Spectrum.</li>
@@ -210,32 +192,24 @@ The starter kit manual provided with the Cable Service includes instructions on 
 Should Subscriber deactivate the Parental Control feature, even for one channel or event, this will deactivate the Parental Control feature for all other channels that were previously locked out.
 Subscriber will then have to reactivate the Parental Control to again block out the desired channels.
 It is recommended that Subscriber occasionally verify that the Parental Control feature is activated and operational.</li>
-<li>Prohibited Uses and Activities: The Subscriber shall not use Spectrum's Equipment, or the Cable Service for illegal or inappropriate activities or otherwise engage in any illegal or inappropriate activities in their course of dealings with Spectrum, including but not limited to:<ul>
-<li>a.
-Invading another person's privacy.
+<li>Prohibited Uses and Activities: The Subscriber shall not use Spectrum's Equipment, or the Cable Service for illegal or inappropriate activities or otherwise engage in any illegal or inappropriate activities in their course of dealings with Spectrum, including but not limited to:<ol>
+<li>Invading another person's privacy.
 unlawfully using, possessing, posting, transmitting or disseminating obscene, profane or pornographic material.
 posting, transmitting, distributing or disseminating content which is unlawful, threatening, abusive, harassing, libelous, slanderous, defamatory or otherwise offensive or objectionable;</li>
-<li>b.
-Redistributing or retransmitting the Cable Service, or any portion thereof, or transmitting or distributing the Cable Service, or any portion thereof, to persons outside the service location on Subscriber's account;</li>
-<li>c.
-Modifying, disrupting, unauthorized relocation of or tampering with Spectrum's Equipment, including but not limited to, tampering with the seal on the digital receiver, the access card or any of Spectrum's services;</li>
-<li>d.
-Connecting or attaching equipment to the Cable Service with the intended purpose to distribute the Cable Service in an unauthorized manner;</li>
-<li>e.
-Restricting, inhibiting or otherwise interfering with the ability of any other Spectrum subscriber to use or enjoy any Spectrum service, the Cable Service, or the Internet.</li>
-<li>f.
-Reselling the Spectrum Service or services;</li>
-<li>g.
-Conducting a pyramid or other illegal soliciting scheme;</li>
-<li>h.
-Impersonating any person or entity or forging anyone else's digital or manual signature.
+<li>Redistributing or retransmitting the Cable Service, or any portion thereof, or transmitting or distributing the Cable Service, or any portion thereof, to persons outside the service location on Subscriber's account;</li>
+<li>Modifying, disrupting, unauthorized relocation of or tampering with Spectrum's Equipment, including but not limited to, tampering with the seal on the digital receiver, the access card or any of Spectrum's services;</li>
+<li>Connecting or attaching equipment to the Cable Service with the intended purpose to distribute the Cable Service in an unauthorized manner;</li>
+<li>Restricting, inhibiting or otherwise interfering with the ability of any other Spectrum subscriber to use or enjoy any Spectrum service, the Cable Service, or the Internet.</li>
+<li>Reselling the Spectrum Service or services;</li>
+<li>Conducting a pyramid or other illegal soliciting scheme;</li>
+<li>Impersonating any person or entity or forging anyone else's digital or manual signature.
 or</li>
-<li>i.
-Harassing, threatening, or otherwise verbally abusing Spectrum employees or its agents.<br>
+<li>Harassing, threatening, or otherwise verbally abusing Spectrum employees or its agents.<br>
 <br>
+</li>
+</ol>
 Engaging in one or more of these activities may result in termination of Subscriber’s Cable Service.
-This Section 11 shall not in any way limit Spectrum rights of termination pursuant to any other provision of the Terms of Service.</li>
-</ul>
+This Section 11 shall not in any way limit Spectrum rights of termination pursuant to any other provision of the Terms of Service.
 </li>
 <li>License Requirements: Subscriber agrees to comply with all end user license requirements relative to any of the services which Subscriber accesses pursuant to the Terms of Service.
 Subscriber may not decompile, reverse engineer, disassemble, modify, create derivative works of, or in any way derive any source code from the Cable Service, or any portion thereof including Spectrum software or third party software made available through or in connection with the Cable Service.
@@ -243,20 +217,17 @@ Subscriber agrees not to remove, alter, or obscure any product identification, p
 <li>Limitation of Liability: Any information sent by the Subscriber utilizing the functions of Spectrum Equipment is sent at the Subscriber's sole risk, and Spectrum shall have no liability whatsoever for any claims, losses, actions, damages, suits or proceedings arising out of or otherwise relating to such actions by the Subscriber.
 Without limitation of the foregoing, Subscriber acknowledges and agrees that Spectrum shall not be liable for any use of Subscriber's information provided to third parties in connection with Subscriber's use of the Cable Services or other third party services or functions available through the Cable Service.
 Spectrum shall not be liable or responsible for any errors, losses, or interruptions in connection with Subscriber's use of the Cable Service, and any features or functionalities thereof, including but not limited to intermittent service, erroneous deletions, failed or misdirected recordings, and inability to schedule recordings.</li>
-<li>Security:<ul>
-<li>a.
-Subscriber is responsible for any misuse of Spectrum's Equipment, the Cable Service, or any third party services to which Subscriber has subscribed, even if the inappropriate activity was committed by a friend, family member, guest, employee or Subscriber with access to Subscriber's account.
+<li>Security:<ol>
+<li>Subscriber is responsible for any misuse of Spectrum's Equipment, the Cable Service, or any third party services to which Subscriber has subscribed, even if the inappropriate activity was committed by a friend, family member, guest, employee or Subscriber with access to Subscriber's account.
 Therefore, Subscriber must take steps to ensure that others do not gain unauthorized access to Spectrum's Equipment, Cable Service or third party services.
 For example, Subscriber must secure any wireless home network used in connection with the Cable Service by requiring passwords or similar means of restricting access to such network.</li>
-<li>b.
-Subscriber agrees to maintain the security and confidentiality of Subscriber's usernames and passwords or similar credentials that enable Subscriber to access the Cable Service.
+<li>Subscriber agrees to maintain the security and confidentiality of Subscriber's usernames and passwords or similar credentials that enable Subscriber to access the Cable Service.
 Subscriber further agrees not to disclose such credentials to any third party.
 Without limitation of the foregoing, Subscriber agrees that Subscriber shall not disclose such credentials to third parties to enable them to access the Cable Service or programming that may be made available to Subscriber outside the home.</li>
-<li>c.
-The Equipment, Cable Service or third party services may not be used to breach the security of another Spectrum subscriber or to attempt to gain access to any other person's computer, software or data, without the knowledge and consent of such person.
+<li>The Equipment, Cable Service or third party services may not be used to breach the security of another Spectrum subscriber or to attempt to gain access to any other person's computer, software or data, without the knowledge and consent of such person.
 They also may not be used in any attempt to circumvent the user authentication or security of any host, network, or account.
 Use or distribution of tools designed for compromising security is prohibited.</li>
-</ul>
+</ol>
 </li>
 <li>Closed Captioning: Subscriber may obtain information regarding closed captioning issues by calling or visiting our local Spectrum store.</li>
 <li>Choice of Law: This Policy shall be exclusively governed by, and construed in accordance with, the laws of the State of New York.</li>
@@ -280,24 +251,21 @@ The Terms of Service constitute a legal binding document.</p>
 <p>Spectrum regularly updates and amends these Terms of Service.
 Subscriber should consult Spectrum's website www.spectrum.com to be sure Subscriber remains in compliance.</p>
 <ol>
-<li>Equipment: To use the Internet Service, Subscriber must meet minimum computer, device, in-home network and system requirements as identified by Spectrum.<ul>
-<li>a.
-Computer Equipment: The personal computer or device that Subscriber uses to access the Internet Service must meet minimum configuration standards.
+<li>Equipment: To use the Internet Service, Subscriber must meet minimum computer, device, in-home network and system requirements as identified by Spectrum.<ol>
+<li>Computer Equipment: The personal computer or device that Subscriber uses to access the Internet Service must meet minimum configuration standards.
 Please refer to Spectrum's System Requirements for the current specifications.
 The minimum configuration standards may change, and Spectrum will make reasonable efforts to support previously acceptable configurations.
 however, Spectrum is not obligated to continue to provide such support.
 Spectrum may supply equipment such as modems, gateways, routers, or wireless cards, at no charge or for a one time or reoccurring fee, to operate the Internet Service.
 Subscriber acknowledges that such equipment may require updates and/or changes to the software resident in the equipment and that Subscriber may be required to perform such updates and/or changes.
 Notwithstanding, Subscriber hereby authorizes Spectrum to perform updates and/or changes, on-site or remotely from time to time as Spectrum deems necessary, in Spectrum's sole discretion.</li>
-<li>b.
-Spectrum does not provide technical assistance for third-party hardware or software, including but not limited to home networks or gaming systems.
+<li>Spectrum does not provide technical assistance for third-party hardware or software, including but not limited to home networks or gaming systems.
 Any questions concerning third-party hardware or software should be directed to the manufacturer of that product.
 Spectrum is not responsible for the operation or support, maintenance or repair of any equipment, software or services that Subscriber elects to use in connection with the Internet Service.</li>
-<li>c.
-Subscriber will not connect any equipment, other than equipment authorized by Spectrum, to the cable modem outlet.
+<li>Subscriber will not connect any equipment, other than equipment authorized by Spectrum, to the cable modem outlet.
 Subscriber understands that failure to comply with this restriction may cause damage to the Spectrum network and subject Subscriber to liability for damages and/or criminal prosecution.
 Subscriber may not alter, modify or tamper with the Equipment or the Internet Service, or permit any other person, not authorized by Spectrum, to do the same.</li>
-</ul>
+</ol>
 </li>
 <li>Network Interface: When Spectrum installs the Internet Service, Subscriber will need a network interface card or adapter providing an Ethernet connection.
 Alternatively, subscriber may connect to a home networking device (commonly referred to as a router or gateway).</li>
@@ -341,46 +309,37 @@ Spectrum may determine that Subscriber is a repeat copyright infringer if Spectr
 Spectrum reserves the right to suspend or terminate the accounts of repeat copyright infringers.</li>
 <li>Term: Spectrum Internet Service shall continue until such time as terminated by Subscriber, which shall be effective upon notice, or terminated by Spectrum for breach (including nonpayment) of the Terms of Service or a violation of the AUP.
 Spectrum will not be responsible for the return of data stored on Spectrum's servers, such as web and e-mail servers if Subscriber's account is suspended or terminated.</li>
-<li>Disclaimer of Warranties and Limitation of Liability.<ul>
-<li>a.
-No Warranty: Subscriber agrees that Subscriber uses the Internet Service and any software and equipment supplied by Spectrum at Subscriber's sole risk.
+<li>Disclaimer of Warranties and Limitation of Liability.<ol>
+<li>No Warranty: Subscriber agrees that Subscriber uses the Internet Service and any software and equipment supplied by Spectrum at Subscriber's sole risk.
 The Internet Service and Spectrum equipment are provided on an "as-is basis", if applicable, without warranties of any kind including without limitation any warranties of title, non-infringement, fitness for a particular purpose and merchantability.
 Spectrum does not warrant uninterrupted use of Internet Service.
 Spectrum does not warrant that the Internet Service will be error-free or free of any viruses, worms, spam, pop-up advertising, spyware, adware, denial of service attacks or other harmful components, even if countermeasures have been deployed.
 Spectrum does not warrant that any data or files Subscriber sends or receives via the Internet Service will be transmitted in uncorrupted form, within a reasonable time, or free from unauthorized access by others or that other users will be unable to gain access to Subscriber's computer.
 This includes, but is not limited to, incidents of file sharing, print sharing, or use of other means that enable Internet users to gain access to Subscriber's equipment or to monitor Subscriber's activity and conduct while using the Internet Service.</li>
-<li>b.
-Anti-Spam Software: Subscriber acknowledges and understands that Spectrum utilizes anti-spam software and that such security technology is a feature of the Internet Service that may block incoming and outgoing electronic mail.
+<li>Anti-Spam Software: Subscriber acknowledges and understands that Spectrum utilizes anti-spam software and that such security technology is a feature of the Internet Service that may block incoming and outgoing electronic mail.
 Spectrum does not warrant that such feature will block all unwanted mail/spam or that all mail that is blocked constitutes unwanted mail/ spam.
 Consistent with other statements set forth in this section, Spectrum does not warrant that such feature will be error-free.</li>
-<li>c.
-Security Software: In addition, in its sole discretion, Spectrum may make available to Subscriber security software, such as anti-virus software, firewall software, "pop-up" advertising blocking software, parental control software, and anti-spyware or anti-adware software for Subscriber's use on Subscriber's computer system in conjunction with the Internet Service.
+<li>Security Software: In addition, in its sole discretion, Spectrum may make available to Subscriber security software, such as anti-virus software, firewall software, "pop-up" advertising blocking software, parental control software, and anti-spyware or anti-adware software for Subscriber's use on Subscriber's computer system in conjunction with the Internet Service.
 Any such security software provided by Spectrum to Subscriber is intended to provide only a minimal level of protection to Subscriber's computer system(s).
 Subscriber understands and agrees that Spectrum and its third-party suppliers of any such security software do not guarantee its accuracy, efficacy or performance.
 Subscriber understands and agrees that Spectrum and its third-party suppliers are not responsible for any damage to Subscriber's computer system(s) or the information stored on it that may result from the security software or its non-performance.</li>
-<li>d.
-Third Party Sites: When Subscriber uses the Internet Service and/or accesses Spectrum web sites, Subscriber may encounter links allowing Subscriber to visit web sites operated or owned by third parties ("Third Party Site(s)").
+<li>Third Party Sites: When Subscriber uses the Internet Service and/or accesses Spectrum web sites, Subscriber may encounter links allowing Subscriber to visit web sites operated or owned by third parties ("Third Party Site(s)").
 Spectrum provides these links as a convenience and they are not under the control or ownership of Spectrum.
 The presence of a link to any Third Party Site is not an endorsement by Spectrum of the Third Party Site, an acknowledgment of any affiliation with its operators or owners, or a warranty of any type regarding any information or offer on the Third Party Site.
 Subscriber's use of any third party site is governed by the various legal agreements and policies posted at that web site.</li>
-<li>e.
-Bandwidth.<ul>
-<li>i.
-Subscriber understands and agrees that Spectrum does not guarantee that any particular amount of bandwidth on the Spectrum network or that any speed or throughput of Subscriber's connection to the Spectrum network will be available to Subscriber.
+<li>Bandwidth.<ol>
+<li>Subscriber understands and agrees that Spectrum does not guarantee that any particular amount of bandwidth on the Spectrum network or that any speed or throughput of Subscriber's connection to the Spectrum network will be available to Subscriber.
 Subscriber understands and agrees that the speed of the Internet Service provided at Subscriber's site will vary depending upon a number of factors, including Subscriber's computer system(s) and associated equipment (e.g., Subscriber-sourced WiFi routers/access points, etc.), Internet traffic, and other factors such as system capacity limitations, governmental actions, events beyond Spectrum's control, and system failures, modifications, upgrades and repairs.
 Subscriber understands that Subscriber’s wireless connections and use of wireless routers may be subject to greater fluctuations in speed and latency and may be adversely affected by interference, congestion, distance, and other outside factors.
 For more information, please visit http://spectrum.net/wiredvswifi [Article to be published].</li>
-<li>ii.
-Subscriber understands that Spectrum may use various tools and techniques in order to efficiently manage its networks and to ensure compliance with Spectrum's AUP.
+<li>Subscriber understands that Spectrum may use various tools and techniques in order to efficiently manage its networks and to ensure compliance with Spectrum's AUP.
 Subscriber should reference Spectrum's AUP for additional details.</li>
-<li>iii.
-Subscriber further understands and agrees that, to allocate bandwidth across all of its users, Spectrum may employ reasonable network management techniques as identified in Spectrum's AUP and Spectrum's Network Management Disclosure Statement.</li>
-<li>iv.
-Subscriber's sole and exclusive remedies under the Terms of Service are as set forth in these Terms of Service.
+<li>Subscriber further understands and agrees that, to allocate bandwidth across all of its users, Spectrum may employ reasonable network management techniques as identified in Spectrum's AUP and Spectrum's Network Management Disclosure Statement.</li>
+<li>Subscriber's sole and exclusive remedies under the Terms of Service are as set forth in these Terms of Service.
 Because some States do not allow the exclusion or limitation of implied warranties, some of the above exclusions may not apply to Subscriber.</li>
-</ul>
+</ol>
 </li>
-</ul>
+</ol>
 </li>
 <li>Limitation of Liability/Exclusive Remedy: Spectrum's entire liability and Subscriber's exclusive remedy with respect to the use of the Internet Service or its software and equipment, or any breach by Spectrum of any obligation Spectrum may have under these Terms of Service, shall be Subscriber's ability to terminate the Internet Service or to obtain the replacement or repair of any defective software or equipment provided by Spectrum to Subscriber.
 In addition, Spectrum shall not be liable for damages for failure to furnish, or the degradation or interruption of, any services, for any lost data or content, identify theft, for any TV, monitor or screen burn-in, monitor or screen wear, stuck pixels, phosphor burn, files or software damage, regardless of cause.
@@ -523,29 +482,23 @@ If the Subscriber moves residences outside of Spectrum’s service area, Subscri
 <li>Access to Subscriber Premises: Subscriber authorizes Spectrum and its employees, agents, contractors and representatives to access and otherwise enter the Subscriber's premises to install, inspect, maintain and/or repair the Equipment and, upon the termination of Service, to remove the same from the premises.
 Spectrum's failure to remove its Equipment shall not be deemed abandonment thereof.
 If the installation and maintenance of Service are requested at premises that, in Spectrum’s sole discretion, are or may become hazardous or dangerous to our employees, the public or property, Spectrum may refuse to install and maintain such Service.</li>
-<li>Acknowledgments and Contents Regarding Recording of Communications and Contact Rights:<ul>
-<li>a.
-Recording of Communications.
+<li>Acknowledgments and Contents Regarding Recording of Communications and Contact Rights:<ol>
+<li>Recording of Communications.
 Subscriber acknowledges and agrees that all communications between Subscriber and Spectrum may be recorded or monitored by Spectrum for quality assurance or other purposes subject to applicable law.</li>
-<li>b.
-Consent to Phone Calls.
+<li>Consent to Phone Calls.
 Spectrum may call or text Subscriber or authorize others to call or text Subscriber on its behalf including but not limited to at any number Subscriber provides to Spectrum (or that Spectrum issues to Subscriber) for any purpose, including marketing Spectrum’s services.
 If Subscriber’s numbers are included on state or federal "do not call" lists, Spectrum will not call or text Subscriber for marketing purposes, but still may call or text Subscriber or authorize others to do so for non-marketing purposes.
 Subscriber is responsible for charges for incoming text messages on Subscriber’s wireless phone(s).</li>
-<li>c.
-Robo-Calls.
+<li>Robo-Calls.
 Spectrum (or persons acting on Spectrum’s behalf) may use automated dialing systems or artificial or recorded voices to contact Subscriber or leave Subscriber messages if the call goes to voicemail.</li>
-<li>d.
-Other Notices.
+<li>Other Notices.
 Subscriber authorizes Spectrum to provide other notices to Subscriber using any method Spectrum determines appropriate, including by electronic means (for example, email or online posting).</li>
-<li>e.
-Other Consents.
+<li>Other Consents.
 Spectrum may ask Subscriber to provide other consents or authorizations, including by electronic means, email or Subscriber’s equipment (for instance, using Subscriber’s remote control to purchase a VOD movie, to request information regarding an advertiser's products or to "opt in" to a consumer study), and Spectrum is entitled to assume that any consent or authorization Spectrum receives through the Services or from Subscriber’s location has been authorized by Subscriber.</li>
-<li>f.
-Email Address for Notice.
+<li>Email Address for Notice.
 Upon Spectrum’s request, Subscriber will provide Spectrum with a current email address that Subscriber regularly checks so that Spectrum may provide notices and communications to Subscriber at that address.<br>
 Spectrum’s right to contact Subscriber as described in this Section survives the termination of these Terms of Service.</li>
-</ul>
+</ol>
 </li>
 <li>Subscriber’s Right to Opt Out of Certain Robo-Calls.
 If Subscriber does not wish to receive calls, messages, or texts from Spectrum via automated dialing systems or pre-recorded messages on Subscriber’s cellular phone, Subscriber may visit our websites to manage communication preferences.
@@ -555,45 +508,34 @@ Subscriber understands that Spectrum will continue to use automated dialing syst
 <li>Secure Connection Requirements.
 Without abrogating or otherwise limiting Subscriber’s separate obligations to secure Subscriber’s account and equipment under the Terms of Service, Spectrum shall have the right to implement reasonable measures necessary to track, manage, and/or ensure the security of the connection between any device or application used by Subscriber, members of Subscriber’s household, Subscriber’s guests, or any third parties and Spectrum’s Equipment, system, or other network facilities (whether by physical, WiFi, wireless, software, or other means of connection), including without limitation authentication, access security, or other processes and means.</li>
 <li>Assignment or Transfer: These General Terms and the Services and/or Equipment supplied by Spectrum are not assignable or otherwise transferable by Subscriber, without specific written authorization from Spectrum.</li>
-<li>Termination and Expiration:<ul>
-<li>a.
-Termination by Subscriber: Unless otherwise terminated, these General Terms shall automatically renew on a month-to-month basis.
+<li>Termination and Expiration:<ol>
+<li>Termination by Subscriber: Unless otherwise terminated, these General Terms shall automatically renew on a month-to-month basis.
 Subscriber acknowledges that upon such renewal all pricing is subject to change.
 To terminate any recurring Service, Subscribers must call 855-757-7328, or provide a hardcopy written notice of termination to Spectrum delivered to 2 Digital Place, Floor 4, Simpsonville, SC 29681.</li>
-<li>b.
-Termination for Bankruptcy: Spectrum shall have the right to terminate these General Terms immediately in the event that Subscriber makes an assignment for the benefit of creditors, or a voluntary or involuntary petition is filed by or against Subscriber under any law having for its purpose the adjudication of Subscriber as a bankrupt or the reorganization of Subscriber.</li>
-<li>c.
-Termination for Breach: In the event of any breach of these General Terms by Subscriber, the failure of Subscriber to abide by the rates, rules and regulations of Spectrum, the failure of Subscriber to provide and maintain accurate registration information, or any illegal activity by the Subscriber using any Service, these General Terms may, at Spectrum's option, be terminated and the Equipment removed.
+<li>Termination for Bankruptcy: Spectrum shall have the right to terminate these General Terms immediately in the event that Subscriber makes an assignment for the benefit of creditors, or a voluntary or involuntary petition is filed by or against Subscriber under any law having for its purpose the adjudication of Subscriber as a bankrupt or the reorganization of Subscriber.</li>
+<li>Termination for Breach: In the event of any breach of these General Terms by Subscriber, the failure of Subscriber to abide by the rates, rules and regulations of Spectrum, the failure of Subscriber to provide and maintain accurate registration information, or any illegal activity by the Subscriber using any Service, these General Terms may, at Spectrum's option, be terminated and the Equipment removed.
 Failure of Spectrum to remove such Equipment shall not be deemed abandonment thereof.
 Subscriber shall pay reasonable collection and/or attorney's fees to Spectrum in the event that Spectrum shall, in its discretion, find it necessary to enforce collection or to preserve and protect its rights under these General Terms.
-Spectrum may terminate these General Terms or Spectrum may reject an application or block access to or use of any component of any Service for any reason including, but not limited to, if:<ul>
-<li>i.
-Subscriber violated these General Terms as to this or another Spectrum account;</li>
-<li>ii.
-The information required in the application process is or becomes incorrect, absent or incomplete;</li>
-<li>iii.
-Subscriber threatened or harassed any Spectrum employee, agent, contractor or representative;</li>
-<li>iv.
-Subscriber's credit card issuer refuses a charge or any other payment method fails to compensate Spectrum;</li>
-<li>v.
-There is a violation of the Terms of Service or other agreements with respect to any Service, as determined in the sole discretion of Spectrum.
+Spectrum may terminate these General Terms or Spectrum may reject an application or block access to or use of any component of any Service for any reason including, but not limited to, if:<ol>
+<li>Subscriber violated these General Terms as to this or another Spectrum account;</li>
+<li>The information required in the application process is or becomes incorrect, absent or incomplete;</li>
+<li>Subscriber threatened or harassed any Spectrum employee, agent, contractor or representative;</li>
+<li>Subscriber's credit card issuer refuses a charge or any other payment method fails to compensate Spectrum;</li>
+<li>There is a violation of the Terms of Service or other agreements with respect to any Service, as determined in the sole discretion of Spectrum.
 or</li>
-<li>vi.
-The amount of technical support required to be provided to Subscriber is excessive as determined in the sole discretion of Spectrum.<br>
+<li>The amount of technical support required to be provided to Subscriber is excessive as determined in the sole discretion of Spectrum.<br>
 Subscriber further agrees that in the event of termination pursuant to subsections (b) or (c), Spectrum shall have no liability to Subscriber.</li>
-</ul>
+</ol>
 </li>
-<li>Obligations Upon Termination: The Subscriber agrees that upon termination of these General Terms:<ul>
-<li>i.
-Subject to 13.a, Subscriber will pay Spectrum in full for Subscriber's use of the Equipment and the Services, as applicable, up to the later of the effective date of termination of these General Terms, the date on which the Service has been disconnected, or the date on which the Equipment is returned to Spectrum.
+<li>Obligations Upon Termination: The Subscriber agrees that upon termination of these General Terms:<ol>
+<li>Subject to 13.a, Subscriber will pay Spectrum in full for Subscriber's use of the Equipment and the Services, as applicable, up to the later of the effective date of termination of these General Terms, the date on which the Service has been disconnected, or the date on which the Equipment is returned to Spectrum.
 The Subscriber agrees to pay Spectrum on a pro-rated basis for any use by the Subscriber of any Service for a part of a month;</li>
-<li>ii.
-Subscriber will promptly return all Equipment to Spectrum.
+<li>Subscriber will promptly return all Equipment to Spectrum.
 In the event that Subscriber fails to return any Equipment within ten (10) days of the termination of these General Terms in addition to Equipment charges contemplated in Section 16.d, Subscriber shall be liable to Spectrum in accordance with Spectrum's then current schedule of charges for non-returned Equipment.</li>
-</ul>
+</ol>
 </li>
 <li>Renewal after Cancellation or Termination: Subscriber acknowledges and agrees that in the event of renewal after cancellation or termination of a Service, Subscriber shall be subject to the pricing, warranties, and Terms of Service as are effective at the time of such renewal.</li>
-</ul>
+</ol>
 </li>
 <li>Spectrum’s Right to Pursue Remedies and Subscriber’s Indemnification Obligations.
 If Subscriber breaches these General Terms, Spectrum has the right to seek compensation from Subscriber for such breach through arbitration or, if Subscriber has opted out of these General Terms’ arbitration provision or we are seeking an order requiring you to do or refrain from doing something, in court.
@@ -621,26 +563,19 @@ Further, Spectrum shall not be responsible for any products, merchandise or priz
 <li>Spectrum’s Reservation of Rights: Spectrum reserves the right to refuse, suspend or terminate Service to any person at any time for any reason not prohibited by law.
 When practical, Spectrum will provide notice that is reasonable under the circumstances before suspending or terminating Service to an existing Subscriber, and Spectrum will provide any prior notice of suspension or termination that is required by law.</li>
 <li>Indemnification.
-In requesting and accepting Spectrum Services, Subscriber agrees to defend, indemnify, and hold Spectrum, including its officers, directors, employees, affiliates, subsidiaries, and authorized agents (individually and collectively, "Spectrum Indemnitees") harmless from and against any and all demands, claims, suits, judgments, expenses (including without limitation reasonable attorney or witness fees), loss, damages to, or destruction of personal, real, or intellectual property, bodily injury or death of any person, and other liabilities arising from:<ul>
-<li>a.
-The installation, operation, provision, or other use of Spectrum Services and/or Equipment;</li>
-<li>b.
-Any violation of Spectrum’s Terms of Service, Acceptable Use Policy, or other published policies or requirements;</li>
-<li>c.
-The negligence, willful misconduct, violation of a third party’s rights, or failure to comply with applicable law by (i) Subscriber, (ii) members of Subscriber’s household, or (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber;</li>
-<li>d.
-Libel or slander resulting from any use of the Services by (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber;</li>
-<li>e.
-Infringement or misappropriation of any patent, copyright, trademark, trade name, service mark, trade secret, or other intellectual property rights (whether by transmission or material or otherwise) by (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber, including that effected through combination of Subscriber's use of the respective Service(s) with facilities, equipment, or services provided or used by Subscriber or obtained from third parties;</li>
-<li>f.
-Any unauthorized, unlawful, or fraudulent use of or access to the Services, except as otherwise provided by applicable law.
+In requesting and accepting Spectrum Services, Subscriber agrees to defend, indemnify, and hold Spectrum, including its officers, directors, employees, affiliates, subsidiaries, and authorized agents (individually and collectively, "Spectrum Indemnitees") harmless from and against any and all demands, claims, suits, judgments, expenses (including without limitation reasonable attorney or witness fees), loss, damages to, or destruction of personal, real, or intellectual property, bodily injury or death of any person, and other liabilities arising from:<ol>
+<li>The installation, operation, provision, or other use of Spectrum Services and/or Equipment;</li>
+<li>Any violation of Spectrum’s Terms of Service, Acceptable Use Policy, or other published policies or requirements;</li>
+<li>The negligence, willful misconduct, violation of a third party’s rights, or failure to comply with applicable law by (i) Subscriber, (ii) members of Subscriber’s household, or (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber;</li>
+<li>Libel or slander resulting from any use of the Services by (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber;</li>
+<li>Infringement or misappropriation of any patent, copyright, trademark, trade name, service mark, trade secret, or other intellectual property rights (whether by transmission or material or otherwise) by (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (iv) any other person using the Services provided to Subscriber, including that effected through combination of Subscriber's use of the respective Service(s) with facilities, equipment, or services provided or used by Subscriber or obtained from third parties;</li>
+<li>Any unauthorized, unlawful, or fraudulent use of or access to the Services, except as otherwise provided by applicable law.
 and</li>
-<li>g.
-Any infringement or invasion of the right of privacy of any person or persons, caused or claimed to have been caused, directly or indirectly, by the installation, operation, failure to operate, maintenance, removal, presence, condition, or use of the 911 or E-911 service features and the equipment associated therewith, or by the use of any Voice Services furnished by Spectrum in connection with the 911 or E-911 service, including but not limited to, the telephone number, address or name associated with the telephone used by persons accessing 911 or E-911 service thereunder, and/or that which arises out of the negligence or other wrongful act of (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (ii) any other person using the Services provided to Subscriber.<br>
+<li>Any infringement or invasion of the right of privacy of any person or persons, caused or claimed to have been caused, directly or indirectly, by the installation, operation, failure to operate, maintenance, removal, presence, condition, or use of the 911 or E-911 service features and the equipment associated therewith, or by the use of any Voice Services furnished by Spectrum in connection with the 911 or E-911 service, including but not limited to, the telephone number, address or name associated with the telephone used by persons accessing 911 or E-911 service thereunder, and/or that which arises out of the negligence or other wrongful act of (i) Subscriber, (ii) members of Subscriber’s household, (iii) Subscriber’s guests, or (ii) any other person using the Services provided to Subscriber.<br>
 The foregoing defense and indemnity obligations exclude damages to the extent caused by the gross negligence or willful misconduct of the Spectrum Indemnitees.
 Subscriber agrees that Spectrum Indemnitees are not liable for any damages or liability resulting from the loss of Services (whether Internet, Cable, Voice, or other Services), nor will Subscriber make any claims or undertake any actions against Spectrum Indemnitees for loss of Service.
 Subscriber shall be solely responsible for any damage to or loss of Spectrum Equipment, unless such damage or loss is caused solely by the negligence or willful misconduct of Spectrum Indemnitees.</li>
-</ul>
+</ol>
 </li>
 <li>LIMITATION OF LIABILITY.
 THE LIMITATION OF LIABILITY SET FORTH IN THIS SECTION APPLY TO ANY ACTS, OMISSIONS AND NEGLIGENCE OF SPECTRUM AND ITS THIRD-PARTY SERVICE PROVIDERS, AGENTS AND SUPPLIERS (AND EACH OF THEIR RESPECTIVE OFFICERS, EMPLOYEES, AGENTS, CONTRACTORS OR REPRESENTATIVES).<br>
@@ -751,52 +686,41 @@ Fees for Spectrum Voice Service shall be posted in the applicable Price Guide at
 Certain fees for Spectrum Voice Service are based upon periodic studies that analyze the intrastate, interstate and international minutes of all customers purchasing Voice Service.</li>
 <li>Voice Service Features: Spectrum Voice Service is offered with the features below.
 In certain areas, Spectrum also offers a mobile application, "Phone2Go," that allows Subscribers to use their Voice Service away from their residence with access to suitable WiFi connectivity.
-Certain features may not be available with the Phone2Go mobile application, or may be subject to additional terms and conditions presented within the Phone2Go mobile application.<ul>
-<li>a.
-Calling and Features: Includes local, regional and/or long distance calling within the United States and to those countries and US territories described in calling plans identified in the applicable Price Guide, along with those calling features pertaining to each calling plan.
+Certain features may not be available with the Phone2Go mobile application, or may be subject to additional terms and conditions presented within the Phone2Go mobile application.<ol>
+<li>Calling and Features: Includes local, regional and/or long distance calling within the United States and to those countries and US territories described in calling plans identified in the applicable Price Guide, along with those calling features pertaining to each calling plan.
 Feature availability may vary by service area.
 A detailed list of features and calling plans may be found in the Price Guide at www.spectrum.com, under "Terms of Service/Policies." Direct dialed calls outside the coverage of any calling plan are available with per-minute charges or with one of Spectrum's International calling plans.
 Existing Subscribers who may purchase a plan other than a plan described in this Agreement, can find a description of their plan in the Price Guide.</li>
-<li>b.
-E-911: Enhanced 911 ("E-911") is a feature of Spectrum Voice Service that allows emergency operators to automatically receive the telephone number and address of the dialing party.
-This E-911 feature has certain requirements in order to operate, as well as certain limitations:<ul>
-<li>i.
-IMPORTANT: The emergency service provider handling the E-911 call, and the address the emergency service provider will see, are linked to the service address Spectrum has on file when Subscriber originally signed up for service.
+<li>E-911: Enhanced 911 ("E-911") is a feature of Spectrum Voice Service that allows emergency operators to automatically receive the telephone number and address of the dialing party.
+This E-911 feature has certain requirements in order to operate, as well as certain limitations:<ol>
+<li>IMPORTANT: The emergency service provider handling the E-911 call, and the address the emergency service provider will see, are linked to the service address Spectrum has on file when Subscriber originally signed up for service.
 If Subscriber does not correctly identify where Subscriber's voice modem is actually located, or if the voice modem is moved away from the original service address, Subscriber's E-911 calls may be misdirected to the wrong location(s) or to the wrong emergency service provider(s).
 Therefore, in order to have E-911 calls routed correctly, Subscriber agrees not to move the voice modem from the service address at which it was installed by Spectrum and acknowledges responsibility to promptly notify Spectrum of any change in service address prior to moving the voice modem.</li>
-<li>ii.
-IMPORTANT: Keeping Your Phone Number: Please be aware that during the first 72 hours of arriving at Subscriber's new service address, if Subscriber dials 911 from their Spectrum Voice Service, Subscriber must relay to the emergency service operator the new (current) service address.
+<li>IMPORTANT: Keeping Your Phone Number: Please be aware that during the first 72 hours of arriving at Subscriber's new service address, if Subscriber dials 911 from their Spectrum Voice Service, Subscriber must relay to the emergency service operator the new (current) service address.
 This is necessary to ensure emergency services are dispatched to Subscriber's new service address and not the old service address in the event the emergency services operator may not have the new location in their records.</li>
-<li>iii.
-Spectrum Voice Service does not have its own power supply.
+<li>Spectrum Voice Service does not have its own power supply.
 If there is a power outage, or if there is a disruption to the cable network or facilities, the Voice Service will not work.
 Subscriber expressly acknowledges that in such cases it will not be possible to place or receive calls including calls to access emergency 911 services.</li>
-<li>iv.
-If Subscriber chooses, Subscriber may separately purchase a battery backup for use with the voice modem by calling Spectrum at 1-833-267-6095.
+<li>If Subscriber chooses, Subscriber may separately purchase a battery backup for use with the voice modem by calling Spectrum at 1-833-267-6095.
 Each battery backup is designed to provide power for up to 8 hours (or 5 hours of "talk" time) for a power outage at Subscriber's residence that is not also a network-related outage.</li>
-<li>v.
-In some locations, E-911 service may not yet be available.
+<li>In some locations, E-911 service may not yet be available.
 Such services are dependent on the equipment and facilities of the local governments in which Spectrum provides Voice Service.
 In such cases, regular 911 service will be available and Subscriber will need to convey the location information to the emergency operator.</li>
-</ul>
+</ol>
 </li>
-<li>c.
-Number of Lines: Subscribers to Spectrum Voice Service can purchase up to two (2) lines at their service address.</li>
-<li>d.
-Installation: Spectrum Voice Service offers professional installation and self-installation (not available in all areas).<ul>
-<li>i.
-Professional installation includes activation of all existing working phone jacks or the installation and activation of one phone jack if there is not currently a working phone jack in Subscriber's residence.
+<li>Number of Lines: Subscribers to Spectrum Voice Service can purchase up to two (2) lines at their service address.</li>
+<li>Installation: Spectrum Voice Service offers professional installation and self-installation (not available in all areas).<ol>
+<li>Professional installation includes activation of all existing working phone jacks or the installation and activation of one phone jack if there is not currently a working phone jack in Subscriber's residence.
 Additional wiring charges may apply if Subscriber requests additional jacks to be installed or activated.
 Additional charges may also apply for special construction needed to complete the installation.
 Spectrum also provides and installs a voice modem, or Multimedia Terminal Adaptor (MTA), that is used to communicate with our private communications network.</li>
-<li>ii.
-Self-installation (not available in all areas) provides the option for the Subscriber to pick-up a voice modem or MTA from a Spectrum retail location or have that equipment shipped to their home.
+<li>Self-installation (not available in all areas) provides the option for the Subscriber to pick-up a voice modem or MTA from a Spectrum retail location or have that equipment shipped to their home.
 Upon receipt of the equipment, the Subscriber must follow self-installation instructions provided by Spectrum.
 In order to qualify for self-installation the following installation conditions must be met: • Subscriber’s home’s phone system must consist of a base unit with any additional cordless phones supported by the base unit.
 • Subscriber’s alarm, security and fax systems must not be dependent on Spectrum Voice Service.
 • Subscriber’s most recent voice provider was Spectrum, or Subscriber has had active Spectrum services in the last 2 years.
 and • Subscriber will not need outlets moved or added.</li>
-</ul>
+</ol>
 </li>
 <p>Spectrum does not provide a handset.
 Subscriber is responsible for maintaining all inside wire and phones within the home.
@@ -806,8 +730,7 @@ For a low monthly fee, we can provide repair service for Subscriber’s jacks an
 For more information about Wire Maintenance Insurance, go online to Spectrum's Wire Maintenance plan information at www.spectrum.net/wiremaintenance.
 In certain buildings such as multiple dwelling units, Spectrum's technicians may not have access to Subscriber's inside wiring located within the multiple dwelling unit.
 In these instances, Spectrum has the right to determine how best to wire Subscriber's residence, subject to additional applicable charges.</p>
-<li>e.
-International Calling: Spectrum Voice Service offers a per minute calling plan for direct-dialed calls made from Subscriber's residence to locations outside of their calling plan.
+<li>International Calling: Spectrum Voice Service offers a per minute calling plan for direct-dialed calls made from Subscriber's residence to locations outside of their calling plan.
 If Subscriber chooses to use this service Subscriber will be charged for direct-dial international calls in addition to the flat monthly recurring rate that Subscriber pays for Spectrum Voice Service.
 Spectrum Voice Service also offers optional flat rate international calling plans for direct-dialed calls made from Subscriber's residence to locations outside of their calling plan.
 If Subscriber chooses an international plan, Subscriber will be charged a flat monthly fee for direct-dial international calls in addition to the monthly recurring rate that Subscriber pays for Voice Service.
@@ -819,63 +742,50 @@ Answering is determined when call signaling provided by the terminating local ca
 Timing terminates on all calls when the calling party hangs up or when Spectrum's network receives a termination signal from the terminating local carrier and/or any intermediate carrier(s).
 Unused minutes per month do not roll over to the next month.
 You may access international rates and information about international calling plans online at www.spectrum.net/rates.</li>
-<li>f.
-Voice Service Modifications: Spectrum may, from time to time, offer additional Voice Service features or functionality, or discontinue certain Voice Service features or functionality.
+<li>Voice Service Modifications: Spectrum may, from time to time, offer additional Voice Service features or functionality, or discontinue certain Voice Service features or functionality.
 Information about these features or functions will be available in the applicable Price Guide at www.Spectrum.com, under "Terms of Service/Policies." These additional Voice Services features or functions may be subject to additional specific terms and conditions, and may be subject to change at any time by Spectrum.</li>
-<li>g.
-Caller Name: Spectrum Voice Service will associate Subscriber's name on the Spectrum account to the telephone number to be displayed in association with the caller name lookup services ("CNAM") provided as part of the Voice Service for all calls made from any of the Spectrum telephone numbers on the account.
+<li>Caller Name: Spectrum Voice Service will associate Subscriber's name on the Spectrum account to the telephone number to be displayed in association with the caller name lookup services ("CNAM") provided as part of the Voice Service for all calls made from any of the Spectrum telephone numbers on the account.
 In the event that Subscriber wishes to modify the caller name associated with the CNAM, Subscriber agrees to the following: caller name submission(s) shall not mislead or impersonate any person or company.
 caller name submission(s) shall not contain false information and shall accurately represent the name of the person that subscribes to the Voice Service and that is included in directory listings, if any.
 caller name submission(s) shall not contain abusive, defamatory, vulgar, obscene, racist or any other language objectionable to any person or entity as determined by Spectrum, in its sole discretion.
 and caller name submission(s) shall comply with all relevant laws, rules and regulations.</li>
-</ul>
+</ol>
 </li>
 <li>4.
-Voice Service Limitations:<ul>
-<li>a.
-Service Outages: The Spectrum Voice Service modem is electrically powered and will not work in a power outage or if the broadband connection is disrupted or not operating.
+Voice Service Limitations:<ol>
+<li>Service Outages: The Spectrum Voice Service modem is electrically powered and will not work in a power outage or if the broadband connection is disrupted or not operating.
 In the event of power outages, the modem, including all phones and Voice Services connected to or powered by it, will not work.
 Power outages will disrupt E-911 service and the use of Spectrum Voice Service as the connection between a home security system and central monitoring services.
 To reduce this risk, Subscriber may choose to purchase a battery backup for use in the event of a non-network related outage.</li>
-<li>b.
-Home Security Systems: Although Spectrum Voice Service will supply a connection that will allow the operation of Subscriber's existing home security system, Spectrum does not guarantee that any such system will be in complete operational order following the installation of the Voice Service.
+<li>Home Security Systems: Although Spectrum Voice Service will supply a connection that will allow the operation of Subscriber's existing home security system, Spectrum does not guarantee that any such system will be in complete operational order following the installation of the Voice Service.
 As such, it is Subscriber's obligation to contact their home security system provider to inform them of Spectrum Voice Service installation, and any change in phone number, and to request a complete operational test of their system immediately following installation of the Voice Service.
 In addition, it is Subscriber's responsibility to test their system on a regular basis.
 In the event of a power outage or network outage (whether unplanned or maintenance related), Subscriber’s Voice Service, including any home security system which uses the Voice Service to connect to central station monitoring, will not function.
 As set forth in Section 3(b)(iv) above, Subscriber may separately purchase a battery backup for use with their voice modem in the instance of a non-network related outage.<br>
 Like any other communications service provider, we do not represent that our service is fail-safe.
 In addition, Spectrum prohibits the use of Spectrum Voice Service as the connection between medical alert systems and a central station monitoring service, and will neither connect to such services nor provide technical support for the connection.</li>
-<li>c.
-Additional Limitations:<ul>
-<li>i.
-Currently, certain operator-assisted services such as busy line verification and busy line interruption, dial around services (10-10-XXX), pay services (900 and 976 services), and third-party billing are not offered with Voice Service.</li>
-<li>ii.
-If Subscriber receives Voicemail, Subscriber may be eligible for voice-to-text or voice-to-email ("Readable Voicemail") as part of the Voicemail feature.
+<li>Additional Limitations:<ol>
+<li>Currently, certain operator-assisted services such as busy line verification and busy line interruption, dial around services (10-10-XXX), pay services (900 and 976 services), and third-party billing are not offered with Voice Service.</li>
+<li>If Subscriber receives Voicemail, Subscriber may be eligible for voice-to-text or voice-to-email ("Readable Voicemail") as part of the Voicemail feature.
 As a result of the voice-recognition software used by Spectrum, some processed messages may not be fully transcribed and will appear as incomplete messages.
 In such cases, Subscriber may obtain the full message by listening to the Readable Voicemail message.
 As a condition of using the voice-to-text or voice-to-email feature, Subscriber consents to allow Spectrum, or its service vendors, to process those voice files and to use voicemail messages, and other data associated with such messages, to enhance and/or improve the feature.</li>
-<li>iii.
-Spectrum's obligation to furnish Voice Services is dependent upon its ability to secure and retain, without unreasonable expense, suitable facilities and rights for the construction and maintenance of the necessary facilities and equipment.
+<li>Spectrum's obligation to furnish Voice Services is dependent upon its ability to secure and retain, without unreasonable expense, suitable facilities and rights for the construction and maintenance of the necessary facilities and equipment.
 Spectrum may limit communications, refuse to provide Voice Services or discontinue Voice Services when necessary because of: (i) the lack of transmission medium, transmission capacity or any other facilities or equipment.
 (ii) the lack of available services from, or interconnection with, the services or facilities of service providers.
 or (iii) any cause beyond Spectrum's control.</li>
-<li>iv.
-Spectrum shall use reasonable efforts to make Voice Services available by the estimated service date.
+<li>Spectrum shall use reasonable efforts to make Voice Services available by the estimated service date.
 Spectrum shall not be liable for any damages resulting from delays in meeting the estimated service date due to delays resulting from normal installation procedures.
 Such delays shall include, but not be limited to, delays in obtaining right-of-way approvals, delays in actual construction work being done by Spectrum, including its contractors or representatives, and any delays due to any other service provider where Spectrum is relying upon such provider to meet an estimated due date which is beyond Spectrum's control.</li>
-<li>v.
-Spectrum offers the use of its facilities for communications between Subscriber and other parties.
+<li>Spectrum offers the use of its facilities for communications between Subscriber and other parties.
 Spectrum is not responsible, and shall have no liability, for any communications or miscommunications between Subscriber (including any users) and other parties (including operator-assisted, 911 and E-911 calls).</li>
-<li>vi.
-At Spectrum's discretion, facilities of other service providers may be used in establishing connections to points not reached by Spectrum's facilities.
+<li>At Spectrum's discretion, facilities of other service providers may be used in establishing connections to points not reached by Spectrum's facilities.
 In establishing connections with other providers, Spectrum is not responsible or liable for any action or inaction of other service providers.</li>
-<li>vii.
-The Phone2Go mobile application is provided by Spectrum for use only by Spectrum residential Voice Service customers, and only in certain areas.
+<li>The Phone2Go mobile application is provided by Spectrum for use only by Spectrum residential Voice Service customers, and only in certain areas.
 Certain features of Spectrum’s Voice Service may not be available with the Phone2Go application, and certain features available within the Phone2Go application may be subject to additional terms and conditions as presented within the Phone2Go application.</li>
-</ul>
+</ol>
 </li>
-<li>d.
-Equipment: Spectrum Voice Service requires a voice modem.
+<li>Equipment: Spectrum Voice Service requires a voice modem.
 Spectrum will supply a voice modem for so long as Subscriber remains a Voice Service Subscriber or until Spectrum changes its Voice Service offering.
 Depending on the Spectrum Voice Service plan, there may be a monthly charge for the voice modem.
 Upon termination of Spectrum Voice Service for any reason, Subscriber may be asked to return the Spectrum-supplied voice modem within thirty (30) days or Subscriber will be charged an equipment fee equal to the fee charged by Spectrum at the time the voice modem was supplied by Spectrum.
@@ -883,7 +793,7 @@ An exception to this return policy is when the modem is also supporting Internet
 Equipment and facilities furnished by Spectrum to provide Voice Service (except for inside wiring and inside jacks) are the property of Spectrum.
 Telephone numbers assigned to Subscriber by Spectrum are portable and transferable with Subscriber at the same location.
 however, Subscriber has no property right in telephone number(s) or any other call number designations associated with the Voice Services, and Spectrum may change such numbers as deemed necessary.</li>
-</ul>
+</ol>
 </li>
 <li>Term: Spectrum Voice Service shall continue until such time as terminated by Subscriber, which shall be effective upon notice, or terminated by Spectrum for breach (including nonpayment) of this Agreement, or otherwise terminated by Spectrum in accordance with the Terms of Service.</li>
 <li>Directory Listing: Spectrum Voice Service offers Subscriber a Private Number service as the default, or a directory listing upon request.
@@ -894,16 +804,14 @@ Spectrum limits the length of any listing in the directory by the use of abbrevi
 The duration of directory listings, when the listings have been published, is the directory period.
 The directory period is from the day on which the directory is first distributed to customers to the day the succeeding directory is first distributed to customers.
 Spectrum's liability for directory listing errors or omissions is set out in Section 7, "Limitation of Liability."</li>
-<li>Limitation of Liability:<ul>
-<li>a.
-Spectrum Voice Service is provided "AS IS." THE LIABILITY OF SPECTRUM, OR ITS SERVICE VENDORS, FOR DAMAGES OR LOSSES ARISING OUT OF THE FURNISHING OF VOICE SERVICES HEREUNDER, INCLUDING BUT NOT LIMITED TO MISTAKES, OMISSIONS, INTERRUPTIONS, DELAYS, ERRORS OR OTHER DEFAULTS, REPRESENTATIONS OR USE OF THE VOICE SERVICES, OR ARISING OUT OF THE FAILURE TO FURNISH THE VOICE SERVICE, INCLUDING E-911/911 SERVICE, WHETHER CAUSED BY ACTS OF COMMISSION OR OMISSION, AND/OR LOSS OF ELECTRICAL POWER, SHALL BE LIMITED TO AN ALLOWANCE PRORATED FOR THE TIME PERIOD OF THE VOICE SERVICE INTERRUPTION.
+<li>Limitation of Liability:<ol>
+<li>Spectrum Voice Service is provided "AS IS." THE LIABILITY OF SPECTRUM, OR ITS SERVICE VENDORS, FOR DAMAGES OR LOSSES ARISING OUT OF THE FURNISHING OF VOICE SERVICES HEREUNDER, INCLUDING BUT NOT LIMITED TO MISTAKES, OMISSIONS, INTERRUPTIONS, DELAYS, ERRORS OR OTHER DEFAULTS, REPRESENTATIONS OR USE OF THE VOICE SERVICES, OR ARISING OUT OF THE FAILURE TO FURNISH THE VOICE SERVICE, INCLUDING E-911/911 SERVICE, WHETHER CAUSED BY ACTS OF COMMISSION OR OMISSION, AND/OR LOSS OF ELECTRICAL POWER, SHALL BE LIMITED TO AN ALLOWANCE PRORATED FOR THE TIME PERIOD OF THE VOICE SERVICE INTERRUPTION.
 SPECTRUM, INCLUDING ITS SERVICE VENDORS, SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE LOSSES OR DAMAGES, INCLUDING LOSS OF PROFITS, LOSS OF EARNINGS, LOSS OF BUSINESS OPPORTUNITIES AND PERSONAL INJURIES THAT A SUBSCRIBER, OR SUBSCRIBER’S USERS, MAY SUFFER.
 FINALLY, SPECTRUM, AND ITS SERVICE VENDORS, SHALL NOT BE LIABLE FOR ANY LOSS OR INTERRUPTIONS IN VOICE SERVICE OR FOR ANY DAMAGES OR LOSSES DUE TO THE FAULT OR NEGLIGENCE OF SUBSCRIBER, ANY SUBSCRIBER USER, OR ANY OTHER PARTY OR PERSON(S), OR DUE TO THE FAILURE OR MALFUNCTION OF SUBSCRIBER-PROVIDED OR USER-PROVIDED EQUIPMENT OR FACILITIES, OR DUE TO THE FAILURE OF SUBSCRIBER TO FULFILL ANY OBLIGATION UNDER THIS AGREEMENT.</li>
-<li>b.
-Directory Listings.
+<li>Directory Listings.
 SPECTRUM'S LIABILITY FOR DAMAGES DUE TO ERRORS OR OMISSIONS IN DIRECTORY LISTINGS WILL BE LIMITED TO A ONE-TIME CREDIT EQUAL TO ONE MONTH'S RECURRING MONTHLY FEE FOR THE VOICE SERVICE (NOT INCLUDING ONE TIME CHARGES, MEASURED AND PER-CALL CHARGES AND RELATED TAXES AND FEES).
 SUBSCRIBER AGREES TO INDEMNIFY AND HOLD SPECTRUM HARMLESS AGAINST ANY AND ALL CLAIMS FOR DAMAGES CAUSED OR CLAIMED TO HAVE BEEN CAUSED, DIRECTLY OR INDIRECTLY, BY THE PUBLICATION OF A LISTING WHICH SUBSCRIBER HAS REQUESTED TO BE OMITTED FROM THE APPLICABLE WHITE PAGES DIRECTORY, INCLUDING ANY ONLINE DIRECTORY, OR THE DISCLOSING OF SUCH A LISTING TO ANY PERSON (INCLUDING ANY MISTAKE OR ERROR IN SUCH LISTING).</li>
-</ul>
+</ol>
 </li>
 <li>Installation: Charges for installation services and equipment will be charged at the then current rate in effect.</li>
 <li>Taxes: Applicable fees, taxes and surcharges, if any, will be added to Subscriber’s monthly bill.
@@ -912,9 +820,8 @@ For Spectrum Pricing Plans, applicable fees, taxes and surcharges will be includ
 <li>Proprietary Rights: Spectrum and/or its service vendors own all rights in and to the Voice Services.
 Subscriber has a limited right to use the Voice Service in accordance with these Terms of Voice Service.
 However, the Terms of Service do not grant Subscriber (or any user) any rights to, or interests in, patents, copyrights, database rights, trade secrets, trade names, trademarks or service marks (whether registered or unregistered), or any other rights or licensees related to Spectrum Voice Service (including all of its features) or any related documentation.</li>
-<li>Prohibited Uses:<ul>
-<li>a.
-Non-Residential Use: Spectrum Voice Service may be used as a residential voice service only and may not be used for commercial purposes, including, but not limited to, telemarketing, call center services, medical transcription or facsimile broadcasting.
+<li>Prohibited Uses:<ol>
+<li>Non-Residential Use: Spectrum Voice Service may be used as a residential voice service only and may not be used for commercial purposes, including, but not limited to, telemarketing, call center services, medical transcription or facsimile broadcasting.
 In addition, auto-dialers and predictive dialers may not be used with Spectrum Voice Service.
 Spectrum Voice Service is intended to be used consistent with its intended normal residential use.
 For instance, unlimited voice plans are intended to be used for continuous live dialog between Subscriber and a third party.
@@ -924,8 +831,7 @@ Voice Service may not be used in any way, including by combining Service feature
 Such non-standard calling patterns and practices include, but are not limited to, use of 3-Way Calling, Call Forwarding, and/or non-Spectrum equipment that results in unusually high traffic volumes or excessive long distance usage.
 Spectrum, in its sole discretion, reserves the right to: (i) reclassify Subscriber's Voice Service from residential to business, and to immediately apply business rates in the event of misuse or excessive use of the Voice Service by Subscriber, including any users of Subscriber's Voice Service.
 or (ii) immediately terminate Subscriber’s Voice Service for such misuse or excessive use.</li>
-<li>b.
-Fraud.
+<li>Fraud.
 Illegality: Spectrum may block calls that are made to certain countries, cities or telephone exchanges, or that use certain authorization codes if, in its sole discretion, Spectrum deems it reasonably necessary to prevent unlawful or fraudulent use of the Voice Service.
 Subscriber is responsible for securing Subscriber's telephone equipment, and Spectrum's equipment located at Subscriber's premises, from being used to place fraudulent calls using Spectrum Voice Service provided to Subscriber.
 Subscriber is also responsible for any fraudulent or unauthorized use of the Voice Service that occurs through Subscriber's account regardless of who is responsible for such usage.
@@ -933,10 +839,9 @@ Subscriber shall be solely responsible for payment of all applicable charges for
 Spectrum is not liable for any damages or fees, including toll usage charges, Subscriber may incur as a result of unauthorized use of the Voice Service provided to Subscriber.
 Unauthorized use of Subscriber's facilities may include, but is not limited to, the placement of calls from Subscriber's premises and the placement of calls through Subscriber's equipment that are transmitted or carried on Spectrum's network.
 Misuse of Voice Service could include voice modem hijacking, excessive usage of International calling, 411 directory assistance calls and other per-use charges.</li>
-<li>c.
-Violations.
+<li>Violations.
 In addition, Spectrum reserves the right to discontinue Voice Service when Subscriber or its users is using the Voice Service in violation of law or the provisions of the Terms of Service.</li>
-</ul>
+</ol>
 </li>
 <li>Amendments: Spectrum may, in its sole discretion, change, modify, add or remove portions of this Agreement and any of the Terms of Service at any time.
 Spectrum may notify Subscriber of any such changes by posting notice of such changes on Spectrum's website at www.Spectrum.com, under "Terms of Service/Policies," or sending notice via electronic mail or U.S.
@@ -966,39 +871,25 @@ El Abonado no revenderá ni redistribuirá (así como no permitirá que otros re
 Spectrum se reserva el derecho, a su entera discreción, de suspender, cancelar o restringir de inmediato el uso del Servicio sin previo aviso si dicho uso viola la AUP o las Condiciones del servicio, es objetable o ilegal, o bien interfiere con los sistemas o la Red de Internet de Spectrum, el servicio de Internet o el uso del Servicio por parte de otras personas.</li>
 <li>Actividades prohibidas al utilizar el Sistema, la Red y el Servicio.
 Cualquier actividad del uso del Servicio que viole la seguridad o integridad del sistema o la red queda prohibida y puede ser motivo de responsabilidad civil y penal.
-Tales violaciones incluyen, sin limitación, lo siguiente:<ul>
-<li>a.
-Acceso no autorizado a los datos, a los sistemas o a la redes, o el uso no autorizado de estos, lo que incluye cualquier intento de explorar, analizar o poner a prueba la vulnerabilidad de un sistema o red, o violar la seguridad o las medidas de autenticación sin la autorización expresa del propietario del sistema o de la red.</li>
-<li>b.
-El monitoreo no autorizado de datos o el tráfico de cualquier red o sistema sin la autorización expresa del propietario de la red;</li>
-<li>c.
-La interferencia con el servicio de Internet para cualquier usuario, host o red, incluidos, a título enunciativo: bombardeo de correo electrónico, inundación de mensajes o ataques por denegación de servicio.</li>
-<li>d.
-La falsificación del encabezado de cualquier paquete de información transmitido, e-mail o publicación de Usenet;</li>
-<li>e.
-La modificación o alteración de cualquier hardware, software o configuración proporcionados por Spectrum, incluidos, a título enunciativo: enrutadores, interruptores y archivos de configuración de cable módem.</li>
-<li>f.
-La reventa u otro modo de redistribución del Servicio.</li>
-<li>g.
-La interrupción, la degradación u otro tipo de impacto adverso en la red de Spectrum o el equipo informático perteneciente a Spectrum o a otros abonados de Spectrum.</li>
-<li>h.
-La transmisión de mensajes masivos o comerciales no solicitados, comúnmente conocidos como "correo no deseado".</li>
-<li>i.
-La adopción o asignación de una dirección IP de Spectrum que no haya sido adjudicada al usuario por Spectrum o su red.
+Tales violaciones incluyen, sin limitación, lo siguiente:<ol>
+<li>Acceso no autorizado a los datos, a los sistemas o a la redes, o el uso no autorizado de estos, lo que incluye cualquier intento de explorar, analizar o poner a prueba la vulnerabilidad de un sistema o red, o violar la seguridad o las medidas de autenticación sin la autorización expresa del propietario del sistema o de la red.</li>
+<li>El monitoreo no autorizado de datos o el tráfico de cualquier red o sistema sin la autorización expresa del propietario de la red;</li>
+<li>La interferencia con el servicio de Internet para cualquier usuario, host o red, incluidos, a título enunciativo: bombardeo de correo electrónico, inundación de mensajes o ataques por denegación de servicio.</li>
+<li>La falsificación del encabezado de cualquier paquete de información transmitido, e-mail o publicación de Usenet;</li>
+<li>La modificación o alteración de cualquier hardware, software o configuración proporcionados por Spectrum, incluidos, a título enunciativo: enrutadores, interruptores y archivos de configuración de cable módem.</li>
+<li>La reventa u otro modo de redistribución del Servicio.</li>
+<li>La interrupción, la degradación u otro tipo de impacto adverso en la red de Spectrum o el equipo informático perteneciente a Spectrum o a otros abonados de Spectrum.</li>
+<li>La transmisión de mensajes masivos o comerciales no solicitados, comúnmente conocidos como "correo no deseado".</li>
+<li>La adopción o asignación de una dirección IP de Spectrum que no haya sido adjudicada al usuario por Spectrum o su red.
 todos los usuarios de Spectrum Internet deben usar el DHCP asignado por el Servicio para adquirir una dirección IP.</li>
-<li>j.
-Cualquiera de las siguientes actividades realizadas por el Abonado a través de máquinas dedicadas (también conocidas como "máquinas" o "servidores dedicados") o servidores virtuales dedicados (también conocidos como "VDS", "VPS", "máquinas virtuales" y/o "servidores virtuales"): (i) la ejecución de un túnel o proxy hacia un servidor en otro host o (ii) el alojamiento, almacenamiento, proxy o uso de una utilidad de prueba de redes o herramienta de denegación de servicio (DoS/DDoS) en cualquier capacidad.</li>
-<li>k.
-Debido a que el Servicio solo es para uso residencial, cualquier uso del mismo con fines no residenciales queda prohibido y puede causar una reducción en el servicio, su suspensión o cancelación a entera discreción de Spectrum.
+<li>Cualquiera de las siguientes actividades realizadas por el Abonado a través de máquinas dedicadas (también conocidas como "máquinas" o "servidores dedicados") o servidores virtuales dedicados (también conocidos como "VDS", "VPS", "máquinas virtuales" y/o "servidores virtuales"): (i) la ejecución de un túnel o proxy hacia un servidor en otro host o (ii) el alojamiento, almacenamiento, proxy o uso de una utilidad de prueba de redes o herramienta de denegación de servicio (DoS/DDoS) en cualquier capacidad.</li>
+<li>Debido a que el Servicio solo es para uso residencial, cualquier uso del mismo con fines no residenciales queda prohibido y puede causar una reducción en el servicio, su suspensión o cancelación a entera discreción de Spectrum.
 Los fines no residenciales incluyen, a título enunciativo, lo siguiente:</li>
-<li>l.
-La ejecución de cualquier tipo de servidor en el sistema que no sea compatible con el uso personal y residencial.
+<li>La ejecución de cualquier tipo de servidor en el sistema que no sea compatible con el uso personal y residencial.
 Esto incluye, a título enunciativo, FTP, IRC, SMTP, POP, HTTP, SOCS, SQUID, NTP, DNS o cualquier otro foro para múltiples usuarios.</li>
-<li>m.
-Cualquier tipo de distribución de información, software u otros materiales obtenidos a través del servicio o de otro modo que estén protegidos por derechos de autor u otros derechos exclusivos, sin la obtención de cualquier permiso requerido por parte del propietario.</li>
-<li>n.
-La traducción de direcciones IP o instalaciones similares con el fin de proporcionar acceso adicional.</li>
-</ul>
+<li>Cualquier tipo de distribución de información, software u otros materiales obtenidos a través del servicio o de otro modo que estén protegidos por derechos de autor u otros derechos exclusivos, sin la obtención de cualquier permiso requerido por parte del propietario.</li>
+<li>La traducción de direcciones IP o instalaciones similares con el fin de proporcionar acceso adicional.</li>
+</ol>
 </li>
 <li>NUso ilegal o fraudulento.
 El Servicio solo puede ser utilizado con fines legales.
@@ -1136,29 +1027,23 @@ Si el Abonado se muda fuera del área de servicio de Spectrum, deberá notificar
 <li>Acceso a la residencia del Abonado: El Abonado autoriza a Spectrum y a sus empleados, agentes, contratistas y representantes a acceder y a entrar de cualquier otro modo a la residencia del Abonado para instalar, inspeccionar, realizar mantenimiento y/o reparar el Equipo y, cuando se cancela el Servicio, sacar el Equipo de la residencia.
 Si Spectrum no retira el Equipo, no se considerará abandono del mismo.
 Si se requiere instalación y mantenimiento del Servicio en instalaciones que, a entera discreción de Spectrum, son o podrían ser riesgosas o peligrosas para nuestros empleados, el público o la propiedad, Spectrum puede negarse a instalar y a mantener dicho Servicio.</li>
-<li>Reconocimientos y contenidos relacionados con la grabación de las comunicaciones y derechos de contacto:<ul>
-<li>a.
-Grabación de las comunicaciones.
+<li>Reconocimientos y contenidos relacionados con la grabación de las comunicaciones y derechos de contacto:<ol>
+<li>Grabación de las comunicaciones.
 El Abonado reconoce y acepta que todas las comunicaciones entre el Abonado y Spectrum pueden ser grabadas o monitoreadas por Spectrum para el control de la calidad u otros fines sujetos a la legislación aplicable.</li>
-<li>b.
-Consentimiento para llamadas telefónicas.
+<li>Consentimiento para llamadas telefónicas.
 Spectrum puede llamar o enviar un mensaje de texto al Abonado o autorizar a otras personas a llamar o enviar un mensaje de texto en su nombre incluyendo, a título enunciativo, a cualquier número que el Abonado proporciona a Spectrum (o que Spectrum otorga al Abonado) para cualquier fin, incluidos los servicios de comercialización de Spectrum.
 Si los números del Abonado se encuentran en listas "No llamar" estatales o federales, Spectrum no llamará ni enviará mensajes de texto al Abonado con fines de comercialización, no obstante aún podrá llamar o enviar mensajes de texto al Abonado o autorizar a otras personas a hacerlo con fines no relacionados con la comercialización.
 El Abonado es responsable de los cargos por los mensajes de texto entrantes en el teléfono inalámbrico del Abonado.</li>
-<li>c.
-Llamadas automatizadas.
+<li>Llamadas automatizadas.
 Spectrum (o personas que actúan en representación de Spectrum) pueden usar sistemas de marcado automatizado o voces artificiales o grabadas para comunicarse con el Abonado o dejar mensajes al Abonado si la llamada va al correo de voz.</li>
-<li>d.
-Otras notificaciones.
+<li>Otras notificaciones.
 El Abonado autoriza a Spectrum a proporcionar otras notificaciones al Abonado utilizando cualquier método que el Spectrum determine que es adecuado, incluidos los medios electrónicos (por ejemplo, e-mail o publicaciones en línea).</li>
-<li>e.
-Otros consentimientos.
+<li>Otros consentimientos.
 Spectrum puede solicitar al Abonado que proporcione otros consentimientos o autorizaciones por medios electrónicos, e-mail o equipo del Abonado (por ejemplo, utilizando el control remoto del Abonado para comprar una película de VOD, para solicitar información relacionada con productos de un anunciante o para elegir ser parte de un estudio de consumo), y Spectrum tiene derecho a asumir que cualquier consentimiento o autorización que Spectrum recibe a través de los Servicios o de la ubicación del Abonado ha sido autorizada por el Abonado.</li>
-<li>f.
-Dirección de e-mail para notificaciones.
+<li>Dirección de e-mail para notificaciones.
 Si Spectrum lo solicita, el Abonado proporcionará a Spectrum una dirección de e-mail actual que el Abonado habitualmente revisa de modo que Spectrum pueda proporcionar notificaciones y comunicaciones al Abonado en esa dirección.<br>
 El derecho de Spectrum de contactar al Abonado según se describe en esta Sección sobrevive a la cancelación de estas Condiciones del servicio.</li>
-</ul>
+</ol>
 </li>
 <li>Derecho de exclusión del Abonado de determinadas Llamadas automatizadas.
 Si el Abonado no desea recibir llamadas, mensajes o mensajes de texto de Spectrum a través de sistemas de marcado automatizado o mensajes pregrabados en el teléfono celular del Abonado, el Abonado puede visitar nuestros sitios web para administrar las preferencias de comunicación.
@@ -1168,48 +1053,37 @@ El Abonado comprende que Spectrum continuará utilizando el sistema de marcado a
 <li>Requerimientos de conexiones seguras.
 Sin derogar ni limitar de otro modo las obligaciones individuales del Abonado para proteger la cuenta y el equipo del Abonado de acuerdo con las Condiciones del Servicio, Spectrum tendrá derecho a implementar medidas razonables necesarias para rastrear, administrar y/o proteger la seguridad de la conexión entre cualquier dispositivo o aplicación utilizados por el Abonado, los miembros de la vivienda del Abonado, invitados del Abonado, Equipos de terceros o de Spectrum, el sistema u otras instalaciones de la red (ya sea a través de la conexión física, de Wi-Fi, inalámbrica, software u otros medios de conexión), incluidos, entre otros, la autenticación, la seguridad de acceso u otros procesos y medios.</li>
 <li>Asignación de transferencias: Estos Términos generales y los Servicios y/o Equipo provistos por Spectrum no se pueden asignar ni de otro modo transferir por el Abonado sin la autorización específica por escrito de Spectrum.</li>
-<li>Cancelación y vencimiento:<ul>
-<li>a.
-Cancelación por parte del Abonado: A menos que se cancele de otro modo, estos Términos generales se renovarán automáticamente cada mes.
+<li>Cancelación y vencimiento:<ol>
+<li>Cancelación por parte del Abonado: A menos que se cancele de otro modo, estos Términos generales se renovarán automáticamente cada mes.
 El Abonado reconoce que todos los precios están sujetos a cambios al momento de dicha renovación.
 Para cancelar cualquier Servicio recurrente, el Abonado debe llamar al 855-757-7328, o presentar una notificación de cancelación por escrito a Spectrum y enviarla a 2 Digital Place, Floor 4, Simpsonville, SC 29681.</li>
-<li>b.
-Cancelación por bancarrota: Spectrum tendrá derecho a cancelar estos Términos generales de inmediato si el Abonado hace una cesión de sus bienes a favor de los acreedores, o si se presenta en forma voluntaria o involuntaria una petición por parte o en contra del Abonado al amparo de cualquier ley con el fin de declarar en bancarrota al Abonado o reestructurarlo.</li>
-<li>c.
-Cancelación por infracción: Estos Términos generales pueden cancelarse y el Equipo de Spectrum puede retirarse, a elección de Spectrum, en el caso de infracción del Acuerdo por parte del Abonado.
+<li>Cancelación por bancarrota: Spectrum tendrá derecho a cancelar estos Términos generales de inmediato si el Abonado hace una cesión de sus bienes a favor de los acreedores, o si se presenta en forma voluntaria o involuntaria una petición por parte o en contra del Abonado al amparo de cualquier ley con el fin de declarar en bancarrota al Abonado o reestructurarlo.</li>
+<li>Cancelación por infracción: Estos Términos generales pueden cancelarse y el Equipo de Spectrum puede retirarse, a elección de Spectrum, en el caso de infracción del Acuerdo por parte del Abonado.
 incumplimiento de las tarifas, reglas y normas de Spectrum.
 incumplimiento por parte del Abonado de proporcionar y mantener información de registro correcta.
 o cualquier actividad ilegal del Abonado con el Servicio Spectrum.
 Si Spectrum no retirara dicho Equipo, no se considerará abandono del mismo.
 El Abonado deberá pagar cargos razonables por cobranza y/o honorarios de abogados a Spectrum cuando Spectrum lo considere necesario, a su discreción, efectuar cobranzas o preservar y proteger sus derechos según estos Términos generales.
-Spectrum puede cancelar estos Términos generales, rechazar una solicitud o bloquear el acceso o el uso de cualquier componente de cualquier Servicio por cualquier razón, incluidos, sin limitaciones, los siguientes casos:<ul>
-<li>i.
-Si el Abonado violó estos Términos generales, en esta o en otra cuenta de Spectrum;</li>
-<li>ii.
-Si la información pedida en el proceso de solicitud es o se vuelve incorrecta o está ausente o incompleta;</li>
-<li>iii.
-Si el Abonado ha amenazado o acosado a algún empleado, agente, contratista o representante de Spectrum;</li>
-<li>iv.
-Si el emisor de la tarjeta de crédito del Abonado rechaza un cargo o algún otro método de pago no compensa a Spectrum;</li>
-<li>v.
-Si existe una violación a las Condiciones del servicio o a otros acuerdos con respecto a cualquier Servicio determinado a entera discreción de Spectrum.
+Spectrum puede cancelar estos Términos generales, rechazar una solicitud o bloquear el acceso o el uso de cualquier componente de cualquier Servicio por cualquier razón, incluidos, sin limitaciones, los siguientes casos:<ol>
+<li>Si el Abonado violó estos Términos generales, en esta o en otra cuenta de Spectrum;</li>
+<li>Si la información pedida en el proceso de solicitud es o se vuelve incorrecta o está ausente o incompleta;</li>
+<li>Si el Abonado ha amenazado o acosado a algún empleado, agente, contratista o representante de Spectrum;</li>
+<li>Si el emisor de la tarjeta de crédito del Abonado rechaza un cargo o algún otro método de pago no compensa a Spectrum;</li>
+<li>Si existe una violación a las Condiciones del servicio o a otros acuerdos con respecto a cualquier Servicio determinado a entera discreción de Spectrum.
 o</li>
-<li>vi.
-Si el soporte técnico que el Abonado solicita resulta excesivo, determinado a entera discreción de Spectrum.<br>
+<li>Si el soporte técnico que el Abonado solicita resulta excesivo, determinado a entera discreción de Spectrum.<br>
 Además, el Abonado acepta que, en el caso de una cancelación debida a las subsecciones (b) o (c), Spectrum no tendrá ninguna responsabilidad para con el Abonado.</li>
-</ul>
+</ol>
 </li>
-<li>Obligaciones derivadas de la cancelación: El Abonado acepta que cuando se cancelen estos Términos generales:<ul>
+<li>Obligaciones derivadas de la cancelación: El Abonado acepta que cuando se cancelen estos Términos generales:<ol>
 <li>De acuerdo con la Sección 13.a, el Abonado pagará a Spectrum por el total de su uso del Equipo y los Servicios, según corresponda, hasta la fecha efectiva de cancelación de estos Términos generales, la fecha en que se desconectó el Servicio, o la fecha en que el Equipo se devuelva a Spectrum, la que sea posterior.
 El Abonado acepta pagar a Spectrum en forma prorrateada por el uso de cualquier Servicio durante parte de un mes;</li>
-<li>ii.
-El Abonado devolverá de inmediato todo el Equipo a Spectrum.
+<li>El Abonado devolverá de inmediato todo el Equipo a Spectrum.
 Si el Abonado no devuelve cualquier Equipo en un plazo de diez (10) días a partir de la cancelación de estos Términos generales, además de los cargos por Equipo detallados en la Sección 16.d, el Abonado será responsable ante Spectrum según el programa de Spectrum de cargos por Equipo no devuelto vigente en ese momento.</li>
-</ul>
+</ol>
 </li>
-<li>e.
-Renovación luego de cancelación: El Abonado reconoce y acepta que, en el caso de renovación luego de una cancelación del Servicio, el Abonado estará sujeto a los precios, a las garantías y a las Condiciones del servicio vigentes al momento de esa renovación.</li>
-</ul>
+<li>Renovación luego de cancelación: El Abonado reconoce y acepta que, en el caso de renovación luego de una cancelación del Servicio, el Abonado estará sujeto a los precios, a las garantías y a las Condiciones del servicio vigentes al momento de esa renovación.</li>
+</ol>
 </li>
 <li>Derecho de Spectrum a emprender acciones y obligaciones de indemnización del abonado.
 Si el Abonado infringe estos Términos generales, Spectrum tiene derecho a buscar compensación del Abonado para tal incumplimiento a través de arbitraje o, si el Abonado ha optado por excluirse de la disposición de arbitraje de estos Términos generales o estamos buscando una orden que le exija o le impida hacer algo, en el tribunal.
@@ -1239,26 +1113,19 @@ y a divulgar esta información relativa al Abonado a terceros con fines empresar
 <li>Derechos reservados de Spectrum: Spectrum se reserva el derecho de denegar, suspender o cancelar el Servicio a cualquier persona en cualquier momento y por cualquier motivo que no esté prohibido por la ley.
 Cuando sea conveniente, Spectrum proporcionará un aviso razonable según las circunstancias antes de suspender o cancelar el Servicio a un Abonado existente, y Spectrum proporcionará cualquier aviso previo de suspensión o cancelación requerido por la ley.</li>
 <li>Indemnización.
-Al solicitar y aceptar el Servicio de Voz de Spectrum, el Abonado acepta defender, indemnizar y eximir de responsabilidad a Spectrum, incluso a sus funcionarios, directores, empleados, afiliadas, subsidiarias y agentes autorizados (en forma individual y colectiva, "Indemnizados de Spectrum") contra cualquier demanda, reclamación, proceso judicial, juicio, gasto (incluidos, entre otros, los honorarios razonables de abogados o testigos), pérdidas, daños o destrucción de propiedad personal, real o intelectual y otras responsabilidades originadas por:<ul>
-<li>a.
-La instalación, operación, provisión u otro uso de los Servicios y/o Equipos Spectrum;</li>
-<li>b.
-Toda violación de las Condiciones del servicio, política de uso aceptable u otras políticas o requisitos publicados de Spectrum.</li>
-<li>c.
-La conducta negligente o malintencionada, la violación de los derechos de un tercero o el incumplimiento de la ley correspondiente por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado;</li>
-<li>d.
-Calumnias o injurias resultantes del uso de los Servicios por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado;</li>
-<li>e.
-La infracción o malversación de cualquier patente, derecho de autor, marca registrada, marca comercial, marca de servicio, secreto industrial u otros derechos de propiedad intelectual (ya sea mediante transmisión, material o de algún otro modo) por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado.
+Al solicitar y aceptar el Servicio de Voz de Spectrum, el Abonado acepta defender, indemnizar y eximir de responsabilidad a Spectrum, incluso a sus funcionarios, directores, empleados, afiliadas, subsidiarias y agentes autorizados (en forma individual y colectiva, "Indemnizados de Spectrum") contra cualquier demanda, reclamación, proceso judicial, juicio, gasto (incluidos, entre otros, los honorarios razonables de abogados o testigos), pérdidas, daños o destrucción de propiedad personal, real o intelectual y otras responsabilidades originadas por:<ol>
+<li>La instalación, operación, provisión u otro uso de los Servicios y/o Equipos Spectrum;</li>
+<li>Toda violación de las Condiciones del servicio, política de uso aceptable u otras políticas o requisitos publicados de Spectrum.</li>
+<li>La conducta negligente o malintencionada, la violación de los derechos de un tercero o el incumplimiento de la ley correspondiente por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado;</li>
+<li>Calumnias o injurias resultantes del uso de los Servicios por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado;</li>
+<li>La infracción o malversación de cualquier patente, derecho de autor, marca registrada, marca comercial, marca de servicio, secreto industrial u otros derechos de propiedad intelectual (ya sea mediante transmisión, material o de algún otro modo) por parte de (i) el Abonado (ii), los miembros de la vivienda del Abonado, (iii) los invitados del Abonado o (iv) cualquier otra persona que use los Servicios ofrecidos al Abonado.
 incluidos aquellos que se efectúen a través de la combinación del uso por parte del Abonado del respectivo Servicio con instalaciones, equipo o servicios proporcionados o utilizados por el Abonado u obtenidos de terceros;</li>
-<li>f.
-Excepto que la legislación aplicable disponga lo contrario, cualquier uso de o acceso a los Servicios no autorizado, ilegal o fraudulento.</li>
-<li>g.
-La violación o la invasión del derecho de privacidad de una o varias personas, causada o presuntamente causada, directa o indirectamente, por la instalación, la operación, la falta de operación, el mantenimiento, la eliminación, la presencia, el estado o la utilización de las características del servicio 911 o E-911 y del equipo asociado, o por el uso de cualquier Servicio de Voz suministrado por Spectrum, conjuntamente con el servicio 911 o E-911, incluyendo, pero no limitándose a, el número telefónico, dirección o nombre asociado con el teléfono utilizado por personas para acceder al servicio 911 o E-911 correspondiente, y/o que sea el resultado de la negligencia o de otros actos indebidos del (i) Abonado, (ii) de los miembros de la vivienda del Abonado, (iii) de los invitados del Abonado o (ii) toda otra persona que utilice los Servicios proporcionados al Abonado.<br>
+<li>Excepto que la legislación aplicable disponga lo contrario, cualquier uso de o acceso a los Servicios no autorizado, ilegal o fraudulento.</li>
+<li>La violación o la invasión del derecho de privacidad de una o varias personas, causada o presuntamente causada, directa o indirectamente, por la instalación, la operación, la falta de operación, el mantenimiento, la eliminación, la presencia, el estado o la utilización de las características del servicio 911 o E-911 y del equipo asociado, o por el uso de cualquier Servicio de Voz suministrado por Spectrum, conjuntamente con el servicio 911 o E-911, incluyendo, pero no limitándose a, el número telefónico, dirección o nombre asociado con el teléfono utilizado por personas para acceder al servicio 911 o E-911 correspondiente, y/o que sea el resultado de la negligencia o de otros actos indebidos del (i) Abonado, (ii) de los miembros de la vivienda del Abonado, (iii) de los invitados del Abonado o (ii) toda otra persona que utilice los Servicios proporcionados al Abonado.<br>
 La anterior defensa y obligaciones de indemnización no incluyen los daños causados por la negligencia grave o la conducta malintencionada de los Indemnizados de Spectrum.
 El Abonado acepta que los Indemnizados de Spectrum no son responsables de ningún daño o responsabilidad resultantes de la falta de Servicio (ya sea Internet, Cable, Voz u otros Servicios) y el Abonado tampoco hará ningún reclamo ni tomará acciones en contra de los Indemnizados de Spectrum por la pérdida del Servicio.
 El Abonado será el único responsable de cualquier daño o pérdida del Equipo de Spectrum, a menos que dicho daño sea causado por negligencia o conducta malintencionada de los Indemnizados de Spectrum.</li>
-</ul>
+</ol>
 </li>
 <li>LIMITACIÓN DE RESPONSABILIDAD.
 LA LIMITACIÓN DE RESPONSABILIDAD ESTABLECIDA EN ESTA SECCIÓN SE APLICA A CUALQUIER ACTO, OMISIÓN Y NEGLIGENCIA DE SPECTRUM Y DE SUS TERCEROS PROVEEDORES, AGENTES Y SUMINISTRADORES DE SERVICIOS (Y SUS RESPECTIVOS DIRECTORES, EMPLEADOS, AGENTES, CONTRATISTAS O REPRESENTANTES).<br>
@@ -1371,55 +1238,42 @@ El Servicio Spectrum Voice se cancelará en el caso de que el Abonado no pague.
 Ciertos cargos por el servicio Spectrum Voice se basan en estudios periódicos que analizan los minutos intraestatales, interestatales e internacionales de todos los clientes que compran un Servicio de voz.</li>
 <li>Funciones del Servicio de voz: el Servicio Spectrum Voice se ofrece con las funciones que se detallan a continuación.
 En ciertas áreas, Spectrum también ofrece una aplicación móvil, "Phone2Go", que permite a los Abonados utilizar su Servicio de voz lejos de su residencia con acceso a conectividad Wi-Fi apta.
-Es posible que ciertas funciones no estén disponibles con la aplicación móvil Phone2Go o estén sujetas a términos y condiciones adicionales presentados dentro de la aplicación móvil Phone2Go.<ul>
-<li>a.
-Llamadas y funciones: incluye llamadas locales, regionales y/o de larga distancia dentro de los Estados Unidos y a aquellos países y territorios de los EE.
+Es posible que ciertas funciones no estén disponibles con la aplicación móvil Phone2Go o estén sujetas a términos y condiciones adicionales presentados dentro de la aplicación móvil Phone2Go.<ol>
+<li>Llamadas y funciones: incluye llamadas locales, regionales y/o de larga distancia dentro de los Estados Unidos y a aquellos países y territorios de los EE.
 UU.
 descritos en los planes de llamadas identificados en la Guía de precios correspondiente, junto con las funciones de llamadas relativas a cada plan.
 La disponibilidad de las funciones puede variar según el área de servicio.
 Se puede encontrar una lista detallada de las funciones y los planes de llamadas en la Guía de precios en www.spectrum.com, dentro de la sección "Condiciones del servicio/Políticas".
 Las llamadas de marcado directo fuera de la cobertura de cualquier plan de llamadas están disponibles con cargos por minuto o con uno de los planes de llamadas internacionales de Spectrum.
 Los Abonados existentes que puedan comprar un plan que no sea el descrito en este Acuerdo pueden encontrar una descripción de su plan en la Guía de precios.</li>
-<li>b.
-E-911: el servicio 911 mejorado ("E-911") es una función del Servicio Spectrum Voice que permite a los operadores de emergencia recibir automáticamente el número de teléfono y la dirección de la persona que llama.
-La función E-911 posee ciertos requisitos para que funcione, así como ciertas limitaciones:<ul>
-<li>i.
-IMPORTANTE: el proveedor del servicio de emergencia que atiende la llamada E-911, y la dirección que este proveedor verá, está vinculada a la dirección de servicio que Spectrum mantiene en un registro habilitado cuando el Abonado firma inicialmente el contrato de servicio.
+<li>E-911: el servicio 911 mejorado ("E-911") es una función del Servicio Spectrum Voice que permite a los operadores de emergencia recibir automáticamente el número de teléfono y la dirección de la persona que llama.
+La función E-911 posee ciertos requisitos para que funcione, así como ciertas limitaciones:&lt;<ol>
+<li>IMPORTANTE: el proveedor del servicio de emergencia que atiende la llamada E-911, y la dirección que este proveedor verá, está vinculada a la dirección de servicio que Spectrum mantiene en un registro habilitado cuando el Abonado firma inicialmente el contrato de servicio.
 Si el Abonado no identifica correctamente el sitio donde se encuentra ubicado el módem para el servicio de voz del Abonado, o si el módem fue trasladado fuera de la dirección de servicio original, es posible que las llamadas E-911 del Abonado se dirijan erróneamente a la ubicación equivocada o al proveedor de servicios de emergencia incorrecto.
 Por lo tanto, para que las llamadas al E-911 sigan el curso correcto, el Abonado acepta no trasladar el módem del servicio de voz de la dirección de servicio en la que fue instalado por Spectrum y acepta la responsabilidad de notificar a Spectrum de inmediato acerca de cualquier cambio en la dirección del servicio antes de trasladar el módem del servicio de voz del lugar.</li>
-<li>ii.
-IMPORTANTE: mantener su número de teléfono: tenga presente que durante las primeras 72 horas de llegada a la nueva dirección de servicio del Abonado, si este marca el 911 desde su Servicio Spectrum Voice, el Abonado debe informar al operador del servicio de emergencia la nueva (actual) dirección de servicio.
+<li>IMPORTANTE: mantener su número de teléfono: tenga presente que durante las primeras 72 horas de llegada a la nueva dirección de servicio del Abonado, si este marca el 911 desde su Servicio Spectrum Voice, el Abonado debe informar al operador del servicio de emergencia la nueva (actual) dirección de servicio.
 Esto es necesario para asegurar que los servicios de emergencia se dirijan a la nueva dirección de servicio del Abonado y no a la dirección de servicio anterior en caso de que un operador de servicios de emergencia no tenga la nueva dirección de servicio en sus registros.</li>
-<li>iii.
-El Servicio Spectrum Voice no tiene su propio suministro de energía.
+<li>El Servicio Spectrum Voice no tiene su propio suministro de energía.
 Si hay un corte de energía o una interrupción del servicio de cable, el Servicio de voz no funcionará.
 El Abonado reconoce expresamente que en tales casos no será posible realizar o recibir llamadas, incluso las llamadas al 911 para acceder a los servicios de emergencia.</li>
-<li>iv.
-Si el Abonado lo desea, con solo llamar a Spectrum al 1-833-267-6095, puede comprar, por separado, una batería de respaldo para utilizar el módem de voz.
+<li>Si el Abonado lo desea, con solo llamar a Spectrum al 1-833-267-6095, puede comprar, por separado, una batería de respaldo para utilizar el módem de voz.
 Cada batería de respaldo está diseñada para proporcionar energía por hasta 8 horas (o 5 horas de tiempo de "conversación") en caso de corte de energía en la residencia del Abonado que no esté relacionado con la red.</li>
-<li>v.
-Es posible que en algunas ubicaciones el servicio E-911 aún no esté disponible.
+<li>Es posible que en algunas ubicaciones el servicio E-911 aún no esté disponible.
 Dichos servicios dependen del equipo y las instalaciones del gobierno local en los que Spectrum proporciona el Servicio de voz.
 En estos casos, el servicio normal del 911 estará disponible y el Abonado deberá comunicar la información de ubicación al operador de emergencia.</li>
-</ul>
-</li>
-<li>c.
-Cantidad de líneas: los Abonados del Servicio Spectrum Voice pueden comprar hasta dos (2) líneas en su dirección de servicio.</li>
-<li>d.
-Instalación: El Servicio Spectrum Voice ofrece instalación profesional y autoinstalación (no disponible en todas las áreas).<ul>
-<li>i.
-La instalación profesional incluye activación de todas las tomas telefónicas existentes o la instalación y activación de una toma telefónica si no hay ninguna en funcionamiento en la residencia del Abonado.
+<li>Cantidad de líneas: los Abonados del Servicio Spectrum Voice pueden comprar hasta dos (2) líneas en su dirección de servicio.</li>
+<li>Instalación: El Servicio Spectrum Voice ofrece instalación profesional y autoinstalación (no disponible en todas las áreas).&lt;<ol>
+<li>La instalación profesional incluye activación de todas las tomas telefónicas existentes o la instalación y activación de una toma telefónica si no hay ninguna en funcionamiento en la residencia del Abonado.
 Se pueden aplicar cargos adicionales por cableado si el Abonado solicita la instalación o activación de tomas adicionales.
 Los cargos adicionales también se pueden aplicar por trabajos de construcción especiales necesarios para completar la instalación.
 Spectrum también proporciona e instala un módem de servicio de voz o adaptador para terminal de multimedia (MTA), que se usa para comunicarse con nuestra red de comunicación privada.</li>
-<li>ii.
-La autoinstalación (no disponible en todas las áreas) proporciona la opción de que el Abonado retire un módem de voz o un MTA de una tienda minorista de Spectrum o solicite que dicho equipo se le envíe a su hogar.
+<li>La autoinstalación (no disponible en todas las áreas) proporciona la opción de que el Abonado retire un módem de voz o un MTA de una tienda minorista de Spectrum o solicite que dicho equipo se le envíe a su hogar.
 Al recibir el equipo, el Abonado debe seguir las instrucciones de autoinstalación proporcionadas por Spectrum.
 Para ser elegible para la autoinstalación, es necesario cumplir con las siguientes condiciones de instalación: • El sistema telefónico del hogar del Abonado debe consistir en una unidad base con cualquier teléfono inalámbrico adicional compatible con dicha unidad.
 • Los sistemas de alarma, seguridad y fax del Abonado no deben depender del Servicio Spectrum Voice.
 • El proveedor de servicio de voz más reciente del Abonado era Spectrum o el Abonado ha tenido servicios Spectrum activos durante los últimos 2 años.
 y • El Abonado no tendrá que trasladar ni agregar salidas.</li>
-</ul>
+</ol>
 </li>
 <p>Spectrum no proporciona el aparato.
 El Abonado es responsable del mantenimiento de todo el cableado interno y los teléfonos de su casa.
@@ -1430,8 +1284,7 @@ Algunos paquetes incluyen el mantenimiento del cableado.
 Para obtener más información acerca del Seguro de mantenimiento de cableado, consulte la información del plan Mantenimiento de cableado de Spectrum en www.spectrum.net/wiremaintenance.
 En ciertas edificaciones, como las unidades de múltiples viviendas, es posible que los técnicos de Spectrum no tengan acceso al cableado interno de la residencia del Abonado.
 En estos casos, Spectrum tiene derecho de determinar la mejor manera de hacer el cableado de la residencia del Abonado, sujeto a los correspondientes cargos adicionales.</p>
-<li>e.
-Llamadas internacionales: el Servicio Spectrum Voice ofrece un plan de llamadas por minuto para llamadas de marcado directo realizadas desde la residencia del Abonado a ubicaciones fuera de su plan de llamadas.
+<li>Llamadas internacionales: el Servicio Spectrum Voice ofrece un plan de llamadas por minuto para llamadas de marcado directo realizadas desde la residencia del Abonado a ubicaciones fuera de su plan de llamadas.
 Si el Abonado decide utilizar este servicio, se le cobrará por las llamadas internacionales de marcado directo de forma adicional a la tarifa fija mensual recurrente que el Abonado paga por el Servicio Spectrum Voice.
 El Servicio Spectrum Voice también ofrece planes opcionales de llamadas internacionales con tarifa plana para llamadas de marcado directo realizadas desde la residencia del Abonado a ubicaciones fuera de su plan de llamadas.
 Si el Abonado elige un plan internacional, se le cobrará un cargo mensual fijo por llamadas internacionales de marcado directo además de la tarifa mensual recurrente que el Abonado paga por el Servicio de voz.
@@ -1443,64 +1296,52 @@ La contestación de la llamada se determina cuando lo determina la señal de lla
 La duración de todas las llamadas finaliza cuando la persona que llama corta la llamada, o cuando la red de Spectrum recibe la señal de finalización de llamada por parte del proveedor local y/o cualquier proveedor intermediario.
 Los minutos que no se usaron en el mes no pasan al mes siguiente.
 Se puede tener acceso a las tarifas internacionales e información sobre los planes de llamadas internacionales en línea en www.spectrum.net/rates.</li>
-<li>f.
-Modificaciones del Servicio de voz: Spectrum puede, ocasionalmente, ofrecer características o funcionalidades adicionales del Servicio de voz o bien suspender ciertas características o funcionalidades del Servicio de voz.
+<li>Modificaciones del Servicio de voz: Spectrum puede, ocasionalmente, ofrecer características o funcionalidades adicionales del Servicio de voz o bien suspender ciertas características o funcionalidades del Servicio de voz.
 La información acerca de estas características o funciones estará disponible en la Guía de precios correspondiente en www.Spectrum.com, en "Condiciones del servicio/Políticas".
 Estas características o funciones adicionales del Servicio de voz pueden estar sujetas a términos y condiciones específicos adicionales, así como también a cambios por parte de Spectrum en cualquier momento.</li>
-<li>g.
-Nombre de la persona que llama: el Servicio Spectrum Voice asociará el nombre del Abonado en la cuenta de Spectrum al número de teléfono que se mostrará junto con los servicios de búsqueda de nombres de quienes llaman ("CNAM") proporcionados como parte del Servicio de voz para todas las llamadas realizadas desde cualquier número de teléfono Spectrum en la cuenta.
+<li>Nombre de la persona que llama: el Servicio Spectrum Voice asociará el nombre del Abonado en la cuenta de Spectrum al número de teléfono que se mostrará junto con los servicios de búsqueda de nombres de quienes llaman ("CNAM") proporcionados como parte del Servicio de voz para todas las llamadas realizadas desde cualquier número de teléfono Spectrum en la cuenta.
 Si el Abonado desea modificar el nombre de la persona que llama asociado al CNAM, debe aceptar lo siguiente: la propuesta o propuestas de nombre de la persona que llama no debe(n) inducir a error o suplantar a otra persona o compañía.
 no debe(n) contener información falsa y debe(n) representar fielmente el nombre de la persona que está suscrita al Servicio de voz e incluida en los listados de directorio, en caso de existir alguno.
 no debe(n) contener palabras abusivas, difamatorias, vulgares, obscenas, racistas o cualquier otro lenguaje ofensivo hacia cualquier persona o entidad, según lo determine Spectrum, a su exclusivo criterio.
 y debe(n) cumplir con todas las leyes, normativas y regulaciones correspondientes.</li>
-</ul>
+</ol>
 </li>
-<li>4.
-Limitaciones del Servicio de voz:<ul>
-<li>a.
-Cortes de Servicio: el módem del Servicio Spectrum Voice funciona con electricidad, por lo que no podrá funcionar cuando haya cortes de energía o si se interrumpe o no funciona la conexión a la banda ancha.
+</ol>
+</li>
+<li>Limitaciones del Servicio de voz:<ol>
+<li>Cortes de Servicio: el módem del Servicio Spectrum Voice funciona con electricidad, por lo que no podrá funcionar cuando haya cortes de energía o si se interrumpe o no funciona la conexión a la banda ancha.
 En el caso de que ocurran cortes de energía, no funcionarán ni el módem ni ninguno de los teléfonos y Servicios de voz conectados.
 Los cortes de energía interrumpirán el servicio E-911 y el uso del Servicio Spectrum Voice así como también la conexión entre el sistema de seguridad residencial y los servicios de monitoreo central.
 Para reducir el riesgo, el Abonado puede elegir comprar una batería de respaldo para usar en caso de corte de energía que no comprometa a la red.</li>
-<li>b.
-Sistemas de seguridad residencial: aunque el Servicio Spectrum Voice proporcionará una conexión que permita el funcionamiento del sistema de seguridad residencial existente del Abonado, Spectrum no garantiza que dicho sistema funcione completamente después de la instalación del Servicio de voz.
+<li>Sistemas de seguridad residencial: aunque el Servicio Spectrum Voice proporcionará una conexión que permita el funcionamiento del sistema de seguridad residencial existente del Abonado, Spectrum no garantiza que dicho sistema funcione completamente después de la instalación del Servicio de voz.
 Como tal, es la obligación del Abonado contactar al proveedor de su sistema de seguridad residencial para informarle sobre la instalación del Servicio Spectrum Voice y sobre cualquier cambio en el número de teléfono, además de solicitar una prueba completa de funcionamiento del sistema inmediatamente después de la instalación del Servicio de voz.
 También es responsabilidad del Abonado probar sus sistemas de manera regular.
 En el caso de un corte de energía o de la red (ya sea sin planificar o relacionado con el mantenimiento), no funcionará ni el Servicio de voz del Abonado ni ninguno de los sistemas de seguridad residencial que usa el Servicio de voz para conectarse a la estación central de monitoreo.
 Como se detalla anteriormente en la Sección 3(b)(iv), el Abonado puede adquirir, por separado, una batería de respaldo para su módem y utilizarla en casos de cortes de energía no relacionados con la red.<br>
 Como cualquier otro proveedor de servicios de comunicación, no declaramos que nuestro servicio es infalible.
 Además, Spectrum prohíbe el uso del Servicio Spectrum Voice como la conexión entre los sistemas de alerta médica y un servicio de estación central de monitoreo, y no conectaremos dichos servicios ni proporcionaremos soporte técnico para la conexión.</li>
-<li>c.
-Limitaciones adicionales:<ul>
-<li>i.
-En la actualidad, determinados servicios asistidos por operadores tales como la verificación de línea ocupada y la interrupción de la línea ocupada, los servicios de marcado (10-10-XXX), los servicios de pago (servicios 900 y 976) y la facturación a terceros no se ofrecen con el Servicio de voz.</li>
-<li>ii.
-Si el Abonado recibe Correo de voz, puede ser elegible para la función voz a texto o voz a e-mail ("Correo de voz legible"), como parte de la característica Correo de voz.
+<li>Limitaciones adicionales:<ol>
+<li>En la actualidad, determinados servicios asistidos por operadores tales como la verificación de línea ocupada y la interrupción de la línea ocupada, los servicios de marcado (10-10-XXX), los servicios de pago (servicios 900 y 976) y la facturación a terceros no se ofrecen con el Servicio de voz.</li>
+<li>Si el Abonado recibe Correo de voz, puede ser elegible para la función voz a texto o voz a e-mail ("Correo de voz legible"), como parte de la característica Correo de voz.
 Como resultado del software de reconocimiento de voz usado por Spectrum, es posible que algunos mensajes procesados no se transcriban por completo y aparezcan como mensajes incompletos.
 En dichos casos, el Abonado puede conseguir el mensaje completo al escuchar el mensaje de Correo de voz legible.
 Como una condición del uso de la función de texto a voz o de voz a e-mail, el Abonado acepta permitir a Spectrum, o a sus proveedores de servicio, procesar dichos archivos de voz y usar los mensajes del correo de voz, y otros datos asociados con dichos mensajes, para mejorar y/o perfeccionar la función.</li>
-<li>iii.
-La obligación de Spectrum de instalar los Servicios de voz depende de su capacidad para proteger y conservar, sin costos excesivos, las instalaciones adecuadas y los derechos para la construcción y el mantenimiento de las instalaciones necesarias y los equipos.
+<li>La obligación de Spectrum de instalar los Servicios de voz depende de su capacidad para proteger y conservar, sin costos excesivos, las instalaciones adecuadas y los derechos para la construcción y el mantenimiento de las instalaciones necesarias y los equipos.
 Es posible que Spectrum limite las comunicaciones, se rehúse a proporcionar Servicios de voz o interrumpa los Servicios de voz cuando sea necesario debido a: (i) la falta de medios de transmisión, capacidad de transmisión o cualquier otro tipo de instalaciones o equipos.
 (ii) la falta de servicios disponibles de, o interconectados con, los servicios o las instalaciones de los proveedores de servicio.
 o (iii) cualquier otra causa que exceda el control de Spectrum.</li>
-<li>iv.
-Spectrum realizará esfuerzos razonables para lograr que los Servicios de voz estén disponibles en la fecha prevista.
+<li>Spectrum realizará esfuerzos razonables para lograr que los Servicios de voz estén disponibles en la fecha prevista.
 Spectrum no será responsable de ningún daño que ocurra debido a las demoras en cumplir con la fecha de servicio estimada dados los procesos normales de instalación.
 Dichas demoras deberán incluir, entre otras, las demoras en la obtención de aprobaciones de permiso de paso, demoras en el trabajo actual de construcción hecho por Spectrum, incluso sus contratistas o representantes, y cualquier demora debida a otros proveedores de servicios en los que Spectrum confía para que cumplan con la fecha estimada que está fuera del control de Spectrum.</li>
-<li>v.
-Spectrum ofrece el uso de sus instalaciones para la comunicación entre el Abonado y terceros.
+<li>Spectrum ofrece el uso de sus instalaciones para la comunicación entre el Abonado y terceros.
 Spectrum no es responsable, ni será responsable legal, por ninguna comunicación o error en la comunicación entre el Abonado (incluso cualquier usuario) y las otras partes (incluso las llamadas a través de un operador, al 911 y E-911).</li>
-<li>vi.
-A criterio de Spectrum, las instalaciones de otros proveedores de servicio pueden utilizarse para establecer las conexiones en los puntos donde las instalaciones de Spectrum no puedan llegar.
+<li>A criterio de Spectrum, las instalaciones de otros proveedores de servicio pueden utilizarse para establecer las conexiones en los puntos donde las instalaciones de Spectrum no puedan llegar.
 Al establecer conexiones con otros proveedores, Spectrum no es responsable ni responsable legal de ninguna actividad o inactividad de otros proveedores de servicios.</li>
-<li>vii.
-Spectrum proporciona la aplicación móvil Phone2Go únicamente para que la utilicen los clientes del Servicio de voz residencial de Spectrum y solo en ciertas áreas.
+<li>Spectrum proporciona la aplicación móvil Phone2Go únicamente para que la utilicen los clientes del Servicio de voz residencial de Spectrum y solo en ciertas áreas.
 Es posible que ciertas funciones del Servicio Spectrum Voice no estén disponibles con la aplicación Phone2Go y ciertas funciones disponibles dentro de la aplicación Phone2Go pueden estar sujetas a términos y condiciones adicionales presentados dentro de la aplicación Phone2Go.</li>
-</ul>
+</ol>
 </li>
-<li>d.
-Equipo: el Servicio Spectrum Voice requiere un módem de voz.
+<li>Equipo: el Servicio Spectrum Voice requiere un módem de voz.
 Spectrum proporcionará un módem de voz durante el tiempo en el que el Abonado siga siendo Abonado del Servicio de voz o hasta que Spectrum cambie su oferta del Servicio de voz.
 Dependiendo del plan de Servicio Spectrum Voice, puede haber un cargo mensual por el módem de voz.
 Al cancelar el Servicio Spectrum Voice por cualquier motivo, es posible que el Abonado deba entregar el módem de voz proporcionado por Spectrum en el plazo de treinta (30) días o se le cobrará una tarifa por el equipo igual a la cobrada por Spectrum en el momento que suministró el módem de voz.
@@ -1509,7 +1350,7 @@ El equipo y las instalaciones proporcionados por Spectrum para prestar el Servic
 Los números de teléfono asignados al Abonado por parte de Spectrum son portables y transferibles con el Abonado en la misma ubicación.
 sin embargo, el Abonado no tiene derechos de propiedad sobre el número de teléfono ni las designaciones del número de llamadas asociado con los Servicios de voz.
 Además, Spectrum puede cambiar dichos números según lo considere necesario.</li>
-</ul>
+</ol>
 </li>
 <li>Plazo: el Servicio Spectrum Voice continuará hasta el momento en que el Abonado cancele el servicio, lo que tendrá vigencia al momento de la notificación, o bien Spectrum lo cancelará por infracción (incluso la falta de pago) de este Acuerdo o según lo determine Spectrum de conformidad con las Condiciones del servicio.</li>
 <li>Incorporación al directorio: el Servicio Spectrum Voice le ofrece al Abonado un servicio de Número privado de manera predeterminada o la incorporación al directorio por solicitud.
@@ -1521,17 +1362,15 @@ Spectrum limita la longitud de las listas del directorio al usar abreviaturas cu
 La duración de las incorporaciones al directorio, cuando las incorporaciones han sido publicadas, es la misma que la duración del directorio.
 El período del directorio va desde el día en el que el directorio se distribuye por primera vez a los clientes hasta el día en que el directorio siguiente se distribuye a los clientes.
 La responsabilidad de Spectrum con respecto a los errores u omisiones relacionados con las incorporaciones al directorio se establece en la Sección 7, "Limitación de responsabilidad".</li>
-<li>Limitación de responsabilidad:<ul>
-<li>a.
-El Servicio Spectrum Voice se proporciona "TAL CUAL ES".
+<li>Limitación de responsabilidad:<ol>
+<li>El Servicio Spectrum Voice se proporciona "TAL CUAL ES".
 LA RESPONSABILIDAD DE SPECTRUM O DE SUS PROVEEDORES DE SERVICIO POR DAÑOS O PÉRDIDAS QUE SURJAN DEL SUMINISTRO DE SERVICIOS DE VOZ AQUÍ DESCRITOS, QUE INCLUYEN A MODO ENUNCIATIVO PERO NO LIMITATIVO ERRORES, OMISIONES, INTERRUPCIONES, DEMORAS O DEFECTOS, REPRESENTACIONES O UTILIZACIÓN DE LOS SERVICIOS DE VOZ, O QUE SURJAN POR DEJAR DE SUMINISTRAR EL SERVICIO DE VOZ, INCLUYENDO EL SERVICIO E-911/911, YA SEA POR CAUSA DE ACCIONES U OMISIONES, Y/O INTERRUPCIONES EN EL FLUJO ELÉCTRICO, SE LIMITARÁ A UNA RETRIBUCIÓN PRORRATEADA POR EL TIEMPO QUE DURÓ LA INTERRUPCIÓN DEL SERVICIO DE VOZ.
 SPECTRUM, INCLUSO SUS PROVEEDORES DE SERVICIO, NO SERÁ RESPONSABLE DE NINGUNA PÉRDIDA O DAÑOS DIRECTOS, INDIRECTOS, ESPECIALES, CONSECUENTES, EJEMPLARES O PUNITIVOS, INCLUSO LA PÉRDIDA DE BENEFICIO ECONÓMICO, LA PÉRDIDA DE GANANCIAS, LA PÉRDIDA DE OPORTUNIDADES COMERCIALES Y LOS DAÑOS PERSONALES QUE EL ABONADO, O LOS USUARIOS DEL ABONADO, PUEDAN SUFRIR.
 FINALMENTE, SPECTRUM, Y SUS PROVEEDORES DE SERVICIO, NO SERÁN RESPONSABLES DE NINGUNA PÉRDIDA O INTERRUPCIÓN DEL SERVICIO DE VOZ NI POR NINGÚN DAÑO O PÉRDIDA DEBIDOS A LA FALLA O NEGLIGENCIA DEL ABONADO, CUALQUIER USUARIO DEL ABONADO O CUALQUIER OTRO TERCERO O PERSONA, O DEBIDO A LA FALLA O MAL FUNCIONAMIENTO DEL EQUIPO O LAS INSTALACIONES PROPORCIONADOS POR EL ABONADO O EL USUARIO, O DEBIDO AL INCUMPLIMIENTO POR PARTE DEL ABONADO DE CUALQUIER OBLIGACIÓN ESTABLECIDA EN ESTE ACUERDO.</li>
-<li>b.
-Directorios telefónicos.
+<li>Directorios telefónicos.
 LA RESPONSABILIDAD DE SPECTRUM POR DAÑOS DEBIDO A ERRORES U OMISIONES EN LAS INCORPORACIONES AL DIRECTORIO SE LIMITARÁ A LA ACREDITACIÓN POR ÚNICA VEZ DEL EQUIVALENTE A LA TARIFA MENSUAL RECURRENTE DE UN MES DEL SERVICIO DE VOZ (NO INCLUYE CARGOS ÚNICOS, CARGOS MEDIDOS O POR LLAMADA NI NINGÚN IMPUESTO O CARGO RELACIONADO).
 EL ABONADO ACEPTA INDEMNIZAR Y EXIMIR DE RESPONSABILIDAD A SPECTRUM EN CUANTO A CUALQUIER Y TODA RECLAMACIÓN POR DAÑOS PROVOCADOS O ACUSADOS DE HABER SIDO PROVOCADOS, DIRECTA O INDIRECTAMENTE, POR LA PUBLICACIÓN DE UNA LISTA QUE EL ABONADO HAYA SOLICITADO SE OMITA DE LAS PÁGINAS BLANCAS DEL DIRECTORIO CORRESPONDIENTE, INCLUIDO CUALQUIER DIRECTORIO EN LÍNEA, O LA DIVULGACIÓN DE TAL LISTA A CUALQUIER PERSONA (INCLUIDO CUALQUIER ERROR O EQUIVOCACIÓN PRESENTE EN DICHA LISTA).</li>
-</ul>
+</ol>
 </li>
 <li>Instalación: Los cargos por los servicios y el equipo de instalación dependerán de la tarifa actual en vigencia.</li>
 <li>Impuestos: las tarifas, los impuestos y los recargos correspondientes, si los hubiera, se sumarán a la factura mensual del Abonado.
@@ -1540,9 +1379,8 @@ Para los Planes de precios de Spectrum, las tarifas, los impuestos y los recargo
 <li>Derechos de propiedad: Spectrum y/o sus proveedores de servicio tienen todos los derechos sobre los Servicios de voz.
 El Abonado tiene un derecho limitado a usar el Servicio de voz según estas Condiciones del Servicio de voz.
 Sin embargo, las Condiciones del servicio no otorgan al Abonado (ni a los usuarios) ningún derecho, o interés, patentes, derechos de autor, derecho a base de datos, secretos comerciales, nombres comerciales, marcas comerciales o marcas de servicio (registradas o sin registrar), o cualquier derecho o licencia relacionados con el Servicio Spectrum Voice (incluso todas las funciones) o cualquier documentación relacionada.</li>
-<li>Usos prohibidos:<ul>
-<li>a.
-Uso no residencial: el Servicio Spectrum Voice puede ser usado únicamente como un servicio de voz residencial y no puede ser usado con propósitos comerciales, incluso, entre otros, venta telefónica, servicios de centro de llamadas, transcripción médica o transmisión de facsímil.
+<li>Usos prohibidos:<ol>
+<li>Uso no residencial: el Servicio Spectrum Voice puede ser usado únicamente como un servicio de voz residencial y no puede ser usado con propósitos comerciales, incluso, entre otros, venta telefónica, servicios de centro de llamadas, transcripción médica o transmisión de facsímil.
 Además, ni la marcación automática ni la marcación predictiva se pueden usar con el Servicio Spectrum Voice.
 El Servicio Spectrum Voice está destinado a ser usado de acuerdo con el uso residencial normal pretendido.
 Por ejemplo, los planes de voz ilimitados están destinados al uso para el diálogo ininterrumpido en vivo entre el Abonado y un tercero.
@@ -1552,8 +1390,7 @@ El Servicio de voz no podrá usarse de ninguna manera, lo que incluye combinar c
 Dichos patrones y prácticas no estándar de llamadas incluyen, a título enunciativo, el uso de Llamada de 3 vías, Desvío de llamadas y/o equipos no pertenecientes a Spectrum, lo que resulte en volúmenes de tráfico inusualmente altos o un uso excesivo del servicio de larga distancia.
 Spectrum, a su entera discreción, se reserva el derecho de: (i) reclasificar el Servicio de voz del Abonado de residencial a comercial, y de aplicar de inmediato las tarifas comerciales en caso de uso inadecuado o excesivo del Servicio de voz por parte del Abonado, incluido cualquier usuario del Servicio de voz del Abonado.
 o (ii) cancelar de inmediato el Servicio de voz del Abonado a causa de dicho uso inadecuado o excesivo.</li>
-<li>b.
-Fraude.
+<li>Fraude.
 ilegalidad: Spectrum puede bloquear las llamadas hechas a determinados países, ciudades o centrales telefónicas o que empleen ciertos códigos de autorización si, según su criterio, considera que es razonablemente necesario para evitar el uso fraudulento o ilegal del Servicio de voz.
 El Abonado es responsable de evitar que el equipo telefónico del Abonado y el Equipo de Spectrum ubicado en las instalaciones del Abonado se usen para hacer llamadas fraudulentas usando el Servicio Spectrum Voice proporcionado al Abonado.
 El Abonado también es responsable por todo uso fraudulento o no autorizado del Servicio de voz que ocurra a través de la cuenta del Abonado sin importar quién sea responsable de dicho uso.
@@ -1561,10 +1398,9 @@ El Abonado será el único responsable del pago de todos los cargos correspondie
 Spectrum no es responsable por ningún daño o cargo, incluso los cargos arancelados por uso, que el Abonado pueda contraer como resultado del uso no autorizado del Servicio de voz proporcionado al Abonado.
 El uso no autorizado de las instalaciones del Abonado puede incluir, entre otros, hacer llamadas desde las instalaciones del Abonado y hacer llamadas a través del equipo del Abonado que sean transmitidas o emitidas en la red de Spectrum.
 El uso inadecuado del Servicio de voz puede incluir la piratería del módem de voz, el uso excesivo de Llamadas internacionales, las llamadas al servicio de información 411 y otros cargos por uso.</li>
-<li>c.
-Violaciones.
+<li>Violaciones.
 Además, Spectrum se reserva el derecho de interrumpir el Servicio de voz cuando el Abonado o sus usuarios estén utilizándolo en violación de la ley o de las disposiciones que aparecen en las Condiciones del servicio.</li>
-</ul>
+</ol>
 </li>
 <li>Enmiendas: Spectrum puede, a su exclusivo criterio, cambiar, modificar, agregar o eliminar partes de este Acuerdo y estas Condiciones del servicio en cualquier momento.
 Spectrum puede notificar al Abonado sobre cualquiera de tales cambios al publicar la notificación de esos cambios en el sitio web de Spectrum en www.spectrum.com según las "Condiciones del servicio/Políticas" o al enviar la notificación a través de correo electrónico o correo postal de EE.
@@ -1597,26 +1433,22 @@ Todos estos cargos, incluyendo los impuestos correspondientes, corren por cuenta
 <li>Interrupción del Servicio de cable: En ningún caso será Spectrum responsable de ningún fallo o interrupción de la transmisión de programas o del Servicio de cable parcial o total resultante de circunstancias que escapan al control razonable de Spectrum (incluyendo, sin limitarse a, cualquier interrupción o degradación del Servicio de cable que surja a partir de la interferencia, modificación o alteración por parte del Abonado al Servicio de cable en la conexión del receptor digital).
 Sujetos a los requisitos de las leyes vigentes, es posible que se otorgue un crédito por interrupciones elegibles.</li>
 <li>Copia, reproducción y distribución de los programas: El Abonado acepta que utilizará los programas, el Servicio de cable y otros servicios provistos por Spectrum exclusivamente para propósitos personales y no comerciales, y que no copiará, reproducirá ni redistribuirá de otra forma dichos programas, el Servicio de cable ni otros servicios en correspondencia con la legislación vigente.</li>
-<li>Derechos adicionales de Spectrum:<ul>
-<li>a.
-Spectrum no tiene ningún tipo de obligación de controlar el contenido ni los servicios a los que se pueda acceder mediante el sistema de cable o el receptor digital de Spectrum.
+<li>Derechos adicionales de Spectrum:<ol>
+<li>Spectrum no tiene ningún tipo de obligación de controlar el contenido ni los servicios a los que se pueda acceder mediante el sistema de cable o el receptor digital de Spectrum.
 no obstante, el Abonado reconoce y acepta que Spectrum tiene derecho a controlar electrónicamente el contenido en forma periódica y a divulgar cualquier información según sea necesario para cumplir con cualquier ley o regulación, para operar correctamente sus servicios de programación e información de datos o para protegerse o proteger a sus Abonados.</li>
-<li>b.
-Spectrum tendrá el derecho de determinar, a su entera discreción, lo que constituye un uso "inapropiado" o "uso comercial" de los sistemas, equipos o Servicio de cable de Spectrum.</li>
-</ul>
+<li>Spectrum tendrá el derecho de determinar, a su entera discreción, lo que constituye un uso "inapropiado" o "uso comercial" de los sistemas, equipos o Servicio de cable de Spectrum.</li>
+</ol>
 </li>
 <li>Término: El Servicio de cable de Spectrum continuará hasta su cancelación por parte del Abonado, que se implementará previo aviso, o por parte de Spectrum por incumplimiento (incluso por falta de pago) de estas Condiciones del servicio o por cancelación por parte de Spectrum conforme a los Términos y condiciones generales de servicio.</li>
 <li>Herramientas, funcionalidades y características adicionales: Cualquier herramienta, funcionalidad y característica adicional que ofrece Spectrum puede estar sujeta a términos específicos de uso así como a cargos, cambios o eliminación en cualquier momento por parte de Spectrum.</li>
-<li>Programación:<ul>
-<li>a.
-Sin perjuicio de las estipulaciones contrarias contempladas en el presente, el Servicio de cable, que incluye, entre otros, a toda la programación, servicios de programas, paquetes de programas, cantidad de canales, asignación de canales, canales de teledifusión, servicios interactivas, ofertas de datos y otros servicios están sujetos a cambios conforme a las leyes vigentes.
+<li>Programación:<ol>
+<li>Sin perjuicio de las estipulaciones contrarias contempladas en el presente, el Servicio de cable, que incluye, entre otros, a toda la programación, servicios de programas, paquetes de programas, cantidad de canales, asignación de canales, canales de teledifusión, servicios interactivas, ofertas de datos y otros servicios están sujetos a cambios conforme a las leyes vigentes.
 El Abonado reconoce y acepta que no tiene derecho de recibir, y que Spectrum no está obligado a proporcionar, ningún servicio de programación o canal particular como parte del Servicio de cable y que el Abonado no está celebrando este acuerdo ni comprando el Servicio de cable en base a una expectativa o promesa (explícita o implícita) de que se incluirá cualquier servicio de programación o conjunto de servicios de programación como parte del Servicio de cable.</li>
-<li>b.
-Sin perjuicio de las estipulaciones contrarias contempladas en el presente, para evitar toda duda, y sin limitar ni invalidar ningún otro derecho que Spectrum pueda tener bajo los Términos y condiciones generales de servicio, en el caso de que una programación en particular deje de estar disponible, ya sea de manera temporal o permanente, debido a una disputa entre Spectrum y un programador externo, Spectrum no será responsable de pagar compensación, daños (incluso por pérdidas o daños compensatorios, directos, indirectos, eventuales, punitivos o consiguientes), créditos ni reembolsos de cargos por la programación faltante u omitida.
+<li>Sin perjuicio de las estipulaciones contrarias contempladas en el presente, para evitar toda duda, y sin limitar ni invalidar ningún otro derecho que Spectrum pueda tener bajo los Términos y condiciones generales de servicio, en el caso de que una programación en particular deje de estar disponible, ya sea de manera temporal o permanente, debido a una disputa entre Spectrum y un programador externo, Spectrum no será responsable de pagar compensación, daños (incluso por pérdidas o daños compensatorios, directos, indirectos, eventuales, punitivos o consiguientes), créditos ni reembolsos de cargos por la programación faltante u omitida.
 El único recurso del Abonado en dicho evento será la cancelación del Servicio de Cable conforme a los Términos y Condiciones Generales de Servicio.
 Lo dispuesto en este párrafo no se aplicará a la programación a que un Abonado se suscriba a la carta (es decir, canales que no sean parte de un paquete o nivel).
 siempre que, no obstante, en dicho caso Spectrum pueda ofrecer al Cliente un crédito prorrateado de los montos prepagados por las programación específica a la que el Abonado se suscriba a la carta.</li>
-</ul>
+</ol>
 </li>
 <li>Descargo de responsabilidad: Spectrum no asume responsabilidad alguna por ningún programa, servicio o información distribuida a través del sistema de cable y/o el receptor digital de Spectrum a menos que esta haya sido producida por Spectrum.
 Spectrum no será responsable por ningún producto, mercadería o premio promocionado en o comprado mediante el uso del sistema de cable o receptor digital de Spectrum, a menos que dichos productos, mercaderías o premios sean provistos directamente por Spectrum.</li>
@@ -1627,32 +1459,23 @@ Si el Abonado desactiva la función del Control parental, incluso si es para un 
 Si el Abonado tendrá entonces que reactivar el Control parental para volver a bloquear los canales que desee.
 Se recomienda que el Abonado verifique periódicamente que la función de Control parental esté activada y en funcionamiento.</li>
 <li>Usos y actividades prohibidos: El Abonado no utilizará el Equipo de Spectrum, ni el Servicio de cable para actividades ilegales ni inapropiadas, ni participará de manera alguna en actividades ilegales o inapropiadas durante su relación con Spectrum.
-dichas actividades incluyen a modo enunciativo pero no limitativo lo siguiente:<ul>
-<li>a.
-Invadir la privacidad de otra persona.
+dichas actividades incluyen a modo enunciativo pero no limitativo lo siguiente:<ol>
+<li>Invadir la privacidad de otra persona.
 usar, poseer, publicar, transmitir o distribuir ilegalmente material obsceno, profano o pornográfico.
 publicar, transmitir, distribuir o difundir contenido que sea ilegal, amenazante, abusivo, hostigante, injuriante, calumniante, difamatorio o de alguna otra manera ofensivo u objetable;</li>
-<li>b.
-Redistribuir o retransmitir el Servicio de cable, o cualquier parte del mismo, ni transmitir o distribuir el Servicio de cable, o cualquier parte del mismo, a personas fuera del lugar de servicio de la cuenta del Abonado;</li>
-<li>c.
-Modificar, interrumpir, reubicar sin autorización o manipular el Equipo de Spectrum, que incluye, entre otros, manipular el sello de receptor digital, la tarjeta de acceso o cualquiera de los servicios de Spectrum;</li>
-<li>d.
-Conectar o anexar equipos al Servicio de cable con la intención de distribuir el Servicio de cable de manera no autorizada;</li>
-<li>e.
-Restringir, inhibir o de alguna otra manera interferir con la capacidad de cualquier otro Abonado de Spectrum de usar o disfrutar cualquier servicio de Spectrum, el Servicio de cable o el servicio de Internet.</li>
-<li>f.
-Revender el Servicio o servicios de Spectrum;</li>
-<li>g.
-Conducir una estafa piramidal o cualquier otro tipo de estafa ilegal;</li>
-<li>h.
-Hacerse pasar por cualquier persona o identidad o falsificar la firma manual o digital de otra persona.
+<li>Redistribuir o retransmitir el Servicio de cable, o cualquier parte del mismo, ni transmitir o distribuir el Servicio de cable, o cualquier parte del mismo, a personas fuera del lugar de servicio de la cuenta del Abonado;</li>
+<li>Modificar, interrumpir, reubicar sin autorización o manipular el Equipo de Spectrum, que incluye, entre otros, manipular el sello de receptor digital, la tarjeta de acceso o cualquiera de los servicios de Spectrum;</li>
+<li>Conectar o anexar equipos al Servicio de cable con la intención de distribuir el Servicio de cable de manera no autorizada;</li>
+<li>Restringir, inhibir o de alguna otra manera interferir con la capacidad de cualquier otro Abonado de Spectrum de usar o disfrutar cualquier servicio de Spectrum, el Servicio de cable o el servicio de Internet.</li>
+<li>Revender el Servicio o servicios de Spectrum;</li>
+<li>Conducir una estafa piramidal o cualquier otro tipo de estafa ilegal;</li>
+<li>Hacerse pasar por cualquier persona o identidad o falsificar la firma manual o digital de otra persona.
 o</li>
-<li>i.
-Acosar, amenazar o agredir verbalmente de alguna otra manera de los empleados de Spectrum o sus agentes.<br>
+<li>Acosar, amenazar o agredir verbalmente de alguna otra manera de los empleados de Spectrum o sus agentes.<br>
 <br>
 La participación en una o más de estas actividades puede dar lugar a la cancelación del Servicio de cable del Abonado.
 Esta Sección 11 de ninguna manera limitará los derechos de cancelación de Spectrum conforme a cualquier otra disposición de estas Condiciones del servicio.</li>
-</ul>
+</ol>
 </li>
 <li>Requerimientos de licencia: El Abonado acepta cumplir con todos los requisitos de la licencia de usuario final relacionados con cualquiera de los servicios a los que tiene acceso el Abonado de acuerdo con estas Condiciones del servicio.
 El Abonado no podrá decompilar, utilizar técnicas de ingeniería inversa, desarmar, modificar, crear trabajos derivados de, o derivar de cualquier otra manera, cualquier código de fuente del Servicio de cable, ni cualquier parte del mismo, incluyendo software de Spectrum o software de terceros disponible a través de o en conexión con el Servicio de cable.
@@ -1660,20 +1483,17 @@ El Abonado acepta no quitar, alterar ni disimular ninguna identificación de pro
 <li>Limitación de responsabilidad: Toda la información enviada por el Abonado mediante el uso del Equipo de Spectrum, se envía por cuenta y riesgo del Abonado, y Spectrum no se hace responsable de ninguna reclamación, pérdida, acción, daño, juicio o procedimiento que se derive de dicha acción del Abonado o que esté relacionado con esta de algún modo.
 Sin limitación de lo mencionado anteriormente, el Abonado reconoce y acepta que Spectrum no será responsable por ningún uso de la información del Abonado provista a terceros en relación con el uso por parte del Abonado de los Servicios de cable u otros servicios o funciones de terceros disponibles a través del Servicio de cable.
 Spectrum no será responsable por ningún tipo de error, pérdida o interrupción en conexión con el uso del Servicio de cable por parte del Abonado, y de cualquier función o funcionalidad del mismo, incluyendo, entre otros, servicio intermitente, eliminaciones erróneas, grabaciones fallidas o mal dirigidas o la imposibilidad de programar grabaciones.</li>
-<li>Seguridad:<ul>
-<li>a.
-El Abonado es responsable por cualquier mal uso del Equipo de Spectrum, el Servicio de cable o cualquier servicio de terceros al que se haya suscripto el Abonado, incluso si la actividad inapropiada haya sido cometida por un amigo, familiar, invitado, empleado o Abonado con acceso a la cuenta del Abonado.
+<li>Seguridad:<ol>
+<li>El Abonado es responsable por cualquier mal uso del Equipo de Spectrum, el Servicio de cable o cualquier servicio de terceros al que se haya suscripto el Abonado, incluso si la actividad inapropiada haya sido cometida por un amigo, familiar, invitado, empleado o Abonado con acceso a la cuenta del Abonado.
 Por consiguiente, el Abonado debe tomar medidas para garantizar que otras personas no accedan sin autorización al Equipo de Spectrum, al Servicio de cable o a los servicios de terceros.
 Por ejemplo, el Abonado debe asegurar toda red doméstica inalámbrica utilizada en conexión con el Servicio de cable mediante la solicitud de contraseñas o medidas similares para restringir el acceso a dicha red.</li>
-<li>b.
-El Abonado acepta mantener la seguridad y confidencialidad de los nombres de usuario y contraseñas del Abonado o de las credenciales similares que permitan al Abonado acceder al Servicio de cable.
+<li>El Abonado acepta mantener la seguridad y confidencialidad de los nombres de usuario y contraseñas del Abonado o de las credenciales similares que permitan al Abonado acceder al Servicio de cable.
 El Abonado además acepta no divulgar dichas credenciales a ningún tercero.
 Sin limitación de lo mencionado anteriormente, el Abonado acepta que el Abonado no divulgará dichas credenciales a terceros para otorgarles acceso al Servicio de cable o programación que pueda estar disponible para el Abonado fuera de su hogar.</li>
-<li>c.
-El Equipo, Servicio de cable o servicios de terceros no se pueden usar para violar la seguridad de otro Abonado de Spectrum ni para intentar acceder a la computadora, software o datos de cualquier otra persona, sin el conocimiento o consentimiento de dicha persona.
+<li>El Equipo, Servicio de cable o servicios de terceros no se pueden usar para violar la seguridad de otro Abonado de Spectrum ni para intentar acceder a la computadora, software o datos de cualquier otra persona, sin el conocimiento o consentimiento de dicha persona.
 Tampoco se pueden usar para intentar eludir la autenticación de usuario o seguridad de ningún host, red o cuenta.
 Se prohíbe el uso o distribución de herramientas diseñadas para poner en peligro la seguridad.</li>
-</ul>
+</ol>
 </li>
 <li>Subtitulado: El Abonado puede obtener información sobre problemas con el subtitulado si llama o visita nuestra tienda local de Spectrum.</li>
 <li>Ley aplicable: Esta Política se regirá exclusivamente por, y se interpretará de acuerdo con, las leyes del estado de Nueva York.</li>
@@ -1699,24 +1519,21 @@ Estas Condiciones del servicio constituyen un documento vinculante legalmente.</
 <p>Spectrum actualiza y modifica con regularidad estas Condiciones del servicio.
 El Abonado debe consultar la página www.spectrum.com para asegurarse de estar en cumplimiento con los términos.</p>
 <ol>
-<li>Equipo: Para utilizar el Servicio de Internet, el Abonado debe cumplir con los requisitos mínimos de computadora, equipo, red doméstica y sistema, tal como lo especifica Spectrum.<ul>
-<li>a.
-Computadoras: La computadora personal que el Abonado emplee para acceder al Servicio de Internet debe cumplir con los estándares de configuración mínimos.
+<li>Equipo: Para utilizar el Servicio de Internet, el Abonado debe cumplir con los requisitos mínimos de computadora, equipo, red doméstica y sistema, tal como lo especifica Spectrum.<ol>
+<li>Computadoras: La computadora personal que el Abonado emplee para acceder al Servicio de Internet debe cumplir con los estándares de configuración mínimos.
 Consulte los Requisitos de sistema de Spectrum para conocer las especificaciones actuales.
 Las normas de configuración mínimas pueden cambiar, y Spectrum hará esfuerzos razonables para dar soporte a las configuraciones aceptables previas.
 sin embargo, Spectrum no está obligado a continuar ofreciendo tal soporte.
 A fin de operar el Servicio de Internet, Spectrum puede suministrar equipos como módems, portales, enrutadores o tarjetas inalámbricas, sin cargo o mediante el pago de una tarifa única o recurrente.
 El Abonado reconoce que tales equipos pueden requerir actualizaciones y/o cambios al software residente en el equipo y que es posible que al Abonado se le exija realizar tales actualizaciones y/o cambios.
 No obstante, el Abonado autoriza a Spectrum por medio del presente a realizar actualizaciones y/o cambios in-situ o en forma remota oportunamente según Spectrum lo considere necesario, a exclusivo criterio de Spectrum.</li>
-<li>b.
-Spectrum no proporcionará asistencia técnica para hardware o para software de terceros, lo que incluye a modo enunciativo pero no limitativo, redes domésticas o sistemas de juegos.
+<li>Spectrum no proporcionará asistencia técnica para hardware o para software de terceros, lo que incluye a modo enunciativo pero no limitativo, redes domésticas o sistemas de juegos.
 Cualquier pregunta relacionada con el hardware o software de terceros deberá dirigirse al proveedor de dicho producto.
 Spectrum no es responsable por el funcionamiento o soporte, mantenimiento o reparación de cualquier equipo, software o servicios que el Abonado elija usar en conexión con el Servicio de Internet.</li>
-<li>c.
-El Abonado no conectará a la toma de cable módem ningún equipo que no sean los autorizados por Spectrum.
+<li>El Abonado no conectará a la toma de cable módem ningún equipo que no sean los autorizados por Spectrum.
 El Abonado entiende que el incumplimiento de esta restricción puede causar daños a la red de Spectrum y someter al Abonado a la responsabilidad por daños y/o procesos penales.
 El Abonado no puede alterar, modificar o adulterar el equipo ni el Servicio de Internet, o permitir que cualquier otra persona no autorizada por Spectrum haga lo mismo.</li>
-</ul>
+</ol>
 </li>
 <li>Interfaz de red: Cuando Spectrum instale el Servicio de Internet, el Abonado necesitará una tarjeta de interfaz de red o un adaptador que permita una conexión Ethernet.
 Alternativamente, el Abonado puede conectarse a un dispositivo de red residencial (comúnmente denominado enrutador o portal).</li>
@@ -1759,46 +1576,37 @@ Es posible que Spectrum determine que el Abonado es un violador de derechos de a
 Spectrum se reserva el derecho de suspender o cancelar las cuentas de los violadores de derechos de autor reincidentes.</li>
 <li>Término: El Servicio de Internet de Spectrum continuará hasta su cancelación por parte del Abonado, que se implementará previo aviso, o por parte de Spectrum por infracción (que incluye la falta de pago) de estas Condiciones del servicio infracción de la AUP.
 Spectrum no será responsable de la devolución de los datos almacenados en los servidores de Spectrum, tales como los alojados en servidores web y de e-mail si la cuenta del Abonado es suspendida o cancelada.</li>
-<li>Descargo de responsabilidad de garantías y limitación de responsabilidad.<ul>
-<li>a.
-Ausencia de garantía: El Abonado acepta que utiliza el Servicio de Internet y cualquier otro software y equipo de Spectrum por su cuenta y riesgo.
+<li>Descargo de responsabilidad de garantías y limitación de responsabilidad.<ol>
+<li>Ausencia de garantía: El Abonado acepta que utiliza el Servicio de Internet y cualquier otro software y equipo de Spectrum por su cuenta y riesgo.
 El Servicio de Internet y el equipo de Spectrum se proporcionan "tal y como están", y si corresponde, sin garantías de ninguna índole incluso, entre otras, garantías de título, no violación, idoneidad para un fin determinado y comerciabilidad.
 Spectrum no garantiza el uso ininterrumpido del Servicio de Internet.
 Spectrum no garantiza que el Servicio de Internet esté libre de errores o libre de virus, gusanos, correo no deseado, publicidad emergente, spyware, adware, prohibición de ataques al servicio u otros componentes dañinos, incluso si se implementaron medidas paliativas.
 Spectrum no garantiza que los datos o archivos que el Abonado envía o reciba a través del Servicio de Internet se transmitirán en forma íntegra, dentro de un plazo razonable o que estarán libres de acceso no autorizado por otras personas o que otros usuarios no podrán acceder a la computadora del Abonado.
 Esto incluye, entre otros, incidentes de archivos compartidos, impresión compartida o el uso de otros medios que permitan a los usuarios de Internet obtener acceso al equipo del Abonado o monitorear la actividad y conducta del Abonado mientras utiliza el Servicio de Internet.</li>
-<li>b.
-Software contra el correo no deseado: El Abonado reconoce y entiende que Spectrum utiliza software contra el correo no deseado y que dicha tecnología de seguridad es una función del Servicio de Internet que puede bloquear correo electrónico entrante y saliente.
+<li>Software contra el correo no deseado: El Abonado reconoce y entiende que Spectrum utiliza software contra el correo no deseado y que dicha tecnología de seguridad es una función del Servicio de Internet que puede bloquear correo electrónico entrante y saliente.
 Spectrum no garantiza que dicha función bloqueará todo correo no deseado ni que todo correo que sea bloqueado constituya correo no deseado.
 En concordancia con otras declaraciones establecidas en esta sección, Spectrum no garantiza que dicha función estará libre de errores.</li>
-<li>c.
-Software de seguridad: Además, a su exclusivo criterio, Spectrum pondrá a disposición del Abonado un software de seguridad, tal como software antivirus, software de firewall, software para el bloqueo de publicidad "emergente", software de control parental y software antispyware o antiadware para que el Abonado utilice en su computadora en conjunto con el Servicio de Internet.
+<li>Software de seguridad: Además, a su exclusivo criterio, Spectrum pondrá a disposición del Abonado un software de seguridad, tal como software antivirus, software de firewall, software para el bloqueo de publicidad "emergente", software de control parental y software antispyware o antiadware para que el Abonado utilice en su computadora en conjunto con el Servicio de Internet.
 Cualquier software de seguridad proporcionado por Spectrum al Abonado es únicamente para ofrecer un mínimo nivel de protección al/los sistema(s) de la computadora del Abonado.
 El Abonado entiende y acepta que Spectrum y sus proveedores externos de tales software de seguridad no garantizan su exactitud, eficacia y rendimiento.
 El Abonado entiende y acepta que Spectrum y sus proveedores externos no son responsables de los daños en los sistemas de la computadora del Abonado o la información almacenada que pueda resultar a partir del software de seguridad o de la falla en su funcionamiento.</li>
-<li>d.
-Sitios de terceros: Cuando el Abonado usa el Servicio de Internet y/o accede a los sitios web de Spectrum, el Abonado puede encontrar enlaces que le permitan visitar sitios web operados por terceros o de propiedad de estos ("Sitio(s) web de terceros").
+<li>Sitios de terceros: Cuando el Abonado usa el Servicio de Internet y/o accede a los sitios web de Spectrum, el Abonado puede encontrar enlaces que le permitan visitar sitios web operados por terceros o de propiedad de estos ("Sitio(s) web de terceros").
 Spectrum ofrece estos enlaces para su conveniencia y no están bajo control de ni son propiedad de Spectrum.
 La presencia de un enlace a un Sitio web de terceros no constituye el apoyo de Spectrum del Sitio web de terceros, un reconocimiento de cualquier afiliación con sus operadores o propietarios, o una garantía de cualquier tipo con respecto a cualquier información u oferta en el Sitio web de terceros.
 El uso del Abonado de cualquier sitio de terceros está regido por acuerdos legales diversos y por políticas publicadas en ese sitio web.</li>
-<li>e.
-Ancho de Banda.<ul>
-<li>i.
-El Abonado entiende y acepta que Spectrum no garantiza que cualquier cantidad particular de ancho de banda en la red de Spectrum o que cualquier velocidad o rendimiento de la conexión del Abonado a la red de Spectrum estará disponible para el Abonado.
+<li>Ancho de Banda.<ol>
+<li>El Abonado entiende y acepta que Spectrum no garantiza que cualquier cantidad particular de ancho de banda en la red de Spectrum o que cualquier velocidad o rendimiento de la conexión del Abonado a la red de Spectrum estará disponible para el Abonado.
 El Abonado entiende y acepta que la velocidad que ofrece el Servicio de Internet en el sitio del Abonado variará según un número de factores, incluso los sistemas de la computadora y los equipos asociados (por ejemplo, enrutadores/puntos de acceso Wi-Fi, etc., obtenidos por el Abonado), el tráfico de Internet y otros factores tales como las limitaciones en la capacidad del sistema, acciones gubernamentales, las actividades que están más allá del control de Spectrum y las fallas, modificaciones, actualizaciones y reparaciones del sistema.
 El Abonado comprende que las conexiones inalámbricas del Abonado y el uso que le da a los enrutadores inalámbricos pueden estar sujetos a mayores fluctuaciones de velocidad, latencia y pueden verse afectados en forma adversa por interferencia, congestión, distancia y otros factores externos.
 Para más información, visite http://spectrum.net/wiredvswifi [Artículo a publicarse].</li>
-<li>ii.
-El Abonado comprende que Spectrum puede usar diferentes herramientas y técnicas para gestionar en forma eficiente su red y para asegurar el cumplimiento de la AUP de Spectrum.
+<li>El Abonado comprende que Spectrum puede usar diferentes herramientas y técnicas para gestionar en forma eficiente su red y para asegurar el cumplimiento de la AUP de Spectrum.
 Para obtener detalles adicionales, el Abonado debe tomar como referencia la AUP de Spectrum.</li>
-<li>iii.
-El Abonado además comprende y acepta que, para distribuir el ancho de banda entre todos los usuarios, Spectrum puede emplear tecnología de gestión del tráfico razonable tal como se identifica en las AUP de Spectrum y la Declaración de divulgación de Internet de Spectrum.</li>
-<li>iv.
-Las únicas y exclusivas compensaciones del Abonado al amparo de estas Condiciones del servicio son las que se establecen aquí.
+<li>El Abonado además comprende y acepta que, para distribuir el ancho de banda entre todos los usuarios, Spectrum puede emplear tecnología de gestión del tráfico razonable tal como se identifica en las AUP de Spectrum y la Declaración de divulgación de Internet de Spectrum.</li>
+<li>Las únicas y exclusivas compensaciones del Abonado al amparo de estas Condiciones del servicio son las que se establecen aquí.
 Como algunos estados no permiten las garantías implícitas de exclusión o limitación, algunas de las exclusiones arriba no se aplican al Abonado.</li>
-</ul>
+</ol>
 </li>
-</ul>
+</ol>
 </li>
 <li>Limitación de responsabilidad/Compensación exclusiva: La responsabilidad completa de Spectrum y la compensación exclusiva del Abonado con respecto al uso del Servicio de Internet o de su software y equipo, o cualquier infracción por parte de Spectrum de cualquier obligación que pueda tener Spectrum al amparo de estas Condiciones del servicio, será la capacidad del Abonado para cancelar el servicio de Internet o para conseguir la sustitución o reparación de cualquier software o equipo defectuoso proporcionado por parte de Spectrum al Abonado.
 Además, Spectrum no será responsable de los daños por fallas en el suministro o la degradación o interrupción de cualquier servicio, de la pérdida de datos o contenido, el robo de identidad, la destrucción de cualquier TV, monitor o pantalla, el desgaste del monitor o pantalla, los píxeles trabados, la doble imagen y los daños en los archivos o el software sin importar la causa.
@@ -1953,7 +1761,7 @@ All rights reserved.</p> Start AgainEspañol SEARCHING FOR BEST OFFERS <p> </p>
 <p>30-DAY MONEY-BACK GUARANTEE</p>
 <p>Plus, <b>NO CONTRACTS.</b>
 </p>
-<p>1-HOUR APPOINTMENT WINDOW</p>
+<p>2-HOUR APPOINTMENT WINDOWS</p>
 <p>If our technician is not on time, <b>you get $20</b>
 </p>
 <p> </p> © 2017 Charter Communications.
