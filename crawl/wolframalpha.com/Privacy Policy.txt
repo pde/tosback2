@@ -25,7 +25,64 @@
 <li>Sign Out</li>
 </ul>
 </li>
-</ul> Wolfram|Alpha Privacy Policy <p>We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly.
+</ul> &lt;header id="wa-common-header"&gt.
+&lt;nav&gt.
+&lt;h1&gt.
+&lt;a href="/"&gt.
+&lt;img class="tracking-header-logo" src="/html_includes/header-footer/img/wolfram-alpha-logo.svg?v=2" alt="Wolfram|Alpha" width="166" height="25"&gt.
+&lt;/a&gt.
+&lt;/h1&gt.
+&lt;form id="header-input-form" class="input" action="/input/" method="get"&gt.
+&lt;label for="wa-top-input"&gt;What would you like to know about?&lt;/label&gt.
+&lt;input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about?"&gt.
+&lt;button&gt;Compute&lt;/button&gt.
+&lt;/form&gt.
+&lt;div class="menu-toggle"&gt;&lt;span class="icon-hamburger-menu"&gt;&lt;/span&gt;&lt;/div&gt.
+&lt;ul class="main-nav"&gt.
+&lt;li&gt.
+&lt;a class="header-pro-link"&gt;Pro&lt;/a&gt.
+&lt;ul class="pro-menu"&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro/"&gt;Overview&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-students/"&gt;Pro for Students&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-educators/"&gt;Pro for Educators&lt;/a&gt;&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;a class="icon-apps"&gt;Apps&lt;/a&gt.
+&lt;ul class="apps-menu"&gt.
+&lt;li&gt;&lt;a class="web-apps-link tracking-apps-link" href="/web-apps"&gt;Web Apps&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="wpg-link tracking-apps-link" href="/problem-generator"&gt;Problem Generator&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="mobile-apps-link tracking-apps-link" href="http://products.wolframalpha.com/mobile/"&gt;Mobile Apps&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="all-products-link tracking-apps-link" href="http://products.wolframalpha.com/"&gt;All Products&lt;/a&gt;&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/li&gt.
+&lt;li&gt;&lt;a href="/tour/" class="tracking-header-link"&gt;Tour&lt;/a&gt;&lt;/li&gt.
+&lt;li class="oauth"&gt.
+&lt;button class='signed-in icon-user-email'&gt;&lt;/button&gt.
+&lt;ul class='user-menu'&gt.
+&lt;div&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-favorites'&gt;Favorites&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-history'&gt;History&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-preferences'&gt;Preferences&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-downloads'&gt;Downloads&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-uploads'&gt;Uploads&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='/?lbox=auth-account'&gt;Account&lt;/a&gt;&lt;/li&gt.
+&lt;/div&gt.
+&lt;div&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/mywidgets/'&gt;My Widgets&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/myapps/'&gt;My API Apps&lt;/a&gt;&lt;/li&gt.
+&lt;/div&gt.
+&lt;/ul&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/nav&gt.
+&lt;/header&gt.
+&lt;div class="js-banner"&gt.
+&lt;img src="/exclam-icon.png"&gt;&lt;/img&gt.
+Enable Javascript to interact with content and submit forms on Wolfram|Alpha websites.
+&lt;a href="http://enable-javascript.com"&gt;Learn How &amp;raquo;&lt;/a&gt.
+&lt;/div&gt.
+Wolfram|Alpha Privacy Policy <p>We understand your concerns about how your information is used and shared, and we endeavor to use such information carefully and sensibly.
 This page explains how the information you provide is collected and used.</p> What Information Do We Collect? <p>We may collect both personally identifiable information about you and non-personally-identifiable information about your experience when you access the Wolfram|Alpha website.</p>
 <p>The personally identifiable information we collect on our website or through our service consists of information you submit to us, including your name, email address, and other personal information that you willingly provide.
 Because participation in these activities is voluntary, you have a choice whether or not to disclose such information.</p>
