@@ -44,6 +44,7 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>Close submenu ( Tops ) Tops <ul>
 <li> View All </li>
 <li> Tees </li>
+<li> Long Sleeve </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
 <li> Polos </li>
@@ -51,7 +52,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Hoodies + Sweatshirts </li>
 <li> Sweaters </li>
 <li> Bodysuits </li>
-<li> Active Tops </li>
 </ul>Close submenu ( Bottoms ) Bottoms <ul>
 <li> View All </li>
 <li> Jeans </li>
@@ -93,6 +93,7 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>Close submenu ( Tops ) Tops <ul>
 <li> View All </li>
 <li> Tees </li>
+<li> Long Sleeve </li>
 <li> Shirts </li>
 <li> Tanks </li>
 <li> Polos </li>
@@ -113,11 +114,9 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>Close submenu ( Girls Jeans ) Girls Jeans <ul>
 <li> View All </li>
 <li> Low Rise Ankle Jegging </li>
-<li> Cropped Skinny Kick </li>
 <li> Ankle Straight </li>
 <li> High Waisted Ankle Jegging </li>
 <li> High Waisted Jegging </li>
-<li> High Waisted Jegging Crop </li>
 <li> Low Rise Jegging </li>
 <li> Girlfriend </li>
 <li> Skinny </li>
@@ -251,6 +250,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Tops <ul>
 <li> View All </li>
 <li> Tees </li>
+<li> Long Sleeve </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
 <li> Polos </li>
@@ -258,7 +258,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Hoodies + Sweatshirts </li>
 <li> Sweaters </li>
 <li> Bodysuits </li>
-<li> Active Tops </li>
 </ul>
 </li>
 </ul>
@@ -310,6 +309,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Tops <ul>
 <li> View All </li>
 <li> Tees </li>
+<li> Long Sleeve </li>
 <li> Shirts </li>
 <li> Tanks </li>
 <li> Polos </li>
@@ -336,11 +336,9 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Girls Jeans <ul>
 <li> View All </li>
 <li> Low Rise Ankle Jegging </li>
-<li> Cropped Skinny Kick </li>
 <li> Ankle Straight </li>
 <li> High Waisted Ankle Jegging </li>
 <li> High Waisted Jegging </li>
-<li> High Waisted Jegging Crop </li>
 <li> Low Rise Jegging </li>
 <li> Girlfriend </li>
 <li> Skinny </li>
@@ -623,6 +621,7 @@ Conditions FOLLOW US Customer Care <ul>
 <li>Terms of Use</li>
 <li>Privacy Policy</li>
 <li>CA Transparency Act</li>
+<li>Supply Chain</li>
 </ul> Stay Connected <ul>
 <li>Live ChatCall Us</li>
 </ul> © 2017 Aeropostale.
