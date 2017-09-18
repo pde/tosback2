@@ -3,7 +3,7 @@
 &lt;textarea name="recaptcha_challenge_field" rows="2" cols="40"&gt;&lt;/textarea&gt.
 &lt;input type="hidden" name="recaptcha_response_field" value="manual_challenge"/&gt.
 Privacy &amp.
-Terms You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2017-09-17 05:40:43 UTC.<br> Trace: 0e9436b1-5f3c-4424-b357-6271df2eec6e via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e <ul>
+Terms You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2017-09-18 05:41:44 UTC.<br> Trace: 0efc5809-891e-41be-adc1-c16adbc50a82 via 0954f75f-e05f-454f-b961-272a7ba8ac05 <ul>
 <li> About </li>
 <li> Careers </li>
 <li> Help </li>
@@ -152,9 +152,8 @@ Terms You reached this page when attempting to access http://www.whitepages.com/
 <strong>Find</strong>
 <ul>
 <li> People Search </li>
-<li> Phone Search </li>
-<li> Address Search </li>
-<li> Business Search </li>
+<li> Reverse Phone </li>
+<li> Reverse Address </li>
 </ul>
 <strong>Your Whitepages</strong>
 <ul>
@@ -169,7 +168,7 @@ Terms You reached this page when attempting to access http://www.whitepages.com/
 <li> Whitepages Apps </li>
 <li> Phone Scams </li>
 <li> Developers </li>
-<li> Yellow Pages Search by State City Yellow Pages <ul>
+<li> Yellow Pages Search by Province City Yellow Pages <ul>
 <li> Atlanta </li>
 <li> Boston </li>
 <li> Chicago </li>
@@ -198,7 +197,7 @@ Terms You reached this page when attempting to access http://www.whitepages.com/
 <li> Washington, DC </li>
 </ul>
 </li>
-<li> White Pages Search by State City White Pages <ul>
+<li> White Pages Search by Province City White Pages <ul>
 <li> Atlanta </li>
 <li> Boston </li>
 <li> Chicago </li>
@@ -230,7 +229,7 @@ Terms You reached this page when attempting to access http://www.whitepages.com/
 <li> 411.com </li>
 </ul>
 <ul>
-<li> ZIP Codes </li>
+<li> Postal Codes </li>
 <li> Area Codes </li>
 <li> Phone Numbers </li>
 <li> People: <ul>
