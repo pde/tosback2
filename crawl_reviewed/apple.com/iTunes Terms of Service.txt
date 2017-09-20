@@ -22,6 +22,7 @@ If you enable Touch ID for Transactions, we will ask you to authenticate all Tra
 Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030.
 Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes.
 If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability).
+In accordance with local law, Apple may update information regarding your payment method if provided such information by your financial institution.
 For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582.
 All Transactions are final.
 Content prices may change at any time.
@@ -98,6 +99,8 @@ Devices can be associated with a different Apple ID once every 90 days.
 Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings.
 We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue.
 You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period.
+If we cannot charge your payment method for any reason (such as expiration or insufficient funds), and you have not cancelled the Paid Subscription, you remain responsible for any uncollected amounts, and we will attempt to charge the payment method as you may update your payment method information.
+This may result in a change to the start of your next Paid Subscription period and may change the date on which you are billed for each period.
 Certain Paid Subscriptions may offer a free trial prior to charging your payment method.
 If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends.
 </p>
@@ -127,12 +130,12 @@ Apple may monitor and decide to remove or edit any submitted material.
 <p>- plan or engage in any illegal, fraudulent, or manipulative activity.</p>
 <p>D.
 FAMILY SHARING</p>
-<p>Family Sharing allows you to share eligible Content with up to six members of a Family.
-The organizer of a Family invites other members to participate, and agrees to pay for all Transactions initiated by Family members (the “Organizer”).
-The Organizer must be 18 years or older and the parent or legal guardian of any Family member under age 13 or the equivalent minimum age in their Home Country (as set forth in the registration process).
+<p>The organizer of a Family (“Organizer”) must be 18 years or older and the parent or legal guardian of any Family member under age 13 or the equivalent minimum age in their Home Country (as set forth in the registration process).
 Apple devices are required for access to all of the Family Sharing features.
 </p>
-<p>The Organizer's payment method is used to pay for any Transaction initiated by a Family member (except when the Family member’s account has store credit, which is always used first).
+<p>Purchase Sharing: Family Sharing’s Purchase Sharing feature allows you to share eligible Content with up to six members of a Family.
+The Organizer invites other members to participate, and agrees to pay for all Transactions initiated by Family members.
+The Organizer's payment method is used to pay for any Transaction initiated by a Family member (except when the Family member’s account has store credit, which is always used first).
 Family members are acting as agents for the Organizer when the Organizer’s payment method is used.
 The Organizer hereby agrees (1) to pay for such Transactions, and (2) that Transactions initiated by Family members are authorized.
 Organizers are responsible for complying with their payment method contract, and assume all risk related to sharing access to the payment method with Family members.
@@ -140,13 +143,13 @@ A receipt or invoice for any Family member Transaction is sent to the initiating
 </p>
 <p>Ask to Buy: Ask to Buy is a convenient feature that allows an Organizer to approve each Transaction initiated by a Family member under age 18 (or the equivalent age of majority in your Home Country).
 The Organizer must be the parent or legal guardian of any Family member for whom Ask to Buy is activated.
-Products downloaded from Family members or acquired via redemption codes are not subject to Ask to Buy.</p>
+Content downloaded from Family members or acquired via redemption codes are not subject to Ask to Buy.</p>
 <p>Family Member changes: When a Family member leaves or is removed from the Family, the remaining Family members may no longer be able to access the former member’s Content, including Content acquired with the Organizer’s payment method.
 </p>
 <p>Family Sharing Rules: You can only belong to one Family at a time, and may join any Family no more than twice per year.
 You can change the Apple ID you associate with a Family no more than once every 90 days.
 All Family members must share the same Home Country.
-Not all Content, including In-App Purchases, subscriptions, and some previously acquired Apps, are eligible for Family Sharing.
+Not all Content, including In-App Purchases, subscriptions, and some previously acquired Apps, are eligible for Purchase Sharing.
 </p>
 <p>E.
 RECOMMENDATION FEATURES</p>
@@ -331,7 +334,7 @@ You are granted no right or license with respect to any of the aforesaid tradema
 <p>If you believe that any Content available through the Services infringe a copyright claimed by you, please contact Apple at the following locations: </p>
 <p>- iTunes Store: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/</p>
 <p>- App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/</p>
-<p>- iBooks Store: iBooks.Store.Notices@apple.com</p>
+<p>- iBooks Store: https://www.apple.com/legal/internet-services/itunes/ibooksstorenotices</p>
 <p>- Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html</p>
 <p>TERMINATION AND SUSPENSION OF SERVICES</p>
 <p>If you fail, or Apple suspects that you have failed, to comply with any of the provisions of this Agreement, Apple may, without notice to you: (i) terminate this Agreement and/or your Apple ID, and you will remain liable for all amounts due under your Apple ID up to and including the date of termination.
@@ -351,7 +354,7 @@ BECAUSE SOME COUNTRIES, STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR TH
 <p>APPLE SHALL USE REASONABLE EFFORTS TO PROTECT INFORMATION SUBMITTED BY YOU IN CONNECTION WITH THE SERVICES, BUT YOU AGREE THAT YOUR SUBMISSION OF SUCH INFORMATION IS AT YOUR SOLE RISK, AND YOU HEREBY RELEASE APPLE FROM ANY AND ALL LIABILITY TO YOU FOR ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY.</p>
 <p>APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICES WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND YOU HEREBY RELEASE APPLE FROM ANY LIABILITY RELATING THERETO.
 YOU SHALL BE RESPONSIBLE FOR BACKING UP YOUR OWN SYSTEM, INCLUDING ANY CONTENT ACQUIRED OR RENTED THROUGH THE SERVICES.</p>
-<p>APPLE IS NOT RESPONSIBLE FOR DATA CHARGES YOU MAY INCUR FOR DOWNLOADING OR STREAMING FILES OVER A DATA CONNECTION.
+<p>APPLE IS NOT RESPONSIBLE IN CONNECTION WITH YOUR USE OF THE SERVICES.
 </p>
 <p>WAIVER AND INDEMNITY</p>
 <p>BY USING THE SERVICES, YOU AGREE, TO THE EXTENT PERMITTED BY LAW, TO INDEMNIFY AND HOLD APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS HARMLESS WITH RESPECT TO ANY CLAIMS ARISING OUT OF YOUR BREACH OF THIS AGREEMENT, YOUR USE OF THE SERVICES, OR ANY ACTION TAKEN BY APPLE AS PART OF ITS INVESTIGATION OF A SUSPECTED VIOLATION OF THIS AGREEMENT OR AS A RESULT OF ITS FINDING OR DECISION THAT A VIOLATION OF THIS AGREEMENT HAS OCCURRED.
@@ -391,4 +394,6 @@ Apple may also contact you by email or push notification to send you additional 
 <p>You hereby grant Apple the right to take steps Apple believes are reasonably necessary or appropriate to enforce and/or verify compliance with any part of this Agreement.
 You agree that Apple has the right, without liability to you, to disclose any data and/or information to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate to enforce and/or verify compliance with any part of this Agreement (including but not limited to Apple's right to cooperate with any legal process relating to your use of the Services and/or Content, and/or a third-party claim that your use of the Services and/or Content is unlawful and/or infringes such third party's rights).</p>
 <p>Children under the age of majority should review this Agreement with their parent or guardian to ensure that the child and parent or legal guardian understand it.</p>
-<p>Last Updated: September 13, 2016</p> 
+<p>Last Updated: September 13, 2016<br>
+<br>
+</p> 
