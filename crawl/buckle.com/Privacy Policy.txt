@@ -8,7 +8,7 @@
 <li>Men</li>
 <li>Kids</li>
 <li>Jeans</li>
-<li>Trending</li>
+<li>New</li>
 <li>Sale</li>
 </ul>
 <ul>
@@ -21,7 +21,7 @@
 <li>Register</li>
 </ul>
 </li>
-<li>MY BAG</li>
+<li>MY BAGThere are no items in your bag!</li>
 </ul>
 <ul>
 <li>0MY FAVORITES</li>
@@ -253,7 +253,7 @@ Flips</li>
 </li>
 </ul>
 </li>
-<li>Trending<ul>
+<li>New<ul>
 <li>
 <ul>
 <li>Featured New</li>
