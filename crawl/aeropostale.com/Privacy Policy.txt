@@ -18,7 +18,7 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
-<li> Open submenu ( Features ) Features </li>
+<li> Open submenu ( Featured ) Featured </li>
 <li> Clearance </li>
 </ul>
 <ul>
@@ -32,7 +32,7 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 <ul>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
-</ul>Close submenu ( Features ) Features <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> $6 Tops </li>
 <li> New Arrivals </li>
@@ -70,7 +70,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Accessories </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
-<li> Open submenu ( Features ) Features </li>
+<li> Open submenu ( Featured ) Featured </li>
 <li> Clearance </li>
 </ul>
 <ul>
@@ -80,7 +80,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Open submenu ( Bottoms ) Bottoms </li>
 <li> Jackets + Vests </li>
 <li> Accessories </li>
-</ul>Close submenu ( Features ) Features <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Tapout </li>
@@ -97,6 +97,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Shirts </li>
 <li> Polos </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Sweaters </li>
 <li> Tanks </li>
 </ul>Close submenu ( Bottoms ) Bottoms <ul>
 <li> View All </li>
@@ -131,7 +132,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Relaxed </li>
 </ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
 <li> View Home </li>
-<li> Open submenu ( Features ) Features </li>
+<li> Open submenu ( Featured ) Featured </li>
 <li> Clearance </li>
 </ul>
 <ul>
@@ -144,7 +145,7 @@ Open submenu ( Clearance ) Clearance </li>
 <ul>
 <li> Undies </li>
 <li> Accessories </li>
-</ul>Close submenu ( Features ) Features <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> Trending </li>
 <li> Active </li>
@@ -214,6 +215,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Tees + Polos </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
@@ -224,9 +226,9 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Joggers + Sweats </li>
 <li> Leggings + Active </li>
 <li> Shorts </li>
-<li> Accessories </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Tees + Tanks </li>
 <li> Polos </li>
 <li> Shirts + Sweaters </li>
@@ -236,6 +238,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Accessories </li>
 </ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Active </li>
 <li> Lounge </li>
 <li> Tees </li>
@@ -246,7 +249,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Intimates </li>
 <li> Accessories </li>
 </ul>
-<strong>FREE SHIPPING ON $75</strong>
+<strong>$25 OFF $100</strong> USE CODE: <strong>25OFF</strong> + <strong>FREE SHIPPING ON $75</strong>
 <ul>
 <li>
 </li>
@@ -254,7 +257,7 @@ Open submenu ( Clearance ) Clearance </li>
 </ul> Menu Find a Store Aeropostale <ul>
 <li> Girls <ul>
 <li> View Home </li>
-<li> Features <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> $6 Tops </li>
 <li> New Arrivals </li>
@@ -309,10 +312,12 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 </li>
 </ul>
+<p>
+</p>
 </li>
 <li> Guys <ul>
 <li> View Home </li>
-<li> Features <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Tapout </li>
@@ -334,6 +339,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Shirts </li>
 <li> Polos </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Sweaters </li>
 <li> Tanks </li>
 </ul>
 </li>
@@ -350,6 +356,8 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Jackets + Vests </li>
 <li> Accessories </li>
 </ul>
+<p>
+</p>
 </li>
 <li> Jeans <ul>
 <li> View Home </li>
@@ -379,10 +387,12 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 </li>
 </ul>
+<p>
+</p>
 </li>
 <li> Live Love Dream <ul>
 <li> View Home </li>
-<li> Features <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> Trending </li>
 <li> Active </li>
@@ -420,6 +430,8 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Undies </li>
 <li> Accessories </li>
 </ul>
+<p>
+</p>
 </li>
 <li> Trending <ul>
 <li> View Home </li>
@@ -463,11 +475,14 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 </li>
 </ul>
+<p>
+</p>
 </li>
 <li> Clearance <ul>
 <li> View Home </li>
 <li> Girls <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Tees + Polos </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
@@ -478,13 +493,13 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Joggers + Sweats </li>
 <li> Leggings + Active </li>
 <li> Shorts </li>
-<li> Accessories </li>
 </ul>
 </li>
 </ul>
 <ul>
 <li> Guys <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Tees + Tanks </li>
 <li> Polos </li>
 <li> Shirts + Sweaters </li>
@@ -498,6 +513,7 @@ Open submenu ( Clearance ) Clearance </li>
 <ul>
 <li> Live Love Dream <ul>
 <li> View All </li>
+<li> Under $10 </li>
 <li> Active </li>
 <li> Lounge </li>
 <li> Tees </li>
@@ -510,6 +526,8 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>
 </li>
 </ul>
+<p>
+</p>
 </li>
 <ul>
 <li> Help - Live Chat Help - Call Us </li>
@@ -517,22 +535,22 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Refer a Friend </li>
 </ul>
 </ul> 0 Search Catalog
-Search Promotions Shop Girls Clearance Shop Guys Clearance shop girls shop guys shop girls jeans shop guys jeans <ul>
+Search Shop Girls Shop Guys Get In Store Coupon Promotions Shop Girls Shop Guys <ul>
+<li> Jackets + Vests
+Starting at $19.80 Shop Girls Shop Guys </li>
+<li> Joggers + Sweats
+Starting at $10.00 Shop Guys Shop Girls </li>
 <li> Hoodies
 Starting at $10.00 Shop Girls Shop Guys </li>
+<li> Tees
+Starting at $6.00 Shop Girls Shop Guys </li>
+<li> Jackets + Vests
+Starting at $19.80 Shop Girls Shop Guys </li>
 <li> Joggers + Sweats
-Starting at $10.00 Shop Girls Shop Guys </li>
-<li> Graphic Tees
-Starting at $6.00 Shop Girls Shop Guys </li>
-<li> Long Sleeves
-Starting at $6.00 Shop Girls Shop Guys </li>
+Starting at $10.00 Shop Guys Shop Girls </li>
 <li> Hoodies
 Starting at $10.00 Shop Girls Shop Guys </li>
-<li> Joggers + Sweats
-Starting at $10.00 Shop Girls Shop Guys </li>
-<li> Graphic Tees
-Starting at $6.00 Shop Girls Shop Guys </li>
-<li> Long Sleeves
+<li> Tees
 Starting at $6.00 Shop Girls Shop Guys </li>
 <ul>
 <li>1</li>
@@ -540,7 +558,7 @@ Starting at $6.00 Shop Girls Shop Guys </li>
 <li>3</li>
 <li>4</li>
 </ul>
-</ul> &lt;div class="browser-compatibility-alert"&gt.
+</ul> shop girls shop guys &lt;div class="browser-compatibility-alert"&gt.
 &lt;i class="fa fa-exclamation-triangle fa-2x pull-left"&gt;&lt;/i&gt.
 &lt;p class="browser-error"&gt;Your browser's Javascript functionality is turned off.
 Please turn it on so that you can experience the full capabilities of this site.&lt;/p&gt.
@@ -548,9 +566,7 @@ Please turn it on so that you can experience the full capabilities of this site.
 SIGN UP for email
 SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &amp.
 OFFERS Enter Your Email
-Sign Up © 2017 Aeropostale.
-All Rights Reserved.
-SIGN UP For AERO TEXTS Join the party!<br> Text JOIN to 237687.
+Sign Up SIGN UP For AERO TEXTS Join the party!<br> Text JOIN to 237687.
 Terms &amp.
 Conditions FOLLOW US Customer Care <ul>
 <li>Order Status</li>
@@ -575,4 +591,5 @@ Conditions FOLLOW US Customer Care <ul>
 </ul> Stay Connected <ul>
 <li>Live ChatCall Us</li>
 <li> Refer-A-Friend </li>
-</ul> 
+</ul> © 2017 Aeropostale.
+All Rights Reserved.
