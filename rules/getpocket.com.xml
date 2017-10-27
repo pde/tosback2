@@ -1,6 +1,6 @@
 <sitename name="getpocket.com">
   <docname name="Terms of Service">
-    <url name="https://getpocket.com/tos">
+    <url name="https://getpocket.com/tos" xpath="//div[@class='legacy-content']">
       <norecurse name="arbitrary"/>
     </url>
   </docname>
