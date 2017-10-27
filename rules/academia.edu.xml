@@ -1,11 +1,11 @@
 <sitename name="academia.edu">
  <docname name="Privacy Policy">
-   <url name="https://www.academia.edu/privacy" xpath="//div[@class='static-page-padded-content']">
+   <url name="https://www.academia.edu/privacy" xpath="//div[@class='static-page-padded-content no-reset']">
      <norecurse name="arbitrary" />
    </url>
  </docname>
 <docname name="Terms of Service">   
-   <url name="https://www.academia.edu/terms" xpath="//div[@class='static-page-padded-content']">
+   <url name="https://www.academia.edu/terms" xpath="//div[@class='static-page-padded-content no-reset']">
      <norecurse name="arbitrary" />
    </url>
  </docname>
