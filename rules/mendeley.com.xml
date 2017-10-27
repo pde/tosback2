@@ -1,0 +1,12 @@
+<sitename name="mendeley.com">
+ <docname name="Privacy Policy">
+   <url name="https://www.mendeley.com/terms/privacy" xpath="//div[@class='content']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Terms of Service">   
+   <url name="https://www.mendeley.com/terms/" xpath="//div[@class='content']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
