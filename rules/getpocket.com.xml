@@ -1,0 +1,12 @@
+<sitename name="getpocket.com">
+  <docname name="Terms of Service">
+    <url name="https://getpocket.com/tos">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://getpocket.com/privacy" xpath="//div[@class='legacy-content']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
