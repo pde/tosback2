@@ -78,6 +78,10 @@ class TOSBackDoc
   
   def download_and_filter_with_xpath
     begin
+      Capybara.register_driver :poltergeist do |app|
+        Capybara::Poltergeist::Driver.new(app, {phantomjs_options: ['--ssl-protocol=any']})
+      end
+
       session = Capybara::Session.new :poltergeist  
       session.driver.browser.js_errors = false
       session.driver.headers = {"User-Agent" => "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0"}
