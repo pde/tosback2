@@ -14,29 +14,21 @@
 <li> About Wells Fargo </li>
 </ul>
 <ul>
-<li>Banking</li>
-<li>Loans and Credit</li>
-<li>Insurance</li>
-<li>Investing and Retirement</li>
-<li>Wealth Management</li>
-<li>Rewards and Benefits</li>
-</ul>
-<p>We're sorry, but some features of our site require JavaScript.
-Please enable JavaScript on your browser and refresh the page.
-Learn More</p> Banking Accounts and Services <ul>
+<li>Banking
+Banking Accounts and Services <ul>
 <li>Checking Accounts</li>
 <li>Savings Accounts and CDs</li>
 <li>Debit and Prepaid Cards</li>
 <li>Credit Cards</li>
 <li>Foreign Exchange</li>
 <li>Global Remittance Services</li>
-</ul>   <ul>
+</ul>  
+<ul>
 <li>Online Banking</li>
 <li>Online Bill Pay</li>
 <li>Transfers</li>
 <li>Online Statements</li>
 <li>Mobile Banking</li>
-<li>Identity Theft Protection</li>
 </ul> Your Financial Goals <ul>
 <li>Tax Center</li>
 <li>Banking Made Easy</li>
@@ -49,14 +41,17 @@ Learn More</p> Banking Accounts and Services <ul>
 <li>Overdraft Services</li>
 <li>Get Help with Payment Challenges</li>
 <li>Open a Checking Account</li>
-<li>
-Apply for an Account or Service </li>
+<li>Apply for an Account or Service</li>
 </ul>
-<br> Loans and Credit Accounts and Services <ul>
+<br>
+</li>
+<li>Loans and Credit
+Loans and Credit Accounts and Services <ul>
 <li>Mortgage Loans</li>
 <li>Home Equity Lines</li>
 <li>Personal Lines and Loans</li>
-</ul>   <ul>
+</ul>  
+<ul>
 <li>Student Loans</li>
 <li>Auto Loans</li>
 <li>Credit Cards</li>
@@ -71,14 +66,17 @@ Apply for an Account or Service </li>
 <li>Auto Loan Rates</li>
 <li>Get Help with Payment Challenges</li>
 <li>Finish Application/Check Status</li>
-<li>
-Student Loan Discounts </li>
+<li>Student Loan Discounts</li>
 </ul>
-<br> Insurance Products and Services <ul>
+<br>
+</li>
+<li>Insurance
+Insurance Products and Services <ul>
 <li>Insurance Overview</li>
 <li>Auto Insurance</li>
 <li>Specialty Vehicle Insurance</li>
-</ul>   <ul>
+</ul>  
+<ul>
 <li>Homeowners Insurance</li>
 <li>Umbrella Liability Insurance</li>
 </ul> Your Financial Goals <ul>
@@ -90,7 +88,10 @@ Student Loan Discounts </li>
 <li>Small Business Insurance</li>
 <li>Commercial Insurance</li>
 </ul>
-<br> Investing and Retirement Ways to Invest <ul>
+<br>
+</li>
+<li>Investing and Retirement
+Investing and Retirement Ways to Invest <ul>
 <li>Invest Online</li>
 <li>Invest With Guidance</li>
 <li>Invest in Mutual Funds</li>
@@ -111,9 +112,11 @@ Student Loan Discounts </li>
 <li>Open a WellsTrade® Account</li>
 <li>Compare IRAs</li>
 <li>My Retirement Plan</li>
-<li>
-Employer Plan 401(k) Sign On </li>
-</ul> Wealth Management Wealth Services <ul>
+<li>Employer Plan 401(k) Sign On</li>
+</ul>
+</li>
+<li>Wealth Management
+Wealth Management Wealth Services <ul>
 <li>The Private Bank</li>
 <li>Wells Fargo Advisors</li>
 <li>Abbot Downing</li>
@@ -134,7 +137,10 @@ Guidance <ul>
 <li>Contact The Private Bank</li>
 <li>Contact Wells Fargo Advisors</li>
 <li>Contact Abbot Downing</li>
-</ul> Rewards and Benefits Go Far™ Rewards <ul>
+</ul>
+</li>
+<li>Rewards and Benefits
+Rewards and Benefits Go Far™ Rewards <ul>
 <li>Explore Rewards</li>
 <li>Earn Rewards</li>
 <li>Use Rewards</li>
@@ -150,17 +156,31 @@ Guidance <ul>
 <li>Go Far Rewards FAQs</li>
 <li>Credit Cards</li>
 </ul>
+</li>
+</ul>
+&lt;div id="msgnojs"&gt.
+&lt;p&gt;We're sorry, but some features of our site require JavaScript.
+Please enable JavaScript on your browser and refresh the page.
+&lt;a class="c13" href="/help/faqs/troubleshoot-faqs"&gt;Learn More&lt;/a&gt;&lt;/p&gt.
+&lt;/div&gt.
+&lt;img src="https://www04.wellsfargomedia.com/img/s.gif?Log=1&amp;amp;jsoff=true" alt="" /&gt.
 <br>
-<p>Navegó a una página que no está disponible en español en este momento.
-Seleccione el enlace si desea ver otro contenido en español.</p> Página principal <ul>
+<ul>
 <li>Personal</li>
 <li>Privacy, Security, and Legal</li>
 <li>Privacy Policies and Notices</li>
 <li>Wells Fargo Digital Privacy and Cookies Policy</li>
 </ul> Wells Fargo Digital Privacy and Cookies Policy <ul>
 <li> Print </li>
+<li> ShareFacebookTwitter </li>
+</ul>Beginning of popupShare this page<ul>
+<li>LinkedIn</li>
+<li>Google+</li>
+<li>Email</li>
 </ul>
-<p>
+<p>Choose a link above.
+We provide these links to external websites for your convenience.
+Wells Fargo does not endorse and is not responsible for their content, links, privacy policies, or security policies.</p>End of popup <p>
 <em>Date of most recent update: March 24, 2017</em>
 </p> Introduction and scope of policy <p>This Wells Fargo Digital Privacy and Cookies Policy (“Policy”) applies to your interaction with Wells Fargo &amp.
 Company or any of its subsidiaries (collectively, “Wells Fargo,” “we,” “us,” “our”), at any online or mobile site or application that we own and control (“Site”), unless a different online and/or mobile policy is posted at a particular site, or is made available to you and by its terms supplants this Policy.
@@ -253,4 +273,7 @@ Accessibility </li>
 </ul>
 <p>© 1999 - 2017 Wells Fargo.
 All rights reserved.
-NMLSR ID 399801</p> 
+NMLSR ID 399801</p>
+<p>Navegó a una página que no está disponible en español en este momento.
+Seleccione el enlace si desea ver otro contenido en español.</p>
+Página principal 
