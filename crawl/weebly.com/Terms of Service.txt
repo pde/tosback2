@@ -1,8 +1,5 @@
  <p>
-<strong>Last updated February 16, 2016</strong>
-</p>
-<p>
-<strong>Section 18:</strong> Added Email Marketing Service.<br> Updated Section Numbers<br>
+<strong>Last updated November 6, 2017</strong>
 </p>
 <br>
 <br> Content guidelines <p>These types of sites are not allowed on Weebly:</p>
@@ -11,6 +8,9 @@
 <strong>Adult</strong>:  involving nudity in a sexual context, exposed genitalia or adult themes</li>
 <li>
 <strong>Copyrighted Content</strong>:  music, movies or games that you do not own the rights to</li>
+<li>
+<strong>Hate Speech</strong>: content that promotes violence or incites hatred against certain individuals or groups, such as race, religion, ethnicity, gender, or sexual orientation.
+The foregoing are examples, and not meant to constitute an exhaustive list of individuals or groups that may be the target of hate speech.</li>
 <li>
 <strong>Spam/SEO</strong>:  a site whose sole purpose is to gain Google ranking, Facebook "likes", etc</li>
 <li>
@@ -77,7 +77,10 @@ Your rights in your content <p>Weebly does not claim ownership of your Content, 
 This permission exists only for as long as you continue to use the Service or remain an Account Holder.</p> 8.
 Content and conduct rules and obligations <p>All information, data, text, software, music, sound, photographs, graphics, video, messages, goods, products, services or other materials you post on a web site via the Service ("Content") are the sole responsibility of the person from which such Content originated.
 You are responsible for all Content that you upload, post, transmit or otherwise make available via the Service.
-We do not control the Content you post via the Service.</p>
+We do not control the Content you post via the Service.
+Your Content does not include non-personally identifiable buyer/seller transaction or behavioral data derived from the use of Weebly’s eCommerce platform (collectively, “Platform Data”).
+Weebly owns all Platform Data and uses it for Service operations, improvements, and analytics.
+You are also responsible for creating back-up copies of your Content.</p>
 <p>By using the Service, you may be exposed to content that is offensive, indecent or objectionable.
 Under no circumstances will we be liable for your Content or the content of any third party, including, but not limited to, for any errors or omissions in your Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted or otherwise made available via the Service.
 You acknowledge that we do not pre-screen Content, but that we shall have the right (but not the obligation) to refuse, move or delete any Content that is available via the Service.
@@ -118,9 +121,10 @@ This may include, without limitation, providing instructions on how to assemble 
 <li>include more than three ad units per page, or any advertising that greatly reduces the usability of the Site;</li>
 <li>upload files for the sole purpose of having them hosted by us and for use outside of a web site created using the Service (i.e., created with the Weebly editor);</li>
 <li>create a web site that provides an injurious user experience with custom programming.
-Examples include, but are not limited to, extreme flashing banners, excessive animated movement, or content that could provoke seizures in unsuspecting visitors.
+Examples include, but are not limited to, extreme flashing banners, excessive animated movement, or content that could provoke seizures in unsuspecting visitors;</li>
+<li>use, under any circumstance, any open source software subject to the GNU Affero General Public License v.3, or greater.
 or</li>
-<li>use, under any circumstance, any open source software subject to the GNU Affero General Public License v.3, or greater.</li>
+<li>Abuse our customer support email, chat, or telephone services or agents.</li>
 </ol>
 <p>We retain the right to terminate any account or user who has violated any of the above prohibitions.</p> 9.
 Selling Through Weebly <p>Some of our Services and Materials may offer you the opportunity to sell or purchase goods and services through sites hosted or designed by Weebly (such goods and services, “Commercial Products”).
@@ -163,16 +167,17 @@ YOU MAY TURN OFF THE AUTO-RENEW FEATURE FOR YOUR CURRENT CONTRACT AT ANY TIME.
 YOU MAY SEND CANCELLATION REQUESTS BY EMAILING HTTP://HC.WEEBLY.COM OR BY CALLING OUR HELP CENTER AT ANY TIME.
 </p> 11.
 Cancellation.
-Service Changes <p>If you cancel the Service, your cancellation will take effect immediately.
+Service Changes <p> If you cancel the Service, your cancellation will take effect immediately.
 After cancellation, you will no longer have access to your web site and we may delete all information on your web site.
 We accept no liability for such deleted information or content.
-<br>
-<br> For as long as we continue to offer the Service, we will provide and seek to update, improve, and expand the Service.
+</p>
+<p> For as long as we continue to offer the Service, we will provide and seek to update, improve, and expand the Service.
 As a result, we allow you to access the Service as it may exist and be available on any given day and have no other obligations, except as expressly stated in these Terms.
-We may modify (e.g., change data storage or capacity limits), replace, refuse access to, suspend or discontinue the Service, partially or entirely, or change and modify prices for all or part of the Services for you or for all our users in our sole discretion.
+We may modify (e.g., change data storage or capacity limits), replace, refuse access to, suspend or discontinue the Service, partially or entirely, or change and modify prices for all or part of the Services we offer in our sole discretion.
 All of these changes are effective upon their posting on our site or by direct communication to you unless otherwise noted.
 We further reserve the right to withhold, remove and or discard any Content available as part of your account, with or without notice if deemed by us to be contrary to these Terms.
 For avoidance of doubt, we have no obligation to store, maintain, or provide you a copy of any Content that you or others provide when using the Service.
+We also reserve the right to limit or cease phone or chat support to you if you consume a disproportionate amount of such customer services or otherwise negatively affect our ability to provide support to other customers (as determined in our sole discretion).
 </p> 12.
 Money Back Guarantee <p>All paid Weebly accounts, except month-to-month accounts, include a 30-day money back guarantee.
 If you are dissatisfied with such account service for any reason, you can receive a full refund if you cancel your account within 30 days of activation, or within 30 days of your contract being renewed.
@@ -201,8 +206,13 @@ We will inform you which payment processors are used when processing your paymen
 <li>PayPal - privacy policy</li>
 <li>Square - privacy policy</li>
 <li>Stripe - privacy policy</li>
+<li>Apple Pay - privacy policy</li>
+<li>Android Pay - privacy policy</li>
 </ul>
-<p>
+<p> Apple Pay and Android Pay are automatically activated for users who have selected Stripe as their payment processor.
+If you do not wish to accept Apple Pay or Android Pay as a payment type, it is your responsibility to deactivate Apple Pay and/or Android Pay.
+You can deactivate these payment options in your Store checkout settings.
+Your use of Apple Pay and Android Pay constitutes your acceptance of Apple Pay’s Acceptable Use Guidelines and/or Google/Android Pay’s (API) Terms of Service.
 </p> 14.
 Themes <p>If you choose, you may contribute website themes ("Custom Themes") to the Service for use by other users.
 You hereby grant and agree to grant us an exclusive, perpetual, sublicensable, worldwide, irrevocable, royalty-free right and license to use, copy, modify, and create derivative works of any Custom Themes contributed by you to the Service, including the HTML code and associated media assets.</p> 15.
@@ -285,20 +295,21 @@ and/or (b) deposit control of your registration record with the appropriate judi
 <br> You must notify us immediately if you lose the rights to a domain name registered by Weebly on your behalf.
 </p> 18.
 Email Marketing Service <p>For the email marketing services provided directly to you by Weebly (the “Email Marketing Service”), the following terms and conditions also apply.
-<b>Your use of the Email Marketing Service serves as your consent to these terms.</b> Weebly may suspend or terminate your access to and use of the Email Marketing Service if you do not comply with these terms.</p>
-<p>Your use of the Email Marketing Service must comply with all applicable domestic and international laws.
+<strong>Your use of the Email Marketing Service serves as your consent to these terms.</strong> Weebly may suspend or terminate your access to and use of the Email Marketing Service if you do not comply with these terms.</p>
+<p> Your use of the Email Marketing Service must comply with all applicable domestic and international laws.
 This includes the laws applicable to you and also laws applicable to Weebly and all recipients to whom you intend to send emails (each a “Recipient”).
 Examples of applicable laws include laws relating to spam or unsolicited commercial email (hereinafter “Spam” or “UCE”), privacy, security, obscenity, defamation, intellectual property, pornography, terrorism, homeland security, gambling, child protection, and other applicable laws.
 It is your responsibility to know and understand the laws applicable to your use of the Email Marketing Service and the emails you generate and send through the Email Marketing Service.
 Your use of the Email Marketing Service must also comply with the Privacy Notice applicable to the Email Marketing Service.
-Weebly’s Privacy Notice is available here.</p>
-<p>
-<b>You are solely responsible for your products and services and any other promotion and Content contained in or referred to in your emails sent through the Email Marketing Service.
-You agree to use the Email Marketing Service in a lawful, safe, and professional manner, consistent with industry best practices, including keeping reliable records.
-You are solely responsible for any and all statements you make and for all user assistance, warranty and support of your products and services.</b>
+Weebly’s Privacy Notice is available here.
 </p>
-<p>Your use of the Email Marketing Service must follow all applicable guidelines established by Weebly.
-The guidelines below are examples of practices that may violate these Terms when generating or sending email or messages through the Email Marketing Service:</p>
+<p>
+<strong>You are solely responsible for your products and services and any other promotion and Content contained in or referred to in your emails sent through the Email Marketing Service.
+You agree to use the Email Marketing Service in a lawful, safe, and professional manner, consistent with industry best practices, including keeping reliable records.
+You are solely responsible for any and all statements you make and for all user assistance, warranty and support of your products and services.</strong>
+</p>
+<p> Your use of the Email Marketing Service must follow all applicable guidelines established by Weebly.
+The guidelines below are examples of practices that may violate these Terms when generating or sending email or messages through the Email Marketing Service: </p>
 <p>
 <b>You will not:</b>
 </p>
@@ -443,17 +454,17 @@ THE HOSTING OF ANY THIRD PARTY SITE BY WEEBLY DOES NOT IMPLY AN ENDORSEMENT THER
 </ol>
 <p>
 </p> 21.
-Limitation of Liability <p> WE WILL NOT BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF WEEBLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE SERVICE.
+Limitation of Liability <p> TO THE EXTENT PERMITTED BY APPLICABLE LAW, WE WILL NOT BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF WEEBLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE SERVICE.
 (b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE.
 (c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA.
 (d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE.
 OR (e) ANY OTHER MATTER RELATING TO THE SERVICE.
 <br>
-<br> IN THE EVENT OF ANY PROBLEM WITH THE SITE, THE SERVICE, OR THE MATERIALS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO CEASE USING THE SITE, THE SERVICE, AND THE MATERIALS.
-UNDER NO CIRCUMSTANCES SHALL WEEBLY, ITS AFFILIATES, OR LICENSORS BE LIABLE IN ANY WAY FOR YOUR USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS, ANY INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OR OTHER RIGHTS OF THIRD PARTIES, OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF, OR RELATED TO, THE USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR ANY THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE.
+<br> IN THE EVENT OF ANY PROBLEM WITH THE SITE, THE SERVICE, OR THE MATERIALS, YOUR SOLE AND EXCLUSIVE REMEDY, AS PERMITTED BY APPLICABLE LAW, IS TO CEASE USING THE SITE, THE SERVICE, AND THE MATERIALS.
+TO THE MAXIMUM EXTENT PERMISSIBLE BY APPLICABLE LAW, NEITHER WEEBLY, ITS AFFILIATES, NOR LICENSORS SHALL BE LIABLE IN ANY WAY FOR YOUR USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS, ANY INFRINGEMENT OF THE INTELLECTUAL PROPERTY RIGHTS OR OTHER RIGHTS OF THIRD PARTIES, OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF, OR RELATED TO, THE USE OF THE SITE, THE SERVICE, THE MATERIALS, YOUR CONTENT, THE COMMERCIAL PRODUCTS OR ANY THIRD PARTY USER GENERATED CONTENT AVAILABLE ON OR THROUGH THE SITE.
 </p> 22.
-Exclusions and Limitations <p>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES.
-ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 19 AND 20 MAY NOT APPLY TO YOU.</p> 23.
+Exclusions and Limitations <p>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES AS SET FORTH IN SECTIONS 20 AND 21.
+ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 20 AND 21 MAY NOT APPLY TO YOU.</p> 23.
 U.S.
 Government Restricted Rights <p>The materials on the Service are provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the U.S.
 Government is subject to restrictions as set forth in applicable laws and regulations.
@@ -492,4 +503,13 @@ You agree that regardless of any statute or law to the contrary, any claim or ca
 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 You acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding.
 Further, more than one person's claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise.</p> 26.
-Violations <p>Please visit our Abuse page to report any violations of these Terms.</p>
+Violations <p>Please visit our Abuse page to report any violations of these Terms.</p> Change Log: <p>
+<strong>November 6, 2017</strong>: Section 8: Clarified ownership/back-up of “Content”.
+Section 8 and 11: Added additional customer support terms.
+Section 13: Added additional terms and conditions for Apple Pay and Android Pay.
+Sections 21 and 22: Clarified language in accordance with New Jersey Truth-In Consumer Contract Warranty &amp.
+Notice rights.
+Fixed some typos.</p>
+<p>
+<strong>February 2016</strong>: Section 18: Added Email Marketing Service.
+Updated Section numbers.</p>
