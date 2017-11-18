@@ -1,315 +1,52 @@
-
-&lt;!DOCTYPE html&gt.
-&lt;html class="no-js"&gt;&lt;!-- the "no-js" class is for Modernizr --&gt.
-&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html.
-charset=utf-8" /&gt;&lt;meta http-equiv="Expires" content="0" /&gt;&lt;meta name="Generator" content="Microsoft SharePoint" /&gt;&lt;meta name="Copyright" content="Copyright Scripps Networks Interactive, Inc" /&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt.
-&lt;!-- Robots --&gt.
-&lt;!-- end Robots --&gt.
-&lt;!-- Page Title (overridden by asp:content on pages or page layouts) --&gt.
-&lt;title&gt.
-Privacy Policy
-&lt;/title&gt.
-&lt;!-- end Page Title --&gt.
-&lt;!-- Favicon --&gt.
-&lt;link rel="shortcut icon" href="/Style Library/SNI/favicon.ico" type="image/vnd.microsoft.icon" /&gt.
-&lt;!-- end Favicon --&gt.
-&lt;!-- OOTB CSS --&gt.
-&lt;link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css"/&gt.
-&lt;link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/search.css?rev=T%2Bhraxktc1A8EnaG5gGMHQ%3D%3D"/&gt.
-&lt;link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=p63%2BuzTeSJc22nVGNZ5zwg%3D%3D"/&gt.
-&lt;!-- end OOTB CSS --&gt.
-&lt;!-- Page Manager (interacts with script and the SharePoint object model) --&gt.
-&lt;!-- end Page Manager --&gt.
-&lt;!-- Unified Logging Service --&gt.
-&lt;!-- end Unified Logging Service --&gt.
-&lt;!-- v4 Flag (identifies to scripting elements that this is a v4 master page) --&gt.
-&lt;script type="text/javascript"&gt.
-var _fV4UI = true.
-&lt;/script&gt.
-&lt;!-- end v4 Flag --&gt.
-&lt;!-- OOTB SharePoint JavaScript --&gt.
-&lt;script type="text/javascript"&gt.
-// &lt;![CDATA[
-document.write('&lt;script type="text/javascript" src="/_layouts/1033/init.js?rev=lEi61hsCxcBAfvfQNZA%2FsQ%3D%3D"&gt;&lt;/' + 'script&gt;').
-document.write('&lt;script type="text/javascript" src="/ScriptResource.axd?d=-ikBxGOoUmOWT8uPW2JAXzBirakK_tzbvtyYN64kEYFqYBwJwzoaxJrZ25wbA48sjzELOD6-r51ellC2w1g6l8SLP6Y3Wo7Qo3qJizA9wWkhNCwwumXifTMd_2lDh6EOg2cnRpfP2sq3JUuXx4nx6RUYMb01&amp;amp;t=2e2045e2"&gt;&lt;/' + 'script&gt;').
-document.write('&lt;script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"&gt;&lt;/' + 'script&gt;').
-// ]]&gt.
-&lt;/script&gt.
-&lt;!-- end OOTB SharePoint JavaScript --&gt.
-&lt;!-- SharePoint JavaScript Overrides --&gt.
-&lt;!-- JavaScript to override the active-x message in IE // See http://blog.drisgill.com/2010/02/removing-name-activex-control-warning.html for more info // Remove if the IM presence icons are needed in SharePoint --&gt.
-&lt;script type="text/javascript"&gt.
-function ProcessImn(){} function ProcessImnMarkers() { } &lt;/script&gt.
-&lt;!-- end SharePoint JavaScript Overrides --&gt.
-&lt;!-- AddThis (If needed.
-Must be referenced from head.) --&gt.
-&lt;script type="text/javascript"&gt.
-var addthis_config = { ui_cobrand: 'SNI', services_compact: 'email,print,facebook,myspace,twitter,google,favorites,linkedin,more', data_ga_property: 'UA-4825610-1' } var addthis_share = { screenshot: location.protocol + "//" + location.host + "/Style%20Library/SNI/Images/logo_scripps_networks_interactive_print.gif" } &lt;/script&gt.
-&lt;!-- end AddThis --&gt.
-&lt;!-- SWFObject for Flash Video Fall-back--&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/swfobject_v2.2.js"&gt;&lt;/script&gt.
-&lt;!-- end SWFObject--&gt.
-&lt;!-- Custom Style Sheet References --&gt.
-&lt;link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/smoothness/jquery-ui.css" /&gt;&lt;link rel="stylesheet" type="text/css" href="/Style Library/SNI/Ironworks_SP2010_Base.css" media="all" /&gt;&lt;link rel="stylesheet" type="text/css" href="/Style Library/SNI/SNI.css?Rev=10" media="all" /&gt;&lt;link rel="stylesheet" type="text/css" href="/Style Library/SNI/SNI_phone.css?Rev=11" media="all" /&gt.
-&lt;!--&lt;link rel="stylesheet" type="text/css" href="/Style Library/SNI/SNI_print.css" media="print" /&gt;--&gt.
-&lt;!-- end Custom Style Sheet References --&gt.
-&lt;!-- Additional Header Delegate Control --&gt.
-&lt;!-- end Additional Header Delegate Control --&gt.
-&lt;!-- Additional Header Placeholder (overridden by asp:content on pages or page layouts) --&gt.
-&lt;!-- end Additional Header Placeholder --&gt.
-&lt;!-- Additional Placeholders (Microsoft says these should always be inside the head tag) --&gt.
-&lt;!-- end Additional Placeholders --&gt.
-&lt;meta name="keywords" content="Privacy policy.
-Scripps Networks Interactive" /&gt;&lt;meta name="description" content="Scripps Networks Interactive&amp;amp;#39;s Privacy Policy" /&gt.
-&lt;!-- Omniture tracking script --&gt.
-&lt;script type="text/javascript" src="/076e416a6caa07234c15d9bd371ee9e19eef88d3/satelliteLib-f150d4dbf3908478a2ec5e21f9413f5480876e94.js"&gt;&lt;/script&gt.
-&lt;/head&gt.
-&lt;body&gt.
-&lt;form name="aspnetForm" method="post" action="" id="aspnetForm"&gt.
-&lt;input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" /&gt.
-&lt;input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" /&gt.
-&lt;input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" /&gt.
-&lt;input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" /&gt.
-&lt;input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" /&gt.
-&lt;input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" /&gt.
-&lt;input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" /&gt.
-&lt;input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x3A854DBEF0144E003FCC4DA0AD1F06F24737BC7483BD71C7D65B279A7F7098C6C8C8BD4E621B61622303F6DCC16DE5B90C3BB13E6FA07000BDDE295CEF0E320B,14 Nov 2017 12:02:23 -0000" /&gt.
-&lt;input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" /&gt.
-&lt;input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" /&gt.
-&lt;input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" /&gt.
-&lt;input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" /&gt.
-&lt;input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" /&gt.
-&lt;input type="hidden" name="_wpSelected" id="_wpSelected" value="" /&gt.
-&lt;input type="hidden" name="_wzSelected" id="_wzSelected" value="" /&gt.
-&lt;input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" /&gt.
-&lt;input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" /&gt.
-&lt;input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" /&gt.
-&lt;input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIED2QWEAIPD2QWAgIBD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwBoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BX1qYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3LnNjcmlwcHNuZXR3b3Jrc2ludGVyYWN0aXZlLmNvbScsIC0xLCAtMSwgJycsICcnKR4YQ2xpZW50T25DbGlja05hdmlnYXRlVXJsZB4oQ2xpZW50T25DbGlja1NjcmlwdENvbnRhaW5pbmdQcmVmaXhlZFVybGQeDEhpZGRlblNjcmlwdAUiVGFrZU9mZmxpbmVEaXNhYmxlZCgxLCA1MywgLTEsIC0xKWQCBQ8WAh8AaGQCAw8PFgoeCUFjY2Vzc0tleQUBLx4PQXJyb3dJbWFnZVdpZHRoAgUeEEFycm93SW1hZ2VIZWlnaHQCAx4RQXJyb3dJbWFnZU9mZnNldFhmHhFBcnJvd0ltYWdlT2Zmc2V0WQLrA2RkAgEPZBYEAgUPZBYCAgEPEBYCHwBoZBQrAQBkAgcPZBYCZg9kFgJmDxQrAANkZGRkAhcPZBYEZg8WAh8AaGQCAQ8WAh8AaGQCGQ9kFgICAQ9kFgJmDw9kFgYeBWNsYXNzBSJtcy1zYnRhYmxlIG1zLXNidGFibGUtZXggczQtc2VhcmNoHgtjZWxscGFkZGluZwUBMB4LY2VsbHNwYWNpbmcFATBkAh0PZBYCAgEPZBYCAgEPFgIeFVN0YXJ0RnJvbUN1cnJlbnROb2RlIGdkAiMPZBYCAgMPZBYCZg8PFgIeC18hRGF0YUJvdW5kZ2RkAiUPZBYCAgUPZBYCAgYPZBYEAgMPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgUPFgIfDwsrBAFkAicPZBYCAgEPZBYEZg8WAh8AaGQCAQ8WAh8AaGQCLQ9kFgICAQ9kFgJmD2QWAgIDD2QWAgIFDw8WBB4GSGVpZ2h0GwAAAAAAAHlAAQAAAB4EXyFTQgKAAWQWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkGAEFR2N0bDAwJFBsYWNlSG9sZGVyVG9wTmF2QmFyJFBsYWNlSG9sZGVySG9yaXpvbnRhbE5hdiRUb3BOYXZpZ2F0aW9uTWVudVY0Dw9kBQNTTklkPFvbF1dgio47JGPHdvSxPFj4KiE=" /&gt.
-&lt;script type="text/javascript"&gt.
-//&lt;![CDATA[
-var MSOWebPartPageFormName = 'aspnetForm'.
-var g_presenceEnabled = true.
-var g_wsaEnabled = false.
-var g_wsaLCID = 1033.
-var g_wsaSiteTemplateId = 'BLANKINTERNET#0'.
-var g_wsaListTemplateId = 850.
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{b320189b-e204-4477-bf03-c442c541b63b}",pageItemId:16, alertsEnabled:false, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus.
-function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};//]]&gt.
-&lt;/script&gt.
-&lt;script type="text/javascript"&gt.
-//&lt;![CDATA[
-function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) { CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fprivacy-policy").
-}
-//]]&gt.
-&lt;/script&gt.
-&lt;script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"&gt;&lt;/script&gt.
-&lt;script type="text/javascript"&gt.
-//&lt;![CDATA[
-if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]&gt.
-&lt;/script&gt.
-&lt;input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" /&gt.
-&lt;input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgL7ksi5CwKNwZneAgRSxZ/qY1gRNeUvZJSUkD6eb8ut" /&gt.
-&lt;!-- SharePoint Scripts Handler --&gt.
-&lt;!-- end SharePoint Scripts Handler --&gt.
-&lt;!-- Web Parts and Zones Controller --&gt.
-&lt;!-- end Web Parts and Zones Controller --&gt.
-&lt;!-- Accessibility Links --&gt.
-&lt;div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex"&gt.
-&lt;a id="linkTurnOnAcc" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;"&gt.
-Turn on more accessible mode &lt;/a&gt.
-&lt;/div&gt;&lt;!--end TurnOnAccessibility--&gt.
-&lt;div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex"&gt.
-&lt;a id="linkTurnOffAcc" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;"&gt.
-Turn off more accessible mode &lt;/a&gt.
-&lt;/div&gt;&lt;!--end TurnOffAccessibility--&gt.
-&lt;div class="s4-notdlg s4-skipribbonshortcut noindex"&gt.
-&lt;a href="javascript:;" onclick="javascript:this.href='#startNavigation';" class="ms-SkiptoNavigation" accesskey="Y"&gt.
-Skip Ribbon Commands &lt;/a&gt.
-&lt;/div&gt;&lt;!--end s4-notdlg--&gt.
-&lt;div class="s4-notdlg noindex"&gt.
-&lt;a href="javascript:;" onclick="javascript:this.href='#mainContent';" class="ms-SkiptoMainContent" accesskey="X"&gt.
-Skip to main content &lt;/a&gt.
-&lt;/div&gt;&lt;!--end s4-notdlg--&gt.
-&lt;!-- end Accessibility Links --&gt.
-&lt;!-- My Sites More Navigation Control (this control is more navigation for mysites, otherwise it is empty) --&gt.
-&lt;!-- end My Sites More Navigation Control --&gt.
-&lt;!-- ##### RIBBON ##### --&gt.
-&lt;!-- Dynamic Notification Area --&gt.
-&lt;div id="notificationArea" class="s4-noti"&gt;&lt;/div&gt.
-&lt;!-- end Dynamic Notification Area --&gt.
-&lt;!-- Page Editing Status Bar --&gt.
-&lt;div class="s4-notdlg"&gt.
-&lt;div id="statusBarContainer" class="s4-notdlg"&gt.
-&lt;div id="pageStatusBar" class="s4-status-s1"&gt;&lt;/div&gt.
-&lt;/div&gt.
-&lt;/div&gt.
-&lt;!-- end Page Editing Status Bar --&gt.
-&lt;!-- ##### end RIBBON ##### --&gt.
-&lt;!-- ##### BODY AREA ##### --&gt.
-&lt;!-- Spacer for Ribbon (Pushes #s4-bodyContainer down the page to allow room for the static-positioned ribbon.
-Only written to page if user has permissions that would allow them to see the ribbon.) --&gt.
-&lt;!-- end Spacer for Ribbon --&gt.
-&lt;!--full-sized background images for homepage--&gt.
-&lt;!-- DMoxin: For Pages Static Background.
-Our People--&gt.
-&lt;div id="pageWellWrapper"&gt.
-&lt;!-- this is hidden initially, and only shows up on printed pages --&gt.
-&lt;img src="/Style Library/SNI/Images/logo_scripps_networks_interactive_print.gif" class="printLogo" /&gt.
-&lt;!-- DMoxin: Place holder for 1) the divs that will hold the home page superbgs (home page layout) and 2) the video background (one column page layout)--&gt.
-&lt;div id="pageWell"&gt.
-&lt;!-- Scrolling Body Area Construct Containers (use them if ribbon is to remain statically positioned at the top of the page as it is by default OOTB) --&gt.
-&lt;div id="s4-workspace" class="s4-nosetwidth"&gt;&lt;!-- NOTE: s4-nosetwidth is used for fixed width layout.
-Remove for 100% liquid layout.
---&gt.
-&lt;div id="s4-bodyContainer"&gt.
-&lt;header&gt.
-&lt;div id="mastHead" class="s4-notdlg"&gt.
-&lt;div id="headSocial"&gt.
-&lt;table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%"&gt.
-&lt;tr&gt.
-&lt;td valign="top"&gt;&lt;div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="" &gt;​ &lt;ul class="socialMediaIcons"&gt.
-&lt;li class="facebook"&gt;&lt;a target="_blank" href="http://www.facebook.com/home.php#!/scripps.networks.interactive"&gt;Facebook&lt;/a&gt;&lt;/li&gt.
-&lt;li class="twitter"&gt;&lt;a target="_blank" href="http://www.twitter.com/scrippsnet"&gt;Twitter&lt;/a&gt;&lt;/li&gt.
-&lt;li class="linkedin"&gt;&lt;a target="_blank" href="http://www.linkedin.com/company/165888?trk=tyah"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt.
-&lt;li class="rss"&gt;&lt;a target="_blank" href="http://newsroom.scrippsnetworksinteractive.com/rss.xml"&gt;Rss Feed&lt;/a&gt;&lt;/li&gt.
-&lt;li class="instagram"&gt;&lt;a target="_blank" href="http://instagram.com/scrippsnetworks"&gt;Instagram&lt;/a&gt;&lt;/li&gt.
-&lt;/ul&gt.
-&lt;/div&gt;&lt;/td&gt.
-&lt;/tr&gt.
-&lt;/table&gt.
-&lt;/div&gt.
-&lt;!-- Site Logo (links back to site home page) --&gt.
-&lt;div id="logo"&gt;&lt;!-- NOTE: By applying the "s4-notdlg" class to an element, that element will be hidden from SharePoint dialog windows.
---&gt.
-&lt;a href="/"&gt;&lt;img src="/Style Library/SNI/Images/logo_scripps_networks_interactive.png" width="171" height="28" alt="Scripps Networks Interactive"/&gt;&lt;/a&gt.
-&lt;/div&gt.
-&lt;!-- end Site Logo --&gt.
-&lt;!-- Search Box (loads from delegate) --&gt.
-&lt;div id="mastHeadSearch"&gt.
-&lt;table class="s4-wpTopTable" border="1" cellpadding="0" cellspacing="0" width="100%"&gt.
-&lt;tr&gt.
-&lt;td&gt;&lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt.
-&lt;tr class="ms-WPHeader"&gt.
-&lt;td align="left" class="ms-wpTdSpace"&gt;&amp;#160;&lt;/td&gt;&lt;td title="" id="WebPartTitleWPQ2" class="ms-WPHeaderTd"&gt;&lt;h3 style="text-align:justify;" class="ms-standardheader ms-WPTitle"&gt;&amp;nbsp;&lt;span&gt;&lt;/span&gt;&lt;span id="WebPartCaptionWPQ2"&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/td&gt;&lt;td align="left" class="ms-wpTdSpace"&gt;&amp;#160;&lt;/td&gt.
-&lt;/tr&gt.
-&lt;/table&gt;&lt;/td&gt.
-&lt;/tr&gt;&lt;tr&gt.
-&lt;td class="ms-WPBorder" valign="top"&gt;&lt;div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" width="100%" class="noindex ms-wpContentDivSpace" OnlyForMePart="true" allowDelete="false" style="" &gt;&lt;div id="SRSB"&gt.
-&lt;div id="ctl00_PlaceHolderSearchArea_g_02e0bf19_7694_46f1_9957_22a48d295581"&gt.
-&lt;table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0"&gt.
-&lt;tr class="ms-sbrow"&gt.
-&lt;td class="ms-sbcell ms-sbtext"&gt;&lt;span title="Search" style="display:block;"&gt;Search&lt;/span&gt;&lt;/td&gt;&lt;td class="ms-sbcell"&gt;&lt;input name="ctl00$PlaceHolderSearchArea$g_02e0bf19_7694_46f1_9957_22a48d295581$SEF02AB3A_InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_g_02e0bf19_7694_46f1_9957_22a48d295581_SEF02AB3A_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return SEF02AB3A_OSBEK(event);" style="width:191px;" /&gt;&lt;/td&gt;&lt;td class="ms-sbgo ms-sbcell"&gt;&lt;a id="ctl00_PlaceHolderSearchArea_g_02e0bf19_7694_46f1_9957_22a48d295581_SEF02AB3A_go" title="Search" href="javascript:SEF02AB3A_Submit()"&gt;&lt;img title="Search" onmouseover="this.src='\u002fStyle\u002520Library\u002fSNI\u002fImages\u002fbtn_global_srch_go.png'" onmouseout="this.src='\u002fStyle\u002520Library\u002fSNI\u002fImages\u002fbtn_global_srch_go.png'" class="srch-gosearchimg" alt="Search" src="/Style%20Library/SNI/Images/btn_global_srch_go.png" border="0" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;td class="ms-sbLastcell"&gt;&lt;/td&gt.
-&lt;/tr&gt.
-&lt;/table&gt.
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt.
-&lt;/tr&gt.
-&lt;/table&gt.
-&lt;/div&gt;&lt;!--end mastHeadSearch--&gt.
-&lt;!-- end Search Box --&gt.
-&lt;!-- Primary Navigation --&gt.
-&lt;div class="s4-notdlg"&gt.
-&lt;!-- Primary Navigation Menu (set to use the new Simple Rendering) --&gt.
-&lt;nav id="primaryNavigation"&gt.
-&lt;span&gt;&lt;div id="zz1_TopNavigationMenuV4" class="s4-tn"&gt.
-&lt;div class="menu horizontal menu-horizontal"&gt.
-&lt;ul class="root static"&gt.
-&lt;li class="static selected"&gt;&lt;a class="static selected menu-item" title="Home" href="/" accesskey="1"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;SNI&lt;/span&gt;&lt;span class="ms-hidden"&gt;Currently selected&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;ul class="static"&gt.
-&lt;li class="static"&gt;&lt;a class="static menu-item" href="/our-company/"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Our Company&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="/careers/"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Careers&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="http://ir.scrippsnetworksinteractive.com/phoenix.zhtml?c=222475&amp;amp;p=irol-irhome"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Investors&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="http://newsroom.scrippsnetworksinteractive.com"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Newsroom&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt.
-&lt;/ul&gt;&lt;/li&gt.
-&lt;/ul&gt.
-&lt;/div&gt.
-&lt;/div&gt;&lt;div id="zz2_TopNavigationMenuV4Mobile" class="s4-tn mobile"&gt.
-&lt;div class="menu horizontal menu-horizontal"&gt.
-&lt;ul class="root static"&gt.
-&lt;li class="static"&gt;&lt;a class="static menu-item" href="/"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;SNI&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;ul class="static"&gt.
-&lt;li class="static"&gt;&lt;a class="static menu-item" href="/our-company"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Our Company&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="/careers"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Careers&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="http://ir.scrippsnetworksinteractive.com/phoenix.zhtml?c=222475&amp;amp;p=irol-irhome"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Investors&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="static"&gt;&lt;a class="static menu-item" href="http://newsroom.scrippsnetworksinteractive.com"&gt;&lt;span class="additional-background"&gt;&lt;span class="menu-item-text"&gt;Newsroom&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt.
-&lt;/ul&gt;&lt;/li&gt.
-&lt;/ul&gt.
-&lt;/div&gt.
-&lt;/div&gt;&lt;/span&gt.
-&lt;/nav&gt.
-&lt;!-- end Primary Navigation Menu --&gt.
-&lt;!-- Primary Navigation Publishing Data Source --&gt.
-&lt;!-- end Primary Navigation Publishing Data Source --&gt.
-&lt;/div&gt;&lt;!--end s4-notdlg--&gt.
-&lt;!-- end Primary Navigation --&gt.
-&lt;/div&gt;&lt;!--end mastHead--&gt.
-&lt;/header&gt.
-&lt;div id="tabNavigation"&gt.
-&lt;!-- Secondary Navigation --&gt.
-&lt;!-- Secondary Navigation Data Source --&gt.
-&lt;!-- end Secondary Navigation Data Source --&gt.
-&lt;!-- Secondary Navigation Menu --&gt.
-&lt;!-- Add This &lt;span class="addThis"&gt;&lt;a id="pageUtilBtnAddThis" href="http://www.addthis.com/bookmark.php"&gt;Share&lt;/a&gt;&lt;/span&gt.
-end Add This --&gt.
-&lt;!-- end Secondary Navigation Menu --&gt.
-&lt;!-- end Secondary Navigation --&gt.
-&lt;!-- Quick Launch Bar Secondary Menu (used only on certain pages) --&gt.
-&lt;!-- end Quick Launch Bar Secondary Menu --&gt.
-&lt;!-- Left Panel Callouts (to be overridden in page layouts to add content or web parts under left nav) --&gt.
-&lt;!-- end Left Panel Callouts --&gt.
-&lt;/div&gt;&lt;!--end tabNavigation div--&gt.
-&lt;!-- DMoxin: Content placeholder for 1) logos that display on the home page, 2) superBgContent for the homepage and 3) video player controls...OR any content that needs to reside above the panel container --&gt.
-&lt;div id="videoControls"&gt.
-&lt;div id="videoControlsCopy"&gt.
-&lt;menu class="ms-SrvMenuUI"&gt.
-&lt;ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none"&gt.
-&lt;/ie:menuitem&gt.
-&lt;/menu&gt.
-&lt;/div&gt;&lt;!--end superBgVideoCopy--&gt.
-&lt;div id="videoControlsControls"&gt.
-&lt;/div&gt.
-&lt;/div&gt;&lt;!-- end videoControls --&gt.
-&lt;!-- DMoxin: Content placeholder super bg content that appears on home page --&gt.
-&lt;!----&gt.
-&lt;!-- Panel Container --&gt.
-&lt;div id="panelContainer"&gt.
-&lt;div id="panelTabNavigation"&gt.
-&lt;!-- Tertiary Navigation --&gt.
-&lt;!-- Tertiary Navigation Data Source --&gt.
-&lt;!-- end Tertiary Navigation Data Source --&gt.
-&lt;!-- TertiaryNavigation Menu --&gt.
-&lt;nav&gt.
-&lt;span&gt.
-&lt;/span&gt.
-&lt;/nav&gt.
-&lt;!-- end Tertiary Navigation Menu --&gt.
-&lt;!-- end Tertiary Navigation --&gt.
-&lt;/div&gt.
-&lt;!-- Main Panel --&gt.
-&lt;div id="mainPanel"&gt;&lt;!-- Page Header --&gt;&lt;div id="pageHeader" class="s4-notdlg"&gt;&lt;!-- Breadcrumb Navigation --&gt;&lt;!-- end Breadcrumb Navigation --&gt;&lt;!-- Page Utilities --&gt;&lt;div id="pageUtilities"&gt;&lt;/div&gt;&lt;!--end pageUtilities--&gt;&lt;!-- end Page Utilities --&gt;&lt;/div&gt;&lt;!--end pageHeader--&gt;&lt;!-- end Page Header --&gt;&lt;!-- Named Anchor for Accessibility --&gt;&lt;a name="mainContent"&gt;&lt;/a&gt;&lt;!-- end Named Anchor for Accessibility --&gt;&lt;!-- The ID "MSO_ContentDiv" is required.
-it helps SharePoint put the web part editing pane in the main body on the right.
-The ID can be moved to another location if need be.
---&gt;&lt;div id="ctl00_MSO_ContentDiv"&gt;&lt;!-- Main Body --&gt;&lt;div id="mainBody"&gt;&lt;!-- Page Description --&gt;&lt;!-- end Page Description --&gt;&lt;!-- Page Title --&gt;&lt;!-- end Page Title --&gt;&lt;!-- Page Content (loads from the pages and page layouts) --&gt.
-&lt;div id="sectionPrimary" class="bottomGutter"&gt.
-&lt;!-- Title Page Content Field --&gt.
-&lt;h1&gt;&amp;nbsp;Privacy Policy&lt;/h1&gt.
-&lt;div id="ctl00_PlaceHolderMain_ctl02_label" style='display:none'&gt;Page Content&lt;/div&gt;&lt;div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl02_label"&gt;&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;PLEASE NOTE THAT OUR PRIVACY POLICY HAS
-CHANGED EFFECTIVE &lt;/span&gt;&lt;span class="ms-rteThemeBackColor-1-0" style="font-size:12pt;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial"&gt;JULY 13, 2016.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;This &amp;quot;&lt;b&gt;Privacy Policy&lt;/b&gt;&amp;quot.
+ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands Skip to main content ​ <ul>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>LinkedIn</li>
+<li>Rss Feed</li>
+<li>Instagram</li>
+</ul>    SearchSearch <ul>
+<li>SNICurrently selected<ul>
+<li>Our Company</li>
+<li>Careers</li>
+<li>Investors</li>
+<li>Newsroom</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>SNI<ul>
+<li>Our Company</li>
+<li>Careers</li>
+<li>Investors</li>
+<li>Newsroom</li>
+</ul>
+</li>
+</ul>  Privacy Policy Page Content<p>PLEASE NOTE THAT OUR PRIVACY POLICY HAS
+CHANGED EFFECTIVE JULY 13, 2016.<br>
+</p>
+<p>This "<b>Privacy Policy</b>"
 applies to the Websites controlled by Scripps Networks Interactive, Inc.
 and/or
-its subsidiary and affiliated entities (&amp;quot;&lt;b&gt;Scripps Networks&lt;/b&gt;&amp;quot;,
-&amp;quot;&lt;b&gt;us&lt;/b&gt;&amp;quot;, &amp;quot;&lt;b&gt;we&lt;/b&gt;&amp;quot;, or &amp;quot;&lt;b&gt;our&lt;/b&gt;&amp;quot;) where
-the Privacy Policy is posted.  &amp;quot;Websites&amp;quot.
-include sites hosted
+its subsidiary and affiliated entities ("<b>Scripps Networks</b>",
+"<b>us</b>", "<b>we</b>", or "<b>our</b>") where
+the Privacy Policy is posted.  "Websites" include sites hosted
 by one or more web servers {however accessed and/or used, whether via personal
-computers, mobile devices or otherwise (collectively, &amp;quot;Computer&amp;quot;)}
+computers, mobile devices or otherwise (collectively, "Computer")}
 and other interactive features, applications or downloads that are operated by
 us and that are available through, or interact with, Websites where this
 Privacy Policy is posted.  This Privacy Policy does not apply to our
 collection of information from other sources (unless specifically
 stated).  Please read the following to learn more about our Privacy
 Policy, which includes compliance with California Privacy Rights (see
-also &lt;/span&gt;&lt;a href="http://oag.ca.gov/privacy"&gt;&lt;span style="font-size:12pt;color:blue"&gt;http://oag.ca.gov/privacy​&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt"&gt;).&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;We have adopted this Privacy Policy to
+also http://oag.ca.gov/privacy​).</p>
+<p>We have adopted this Privacy Policy to
 explain what information may be collected on our Websites, how we use this
 information and under what circumstances we may disclose the information to
-third parties.  This Privacy Policy, together with the &lt;b&gt;Terms of Use&lt;/b&gt.
+third parties.  This Privacy Policy, together with the <b>Terms of Use</b>
 posted on our Websites, sets forth the general rules and policies governing
 your use of our Websites.  Depending on your activities when visiting our
-Websites, you may be required to agree to additional terms and conditions.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;We generally keep this Privacy Policy
+Websites, you may be required to agree to additional terms and conditions.</p>
+<p>We generally keep this Privacy Policy
 posted on our Websites and you should review it frequently, as we reserve the
 right to change it from time to time without prior notice to you.  Any
 changes will be effective immediately upon posting of the revised Privacy
@@ -319,20 +56,22 @@ the time it was collected without your consent.  WHEN YOU ACCESS OUR
 WEBSITES, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS
 PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP
 ACCESSING OUR WEBSITES.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;A.
+</p>
+<p> </p>
+<p>
+<b>A.
 INFORMATION WE
-COLLECT&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;br /&gt.
+COLLECT</b>
+<br>
 Our Websites typically collect two (2) kinds of information about you: (a)
 information that you provide that personally identifies you.
 and (b) information
 that does not personally identify you that we automatically collect when you
 visit our Website or that you provide us.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;1.
-Personally Identifiable Information:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;Our definition of personally
+</p>
+<p>1.
+Personally Identifiable Information:</p>
+<p>Our definition of personally
 identifiable information includes any information that may be used to
 specifically identify or contact you, such as your name, mail address, phone
 number, etc.  As a general policy, we do not automatically collect your
@@ -354,10 +93,10 @@ information (e.g., your age and name).  Whether or not you provide this
 information is your choice.
 however, in many instances this type of information
 is required to participate in the particular activity, realize a benefit we may
-offer or gain access to certain content on our Websites.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;2.
-Non-Personal Information:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;Our definition of non-personal
+offer or gain access to certain content on our Websites.</p>
+<p>2.
+Non-Personal Information:</p>
+<p>Our definition of non-personal
 information is any information that does not personally identify you. 
 Non-personal information can include certain personally identifiable information
 that has been de-identified.
@@ -367,18 +106,20 @@ non-personal information about you from information that you provide us, either
 separately or together with your personally identifiable information.  We
 and/or our third party service providers also automatically collect certain
 non-personal information from you when you access our Websites.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;Click &lt;a href="http://www.nielsen-netratings.com/privacy/sitecensus.htm"&gt;here&lt;/a&gt;&lt;/span&gt;&lt;span style="font-size:12pt"&gt; to learn more information about one way in which we use a
-third party service to collect and use information on our Websites.​​&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;B.
-HOW WE USE &amp;amp.
+</p>
+<p>Click here to learn more information about one way in which we use a
+third party service to collect and use information on our Websites.​​</p>
+<p> </p>
+<p>
+<b>B.
+HOW WE USE &amp.
 SHARE THE
-INFORMATION COLLECTED&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;1.
-Personally Identifiable Information:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;The personally identifiable information
+INFORMATION COLLECTED</b>
+</p>
+<p>1.
+Personally Identifiable Information:</p>
+<p> </p>
+<p>The personally identifiable information
 you submit to us is generally used to carry out your requests, respond to your
 inquiries, better serve you or in other ways naturally associated with the
 circumstances in which you provided the information.  We may also use this
@@ -395,9 +136,9 @@ your information or as otherwise set forth in this Privacy Policy.  You
 may opt-out from receiving future promotional information from us, or direct
 that we not share your information in the future with any affiliated companies
 or third parties for their direct marketing purposes, as set forth below in
-Section I.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;In certain instances we may also share
+Section I.</p>
+<p> </p>
+<p>In certain instances we may also share
 your personally identifiable information with our third-party vendors
 performing functions on our behalf (or on behalf of our affiliated companies) –
 e.g., vendors that process credit card orders, deliver our merchandise,
@@ -412,14 +153,14 @@ with us via our Websites (e.g., production companies we may use). 
 Further, we may share your personally identifiable information with third
 parties such as our co-promotional partners and others with whom we have
 marketing or other relationships.  Except as provided in this Privacy
-Policy, our &lt;b&gt;Terms of Use&lt;/b&gt;, or as set forth when you submit the
+Policy, our <b>Terms of Use</b>, or as set forth when you submit the
 information, your personally identifiable information will not be shared or
-sold to third parties without your consent.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;2.
-Non-Personal Information:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;In addition to any personally
+sold to third parties without your consent.</p>
+<p> </p>
+<p>2.
+Non-Personal Information:</p>
+<p> </p>
+<p>In addition to any personally
 identifiable information or other information that you choose to provide to us
 on the Websites, we and our third-party service providers may use a variety of
 technologies, now and hereafter devised, that automatically collect certain web
@@ -430,7 +171,7 @@ information.  We may use this usage information for a variety of purposes,
 including to enhance or otherwise improve the Websites.  In addition, we
 may also collect your IP address or some other unique identifier for the
 particular device you use to access the Internet, as applicable (collectively,
-referred to herein as a “&lt;b&gt;Device Identifier&lt;/b&gt;”).  A Device Identifier
+referred to herein as a “<b>Device Identifier</b>”).  A Device Identifier
 is a number that is automatically assigned to your Computer, and we may
 identify your device by its Device Identifier.  When analyzed, usage
 information helps us determine how our Websites are used, such as what types of
@@ -440,10 +181,10 @@ in particular kinds of content and advertising.  We may associate your
 Device Identifier or web site usage information with the personally
 identifiable information you provide, but we will treat the combined
 information as personally identifiable information.  Web site usage
-information may be collected using various methods, such as the following: &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;u&gt;&lt;span style="font-size:12pt"&gt;Web Beacons&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size:12pt"&gt.
-- Small graphic images or other web programming code
+information may be collected using various methods, such as the following: </p>
+<p> </p>
+<p>
+<u>Web Beacons</u> - Small graphic images or other web programming code
 called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included
 in our web pages and e-mail messages.  Web beacons may be invisible to
 you, but any electronic image or other web programming code inserted into a web
@@ -452,10 +193,10 @@ technologies may be used for a number of purposes, including, without
 limitation, to count visitors to the Websites, to monitor how users navigate
 the Websites, to count how many e-mails that were sent were actually opened or
 to count how many particular articles or links were actually viewed.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;u&gt;&lt;span style="font-size:12pt"&gt;Cookies&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size:12pt"&gt.
-- A cookie is a data file placed on a Computer when it
+</p>
+<p> </p>
+<p>
+<u>Cookies</u> - A cookie is a data file placed on a Computer when it
 is used to visit the Websites.  Cookies may be used for many purposes,
 including, without limitation, tracking user preferences and web pages visited
 while using the Websites.  You may be able to remove, reject and/or
@@ -468,10 +209,10 @@ or downloaded by you to your Computer.  While they are harmless, depending
 on your browser, these cookies may not be deleted when your cookies are deleted
 or disabled and, in some instances, they may cause your cookies to reappear in
 your browser.  Please check your browser to determine where these types of
-cookies are stored and how they may be deleted or disabled.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;u&gt;&lt;span style="font-size:12pt"&gt;Mobile Device Identifiers&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size:12pt"&gt.
-- Certain mobile service providers uniquely identify
+cookies are stored and how they may be deleted or disabled.</p>
+<p> </p>
+<p>
+<u>Mobile Device Identifiers</u> - Certain mobile service providers uniquely identify
 mobile devices and we or our third-party service providers may receive such
 device information if you access the Websites through mobile devices. 
 Certain features of our Websites may require collection of mobile phone
@@ -480,21 +221,21 @@ information.  Additionally, some mobile phone service providers operate
 systems that pinpoint the physical location of devices that use their service. 
 Depending on the provider, we or our third-party service providers may receive
 this information.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;u&gt;&lt;span style="font-size:12pt"&gt;Embedded Scripts&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size:12pt"&gt.
-- An embedded script is programming code that is designed
+</p>
+<p> </p>
+<p>
+<u>Embedded Scripts</u> - An embedded script is programming code that is designed
 to collect information about your interactions with the Websites, such as the
 links you click on.  The code is temporarily downloaded onto your Computer
 from our web server or a third-party service provider, is active only while you
 are connected to the Websites, and is deactivated or deleted thereafter.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;Information collected through passive
+</p>
+<p> </p>
+<p>Information collected through passive
 means may be non-identifying or may be associated with you.  In the latter
-case it will be treated as personally identifiable information. &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;We use non-personal information in a
+case it will be treated as personally identifiable information. </p>
+<p> </p>
+<p>We use non-personal information in a
 variety of ways, including to help analyze site traffic, understand customer
 needs and trends, carry out targeted promotional activities and to improve our
 services.  We may use your non-personal information by itself or aggregate
@@ -505,48 +246,49 @@ anonymous information that does not personally identify you.  We may
 provide our analysis and certain non-personal information to third parties (who
 may in turn use this information to provide advertisements tailored to your
 interests), but this will not involve disclosing any of your personally
-identifiable information.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoPlainText"&gt;&lt;span style="font-size:12pt"&gt;SNI participates in the Adobe Marketing Cloud Device Co-op to
+identifiable information.</p>
+<p> </p>
+<p>SNI participates in the Adobe Marketing Cloud Device Co-op to
 better understand how you use our Websites across the various devices you use,
 and to deliver tailored promotions.  Go
-to &lt;/span&gt;&lt;a href="https://cross-device-privacy.adobe.com/"&gt;&lt;span style="font-size:12pt"&gt;https://cross-device-privacy.adobe.com&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt"&gt.
-to
+to https://cross-device-privacy.adobe.com to
 learn more about how Adobe does this and to manage your choices relating to
-this linking of devices.  &lt;/span&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;3. Information You Provide About A
-Third Party &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;If you send someone else a
+this linking of devices.  </p>
+<p> </p>
+<p>3. Information You Provide About A
+Third Party </p>
+<p>If you send someone else a
 communication from the Websites, such as sending Website content to a friend,
 the information you provide (names, e-mail addresses, etc.) is used to
 facilitate the communication and is not used for any other marketing purpose
 unless we obtain consent from that person or we explicitly say otherwise. 
 Please be aware that when you use any send-to-a-friend functionality on our
 Websites, your e-mail address may be included in the communication sent to your
-friend&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;4.
+friend</p>
+<p> </p>
+<p>4.
 Information Third Parties Provide
-About You&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;We also may, from time to time,
+About You</p>
+<p>We also may, from time to time,
 supplement the information we collect with outside records from third parties
 in order to enhance our ability to serve you, to tailor our content to you and
 to offer you opportunities to purchase products or services that we believe may
-be of interest to you.&lt;b&gt;  &lt;/b&gt;We may combine the information we receive
+be of interest to you.<b>  </b>We may combine the information we receive
 from those other sources with information we collect through the
 Websites.  In those cases, we will apply this Privacy Policy to any
 personal identifiable information received, unless otherwise specifically
 disclosed by us at the time you provide your personally identifiable
 information.
-&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;C.
-OTHER USES&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;1.
-E-mail Communications:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;If you send us an e-mail with questions
+</p>
+<p> </p>
+<p>
+<b>C.
+OTHER USES</b>
+</p>
+<p>1.
+E-mail Communications:</p>
+<p> </p>
+<p>If you send us an e-mail with questions
 or comments, we may use your personally identifiable information to respond to
 your questions or comments, and we may save your questions or comments for
 future reference.  For security reasons, we do not recommend that you send
@@ -575,24 +317,24 @@ of receiving future commercial e-mail communications from us by clicking the
 of most e-mails we send, or as provided below in Section I.
 provided, however,
 we reserve the right to send you transactional e-mails such as customer service
-communications.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;2.
-Transfer of Assets:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;As we continue to develop our business,
+communications.</p>
+<p> </p>
+<p>2.
+Transfer of Assets:</p>
+<p> </p>
+<p>As we continue to develop our business,
 we may sell or purchase assets.  If another entity acquires us or all (or
 substantially all) of our assets, the personally identifiable information and
 non-personal information we have about you will be transferred to and used by
 this acquiring entity, though we will take reasonable steps to ensure that your
 preferences are followed.  Also, if any bankruptcy or reorganization
 proceeding is brought by or against us, all such information may be considered
-an asset of ours and as such may be sold or transferred to third parties.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;3.
-Other:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;Notwithstanding anything herein to the
+an asset of ours and as such may be sold or transferred to third parties.</p>
+<p> </p>
+<p>3.
+Other:</p>
+<p> </p>
+<p>Notwithstanding anything herein to the
 contrary, we reserve the right to disclose any personally identifiable or
 non-personal information about you if we are required to do so by law, with
 respect to notices and counter-notices pursuant to our DMCA notice and takedown
@@ -603,12 +345,12 @@ or legal process.
 (c) protect or defend our legal rights or property, our
 Websites, or other users.
 or (d) in an emergency to protect the health and
-safety of our Websites’ users or the general public.  &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;4.
-Sweepstakes Contests and Promotions:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;We may offer sweepstakes, contests, and
+safety of our Websites’ users or the general public.  </p>
+<p> </p>
+<p>4.
+Sweepstakes Contests and Promotions:</p>
+<p> </p>
+<p>We may offer sweepstakes, contests, and
 other promotions through the Websites that may require registration.  By
 entering any promotion, you are agreeing to the official rules that govern that
 promotion, which may contain specific requirements of you, including, except
@@ -619,12 +361,12 @@ promotion, personally identifiable information may be disclosed to third
 parties or the public in connection with the administration of such promotion,
 including, without limitation, in connection with winner selection, prize
 fulfillment, and as required by law or permitted by the promotion’s official
-rules, such as on a winners list.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;5.
-Your California Privacy Rights:&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;(a) Residents of the State of
+rules, such as on a winners list.</p>
+<p> </p>
+<p>5.
+Your California Privacy Rights:</p>
+<p> </p>
+<p>(a) Residents of the State of
 California, under certain provisions of the California Civil Code, have the
 right to request from companies conducting business in California a list of all
 third parties to which the company has disclosed certain personally
@@ -634,12 +376,12 @@ You are limited to one request
 per calendar year.
 In your request, please attest to the fact that you are a
 California resident and provide a current California address for our response.
-You may request the information in writing as provided in Section I.&lt;br /&gt.
- &lt;br /&gt.
+You may request the information in writing as provided in Section I.<br>
+ <br>
 (b)  How We Respond to Browser “Do Not Track” Signals.   Some
 web browsers incorporate a “Do Not Track” feature that signals to Websites that
 you visit that you do not want to have your online activity tracked. 
-California Business &amp;amp.
+California Business &amp.
 Professions Code Section 22575(b)(as amended
 effective January 1, 2014) provides that California residents are entitled to
 know how Scripps Networks Interactive responds to “Do Not Track” signals. 
@@ -649,15 +391,15 @@ technological communities.  For this reason, we do not respond to Do Not
 Track signals currently, and we await the result of work by the policy
 community and industry to determine when such a response is appropriate and
 what form it should take.  Scripps does provide a means for opting out of
-targeted advertising on our Websites, and that opt-out feature can be found &lt;/span&gt;&lt;a href="http://info.evidon.com/pub_info/1212?v=1&amp;amp;nt=1&amp;amp;nw=false"&gt;&lt;span style="font-size:12pt;color:blue"&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt"&gt;.
+targeted advertising on our Websites, and that opt-out feature can be found here.
 The effect of an opt-out will be to stop targeted advertising, but it will
 still allow the collection of usage data for certain purposes (e.g.
 research,
-analytics and internal online services operation purposes).&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;6.
-Third Party Ad Server Networks:&lt;br /&gt.
+analytics and internal online services operation purposes).</p>
+<p> </p>
+<p> </p>
+<p>6.
+Third Party Ad Server Networks:<br>
 The Websites may use third parties such as network advertisers to serve
 advertisements on the Websites and may use traffic measurement services to
 analyze traffic on the Websites.
@@ -684,14 +426,16 @@ with third party cookies may serve as web beacons, which enable third parties
 to carry out the previously described activities.
 Third party cookies, web
 beacons, and other third party technologies are governed by each third party’s
-specific privacy policy, not this one.&lt;b&gt.
-While we may use a variety of
+specific privacy policy, not this one.<b> While we may use a variety of
 companies to serve advertisements on the Websites, Scripps does provide a means
 for opting out of targeted advertising on our Websites, and that opt-out
-feature can be found &lt;/b&gt;&lt;/span&gt;&lt;a href="http://info.evidon.com/pub_info/1212?v=1&amp;amp;nt=1&amp;amp;nw=false"&gt;&lt;b&gt;&lt;span style="font-size:12pt;color:blue"&gt;here&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;.&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt; You may wish to visit &lt;/span&gt;&lt;a href="http://www.networkadvertising.org/optout_nonppii.asp"&gt;&lt;b&gt;&lt;span style="font-size:12pt;color:blue"&gt;http://www.networkadvertising.org/optout_nonppii.asp&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;, which provides information regarding the practice of behavioral
+feature can be found </b>
+<b>here</b>
+<b>.</b> You may wish to visit <b>http://www.networkadvertising.org/optout_nonppii.asp</b>
+<b>, which provides information regarding the practice of behavioral
 tracking by Network Advertising Initiative (“NAI”) members, and your choices
 regarding having this information used by these companies, including the
-“opt-out” procedures of NAI members&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;.
+“opt-out” procedures of NAI members</b>.
 Opting out of one or more NAI members only means that those NAI members will no
 longer be able to deliver targeted content and/or ads to you, which will affect
 this and other web sites, but does not mean you will no longer receive any
@@ -703,11 +447,13 @@ are configured to reject cookies when you visit this opt-out page, or you
 subsequently erase your cookies, use a different computer or change web
 browsers, your NAI opt-out may not, or may no longer, be effective.
 Additional
-information is available on the NAI’s web site accessible by the above link.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;D.
-PUBLIC FORUMS&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;We may offer chat rooms, message
+information is available on the NAI’s web site accessible by the above link.</p>
+<p> </p>
+<p>
+<b>D.
+PUBLIC FORUMS</b>
+</p>
+<p>We may offer chat rooms, message
 boards, bulletin boards or similar public forums where you and other users of
 our Websites can communicate.  The protections described in this Privacy
 Policy do not apply when you provide information (including personally
@@ -717,22 +463,26 @@ to identify you with a posting in a public forum.  Any information you
 share in a public forum is public information and may be seen or collected by anyone,
 including third parties that do not adhere to our Privacy Policy.  We are
 not responsible for events arising from the distribution of any information you
-choose to publicly post or share through our Website.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;E.
-CHILDREN&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt;The features, programs, promotions and other aspects of our
+choose to publicly post or share through our Website.</p>
+<p> </p>
+<p>
+<b>E.
+CHILDREN</b>
+</p>
+<p>The features, programs, promotions and other aspects of our
 Websites requiring personally identifiable information are not intended for
 children.  We do not knowingly collect personally identifiable information
 from children under the age of thirteen (13).  If you are a parent or guardian
 of a child under the age of thirteen (13) and believe he or she has disclosed
-personally identifiable information to us, please contact us at &lt;/span&gt;&lt;a href="mailto:privacy@scrippsnetworks.com?subject=SNI%20Privacy%20Policy"&gt;&lt;span style="font-size:12pt;color:blue"&gt;privacy@scrippsnetworks.com&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt"&gt;.  A parent or guardian of a child under the age of
+personally identifiable information to us, please contact us at privacy@scrippsnetworks.com.  A parent or guardian of a child under the age of
 thirteen (13) may review and request deletion of such child’s personally
-identifiable information as well as prohibit the use thereof.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;F.
-KEEPING YOUR INFORMATION SECURE &lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;We have implemented security measures
+identifiable information as well as prohibit the use thereof.</p>
+<p> </p>
+<p>
+<b>F.
+KEEPING YOUR INFORMATION SECURE </b>
+</p>
+<p>We have implemented security measures
 we consider reasonable and appropriate to protect against the loss, misuse and
 alteration of the information under our control.  Please be advised,
 however, that while we strive to protect your personally identifiable
@@ -750,22 +500,26 @@ take necessary measures to determine the scope of the breach and restore
 reasonable integrity to the system as well as for the legitimate needs of law
 enforcement if notification would impede a criminal investigation.  From
 time to time we evaluate new technology for protecting information, and when
-appropriate, we upgrade our information security systems.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;G.
-OTHER SITES/LINKS&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt;Our Websites may link to or contain
+appropriate, we upgrade our information security systems.</p>
+<p> </p>
+<p>
+<b>G.
+OTHER SITES/LINKS</b>
+</p>
+<p>Our Websites may link to or contain
 links to other third party websites that we do not control or maintain, such as
 in connection with purchasing products referenced on our Websites and banner
 advertisements.  We are not responsible for the privacy practices employed
 by any third party website.  We encourage you to note when you leave our
 Websites and to read the privacy statements of all third party websites before
-submitting any personally identifiable information.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;H.
-THIRD PARTY APPLICATIONS&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt;Third party applications may be available via the
-Websites.  The owners of these applications (“&lt;b&gt;Third Party Owners&lt;/b&gt;”)
+submitting any personally identifiable information.</p>
+<p> </p>
+<p>
+<b>H.
+THIRD PARTY APPLICATIONS</b>
+</p>
+<p>Third party applications may be available via the
+Websites.  The owners of these applications (“<b>Third Party Owners</b>”)
 may collect personally identifiable information from you and may have their own
 policies and practices.  We are not responsible for how Third Party Owners
 or their applications use your personally identifiable information.  These
@@ -773,17 +527,18 @@ Third Party Owners may have their own terms of service, privacy policies or
 other policies and ask you to agree to the same.  We are not responsible
 for these policies or the practices of Third Party Owners.  Be sure to
 review any available policies before submitting any personally identifiable
-information to a third party application or otherwise interacting with it.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;I.
-CONTACT &amp;amp.
-OPT-OUT INFORMATION&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;The Websites may include subscription
+information to a third party application or otherwise interacting with it.</p>
+<p> </p>
+<p>
+<b>I.
+CONTACT &amp.
+OPT-OUT INFORMATION</b>
+</p>
+<p>The Websites may include subscription
 and registration management tools that allow you to make changes regarding your
 preferences for receiving communications.
 Regardless of whether these tools are
-available through the Website, you may contact us as at &lt;/span&gt;&lt;a href="mailto:privacy@scrippsnetworks.com?subject=SNI%20Privacy%20Policy"&gt;&lt;span style="font-size:12pt;color:blue"&gt;privacy@scrippsnetworks.com&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size:12pt"&gt.
-if:  (a) you have questions or comments about our
+available through the Website, you may contact us as at privacy@scrippsnetworks.com if:  (a) you have questions or comments about our
 Privacy Policy.
 (b) wish to make corrections to any personally identifiable
 information you have provided to us.
@@ -794,7 +549,7 @@ or (d)
 wish to withdraw your consent to our future sharing of your personally
 identifiable information with third parties for their direct marketing
 purposes.
-&lt;br /&gt.
+<br>
 We will respond to your request and, if applicable and appropriate, make the
 requested change in our active databases as soon as reasonably
 practicable.  Please, note that we may not be able to fulfill certain
@@ -803,267 +558,51 @@ Websites.  Also, please note that it is not always possible to completely
 change, remove or delete all of your information from our databases and that
 residual data may remain on backup media or for other reasons.  Also, if
 you have made any public postings on the Websites such as in forums or blogs,
-these communications are generally not removed by us.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;J.
+these communications are generally not removed by us.</p>
+<p> </p>
+<p>
+<b>J.
 CONSENT TO TRANSFER INFORMATION TO
-THE UNITED STATES&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;The Websites are operated in the United
+THE UNITED STATES</b>
+</p>
+<p>The Websites are operated in the United
 States and intended for users located in the United States.  If you are
 located in the European Union, Canada or elsewhere outside of the United
 States, please be aware that information we collect will be transferred to and
 processed in the United States.  By using the Websites or providing us
 with any information, you consent to this transfer and processing of your
-information in the United States.&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt; &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;b&gt;&lt;span style="font-size:12pt"&gt;K.
-SOLE STATEMENT &lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:12pt"&gt;&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:5pt"&gt;&lt;span style="font-size:12pt"&gt;This Privacy Policy as posted is the sole statement of our
+information in the United States.</p>
+<p> </p>
+<p>
+<b>K.
+SOLE STATEMENT </b>
+</p>
+<p>This Privacy Policy as posted is the sole statement of our
 privacy policy with respect to the Websites, and no summary, modification,
 restatement or other version thereof or other privacy statement or policy, in
-any form, is valid unless we post a new or revised policy to the Websites. &lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal" style="margin-bottom:0.0001pt"&gt;&lt;span style="font-size:12pt"&gt;​​​​​​​​&lt;/span&gt;&lt;/p&gt.
-&lt;p class="MsoNormal"&gt; ​&lt;/p&gt.
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt.
-&lt;div class="hideIfEmpty"&gt.
-&lt;/div&gt.
-&lt;div id="littlePeopleContainer" class="hideIfEmpty"&gt.
-&lt;/div&gt.
-&lt;div id="oneColSplit"&gt.
-&lt;div class="leftColEven hideIfEmpty"&gt.
-&lt;/div&gt.
-&lt;div class="rightColEven hideIfEmpty"&gt.
-&lt;/div&gt.
-&lt;/div&gt.
-&lt;/div&gt;&lt;!--end sectionPrimary--&gt.
-&lt;!-- end Page Content --&gt;&lt;/div&gt;&lt;!--end mainBody--&gt;&lt;/div&gt;&lt;!--end MSO_ContentBody--&gt;&lt;!-- end Main Body --&gt;&lt;/div&gt.
-&lt;!-- end Main Panel --&gt.
-&lt;/div&gt.
-&lt;!-- end Panel Container --&gt.
-&lt;/div&gt;&lt;!--end s4-bodyContainer--&gt.
-&lt;!-- Footer --&gt.
-&lt;div class="clearfix"&gt;&lt;/div&gt.
-&lt;footer&gt.
-&lt;div id="footer" class="s4-notdlg"&gt.
-&lt;div id="pageFooter"&gt.
-&lt;div class="leftColumn"&gt.
-&lt;ul class="logoList"&gt.
-&lt;li&gt;&lt;img class="footerLogos scripps" src="/Style Library/SNI/Images/logo_scripps_footer.png" width="148" height="25" alt="Scripps Networks Interactive"/&gt;&lt;/li&gt.
-&lt;li&gt.
-&lt;table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%"&gt.
-&lt;tr&gt.
-&lt;td valign="top"&gt;&lt;div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="" &gt;​ &lt;ul class="socialMediaIcons"&gt.
-&lt;li class="facebook"&gt;&lt;a target="_blank" href="http://www.facebook.com/home.php#!/scripps.networks.interactive"&gt;Facebook&lt;/a&gt;&lt;/li&gt.
-&lt;li class="twitter"&gt;&lt;a target="_blank" href="http://www.twitter.com/scrippsnet"&gt;Twitter&lt;/a&gt;&lt;/li&gt.
-&lt;li class="linkedin"&gt;&lt;a target="_blank" href="http://www.linkedin.com/company/165888?trk=tyah"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt.
-&lt;li class="rss"&gt;&lt;a target="_blank" href="http://newsroom.scrippsnetworksinteractive.com/rss.xml"&gt;Rss Feed&lt;/a&gt;&lt;/li&gt.
-&lt;li class="instagram"&gt;&lt;a target="_blank" href="http://instagram.com/scrippsnetworks"&gt;Instagram&lt;/a&gt;&lt;/li&gt.
-&lt;/ul&gt.
-&lt;/div&gt;&lt;/td&gt.
-&lt;/tr&gt.
-&lt;/table&gt.
-&lt;/li&gt.
-&lt;/ul&gt.
-&lt;/div&gt;&lt;!--end leftColumn--&gt.
-&lt;div class="rightColumnOne"&gt;&lt;/div&gt.
-&lt;div class="rightColumnTwo"&gt.
-&lt;nav&gt.
-&lt;!-- Footer Nav --&gt.
-&lt;ul id="pageFooterNav"&gt;&lt;li&gt;&lt;a href="/privacy-policy/"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;&lt;li&gt;:&lt;/li&gt;&lt;li&gt;&lt;a href="/terms-of-use/"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;&lt;li&gt;:&lt;/li&gt;&lt;li&gt;&lt;a href="http://sni.custhelp.com/"&gt;FAQs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;:&lt;/li&gt;&lt;li&gt;&lt;a href="http://sni.custhelp.com/"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt.
-&lt;!-- end Footer Nav --&gt.
-&lt;/nav&gt.
-&lt;div id="pageFooterCopyright"&gt.
-&lt;p&gt;All Rights Reserved &amp;copy;&lt;span id="copyrightYear"&gt;&lt;/span&gt.
-Scripps Networks Interactive, Inc&lt;/p&gt.
-&lt;/div&gt;&lt;!--end pageFooterCopyright--&gt.
-&lt;/div&gt;&lt;!--end rightColumnTwo--&gt.
-&lt;/div&gt;&lt;!--end pageFooter--&gt.
-&lt;/div&gt;&lt;!--end footer--&gt.
-&lt;/footer&gt.
-&lt;!-- end Footer --&gt.
-&lt;!-- Developer Dashboard (can be turned on by administrators and shows debuging and performance info for the page) --&gt.
-&lt;div id="DeveloperDashboard" class="ms-developerdashboard"&gt.
-&lt;/div&gt.
-&lt;!-- end Developer Dashboard --&gt.
-&lt;/div&gt;&lt;!--end s4-workspace--&gt.
-&lt;/div&gt;&lt;!--end pageWell--&gt.
-&lt;/div&gt;&lt;!--end pageWell wrapper--&gt.
-&lt;!-- ##### end BODY AREA ##### --&gt.
-&lt;!-- Form Digest Security Control (used for security validation on forms) --&gt.
-&lt;!-- end Form Digest Security Control --&gt.
-&lt;!-- ##### HIDDEN PLACEHOLDERS ##### --&gt.
-&lt;div style="display:none;"&gt.
-&lt;/div&gt.
-&lt;!-- Search Event Handlers ("enter" key and back button) --&gt.
-&lt;input type="text" name="__spDummyText1" style="display:none;" size="1"/&gt.
-&lt;input type="text" name="__spDummyText2" style="display:none;" size="1"/&gt.
-&lt;!-- end Search Event Handlers --&gt.
-&lt;div id="ctl00_panelZone"&gt.
-&lt;div style='display:none' id='hidZone'&gt;&lt;/div&gt.
-&lt;/div&gt;&lt;input type='hidden' id='_wpcmWpid' name='_wpcmWpid' value='' /&gt;&lt;input type='hidden' id='wpcmVal' name='wpcmVal' value=''/&gt.
-&lt;script type="text/javascript"&gt.
-//&lt;![CDATA[
-var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date().
-window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null).
-}
-function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js').
-}
-_spBodyOnLoadFunctionNames.push('loadMDN1').
-function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) { SetAdditionalNavigateHierarchyQString(additionalQString).
-g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type).
-} g_originalSPNavigateFunc = _spNavigateHierarchy.
-_spNavigateHierarchy = _spNavigateHierarchyEx.
-function EnsureScripts(scriptInfoList, finalFunction)
-{
-if (scriptInfoList.length == 0)
-{
-finalFunction().
-}
-else
-{
-var scriptInfo = scriptInfoList.shift().
-var rest = function () { EnsureScripts(scriptInfoList, finalFunction).
-}.
-var defd.
-try
-{
-eval('defd = typeof(' + scriptInfo[1] + ');').
-}
-catch (e)
-{
-defd = 'undefined'.
-}
-if (scriptInfo[2])
-{
-EnsureScript(scriptInfo[0], defd, null).
-ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]).
-}
-else
-{
-EnsureScript(scriptInfo[0], defd, rest).
-}
-}
-}
-function PublishingRibbonUpdateRibbon()
-{
-var pageManager = SP.Ribbon.PageManager.get_instance().
-if (pageManager)
-{
-pageManager.get_commandDispatcher().executeCommand('appstatechanged', null).
-}
-}var _fV4UI = true.
-function _RegisterWebPartPageCUI()
-{ var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{b320189b-e204-4477-bf03-c442c541b63b}",itemId: 16,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}}.
-SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo).
-var wpcomp = SP.Ribbon.WebPartComponent.get_instance().
-var hid.
-hid = document.getElementById("_wpSelected").
-if (hid != null) { var wpid = hid.value.
-if (wpid.length &gt.
-0) { var zc = document.getElementById(wpid).
-if (zc != null) wpcomp.selectWebPart(zc, false).
-} } hid = document.getElementById("_wzSelected").
-if (hid != null) { var wzid = hid.value.
-if (wzid.length &gt.
-0) { wpcomp.selectWebPartZone(null, wzid).
-} }
-}
-ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js").
-var __wpmExportWarning='This Web Part Page has been personalized.
-As a result, one or more Web Part properties may contain confidential information.
-Make sure the properties contain information that is safe for others to read.
-After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.
-It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.
-To close this Web Part, click OK.
-To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.
-Are you sure you want to do this? To delete this Web Part, click OK.
-To keep this Web Part, click Cancel.';//]]&gt.
-&lt;/script&gt.
-&lt;script type="text/javascript" language="JavaScript" defer="defer"&gt.
-&lt;!--
-function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)).
-} _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function SEF02AB3A_Submit() {SearchEnsureSOD();GoSearch(null,'ctl00_PlaceHolderSearchArea_g_02e0bf19_7694_46f1_9957_22a48d295581_SEF02AB3A_InputKeywords',null,true,false,null,null,null,null,null,'\u002fSearch\u002fPages\u002fresults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fSearch\u002fPages\u002fresults.aspx', '', 'Please enter one or more search words.');}
-// --&gt.
-&lt;/script&gt;&lt;script type="text/javascript" language="JavaScript" &gt.
-// append an onload event handler
-$addHandler(window, 'load', function() { document.getElementById('ctl00_PlaceHolderSearchArea_g_02e0bf19_7694_46f1_9957_22a48d295581_SEF02AB3A_InputKeywords').name = 'InputKeywords'.
-}).
-function SEF02AB3A_OSBEK(event1) { if((event1.which == 10) || (event1.which == 13))
-{ SEF02AB3A_Submit();return false.
-}
-}
-// --&gt.
-&lt;/script&gt;&lt;script type="text/javascript"&gt.
-// &lt;![CDATA[
-// ]]&gt.
-&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy\u00252BA\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.js", "\u002f_layouts\u002fsp.js?rev=SpGB4\u00252FzYmCWpwoPWNG2dsg\u00253D\u00253D");RegisterSodDep("sp.js", "sp.core.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=k\u00252B4HtUzT9\u00252B3mSycgD7gPaQ\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=bewW9rgjZqv0mAB2FcLYLw\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("mdn.js", "\u002f_layouts\u002fmdn.js?rev=gwmFFJ2\u00252FfFacqXWAqG\u00252FqKg\u00253D\u00253D");RegisterSodDep("mdn.js", "sp.core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSod("search.js", "\u002f_layouts\u002fsearch.js?rev=BjP0\u00252BmPXUFhF7kDZmHIaVg\u00253D\u00253D");&lt;/script&gt.
-&lt;script type="text/javascript"&gt;RegisterSodDep("browserScript", "msstring.js");&lt;/script&gt.
-&lt;script type="text/javascript"&gt.
-//&lt;![CDATA[
-Sys.Application.initialize().
-function init_zz1_TopNavigationMenuV4() {$create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenuV4'));}ExecuteOrDelayUntilScriptLoaded(init_zz1_TopNavigationMenuV4, 'sp.js').
-function init_zz2_TopNavigationMenuV4Mobile() {$create(SP.UI.AspMenu, null, null, null, $get('zz2_TopNavigationMenuV4Mobile'));}ExecuteOrDelayUntilScriptLoaded(init_zz2_TopNavigationMenuV4Mobile, 'sp.js').
-//]]&gt.
-&lt;/script&gt.
-&lt;/form&gt.
-&lt;!-- Additional form for some instances --&gt.
-&lt;!-- end Additional form for some instances --&gt.
-&lt;!-- jQuery library and scripts references --&gt.
-&lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"&gt;&lt;/script&gt;&lt;!--Uncomment to include jQuery UI--&gt.
-&lt;!-- Custom Scrollbars --&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/jquery.jscrollpane.min.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/jquery.mousewheel.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/iscroll.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/Ironworks_SP2010_Base_functions.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/functions.js?Rev=3"&gt;&lt;/script&gt.
-&lt;!-- phone detection --&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/mobile-detect.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/array.from.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/jquery.touchSwipe.min.js"&gt;&lt;/script&gt.
-&lt;script type="text/javascript" src="/Style Library/SNI/Scripts/phoneDetect.js?Rev=9"&gt;&lt;/script&gt.
-&lt;!-- end phone detection --&gt.
-&lt;!-- end jQuery library and scripts references --&gt.
-&lt;!-- Google Analytics --&gt.
-&lt;script type="text/javascript"&gt.
-var _gaq = _gaq || [].
-_gaq.push( ['_setAccount', 'UA-4825610-1'], ['_setDomainName', 'scrippsnetworksinteractive.com'], ['_setAllowLinker', true], ['_addIgnoredRef', '.scrippsnetworks.com'], ['_addIgnoredRef', '.scrippsnetworksinteractive.com'], ['_trackPageview'] ).
-(function () { var ga = document.createElement('script').
-ga.type = 'text/javascript'.
-ga.async = true.
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'.
-var s = document.getElementsByTagName('script')[0].
-s.parentNode.insertBefore(ga, s).
-})().
-/* * Comment this out when we figure out the XSS stuff _gaq.push(function() { var pageTracker = _gat._getTrackerByName().
-var iframe = $('#sectionPrimary').find('iframe') if (iframe.length != 0 ) { iframe[0].src = pageTracker._getLinkerUrl(iframe[0].src).
-} }).
-*/ &lt;/script&gt.
-&lt;!-- jQuery script to track external links via google analytics --&gt.
-&lt;script type="text/javascript" src="/Style%20Library/SNI/Scripts/google_analytics.js?Rev=2"&gt;&lt;/script&gt.
-&lt;!-- end jQuery script to track external links via google analytics --&gt.
-&lt;!-- end Google Analytics --&gt.
-&lt;!-- Additional Footer Placeholder (overridden by asp:content on pages or page layouts) --&gt.
-&lt;!-- end Additional Footer Placeholder --&gt.
-&lt;!-- Browser Check for Warning (warn users of old browsers that they need to upgrade) --&gt.
-&lt;!-- end Browser Check for Warning --&gt.
-&lt;!-- Omniture tracking --&gt.
-&lt;script type="text/javascript"&gt;_satellite.pageBottom();&lt;/script&gt.
-&lt;/body&gt.
-&lt;/html&gt;
+any form, is valid unless we post a new or revised policy to the Websites. </p>
+<p>​​​​​​​​</p>
+<p> ​</p>
+<p>
+</p>
+<ul>
+<li>
+<li> ​ <ul>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>LinkedIn</li>
+<li>Rss Feed</li>
+<li>Instagram</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Privacy Policy</li>
+<li>:</li>
+<li>Terms of Use</li>
+<li>:</li>
+<li>FAQs</li>
+<li>:</li>
+<li>Contact Us</li>
+</ul>
+<p>All Rights Reserved ©2017 Scripps Networks Interactive, Inc</p> 
