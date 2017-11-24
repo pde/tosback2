@@ -1,5 +1,5 @@
 
-7aa3039f-3432-4719-9924-95ca591323bd <ul>
+3fb028d3-aa39-480a-9c7b-4d82e4068e57 <ul>
 <li> Search </li>
 <li> Contact Us </li>
 <li> My Account </li>
@@ -57,7 +57,14 @@ If this is incorrect, please update your ZIP Code.</p> GO  
 If this is incorrect, please update your ZIP Code.</p> GO <p>You do not have cookies enabled.
 In order for us to serve you better, please enable cookies.</p>
 <p>You have entered a zip code of less than 5 digits.
-Please enter a 5 digit zip code.</p>
+Please enter a 5 digit zip code.</p> &lt;div class="default xRef"&gt.
+&lt;!-- In Edit/Design mode Hide xref content when hideXrefContent is enabled--&gt.
+&lt;!-- In Disabled mode show no matter hideXrefContent is enabled/disabled --&gt.
+&lt;/div&gt.
+&lt;div class="default xRef"&gt.
+&lt;!-- In Edit/Design mode Hide xref content when hideXrefContent is enabled--&gt.
+&lt;!-- In Disabled mode show no matter hideXrefContent is enabled/disabled --&gt.
+&lt;/div&gt.
 <ul>
 <li> Order </li>
 <li> Packages </li>
@@ -65,7 +72,7 @@ Please enter a 5 digit zip code.</p>
 <li> Internet </li>
 <li> Phone </li>
 <li> Business </li>
-</ul> Find Best Offers * Street AddressApartment* Zip CodeGo<p>Why do I need to enter my exact address?</p> × Get Online Only Deals <p>Enter your address to see which offers are available for your home</p>
+</ul> Find Best Offers * Street Address Please enter your street address Apartment * Zip Code Please enter a valid five-digit zip code Go Why do I need to enter my exact address? × Get Online Only Deals <p>Enter your address to see which offers are available for your home</p>
 <p>Fields marked with an asterisk are required.</p> * Street Address Please enter your street address Apartment * Zip Code Please enter a valid five-digit zip code Go Why do I need to enter my exact address? Terms of Service/Policies Spectrum Terms of Service / Policies <p> </p>
 <p>Internet Authorized Usage Policy</p> SPECTRUM INTERNET ACCEPTABLE USE POLICY
 <p>In order to provide high quality customer service and to ensure the integrity, security, and reliability of the Internet Network of Charter Communications Operating LLC and its respective affiliates and subsidiaries providing services (“Spectrum”), Spectrum has created this Acceptable Use Policy (AUP).
@@ -1670,42 +1677,710 @@ Ningún convenio, representación o garantía ofrecidos por un agente o represen
 <li>
 <p>Watch us on Youtube</p>
 </li>
-</ul>
-<ul>
-<li>
-</li>
-<li> My Account Locations Contact Us Services in My Area Moving? </li>
-<li> Existing Customers+ </li>
-<li> Pay Your Bill My Account Support Store Locations Moving? Check Email Contact Us TWC Apps® Channel Lineup Accessibility Regulatory FCC Public Inspection File Former Time Warner Cable Customers Spectrum News Hub Spectrum Sports Hub </li>
-</ul>
-<ul>
-<li>
-</li>
-<li>
-</li>
-</ul>
-<ul>
-<li> Products+ </li>
-<li> Spectrum TV Spectrum Internet Spectrum Voice </li>
-</ul>
-<ul>
-<li> Spectrum TV+ </li>
-<li> HD &amp.
-DVR On Demand Spectrum TV App Genres Premium Channels Why Spectrum? </li>
-</ul>
-<ul>
-<li> Spectrum Internet+ </li>
-<li> Fastest Internet Test Your Speed Total Home WiFi Security Suite® Why Spectrum? Spectrum Wi-Fi Hotspots Spectrum Internet Assist </li>
-</ul>
-<ul>
-<li> Spectrum Voice+ </li>
-<li> Calling Features International Calling Family Safety Features Get Spectrum Voice </li>
-</ul>
-<ul>
-<li> Charter Info+ </li>
-<li> Careers Customer Disclosures Contract Buyout Information About Charter Weather Outages Investor Relations Newsroom Your Privacy Rights Terms of Service/Policies IP Interconnection Accessibility FCC Public Inspection File Service Rates &amp.
-Disclosures Site Map </li>
-</ul>
+</ul> &lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="a1c4c546-12a6-46e8-81a4-b0d171c9d1a4" &gt.
+&lt;div class="pb-10"&gt;&lt;img src="/content/dam/spectrum/residential/en/images/global/logos/spectrum_logo_white_footer.png" alt="Charter Communications" class="img-responsive"&gt;&lt;/div&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#a1c4c546-12a6-46e8-81a4-b0d171c9d1a4').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="c9f5cd48-b050-4216-9d1c-7de6ac83e2b1" &gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#c9f5cd48-b050-4216-9d1c-7de6ac83e2b1').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="layoutContainer"&gt.
+&lt;div class="aem-Grid aem-Grid--12"&gt.
+&lt;div class="aem-GridColumn--sm--6 aem-GridColumn linkComponent"&gt.
+&lt;div data-id="b129f496-e434-4a8b-b0d5-5ced032071b8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://www.charter.net/login/?referer=myaccount" target="_self" data-target="#" data-linkname="My Account" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+My Account &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="b129f496\-e434\-4a8b\-b0d5\-5ced032071b8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="aem-GridColumn--sm--6 aem-GridColumn linkComponent"&gt.
+&lt;div data-id="8af3648d-232d-4a7b-9817-60932b29035d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://www.charter.com/browse/content/store-locations-adp" target="_self" data-target="#" data-linkname="Locations" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Locations &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="8af3648d\-232d\-4a7b\-9817\-60932b29035d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="aem-GridColumn--sm--6 aem-GridColumn linkComponent"&gt.
+&lt;div data-id="5a727a66-0c95-466a-b38c-4d64f770062a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/contact/contact.html" target="_self" data-target="#" data-linkname="Contact Us" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Contact Us &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="5a727a66\-0c95\-466a\-b38c\-4d64f770062a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="aem-GridColumn--sm--6 aem-GridColumn linkComponent"&gt.
+&lt;div data-id="8ee95445-5893-408a-94dc-50f8890e658d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/services.html" target="_self" data-target="#" data-linkname="Services in My Area" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Services in My Area &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="8ee95445\-5893\-408a\-94dc\-50f8890e658d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="aem-GridColumn--sm--6 aem-GridColumn linkComponent"&gt.
+&lt;div data-id="6018e281-f726-47c0-8de5-980cff6b769e" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/lp/moving-is-easy.html" target="_self" data-target="#" data-linkname="Moving?" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Moving? &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="6018e281\-f726\-47c0\-8de5\-980cff6b769e"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="new section aem-Grid-newComponent"&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="453e47a5-488c-4e08-bfae-7946c0bad526" &gt.
+&lt;h3 class="expand border-b-w"&gt;Spectrum Bundles&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#453e47a5-488c-4e08-bfae-7946c0bad526').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="24e57f1a-5337-438c-8846-b8cb5666685d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/packages.html" target="_self" data-target="#" data-linkname="Spectrum Triple Play Select" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Triple Play Select &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="24e57f1a\-5337\-438c\-8846\-b8cb5666685d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="fd66d5d3-121b-46ee-99dd-355ebe658f84" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/packages.html" target="_self" data-target="#" data-linkname="Spectrum Triple Play Silver" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Triple Play Silver &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="fd66d5d3\-121b\-46ee\-99dd\-355ebe658f84"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="270c7414-e3b8-45b1-a1d4-600a6062959d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/packages.html" target="_self" data-target="#" data-linkname="Spectrum Triple Play Gold" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Triple Play Gold &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="270c7414\-e3b8\-45b1\-a1d4\-600a6062959d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="a53bf2ae-9a6e-42bc-a0d9-457c94caee8d" &gt.
+&lt;h3 class="expand border-b-w"&gt;Products&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#a53bf2ae-9a6e-42bc-a0d9-457c94caee8d').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="c3019374-03a2-4152-ac21-1fc57eda69b7" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv.html" target="_self" data-target="#" data-linkname="Spectrum TV" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum TV &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="c3019374\-03a2\-4152\-ac21\-1fc57eda69b7"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="f1c1f010-2734-457c-9949-2695a689d64b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet.html" target="_self" data-target="#" data-linkname="Spectrum Internet" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Internet &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="f1c1f010\-2734\-457c\-9949\-2695a689d64b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="961bf9d3-a280-42a9-8aa1-b855fa1b2d19" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/home-phone.html" target="_self" data-target="#" data-linkname="Spectrum Voice" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Voice &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="961bf9d3\-a280\-42a9\-8aa1\-b855fa1b2d19"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="e6dd75de-b5bf-48a6-86c3-a0984063f78b" &gt.
+&lt;h3 class="expand border-b-w"&gt;Spectrum TV&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#e6dd75de-b5bf-48a6-86c3-a0984063f78b').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="37c0d472-c872-412a-96fd-7273656668fb" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#free-hd" target="_self" data-target="#" data-linkname="HD &amp;amp.
+DVR" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+HD &amp;amp.
+DVR &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="37c0d472\-c872\-412a\-96fd\-7273656668fb"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="d014b5de-46a7-4bac-8ee2-9183a5598e04" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#on-demand" target="_self" data-target="#" data-linkname="On Demand" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+On Demand &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d014b5de\-46a7\-4bac\-8ee2\-9183a5598e04"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="dc58231d-1687-4bf3-b6e9-ac2a420726cb" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#tv-everywhere" target="_self" data-target="#" data-linkname="Spectrum TV App" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum TV App &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="dc58231d\-1687\-4bf3\-b6e9\-ac2a420726cb"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="ca68e502-5b7d-4cd9-851d-b1ce96413996" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#channel-genres" target="_self" data-target="#" data-linkname="Genres" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Genres &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="ca68e502\-5b7d\-4cd9\-851d\-b1ce96413996"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="05ebc0ef-3b0c-4a19-9b4a-a643e0e4f93b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#premiums-tabs" target="_self" data-target="#" data-linkname="Premium Channels" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Premium Channels &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="05ebc0ef\-3b0c\-4a19\-9b4a\-a643e0e4f93b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="d505c49e-207d-44ba-b869-e3e8a0040a02" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/browse/content/new-channel-lineup.html" target="_self" data-target="#" data-linkname="Channel Lineup" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Channel Lineup &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d505c49e\-207d\-44ba\-b869\-e3e8a0040a02"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="124eb6d1-4826-497c-b5bf-1b141ee5c9f4" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/cable-tv#why" target="_self" data-target="#" data-linkname="Why Spectrum?" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Why Spectrum? &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="124eb6d1\-4826\-497c\-b5bf\-1b141ee5c9f4"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="2686ab35-474d-4939-846f-196811ca5199" &gt.
+&lt;h3 class="expand border-b-w"&gt;Spectrum Internet&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#2686ab35-474d-4939-846f-196811ca5199').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="71fc9a9d-b1be-46d7-ae2b-4949d363bc19" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet#fastestinternet" target="_self" data-target="#" data-linkname="Fastest Internet" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Fastest Internet &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="71fc9a9d\-b1be\-46d7\-ae2b\-4949d363bc19"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="65f01318-a6dd-40fd-8b64-222a6e4d9c9b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet#speedtest" target="_self" data-target="#" data-linkname="Test Your Speed" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Test Your Speed &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="65f01318\-a6dd\-40fd\-8b64\-222a6e4d9c9b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="d4cfc02c-656f-4f81-8886-6600282c0999" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet#wifi" target="_self" data-target="#" data-linkname="Total Home WiFi" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Total Home WiFi &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d4cfc02c\-656f\-4f81\-8886\-6600282c0999"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="f3b7dd34-4dc3-48a3-90fa-6a64cb093780" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet#security" target="_self" data-target="#" data-linkname="Security Suite®" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Security Suite® &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="f3b7dd34\-4dc3\-48a3\-90fa\-6a64cb093780"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="01c2b6f8-adaf-4385-abc1-3a2cf7b1f5b0" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/internet#spectruminternet" target="_self" data-target="#" data-linkname="Why Spectrum?" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Why Spectrum? &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="01c2b6f8\-adaf\-4385\-abc1\-3a2cf7b1f5b0"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="b44837de-1f52-4a28-8edb-d040eeb02eb0" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/wifi-hotspots" target="_self" data-target="#" data-linkname="wifi_hotspots" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Wi-Fi Hotspots &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="b44837de\-1f52\-4a28\-8edb\-d040eeb02eb0"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="62d07ab5-2ebf-46c8-9fa5-0c9f1f58e1fb" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://www.charter.com/browse/content/spectrum-internet-assist" target="_self" data-target="#" data-linkname="Spectrum Internet Assist" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Internet Assist &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="62d07ab5\-2ebf\-46c8\-9fa5\-0c9f1f58e1fb"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="e00842e3-775e-44e6-a410-50dc8141463e" &gt.
+&lt;h3 class="expand border-b-w"&gt;Spectrum Voice&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#e00842e3-775e-44e6-a410-50dc8141463e').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="a61fa166-8efb-4466-bb07-a7f4727e60b5" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/home-phone#voice-features" target="_self" data-target="#" data-linkname="Calling Features" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Calling Features &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="a61fa166\-8efb\-4466\-bb07\-a7f4727e60b5"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="e5e34a6a-d001-4163-94e7-b855deb18965" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/home-phone#intl-calling" target="_self" data-target="#" data-linkname="International Calling" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+International Calling &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="e5e34a6a\-d001\-4163\-94e7\-b855deb18965"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="da8c1701-a644-4137-8175-098fdc047c91" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/home-phone#safety-features" target="_self" data-target="#" data-linkname="Family Safety Features" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Family Safety Features &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="da8c1701\-a644\-4137\-8175\-098fdc047c91"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="41e2dcde-335a-4d49-a666-81d232fcc934" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/home-phone#spectrum-voice" target="_self" data-target="#" data-linkname="Get Spectrum Voice" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Get Spectrum Voice &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="41e2dcde\-335a\-4d49\-a666\-81d232fcc934"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;div class="default listComponent"&gt;&lt;div class="list-component"&gt.
+&lt;ul&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="richtext "&gt.
+&lt;div id="2026c329-1b33-4e91-aeb3-38259cb5ddbd" &gt.
+&lt;h3 class="expand border-b-w"&gt;Charter Info&lt;span&gt;+&lt;/span&gt;&lt;/h3&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#2026c329-1b33-4e91-aeb3-38259cb5ddbd').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="customWrapper "&gt.
+&lt;div class=" footer-lnk-selector footer-lnk-collapsed " id="" &gt.
+&lt;div class="parsys"&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="fd99eeb8-5907-4341-9ed4-d947f8422291" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://jobs.spectrum.com/" target="_self" data-target="#" data-linkname="Careers" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Careers &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="fd99eeb8\-5907\-4341\-9ed4\-d947f8422291"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="51bcf8f6-5a11-433f-9921-f3f428eaa2d3" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/products-offers-disclaimers.html" target="_self" data-target="#" data-linkname="Customer Disclosures" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Customer Disclosures &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="51bcf8f6\-5a11\-433f\-9921\-f3f428eaa2d3"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="aa8b8eab-95db-40d1-8e7b-aaa8bb23c7c2" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/contract-buyout.html" target="_self" data-target="#" data-linkname="Contract Buyout Information" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Contract Buyout Information &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="aa8b8eab\-95db\-40d1\-8e7b\-aaa8bb23c7c2"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="3c3b1517-f92a-481c-b431-1333ad38d384" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/about.html" target="_self" data-target="#" data-linkname="About Charter" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+About Charter &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="3c3b1517\-f92a\-481c\-b431\-1333ad38d384"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="b92a3801-695e-4fc6-a119-dcd80c11bcba" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://www.charter.com/stormcenter" target="_self" data-target="#" data-linkname="Weather Outages" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Weather Outages &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="b92a3801\-695e\-4fc6\-a119\-dcd80c11bcba"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="5ca70fa6-e5f6-401d-9547-768e797d8464" class="text-left spectrum-icon-before "&gt.
+&lt;a href="http://ir.charter.com/?c=112298&amp;p=irol-irhome" target="_self" data-target="#" data-linkname="Investor Relations" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Investor Relations &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="5ca70fa6\-e5f6\-401d\-9547\-768e797d8464"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="2b8b183a-9859-48a2-be25-09e63654ac32" class="text-left spectrum-icon-before "&gt.
+&lt;a href="http://newsroom.charter.com/" target="_self" data-target="#" data-linkname="Newsroom" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Newsroom &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="2b8b183a\-9859\-48a2\-be25\-09e63654ac32"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="bd164984-c2d7-4bd2-b126-77167f70d2e8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/your-privacy-rights.html" target="_self" data-target="#" data-linkname="Your Privacy Rights" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Your Privacy Rights &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="bd164984\-c2d7\-4bd2\-b126\-77167f70d2e8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="d990ac4f-3615-4bc6-848b-a00f31f66907" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/terms-of-service.html" target="_self" data-target="#" data-linkname="Terms of Service/Policies" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Terms of Service/Policies &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d990ac4f\-3615\-4bc6\-848b\-a00f31f66907"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="02cd2055-cebb-445b-9112-8521a2eb8255" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/ip-interconnection.html" target="_self" data-target="#" data-linkname="IP Interconnection" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+IP Interconnection &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="02cd2055\-cebb\-445b\-9112\-8521a2eb8255"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="65a365de-af7b-4f2d-a5b7-cb12e975bb03" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/access.html" target="_self" data-target="#" data-linkname="Accessibility" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Accessibility &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="65a365de\-af7b\-4f2d\-a5b7\-cb12e975bb03"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="291fd5d9-6cef-4d5b-b84a-9b37e0c51a9c" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/public-inspection-file.html" target="_self" data-target="#" data-linkname="FCC Public Inspection File" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+FCC Public Inspection File &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="291fd5d9\-6cef\-4d5b\-b84a\-9b37e0c51a9c"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="3601573f-59b2-4b66-bcc9-9fb668708cff" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://www.charter.com/ratecard" target="_self" data-target="#" data-linkname="Service Rates &amp;amp.
+Disclosures" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Service Rates &amp;amp.
+Disclosures &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="3601573f\-59b2\-4b66\-bcc9\-9fb668708cff"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;div class="linkComponent"&gt.
+&lt;div data-id="5b0ce61c-f9ee-4f8e-942c-b7d8a08e6a1b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/site-map.html" target="_self" data-target="#" data-linkname="Site Map" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Site Map &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="5b0ce61c\-f9ee\-4f8e\-942c\-b7d8a08e6a1b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
 <ul>
 <li> Charter Sites+ </li>
 <li> Spectrum.com Spectrum Business Spectrum Enterprise Spectrum.net Spectrum Reach Spectrum en Español Spectrum Community Solutions Corporate Responsibility Charter Merger Retail Partner Program </li>
