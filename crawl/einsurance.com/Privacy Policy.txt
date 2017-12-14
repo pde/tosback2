@@ -23,7 +23,7 @@ Editorial Comments</li>
 <li>Insurance Quotesli&gt;User Profile Maintenance</li>
 <li>User Registration </li>
 </ul>User Registration
-<p>Many of the services available on <strong>einsurance.com</strong> require no registration, and may be accessed anonymously.
+<p>Many of the services available on <strong>einsurance.com</strong> require no registration.
 Others, such as insurance quotes, require that a user first complete a registration form.
 During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code.
 This information uniquely identifies the user's account with E-Insure Services and enables us to select insurance providers that do business in the user's geographic region.
@@ -91,11 +91,8 @@ These logs may record details about a user's visit to the site, including the fo
 time of visit.
 </li>
 <li>Specific sequence of user's progress through site.</li>
-<li>Gender, age, and other non-personal demographic information.</li>
 </ul>
 <p>E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use.
-IP addresses, etc., are <em>not</em> linked to personal information.
-In other words, although we know precisely <em>what</em> a user may have done during a particular visit to our site, we do not know <em>which</em> user did it. 
 To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and
 ChartBeat.
 </p> Behavioral Targeting <p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites.
@@ -117,14 +114,10 @@ Examples of such communication are registration confirmations and confirmations 
 These Features may collect your IP address, which page you are visiting on your site, and may set a cookie to enable the Feature to function properly.
 Social Media Features are either hosted by a third party or hosted directly on our Site.
 Your interactions with these Features are governed by the privacy policy of the company providing them.</p>
-<p>This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature.
-This feature is used to send a one-time invite to the third party email address you entered through the widget.
-The personal information entered on this widget is subject to the privacy policy of the “Share This” widget.
-E-Insure shares no responsibility in regards to the personal information entered through the widget.</p>
 Sharing
 <p>Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 In certain situations, E-Insure may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form <em>only</em>, and is not linked to any personal information about our users. 
+Such information is in aggregate form <em>only</em>, and is not linked to any personal information about our users. 
 E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them.
 Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of <em>future</em> sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party.
 <b>E-Insure currently has no third-party information sharing arrangements.</b>
@@ -156,6 +149,13 @@ EINSURANCE Journal
 Although <em>Journal</em> articles are primarily written by insurance industry professionals, the editors highly encourage editorial contributions from the lay public.
 Although contributors are free to attach personal contact information to their articles and letters, E-Insure accepts no responsibility for the consequences of publishing such potentially sensitive information in the public domain.
 If you want to update or delete the personal information you submitted with your editorial contribution, you can contact us at privacy@einsure.com </p>
+<p>
+<strong>Email or Newsletter Preferences </strong>
+</p>
+<p>You may sign-up to receive our latest articles as they come out.
+If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you.
+You may also contact us at privacy@einsure.com and we can remove you from the list.
+</p>
 Security <p>This Web site takes every precaution to protect our user’s information.
 When we ask users to enter personal information, that information is protected by industry-standard 128-bit Secure Sockets Layer (SSL) technology.
 Users can identify SSL-protected pages by the Norton Secured icon that appears at the bottom edge of Web browsers such as Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, and Safari.
@@ -184,5 +184,5 @@ Adams St., Suite 1325<br>
 Chicago, IL 60603<br>
 (855) 372-7400<br>privacy@einsure.com<br>
 <br>
-EFFECTIVEFFECTIVE DATE 12.02.2016 (Applies Only to the Policy Statements Above)</p>
+EFFECTIVEFFECTIVE DATE 12.13.2017 (Applies Only to the Policy Statements Above)</p>
 <p>EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com</p> 
