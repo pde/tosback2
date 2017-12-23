@@ -56,10 +56,10 @@ If we or comScore require additional documentation to verify ownership of your w
 <strong>Ecommerce.
 </strong>There are certain features on WordPress.com, such as Store and Simple Payments, that enable you to sell items (goods, content, services, etc.) on your website.
 Store is powered by WooCommerce and Jetpack, so if you use Store, these additional terms apply.
-You are solely responsible for all of your ecommerce activities, including your store, your items, its operation, all applicable taxes and fees, and compliance with any applicable laws.
+You are solely responsible for all of your ecommerce activities, including your store, your items, its operation, all applicable taxes and fees,  compliance with the Payment Card Industry Data Security Standard (PCI DSS), and compliance with any applicable laws.
 Among other things, this means that:
 <ul>
-<li>You should use your best judgment when setting up your store, operating your store, and selling items.
+<li>You should use your best judgment when setting up your store, operating your store, processing payments, and selling items.
 For example, you may not want to accept check payments if you are not comfortable sharing your mailing address with a customer, or you may want to publish payment and return policies.</li>
 <li>We are not involved in your relationships or transactions with any customer or potential customer.</li>
 <li>You are responsible for resolving all support questions, comments, and complaints, including refunds, chargebacks, or pricing questions.
