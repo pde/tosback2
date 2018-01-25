@@ -27,12 +27,9 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 </li>
 <li>
 <ul>
-<li> You have 1 notification 1 <ul>
+<li> 1 <ul>
 <li>
 <ul>
-<li>Get price and availability changes for hotels you view.
-We'll watch prices on your saved and recently viewed items for you.
-Track ChangesClose</li>
 <li> All caught up! <br> No new notifications right now.
 </li>
 </ul>
@@ -55,10 +52,12 @@ Track ChangesClose</li>
 <li> Not ? <br>Log in to your account </li>
 </ul>
 </li>
-<li> My Lists 0 You have 0 recently viewed items   <p>Things you view while shopping are saved here.</p>
-<p>Loading your lists...</p>
+<li>   <p>Things you view while shopping are saved here.</p>
+<p>
+</p>
 <ul>
-</ul> View your lists </li>
+</ul>
+</li>
 <li> My Trips </li>
 <li> Support <ul>
 <li> Customer Support </li>
@@ -66,7 +65,7 @@ Track ChangesClose</li>
 </ul>
 </li>
 <li> Español </li>
-</ul> //a.travel-assets.com/globalcontrols-service/content/636f46ecf58d002612394ae7a9bb28c235077968 Search anything Search For customer service, call us toll-free at 1-800-397-3342.
+</ul> //a.travel-assets.com/globalcontrols-service/content/5c620eb9bd44000b38e2cb042ca045709e843616 Search anything Search For customer service, call us toll-free at 1-800-397-3342.
 For customers outside the US, please call 1-404-728-8787.
 International calling rates will apply.
 <ul>
@@ -716,10 +715,10 @@ Itineraries</li>
 </ul> Send a download link to your mobile device Enter your phone number Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server.
 You can still download the app by clicking on the app-store buttons in our app page.
 Thank you! We are having trouble processing your phone number.
-Try using this format: XXX-XXX-XXXX.
-Thank you! It looks like you just tried to enter a non-United States phone number.
-Unfortunately, at this time we are only supporting United States numbers.
-Please enter your number in the following format: XXX-XXX-XXXX.
+Try using this format: {{phoneNumberFormat}}.
+Thank you! It looks like you just tried to enter a non-{{countryName}} phone number.
+Unfortunately, at this time we are only supporting {{countryName}} numbers.
+Please enter your number in the following format: {{phoneNumberFormat}}.
 Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app.
 Our app offers promotions and booking services.
 No purchase necessary.

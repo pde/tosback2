@@ -29,6 +29,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
 <li> Shoes + Accessories </li>
+<li> Plus Size </li>
 </ul>
 <ul>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
@@ -42,7 +43,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Basic Essentials </li>
 <li> Lounge + Sleep </li>
 <li> Uniform </li>
-<li> Plus Size </li>
 </ul>Close submenu ( Tops ) Tops <ul>
 <li> View All </li>
 <li> Tees </li>
@@ -85,6 +85,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Jackets + Vests </li>
 <li> Accessories </li>
 <li> Underwear </li>
+<li> Big + Tall </li>
 <li> Trending </li>
 </ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
@@ -95,7 +96,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Back to Basics </li>
 <li> Online Only </li>
 <li> Uniform </li>
-<li> Big + Tall </li>
 </ul>Close submenu ( Tops ) Tops <ul>
 <li> View All </li>
 <li> Tees </li>
@@ -292,7 +292,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Basic Essentials </li>
 <li> Lounge + Sleep </li>
 <li> Uniform </li>
-<li> Plus Size </li>
 </ul>
 </li>
 <li> Clearance </li>
@@ -328,6 +327,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
 <li> Shoes + Accessories </li>
+<li> Plus Size </li>
 </ul>
 <ul>
 <li> Live Love Dream <ul>
@@ -356,7 +356,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Back to Basics </li>
 <li> Online Only </li>
 <li> Uniform </li>
-<li> Big + Tall </li>
 </ul>
 </li>
 <li> Clearance </li>
@@ -395,6 +394,7 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Jackets + Vests </li>
 <li> Accessories </li>
 <li> Underwear </li>
+<li> Big + Tall </li>
 <li> Trending </li>
 </ul>
 <p>
@@ -620,6 +620,7 @@ Conditions FOLLOW US Customer Care <ul>
 <li>eGift Cards</li>
 <li>Contests</li>
 <li>In Store Coupons</li>
+<li>Lost/Stolen Gift Cards</li>
 </ul> About Us <ul>
 <li>About Aeropostale</li>
 <li>Careers</li>
