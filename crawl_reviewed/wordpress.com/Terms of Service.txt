@@ -53,30 +53,6 @@ Your website’s traffic will be included under Automattic.
 You understand that your website will not receive credit for traffic in these reports, and you must not assign your website’s traffic to any other party.
 If we or comScore require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to accommodate such requests.</li>
 <li>
-<strong>Ecommerce.
-</strong>There are certain features on WordPress.com, such as Store and Simple Payments, that enable you to sell items (goods, content, services, etc.) on your website.
-Store is powered by WooCommerce and Jetpack, so if you use Store, these additional terms apply.
-You are solely responsible for all of your ecommerce activities, including your store, your items, its operation, all applicable taxes and fees,  compliance with the Payment Card Industry Data Security Standard (PCI DSS), and compliance with any applicable laws.
-Among other things, this means that:
-<ul>
-<li>You should use your best judgment when setting up your store, operating your store, processing payments, and selling items.
-For example, you may not want to accept check payments if you are not comfortable sharing your mailing address with a customer, or you may want to publish payment and return policies.</li>
-<li>We are not involved in your relationships or transactions with any customer or potential customer.</li>
-<li>You are responsible for resolving all support questions, comments, and complaints, including refunds, chargebacks, or pricing questions.
-You should provide contact information so that customers may contact you with questions or complaints.</li>
-<li>You are responsible for delivering items sold to your customers, and for fulfilling all promises, representations, or warranties you make to them in connection with a sale.</li>
-<li>You may choose to set up and/or use third party services, such as PayPal or Stripe to collect payment, or TaxJar for tax calculations.
-If you do so, be aware that some of your — and your customers’ — data may be passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply.
-We are not involved in these relationships.
-If you use Store, please note that some of these third party services (like TaxJar) may be enabled by default, but you may disable them before your store is set up.
-If you do not want to use these third party services, please disable them in Store settings.</li>
-<li>You are responsible for all taxes and fees associated with your ecommerce activities.
-You must collect, report, and/or pay the correct amounts to the appropriate authorities, if applicable, and if needed, inform your customers about any taxes they may be required to pay and issue appropriate invoices.
-While Store enables you to include sales tax in transactions, you should not rely solely on this feature.</li>
-<li>You must not violate our User Guidelines or Store Guidelines.</li>
-</ul>
-</li>
-<li>
 <strong>HTTPS.</strong> We offer free HTTPS on all WordPress.com sites by default, including those using custom domains, via Let’s Encrypt.
 By signing up and using a custom domain on WordPress.com, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your site.</li>
 <li>
@@ -126,57 +102,6 @@ You can see which features are active, and activate and deactivate features, on 
 <strong>Storage of Information.</strong> Certain Jetpack features rely on WordPress.com servers to function, such as those that allow you to send email, publish links, relate posts to each other, or resize images.
 To take advantage of the performance boosting features of Jetpack, certain information about the content, settings, and setup of your site are synced with our servers, as described on our “What Data Does Jetpack Sync?” support page.</li>
 </ul>3.
-WooCommerce Services.
-<ul>
-<li>
-<b>Description.</b> WooCommerce is an open-source, customizable ecommerce platform for self-hosted WordPress websites.
-If you use WooCommerce, the WooCommerce terms and conditions also apply.
-Certain features offered via WooCommerce (“WooCommerce Services”), such as those related to tax calculation, payment, and shipping, require Jetpack to function.
-As such, if you enable or use those features, these terms and the Jetpack-specific terms will also apply.</li>
-<li>
-<b>Usage of Information.
-</b>WooCommerce Services may require Automattic’s servers, a connection to our partners, and/or data from your site, to work, as described on our “What Data Does Jetpack Sync?” support page</li>
-<li>
-<b>Prohibited Uses.
-You may not use WooCommerce Services for any unlawful purposes, or in furtherance of illegal activities.
-We may terminate your access to WooCommerce Services if we determine (in our sole discretion) that your use is in any way harmful or objectionable.</b>
-</li>
-<li>
-<b>Third Party Services.</b> You may choose to set up and/or use third party services, such Stripe or PayPal to collect payment, TaxJar to calculate taxes, or EasyPost to manage shipping.
-If you do so, be aware that some of your — and your customers’ — data may be passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply.
-We are not involved in these relationships.
-</li>
-<li>
-<b>Tax Calculations.
-Tax Calculations are provided by TaxJar.
-You are responsible for all taxes and fees associated with your ecommerce activities.
-You must collect, report, and/or pay the correct amounts to the appropriate authorities, if applicable, and if needed, inform your customers about any taxes they may be required to pay and issue appropriate invoices.
-While WooCommerce Services allow you to include sales tax in transactions, you should not rely solely on this feature.</b>
-</li>
-<li>
-<strong>Shipping Services.
-</strong>
-<ul>
-<li>Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as USPS and Canada Post.
-We act only as an intermediary between you and these third parties.
-we are not involved in any way with your product or its shipment.
-We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.</li>
-<li>You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service.
-For example, if you use USPS postage, you will need to comply with their shipping restrictions and mailing standards, among others.</li>
-<li>In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments.
-If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.</li>
-<li>You authorize us to charge you for the fees associated with each shipping label you create.
-Each fee will be charged separately to the payment method you provided in your WordPress.com account, which you can view and manage as described the Payments support page.
-If you have multiple payment methods, you can select which should be used for the shipping label service by going to the WooCommerce Settings page in your store’s wp-admin and clicking on the “WooCommerce Services” tab.
-If we are unable to collect payment from you for these fees, you will be responsible for payment within 7 days.
-please contact us to remit payment.</li>
-<li>Refunds for unused shipping labels must be requested in your store’s wp-admin within 30 days of creating the label.
-Please note that depending on your bank and the third party involved, it may take up to 45 days for your refund to issue.
-If you haven’t received your refund within this time frame, please contact us.</li>
-<li>The shipping labels service may only be used for WooCommerce orders, and you may not transfer or sell postage and/or shipping labels to a third party.</li>
-</ul>
-</li>
-</ul>4.
 VaultPress.
 <ul>
 <li>
@@ -221,7 +146,7 @@ Each WordPress website requires a separate subscription to run VaultPress.</li>
 <li>
 <strong>Cancellation.
 </strong>If you cancel your subscription to VaultPress, we will queue your backed-up VaultPress Content for deletion.</li>
-</ul>5.
+</ul>4.
 Firehose.
 <ul>
 <li>
@@ -237,6 +162,68 @@ You may also use the WordPress.com name or logos and other brand elements that A
 <strong>Restricted Use.</strong> You may not use the WordPress.com Firehose to substantially replicate products or services offered by Automattic, including the republication of WordPress.com content or the creation of a separate publishing platform.
 You may not display, distribute, or otherwise make available content or data to governmental entities for intelligence gathering or surveillance purposes.
 If Automattic believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these Terms, your ability to use and access the WordPress.com Firehose may be temporarily or permanently revoked, with or without notice.</li>
+</ul>5.
+Ecommerce.
+<p>There are certain features offered via WooCommerce, WooCommerce Services, or WordPress.com that enable you to sell items (goods, content, services, etc.) on your website (“Ecommerce Features”).
+If you use WooCommerce, the WooCommerce Use Terms also apply.</p>
+<ul>
+<li>
+<b>Usage of Information.
+</b>WooCommerce Services may require Automattic’s servers, a connection to our partners, and/or data from your site, to work, as described on our “What Data Does Jetpack Sync?” support page.</li>
+<li>
+<b>Prohibited Uses.
+You may not use Ecommerce Features for any unlawful purposes, or in furtherance of illegal activities.
+We may terminate your access to Ecommerce Features if we determine (in our sole discretion) that your use is in any way harmful or objectionable.
+If your store is on WordPress.com, you must not violate our </b>User Guidelines or Store Guidelines.</li>
+<li>
+<b>Third Party Services.</b> You may choose to set up and/or use third party services, such Stripe or PayPal to collect payment, TaxJar to calculate taxes, or EasyPost to manage shipping.
+If you do so, be aware that some of your — and your customers’ — data may be passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply.
+We are not involved in these relationships. <b>P</b>lease note that some of these third party services (like TaxJar) may be enabled by default, but you may disable them before your store is set up.
+If you do not want to use these third party services, please disable them.</li>
+<li>
+<b>Tax Calculations.
+Tax Calculations are provided by TaxJar.
+You are responsible for all taxes and fees associated with your ecommerce activities.
+You must collect, report, and/or pay the correct amounts to the appropriate authorities, if applicable, and if needed, inform your customers about any taxes they may be required to pay and issue appropriate invoices.
+While some Ecommerce Features allow you to include sales taxes or Value Added Taxes in transactions, you should not rely solely on these features. We make our best efforts to keep our content and documents up-to-date, but because the tax law changes rapidly, we cannot guarantee that all the services are completely current.
+Tax laws differ from jurisdiction to jurisdiction and may be subject to different interpretations by different authorities.
+We recommend you consult an appropriate tax professional for your specific tax situation.</b>
+</li>
+<li>
+<strong>Shipping Services.
+</strong>
+<ul>
+<li>Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as USPS and Canada Post.
+We act only as an intermediary between you and these third parties.
+we are not involved in any way with your product or its shipment.
+We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.</li>
+<li>You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service.
+For example, if you use USPS postage, you will need to comply with their shipping restrictions and mailing standards, among others.</li>
+<li>In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments.
+If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.</li>
+<li>You authorize us to charge you for the fees associated with each shipping label you create.
+Each fee will be charged separately to the payment method you provided in your WordPress.com account, which you can view and manage as described the Payments support page.
+If you have multiple payment methods, you can select which should be used for the shipping label service.
+If we are unable to collect payment from you for these fees, you will be responsible for payment within 7 days.
+please contact us to remit payment.</li>
+<li>Refunds for unused shipping labels must be requested in your store’s wp-admin within 30 days of creating the label.
+Please note that depending on your bank and the third party involved, it may take up to 45 days for your refund to issue.
+If you haven’t received your refund within this time frame, please contact us.</li>
+<li>You may not transfer or sell postage and/or shipping labels to a third party.</li>
+</ul>
+</li>
+<li>
+<strong>Your Responsibilities.</strong> You are solely responsible for all of your ecommerce activities, including your store, your items, its operation, all applicable taxes and fees, compliance with the Payment Card Industry Data Security Standard (PCI DSS), and compliance with any applicable laws.
+Among other things, this means that:
+<ul>
+<li>You should use your best judgment when setting up your store, operating your store, processing payments, and selling items.
+For example, you may not want to accept check payments if you are not comfortable sharing your mailing address with a customer, or you may want to publish payment and return policies.</li>
+<li>We are not involved in your relationships or transactions with any customer or potential customer.</li>
+<li>You are responsible for resolving all support questions, comments, and complaints, including refunds, chargebacks, or pricing questions.
+You should provide contact information so that customers may contact you with questions or complaints.</li>
+<li>You are responsible for delivering items sold to your customers, and for fulfilling all promises, representations, or warranties you make to them in connection with a sale.</li>
+</ul>
+</li>
 </ul>6.
 Responsibility of Visitors.
 <p>Automattic has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material’s content, use or effects.
