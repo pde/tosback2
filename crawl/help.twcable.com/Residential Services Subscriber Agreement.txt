@@ -1,5 +1,5 @@
 
-cd7062d1-3190-4130-ba47-4869a14c3b7a <ul>
+318f7ca0-4567-44c1-a4d9-c0f3ec287bd3 <ul>
 <li>
 <p>
 </p>
@@ -1640,8 +1640,16 @@ Ningún convenio, representación o garantía ofrecidos por un agente o represen
 <p>Garantías para clientes residenciales</p>
 <p>Lee los detalles de la garantía para clientes, aquí<br>
 </p> Voice Service Price Guides
-<p>Charter/Spectrum Voice Price Guide (Español)  | Time Warner Cable® Voice Price Guide (Español)  | Bright House Voice Price Guide (Español)</p>
-<p>["Time Warner Cable"/"TWC"] is a trademark of Time Warner Inc., used under license.</p> About Spectrum + <ul>
+<p>Charter/Spectrum Voice Price Guide (Español)  | Time Warner Cable® Voice Price Guide (Español)  | Bright House Voice Price Guide (Español)</p> &lt;div class="default richtext"&gt.
+&lt;div id="49961820-d311-46ec-9bb8-2cab5ff05866" &gt.
+&lt;p class="disclaimer pb-15 text-center"&gt;[&amp;quot;Time Warner Cable&amp;quot;/&amp;quot;TWC&amp;quot;] is a trademark of Time Warner Inc., used under license.&lt;/p&gt.
+&lt;/div&gt.
+&lt;script type="text/javascript"&gt.
+jQuery(document).ready(function(){ jQuery('#49961820-d311-46ec-9bb8-2cab5ff05866').richtext().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+About Spectrum + <ul>
 <li> Spectrum Business </li>
 <li> Spectrum Enterprise Solutions </li>
 <li> Spectrum.net </li>
@@ -1719,21 +1727,167 @@ Ningún convenio, representación o garantía ofrecidos por un agente o represen
 <li> Wyoming </li>
 </ul>
 <p>
-</p>
-<ul>
-<li> About Charter </li>
-<li> Investor Relations </li>
-<li> Newsroom </li>
-<li> Corporate Responsibility </li>
-<li> Careers </li>
-<li> Your Privacy Rights </li>
-<li> Terms of Service/Policies </li>
-<li> IP Interconnection </li>
-<li> FCC Public Inspection File </li>
-<li> Service Rates &amp.
-Disclosures </li>
-<li> Accessibility </li>
-</ul>
+</p> &lt;div class="default list-unstyled listComponent list-inline"&gt;&lt;div class="list-component"&gt.
+&lt;ul class="list-inline list-unstyled "&gt.
+&lt;li class="spectrum-first"&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="68af56ed-c959-42e6-87ef-b9813ef97cd5" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/about.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="About Charter" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+About Charter &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="68af56ed\-c959\-42e6\-87ef\-b9813ef97cd5"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="410b0c99-f939-45fe-a4d6-2fff80529624" class="text-left spectrum-icon-before "&gt.
+&lt;a href="http://ir.charter.com/?c=112298&amp;p=irol-irhome" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Investor Relations" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Investor Relations &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="410b0c99\-f939\-45fe\-a4d6\-2fff80529624"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="593dfc30-818e-4d91-adbb-ada4c47f41b4" class="text-left spectrum-icon-before "&gt.
+&lt;a href="http://newsroom.charter.com/" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Newsroom" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Newsroom &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="593dfc30\-818e\-4d91\-adbb\-ada4c47f41b4"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="230a5e6f-f375-48a1-b59a-a8daf10ad0ea" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://responsibility.spectrum.com/" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Corporate Responsibility" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Corporate Responsibility &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="230a5e6f\-f375\-48a1\-b59a\-a8daf10ad0ea"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="a9702002-3a7b-47f9-8713-13c217807113" class="text-left spectrum-icon-before "&gt.
+&lt;a href="https://jobs.spectrum.com/" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Careers" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Careers &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="a9702002\-3a7b\-47f9\-8713\-13c217807113"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="767db9ce-6cd0-4944-a276-b5e6c3d8fa62" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/your-privacy-rights.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Your Privacy Rights" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Your Privacy Rights &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="767db9ce\-6cd0\-4944\-a276\-b5e6c3d8fa62"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="e129ceb1-bd1a-4864-886b-11bef7ef1a1a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/terms-of-service.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Terms of Service/Policies" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Terms of Service/Policies &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="e129ceb1\-bd1a\-4864\-886b\-11bef7ef1a1a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="824d88ef-84e5-40f7-b98a-d540bc179ca8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/ip-interconnection.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="IP Interconnection" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+IP Interconnection &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="824d88ef\-84e5\-40f7\-b98a\-d540bc179ca8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="e6ead690-3748-43b1-85fe-ab96a3a6fbc2" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/policies/public-inspection-file.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="FCC Public Inspection File" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+FCC Public Inspection File &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="e6ead690\-3748\-43b1\-85fe\-ab96a3a6fbc2"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="52dd0b0c-0084-4228-8dd3-1b043fcc2944" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/browse/content/ratecard.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Service Rates &amp;amp.
+Disclosures" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Service Rates &amp;amp.
+Disclosures &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="52dd0b0c\-0084\-4228\-8dd3\-1b043fcc2944"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;li class="spectrum-last"&gt.
+&lt;div class="linkComponent "&gt.
+&lt;div data-id="4d92752a-d3c3-4269-a1bf-74e24df0ab0e" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/access.html" target="_blank" rel="noopener noreferrer" data-target="#" data-linkname="Accessibility" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Accessibility &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="4d92752a\-d3c3\-4269\-a1bf\-74e24df0ab0e"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+&lt;/li&gt.
+&lt;/ul&gt.
+&lt;/div&gt.
+&lt;/div&gt.
 <p>© 2018 Charter Communications.
 All rights reserved.</p> Start AgainEspañol SEARCHING FOR BEST OFFERS <p> </p>
 <p>$500 CONTRACT BUYOUT</p>
