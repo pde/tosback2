@@ -1,4 +1,4 @@
- &lt;meta id="mtaJSCheck" content="0;/Anon/TestHarnesses/ShowJSErrorPage.aspx" http-equiv="refresh"&gt;&lt;/meta&gt.
+ &lt;meta id="mtaJSCheck" content="0;/Anon/Refer/ShowJSErrorPage.aspx" http-equiv="refresh"&gt;&lt;/meta&gt.
 Skip Navigation Explore Allstate <ul>
 <li>Find An Agent</li>
 <li>Contact Us</li>
@@ -191,7 +191,9 @@ VehicleBusiness InsuranceMore InsuranceGet A Quote <p>Retrieve a saved quote</p>
 <li>Find A Local Agent</li>
 <li>My Account Log in</li>
 </ul> My Account Log in <p>Log in to My Account</p> Forgot user ID Forgot password <p>Remember My User ID</p>
-<p>What's This?</p> Register new account <ul>
+<p>What's This?</p> Register new account <p>
+</p>
+<ul>
 <li>Update Zip Code</li>
 <li>Contact Us</li>
 <li>Español</li>
