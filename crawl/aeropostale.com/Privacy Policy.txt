@@ -19,22 +19,22 @@ Open submenu ( Clearance ) Clearance </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
 <li> Open submenu ( Featured ) Featured </li>
-<li> Swim </li>
-<li> Clearance </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
 </ul>
 <ul>
 <li> Open submenu ( Bottoms ) Bottoms </li>
+<li> Swim </li>
 <li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
 <li> Shoes + Accessories </li>
-<li> plus size </li>
-<li> Trending </li>
 </ul>
 <ul>
-<li> Open submenu ( Live Love Dream ) Live Love Dream </li>
+<li> plus size </li>
+<li> Trending </li>
+<li> Clearance </li>
+<li> Live Love Dream </li>
 </ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
@@ -67,14 +67,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Joggers + Lounge </li>
 <li> Pants </li>
 <li> Shorts </li>
-</ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
-<li> View All </li>
-<li> Active </li>
-<li> Lounge </li>
-<li> Bras </li>
-<li> Undies </li>
-<li> Sleep </li>
-<li> Accessories </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
 <li> Open submenu ( Featured ) Featured </li>
@@ -318,8 +310,6 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Uniform </li>
 </ul>
 </li>
-<li> Swim </li>
-<li> Clearance </li>
 </ul>
 <ul>
 <li> Tops <ul>
@@ -348,23 +338,16 @@ Open submenu ( Clearance ) Clearance </li>
 <li> Shorts </li>
 </ul>
 </li>
+<li> Swim </li>
 <li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
 <li> Shoes + Accessories </li>
-<li> plus size </li>
-<li> Trending </li>
 </ul>
 <ul>
-<li> Live Love Dream <ul>
-<li> View All </li>
-<li> Active </li>
-<li> Lounge </li>
-<li> Bras </li>
-<li> Undies </li>
-<li> Sleep </li>
-<li> Accessories </li>
-</ul>
-</li>
+<li> plus size </li>
+<li> Trending </li>
+<li> Clearance </li>
+<li> Live Love Dream </li>
 </ul>
 <p>
 </p>
@@ -647,11 +630,8 @@ Conditions FOLLOW US Customer Care <ul>
 <li>Contact Us</li>
 <li>Help</li>
 <li>Coupon Page</li>
-</ul> Stores <ul>
-<li>Store Locator</li>
+</ul> Gift Cards <ul>
 <li>eGift Cards</li>
-<li>Contests</li>
-<li>In Store Coupons</li>
 <li>Lost/Stolen Gift Cards</li>
 </ul> About Us <ul>
 <li>About Aeropostale</li>
@@ -661,8 +641,10 @@ Conditions FOLLOW US Customer Care <ul>
 <li>CA Transparency Act</li>
 <li>Supply Chain</li>
 </ul> Stay Connected <ul>
-<li>Live ChatCall Us</li>
+<li>Visit A Store</li>
+<li>Find Store Coupons</li>
+<li>Chat With Us LiveCall Us</li>
 <li> Refer a Friend </li>
-<li>College Student Discount</li>
+<li>Use Student Discount</li>
 </ul> © 2018 Aeropostale.
 All Rights Reserved.
