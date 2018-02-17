@@ -1,6 +1,6 @@
 <sitename name="apple.com">
  <docname name="Privacy Policy">
-   <url name="https://www.apple.com/privacy/privacy-policy/" xpath="//div[@class='main']" reviewed="true">
+   <url name="https://www.apple.com/legal/privacy/en-ww/" xpath="//main[@class='main']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
@@ -20,7 +20,7 @@
    </url>
  </docname>
  <docname name="Apple Support Communities Use Agreement">
-   <url name="https://discussions.apple.com/docs/DOC-5952" xpath="//div[@id='jive-body-main']" reviewed="true">
+   <url name="https://discussions.apple.com/docs/DOC-5952" xpath="//main[@class='tutorial']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

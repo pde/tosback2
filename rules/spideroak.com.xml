@@ -1,11 +1,11 @@
 <sitename name="spideroak.com">
  <docname name="Terms of Use">
-   <url name="https://spideroak.com/policy/terms-of-use" xpath="//div[@id='policy_terms_of_use-ribbon']" reviewed="true">
+   <url name="https://spideroak.com/terms-of-use/" xpath="//div[@class='main-container']/section[@class='text-center']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://spideroak.com/policy/privacy-policy" xpath="//div[@id='policy_privacy_policy-ribbon']" reviewed="true">
+   <url name="https://spideroak.com/privacy-policy/" xpath="//div[@class='main-container']/section[@class='text-center']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

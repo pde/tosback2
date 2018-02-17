@@ -4,11 +4,12 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Terms and Conditions (Mobile)">
-   <url name="https://www.spotify.com/us/legal/mobile-terms-and-conditions/" xpath="//div[@id='content-main']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+ <!-- Doesn't seem to exist anymore -->
+ <!--<docname name="Terms and Conditions (Mobile)">-->
+   <!--<url name="https://www.spotify.com/us/legal/mobile-terms-and-conditions/" xpath="//div[@id='content-main']" reviewed="true">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
  <docname name="Terms and Conditions (Premium)">
    <url name="https://www.spotify.com/us/legal/premium-code-terms-and-conditions/" xpath="//div[@id='content-main']" reviewed="true">
      <norecurse name="arbitrary" />

@@ -1,6 +1,6 @@
 <sitename name="finance.yahoo.com">
  <docname name="Privacy Policy">
-   <url name="https://policies.yahoo.com/us/en/yahoo/privacy/index.htm" xpath="//div[@class='yui3-u-2-3 ml_yui3-u-1']" reviewed="true">
+   <url name="https://policies.yahoo.com/us/en/yahoo/privacy/index.htm" xpath="//div[@id='targetDiv']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
