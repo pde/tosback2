@@ -71,8 +71,9 @@ Such information will be used for the purposes for which it was collected. We u
 We also look at technical information to diagnose problems with or consider improvements to our servers or related technologies and to administer eff.org and other websites we host or provide.</p>
 Third-Party Service Providers to EFF
 <p>Portions of the eff.org site, including some of our individual action alert webpages, are operated by third-parties, such as grassroots campaign service providers.
-From time to time, EFF will use third party hosting providers, such as cloud hosting services—for example, when the expected volume of traffic is not scalable.
+When necessary and appropriate, EFF will use will use third party services such as content delivery networks and cloud hosting providers to handle traffic to our sites.
 EFF also uses a third-party credit card processor.
+Where possible, we take steps to limit the ability of third parties to retain data about our users.
 These service providers may place session cookies on your computer.
 EFF’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using.
 the browser software you use and your operating system.
@@ -113,11 +114,24 @@ EFF has turned on HTTPS by default.</p>
 Information collected by EFF will be maintained for a length of time appropriate to our needs.
 However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation.</p>
 <p>
-<i>Updated July 14, 2016 to clarify the use of information in the EFF Action Center and protections for members who join EFF offline.<u>
-</u>
+<em>Updated February 20, 2018 to clarify how EFF works with third parties like content delivery networks and cloud service providers.</em>
+</p>
+<p>
+<em>
+</em>
+</p>
+<p>
+<em>
+</em>
+<i>Updated July 14, 2016 to clarify the use of information in the EFF Action Center and protections for members who join EFF offline.</i>
+</p>
+<p>
+<i>
 </i>
 </p>
 <p>
+<i>
+</i>
 <em>Updated </em>
 <em>April 7, 2015 to reflect: 1) changes to the types of third-party service providers which may be used by EFF websites.
 2) that third-party service providers may be used by any EFF site, not just those on the eff.org domain.
@@ -163,6 +177,9 @@ Previous Privacy Policies
 <p>Jun 13, 2014 – Apr 7, 2015</p>
 </li>
 <li>
-<p>Apr 8, 2015 – July 13, 2016</p>
+<p>Apr 8, 2015 – Jul 13, 2016</p>
+</li>
+<li>
+<p>Jul 14, 2016 to Feb 19, 2018</p>
 </li>
 </ul> 
