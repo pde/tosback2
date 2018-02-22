@@ -4,39 +4,27 @@
 DEFINED TERMS </strong>
 </p>
 <p>The following words, when capitalized, have the meaning stated:</p>
-<p>
-<strong>“Affiliate”</strong> means any legal entity that a party owns, that owns a party, or that is under its common ownership.
+<p>“Affiliate” means any legal entity that a party owns, that owns a party, or that is under its common ownership.
 “Ownership” means, for the purposes of this definition, control of more than a fifty percent interest in an entity.</p>
-<p>
-<strong>“Agreement”</strong> means, collectively, the Service Order, these Terms of Service, and each of the other documents reference in these Terms of Service.</p>
-<p>
-<strong>“Business Day”</strong> means Monday through Friday, excluding public holidays, in the country whose laws govern the Agreement.</p>
-<p>
-<strong>“Confidential Information”</strong> means non-public information disclosed by one party to the other in any form that (i) is designated as “Confidential”.
+<p>“Agreement” means, collectively, the Service Order, these Terms of Service, and each of the other documents reference in these Terms of Service.</p>
+<p>“Business Day” means Monday through Friday, excluding public holidays, in the country whose laws govern the Agreement.</p>
+<p>“Confidential Information” means non-public information disclosed by one party to the other in any form that (i) is designated as “Confidential”.
 (ii) a reasonable person knows or reasonably should understand to be confidential.
 or (iii) includes either party’s products, customers, marketing and promotions, know-how, or the negotiated terms of the Agreement.
 and which is not independently developed by the other party without reference to the other’s Confidential Information or otherwise known to the other party on a non-confidential basis prior to disclosure.</p>
-<p>
-<strong>“Customer Configuration”</strong> means an information technology system which is the subject of the Services or to which the Services relate.</p>
-<p>
-<strong>“Customer Data”</strong> means all data which you receive, store, or transmit on or using the Customer Configuration.</p>
-<p>
-<strong>“Deliverables”</strong> means the tangible or intangible materials which are prepared for your use in the course of performing the Services and that are specifically identified in a Service Order as Deliverables and described therein.</p>
-<p>
-<strong>“Intellectual Property”</strong> means patents, copyrights, trademarks, trade secrets, and any other proprietary intellectual property rights.</p>
-<p>
-<strong>“Mailgun Configuration Requirements”</strong> means those specifications identified by Mailgun as required to perform the Services, such as a required reference architecture or software version as described in your Service Order or Terms of Service.</p>
-<p>
-<strong>“Representatives”</strong> means a party’s respective service providers, officers, directors, employees, contractors, Affiliates, suppliers, agents.</p>
-<p>
-<strong>“Sensitive Data”</strong> means any: (i) personally identifiable information or information that is referred to as personal data (including sensitive personal data), PII (or other like term) under applicable data protection or privacy law and includes information that by itself or combined with other information can be used to identify a person, (ii) trade secrets, (iii) financial records (iv) other sensitive, regulated, or confidential information.</p>
-<p>
-<strong>“Services”</strong> or <strong>“Mailgun Services”</strong> means the Mailgun services identified in a specific Service Order.
+<p>“Control Panel” means the customer portal accessible to Customer containing, among other information, the pricing terms applicable to Customer’s use of the Services and users designated to receive support.
+</p>
+<p>“Customer Configuration” means an information technology system which is the subject of the Services or to which the Services relate.</p>
+<p>“Customer Data” means all data which you receive, store, or transmit on or using the Customer Configuration.</p>
+<p>“Deliverables” means the tangible or intangible materials which are prepared for your use in the course of performing the Services and that are specifically identified in a Service Order as Deliverables and described therein.</p>
+<p>“Intellectual Property” means patents, copyrights, trademarks, trade secrets, and any other proprietary intellectual property rights.</p>
+<p>“Mailgun Configuration Requirements” means those specifications identified by Mailgun as required to perform the Services, such as a required reference architecture or software version as described in your Service Order or Terms of Service.</p>
+<p>“Representatives” means a party’s respective service providers, officers, directors, employees, contractors, Affiliates, suppliers, agents.</p>
+<p>“Sensitive Data” means any: (i) personally identifiable information or information that is referred to as personal data (including sensitive personal data), PII (or other like term) under applicable data protection or privacy law and includes information that by itself or combined with other information can be used to identify a person, (ii) trade secrets, (iii) financial records (iv) other sensitive, regulated, or confidential information.</p>
+<p>“Services” or “Mailgun Services” means the Mailgun services identified in a specific Service Order.
 Services which are provided on an on-going basis over a defined term are referred to as “Recurring Service” and Services which are provided on a one-off basis are referred to as “One Time Services”.</p>
-<p>
-<strong>“SLA”</strong> means any provision providing a specified credit remedy for an identified failure to deliver or provide the Services to the identified standard.</p>
-<p>
-<strong>“Service Order”</strong> means the document which describes the Services you are purchasing, including any online order, process, or tool through which you request or provision Services.</p>
+<p>“SLA” means any provision providing a specified credit remedy for an identified failure to deliver or provide the Services to the identified standard.</p>
+<p>“Service Order” means the document which describes the Services you are purchasing, including any online order, process, or tool through which you request or provision Services.</p>
 <p>
 <strong>2.
 MAILGUN SERVICES.
@@ -46,9 +34,9 @@ CREDITS</strong>
 <strong>2.1 General.</strong> Mailgun will provide the Services in accordance with the Agreement and all laws applicable to Mailgun.
 Mailgun’s obligation to provide Services is contingent on verification that you at all times satisfy Mailgun’s credit approval criteria.
 Mailgun shall have no obligation to provide Services for Customer Configurations which do not meet the Mailgun Configuration Requirements.
-Mailgun will provide support only to those individuals designated in your customer portal and is not required to provide any support directly to your end users.</p>
+Mailgun will provide support only to those individuals designated in the Control Panel and is not required to provide any support directly to your end users.</p>
 <p>
-<strong>2.2 Service Level Agreement.</strong> Mailgun guarantees that the Services (meaning any or all of the API, SMTP and Outbound Delivery services listed at status.mailgun.com) will be available 99.99% of the time in any given monthly billing period, excluding maintenance.
+<strong>2.2 Service Level Agreement.</strong> Mailgun guarantees that the Services (meaning any or all of the API, SMTP and Outbound Delivery services listed at status.mailgun.com) will be available 99.99% of the time in any given monthly billing period, excluding maintenance.
 You are entitled to a credit of 5% of your given monthly fee for the Services for each 30 minutes of Mailgun Service unavailability (after the first .01%) in a given monthly period.</p>
 <p>
 <strong>2.3 Credit Limitations.</strong> You are not entitled to a credit if you are in breach of the terms governing your use of the Services until you have cured the breach.
@@ -83,7 +71,7 @@ You are responsible for keeping your account permissions, billing, and other acc
 You agree that your use of any Customer Configuration provided by Mailgun will comply with the Acceptable Use Policy (the “AUP”) at http://www.mailgun.com/aup.
 You agree that you are solely responsible for the suitability of the Services and your compliance with any applicable laws, including export laws and data privacy laws.</p>
 <p>
-<strong>3.2 Documentation.</strong> You agree to comply with the Mailgun documentation found at http://documentation.mailgun.com and agree that Mailgun may establish new procedures for your use of the Services as Mailgun deems necessary for the optimal performance of the Services.
+<strong>3.2 Documentation.</strong> You agree to comply with the Mailgun documentation found at http://documentation.mailgun.com and agree that Mailgun may establish new procedures for your use of the Services as Mailgun deems necessary for the optimal performance of the Services.
 An individual email message may not exceed the per-message size limit (including attachments) of 25MB or it may be permanently lost.</p>
 <p>
 <strong>3.3 Data Backup.</strong> Mailgun shall only back up data to the extent stated on a Service Order.
@@ -98,7 +86,7 @@ You agree that if the Services are reinstated after a suspension for non-payment
 SECURITY</strong>
 </p>
 <p>
-<strong>4.1 Generally.</strong> Mailgun shall provide the Services in accordance with the security and privacy practices set forth at http://www.mailgun.com/security-privacy attached hereto and any additional security specifications identified in the Service Order or these Terms of Service.
+<strong>4.1 Generally.</strong> Mailgun shall provide the Services in accordance with the security and privacy practices set forth at http://www.mailgun.com/security-privacy attached hereto and any additional security specifications identified in the Service Order or these Terms of Service.
 You must use reasonable security precautions in connection with your use of the Services, including appropriately securing and encrypting Sensitive Data stored on or transmitted using the Customer Configuration.
 Customer Data is, and at all times shall remain, your exclusive property.
 Mailgun will not use or disclose Customer Data except as materially required to perform the Services or as required by law.</p>
@@ -116,12 +104,14 @@ INTELLECTUAL PROPERTY</strong>
 If you provide Mailgun with your pre-existing Intellectual Property (“Customer IP”), then you hereby grant to Mailgun, during the term of the applicable Service Order, a limited, worldwide, non-transferable, royalty-free, right and license (with right of sub-license where required to perform the Services) to use the Customer IP solely for the purpose of providing the Services.
 You represent and warrant that you have all rights in the Customer IP necessary to grant this license, and that Mailgun’s use of such Customer IP shall not infringe on the Intellectual Property rights of any third party.</p>
 <p>
-<strong>5.2 Created by Mailgun.</strong> Unless otherwise specifically stated in the applicable Service Order, and excluding any Customer IP, Mailgun shall own all Intellectual Property created as part of providing the Services or contained in the Deliverables. Unless otherwise specifically stated in the Agreement, and subject to your payment in full for the applicable Services, Mailgun grants to you a limited, non-exclusive, non-transferable, royalty-free right and license (without the right to sublicense) to use any Deliverables, and during the term of the Service Order any Intellectual Property (excluding any Third Party Software and any Open Source Software), provided to you by Mailgun as part of the Services for your internal use as necessary for you to enjoy the benefit of the Services.</p>
+<strong>5.2 Created by Mailgun.</strong> Unless otherwise specifically stated in the applicable Service Order, and excluding any Customer IP, Mailgun shall own all Intellectual Property created as part of providing the Services or contained in the Deliverables.
+Unless otherwise specifically stated in the Agreement, and subject to your payment in full for the applicable Services, Mailgun grants to you a limited, non-exclusive, non-transferable, royalty-free right and license (without the right to sublicense) to use any Deliverables, and during the term of the Service Order any Intellectual Property (excluding any Third Party Software and any Open Source Software), provided to you by Mailgun as part of the Services for your internal use as necessary for you to enjoy the benefit of the Services.</p>
 <p>
 <strong>5.3 Open Source.</strong> In the event Mailgun distributes any open source software to you as part of the Services (for example Linux, OpenStack, and software licensed under the Apache, GPL, MIT or other open source licenses, collectively “Open Source Software”) then such Open Source Software is subject to the terms of the applicable open source license.
 To the extent there is a conflict with these Terms of Service, the terms of the applicable open source license shall control.</p>
 <p>
-<strong>5.4 Third Party Software.</strong> Mailgun may provide third party software for your use as part of the Services or to assist in our delivery of the Services (“Third Party Software”).  Unless otherwise permitted by the terms of the applicable license you may not (i) assign, grant or transfer any interest in the Third Party Software to another individual or entity, (ii) reverse engineer, decompile, copy or modify the Third Party Software, (iii) modify or obscure any copyright, trademark or other proprietary rights notices that are contained in or on the Third Party Software, or (iv) exercise any of the reserved Intellectual Property rights provided under the laws governing this Agreement.
+<strong>5.4 Third Party Software.</strong> Mailgun may provide third party software for your use as part of the Services or to assist in our delivery of the Services (“Third Party Software”).
+Unless otherwise permitted by the terms of the applicable license you may not (i) assign, grant or transfer any interest in the Third Party Software to another individual or entity, (ii) reverse engineer, decompile, copy or modify the Third Party Software, (iii) modify or obscure any copyright, trademark or other proprietary rights notices that are contained in or on the Third Party Software, or (iv) exercise any of the reserved Intellectual Property rights provided under the laws governing this Agreement.
 You may only use Third Party Software provided for your use as part of the Services (identified on the Service Order) on the Customer Configuration on which it was originally installed, subject to any additional restrictions identified in these Terms of Service or Service Order.
 You are prohibited from using Third Party Software which Mailgun installs in order to assist our delivery of the Services.
 Upon termination of the Service Order, you will permit removal of the Third Party Software.
@@ -133,18 +123,21 @@ Mailgun makes no representation or warranty regarding Third Party Software excep
 FEES</strong>
 </p>
 <p>
-<strong>6.1 Fees.</strong> You agree to pay to Mailgun the fees for the Services based on the rates and charges set forth in the applicable Service Order (or, if rates and charges are not set forth in the applicable Service Order, then as set forth in Mailgun’s then-current standard published rates and charges found at https://www.mailgun.com/pricing).  Fees are due within thirty days from the invoice date.
+<strong>6.1 Fees.</strong> You agree to pay to Mailgun the fees for the Services based on the rates and charges set forth in your Control Panel or Service Order, as applicable.
+Fees are due within thirty days from the invoice date.
 If you have arranged for payment by credit card, Mailgun may charge your card or account on or after the invoice date.
 If your undisputed payment is fifteen days or more late Mailgun may suspend the Services and any other services you receive from Mailgun on written notice.
 Mailgun shall undertake collection efforts prior to suspension.
 Invoices that are not disputed within one hundred and twenty days of the invoice date are conclusively deemed accurate.
-Fees must be paid in the currency identified on the Service Order.
+Fees must be paid in the currency identified in your Control Panel or Service Order, as applicable.
 You are solely responsible for all wire transfer and other bank fees associated with the delivery of payments to Mailgun.
 Mailgun may charge interest on overdue amounts at the greater of 1.5% per month or the maximum legal rate, and may charge you for any cost or expense arising out of our collection efforts.</p>
 <p>
-<strong>6.2 Fee Increases.</strong> Mailgun may revise its standard rates and charges for the Services at any time by publishing such revised rates and charges at https://www.mailgun.com/pricing.
-For any Service Order in effect on the date of such revision, the revised rates, charges and fees assessed to you for Services under such Service Order will not become effective until the commencement of the next renewal term of such Service Order.  Unless otherwise expressly provided in the applicable Service Order or in a notice provided by Mailgun to you at least thirty (30) days prior to the expiration of the then-current term of the applicable Service Order, the rates and charges set forth in a Service Order will increase automatically by nine percent (9%) (as compared to the rates and charges in effect for the immediately preceding term) effective upon the commencement of each renewal term (and the Service Order will be deemed amended to reflect such increased rates and charges).
-If at any time during either an initial or renewal term a third party license provider directly or indirectly increases the fee they charge Mailgun for your use of Third Party Software, Mailgun may increase your fees by the same percentage amount on ninety days advance written notice.</p>
+<strong>6.2 Fee Increases.</strong> Mailgun may revise the pricing terms that apply to your use of the Services at any time by providing you with notice pursuant to Section 12 of these Terms of Service..
+With respect to Customers that are not party to a then-effective Service Order, such rate changes will be effective immediately upon the posting of an update to your Control Panel.
+With respect to Customers that are party to a then-effective Service Order, the revised rates, charges and fees assessed to you for Services under such Service Order will not become effective until the commencement of the next renewal term of such Service Order.
+With respect to Customers that are party to a then-effective Service Order, unless otherwise expressly provided in a notice provided by Mailgun pursuant to this Section 6.2, the rates and charges set forth in a Service Order will increase automatically by nine percent (9%) (as compared to the rates and charges in effect for the immediately preceding term) effective upon the commencement of each renewal term (and the Service Order will be deemed amended to reflect such increased rates and charges).
+If at any time during either an initial or renewal term of a Service Order a third party license provider directly or indirectly increases the fee they charge Mailgun for your use of Third Party Software, Mailgun may increase your fees by the same percentage amount on ninety (90) days’ advance written notice.</p>
 <p>
 <strong>6.3 Taxes.</strong> All amounts due to Mailgun under the Agreement are exclusive of any value added, goods and services, sales, use, property, excise and like taxes, import duties and/or applicable levies (collectively, “Tax”).
 You must pay Mailgun the Tax that is due or provide Mailgun with satisfactory evidence of your exemption from the Tax in advance of invoicing.
@@ -153,24 +146,20 @@ All payments to Mailgun shall be made without any withholding or deduction for a
 You agree to timely provide Mailgun with accurate factual information and documentation of your payment of any such Local Withholding Taxes.
 Mailgun shall remit such cost to you in the form of a credit on your outstanding account balance following receipt of sufficient evidence of payment of any such Local Withholding Taxes.</p>
 <p>
-<strong>6.4 Reimbursement for Expenses.</strong> Unless otherwise agreed in the Service Order, if any of the Services are performed at your premises you agree to reimburse Mailgun for the actual substantiated out-of-pocket expenses of its Representatives.</p>
+<strong>6.4 Reimbursement for Expenses.</strong> Unless otherwise agreed in the Service Order or otherwise provided for in the Control Panel, if any of the Services are performed at your premises you agree to reimburse Mailgun for the actual substantiated out-of-pocket expenses of its Representatives.</p>
 <p>
 <strong>7.
 DISCLAIMERS</strong>
 </p>
 <p>
-<strong>7.1 Mailgun makes no commitment to provide any services other than the Services stated in the Service Order.
-Mailgun is not responsible to you or any third party for unauthorized access to your Customer Data or for unauthorized use of the Services that is not solely caused by Mailgun’s failure to meet its security obligations in Section 4 (Security).</strong>
-</p>
+<strong>7.1</strong> Mailgun makes no commitment to provide any services other than the Services stated in the Service Order.
+Mailgun is not responsible to you or any third party for unauthorized access to your Customer Data or for unauthorized use of the Services that is not solely caused by Mailgun’s failure to meet its security obligations in Section 4 (Security).</p>
 <p>
-<strong>7.2 At your request Mailgun may provide services that are not required by the Agreement, any such services shall be provided AS-IS with no warranty whatsoever.</strong>
-</p>
+<strong>7.2</strong> At your request Mailgun may provide services that are not required by the Agreement, any such services shall be provided AS-IS with no warranty whatsoever.</p>
 <p>
-<strong>7.3 Mailgun and its Representatives disclaim any and all warranties not expressly stated in the Agreement to the maximum extent permitted by law including implied warranties such as merchantability, satisfactory quality, fitness for a particular purpose and non-infringement.</strong>
-</p>
+<strong>7.3</strong> Mailgun and its Representatives disclaim any and all warranties not expressly stated in the Agreement to the maximum extent permitted by law including implied warranties such as merchantability, satisfactory quality, fitness for a particular purpose and non-infringement.</p>
 <p>
-<strong>7.4 Mailgun makes no representation or warranty whatsoever regarding Open Source Software or with regard to any third party products or services which Mailgun may recommend for your consideration.</strong>
-</p>
+<strong>7.4</strong> Mailgun makes no representation or warranty whatsoever regarding Open Source Software or with regard to any third party products or services which Mailgun may recommend for your consideration.</p>
 <p>
 <strong>8.
 TERM AND TERMINATION</strong>
@@ -211,23 +200,17 @@ You agree that Mailgun may use this information for our general business purpose
 LIMITATIONS ON DAMAGES</strong>
 </p>
 <p>
-<strong>10.1 Direct Damages.
-Notwithstanding anything in the Agreement to the contrary, except for liability arising from death or personal injury caused by negligence, willful misconduct, fraudulent misrepresentation or any other loss or damages for which such limitation is expressly prohibited by applicable law, the maximum aggregate monetary liability of Mailgun and any of its Representatives in connection with the Services or the Agreement under any theory of law shall not exceed the total amount paid for the Services that are the subject of the claim in the twelve months immediately preceding the event(s) that gave rise to the claim.</strong>
-</p>
+<strong>10.1 Direct Damages.</strong> Notwithstanding anything in the Agreement to the contrary, except for liability arising from death or personal injury caused by negligence, willful misconduct, fraudulent misrepresentation or any other loss or damages for which such limitation is expressly prohibited by applicable law, the maximum aggregate monetary liability of Mailgun and any of its Representatives in connection with the Services or the Agreement under any theory of law shall not exceed the total amount paid for the Services that are the subject of the claim in the twelve months immediately preceding the event(s) that gave rise to the claim.</p>
 <p>
-<strong>10.2 Indirect Damages.
-Neither party (nor any of our Representatives) is liable to the other for any indirect, special, incidental, exemplary or consequential loss or damages of any kind.
+<strong>10.2 Indirect Damages.</strong> Neither party (nor any of our Representatives) is liable to the other for any indirect, special, incidental, exemplary or consequential loss or damages of any kind.
 Neither of us is liable for any loss that could have been avoided by the damaged party’s use of reasonable diligence, even if the party responsible for the damages has been advised or should be aware of the possibility of such damages.
-In no event shall either of us be liable to the other for any punitive damages or for any loss of profits, data, revenue, business opportunities, customers, contracts, goodwill or reputation.</strong>
-</p>
+In no event shall either of us be liable to the other for any punitive damages or for any loss of profits, data, revenue, business opportunities, customers, contracts, goodwill or reputation.</p>
 <p>
-<strong>10.3 SLA Credits.
-The credits stated in any applicable SLA are your sole and exclusive remedy for Mailgun’s failure to meet those guarantees for which credits are provided.
+<strong>10.3 SLA Credits.</strong> The credits stated in any applicable SLA are your sole and exclusive remedy for Mailgun’s failure to meet those guarantees for which credits are provided.
 The maximum total credit(s) for failure to meet any applicable SLA for any calendar month shall not exceed one hundred percent of the then current monthly recurring fee for the Services.
 Credits that would be available but for this limitation will not be carried forward to future months.
 You are not entitled to a credit if you are in breach of the Agreement at the time of the occurrence of the event giving rise to the credit until you have remedied the breach.
-No credit will be due if the credit would not have accrued but for your action or omission.</strong>
-</p>
+No credit will be due if the credit would not have accrued but for your action or omission.</p>
 <p>
 <strong>11.
 INDEMNIFICATION</strong>
@@ -244,12 +227,12 @@ You must pay costs and expenses due under this Section as Mailgun incurs them.</
 <strong>12.
 NOTICES</strong>
 </p>
-<p>Your routine communications to Mailgun regarding the Services should be sent to your account team using the customer portal.
+<p>Your routine communications to Mailgun regarding the Services should be sent to your account team using the Control Panel.
 To give a notice regarding termination of the Agreement for breach, indemnification, or other legal matter, you must send it by electronic mail and first-class post to:</p>
 <p>Mailgun Technologies, Inc.<br>
 535 Mission Street<br>
 San Francisco, CA 94105</p>
-<p>Mailgun’s routine communications regarding the Services and legal notices will be posted on the customer portal or sent by email or post to the individual(s) you designate as your contact(s) on your account.
+<p>Mailgun’s routine communications regarding the Services and legal notices will be posted on the Control Panel or sent by email or post to the individual(s) you designate as your contact(s) on your account.
 Notices are deemed received as of the time posted or delivered, or if that time does not fall within a Business Day, as of the beginning of the first Business Day following the time posted or delivered.
 For purposes of counting days for notice periods, the Business Day on which the notice is deemed received counts as the first day.
 Notices must be given in the English language.</p>
@@ -322,5 +305,5 @@ Other than Representatives for the purposes of Sections 7, 10, &amp.
 <p>
 <strong>17.5</strong> The Agreement constitutes the complete and exclusive understanding between the parties regarding its subject matter and supersedes and replaces any prior or contemporaneous representation(s), agreement(s) or understanding(s), written or oral.</p>
 <p>
-<em>Last revised 10/10/17</em>
+<em>Last revised 02/21/18</em>
 </p> 
