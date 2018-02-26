@@ -1,0 +1,7 @@
+<sitename name="theguardian.com">
+ <docname name="Privacy Policy">
+   <url name="https://www.theguardian.com/help/privacy-policy" xpath="//div[@class='content__article-body from-content-api js-article__body']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
