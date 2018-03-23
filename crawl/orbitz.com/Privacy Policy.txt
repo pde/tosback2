@@ -21,7 +21,6 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 <li> Rewards </li>
 </ul>
 </li>
-<li> Travel Blog </li>
 </ul>
 <ul>
 <li>
@@ -40,7 +39,7 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 <li> Not ? <br>Log in to your account </li>
 </ul>
 </li>
-<li> My Lists 0 You have 0 recent searches   <p>Things you view while shopping are saved here.</p>
+<li> My Lists   <p>Things you view while shopping are saved here.</p>
 <p>Loading your lists...</p>
 <ul>
 </ul> View your lists </li>
@@ -51,7 +50,7 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 </ul>
 </li>
 <li> Español </li>
-</ul> //a.travel-assets.com/globalcontrols-service/content/811571b805d1a2051fe6a485554d1126f10c5f80 Search anything Search For customer service, call us toll-free at 1-800-397-3342.
+</ul> //a.travel-assets.com/globalcontrols-service/content/2e7e88da2fcc08755894f56576fb16aa97a680d9 Search anything Search For customer service, call us toll-free at 1-800-397-3342.
 For customers outside the US, please call 1-404-728-8787.
 International calling rates will apply.
 <ul>
@@ -74,7 +73,6 @@ International calling rates will apply.
 </li>
 </ul>
 </li>
-<li> Travel Blog </li>
 </ul> Beginning of main content Create your free account Create your free account Sign Up with Facebook Looking for Sign In with Google? <strong>OR</strong> We apologize for our system failure.
 Please try again Account already exists Authentication failure.
 Please try again Action required!<br>To finish creating your account, please click the link we just sent to First name <p>
@@ -693,6 +691,18 @@ provided to us or by placing a prominent notice on our website.</p>
 <p> </p> How you can contact us <p>If you have questions about either this Privacy Policy (or your travel planning or
 purchases), please email us using our customer service and feedback form.</p>
 <p>This Privacy Policy is effective as of December 4, 2015.</p> Earn Orbucks on flights, hotels &amp.
+more<ul>
+<li>Earn Orbucks</li>
+<li>Get Mobile-Exclusive Deals</li>
+<li>Book Flights &amp.
+Hotels Anywhere</li>
+<li>Track Flights &amp.
+Itineraries</li>
+</ul>Send a download link to your mobile deviceSend textOrbitz App Now Available On:By providing your number, you agree to receive a one-time automated text message with a link to get the app.
+Our app offers promotions and booking services.
+No purchase necessary.
+Standard text message rates may apply.
+Earn Orbucks on flights, hotels &amp.
 more <ul>
 <li>Earn Orbucks</li>
 <li>Get Mobile-Exclusive Deals</li>
@@ -703,10 +713,10 @@ Itineraries</li>
 </ul> Send a download link to your mobile device Enter your phone number Send text Oops! Is it possible you've already downloaded our app? Sorry, we are currently having problems connecting to our server.
 You can still download the app by clicking on the app-store buttons in our app page.
 Thank you! We are having trouble processing your phone number.
-Try using this format: XXX-XXX-XXXX.
-Thank you! It looks like you just tried to enter a non-United States phone number.
-Unfortunately, at this time we are only supporting United States numbers.
-Please enter your number in the following format: XXX-XXX-XXXX.
+Try using this format: {{phoneNumberFormat}}.
+Thank you! It looks like you just tried to enter a non-{{countryName}} phone number.
+Unfortunately, at this time we are only supporting {{countryName}} numbers.
+Please enter your number in the following format: {{phoneNumberFormat}}.
 Thank you! Thank you! A text with the download link has been sent to your mobile device Orbitz App Now Available On: By providing your number, you agree to receive a one-time automated text message with a link to get the app.
 Our app offers promotions and booking services.
 No purchase necessary.
