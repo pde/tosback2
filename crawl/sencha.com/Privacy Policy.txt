@@ -2,54 +2,44 @@
 <ul>
 <li>Products
 <ul>
-<li>Sencha Platform</li>
-<li>Why Sencha</li>
-<li>ExtReact</li>
-<li>Ext JS <ul>
 <li>Ext JS</li>
-<li>Cmd</li>
-<li>IDE &amp.
-Editor Plugins</li>
-<li>Architect</li>
-<li>Themer</li>
-<li>Inspector</li>
-<li>Framework Comparison</li>
-</ul>
-</li>
-<li>Sencha Test</li>
+<li>ExtReact</li>
 <li>GXT</li>
+<li>Sencha Test</li>
+<li>Free Tools</li>
 <li>Stencils</li>
-<li>App Modernization <ul>
-<li>IBM i</li>
-<li>Oracle Forms</li>
-<li>Cobol Mainframe Apps</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>Services
 <ul>
 <li>Professional Services</li>
-<li>Partners</li>
 <li>Training</li>
+<li>Partners</li>
 </ul>
 </li>
-<li>Pricing</li>
-<li>Developers
+<li>Solutions
 <ul>
-<li>SenchaDevs</li>
+<li>Why Sencha</li>
+<li>Comparison</li>
 </ul>
 </li>
-<li>Try</li>
-<li>Buy</li>
+<li>Resources
+<ul>
+<li>Resource Center</li>
+<li>Webinars</li>
+<li>Docs</li>
+<li>Examples</li>
+</ul>
+</li>
+<li>Buy Now</li>
+<li>Free Trial</li>
 </ul>
 <ul>
 <li>Support</li>
 <li>Forum</li>
 <li>Docs</li>
-<li>Resources</li>
 <li>Blog</li>
-<li>Contact Us</li>
+<li>SenchaDevs</li>
 <li>Search</li>
 </ul> Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure.
 Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure.<p>
@@ -315,7 +305,7 @@ See our Privacy Policy and Terms of Use for more details.</small>
 </li>
 </ul>
 </li>
-<li>NameThis field is for validation purposes and should be left unchanged.</li>
+<li>CommentsThis field is for validation purposes and should be left unchanged.</li>
 </ul> This iframe contains the logic required to handle Ajax powered Gravity Forms.
 &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9"
 height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
