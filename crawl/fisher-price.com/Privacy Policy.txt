@@ -333,8 +333,9 @@ More | Use of this site signifies your acceptance of the terms and conditions of
 <li>Careers</li>
 </ul>
 <ul>
-<li> {{links.termsandconditions[0].title}} </li>
-<li> {{links.privacy[0].title}} </li>
+<li>Terms &amp.
+Conditions</li>
+<li>Privacy Statement</li>
 </ul>
 <p>out of</p>
 <p>vote(s)</p>
