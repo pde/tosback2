@@ -109,7 +109,7 @@ We also include other important notices and disclaimers, so please read these Te
 </p>
 <p>For clarity, other organizations, such as local Wikimedia chapters and associations, that may share in the same mission are nevertheless legally independent and separate from the Wikimedia Foundation and have no responsibility for the operations of the website or its content.
 </p>
-Contents [hide] 
+Contents
 <ul>
 <li>1 Our Terms of Use</li>
 <li>2 Overview</li>
@@ -202,9 +202,9 @@ These activities include:
 <dl>
 <dd>
 <ul>
-<li> Engaging in harassment, threats, stalking, spamming, or vandalism.
+<li>Engaging in harassment, threats, stalking, spamming, or vandalism.
 and</li>
-<li> Transmitting chain mail, junk mail, or spam to other users.</li>
+<li>Transmitting chain mail, junk mail, or spam to other users.</li>
 </ul>
 </dd>
 </dl>
@@ -220,10 +220,10 @@ and</li>
 <dl>
 <dd>
 <ul>
-<li> Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content);</li>
-<li> Soliciting personally identifiable information for purposes of harassment, exploitation, violation of privacy, or any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation.
+<li>Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content);</li>
+<li>Soliciting personally identifiable information for purposes of harassment, exploitation, violation of privacy, or any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation.
 and</li>
-<li> Soliciting personally identifiable information from anyone under the age of 18 for an illegal purpose or violating any applicable law regarding the health or well-being of minors.</li>
+<li>Soliciting personally identifiable information from anyone under the age of 18 for an illegal purpose or violating any applicable law regarding the health or well-being of minors.</li>
 </ul>
 </dd>
 </dl>
@@ -239,11 +239,11 @@ and</li>
 <dl>
 <dd>
 <ul>
-<li> Intentionally or knowingly posting content that constitutes libel or defamation;</li>
-<li> With the intent to deceive, posting content that is false or inaccurate;</li>
-<li> Attempting to impersonate another user or individual, misrepresenting your affiliation with any individual or entity, or using the username of another user with the intent to deceive.
+<li>Intentionally or knowingly posting content that constitutes libel or defamation;</li>
+<li>With the intent to deceive, posting content that is false or inaccurate;</li>
+<li>Attempting to impersonate another user or individual, misrepresenting your affiliation with any individual or entity, or using the username of another user with the intent to deceive.
 and</li>
-<li> Engaging in fraud.</li>
+<li>Engaging in fraud.</li>
 </ul>
 </dd>
 </dl>
@@ -259,7 +259,7 @@ and</li>
 <dl>
 <dd>
 <ul>
-<li> Infringing copyrights, trademarks, patents, or other proprietary rights under applicable law.</li>
+<li>Infringing copyrights, trademarks, patents, or other proprietary rights under applicable law.</li>
 </ul>
 </dd>
 </dl>
@@ -275,10 +275,10 @@ and</li>
 <dl>
 <dd>
 <ul>
-<li> Posting child pornography or any other content that violates applicable law concerning child pornography;</li>
-<li> Posting or trafficking in obscene material that is unlawful under applicable law.
+<li>Posting child pornography or any other content that violates applicable law concerning child pornography;</li>
+<li>Posting or trafficking in obscene material that is unlawful under applicable law.
 and</li>
-<li> Using the services in a manner that is inconsistent with applicable law.</li>
+<li>Using the services in a manner that is inconsistent with applicable law.</li>
 </ul>
 </dd>
 </dl>
@@ -294,11 +294,11 @@ and</li>
 <dl>
 <dd>
 <ul>
-<li> Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of our users;</li>
-<li> Engaging in automated uses of the site that are abusive or disruptive of the services and have not been approved by the Wikimedia community;</li>
-<li> Disrupting the services by placing an undue burden on a Project website or the networks or servers connected with a Project website;</li>
-<li> Disrupting the services by inundating any of the Project websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose;</li>
-<li> Knowingly accessing, tampering with, or using any of our non-public areas in our computer systems without authorization.
+<li>Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of our users;</li>
+<li>Engaging in automated uses of the site that are abusive or disruptive of the services and have not been approved by the Wikimedia community;</li>
+<li>Disrupting the services by placing an undue burden on a Project website or the networks or servers connected with a Project website;</li>
+<li>Disrupting the services by inundating any of the Project websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose;</li>
+<li>Knowingly accessing, tampering with, or using any of our non-public areas in our computer systems without authorization.
 and</li>
 <li>Probing, scanning, or testing the vulnerability of any of our technical systems or networks unless all the following conditions are met:</li>
 </ul>
@@ -394,8 +394,8 @@ In keeping with our goal of providing free information to the widest possible au
 <li>
 <b>Text to which you hold the copyright:</b> When you submit text to which you hold the copyright, you agree to license it under:
 <ul>
-<li> Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and</li>
-<li> GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).</li>
+<li>Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and</li>
+<li>GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).</li>
 </ul>
 <p>(Re-users may comply with either license or both.)</p>
 <p>The only exception is if the Project edition or feature requires a different license.
@@ -496,13 +496,13 @@ In an unusual case, the need may arise, or the community may ask us, to address 
 In such cases, we reserve the right, but do not have the obligation to:
 </p>
 <ul>
-<li> Investigate your use of the service (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or appropriate governmental request;</li>
-<li> Detect, prevent, or otherwise address fraud, security, or technical issues or respond to user support requests;</li>
-<li> Refuse, disable, or restrict access to the contribution of any user who violates these Terms of Use;</li>
-<li> Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat copyright infringement;</li>
-<li> Take legal action against users who violate these Terms of Use (including reports to law enforcement authorities).
+<li>Investigate your use of the service (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or appropriate governmental request;</li>
+<li>Detect, prevent, or otherwise address fraud, security, or technical issues or respond to user support requests;</li>
+<li>Refuse, disable, or restrict access to the contribution of any user who violates these Terms of Use;</li>
+<li>Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat copyright infringement;</li>
+<li>Take legal action against users who violate these Terms of Use (including reports to law enforcement authorities).
 and</li>
-<li> Manage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.</li>
+<li>Manage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.</li>
 </ul>
 <p>In the interests of our users and the Projects, in the extreme circumstance that any individual has had his or her account or access blocked under this provision, he or she is prohibited from creating or using another account on or seeking access to the same Project, unless we provide explicit permission.
 Without limiting the authority of the community, the Wikimedia Foundation itself will not ban a user from editing or contributing or block a user's account or access solely because of good faith criticism that does not result in actions otherwise violating these Terms of Use or community policies.
