@@ -192,40 +192,21 @@ If we make material changes to this policy, we will notify you here, by email, o
 </ul> Stay Connected <p>Join our mailing list
 </p>Subscribe <ul>
 <li>Products<ul>
-<li>Sencha Platform</li>
-<li>Why Sencha</li>
-<li>ExtReact</li>
 <li>Ext JS</li>
-<li>Sencha Test</li>
+<li>ExtReact</li>
 <li>GXT</li>
-<li>Sencha Touch</li>
-<li>Cmd</li>
-<li>IDE &amp.
-Editor Plugins</li>
-<li>Architect</li>
-<li>Themer</li>
+<li>Sencha Test</li>
 <li>Stencils</li>
-<li>Inspector</li>
-<li>App Modernization</li>
 </ul>
 </li>
 </ul>
 <ul>
 <li>Services<ul>
 <li>Professional Services</li>
-<li>Partners</li>
 <li>Training</li>
+<li>Partners</li>
 </ul>
 </li>
-</ul>
-<ul>
-<li>SenchaDevs</li>
-</ul>
-<ul>
-<li>Pricing</li>
-</ul>
-<ul>
-<li>Customers</li>
 </ul>
 <ul>
 <li>Support<ul>
@@ -235,20 +216,10 @@ Editor Plugins</li>
 </li>
 </ul>
 <ul>
-<li>Resources<ul>
-<li>Videos</li>
-<li>Webinars</li>
-<li>Examples</li>
-<li>Datasheets</li>
-<li>White Papers</li>
-</ul>
-</li>
-</ul>
-<ul>
 <li>Company<ul>
 <li>Overview</li>
-<li>Team</li>
-<li>Events</li>
+<li>Customers</li>
+<li>Blog</li>
 <li>In the News</li>
 <li>Press Releases</li>
 <li>Careers</li>
@@ -257,20 +228,25 @@ Editor Plugins</li>
 </li>
 </ul>
 <ul>
+<li>Resources<ul>
+<li>Resource Center</li>
+<li>Webinars</li>
+<li>Docs</li>
+<li>Examples</li>
+</ul>
+</li>
+</ul>
+<ul>
 <li>Store<ul>
-<li>Ext JS</li>
-<li>ExtReact</li>
-<li>Sencha Test</li>
-<li>GXT</li>
+<li>Buy Now</li>
+<li>Pricing</li>
 <li>Licensing</li>
 <li>Ordering Information</li>
-<li>Web Purchase Policy</li>
 <li>Authorized Resellers</li>
 </ul>
 </li>
-</ul>Stay Connected <p>Join our mailing list
-</p>
-Subscribe <p>© 2018 Sencha Inc.
+</ul>
+<p>© 2018 Sencha Inc.
 All rights reserved.</p>
 <ul>
 <li>GDPR</li>
@@ -308,7 +284,7 @@ See our Privacy Policy and Terms of Use for more details.</small>
 </li>
 </ul>
 </li>
-<li>EmailThis field is for validation purposes and should be left unchanged.</li>
+<li>CommentsThis field is for validation purposes and should be left unchanged.</li>
 </ul> This iframe contains the logic required to handle Ajax powered Gravity Forms.
 &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9"
 height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
