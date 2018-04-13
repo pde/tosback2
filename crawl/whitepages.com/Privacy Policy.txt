@@ -5,7 +5,7 @@ border-style: none;"&gt;&lt;/iframe&gt.
 &lt;div style="width: 306px;height: 60px;border-style: none;bottom: 12px;left: 25px;margin: 5px 0 0 0;padding: 0px;right: 25px;background: #ffffff;border: 1px solid #f7f7f7;border-radius: 5px;"&gt.
 &lt;input type="text" id="fc-token" name="fc-token" placeholder="Copy verification code into here" style="width: 270px;height: 24px;border: 1px solid #f7f7f7;border-radius: 5px;padding: 10px;margin: 7px;resize: none;font-size: 11px;-webkit-font-smoothing: antialiased;color: #212121;background: #f7f7f7;text-align: center;"&gt.
 &lt;/div&gt.
-You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-04-12 05:37:39 UTC.<br> Trace: d48cd6ea-7f83-4f49-83f3-0c1e6d568e17 via 47d589ff-d441-49af-b5e7-1c448344b38f <ul>
+You reached this page when attempting to access http://www.whitepages.com/privacy from 162.211.64.106 on 2018-04-13 05:33:34 UTC.<br> Trace: 747187f8-eb56-4c6a-bd0c-b0d50beb3195 via 6877ff77-92ad-4de5-9c68-afaf3f6b9b0e <ul>
 <li> About </li>
 <li> Careers </li>
 <li> Help </li>
@@ -154,9 +154,8 @@ You reached this page when attempting to access http://www.whitepages.com/privac
 <strong>Find</strong>
 <ul>
 <li> People Search </li>
-<li> Phone Search </li>
-<li> Address Search </li>
-<li> Business Search </li>
+<li> Reverse Phone </li>
+<li> Reverse Address </li>
 <li> Background Search </li>
 </ul>
 <strong>Your Whitepages</strong>
@@ -171,7 +170,7 @@ You reached this page when attempting to access http://www.whitepages.com/privac
 <li> Whitepages Apps </li>
 <li> Phone Scams </li>
 <li> Developers </li>
-<li> Yellow Pages Search by State City Yellow Pages <ul>
+<li> Yellow Pages Search by Province City Yellow Pages <ul>
 <li> Atlanta </li>
 <li> Boston </li>
 <li> Chicago </li>
@@ -200,7 +199,7 @@ You reached this page when attempting to access http://www.whitepages.com/privac
 <li> Washington, DC </li>
 </ul>
 </li>
-<li> White Pages Search by State City White Pages <ul>
+<li> White Pages Search by Province City White Pages <ul>
 <li> Atlanta </li>
 <li> Boston </li>
 <li> Chicago </li>
@@ -232,7 +231,7 @@ You reached this page when attempting to access http://www.whitepages.com/privac
 <li> 411.com </li>
 </ul>
 <ul>
-<li> ZIP Codes </li>
+<li> Postal Codes </li>
 <li> Area Codes </li>
 <li> Phone Numbers </li>
 <li> People: <ul>
