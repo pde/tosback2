@@ -4,8 +4,8 @@
 <li>Schedule</li>
 <li>Standings</li>
 <li>Video</li>
-<li>Fantasy</li>
 <li>Draft</li>
+<li>Fantasy</li>
 <li>Tickets</li>
 <li>Shop</li>
 <li>Teams</li>
@@ -22,7 +22,6 @@
 <li>Schedule</li>
 <li>Standings</li>
 <li>Video</li>
-<li>Fantasy</li>
 <li>Draft</li>
 </ul>
 <ul>
@@ -42,6 +41,7 @@
 </li>
 </ul>
 <ul>
+<li>Fantasy</li>
 <li>Tickets</li>
 <li>Shop</li>
 <li>Teams</li>
