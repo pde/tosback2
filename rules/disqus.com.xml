@@ -1,12 +1,12 @@
 <sitename name="disqus.com">
- <docname name="Terms of Service">
-   <url name="https://help.disqus.com/customer/portal/articles/466260-terms-of-service" xpath="//div[@id='content']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Privacy Policy">
-   <url name="https://help.disqus.com/customer/portal/articles/466259-privacy-policy" xpath="//div[@id='content']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+  <docname name="Terms of Service">
+    <url name="https://help.disqus.com/terms-and-policies/terms-of-service" xpath="//article" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://help.disqus.com/terms-and-policies/disqus-privacy-policy" xpath="//article" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

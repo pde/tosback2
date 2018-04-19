@@ -1,7 +1,7 @@
 <sitename name="google.com.br">
- <docname name="Privacy Policy">
-   <url name="https://www.google.com.br/intl/pt-BR/policies/privacy/" xpath="//div[@class='maia-article']">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://policies.google.com/privacy?hl=pt-BR&amp;gl=br" xpath="//div[@role='article']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

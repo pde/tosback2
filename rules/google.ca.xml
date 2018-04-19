@@ -1,7 +1,7 @@
 <sitename name="google.ca">
- <docname name="Privacy Policy">
-   <url name="http://www.google.ca/intl/en/policies/privacy/" xpath="//div[@class='maia-article']">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://policies.google.com/privacy?hl=en&amp;gl=ca" xpath="//div[@role='article']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

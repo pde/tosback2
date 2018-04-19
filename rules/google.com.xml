@@ -1,17 +1,17 @@
 <sitename name="google.com">
- <docname name="Privacy Policy">
-   <url name="http://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Terms of Service">
-   <url name="http://www.google.com/intl/en/policies/terms/" xpath="//div[@class='maia-article']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
- <docname name="Google Analytics Terms of Service">   
-   <url name="https://www.google.com/analytics/terms/us.html" xpath="//div[@class='main']">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+  <docname name="Terms of Service">
+    <url name="https://policies.google.com/terms" xpath="//div[@role='article']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://policies.google.com/privacy" xpath="//div[@role='article']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Google Analytics Terms of Service">   
+    <url name="https://www.google.com/analytics/terms/us.html" xpath="//div[@class='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

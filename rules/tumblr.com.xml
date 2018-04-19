@@ -1,12 +1,12 @@
 <sitename name="tumblr.com">
- <docname name="Privacy Policy">
-   <url name="https://www.tumblr.com/policy/en/privacy" xpath="//div[@id=&apos;left_column&apos;]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
-<docname name="Terms of Service">   
-   <url name="https://www.tumblr.com/policy/en/terms-of-service" xpath="//div[@id=&apos;left_column&apos;]" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.tumblr.com/privacy/en" xpath="//div[@id=&apos;left_column&apos;]" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">   
+    <url name="https://www.tumblr.com/policy/en/terms-of-service" xpath="//div[@id=&apos;left_column&apos;]" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

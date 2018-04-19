@@ -1,7 +1,7 @@
 <sitename name="google.nl">
- <docname name="Privacy Policy">
-   <url name="http://www.google.nl/intl/nl/policies/privacy/" xpath="//div[@class='maia-article']">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://policies.google.com/privacy?hl=nl&amp;gl=nl" xpath="//div[@role='article']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>
