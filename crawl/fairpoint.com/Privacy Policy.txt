@@ -34,17 +34,15 @@
 </li>
 <li> Medium &amp.
 Enterprise <ul>
-<li> Data &amp.
-Internet <ul>
+<li> Data Networking <ul>
 <li> Switched Ethernet </li>
-<li> Dedicated Internet Access </li>
-<li> Internet Service </li>
-<li> Managed Wireless LAN </li>
 <li> MPLS-VPN </li>
+<li> Dedicated Internet </li>
+<li> Managed Wireless LAN </li>
 <li> Remote VPN </li>
-<li> Private Line </li>
 <li> Network Failover </li>
 <li> Data Backup </li>
+<li> Private Line </li>
 </ul>
 </li>
 <li> Voice <ul>
@@ -356,8 +354,7 @@ Click your address from the drop-down as it appears or keep typing to refine you
 </li>
 <li> Medium &amp.
 Enterprise <ul>
-<li> Data &amp.
-Internet </li>
+<li> Data Networking </li>
 <li> Voice </li>
 <li> Data Center Services </li>
 <li> Security Services </li>
