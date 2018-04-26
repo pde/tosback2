@@ -1,5 +1,5 @@
  Menu PayPal <ul>
-<li>Personal<ul>Personal
+<li>PersonalPersonal<ul>
 <li>What is PayPal? <em>Learn how PayPal works in your everyday life</em>
 </li>
 <li>Check Out Securely Online <em>Use your credit cards or other funds</em>
@@ -15,7 +15,7 @@ PayPal Credit</em>
 <li>Shopping and More <em>Deals, gift cards and donations</em>
 </li>
 </ul>Close</li>
-<li>Business<ul>Business
+<li>BusinessBusiness<ul>
 <li>All Business Solutions <em>Merchant services, invoicing, and more</em>
 </li>
 <li>Get Paid in Person <em>Mobile card readers and POS solutions</em>
@@ -29,10 +29,8 @@ PayPal Credit</em>
 <li>Offer Credit to Your Customers <em>Promote financing to help increase sales</em>
 </li>
 </ul>Close</li>
-<li>Send<ul>Send
-</ul>Close</li>
-<li>Request<ul>Request
-</ul>Close</li>
+<li>Send</li>
+<li>Request</li>
 </ul>
 <ul>
 <li>Sign Up for Free</li>
@@ -78,4 +76,4 @@ Contact</li>
 <li>Legal</li>
 <li> Feedback </li>
 </ul>
-&lt;img src="https://t.paypal.com/ts?nojs=1&amp;pgrp=main%3Amktg%3Apersonal%3A%3Ahome&amp;page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&amp;tmpl=home.dust&amp;pgst=Unknown&amp;calc=ced7a0edc370&amp;rsta=en_US&amp;pgtf=Nodejs&amp;s=ci&amp;csci=47d9afc0c5eb46dcb444f521738e1883&amp;comp=mppnodeweb&amp;tsrce=mppnodeweb&amp;pgld=Unknown&amp;ccpg=us&amp;bzsr=main&amp;bchn=mktg&amp;pgsf=personal&amp;lgin=out&amp;shir=main_mktg_personal_&amp;pros=3&amp;lgcook=0" alt="" height="1" width="1" border="0"&gt.
+&lt;img src="https://t.paypal.com/ts?nojs=1&amp;pgrp=main%3Amktg%3Apersonal%3A%3Ahome&amp;page=main%3Amktg%3Apersonal%3A%3Ahome%3A%3A%3A&amp;tmpl=home.dust&amp;pgst=Unknown&amp;calc=5534baaea8f5&amp;rsta=en_US&amp;pgtf=Nodejs&amp;s=ci&amp;csci=f2c6e5c09f004e6cb17db0aa8598dbea&amp;comp=mppnodeweb&amp;tsrce=mppnodeweb&amp;pgld=Unknown&amp;ccpg=us&amp;bzsr=main&amp;bchn=mktg&amp;pgsf=personal&amp;lgin=out&amp;shir=main_mktg_personal_&amp;pros=3&amp;lgcook=0" alt="fptiTracking" height="1" width="1" border="0"&gt.
