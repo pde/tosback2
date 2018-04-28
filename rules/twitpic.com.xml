@@ -1,11 +1,11 @@
 <sitename name="twitpic.com">
   <docname name="Privacy Policy">
-    <url name="https://twitter.com/en/privacy" xpath="//div[@id='main-content']" reviewed="true">
+    <url name="https://twitter.com/en/privacy" xpath="//main" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname> 
   <docname name="Terms of Service">
-    <url name="https://twitter.com/en/tos" xpath="//div[@id='main-content']" reviewed="true">
+    <url name="https://twitter.com/en/tos" xpath="//main" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
