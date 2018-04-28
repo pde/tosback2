@@ -112,18 +112,18 @@ Tights </li>
 <li> Gloves </li>
 </ul>
 </li>
-<li> Men FEATURED SHOPS <ul>
-<li> New Arrivals </li>
-<li> No Iron Shop </li>
-<li> Supima Shirts &amp.
-Sweaters </li>
-<li> Select Dress Shirts Now $24.97 </li>
-<li> Sale </li>
-</ul> SHOP BY SIZE RANGE <ul>
+<li> Men SHOP BY SIZE RANGE <ul>
 <li> Regular </li>
 <li> Tall </li>
 <li> Big &amp.
 Tall </li>
+<li> Big </li>
+</ul> FEATURED SHOPS <ul>
+<li> New Arrivals </li>
+<li> No Iron Shop </li>
+<li> Supima Shirts &amp.
+Sweaters </li>
+<li> Sale </li>
 </ul> CATEGORIES <ul>
 <li> Swimwear </li>
 <li> Fleece </li>
@@ -408,20 +408,42 @@ Gifts </li>
 <li> Baby Blankets </li>
 </ul> DOG SHOP &gt.
 </li>
-<li> Sale SHOP SALE <ul>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
-<li> School Uniforms </li>
-</ul> SHOP CLEARANCE <ul>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
-</ul> FEATURED SHOPS <ul>
+<li> Sale WOMEN'S SALE &gt.
+<ul>
+<li> Regular </li>
+<li> Plus </li>
+<li> Petite </li>
+<li> Tall </li>
+<li> Petite Plus </li>
+<li> Shoes </li>
+<li> Accessories </li>
+</ul> MEN'S SALE &gt.
+<ul>
+<li> Regular </li>
+<li> Tall </li>
+<li> Big </li>
+<li> Big and Tall </li>
+<li> Shoes </li>
+<li> Accessories </li>
+</ul> GIRLS' SALE &gt.
+<ul>
+<li> Toddler Girl (2T-4T) </li>
+<li> Little Girl (size 4-7) </li>
+<li> Big Girl (size 7-16) </li>
+<li> Girl Plus (size 7+-16+) </li>
+</ul> BOYS' SALE &gt.
+<ul>
+<li> Toddler Boy (2T-4T) </li>
+<li> Little Boy (size 4-7) </li>
+<li> Big Boy (size 7-20) </li>
+<li> Boy Husky (size 8H-20H) </li>
+</ul> KIDS' SALE <ul>
+<li> Kids' Shoes </li>
+<li> Kids' Accessories </li>
+</ul> HOME SALE &gt.
+BAGS SALE &gt.
+SCHOOL UNIFORMS SALE &gt.
+FEATURED SHOPS <ul>
 <li> On The Counter </li>
 </ul> WINTER SALE &amp.
 CLEARANCE <ul>
@@ -566,20 +588,6 @@ Robes </li>
 <i>
 </i> Back </li>
 <li> Shop all Men </li>
-<li> FEATURED SHOPS <i>
-</i>
-<ul>
-<li>
-<i>
-</i> Back </li>
-<li> New Arrivals </li>
-<li> No Iron Shop </li>
-<li> Supima Shirts &amp.
-Sweaters </li>
-<li> Select Dress Shirts Now $24.97 </li>
-<li> Sale </li>
-</ul>
-</li>
 <li> SHOP BY SIZE RANGE <i>
 </i>
 <ul>
@@ -590,6 +598,20 @@ Sweaters </li>
 <li> Tall </li>
 <li> Big &amp.
 Tall </li>
+<li> Big </li>
+</ul>
+</li>
+<li> FEATURED SHOPS <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> New Arrivals </li>
+<li> No Iron Shop </li>
+<li> Supima Shirts &amp.
+Sweaters </li>
+<li> Sale </li>
 </ul>
 </li>
 <li> SHOES <i>
@@ -1077,33 +1099,76 @@ Gifts </li>
 <i>
 </i> Back </li>
 <li> Shop all Sale </li>
-<li> SHOP SALE <i>
+<li> WOMEN'S SALE <i>
 </i>
 <ul>
 <li>
 <i>
 </i> Back </li>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
-<li> School Uniforms </li>
+<li> View All </li>
+<li> Regular </li>
+<li> Plus </li>
+<li> Petite </li>
+<li> Tall </li>
+<li> Petite Plus </li>
+<li> Shoes </li>
+<li> Accessories </li>
 </ul>
 </li>
-<li> SHOP CLEARANCE <i>
+<li> MEN'S SALE <i>
 </i>
 <ul>
 <li>
 <i>
 </i> Back </li>
-<li> Women </li>
-<li> Men </li>
-<li> Girls </li>
-<li> Boys </li>
-<li> Home </li>
+<li> View All </li>
+<li> Regular </li>
+<li> Tall </li>
+<li> Big </li>
+<li> Big and Tall </li>
+<li> Shoes </li>
+<li> Accessories </li>
 </ul>
 </li>
+<li> GIRLS' SALE <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> View All </li>
+<li> Toddler Girl (2T-4T) </li>
+<li> Little Girl (size 4-7) </li>
+<li> Big Girl (size 7-16) </li>
+<li> Girl Plus (size 7+-16+) </li>
+</ul>
+</li>
+<li> BOYS' SALE <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> View All </li>
+<li> Toddler Boy (2T-4T) </li>
+<li> Little Boy (size 4-7) </li>
+<li> Big Boy (size 7-20) </li>
+<li> Boy Husky (size 8H-20H) </li>
+</ul>
+</li>
+<li> KIDS' SALE <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> Kids' Shoes </li>
+<li> Kids' Accessories </li>
+</ul>
+</li>
+<li> HOME SALE </li>
+<li> BAGS SALE </li>
+<li> SCHOOL UNIFORMS SALE </li>
 <li> FEATURED SHOPS <i>
 </i>
 <ul>
