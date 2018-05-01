@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: February 2018 What's new? <i>
+Microsoft Privacy StatementLast Updated: April 2018 What's new? <i>
 </i>Expand All<i>
 </i>Collapse AllPrint<p>Your privacy is important to us.
 This privacy statement explains what personal data Microsoft collects from you, through our interactions with you and through our products, and how we use that data.</p>
@@ -9,14 +9,14 @@ This statement applies to Microsoft’s interactions with you and the Microsoft 
 <p>The most recent version of this privacy statement can be found at aka.ms/privacy.</p>Personal Data We CollectHow We Use Personal DataReasons We Share Personal DataHow to Access &amp.
 Control Your Personal DataCookies &amp.
 Similar TechnologiesNotice to End UsersMicrosoft accountOther Important Privacy Information<i>
-</i>Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data From ChildrenPreview or Free of Charge ReleasesChanges to This Privacy StatementHow to Contact UsProduct-specific details:Enterprise &amp.
+</i>Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data from ChildrenPreview ReleasesChanges to This Privacy StatementHow to Contact UsProduct-specific details:Enterprise &amp.
 Developer Products<i>
-</i>Enterprise Online ServicesEnterprise and Developer Software and AppliancesCognitive ServicesProductivity &amp.
+</i>Enterprise Online ServicesEnterprise and Developer Software and AppliancesProductivity &amp.
 Communications Products<i>
 </i>OfficeOneDriveOutlookSkypeSearch &amp.
 Artificial Intelligence<i>
 </i>BingCortanaMicrosoft TranslatorSwiftKeyWindows<i>
-</i>ActivationAdvertising IDDiagnosticsLocation Services, Motion Sensing, &amp.
+</i>ActivationActivity HistoryAdvertising IDDiagnosticsLocation Services, Motion Sensing, &amp.
 RecordingSecurity and Safety FeaturesSpeech, Inking and TypingSync SettingsUpdate ServicesWeb Browsers: Microsoft Edge and Internet ExplorerWi-Fi Connecting to suggested open hotspotsWindows AppsWindows Media PlayerWindows HelloWindows SearchEntertainment and Related Services<i>
 </i>XboxMicrosoft StoreMSNGroove Music/Movies &amp.
 TVSilverlightMicrosoft Health Services<i>
@@ -31,7 +31,7 @@ Swiss-U.S.
 Privacy Shield<p>Microsoft adheres to the principles of the EU-U.S.
 and Swiss-U.S.
 Privacy Shield frameworks.
-To learn more, Click here.</p>Personal Data We CollectPersonal Data We Collect<p>Microsoft collects data to operate effectively and provide you the best experiences with our products.
+To learn more, click here.</p>Personal Data We CollectPersonal Data We Collect<p>Microsoft collects data to operate effectively and provide you the best experiences with our products.
 You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support.
 We get some of it by recording how you interact with our products by, for example, using technologies like cookies, and receiving error reports or usage data from software running on your device.
 We also obtain data from third parties.</p>
@@ -121,7 +121,7 @@ Other data we collect to provide communication services to you include the:</p>
 <strong>Video</strong>.
 If you enter Microsoft Store locations or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.</p>
 <p>If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.</p>
-<p>If you use Enterprise Online Services, Microsoft collects <strong>Customer Data</strong> (including content), <strong>Support Data</strong>, and <strong>Administrator Data</strong>, defined below in the Enterprise and Developer Products section.
+<p>If you use Enterprise Online Services, Microsoft collects the data defined below in the Enterprise and Developer Products section.
 </p>
 <p>We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support.
 When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.</p>
@@ -279,7 +279,7 @@ or </li>
 <li>protect the rights or property of Microsoft, including enforcing the terms governing the use of the services - however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer's private content ourselves, but we may refer the matter to law enforcement.
 </li>
 </ol>
-<p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at microsoft.com/about/corporatecitizenship/en-us/reporting/transparency.
+<p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at www.microsoft.com/en-us/about/corporate-responsibility/lerr/.
 </p>
 <p> Please note that some of our products include links to products of third parties whose privacy practices differ from Microsoft's.
 If you provide personal data to any of those products, your data is governed by their privacy statements.
@@ -458,7 +458,7 @@ If you visit one of our websites, the site may set some or all of the following 
 </p>
 <ul>
 <li>
-<strong>MUID, MC1 and MSFPC</strong> - Identifies unique web browsers visiting Microsoft sites.
+<strong>MUID, MC1, and MSFPC</strong> - Identifies unique web browsers visiting Microsoft sites.
 These cookies are used for advertising, site analytics and other operational purposes.</li>
 <li>
 <strong>ANON</strong> - Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes.
@@ -519,7 +519,6 @@ You can opt out of data collection or use by some of these analytics providers b
 <li> Kissmetrics: kissmetrics.com/user-privacy</li>
 <li> Mixpanel: mixpanel.com/optout</li>
 <li> Nielsen: www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices</li>
-<li> Omniture (Adobe): www.d1.sc.omtrdc.net/optout.html</li>
 <li> Visible Measures: www.visiblemeasures.com/viewer-settings-opt-out</li>
 <li> WebTrends: ondemand.webtrends.com/support/optout.asp</li>
 </ul>
@@ -601,14 +600,14 @@ We use a variety of security technologies and procedures to help protect your pe
 For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities.
 When we transmit highly confidential data (such as a credit card number or password) over the Internet, we protect it through the use of encryption.
 </p>Top of page<i>
-</i>Where We Store and Process Personal DataWhere We Store and Process Personal Data<p>Personal data collected by Microsoft may be stored and processed in your region, in the United States or in any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities.
-Microsoft maintains major data centers in the Australia, Austria, Brazil, Canada, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Malaysia, the Netherlands, Singapore, the United Kingdom and the United States.
+</i>Where We Store and Process Personal DataWhere We Store and Process Personal Data<p>Personal data collected by Microsoft may be stored and processed in your region, in the United States, and in any other country where Microsoft or its affiliates, subsidiaries or service providers operate facilities.
+Microsoft maintains major data centers in Australia, Austria, Brazil, Canada, Chile, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Luxembourg, Malaysia, the Netherlands, Singapore, South Africa, the United Kingdom, and the United States.
 Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region.
 The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
 We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.</p>
 <p>We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection.
 When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
-To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm </p>
+To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en.</p>
 <p>Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
@@ -650,7 +649,7 @@ In such cases, we maintain the data until you actively delete it, such as by mov
 <li>
 <em>Is Microsoft subject to a legal, contractual, or similar obligation to retain the data?</em> Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation.</li>
 </ul>Top of page<i>
-</i>Collection of Data From ChildrenCollection of Data From Children<p>When a Microsoft product collects age it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.
+</i>Collection of Data from ChildrenCollection of Data from Children<p>When a Microsoft product collects age it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.
 We will not knowingly ask children under 13 to provide more data than is necessary to provide the product.
 </p>
 <p>Once parental consent is granted, the child's account is treated much like any other account.
@@ -658,7 +657,7 @@ The child may have access to communication services like email, instant messagin
 <p> Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal data.
 For example, parents can access their personal Microsoft account and click on "Permissions." For users of Minecraft and other Mojang games, parents can contact us at account.mojang.com/terms#contact.
 </p>Top of page<i>
-</i>Preview or Free of Charge ReleasesPreview or Free of Charge Releases<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing feedback, including performance and usage data, to Microsoft.
+</i>Preview or Free of Charge ReleasesPreview Releases<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing feedback, including performance and usage data, to Microsoft.
 As a result, previews can automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products.
 If you participate in previews, we may contact you about your feedback or your interest in continuing to use the product after general release.
 </p>Top of page<i>
@@ -678,22 +677,22 @@ Our address is Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redm
 Telephone: (+1) 425-882-8080.
 </p>
 <p>Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland.
-The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address: Microsoft Ireland Operations, Ltd., Attn: Data Protection, Carmenhall Road, Sandyford, Dublin 18, Ireland.</p>
+You can contact the data protection officer of Microsoft Ireland Operations Limited at the following address: Microsoft Ireland Operations, Ltd., Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland.</p>
 <p>Skype Communications S.à.r.l.
 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype.
 To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.</p>
 <p> To find the Microsoft subsidiary in your country or region, see www.microsoft.com/worldwide/.
 </p>Top of page<i>
 </i>Product-specific details:Enterprise and Developer ProductsEnterprise &amp.
-Developer Products<p>Enterprise and Developer Products are Microsoft products and related software offered and designed primarily for use by organizations and developers.
+Developer Products<p>Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers.
 They include:</p>
 <ul>
 <li>Cloud services referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Yammer, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).</li>
 <li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 and</li>
-<li>Cognitive Services, such as Emotion API, Bing Speech API, Recommendations API, for which an organization or developer (our customer) contracts with Microsoft for the services (“Cognitive Services”).</li>
 <li>Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.</li>
+<li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
 <p>
 <strong>
@@ -708,17 +707,18 @@ and</li>
 <p>If any of the terms below are not defined in this Privacy Statement or the OST, they have the definitions below.</p>
 <p>
 <strong>General</strong>.
-When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer.
+When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support or professional services with for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer.
 For example:</p>
 <ul>
 <li>When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organization, to support that engagement.</li>
 <li>When a customer interacts with a Microsoft support professional, we collect Device and Usage data or error reports to diagnose and resolve problems.</li>
 <li>When a customer pays for products, we collect contact and payment data to process the payment.</li>
 <li>When a customer receives communications from Microsoft, we use data to personalize the content of the communication.</li>
+<li>When a customer engages with Microsoft for professional services, we collect the name and contact data of the customer’s designated point of contact and use information provided by the customer to perform the services that the customer has requested.</li>
 </ul>
 <p>The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services will be governed by their respective privacy statements and policies.</p>Learn MoreTop of page<i>
 </i>Enterprise Online ServicesEnterprise Online Services<p>To provide the Enterprise Online Services, Microsoft collects Customer Data, Administrator Data, Payment Data, and Support Data.</p>
-<p>We use Customer Data and Support Data as described in the OST and the Microsoft Trust Center.</p>
+<p>We use Customer Data, Personal Data, and Support Data as described in the OST and the Microsoft Trust Center.</p>
 <p>Administrator Data is the information provided to Microsoft during sign-up, purchase, or administration of Enterprise Online Services.
 We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, and detect and prevent fraud.
 Administrator Data includes the name, address, phone number, and email address you provide, as well as aggregated usage data related to your account, such as the controls you select.
@@ -734,7 +734,8 @@ You may manage your contact preferences or update your information in your accou
 At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services.
 or (ii) logs or error reports to Microsoft for troubleshooting purposes.
 The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
-</p>Top of page<i>
+</p>
+<p>Bing Search Services, as defined in the OST, use data such as search queries as described in the Bing section of this Privacy Statement.</p>Top of page<i>
 </i>Enterprise and Developer Software and Enterprise AppliancesEnterprise and Developer Software and Appliances<p>Enterprise and Developer Software and Enterprise Appliances collect data to operate effectively and provide you the best experiences.
 The data we collect depends on the features you use, as well as your configuration and settings, but it is generally limited to Device and Usage data.
 Customers have choices about the data they provide.
@@ -747,19 +748,9 @@ For example:</p>
 <p> Microsoft uses the data we collect from Enterprise and Developer Software and Enterprise Appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.
 </p>
 <p> Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio).
-For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see the SQL Server Privacy Supplement here.
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see go.microsoft.com/fwlink/?linkid=868444.
 If you work in an organization, your administrator can set certain telemetry settings via Group Policy.
 </p>Top of page<i>
-</i>Cognitive ServicesCognitive Services<p>Microsoft Cognitive Services help developers build apps that can better comprehend data, such as by detecting faces and objects in images, understanding spoken words, or interpreting commands.
-We collect and use your data to provide the services, which includes improving and personalizing your experiences.</p>
-<p>Cognitive Services collect and use many types of data, such as images, audio files, video files, or text, all of which are retained by Microsoft.
-Microsoft has implemented business and technical measures designed to help de-identify some data Cognitive Services retain.
-De-identification will not anonymize data completely.
-for example, a person in a photograph could still be recognized by someone who knows that person.
-</p>
-<p>Microsoft and apps that use Cognitive Services may also collect and use your data.
-For example, Bing uses search queries collected through the Cognitive Services Bing Search APIs as described in the Bing section.
-Microsoft Translator uses data sent through the Cognitive Services Translator API as described in the Translator section.</p>Top of page<i>
 </i>Productivity and Communications ProductsProductivity &amp.
 Communications Products<p>Productivity and Communications products are applications, software and services you can use to create, store and share documents, as well as communicate with others.</p>Learn MoreTop of page<i>
 </i>OfficeOffice<p>Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others.
@@ -898,7 +889,7 @@ If you don’t want to use the notification services for incoming Skype calls an
 <strong>Skype advertising</strong>.
 Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like.
 In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu.
-If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at http://choice.microsoft.com.
+If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at account.microsoft.com/privacy.
 If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.</p>
 <p>
 <strong>Translation features</strong>.
@@ -940,7 +931,7 @@ We de-identify stored search queries by removing the entirety of the IP address 
 <strong>Personalization through Microsoft account</strong>.
 Some Bing services provide you with an enhanced experience when you sign in with your personal Microsoft account, for example, syncing your search history across devices.
 You can use these personalization features to customize your interests, favorites, and settings, and to connect your account with third-party services.
-Visit the Bing settings page to manage your personalization settings or the Microsoft privacy dashboard.</p>
+Visit the Bing Settings page to manage your personalization settings or the Microsoft privacy dashboard.</p>
 <p>
 <strong>Managing Search History</strong>.
 Bing's Search History service provides an easy way to revisit the search terms you've entered and results you've clicked when using Bing search through your browser.
@@ -1008,7 +999,7 @@ Your interests in Cortana's Notebook can be used by other Microsoft services, su
 <strong>Location</strong>.
 You can choose whether Cortana accesses your location information in order to give you the most relevant notices and results and to make suggestions that help save you time, such as traffic information and location-based reminders.
 If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive).
-Location information collected by Cortana may also be used in de-identified form to improve the Windows Location Services.
+Location data Cortana collects is used to provide you personalized experiences across our products, such as making your Bing search results more relevant, and it may also be used in de-identified form to improve the Windows Location Services.
 See more details in the Location Services subsection.</p>
 <p>
 <strong>Contacts, email, calendar &amp.
@@ -1070,7 +1061,7 @@ For information on the privacy practices of third-parties’ services and offeri
 <p>Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language.
 We use your data to provide the Translator service, which includes improving and personalizing your experiences.
 Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains.
-For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.</p>
+For example, we randomly sample text to improve Translator and delete strings of numbers and other personally identifiable information we detect in the sample.</p>
 <p>If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.</p>Top of page<i>
 </i>SwiftKeySwiftKey<p>SwiftKey Keyboard and related apps and services use data about how you type – including the emoji you use and the words that matter to you – to learn your writing style and provide personalized autocorrect and predictive text that adapts to you.</p>
 <p>When you use our products, we collect data such as device, network, performance, and usage statistics.
@@ -1098,6 +1089,12 @@ Legacy versions of Windows (including Vista, 7, 8, and 8.1) are subject to their
 The product key and data about the software and your device is sent to Microsoft to help validate your license to the software.
 This data may be sent again if there is a need to re-activate or validate your license.
 On phones running Windows, device and network identifiers, as well as device location at the time of the first power up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.</p>Top of page<i>
+</i>Activity HistoryActivity History<p>Activity history in Windows 10 helps keep track of the things you do on your device.
+Activity history keeps track of the apps and services you use, the files you open, and the websites you browse—and when you do these things.
+Your activity history is collected and stored locally on your device, and if you've signed into your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft.
+Once your activity history has been collected, Microsoft uses that data to enable cross-device experiences, to provide you with personalized experiences and relevant suggestions, and to help improve Microsoft products.</p>
+<p>Activity history is also created and sent to Microsoft when you use Microsoft apps, such as Microsoft Edge, and Office apps like Word, Excel, and PowerPoint, on mobile devices such as iOS and Android phones and tablets.
+If you are signed-in with your Microsoft account, you can continue activities on your Windows device that you started in Microsoft apps on your Android or iOS device.</p>Top of page<i>
 </i>Advertising IDAdvertising ID<p> Windows generates a unique advertising ID for each user on a device.
 When the advertising ID is enabled, apps (both Microsoft apps and third-party apps) can access and use the advertising ID in much the same way that websites can access and use a unique identifier stored in a cookie.
 Thus, your advertising ID can be used by app developers and advertising networks to provide more relevant advertising and other personalized experiences across their apps and on the web.
@@ -1109,12 +1106,12 @@ If you choose to turn it on again, the advertising ID will be reset and a new id
 When a third-party app accesses the advertising ID, its use of the advertising ID will be subject to its own privacy policy.
 For more information on Microsoft’s use of data for advertising, see the How We Use Data section of this statement.
 </p>Top of page<i>
-</i>DiagnosticsDiagnostics<p>As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products.
-If you choose to turn on <strong>Tailored experiences</strong>, this data can also be used to personalize your experiences with Microsoft products.
-This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns.
-There are two levels of diagnostic and usage data: <strong>Basic</strong> and <strong>Full</strong>.
-At the lowest level, <strong>Basic</strong>, we collect only data necessary to keep Windows devices up-to-date and secure.
-Basic data includes data about the device itself, the proper functioning of Windows and Microsoft Store updates, and basic error data.
+</i>DiagnosticsDiagnostics<p>There are two levels of diagnostic data: Basic and Full.
+Microsoft uses diagnostic data to keep Windows secure and up-to-date, troubleshoot problems, and make product improvements.
+Regardless of your selection your device will be just as secure and operate normally.
+This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns.</p>
+<p>
+<strong>Basic</strong> data includes information about your device, its settings and capabilities, and whether it is performing properly.
 We collect the following data at the Basic level:</p>
 <ul>
 <li> Device, connectivity and configuration data: <ul>
@@ -1131,28 +1128,46 @@ We collect the following data at the Basic level:</p>
 <li>Basic error reporting, which is health data about the operating system and applications running on your device.
 For example, basic error reporting tells us if an application, such as Microsoft Paint or a third-party game, hangs or crashes.</li>
 </ul>
-<p>For more information about what is collected in Basic data, click here (English only).</p>
 <p>
-<strong>Full</strong> data includes everything collected with Basic data, plus additional information that enables Microsoft to fix and improve products and services for all users.
+<strong>Full</strong> data includes everything collected with Basic data, plus additional information about device health, device usage, and enhanced error reporting that helps Microsoft to fix and improve products and services for all users.
 We collect the following additional information at the Full level:</p>
 <ul>
 <li>Additional data about the device, connectivity and configuration, beyond that collected at Basic.</li>
 <li>Status and logging information about the health of operating system and other system components (in addition to data about the update and diagnostics systems collected at Basic).</li>
 <li>App usage, such as which programs are launched on a device, how long they run, and how quickly they respond to input.</li>
-<li>Browser usage, including browsing history and search terms, on Microsoft browsers, such as Microsoft Edge or Internet Explorer.</li>
-<li>Small samples of inking and typing input, which is processed to remove identifiers, sequencing information, and other data (such as names, email addresses, and numeric values) which could be used to reconstruct the original content or associate the input to the user.
-This data is never used for Tailored experiences as described below.</li>
+<li>Browser usage, including browsing history and search terms, in Microsoft browsers, Microsoft Edge or Internet Explorer.</li>
 <li>Enhanced error reporting, including the memory state of the device when a system or app crash occurs (which may unintentionally contain user content, such as parts of a file you were using when the problem occurred).
 Crash data is never used for Tailored experiences as described below.</li>
 </ul>
+<p>Some of the data described above may not be collected from your device even if your diagnostic data setting is set to Full.
+Microsoft minimizes the volume of data it collects from all devices by collecting some of the data at the Full level from only a subset of devices (sample).
+By running the Diagnostic Data Viewer tool, you can see an icon which indicates whether your device is part of a sample and also which specific data is collected from your device.
+Instructions for how to download the Diagnostic Data Viewer tool can be found at <strong>Start</strong> &gt.
+<strong>Settings</strong> &gt.
+<strong>Privacy</strong> &gt.
+<strong>Diagnostics &amp.
+feedback</strong>.</p>
+<p>Specific data items collected in Windows diagnostics are subject to change to give Microsoft flexibility to collect the data needed for the purposes described.
+For example, to ensure Microsoft can troubleshoot the latest performance issue impacting users’ computing experience or update a Windows 10 device that is new to the market, Microsoft may need to collect data items that were not collected previously.
+For a current list of data types collected at both levels of diagnostics, see go.microsoft.com/fwlink/?linkid=870052 or see go.microsoft.com/fwlink/?linkid=844962 for the current list of data collected at Basic.</p>
 <p>We provide limited portions of error report information to partners (such as OEMs) to help them troubleshoot products and services which work with Windows and other Microsoft product and services.
 They are only permitted to use this information to repair or improve those products and services.</p>
-<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use some of the data described above in Diagnostics to personalize your experiences with Windows and other products and services.
-This includes suggestions on how to customize and optimize Windows.
-and recommendations and offers of Windows features and supported apps, services, hardware, and peripherals.
-The scope of data will depend on whether you choose Full or Basic as your Diagnostics setting.
-For example, if you choose Full, your data will include browser and app usage.
-However, even if you enable Tailored experiences, we will not use your crash, typing, or inking input data for personalization.</p>Top of page<i>
+<p>
+<strong>Inking and Typing</strong>.
+In addition to the data collected at <strong>Basic</strong> or <strong>Full</strong>, you can separately choose to help Microsoft improve inking and typing recognition by sending Inking and Typing diagnostic data.
+If you choose to do so, Microsoft will collect samples of the content you type or write to improve features such as handwriting recognition, autocompletion, next word prediction, and spelling correction in the many languages used by Windows customers.
+When Microsoft collects Inking and Typing diagnostic data, it is divided into small samples and processed to remove unique identifiers, sequencing information, and other data (such as email addresses and numeric values) which could be used to reconstruct the original content or associate the input to you.</p>
+<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads and recommendations to enhance Microsoft products and services for your needs.
+If you have selected Basic as your diagnostic data setting, personalization is based on information about your device, its settings and capabilities, and whether it is performing properly.
+If you have selected Full, personalization is also based on information about the websites you browse, how you use apps and features, plus additional information about device health.
+However, we do not use the content of crash dumps for personalization when we receive such data from users who have selected Full.</p>
+<p>Tailored experiences include suggestions on how to customize and optimize Windows.
+and recommendations for and offers of Microsoft and third-party products and service, features, apps, and hardware for your Windows experiences.
+For example, to help you get the most out of your device, we may tell you about features you may not know about or that are new.
+If you are having a problem with your Windows device, you may be offered a solution.
+You may be offered a chance to customize your lock screen with pictures, or to be shown more pictures of the kind you like, or fewer of the ones you don’t.
+If you stream movies in your browser, you may be recommended an app from the Microsoft Store that streams more efficiently.
+Or, if you are running out of space on your hard drive, Windows may recommend you try OneDrive or purchase hardware to gain more space.</p>Top of page<i>
 </i>Location Services, Motion Sensing, &amp.
 RecordingLocation Services, Motion Sensing, &amp.
 Recording<p>
@@ -1309,7 +1324,7 @@ and </li>
 </ul>
 <p> Some Microsoft browser information saved on your device will be synced across other devices when you sign in with your Microsoft account.
 For instance, in Internet Explorer, this information includes your browsing history and favorites.
-and in Microsoft Edge, it includes your favorites and reading lists.
+and in Microsoft Edge, it includes your favorites, reading lists, and autofill form entries, such as your name, address, and phone number.
 As an example, if you sync your Microsoft Edge reading list across devices, copies of the content you choose to save to your reading list will be sent to each synced device for later viewing.
 You can disable syncing in Internet Explorer by going to Sync Settings in the Accounts section of Windows Settings (see Sync Settings).
 You can also disable syncing of Microsoft Edge browser information by turning off the sync option in Microsoft Edge Settings.
@@ -1337,6 +1352,7 @@ Please note that not all networks are secure - be careful using an open network 
 Some of those apps include:</p>
 <p>
 <strong>Maps app.</strong> The Maps app provides location-based services and uses Bing services to process your searches within the Maps app.
+When Maps App has access to your location, and you have enabled location-based services in Windows, when you use the “@” key to initiate a search in supported text boxes in Windows apps, Bing services collects the text you type after the “@” key to provide location-based suggestions.
 Please see the Bing section of this privacy statement to learn more about these Bing-powered experiences.
 When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft's services.
 You can disable the Maps app's access to your location by turning off the location service or turning off the Maps app's access to the location service.
@@ -1362,10 +1378,11 @@ Your photos and/or videos will only be shared with others if you choose to do so
 </p>
 <p>
 <strong>People app.</strong> The People app lets you see and interact with all your contacts in one place.
-When you add your Microsoft account to a Windows device, your contacts from your account will be automatically added to the People app.
+When you add an account to the People app, your contacts from your account will be automatically added to the People app.
 You can add other accounts to the People app, including your social networks (such as Facebook and Twitter) and email accounts.
 When you add an account, we tell you what data the People app can import or sync with the particular service and let you choose what you want to add.
 Other apps you install may also sync data to the People app, including providing additional details to existing contacts.
+When you view a contact in the People app, information about your recent interactions with the contact (such as emails and calendar events, including from apps that the People app syncs data from) will be retrieved and displayed to you.
 You can remove an account from the People app at any time.
 </p>
 <p>
@@ -1816,7 +1833,7 @@ Other data we collect to provide communication services to you include the:</p>
 <strong>Video</strong>.
 If you enter Microsoft Store locations or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.</p>
 <p>If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.</p>
-<p>If you use Enterprise Online Services, Microsoft collects <strong>Customer Data</strong> (including content), <strong>Support Data</strong>, and <strong>Administrator Data</strong>, defined below in the Enterprise and Developer Products section.
+<p>If you use Enterprise Online Services, Microsoft collects the data defined below in the Enterprise and Developer Products section.
 </p>
 <p>We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support.
 When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.</p>
@@ -1970,7 +1987,7 @@ or </li>
 <li>protect the rights or property of Microsoft, including enforcing the terms governing the use of the services - however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer's private content ourselves, but we may refer the matter to law enforcement.
 </li>
 </ol>
-<p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at microsoft.com/about/corporatecitizenship/en-us/reporting/transparency.
+<p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at www.microsoft.com/en-us/about/corporate-responsibility/lerr/.
 </p>
 <p> Please note that some of our products include links to products of third parties whose privacy practices differ from Microsoft's.
 If you provide personal data to any of those products, your data is governed by their privacy statements.
@@ -2145,7 +2162,7 @@ If you visit one of our websites, the site may set some or all of the following 
 </p>
 <ul>
 <li>
-<strong>MUID, MC1 and MSFPC</strong> - Identifies unique web browsers visiting Microsoft sites.
+<strong>MUID, MC1, and MSFPC</strong> - Identifies unique web browsers visiting Microsoft sites.
 These cookies are used for advertising, site analytics and other operational purposes.</li>
 <li>
 <strong>ANON</strong> - Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes.
@@ -2206,7 +2223,6 @@ You can opt out of data collection or use by some of these analytics providers b
 <li> Kissmetrics: kissmetrics.com/user-privacy</li>
 <li> Mixpanel: mixpanel.com/optout</li>
 <li> Nielsen: www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices</li>
-<li> Omniture (Adobe): www.d1.sc.omtrdc.net/optout.html</li>
 <li> Visible Measures: www.visiblemeasures.com/viewer-settings-opt-out</li>
 <li> WebTrends: ondemand.webtrends.com/support/optout.asp</li>
 </ul>
@@ -2282,14 +2298,14 @@ You can also find more information on Microsoft's commitment to protecting your 
 We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use or disclosure.
 For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities.
 When we transmit highly confidential data (such as a credit card number or password) over the Internet, we protect it through the use of encryption.
-</p>Where We Store and Process Personal DataWhere We Store and Process Personal DatamainwherewestoreandprocessdatamoduleSummary<p>Personal data collected by Microsoft may be stored and processed in your region, in the United States or in any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities.
-Microsoft maintains major data centers in the Australia, Austria, Brazil, Canada, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Malaysia, the Netherlands, Singapore, the United Kingdom and the United States.
+</p>Where We Store and Process Personal DataWhere We Store and Process Personal DatamainwherewestoreandprocessdatamoduleSummary<p>Personal data collected by Microsoft may be stored and processed in your region, in the United States, and in any other country where Microsoft or its affiliates, subsidiaries or service providers operate facilities.
+Microsoft maintains major data centers in Australia, Austria, Brazil, Canada, Chile, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Luxembourg, Malaysia, the Netherlands, Singapore, South Africa, the United Kingdom, and the United States.
 Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region.
 The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
 We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.</p>
 <p>We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection.
 When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
-To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm </p>
+To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en.</p>
 <p>Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
@@ -2329,14 +2345,14 @@ In such cases, we maintain the data until you actively delete it, such as by mov
 <em>Has the user provided consent for a longer retention period?</em> If so, we will retain data in accordance with your consent.</li>
 <li>
 <em>Is Microsoft subject to a legal, contractual, or similar obligation to retain the data?</em> Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation.</li>
-</ul>Collection of Data From ChildrenCollection of Data From ChildrenmaincollectionofdatafromchildrenmoduleSummary<p>When a Microsoft product collects age it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.
+</ul>Collection of Data from ChildrenCollection of Data from ChildrenmaincollectionofdatafromchildrenmoduleSummary<p>When a Microsoft product collects age it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.
 We will not knowingly ask children under 13 to provide more data than is necessary to provide the product.
 </p>
 <p>Once parental consent is granted, the child's account is treated much like any other account.
 The child may have access to communication services like email, instant messaging and online message boards and may be able to communicate freely with other users of all ages.</p>
 <p> Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal data.
 For example, parents can access their personal Microsoft account and click on "Permissions." For users of Minecraft and other Mojang games, parents can contact us at account.mojang.com/terms#contact.
-</p>Preview or Free of Charge ReleasesPreview or Free of Charge ReleasesmainpreviewreleasesmoduleSummary<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing feedback, including performance and usage data, to Microsoft.
+</p>Preview or Free of Charge ReleasesPreview ReleasesmainpreviewreleasesmoduleSummary<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing feedback, including performance and usage data, to Microsoft.
 As a result, previews can automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products.
 If you participate in previews, we may contact you about your feedback or your interest in continuing to use the product after general release.
 </p>Changes to This Privacy StatementChanges to This Privacy StatementmainchangestothisprivacystatementmoduleSummary<p> We will update this privacy statement when necessary to reflect customer feedback and changes in our products.
@@ -2354,21 +2370,21 @@ Our address is Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redm
 Telephone: (+1) 425-882-8080.
 </p>
 <p>Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland.
-The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address: Microsoft Ireland Operations, Ltd., Attn: Data Protection, Carmenhall Road, Sandyford, Dublin 18, Ireland.</p>
+You can contact the data protection officer of Microsoft Ireland Operations Limited at the following address: Microsoft Ireland Operations, Ltd., Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland.</p>
 <p>Skype Communications S.à.r.l.
 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype.
 To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.</p>
 <p> To find the Microsoft subsidiary in your country or region, see www.microsoft.com/worldwide/.
 </p>Enterprise and Developer ProductsEnterprise &amp.
-Developer ProductsmainenterprisedeveloperproductsmoduleSummary<p>Enterprise and Developer Products are Microsoft products and related software offered and designed primarily for use by organizations and developers.
+Developer ProductsmainenterprisedeveloperproductsmoduleSummary<p>Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers.
 They include:</p>
 <ul>
 <li>Cloud services referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Yammer, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).</li>
 <li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 and</li>
-<li>Cognitive Services, such as Emotion API, Bing Speech API, Recommendations API, for which an organization or developer (our customer) contracts with Microsoft for the services (“Cognitive Services”).</li>
 <li>Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.</li>
+<li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
 <p>
 <strong>
@@ -2383,16 +2399,17 @@ and</li>
 <p>If any of the terms below are not defined in this Privacy Statement or the OST, they have the definitions below.</p>
 <p>
 <strong>General</strong>.
-When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer.
+When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support or professional services with for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer.
 For example:</p>
 <ul>
 <li>When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organization, to support that engagement.</li>
 <li>When a customer interacts with a Microsoft support professional, we collect Device and Usage data or error reports to diagnose and resolve problems.</li>
 <li>When a customer pays for products, we collect contact and payment data to process the payment.</li>
 <li>When a customer receives communications from Microsoft, we use data to personalize the content of the communication.</li>
+<li>When a customer engages with Microsoft for professional services, we collect the name and contact data of the customer’s designated point of contact and use information provided by the customer to perform the services that the customer has requested.</li>
 </ul>
 <p>The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services will be governed by their respective privacy statements and policies.</p>Enterprise Online ServicesEnterprise Online ServicesmainenterpriseservicesmoduleSummary<p>To provide the Enterprise Online Services, Microsoft collects Customer Data, Administrator Data, Payment Data, and Support Data.</p>
-<p>We use Customer Data and Support Data as described in the OST and the Microsoft Trust Center.</p>
+<p>We use Customer Data, Personal Data, and Support Data as described in the OST and the Microsoft Trust Center.</p>
 <p>Administrator Data is the information provided to Microsoft during sign-up, purchase, or administration of Enterprise Online Services.
 We use Administrator Data to provide the Enterprise Online Services, complete transactions, service the account, and detect and prevent fraud.
 Administrator Data includes the name, address, phone number, and email address you provide, as well as aggregated usage data related to your account, such as the controls you select.
@@ -2408,7 +2425,8 @@ You may manage your contact preferences or update your information in your accou
 At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services.
 or (ii) logs or error reports to Microsoft for troubleshooting purposes.
 The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
-</p>Enterprise and Developer Software and Enterprise AppliancesEnterprise and Developer Software and AppliancesmainenterprisedevsoftwareappsmoduleSummary<p>Enterprise and Developer Software and Enterprise Appliances collect data to operate effectively and provide you the best experiences.
+</p>
+<p>Bing Search Services, as defined in the OST, use data such as search queries as described in the Bing section of this Privacy Statement.</p>Enterprise and Developer Software and Enterprise AppliancesEnterprise and Developer Software and AppliancesmainenterprisedevsoftwareappsmoduleSummary<p>Enterprise and Developer Software and Enterprise Appliances collect data to operate effectively and provide you the best experiences.
 The data we collect depends on the features you use, as well as your configuration and settings, but it is generally limited to Device and Usage data.
 Customers have choices about the data they provide.
 For example:</p>
@@ -2420,18 +2438,9 @@ For example:</p>
 <p> Microsoft uses the data we collect from Enterprise and Developer Software and Enterprise Appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.
 </p>
 <p> Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio).
-For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see the SQL Server Privacy Supplement here.
+For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see go.microsoft.com/fwlink/?linkid=868444.
 If you work in an organization, your administrator can set certain telemetry settings via Group Policy.
-</p>Cognitive ServicesCognitive ServicesmainmicrosoftcognitiveservicesmoduleSummary<p>Microsoft Cognitive Services help developers build apps that can better comprehend data, such as by detecting faces and objects in images, understanding spoken words, or interpreting commands.
-We collect and use your data to provide the services, which includes improving and personalizing your experiences.</p>
-<p>Cognitive Services collect and use many types of data, such as images, audio files, video files, or text, all of which are retained by Microsoft.
-Microsoft has implemented business and technical measures designed to help de-identify some data Cognitive Services retain.
-De-identification will not anonymize data completely.
-for example, a person in a photograph could still be recognized by someone who knows that person.
-</p>
-<p>Microsoft and apps that use Cognitive Services may also collect and use your data.
-For example, Bing uses search queries collected through the Cognitive Services Bing Search APIs as described in the Bing section.
-Microsoft Translator uses data sent through the Cognitive Services Translator API as described in the Translator section.</p>Productivity and Communications ProductsProductivity &amp.
+</p>Productivity and Communications ProductsProductivity &amp.
 Communications ProductsmainprodcommproductsmoduleSummary<p>Productivity and Communications products are applications, software and services you can use to create, store and share documents, as well as communicate with others.</p>OfficeOfficemainofficeservicesmoduleSummary<p>Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others.
 For more details about Outlook, see the Outlook section of this privacy statement.
 Various Office applications enable you to use content and functionality from other Microsoft services, such as Bing, and third-party connected services.
@@ -2565,7 +2574,7 @@ If you don’t want to use the notification services for incoming Skype calls an
 <strong>Skype advertising</strong>.
 Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like.
 In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu.
-If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at http://choice.microsoft.com.
+If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at account.microsoft.com/privacy.
 If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.</p>
 <p>
 <strong>Translation features</strong>.
@@ -2605,7 +2614,7 @@ We de-identify stored search queries by removing the entirety of the IP address 
 <strong>Personalization through Microsoft account</strong>.
 Some Bing services provide you with an enhanced experience when you sign in with your personal Microsoft account, for example, syncing your search history across devices.
 You can use these personalization features to customize your interests, favorites, and settings, and to connect your account with third-party services.
-Visit the Bing settings page to manage your personalization settings or the Microsoft privacy dashboard.</p>
+Visit the Bing Settings page to manage your personalization settings or the Microsoft privacy dashboard.</p>
 <p>
 <strong>Managing Search History</strong>.
 Bing's Search History service provides an easy way to revisit the search terms you've entered and results you've clicked when using Bing search through your browser.
@@ -2672,7 +2681,7 @@ Your interests in Cortana's Notebook can be used by other Microsoft services, su
 <strong>Location</strong>.
 You can choose whether Cortana accesses your location information in order to give you the most relevant notices and results and to make suggestions that help save you time, such as traffic information and location-based reminders.
 If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive).
-Location information collected by Cortana may also be used in de-identified form to improve the Windows Location Services.
+Location data Cortana collects is used to provide you personalized experiences across our products, such as making your Bing search results more relevant, and it may also be used in de-identified form to improve the Windows Location Services.
 See more details in the Location Services subsection.</p>
 <p>
 <strong>Contacts, email, calendar &amp.
@@ -2733,7 +2742,7 @@ For information on the privacy practices of third-parties’ services and offeri
 <p>Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language.
 We use your data to provide the Translator service, which includes improving and personalizing your experiences.
 Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains.
-For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.</p>
+For example, we randomly sample text to improve Translator and delete strings of numbers and other personally identifiable information we detect in the sample.</p>
 <p>If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.</p>SwiftKeySwiftKeymainswiftkeymoduleSummary<p>SwiftKey Keyboard and related apps and services use data about how you type – including the emoji you use and the words that matter to you – to learn your writing style and provide personalized autocorrect and predictive text that adapts to you.</p>
 <p>When you use our products, we collect data such as device, network, performance, and usage statistics.
 We use this data to operate and improve the products.</p>
@@ -2757,7 +2766,12 @@ For more information about data collection and privacy in Windows, go to go.micr
 Legacy versions of Windows (including Vista, 7, 8, and 8.1) are subject to their own privacy statements.</p>ActivationActivationmainactivationmoduleSummary<p>When you activate Windows, a specific product key is associated with the device on which your software is installed.
 The product key and data about the software and your device is sent to Microsoft to help validate your license to the software.
 This data may be sent again if there is a need to re-activate or validate your license.
-On phones running Windows, device and network identifiers, as well as device location at the time of the first power up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.</p>Advertising IDAdvertising IDmainadvertisingidmoduleSummary<p> Windows generates a unique advertising ID for each user on a device.
+On phones running Windows, device and network identifiers, as well as device location at the time of the first power up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.</p>Activity HistoryActivity HistorymainactivityhistorymoduleSummary<p>Activity history in Windows 10 helps keep track of the things you do on your device.
+Activity history keeps track of the apps and services you use, the files you open, and the websites you browse—and when you do these things.
+Your activity history is collected and stored locally on your device, and if you've signed into your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft.
+Once your activity history has been collected, Microsoft uses that data to enable cross-device experiences, to provide you with personalized experiences and relevant suggestions, and to help improve Microsoft products.</p>
+<p>Activity history is also created and sent to Microsoft when you use Microsoft apps, such as Microsoft Edge, and Office apps like Word, Excel, and PowerPoint, on mobile devices such as iOS and Android phones and tablets.
+If you are signed-in with your Microsoft account, you can continue activities on your Windows device that you started in Microsoft apps on your Android or iOS device.</p>Advertising IDAdvertising IDmainadvertisingidmoduleSummary<p> Windows generates a unique advertising ID for each user on a device.
 When the advertising ID is enabled, apps (both Microsoft apps and third-party apps) can access and use the advertising ID in much the same way that websites can access and use a unique identifier stored in a cookie.
 Thus, your advertising ID can be used by app developers and advertising networks to provide more relevant advertising and other personalized experiences across their apps and on the web.
 Microsoft collects the advertising ID for the uses described here only when you choose to enable the advertising ID as part of your privacy setting.
@@ -2767,12 +2781,12 @@ Privacy).
 If you choose to turn it on again, the advertising ID will be reset and a new identifier will be generated.
 When a third-party app accesses the advertising ID, its use of the advertising ID will be subject to its own privacy policy.
 For more information on Microsoft’s use of data for advertising, see the How We Use Data section of this statement.
-</p>DiagnosticsDiagnosticsmaindiagnosticsmoduleSummary<p>As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products.
-If you choose to turn on <strong>Tailored experiences</strong>, this data can also be used to personalize your experiences with Microsoft products.
-This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns.
-There are two levels of diagnostic and usage data: <strong>Basic</strong> and <strong>Full</strong>.
-At the lowest level, <strong>Basic</strong>, we collect only data necessary to keep Windows devices up-to-date and secure.
-Basic data includes data about the device itself, the proper functioning of Windows and Microsoft Store updates, and basic error data.
+</p>DiagnosticsDiagnosticsmaindiagnosticsmoduleSummary<p>There are two levels of diagnostic data: Basic and Full.
+Microsoft uses diagnostic data to keep Windows secure and up-to-date, troubleshoot problems, and make product improvements.
+Regardless of your selection your device will be just as secure and operate normally.
+This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns.</p>
+<p>
+<strong>Basic</strong> data includes information about your device, its settings and capabilities, and whether it is performing properly.
 We collect the following data at the Basic level:</p>
 <ul>
 <li> Device, connectivity and configuration data: <ul>
@@ -2789,28 +2803,46 @@ We collect the following data at the Basic level:</p>
 <li>Basic error reporting, which is health data about the operating system and applications running on your device.
 For example, basic error reporting tells us if an application, such as Microsoft Paint or a third-party game, hangs or crashes.</li>
 </ul>
-<p>For more information about what is collected in Basic data, click here (English only).</p>
 <p>
-<strong>Full</strong> data includes everything collected with Basic data, plus additional information that enables Microsoft to fix and improve products and services for all users.
+<strong>Full</strong> data includes everything collected with Basic data, plus additional information about device health, device usage, and enhanced error reporting that helps Microsoft to fix and improve products and services for all users.
 We collect the following additional information at the Full level:</p>
 <ul>
 <li>Additional data about the device, connectivity and configuration, beyond that collected at Basic.</li>
 <li>Status and logging information about the health of operating system and other system components (in addition to data about the update and diagnostics systems collected at Basic).</li>
 <li>App usage, such as which programs are launched on a device, how long they run, and how quickly they respond to input.</li>
-<li>Browser usage, including browsing history and search terms, on Microsoft browsers, such as Microsoft Edge or Internet Explorer.</li>
-<li>Small samples of inking and typing input, which is processed to remove identifiers, sequencing information, and other data (such as names, email addresses, and numeric values) which could be used to reconstruct the original content or associate the input to the user.
-This data is never used for Tailored experiences as described below.</li>
+<li>Browser usage, including browsing history and search terms, in Microsoft browsers, Microsoft Edge or Internet Explorer.</li>
 <li>Enhanced error reporting, including the memory state of the device when a system or app crash occurs (which may unintentionally contain user content, such as parts of a file you were using when the problem occurred).
 Crash data is never used for Tailored experiences as described below.</li>
 </ul>
+<p>Some of the data described above may not be collected from your device even if your diagnostic data setting is set to Full.
+Microsoft minimizes the volume of data it collects from all devices by collecting some of the data at the Full level from only a subset of devices (sample).
+By running the Diagnostic Data Viewer tool, you can see an icon which indicates whether your device is part of a sample and also which specific data is collected from your device.
+Instructions for how to download the Diagnostic Data Viewer tool can be found at <strong>Start</strong> &gt.
+<strong>Settings</strong> &gt.
+<strong>Privacy</strong> &gt.
+<strong>Diagnostics &amp.
+feedback</strong>.</p>
+<p>Specific data items collected in Windows diagnostics are subject to change to give Microsoft flexibility to collect the data needed for the purposes described.
+For example, to ensure Microsoft can troubleshoot the latest performance issue impacting users’ computing experience or update a Windows 10 device that is new to the market, Microsoft may need to collect data items that were not collected previously.
+For a current list of data types collected at both levels of diagnostics, see go.microsoft.com/fwlink/?linkid=870052 or see go.microsoft.com/fwlink/?linkid=844962 for the current list of data collected at Basic.</p>
 <p>We provide limited portions of error report information to partners (such as OEMs) to help them troubleshoot products and services which work with Windows and other Microsoft product and services.
 They are only permitted to use this information to repair or improve those products and services.</p>
-<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use some of the data described above in Diagnostics to personalize your experiences with Windows and other products and services.
-This includes suggestions on how to customize and optimize Windows.
-and recommendations and offers of Windows features and supported apps, services, hardware, and peripherals.
-The scope of data will depend on whether you choose Full or Basic as your Diagnostics setting.
-For example, if you choose Full, your data will include browser and app usage.
-However, even if you enable Tailored experiences, we will not use your crash, typing, or inking input data for personalization.</p>Location Services, Motion Sensing, &amp.
+<p>
+<strong>Inking and Typing</strong>.
+In addition to the data collected at <strong>Basic</strong> or <strong>Full</strong>, you can separately choose to help Microsoft improve inking and typing recognition by sending Inking and Typing diagnostic data.
+If you choose to do so, Microsoft will collect samples of the content you type or write to improve features such as handwriting recognition, autocompletion, next word prediction, and spelling correction in the many languages used by Windows customers.
+When Microsoft collects Inking and Typing diagnostic data, it is divided into small samples and processed to remove unique identifiers, sequencing information, and other data (such as email addresses and numeric values) which could be used to reconstruct the original content or associate the input to you.</p>
+<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads and recommendations to enhance Microsoft products and services for your needs.
+If you have selected Basic as your diagnostic data setting, personalization is based on information about your device, its settings and capabilities, and whether it is performing properly.
+If you have selected Full, personalization is also based on information about the websites you browse, how you use apps and features, plus additional information about device health.
+However, we do not use the content of crash dumps for personalization when we receive such data from users who have selected Full.</p>
+<p>Tailored experiences include suggestions on how to customize and optimize Windows.
+and recommendations for and offers of Microsoft and third-party products and service, features, apps, and hardware for your Windows experiences.
+For example, to help you get the most out of your device, we may tell you about features you may not know about or that are new.
+If you are having a problem with your Windows device, you may be offered a solution.
+You may be offered a chance to customize your lock screen with pictures, or to be shown more pictures of the kind you like, or fewer of the ones you don’t.
+If you stream movies in your browser, you may be recommended an app from the Microsoft Store that streams more efficiently.
+Or, if you are running out of space on your hard drive, Windows may recommend you try OneDrive or purchase hardware to gain more space.</p>Location Services, Motion Sensing, &amp.
 RecordingLocation Services, Motion Sensing, &amp.
 RecordingmainlocationservicesmotionsensingmoduleSummary<p>
 <strong>Windows location service</strong>.
@@ -2961,7 +2993,7 @@ and </li>
 </ul>
 <p> Some Microsoft browser information saved on your device will be synced across other devices when you sign in with your Microsoft account.
 For instance, in Internet Explorer, this information includes your browsing history and favorites.
-and in Microsoft Edge, it includes your favorites and reading lists.
+and in Microsoft Edge, it includes your favorites, reading lists, and autofill form entries, such as your name, address, and phone number.
 As an example, if you sync your Microsoft Edge reading list across devices, copies of the content you choose to save to your reading list will be sent to each synced device for later viewing.
 You can disable syncing in Internet Explorer by going to Sync Settings in the Accounts section of Windows Settings (see Sync Settings).
 You can also disable syncing of Microsoft Edge browser information by turning off the sync option in Microsoft Edge Settings.
@@ -2987,6 +3019,7 @@ Please note that not all networks are secure - be careful using an open network 
 Some of those apps include:</p>
 <p>
 <strong>Maps app.</strong> The Maps app provides location-based services and uses Bing services to process your searches within the Maps app.
+When Maps App has access to your location, and you have enabled location-based services in Windows, when you use the “@” key to initiate a search in supported text boxes in Windows apps, Bing services collects the text you type after the “@” key to provide location-based suggestions.
 Please see the Bing section of this privacy statement to learn more about these Bing-powered experiences.
 When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft's services.
 You can disable the Maps app's access to your location by turning off the location service or turning off the Maps app's access to the location service.
@@ -3012,10 +3045,11 @@ Your photos and/or videos will only be shared with others if you choose to do so
 </p>
 <p>
 <strong>People app.</strong> The People app lets you see and interact with all your contacts in one place.
-When you add your Microsoft account to a Windows device, your contacts from your account will be automatically added to the People app.
+When you add an account to the People app, your contacts from your account will be automatically added to the People app.
 You can add other accounts to the People app, including your social networks (such as Facebook and Twitter) and email accounts.
 When you add an account, we tell you what data the People app can import or sync with the particular service and let you choose what you want to add.
 Other apps you install may also sync data to the People app, including providing additional details to existing contacts.
+When you view a contact in the People app, information about your recent interactions with the contact (such as emails and calendar events, including from apps that the People app syncs data from) will be retrieved and displayed to you.
 You can remove an account from the People app at any time.
 </p>
 <p>
@@ -3363,7 +3397,7 @@ We will use the email address you provide when you create your HealthVault accou
 HealthVault will also periodically send you an email summarizing recent account activity.
 Subject to your contact preferences, we also use your email addresses to send you promotional email.
 You can unsubscribe from these emails at any time.
-</p> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule,mainmicrosoftcognitiveservicesmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule mainbingmodule,maincortanamodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainadvertisingidmodule,maindiagnosticsmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,maingroovemusicmoviestvmodule,mainsilverlightmodule mainmicrosoftservicelongmodule,mainhealthvaultmodule mainenterprisedeveloperproductsmoduleCookies<p>Most Microsoft Sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive.
+</p> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule mainbingmodule,maincortanamodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,maingroovemusicmoviestvmodule,mainsilverlightmodule mainmicrosoftservicelongmodule,mainhealthvaultmodule mainenterprisedeveloperproductsmoduleCookies<p>Most Microsoft Sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive.
 We may use cookies to store your preferences and settings.
 help with sign-in.
 provide targeted ads.
@@ -3374,4 +3408,4 @@ Swiss-U.S.
 Privacy Shield<p>Microsoft adheres to the principles of the EU-U.S.
 and Swiss-U.S.
 Privacy Shield frameworks.
-To learn more, Click here.</p>
+To learn more, click here.</p>
