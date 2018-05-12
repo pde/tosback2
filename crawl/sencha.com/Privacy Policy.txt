@@ -274,13 +274,23 @@ All rights reserved.</p>
 LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon</li>
 <li>State*Select State*AguascalientesBaja CaliforniaBaja California SurChihuahuaColimaCampecheCoahuilaChiapasFederal DistrictDurangoGuerreroGuanajuatoHidalgoJaliscoMéxico StateMichoacánMorelosNayaritNuevo LeónOaxacaPueblaQuerétaroQuintana RooSinaloaSan Luis PotosíSonoraTabascoTlaxcalaTamaulipasVeracruzYucatánZacatecas</li>
 <li>State*Select State*AcreAlagoasAmazonasAmapáBahiaCearáDistrito FederalEspírito SantoGoiásMaranhãoMinas GeraisMato Grosso do SulMato GrossoParáParaíbaPernambucoPiauíParanáRio de JaneiroRio Grande do NorteRondôniaRoraimaRio Grande do SulSanta CatarinaSergipeSão PauloTocantins</li>
+<li>*<ul>
 <li>
-<ul>
-<li>
-<small> I agree to receive e-mail notifications.
-See our Privacy Policy and Terms of Use for more details.</small>
+<small> I have read, understand and agree to Sencha’s terms and conditions and privacy statement.</small>
 </li>
 </ul>
+</li>
+<li>*<ul>
+<li>
+<small> I agree to receive Sencha marketing communications via email and phone calls.</small>
+</li>
+</ul>
+<small>
+<br>You can always update your communications preferences later.
+<br>
+<br>Sencha, Inc.
+may share your information with its parent company, Idera, Inc., its affiliates globally and its partners.
+For further details on how your data is used and stored, please review our Sencha Privacy Policy.</small>
 </li>
 <li>NameThis field is for validation purposes and should be left unchanged.</li>
 </ul> This iframe contains the logic required to handle Ajax powered Gravity Forms.
