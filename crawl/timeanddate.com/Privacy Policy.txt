@@ -135,7 +135,7 @@ These settings include: <ul>
 </ul>
 <p>For users who sign in to their personal user account, we also store:</p>
 <ul>
-<li>Your email address (will not be sold or distributed to any third party unrelated to timeanddate.com)</li>
+<li>Your email address (will not be sold nor distributed to any third party unrelated to timeanddate.com)</li>
 <li>Your password (hashed)</li>
 <li>Your chosen username, if any</li>
 <li>List of log-ins (stored for up to 90 days)</li>
@@ -144,7 +144,7 @@ These settings include: <ul>
 </ul>
 <p>For newsletter subscribers, we store:</p>
 <ul>
-<li>email address, IP address, and time of sign-up</li>
+<li>Email address, IP address, and time of sign-up</li>
 <li>Newsletters received and opened</li>
 <li>Additional parameters may be stored by MailChimp, who we use to send our newsletter.
 see “Third-Party Privacy Policies” below</li>
@@ -153,7 +153,7 @@ see “Third-Party Privacy Policies” below</li>
 <ul>
 <li>Payment information: either the PayPal address or the last four digits of the credit card used for payment</li>
 <li>Country of residence and, if submitted, street address, state, city, and ZIP/postal code</li>
-<li>email address, if different than the one registered for the user account</li>
+<li>Email address, if different than the one registered for the user account</li>
 <li>We use Braintree and Paypal for payments.
 see “Third-Party Privacy Policies” below</li>
 </ul>IP Address and Cookies<p>We use your IP address to help diagnose problems with our servers and to administer our websites.
@@ -169,7 +169,7 @@ We also rely on third parties to host our services and our infrastructure, and t
 We will never ask for sensitive information.
 In the GDPR, “sensitive information” is defined as: “personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.” We recommend you do not add such information to our services, such as calendars, countdowns, or any other timeanddate.com application.</p>External Links<p>This site contains links to other sites.
 timeanddate.com is not responsible for the privacy practices or the content of the linked websites.</p>
-<p>We use Surveymonkey for online surveys.
+<p>We use SurveyMonkey for online surveys.
 We may ask for your contact information, such as your email address.
 This information is used to contact you if necessary.</p>Advertising<p>We use third-party advertising companies to serve ads when you visit timeanddate.com.
 These companies may use aggregated information about your visits to this and other websites to provide advertisements about goods and services of interest to you.
@@ -191,7 +191,7 @@ For more details including access requests and complaints, review their privacy 
 <li>Google Admob </li>
 <li>OpenX</li>
 <li>App Nexus </li>
-<li>Rubicon Project (via Netric) </li>
+<li>Rubicon Project</li>
 <li>Conversant </li>
 <li>Sovrn </li>
 <li>Criteo</li>
