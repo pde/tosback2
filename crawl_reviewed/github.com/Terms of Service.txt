@@ -15,10 +15,10 @@ Some basic terms, defined in a way that will help you understand this agreement.
 Refer back up to this section for clarification.
 B.
 Account Terms
-These are the basic requirements of having an account on GitHub.
+These are the basic requirements of having an Account on GitHub.
 C.
 Acceptable Use
-These are the basic rules you must follow when using your GitHub account.
+These are the basic rules you must follow when using your GitHub Account.
 D.
 User-Generated Content
 You own the content you post on GitHub.
@@ -40,8 +40,8 @@ I.
 Additional Terms for GitHub Pages
 We have a few specific rules for content hosted using GitHub Pages.
 J.
-Additional Terms for GitHub Marketplace
-We have another set of terms for GitHub Marketplace.
+Third Party Applications
+We have a few rules for creating apps for other Users, and another set of terms for GitHub Marketplace.
 K.
 Advertising on GitHub
 If you want to promote your content on GitHub, this section lays out some rules you must follow.
@@ -51,7 +51,7 @@ You are responsible for payment.
 We are responsible for billing you accurately.
 M.
 Cancellation and Termination
-You may cancel this agreement and close your account at any time.
+You may cancel this agreement and close your Account at any time.
 N.
 Communications with GitHub
 We only use email and other electronic means to stay in touch with our users.
@@ -73,7 +73,7 @@ We may modify this agreement, but we will give you 30 days' notice of changes th
 S.
 Miscellaneous
 Please see this section for legal details including our choice of law.
-The GitHub Terms of Service <p>Effective date: October 11, 2017</p> A.
+The GitHub Terms of Service <p>Effective date: May 25, 2018</p> A.
 Definitions <p>
 <strong>Short version:</strong>
 <em>We use these basic terms throughout the agreement, and they have specific meanings.
@@ -90,59 +90,77 @@ These Terms also govern GitHub’s conference websites, such as githubuniverse.c
 Occasionally, websites owned by GitHub may provide different or additional terms of service.
 If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.</li>
 <li>“The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service.
-that accesses or uses any part of the account.
-or that directs the use of the account in the performance of its functions.
+that accesses or uses any part of the Account.
+or that directs the use of the Account in the performance of its functions.
 A User must be at least 13 years of age.
-Special terms may apply for business or government accounts (See Section B(4): Additional Terms).</li>
+Special terms may apply for business or government Accounts (See Section B(5): Additional Terms).</li>
 <li>“GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.</li>
 <li>“Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service.
 "Content" also includes Services.
 “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users.
 "Your Content" is Content that you create or own.</li>
+<li>An "Account" represents your legal relationship with GitHub.
+A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub.
+“Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once.
+A User Account can be a member of any number of Organizations.</li>
 </ol>
 B.
 Account Terms <p>
 <strong>Short version:</strong>
-<em>A human must create your account.
+<em>User Accounts and Organizations have different administrative controls.
+a human must create your Account.
 you must be 13 or over.
 you must provide a valid email address.
-and you may not have more than one free account.
-You alone are responsible for your account and anything that happens while you are signed in to or using your account.
-You are responsible for keeping your account secure.</em>
+and you may not have more than one free Account.
+You alone are responsible for your Account and anything that happens while you are signed in to or using your Account.
+You are responsible for keeping your Account secure.</em>
 </p> 1.
+Account Controls <ul>
+<li>
+<p>Users.
+Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.</p>
+</li>
+<li>
+<p>Organizations.
+The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it.
+Within the Service, an owner can manage User access to the Organization’s data and projects.
+An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization.
+If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.</p>
+</li>
+</ul>
+2.
 Required Information <p>You must provide a valid email address in order to complete the signup process.
-Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid account, in which case additional information will be necessary for billing purposes.</p> 2.
-Account Requirements <p>We have a few simple rules for accounts on GitHub's Service.</p>
+Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid Account, in which case additional information will be necessary for billing purposes.</p> 3.
+Account Requirements <p>We have a few simple rules for User Accounts on GitHub's Service.</p>
 <ul>
-<li>You must be a human to create an account.
+<li>You must be a human to create an Account.
 Accounts registered by "bots" or other automated methods are not permitted.
 We do permit machine accounts:<br>
 </li>
-<li>A machine account is an account set up by an individual human who accepts the Terms on behalf of the account, provides a valid email address, and is responsible for its actions.
+<li>A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions.
 A machine account is used exclusively for performing automated tasks.
-Multiple users may direct the actions of a machine account, but the owner of the account is ultimately responsible for the machine's actions.
-You may maintain no more than one free machine account in addition to your free personal account.</li>
-<li>One person or legal entity may maintain no more than one free account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).</li>
+Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions.
+You may maintain no more than one free machine account in addition to your free User Account.</li>
+<li>One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).</li>
 <li>You must be age 13 or older.
 While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.
 GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
-If we learn of any User under the age of 13, we will terminate that User’s account immediately.
+If we learn of any User under the age of 13, we will terminate that User’s Account immediately.
 If you are a resident of a country outside the United States, your country’s minimum age may be older.
 in such a case, you are responsible for complying with your country’s laws.</li>
 <li>Your login may only be used by one person — i.e., a single login may not be shared by multiple people.
-A paid organization account may create separate logins for as many users as its subscription allows.</li>
-<li>Overall, the number of Users must not exceed the number of accounts you've ordered from us.</li>
-</ul>
-3.
-User Account Security <p>You are responsible for keeping your account secure while you use our Service.
-We offer tools such as two-factor authentication to help you maintain your account's security, but the content of your account and its security are up to you.</p>
-<ul>
-<li>You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).</li>
-<li>You are responsible for maintaining the security of your account and password.
-GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</li>
-<li>You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.</li>
+A paid Organization may only provide access to as many User Accounts as your subscription allows.</li>
 </ul>
 4.
+User Account Security <p>You are responsible for keeping your Account secure while you use our Service.
+We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.</p>
+<ul>
+<li>You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).</li>
+<li>You are responsible for maintaining the security of your Account and password.
+GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</li>
+<li>You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.</li>
+</ul>
+5.
 Additional Terms <p>In some situations, third parties' terms may apply to your use of GitHub.
 For example, you may be a member of an organization on GitHub with its own terms or license agreements.
 you may download an application that integrates with GitHub.
@@ -194,20 +212,20 @@ Privacy <p>Misuse of GitHub Users' Personal Information is prohibited.</p>
 <p>Any person, entity, or service collecting data from GitHub must comply with the GitHub Privacy Statement, particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement).
 If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it.
 You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.</p> 7.
-Excessive Bandwidth Use <p>If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption.</p> 8.
+Excessive Bandwidth Use <p>If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your Account or throttle your file hosting until you can reduce your bandwidth consumption.</p> 8.
 User Protection <p>You agree not to engage in activity that significantly harms our Users.
 We will resolve disputes in favor of protecting our Users as a whole.</p> D.
 User-Generated Content <p>
 <strong>Short version:</strong>
 <em>You own content you create, but you allow us certain rights to it, so that we can display and share the content you post.
 You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service.
-We have the right to remove content or close accounts if we need to.</em>
+We have the right to remove content or close Accounts if we need to.</em>
 </p> 1.
 Responsibility for User-Generated Content <p>You may create or upload User-Generated Content while using the Service.
 You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content.
 We are not responsible for any public display or misuse of your User-Generated Content.</p> 2.
 GitHub May Remove Content <p>We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.</p> 3.
-Ownership of Content, Right to Post, and License Grants <p>You retain ownership of and responsibility for Content you create or own ("Your Content").
+Ownership of Content, Right to Post, and License Grants <p>You retain ownership of and responsibility for Your Content.
 If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post.
 that you will only submit Content that you have the right to post.
 and that you will fully comply with any third party licenses relating to Content you post.</p>
@@ -244,7 +262,7 @@ Private Repositories <p>
 We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.</em>
 </p> 1.
 Control of Private Repositories.
-<p>Some accounts, such as paid accounts, may have private repositories, which allow the User to control access to Content.</p> 2.
+<p>Some Accounts, such as paid Accounts, may have private repositories, which allow the User to control access to Content.</p> 2.
 Confidentiality of Private Repositories.
 <p>GitHub considers the contents of private repositories to be confidential to you.
 GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.</p> 3.
@@ -253,7 +271,7 @@ Access.
 <ul>
 <li>With your consent and knowledge, for support reasons.
 If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.</li>
-<li>When access is required for security reasons.</li>
+<li>When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service.</li>
 </ul>
 <p>You may choose to enable additional access to your private repositories.
 For example:</p>
@@ -261,9 +279,6 @@ For example:</p>
 <li>You may enable various GitHub services or features that require additional rights to Your Content in private repositories.
 These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential.
 If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.</li>
-<li>You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories.
-Your use of third-party applications is at your sole risk.
-GitHub is not liable for disclosures to third parties that you authorize to access a private repository.</li>
 </ul>
 4.
 Exclusions.
@@ -273,7 +288,7 @@ Copyright Infringement and DMCA Policy <p>If you believe that content on our web
 If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via our convenient DMCA form or by emailing copyright@github.com.
 There may be legal consequences for sending a false or frivolous takedown notice.
 Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.</p>
-<p>We will terminate the accounts of repeat infringers of this policy.</p> G.
+<p>We will terminate the Accounts of repeat infringers of this policy.</p> G.
 Intellectual Property Notice <p>
 <strong>Short version:</strong>
 <em>We own the service and all of our content.
@@ -290,7 +305,7 @@ For details, see our site-policy repository.</p> H.
 API Terms <p>
 <strong>Short version:</strong>
 <em>You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.</em>
-</p> No Abuse or Overuse of the API <p>Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your account's access to the API.
+</p> No Abuse or Overuse of the API <p>Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API.
 GitHub, in our sole discretion, will determine abuse or excessive usage of the API.
 We will make a reasonable attempt to warn you via email prior to suspension.</p>
 <p>You may not share API tokens to exceed GitHub's rate limitations.</p>
@@ -301,24 +316,39 @@ Additional Terms for GitHub Pages <p>
 <strong>Short version:</strong>
 <em>The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms.</em>
 </p>
-<p>Each GitHub account comes with access to the GitHub Pages static hosting service.
+<p>Each GitHub Account comes with access to the GitHub Pages static hosting service.
 This hosting service is intended to host static web pages for GitHub users.
-GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses.
+GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses.
 Please see our GitHub Pages guidelines for more information.</p>
 <p>GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.</p> J.
-Additional Terms for GitHub Marketplace <p>
+Third Party Applications <p>
 <strong>Short version:</strong>
-<em>GitHub Marketplace is subject to certain rules, in addition to the rest of this Agreement.</em>
+<em>You need to follow certain rules if you create an application for other Users, and there are additional Terms that cover the Marketplace.</em>
+</p> 1.
+Creating Applications <p>If you create a third-party application or other developer product that collects User Personal Information or User-Generated Content and integrates with the Service through GitHub's API, OAuth mechanism, or otherwise ("Developer Product"), and make it available for other Users, then you must comply with the following requirements:</p>
+<ul>
+<li>You must comply with this Agreement and the GitHub Privacy Statement.</li>
+<li>Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection.
+</li>
+<li>You must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content.</li>
+<li>You must not hold yourself out as collecting any User Personal Information or User-Generated Content on GitHub’s behalf, and provide sufficient notice of your privacy practices to the User, such as by posting a privacy policy.</li>
+<li>You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.</li>
+</ul>
+<p>If you list a Developer Product through GitHub Marketplace, then you must agree to the GitHub Marketplace Developer Agreement, prior to submitting the project to be listed.
+</p> 2.
+Using Third-Party Applications <p>You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories.
+Some Developer Products are available through GitHub Marketplace.
+Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product.
+However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account.
+Please see our Privacy Statement for more information about how we share data with Developer Products.
 </p>
-<p>GitHub Marketplace is a platform for developers of all kinds.
-Through GitHub Marketplace, you can list Developer Products (as defined in the GitHub Marketplace Terms of Service) or buy others' Developer Products.
-Prior to submitting a project to be listed, you must agree to the GitHub Marketplace Developer Agreement.</p>
-<p>If you buy Developer Products, the GitHub Marketplace Terms of Service controls your purchase.
+<p>
+<strong>GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that you authorize to access Your Content.
+Your use of any third-party applications is at your sole risk.</strong>
+</p>
+<p>If you buy Developer Products through GitHub Marketplace, the GitHub Marketplace Terms of Service controls your purchase.
 This Agreement, as well as the GitHub Marketplace Terms of Service, will govern your use of GitHub Marketplace.
-Many of these Developer Products are used exclusively for performing automated tasks.
-In addition, multiple Users may direct the actions of a Developer Product.
-However, if you purchase and/or set up a Developer Product on your account, or you are an owner of an account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your account.</p>
-<p>Any violation of the GitHub Marketplace Terms of Service is also a violation of this Agreement.</p> K.
+</p> K.
 Advertising on GitHub <p>
 <strong>Short version:</strong>
 <em>We do not generally prohibit use of GitHub for advertising.
@@ -345,14 +375,14 @@ Upgrades, Downgrades, and Changes <ul>
 <li>If you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.</li>
 <li>If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.</li>
 <li>You may change your level of service at any time by choosing a plan option or going into your Billing settings.
-If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
+If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account.
 Please see our section on Cancellation for information on getting a copy of that Content.</li>
 </ul>
 3.
 Billing Schedule.
 No Refunds <ul>
 <li>For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable.
-There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open account.
+There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account.
 however, the service will remain active for the length of the paid billing period.</li>
 <li>In order to treat everyone equally, no exceptions will be made.</li>
 </ul>
@@ -361,21 +391,21 @@ Authorization <p>By agreeing to these Terms, you are giving us permission to cha
 Responsibility for Payment <p>You are responsible for all fees, including taxes, associated with your use of the Service.
 By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service.
 If you dispute the matter, contact GitHub Support.
-You are responsible for providing us with a valid means of payment for paid accounts.
-Free accounts are not required to provide payment information.</p> M.
+You are responsible for providing us with a valid means of payment for paid Accounts.
+Free Accounts are not required to provide payment information.</p> M.
 Cancellation and Termination <p>
 <strong>Short version:</strong>
-<em>You may close your account at any time.
+<em>You may close your Account at any time.
 If you do, we'll treat your information responsibly.</em>
 </p> 1.
-Account Cancellation <p>It is your responsibility to properly cancel your account with GitHub.
-You can cancel your account at any time by going into your Settings in the global navigation bar at the top of the screen.
+Account Cancellation <p>It is your responsibility to properly cancel your Account with GitHub.
+You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen.
 The Account screen provides a simple, no questions asked cancellation link.
-We are not able to cancel accounts in response to an email or phone request.</p> 2.
+We are not able to cancel Accounts in response to an email or phone request.</p> 2.
 Upon Cancellation <p>We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups).
-This information can not be recovered once your account is cancelled.</p>
+This information can not be recovered once your Account is cancelled.</p>
 <p>We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.</p>
-<p>Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after account cancellation, termination, or downgrade.
+<p>Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation, termination, or downgrade.
 You must make this request within 90 days of cancellation, termination, or downgrade.</p> 3.
 GitHub May Terminate <p>GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately.
 GitHub reserves the right to refuse service to anyone for any reason at any time.</p> 4.
@@ -442,7 +472,8 @@ So while we may modify this agreement at any time, we will notify users of any c
 </p>
 <p>We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments.
 We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website.
-For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.</p>
+For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+You can view all changes to these Terms in our Site Policy repository.</p>
 <p>We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.</p> S.
 Miscellaneous 1.
 Governing Law <p>Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions.
