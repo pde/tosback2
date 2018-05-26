@@ -69,7 +69,8 @@ skip to search Lands' End SIGN IN MY ACCOUNT <ul>
 <li> The Starfish Collection </li>
 <li> Tunic Shop </li>
 <li> Sale </li>
-</ul> CATEGORIES <ul>
+</ul> WOMEN'S CLOTHING &gt.
+<ul>
 <li> Swimsuits </li>
 <li> Knit Tops &amp.
 Tees </li>
@@ -88,8 +89,8 @@ Jackets </li>
 <li> Pajamas &amp.
 Robes </li>
 <li> Long Underwear </li>
-<li> Bags </li>
-</ul> SHOES&gt.
+</ul> BAGS &gt.
+SHOES &gt.
 <ul>
 <li> Athletic &amp.
 Water </li>
@@ -99,7 +100,7 @@ Water </li>
 <li> Flats </li>
 <li> Heels </li>
 <li> Slippers </li>
-</ul> ACCESSORIES&gt.
+</ul> ACCESSORIES &gt.
 <ul>
 <li> Scarves </li>
 <li> Belts </li>
@@ -261,18 +262,19 @@ Swim Shirts </li>
 <li> Swim Trunks </li>
 <li> Rash Guards &amp.
 Swim Shirts </li>
-</ul> FEATURED SHOPS <ul>
+</ul> More For Swim <ul>
+<li> Water Shoes &amp.
+Sandals </li>
+<li> Totes &amp.
+Beach Bags </li>
+<li> Beach Towels </li>
+</ul> Featured Shops <ul>
 <li> Her Swim Looks To Love </li>
 <li> Little Black Suit </li>
 <li> Women's Swim Finder </li>
 <li> Women's Mix &amp.
 Match Tool </li>
 <li> Kids' Swim Shop </li>
-<li> Water Shoes &amp.
-Sandals </li>
-<li> Totes &amp.
-Beach Bags </li>
-<li> Beach Towels </li>
 <li> Sale </li>
 </ul>
 </li>
@@ -360,25 +362,13 @@ Men&gt.
 Bags </li>
 </ul>
 </li>
-<li> Home FEATURED SHOPS <ul>
-<li> New Arrivals </li>
-<li> Supima Bedding &amp.
-Bath </li>
-<li> Bedding Basics </li>
-<li> Sale </li>
-</ul> More for the Home &gt.
+<li> Home BATH &gt.
 <ul>
-<li> Outdoor Furniture </li>
-<li> Storage &amp.
-Organization </li>
-<li> Door Mats </li>
-<li> Luggage &amp.
-Bags </li>
-<li> Canvas Totes </li>
-<li> Entertaining </li>
-<li> Holiday Decor </li>
-<li> Summer Decor &amp.
-Entertaining </li>
+<li> Beach Towels </li>
+<li> Rugs &amp.
+Mats </li>
+<li> Towels </li>
+<li> Shower Curtains </li>
 </ul> BEDDING &gt.
 <ul>
 <li> Sheets &amp.
@@ -393,13 +383,17 @@ Throws </li>
 <li> Decorative Pillows </li>
 <li> Coverlets </li>
 <li> Quilts </li>
-</ul> BATH &gt.
+</ul> Beach Towels &gt.
+More for the Home &gt.
 <ul>
-<li> Towels </li>
-<li> Rugs &amp.
-Mats </li>
-<li> Beach Towels </li>
-<li> Shower Curtains </li>
+<li> Outdoor Furniture </li>
+<li> Storage &amp.
+Organization </li>
+<li> Door Mats </li>
+<li> Canvas Totes </li>
+<li> Entertaining </li>
+<li> Summer Decor &amp.
+Entertaining </li>
 </ul> KIDS ROOM &gt.
 <ul>
 <li> Kids Bedding </li>
@@ -410,6 +404,12 @@ Gifts </li>
 <li> Bean Bag Chairs </li>
 <li> Sleeping Bags </li>
 <li> Baby Blankets </li>
+</ul> FEATURED SHOPS <ul>
+<li> New Arrivals </li>
+<li> Supima Bedding &amp.
+Bath </li>
+<li> Bedding Basics </li>
+<li> Sale </li>
 </ul> DOG SHOP &gt.
 </li>
 <li> Sale WOMEN'S SALE &gt.
@@ -529,6 +529,7 @@ Jackets </li>
 <li> Sale </li>
 </ul>
 </li>
+<li> BAGS </li>
 <li> SHOES <i>
 </i>
 <ul>
@@ -581,7 +582,6 @@ Jackets </li>
 <li> Pajamas &amp.
 Robes </li>
 <li> Long Underwear </li>
-<li> Bags </li>
 </ul>
 </li>
 <li> Men <i>
@@ -838,7 +838,20 @@ Swim Shirts </li>
 Swim Shirts </li>
 </ul>
 </li>
-<li> FEATURED SHOPS <i>
+<li> More For Swim <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> Water Shoes &amp.
+Sandals </li>
+<li> Totes &amp.
+Beach Bags </li>
+<li> Beach Towels </li>
+</ul>
+</li>
+<li> Featured Shops <i>
 </i>
 <ul>
 <li>
@@ -850,11 +863,6 @@ Swim Shirts </li>
 <li> Women's Mix &amp.
 Match Tool </li>
 <li> Kids' Swim Shop </li>
-<li> Water Shoes &amp.
-Sandals </li>
-<li> Totes &amp.
-Beach Bags </li>
-<li> Beach Towels </li>
 <li> Sale </li>
 </ul>
 </li>
@@ -1012,37 +1020,18 @@ Bags </li>
 <i>
 </i> Back </li>
 <li> Shop all Home </li>
-<li> FEATURED SHOPS <i>
-</i>
-<ul>
-<li>
-<i>
-</i> Back </li>
-<li> New Arrivals </li>
-<li> Supima Bedding &amp.
-Bath </li>
-<li> Bedding Basics </li>
-<li> Sale </li>
-</ul>
-</li>
-<li> More for the Home <i>
+<li> BATH <i>
 </i>
 <ul>
 <li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> Outdoor Furniture </li>
-<li> Storage &amp.
-Organization </li>
-<li> Door Mats </li>
-<li> Luggage &amp.
-Bags </li>
-<li> Canvas Totes </li>
-<li> Entertaining </li>
-<li> Holiday Decor </li>
-<li> Summer Decor &amp.
-Entertaining </li>
+<li> Beach Towels </li>
+<li> Rugs &amp.
+Mats </li>
+<li> Towels </li>
+<li> Shower Curtains </li>
 </ul>
 </li>
 <li> BEDDING <i>
@@ -1066,18 +1055,22 @@ Throws </li>
 <li> Quilts </li>
 </ul>
 </li>
-<li> BATH <i>
+<li> Beach Towels </li>
+<li> More for the Home <i>
 </i>
 <ul>
 <li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> Towels </li>
-<li> Rugs &amp.
-Mats </li>
-<li> Beach Towels </li>
-<li> Shower Curtains </li>
+<li> Outdoor Furniture </li>
+<li> Storage &amp.
+Organization </li>
+<li> Door Mats </li>
+<li> Canvas Totes </li>
+<li> Entertaining </li>
+<li> Summer Decor &amp.
+Entertaining </li>
 </ul>
 </li>
 <li> KIDS ROOM <i>
@@ -1095,6 +1088,19 @@ Gifts </li>
 <li> Bean Bag Chairs </li>
 <li> Sleeping Bags </li>
 <li> Baby Blankets </li>
+</ul>
+</li>
+<li> FEATURED SHOPS <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> New Arrivals </li>
+<li> Supima Bedding &amp.
+Bath </li>
+<li> Bedding Basics </li>
+<li> Sale </li>
 </ul>
 </li>
 <li> DOG SHOP </li>
@@ -1271,11 +1277,12 @@ Track Orders </li>
 <li> Site Map </li>
 <li> Glossary </li>
 </ul>
-</ul> Privacy Last Updated: August 9‚ 2016 <p>This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc.
+</ul> Privacy Policy Last Updated: May 21, 2018 <p>This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc.
 or an affiliated entity.
 The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information.
 This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.</p>
-<p>Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.</p> Collection of Your Information Information You Provide to Us <p>We collect personal information from you when you interact with us via this Site‚ our retail locations‚ and/or our catalog business.
+<p>Your use of this Site‚ and any disputes arising from it‚ are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions‚ including arbitration‚ class action waiver‚ limitation on damages‚ and choice of law.</p> Collection of Your Information <p>Information You Provide to Us</p>
+<p>We collect personal information from you when you interact with us via this Site‚ our retail locations‚ and/or our catalog business.
 Personal information is information that identifies you or is reasonably linked to you.
 The personal information we may collect includes your name‚ email address‚ mailing address‚ shipping address‚ phone number‚ and payment card information.
 When you ask us to ship an order‚ we collect the information you provide to us‚ such as the name‚ billing address‚ shipping address‚ and phone number of recipients.
@@ -1294,9 +1301,13 @@ or</li>
 <li>Otherwise submitting personal information to us</li>
 </ul>
 <p>
-</p> Information from Other Sources <p>We also may collect information about you from third party sources.
+</p>
+<p>Information from Other Sources</p>
+<p>We also may collect information about you from third party sources.
 The information we collect from third party sources may include things like demographic information and purchase preference information.
-The third party sources may include public databases‚ social media platforms‚ data append services‚ data sharing cooperatives‚ and others.</p> Automated Information Collection <p>We receive and store certain types of technological information when you interact with our Site‚ our emails‚ and our online advertisements.
+The third party sources may include public databases‚ social media platforms‚ data append services‚ data sharing cooperatives‚ and others.</p>
+<p>Automated Information Collection</p>
+<p>We receive and store certain types of technological information when you interact with our Site‚ our emails‚ and our online advertisements.
 This information is intended to help our Site work properly‚ to help us evaluate use of our Site‚ and to support our website analytics and marketing campaigns.
 Here are some examples of such information: </p>
 <p>
@@ -1310,7 +1321,9 @@ A cookie is a small text file that a website or email may save to your browser a
 These web beacons allow us to know if a certain page was visited‚ an email was opened‚ or if ad banners on our Site and other sites were effective.</li>
 </ul>
 <p>
-</p> Single Sign-On Services <p>We may also use single sign-on services that allow you to sign into this Site using your third-party social networking login credentials for accounts such as Facebook‚ Google‚ or Yahoo.
+</p>
+<p>Single Sign-On Services</p>
+<p>We may also use single sign-on services that allow you to sign into this Site using your third-party social networking login credentials for accounts such as Facebook‚ Google‚ or Yahoo.
 This allows you to link your existing social network profile to your Site account.
 Once connected‚ you will be able to post content on the third-party website from this Site and interact with your friends from the third-party site(s).
 Any information or content that you post to the third-party website will be subject to that website’s own privacy policy.
@@ -1334,37 +1347,53 @@ and</li>
 <p>We may use your personal information to allow you to send messages to a friend through this Site.
 By using this functionality‚ you are telling us that you are entitled to use and provide us with your friend’s name and email address.</p>
 <p>To accomplish these purposes‚ we may combine personal and non-personal information we collect with offline information‚ including information from third parties.
-We may transfer or disclose your information with our corporate affiliates for these purposes.</p> Disclosure of Your Information to Third Parties <p>We disclose your personal information to third parties with your prior consent or under the following circumstances: </p> Sears Holdings Corporation <p>On April 4‚ 2014‚ Lands’ End‚ Inc.
+We may transfer or disclose your information with our corporate affiliates for these purposes.</p> Disclosure of Your Information to Third Parties <p>We disclose your personal information to third parties with your prior consent or under the following circumstances: </p>
+<p>Sears Holdings Corporation </p>
+<p>On April 4‚ 2014‚ Lands’ End‚ Inc.
 separated from Sears Holdings Corporation.
 Post-separation‚ Lands’ End and Sears Holdings operate as independent companies.
 Lands’ End continues to offer products for sale through Lands’ End Shops at Sears‚ located in certain Sears retail stores.
 Lands’ End also continues to participate in the Shop Your Way member loyalty program operated by Sears Holdings.
 As required by the separation agreements‚ Lands’ End shares with Sears Holdings the customer transaction information for customers who engage in transactions at Lands’ End Shops at Sears and for Shop Your Way members who engage in transactions via any Lands’ End catalog‚ website‚ or mobile application.
-</p> Service Providers <p>Lands’ End may share your personal information with service providers and other third parties who need access to your information to provide operational or other support services‚ such as payment processors‚ shipping agents‚ product fulfillment vendors‚ and companies that help us improve our product and service offers and our Site.
+</p>
+<p>Service Providers</p>
+<p>Lands’ End may share your personal information with service providers and other third parties who need access to your information to provide operational or other support services‚ such as payment processors‚ shipping agents‚ product fulfillment vendors‚ and companies that help us improve our product and service offers and our Site.
 We require our service providers to keep your information secure.
-In addition‚ unless otherwise disclosed to you‚ our service providers are not authorized to use or disclose your personal information for their own marketing purposes.</p> Legal Requirements‚ Safety‚ and Loss Prevention <p>Lands’ End may disclose your personal information in other special circumstances.
+In addition‚ unless otherwise disclosed to you‚ our service providers are not authorized to use or disclose your personal information for their own marketing purposes.</p>
+<p>Legal Requirements‚ Safety‚ and Loss Prevention</p>
+<p>Lands’ End may disclose your personal information in other special circumstances.
 For example‚ we may provide personal information about you to regulatory authorities and law enforcement officials in accordance with applicable law‚ when we otherwise believe in good faith that the law requires it‚ or to respond to requests from government authorities.
 There may be instances when we may use or disclose your personal information in order to protect or defend the legal rights‚ property or operations of Lands’ End or our employees or agents.
 to protect the rights‚ privacy‚ safety or security of users‚ members or others.
 to protect against fraud.
-and to allow us to pursue available remedies or limit the damages that we may sustain.</p> Marketing Purposes <p>From time to time‚ Lands’ End may share your personal information with carefully selected companies who may offer you products and services of interest.
-To opt out of this sharing‚ please contact us via one of the channels listed in the Contact Us section of this Privacy Policy.</p> Business Transfers <p>Lands’ End may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Lands’ End or as part of a corporate reorganization or stock sale or other change in corporate control.</p> Your Choices <p>If you would like to opt out of Lands’ End promotional emails‚ please follow the unsubscribe link at the bottom of each such email.</p>
-<p>If you would like to opt out of receiving Lands’ End catalogs‚ please contact us via one of the channels listed in the Contact Us section of this Privacy Policy.</p>
-<p>If you contact us by email or mail‚ please be sure to include your full name‚ the types of communications you would like to receive or not receive‚ and your contact information.
-For example‚ if you would like to opt-out of receiving catalogs‚ make sure to include your mailing address in your communication to us.
-</p>
+and to allow us to pursue available remedies or limit the damages that we may sustain.</p>
+<p>Marketing Purposes </p>
+<p>From time to time‚ Lands’ End may share your personal information with carefully selected companies who may offer you products and services of interest.
+To opt out of this sharing‚ please contact us via one of the channels listed in the Contact Us section of this Privacy Policy.</p>
+<p>Business Transfers</p>
+<p>Lands’ End may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Lands’ End or as part of a corporate reorganization or stock sale or other change in corporate control.</p> Your Rights to Access and Control Your Personal Data <p>You have many choices about how your data is collected, used and shared.</p>
+<p>If you would like to opt out of Lands' End promotional emails‚ please follow the unsubscribe link at the bottom of each such email or contact us at www.landsend.com/ContactUs.</p>
+<p>If you would like to opt out of receiving Lands' End catalogs‚ please contact us at one of the channels listed in the Contact Us section of this Privacy Policy.</p>
+<p>Please be sure to include your full name‚ the types of communications you would like to receive or not receive‚ and your contact information.
+For example‚ if you would like to opt-out of receiving catalogs‚ make sure to include your mailing address in your communication to us.</p>
 <p>Please allow a reasonable time for your preferences to be processed.
 It may take up to 10 days to process your requests related to email and 2-4 weeks to process other requests.</p>
-<p>Please be aware that‚ even if you opt out of receiving marketing communications from us‚ we may still contact you for transactional purposes such as customer service‚ product information‚ service notices‚ or recalls.
-We may also contact you with questions or information regarding your order‚ such as regarding order status‚ shipment‚ or refunds.</p> Interest-Based Advertisements/Online Advertisements <p>Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks.
+<p>We may still contact you for transactional purposes such as customer service‚ product information‚ service notices‚ or recalls.
+We may also contact you with questions or information regarding your order‚ such as regarding order status‚ shipment‚ or refunds.</p>
+<p>You can learn more about how to make these requests at www.landsend.com/ContactUs and we will consider your request in accordance with applicable laws.</p>
+<p>Please be aware that‚ even if you opt out of receiving marketing communications from us‚ Residents in the EU designated countries may have additional rights under their laws, including the General Data Protection Regulation ("GDPR").
+For full details of Lands' End's compliance with GDPR, please see the full Privacy and Security Policy located at http://www.landsend.co.uk/Privacy_Security/co/mobile-cs-privacy-and-security.html or by using the Contact Us Form (https://www.landsend.com/customerservice/contact_us) and selecting the "Send an Email" form.
+Please set the subject field to "GDPR-EU Data Subject Request" and include your request in the comments section along with the required information.</p>
+<p>We may retain your personal data even after you have made certain choices if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or fulfill your request to "unsubscribe" from further messages from us.
+We also may also retain de-personalized information after honoring your request(s).
+</p> Interest-Based Advertisements/Online Advertisements <p>Lands’ End works with third party service providers who help serve ads on our behalf on various online advertising networks.
 The online ad networks may use your browsing history across participating websites to show you interest-based advertisements on those websites.
 You may see ads for Lands’ End on participating websites based on how you browse our Site as well as how you browse those websites.
 </p>
-<p>To learn more about interest-based advertising‚ including how to opt out‚ please visit http://www.networkadvertising.org/choices.
+<p>To learn more about interest-based advertising‚ including how to opt out‚ click here.
 Please note that the opt-out mechanism relies on cookies to remember your choices with respect to ad-serving on websites.
 We may also use technologies‚ such as our own cookies‚ to provide you with personalized online display advertising tailored to your interests.
-To opt out of our cookies used for this online advertising‚ please visit http://dtmc.landsend.com/adinfo/choice/prod/.
-To opt out of additional, third party cookies go to http://aboutads.info/choices.
+To opt out of our cookies used for this online advertising‚ click here.
 If you delete your cookies‚ use another computer or device‚ or change browsers‚ you will need to repeat the opt-out process.
 Other websites you visit may offer their own opt-outs.
 If you do opt-out of interest-based advertisements‚ you may still see advertisements on websites you visit‚ but those ads will not be based on your browsing behavior.</p> Disabling Cookies <p>Most web browsers allow you to exercise control over cookie files on your computer by erasing them‚ blocking them‚ or notifying you when such a file is stored.
@@ -1393,7 +1422,8 @@ If you re-install the application on the same device‚ Lands’ End will be abl
 <li>You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.</li>
 </ul>
 <p>
-</p> Changes to this Privacy Policy <p>Lands’ End may update this Privacy Policy from time to time.
+</p> Communications by Telephone <p>Calls may be recorded for monitoring our customer service standards and for security.
+By using the call system you are providing affirmative consent to recording by Lands' End.</p> Changes to this Privacy Policy <p>Lands’ End may update this Privacy Policy from time to time.
 Please check this Privacy Policy periodically for changes.
 We will also notify you of material changes either by email or by a notice on this Site </p> International <p>Your personal information may be stored and processed in the United States or any other country in which Lands’ End or its service providers maintain facilities.
 By using this Site‚ you consent to the transfer of information to countries outside of your country of residence‚ including the United States‚ which may have different data protection rules than in your country.
@@ -1411,10 +1441,16 @@ and</li>
 </p>
 <p>You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.
 Lands’ End’s designated email address for such requests is websiteinquiry@landsend.com.
-</p> Contact Us Request to Receive Catalogs <p>If you would like to receive our catalogs‚ please call <strong>1-800-963-4816</strong> or e-mail websiteinquiry@landsend.com.
-We will need your name‚ address‚ and telephone number to mail catalogs to you.</p> Request to Stop Catalogs <p>If you would like to stop receiving our catalogs‚ please call <strong>1-800-963-4816</strong> or e-mail websiteinquiry@landsend.com.
-It may take 2-4 weeks to process your request.</p> Request to Opt Out of Third Party Marketing <p>We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you.
-If you prefer to have your name withheld from these lists‚ please call us toll-free at<strong>1-800-963-4816</strong> or send an email to websiteinquiry@landsend.com.</p> General Privacy Questions <p>If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call <strong>1-800-963-4816</strong> or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.</p> Addendum to Privacy Policy Page Text Message Terms of Use <ol>
+</p> Contact Us <p> Request to Receive Catalogs: If you would like to receive our catalogs‚ please call <strong>1-800-963-4816</strong> websiteinquiry@landsend.com.
+We will need your name‚ address‚ and telephone number to mail catalogs to you.
+</p>
+<p> Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call <strong>1-800-963-4816</strong> or email websiteinquiry@landsend.com.
+It may take 2-4 weeks to process your request.
+</p>
+<p> Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you.
+If you prefer to have your name withheld from these lists‚ please call us toll-free at<strong>1-800-963-4816</strong> or send an email to websiteinquiry@landsend.com.</p>
+<p> General Privacy Questions: If you have questions about this Privacy Policy‚ please use our Contact Us Form‚ call <strong>1-800-963-4816</strong> or send an email‚ including your name and mailing address‚ to websiteinquiry@landsend.com.
+</p> Addendum to Privacy Policy Page Text Message Terms of Use <ol>
 <li>Your carrier's standard messaging rates apply to your entry or submission message to any Lands' End text message service, our confirmation and all subsequent text message correspondence.
 Lands' End does not charge for any content.
 however, downloadable content may incur additional charges from your cell phone provider.
@@ -1568,4 +1604,6 @@ Safety Info</li>
 Join today.
 Earn today.
 It's free.</p> Sustainability <p>We're a proud partner of the National Forest Foundation.
-Learn More.</p> &lt;iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+Learn More.</p> &lt;iframe src="//d.turn.com/r/dft/id/L21rdC8xMTEwL3BpZC84NzEwMTEwOC90LzA?ns" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
+By continuing to browse, you consent to our use of cookies.
+To know more, please refer to our Cookie Policy 
