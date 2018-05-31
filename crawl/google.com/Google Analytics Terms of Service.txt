@@ -1,5 +1,4 @@
- Google Analytics Terms of Service <p> These Google Analytics Terms of Service (this <em>"Agreement"</em>) are entered into by Google Inc.
-("Google") and the entity executing this Agreement (<em>"You"</em>).
+ Google Analytics Terms of Service <p> These Google Analytics Terms of Service (this <em>"Agreement"</em>) are entered into by Google LLC ("Google") and the entity executing this Agreement (<em>"You"</em>).
 This Agreement governs Your use of the standard Google Analytics (the <em>"Service"</em>).
 BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT.
 In consideration of the foregoing, the parties agree as follows: </p> 1.
@@ -13,13 +12,16 @@ All Profiles linked to a single Property will have their Hits aggregated before 
 However, Confidential Information will not include any information that is or becomes known to the general public, which is already in the receiving party's possession prior to disclosure by a party or which is independently developed by the receiving party without the use of Confidential Information.
 </p>
 <p>
-<em>"Customer Data" or “Google Analytics Data"</em> means the data you collect, process or store using the Service concerning the characteristics and activities of Visitors.
+<em>"Customer Data"</em> or "Google Analytics Data" means the data you collect, process or store using the Service concerning the characteristics and activities of Visitors.
 </p>
 <p>
 <em>"Documentation"</em> means any accompanying documentation made available to You by Google for use with the Processing Software, including any documentation available online.
 </p>
 <p>
 <em>"GATC"</em> means the Google Analytics Tracking Code, which is installed on a Property for the purpose of collecting Customer Data, together with any fixes, updates and upgrades provided to You.
+</p>
+<p>
+<em>"GA 360 Suite Home"</em> means the user interface through which You can access certain Google Analytics 360 suite-level functionality.
 </p>
 <p>
 <em>"Hit"</em> means the base unit that the Google Analytics system processes.
@@ -100,15 +102,16 @@ Privacy.
 You will have and abide by an appropriate Privacy Policy and will comply with all applicable laws, policies, and regulations relating to the collection of information from Visitors.
 You must post a Privacy Policy and that Privacy Policy must provide notice of Your use of cookies that are used to collect data.
 You must disclose the use of Google Analytics, and how it collects and processes data.
-This can be done by displaying a prominent link to the site “How Google uses data when you use our partners' sites or apps”, (located at www.google.com/policies/privacy/partners/, or any other URL Google may provide from time to time).
+This can be done by displaying a prominent link to the site "How Google uses data when you use our partners' sites or apps", (located at www.google.com/policies/privacy/partners/, or any other URL Google may provide from time to time).
 You will use commercially reasonable efforts to ensure that a Visitor is provided with clear and comprehensive information about, and consents to, the storing and accessing of cookies or other information on the Visitor’s device where such activity occurs in connection with the Service and where providing such information and obtaining such consent is required by law.
 </p>
 <p> You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.
+You will comply with all applicable Google Analytics policies located at www.google.com/analytics/policies/ (or such other URL as Google may provide) as modified from time to time (the "Google Analytics Policies").
 </p>
-<p> You may participate in an integrated version of Google Analytics and certain DoubleClick and Google advertising services (<em>"Google Analytics Advertising Features"</em>).
+<p> You may participate in an integrated version of Google Analytics and certain DoubleClick and Google advertising services ("Google Analytics Advertising Features").
 If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409) Your access to and use of any DoubleClick or Google advertising service is subject to the applicable terms between You and Google regarding that service.
 </p>
-<p> If You use the GA 360 Suite Home, Your use of the GA 360 Suite Home is governed by the Google Analytics 360 Suite Home Terms of Services (or as subsequently re-named) available at https://360suite.google.com/terms (or such other URL as Google may provide) as modified from time to time (the “<strong>Suite Home Terms</strong>”), but subject to Section 2 of the Suite Home Terms, use of the Service will continue to be governed by this Agreement.
+<p> If You use the GA 360 Suite Home, Your use of the GA 360 Suite Home is subject to the Google Analytics 360 Suite Home Additional Terms (or as subsequently re-named) available at https://360suite.google.com/terms (or such other URL as Google may provide) as modified from time to time (the "Suite Home Terms").
 </p> 8.
 Indemnification.
 <p> To the extent permitted by applicable law, You will indemnify, hold harmless and defend Google and its wholly owned subsidiaries, at Your expense, from any and all third-party claims, actions, proceedings, and suits brought against Google or any of its officers, directors, employees, agents or affiliates, and all related liabilities, damages, settlements, penalties, fines, costs or expenses (including, reasonable attorneys' fees and other litigation expenses) incurred by Google or any of its officers, directors, employees, agents or affiliates, arising out of or relating to (i) Your breach of any term or condition of this Agreement, (ii) Your use of the Service, (iii) Your violations of applicable laws, rules or regulations in connection with the Service, (iv) any representations and warranties made by You concerning any aspect of the Service, the Software or Reports to any Third Party.
@@ -173,11 +176,11 @@ Each party agrees to submit to the exclusive and personal jurisdiction of the co
 The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act do not apply to this Agreement.
 The Software is controlled by U.S.
 Export Regulations, and it may be not be exported to or used by embargoed countries or individuals.
-Any notices to Google must be sent to: Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, with a copy to Legal Department, via first class or air mail or overnight courier, and are deemed given upon receipt.
+Any notices to Google must be sent to: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, with a copy to Legal Department, via first class or air mail or overnight courier, and are deemed given upon receipt.
 A waiver of any default is not a waiver of any subsequent default.
 You may not assign or otherwise transfer any of Your rights in this Agreement without Google's prior written consent, and any such attempt is void.
 The relationship between Google and You is not one of a legal partnership relationship, but is one of independent contractors.
 This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto.
 The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.
 </p>
-<p> Last Updated 5/24/2016 </p> 
+<p> Last Updated May 30, 2018 </p> 

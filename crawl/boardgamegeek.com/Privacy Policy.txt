@@ -85,6 +85,9 @@ Who else do you share my personal information with?</li>
 <em>Our spam filter</em>
 </li>
 <li>
+<em>Our backup provider</em>
+</li>
+<li>
 <em>When we need to for legal or security reasons</em>
 </li>
 <li>
@@ -176,7 +179,8 @@ or </li>
 <p>
 </p>
 <p>We only collect as much information about you as is reasonably necessary for us to provide you our services.
-The table below is a basic summary of what happens to your information.</p> What information do we collect?<br> When do we collect it?<br> How do we collect it?<br> Why do we collect it?<br> Your email address <br> When you register for an account<br> You give it to us directly<br> To verify that your account is legitimate and to notify you of important announcements.<br> Confirmation that you are 16 or older<br> When you register for an account<br> You give it to us directly<br> To verify that you are old enough to have an account, because your registration will be automatically rejected if you are under 16<br> Your name and contact information, including email address, physical address and phone number<br> When you register for an account or update your account information<p>When you purchase an item in the BoardGameGeek Store or the Geek Market</p>
+The table below is a basic summary of what happens to your information.
+For a more complete list of what we collect, see our user data summary table.</p> What information do we collect?<br> When do we collect it?<br> How do we collect it?<br> Why do we collect it?<br> Your email address <br> When you register for an account<br> You give it to us directly<br> To verify that your account is legitimate and to notify you of important announcements.<br> Confirmation that you are 16 or older<br> When you register for an account<br> You give it to us directly<br> To verify that you are old enough to have an account, because your registration will be automatically rejected if you are under 16<br> Your name and contact information, including email address, physical address and phone number<br> When you register for an account or update your account information<p>When you purchase an item in the BoardGameGeek Store or the Geek Market</p>
 <p>When you participate in a trade with another user<br>
 </p> You give it to us directly<p>
 </p>
@@ -423,6 +427,13 @@ See Zendesk's privacy policy (https://www.zendesk.com/company/customers-partners
 <p>We use Automattic for spam filtering.
 We provide contents of public posts along with your IP address to Automattic for automated spam filtering.
 See Automattic's privacy policy, https://automattic.com/privacy-notice/ for how they handle your personal information.</p>
+<p>
+</p>
+<em>Our backup provider</em>
+<p>
+</p>
+<p>Our backups are stored encrypted by Arcserve.
+Only we can decrypt the data.</p>
 <p>
 </p>
 <em>When we need to for legal or security reasons</em>
