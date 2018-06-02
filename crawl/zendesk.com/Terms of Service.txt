@@ -1,11 +1,11 @@
 
 Master Subscription Agreement
 <p>We have updated Our Master Subscription Agreement.
-If You are a new Subscriber, then this Master Subscription Agreement will be effective as of November 1, 2017.
-If You are an existing Subscriber, we are providing You with prior notice of these changes which will be effective as of December 1, 2017.
-For a prior version of Our Terms of Service, click here.</p>
+If You are a new Subscriber, then this Master Subscription Agreement will be effective as of June 1, 2018.
+If You are an existing Subscriber, we are providing You with prior notice of these changes which will be effective as of July 1, 2018.
+For a prior version of Our Master Subscription Agreement, click here.</p>
 <p>
-<strong>THIS AGREEMENT CONSTITUTES A BINDING CONTRACT ON YOU AND GOVERNS YOUR USE OF AND ACCESS TO THE SERVICES BY YOU, AGENTS AND END-USERS WHETHER IN CONNECTION WITH A PAID OR FREE TRIAL SUBSCRIPTION TO THE SERVICES.</strong>
+<strong>THIS AGREEMENT CONSTITUTES A BINDING CONTRACT ON YOU AND GOVERNS USE OF AND ACCESS TO THE SERVICES BY YOU, AGENTS AND END-USERS WHETHER IN CONNECTION WITH A PAID OR FREE TRIAL SUBSCRIPTION TO THE SERVICES.</strong>
 </p>
 <p>
 <strong>By accepting this Agreement, either by accessing or using a Service, or authorizing or permitting any Agent or End-User to access or use a Service, You agree to be bound by this Agreement.
@@ -73,38 +73,45 @@ DEFINITIONS</strong>
 <p>
 <strong>Account</strong>: means any accounts or instances created by or on behalf of Subscriber or its Agents within the Services.</p>
 <p>
+<strong>Additional Feature(s)</strong>: means additional features or functionality (including, but not limited to, Our API or SDK, Built by Zendesk Marketplace Applications, Early Access Programs, or Beta Services) that are available or enabled through the Service, but do not form part of the Service.
+Additional Features are purchased or enabled separately and distinctly from Your Service Plan and Deployed Associated Services.</p>
+<p>
 <strong>Affiliate</strong>: means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party, whereby “control” (including, with correlative meaning, the terms “controlled by” and “under common control”) means the possession, directly or indirectly, of the power to direct, or cause the direction of the management and policies of such person, whether through the ownership of voting securities, by contract, or otherwise.</p>
 <p>
-<strong>Agent</strong>: means an individual authorized to use a Service through Your Account as an agent and/or administrator as identified through a unique login.</p>
+<strong>Agent</strong>: means an individual (including those of Your Affiliates) authorized to use a Service through Your Account as an agent and/or administrator as identified through a unique login.</p>
 <p>
-<strong>Agreement</strong>: means the Master Subscription Agreement together with any and all Supplemental Terms, Additional Features and Order Forms along with the Zendesk Privacy Policy located on Our Site.</p>
+<strong>Agreement</strong>: means the Master Subscription Agreement together with any and all Supplemental Terms, Order Forms, Statements of Work (“SOW”), Business Associate Agreement (“BAA”), and Data Processing Agreement (“DPA”) (each, where applicable) along with the Zendesk Privacy Policy located on Our Site.</p>
 <p>
 <strong>Applicable Data Protection Law</strong>: means the following data protection law(s): (i) where You (acting as data controller or data processor) are established in an European Economic Area (“EEA”) member state or where Your Agents or End-Users access the Services from an European Economic Area (“EEA”) member state: (a) prior to May 25, 2018, the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995, entitled “On the protection of individuals with regard to the processing of personal data, and on the free movement of such data.” (as implemented into the relevant national laws of the member state in which You are established), and (b) on and after May 25, 2018, the EU Regulation 2016/679 (and any applicable national laws made under it).
+and (ii) where You are established in Switzerland, the Swiss Federal Act of 19 June 1992 on Data Protection (as may be amended or superseded).
+Should be changed to: Applicable Data Protection Law: means the following data protection law(s): (i) where You (acting as data controller or data processor) are established in an European Economic Area (“EEA”) member state or where Your Agents or End-Users access the Services from an European Economic Area (“EEA”) member state the EU Regulation 2016/679 entitled “On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)” and any applicable national laws made under it.
 and (ii) where You are established in Switzerland, the Swiss Federal Act of 19 June 1992 on Data Protection (as may be amended or superseded).</p>
 <p>
 <strong>API</strong>: means the application programming interfaces developed and enabled by Zendesk that permit Subscribers to access certain functionality provided by the Services, including, without limitation, the REST API that enables the interaction with the Services automatically through HTTP requests and the application development API that enables the integration of the Services with other web applications.</p>
 <p>
-<strong>Associated Services</strong>: means products, services, features and functionality designed to be used in conjunction with the Services but not included in the Service Plan to which You subscribe, including, without limitation, integrations and applications created or developed by Zendesk or its Affiliates and made available in the Zendesk marketplace (available at https://www.zendesk.com/apps) which will be governed by this Agreement unless Zendesk otherwise communicates a different agreement to You at the time of Your deployment of or access to the integration or application.
-For avoidance of doubt, none of the Services or any other product, service, feature or functionality that is expressly stated to be governed by any alternative license, agreement or terms shall be deemed an Associated Service.</p>
+<strong>Associated Services</strong>: means products, services, features and functionality designed to be used in conjunction with the Services but not included in the Service Plan to which You subscribe.
+For avoidance of doubt, Additional Features that are expressly stated to be governed by separate Supplemental Terms shall not be deemed an Associated Service.</p>
 <p>
 <strong>Beta Services</strong>: means a product, service or functionality provided by Zendesk that may be made available to You to try at Your option at no additional charge which is clearly designated as beta, pilot, limited release, non-production, early access, evaluation or by a similar description.
 </p>
 <p>
-<strong>Confidential Information</strong>: means all information disclosed by You to Zendesk or by Zendesk to You which is in tangible form and labeled “confidential” (or with a similar legend) or which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure, including, but not limited to, information relating to Zendesk’s security policies and procedures.
+<strong>Built by Zendesk Marketplace Applications</strong>: means integrations and applications created or developed by Zendesk or its Affiliates and made available in the Zendesk marketplace (available at https://www.zendesk.com/apps) which will be governed by this Agreement unless Zendesk otherwise communicates a different agreement to You at the time of Your deployment of or access to the integration or application).” between definitions of “Beta Services” and “Confidential Information.”</p>
+<p>
+<strong>Confidential Information</strong>: means all information disclosed by You to Zendesk or by Zendesk to You which is in tangible form and labeled “confidential” (or with a similar legend) or is information, regardless of form, which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure, including, but not limited to, information relating to Zendesk’s security policies and procedures.
 For purposes of this Agreement, this Agreement as well as Service Data shall be deemed Confidential Information.
 Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving Party at the time of disclosure by the disclosing Party.
 (b) was or is obtained by the receiving Party by a third party not known by the receiving Party to be under an obligation of confidentiality with respect to such information.
 (c) is or becomes generally available to the public other than by violation of this Agreement or another valid agreement between the Parties.
 or (d) was or is independently developed by the receiving Party without use of the disclosing Party’s Confidential Information.</p>
 <p>
-<strong>Consulting Services</strong>: means consulting and professional services (including any training, success or implementation services) provided by Zendesk or its authorized subcontractors as indicated on an Order Form or other written document such as a statement of work “SOW”, as defined below.</p>
+<strong>Consulting Services</strong>: means consulting and professional services (including any training, success or implementation services) provided by Zendesk or its authorized subcontractors as indicated on an Order Form or other written document such as a SOW.</p>
 <p>
 <strong>Documentation</strong>: means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Services or describing Service Plans, as applicable, provided or made available by Zendesk to You in the applicable Zendesk help center(s).
 provided, however, that Documentation shall specifically exclude any “community moderated” forums as provided or accessible through such knowledge base(s).</p>
 <p>
-<strong>End-User</strong>: means any person or entity other than Subscriber or Agents with whom Subscriber or its Agents interact using a Service.</p>
+<strong>End-User</strong>: means any person or entity other than Subscriber or Agents with whom Subscriber or its Agents interact with while using a Service.</p>
 <p>
-<strong>Order Form</strong>: means any of Our generated service order forms executed or approved by You with respect to Your subscription to a Service, which form may detail, among other things, the number of Agents authorized to use a Service under Your subscription to a Service and the Service Plan applicable to Your subscription to a Service.</p>
+<strong>Order Form</strong>: means any of Our generated service order forms executed or approved by You with respect to Your subscription to a Service, which may detail, among other things, the number of Agents authorized to use a Service under Your subscription to a Service and the Service Plan applicable to Your subscription to a Service.</p>
 <p>
 <strong>Payment Agent</strong>: means Zendesk, Inc.
 or a payment agent designated by Zendesk.
@@ -119,7 +126,8 @@ Dollar, Zendesk may designate the Payment Agent to be Zendesk International Limi
 <strong>Processing/To Process/Processed</strong>: means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.</p>
 <p>
 <strong>Service(s)</strong>: means the products and services that are ordered by You online through a link or via an Order Form referencing this Agreement, whether on a trial or paid basis, and made available online by Us, via the applicable subscriber login link and other web pages designated by Us, including, individually and collectively, the applicable Software, updates, API, Documentation, and all applicable Associated Services that You have purchased or deployed or to which You have subscribed (“Deployed Associated Services”) that are provided under this Agreement.
-“Services” exclude Third Party Services as that term is defined in this Agreement and Associated Services that are not provided under this Agreement.
+“Services” exclude (i) Third Party Services as that term is defined in this Agreement.
+and (ii) any Additional Features or Associated Services that are not provided under this Agreement or Your Service Plan.
 From time to time the names and descriptions of the Services or any individual Service may be changed.
 To the extent Subscriber is given access to such Service as so described by virtue of a prior Order Form or other prior acceptance of this Agreement, this Agreement shall be deemed to apply to such Service as newly named or described.</p>
 <p>
@@ -133,10 +141,11 @@ To the extent Subscriber is given access to such Service as so described by virt
 <p>
 <strong>Subscription Term</strong>: means the period during which You have agreed to subscribe to a Service with respect to any individual Agent.</p>
 <p>
-<strong>Supplemental Terms</strong>: means the additional terms and conditions that are (a) contained in this Agreement under the Section entitled, “Supplemental Terms and Conditions” which apply and are incorporated into this Agreement with certain Services, features, or functionality.
-(b) included or incorporated on an Order Form (e.g.
+<strong>Supplemental Terms</strong>: means the additional terms and conditions that are (a) contained in Exhibit B to this Agreement entitled, “Supplemental Terms and Conditions”.
+(b) included or incorporated on an Order Form via hyperlink or other reference (e.g.
 when a Deployed Associated Service is purchased).
-or (c) applicable to Consulting Services when purchased by You.</p>
+(c) applicable to Consulting Services when purchased by You.
+applicable to Additional Features when activated by You.</p>
 <p>
 <strong>Third Party Services</strong>: means third party products, applications, services, software, networks, systems, directories, websites, databases and information obtained separately by You which a Service links to, or which You may connect to or enable in conjunction with a Service, including, without limitation, Third Party Services which may be integrated directly into Your Account by You or at Your direction.</p>
 <p>
@@ -152,24 +161,29 @@ ACCESS TO AND USE OF THE SERVICES</strong>
 </p>
 <p>
 <strong>2.1</strong> During the Subscription Term and subject to compliance by You, Agents and End-Users with this Agreement, You have the limited right to access and use a Service consistent with the Service Plan(s) that You subscribe to, together with all applicable Deployed Associated Services, for Your internal business purposes.
-An Affiliate may receive Services under this Agreement provided that such Affiliate directly enters into an Service Order Form.
-By entering into a Service Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto.
-Subscriber will be responsible for its Affiliates’ compliance with this Agreement.
-We will (a) make the Services and Service Data available to You pursuant to this Agreement and the applicable Order Forms.
+An Affiliate may purchase a subscription to the Services under this Agreement provided that You or such Affiliate executes an Order Form for such Services.
+By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto.
+Subscriber also agrees that it will be responsible for its Affiliates’ compliance with this Agreement.
+</p>
+<p>
+<strong>2.2</strong> We will (a) make the Services and Service Data available to You pursuant to this Agreement and the applicable Order Forms.
 (b) provide applicable standard customer support for the Services to You at no additional charge as detailed on the applicable Site and Documentation and/or upgraded support if purchased.
 (c) use commercially reasonable efforts to make the Services available 24 hours a day, 7 days a week, except (i) during planned downtime for upgrades and maintenance to the Services (of which We will use commercially reasonable efforts to notify You in advance both through Our Site and a notice to Your Account owner and Agents) (“Planned Downtime”).
 and (ii) for any unavailability caused by circumstances beyond Our reasonable control, including, for example, an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving Our employees), Internet service provider failure or delay, Third Party Services, or acts undertaken by third parties, including without limitation, denial of service attack (“Force Majeure Event”).
 </p>
 <p>
-<strong>2.2</strong> You may not use the Services to provide customer service, support or other outsourced business process services on behalf of more than one third party (other than Affiliates) through a single Account.
-Without limiting the foregoing, Your right to access and use the API is also subject to the restrictions and policies implemented by Zendesk from time to time with respect to the API as set forth in the Documentation or otherwise communicated to You in writing.</p>
+<strong>2.3</strong> We will notify You of applicable Supplemental Terms prior to Your activation of any Additional Features.
+The activation of any Additional Features by You in Your Account will be considered acceptance of the applicable Supplemental Terms.</p>
 <p>
-<strong>2.3</strong> A high speed Internet connection is required for proper transmission of the Services.
+<strong>2.4</strong> You may not use the Services to provide outsourced business process services, such as customer service or support, on behalf of more than one (1) third party (other than Affiliates) through a single Account.
+Without limiting the foregoing, Your right to access and use the API is also subject to the restrictions and policies implemented by Zendesk from time to time with respect to the API as set forth in the Documentation or otherwise communicated to You in accordance with Section 2.3 above.</p>
+<p>
+<strong>2.5</strong> A high speed Internet connection is required for proper transmission of the Services.
 You are responsible for procuring and maintaining the network connections that connect Your network to the Services, including, but not limited to, “browser” software that supports protocols used by Zendesk, including the Transport Layer Security (TLS) protocol or other protocols accepted by Zendesk, and to follow procedures for accessing services that support such protocols.
 We are not responsible for notifying You, Agents or End-Users of any upgrades, fixes or enhancements to any such software or for any compromise of data, including Service Data, transmitted across computer networks or telecommunications facilities (including but not limited to the Internet) which are not owned, operated or controlled by Zendesk.
 We assume no responsibility for the reliability or performance of any connections as described in this section.</p>
 <p>
-<strong>2.4</strong> In addition to complying with the other terms, conditions and restrictions set forth below in this Agreement, You agree not to (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Services available to any third party, other than authorized Agents and End-Users in furtherance of Your internal business purposes as expressly permitted by this Agreement.
+<strong>2.6</strong> In addition to complying with the other terms, conditions and restrictions set forth below in this Agreement, You agree not to (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Services available to any third party, other than authorized Agents and End-Users in furtherance of Your internal business purposes as expressly permitted by this Agreement.
 (b) use the Services to Process data on behalf of any third party other than Agents or End-Users.
 (c) modify, adapt, or hack the Services or otherwise attempt to gain unauthorized access to the Services or related systems or networks.
 (d) falsely imply any sponsorship or association with Zendesk or the Zendesk Group, (e) use the Services in any unlawful manner, including, but not limited to, violation of any person’s privacy rights.
@@ -181,10 +195,10 @@ We assume no responsibility for the reliability or performance of any connection
 (k) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R.
 160.103, unless expressly agreed to otherwise in writing by Zendesk.
 (l) use the Services to knowingly post transmit, upload, link to, send or store any viruses, malware, Trojan horses, time bombs, or any other similar harmful software (“Malicious Software”).
-(m) use or launch any automated system that accesses a Service (i.e., bot) in a manner that sends more request messages to a Service server in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser.
+(m) use or launch any automated system that accesses a Service (i.e., bot) in a manner that sends more request messages to a Service server in a given period of time than a human can reasonably produce in the same period by using a conventional online web browser.
 or (n) attempt to use, or use the Services in violation of this Agreement.</p>
 <p>
-<strong>2.5</strong> As between You and Zendesk, You are responsible for compliance with the provisions of this Agreement by Agents and End-Users and for any and all activities that occur under Your Account.
+<strong>2.7</strong> As between You and Zendesk, You are responsible for compliance with the provisions of this Agreement by Agents and End-Users and for any and all activities that occur under Your Account.
 Without limiting the foregoing, You are solely responsible for ensuring that use of the Services to store and transmit Service Data is compliant with all applicable laws and regulations as well as any and all privacy policies, agreements or other obligations You may maintain or enter into with Agents or End-Users.
 You also maintain all responsibility for determining whether the Services or the information generated thereby is accurate or sufficient for Your purposes.
 Subject to any limitation on the number of individual Agents available under the applicable Service Plan(s) to which You subscribed or applicable Deployed Associated Service, access to and use of the Services is restricted to the specified number of individual Agents permitted under Your subscription to the applicable Service.
@@ -194,18 +208,18 @@ You and Your Agents are responsible for maintaining the confidentiality of all L
 Zendesk reserves the right to periodically verify that Your use of the Zendesk Services complies with the Agreement and the Service Plan restrictions on Our Site.
 Should Zendesk discover that Your use of a Zendesk Service is not in compliance with this Agreement or the Service Plan restrictions on Our Site, Zendesk reserves the right to charge You, and You hereby agree to pay for, said usage in addition to other remedies available to Us.</p>
 <p>
-<strong>2.6</strong> In addition to Our rights as set forth in Sections 2 and 8.4, We reserve the right, in Our reasonable discretion, to temporarily suspend Your access to and use of a Service if We suspect or detect any Malicious Software connected to Your Account or use of a Service by You, Agents or End-Users.</p>
+<strong>2.8</strong> In addition to Our rights as set forth in Sections 2 and 8.4, We reserve the right, in Our reasonable discretion, to temporarily suspend Your access to and use of a Service if We suspect or detect any Malicious Software connected to Your Account or use of a Service by You, Agents or End-Users.</p>
 <p>
-<strong>2.7</strong> You acknowledge that Zendesk may modify the features and functionality of the Services during the Subscription Term.
+<strong>2.9</strong> You acknowledge that Zendesk may modify the features and functionality of the Services during the Subscription Term.
 </p>
 <p>
-<strong>2.8</strong> You may not access the Services if You are a direct competitor of the Zendesk Group, except with Zendesk’s prior written consent.
-You may not access the Services for the purposes of monitoring performance, availability, functionality, or for any benchmarking or competitive purposes.</p>
+<strong>2.10</strong> You may not access the Services if You are a direct competitor of the Zendesk Group, except with Zendesk’s prior written consent.
+You may not access the Services for competitive purposes.</p>
 <p>
-<strong>2.9</strong> If You register for a free trial for any of the Services, We will make such Services available to You on a trial basis free of charge until the earlier of (a) the end of the free trial period for which You registered to use the applicable Service(s).
+<strong>2.11</strong> If You register for a free trial for any of the Services, We will make such Services available to You on a trial basis free of charge until the earlier of (a) the end of the free trial period for which You registered to use the applicable Service(s).
 (b) the start date of any subscription to such Service purchased by You for such Service(s).
 or (c) termination of the trial by Us in our sole discretion.
-Additional trial terms and conditions may appear on the trial registration web page.
+Trial terms and conditions may appear on the trial registration web page.
 Any such additional terms and conditions are incorporated into this Agreement by reference and are legally binding.
 Please review the applicable Documentation during the trial period so that You become familiar with the features and functions of the Services under applicable Service Plans before You make Your purchase.</p>
 <p>
@@ -213,9 +227,9 @@ Please review the applicable Documentation during the trial period so that You b
 </strong>
 </p>
 <p>
-<strong>2.10</strong> From time to time, We may make Beta Services available to You at no charge.
+<strong>2.12</strong> From time to time, We may make Beta Services available to You at no charge.
 You may choose to try such Beta Services in Your sole discretion.
-Beta Services are intended for evaluation purposes and not for production use, are not supported, and may be subject to additional terms that will be presented to You.
+Beta Services are intended for evaluation purposes and not for production use, are not supported, and may be subject to Supplemental Terms that will be presented to You.
 Beta Services are not considered “Services” under this Agreement.
 however, all restrictions, Our reservation of rights and Your obligations concerning the Service, and use of any Third Party Services shall apply equally to Your use of Beta Services.
 Unless otherwise stated, any Beta Services trial period will expire upon the earlier of one year from the trial start date or the date that a version of the Beta Services becomes generally available without the applicable Beta Services designation.
@@ -229,13 +243,13 @@ SECURITY AND PRIVACY</strong>
 </p>
 <p>
 <strong>3.1</strong> Subject to the express permissions of this Agreement, each Party will protect each other’s Confidential Information from unauthorized use, access or disclosure in the same manner as each protects its own Confidential Information, but with no less than reasonable care.
-Except as otherwise expressly permitted pursuant to this Agreement, each Party may use each other’s Confidential Information solely to exercise our respective rights and perform our respective obligations under this Agreement and shall disclose such Confidential Information (a) solely to the employees and/or non-employee service providers and contractors who have a need to know such Confidential Information for such purposes and who are bound to maintain the confidentiality of, and not misuse, such Confidential Information.
+Except as otherwise expressly permitted pursuant to this Agreement, each Party may use each other’s Confidential Information solely to exercise its respective rights and perform its respective obligations under this Agreement and shall disclose such Confidential Information (a) solely to the employees and/or non-employee service providers and contractors who have a need to know such Confidential Information and who are bound by terms of confidentiality intended to prevent the misuse of such Confidential Information.
 (b) as necessary to comply with an order or subpoena of any administrative agency or court of competent jurisdiction.
 or (c) as reasonably necessary to comply with any applicable law or regulation.
 The provisions of this Section 3.1 shall supersede any non-disclosure agreement by and between the Parties and such agreement shall have no further force or effect.
 </p>
 <p>
-<strong>3.2</strong> The Zendesk Group will maintain reasonable administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Service Data, as described in the Agreement, the Supplemental Terms entitled, “How We Protect Service Data” attached hereto, and Supplemental Terms for the Deployed Associated Services, as applicable.
+<strong>3.2</strong> The Zendesk Group will maintain reasonable administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Service Data, as described in the Agreement, the Supplemental Terms entitled, “How We Protect Your Service Data” attached hereto, and Supplemental Terms for the Deployed Associated Services, as applicable.
 Those safeguards will include, but will not be limited to, measures for preventing access, use, modification or disclosure of Service Data by Personnel except (a) to provide the Services and prevent or address service, support or technical problems.
 (b) as compelled by law in accordance with Sections 3.1(b) or 3.1(c).
 (c) in accordance with the provisions of Section 3.4.
@@ -244,23 +258,23 @@ The Zendesk Group’s compliance with the provisions of Sections 3.2 through 3.5
 <p>
 <strong>3.3</strong> To the extent Service Data constitutes Personal Data, You and the Zendesk Group hereby agree that You shall be deemed to be the data controller and the relevant entity in the Zendesk Group Party shall be deemed to be the data processor as those terms are understood under the Applicable Data Protection Law.
 Unless otherwise specifically agreed to by Zendesk, Service Data may be hosted by the Zendesk Group or their respective authorized third-party service providers in the United States, the EEA or other locations around the world.
-In providing the Services, Zendesk will engage entities within the Zendesk Group and other authorized service providers, to Process Service Data, including and without limitation, any associated Personal Data pursuant to this Agreement within the European Economic Area (the “EEA”), the United States and in other countries and territories.
+In providing the Services, Zendesk will engage entities within the Zendesk Group and other authorized service providers, to Process Service Data, including and without limitation, any associated Personal Data pursuant to this Agreement within the EEA, the United States and in other countries and territories.
 Under no circumstances will any entity in the Zendesk Group be deemed a data controller with respect to Service Data under Applicable Data Protection Law or any relevant law or regulation of any Member State as defined in Applicable Data Protection Law.</p>
 <p>
-<strong>3.4</strong> If Personal Data originates from an Agent or End-User in the EEA, We will ensure, pursuant to Applicable Data Protection Law that, to the extent that any Service Data constitutes Personal Data, if Service Data is transferred to a country or territory outside of the EEA (a “non-EEA country”), that such transfer will only take place if: (a) the non-EEA country in question ensures an adequate level of data protection.
+<strong>3.4</strong> If Personal Data originates from an Agent or End-User in the EEA, We will ensure, pursuant to Applicable Data Protection Law, to the extent that any Service Data constitutes Personal Data, if Service Data is transferred to a country or territory outside of the EEA (a “non-EEA country”), such transfer will only take place if: (a) the non-EEA country in question ensures an adequate level of data protection.
 (b) one of the conditions listed in Article 26(1) of Directive 95/46/EC (or its equivalent under any successor legislation) is satisfied.
 (c) done so on the basis of Zendesk’s approved binding corporate rules known as the Zendesk Binding Corporate Rules (“Zendesk’s BCR”) which establish adequate protection of such personal information and are legally binding on the Zendesk Group (Zendesk’s BCR can be accessed here and here).
 or (d) the transfer is via the EU-U.S.
 or Swiss-U.S.
 Privacy Shield Frameworks.
-Upon Your request and subject to Your entry into Zendesk’s Data Processing Agreement (“DPA”) We will further ensure that the transfer is subject to the standard contractual clauses designed to facilitate transfers of Personal Data from the EEA to all third countries that have been adopted by the European Commission (known as the, “Model Clauses”), which have been incorporated into the DPA.
+Upon Your request and subject to Your entry into Zendesk’s DPA, We will further ensure that the transfer is subject to the standard contractual clauses designed to facilitate transfers of Personal Data from the EEA to all third countries that have been adopted by the European Commission (known as the, “Model Clauses”), which have been incorporated into the DPA.
 As a Subscriber, You can execute Our DPA by emailing Your request to Us at privacy@zendesk.com.</p>
 <p>
-<strong>3.5</strong> You agree that the Zendesk Group and the third-party service providers that are utilized by the Zendesk Group to assist in providing the Services to You shall have the right to access Your Account and to use, modify, reproduce, distribute, display and disclose Service Data to the extent necessary to provide the Services, including, without limitation, in response to Your support requests.
+<strong>3.5</strong> You agree that the Zendesk Group and the third-party service providers that are utilized by the Zendesk Group to assist in providing the Services to You shall have the right to access Your Account and to use, modify, reproduce, distribute, display and disclose Service Data to the extent necessary to provide or improve the Services, including, without limitation, in response to Your support requests.
 Any third-party service providers utilized by the Zendesk Group will only be given access to Your Account and Service Data as is reasonably necessary to provide the Services and will be subject to (a) confidentiality obligations which are commercially reasonable and substantially consistent with the standards described in Section 3.2.
 and (b) their agreement to comply with the data transfer restrictions applicable to Personal Data as set forth in Section 3.4.</p>
 <p>
-<strong>3.6</strong> Whenever You, Your Agents or End-Users interact with our Services, We automatically receive and record information on Our server logs from the browser or device, which may include IP address, “cookie” information, the type of browser and/or device being used to access the Services.
+<strong>3.6</strong> Whenever You, Your Agents or End-Users interact with Our Services, We automatically receive and record information on Our server logs from the browser or device, which may include IP address, “cookie” information, and the type of browser and/or device being used to access the Services.
 “Cookies” are identifiers We transfer to the browser or device of Your Agents or End-Users that allow Us to recognize Agent or End-User and their browser or device along with how our Services are being utilized.
 When We collect this information, We only use this data in aggregate form, and not in a manner that would identify Your Agents or End-Users personally.
 For example, this aggregate data can tell Us how often users use a particular feature of the Services, and We can use that knowledge to improve the Services.</p>
@@ -272,27 +286,30 @@ For example, We may send You and Your Agents product announcements and promotion
 If You or an Agent does not want to receive communications from Us, please indicate this preference by sending an email to privacy@zendesk.com and provide us with the name and email address of each Agent that no longer wishes to receive these communications.
 </p>
 <p>
-<strong>3.8</strong> We neither rent nor sell Your Personal Data in personally identifiable form to anyone.
-However, we may share your Personal Data with third parties in the following ways:</p>
+<strong>3.8</strong> We never sell, rent, or lease Your Service Data to any third party.
+We do not share Your Service Data with third parties, except as permitted by Section 3.5 of this Agreement and in order to provide and support the Services.
+We may, however, share aggregated and anonymized information regarding Your use of the Services with third parties as described in this Section.
+To be clear, we would never disclose aggregated and/or anonymized information to a third party in a manner that would identify You as the source of the information or Your Agents or End-Users personally, as an individual.</p>
+<p>
+<strong>3.8.1</strong> Zendesk Benchmark.
+You have the choice whether to enable (i.e., opt-in) Zendesk Benchmark from within the settings in the Services.
+If You do not wish to participate in Zendesk Benchmark then You should not enable Zendesk Benchmark.
+If enabled, Zendesk Benchmark aggregates and anonymizes the Personal Data of Your Agents and Service Data and publishes this information, segmented by industry, geography, and other metrics, in order to provide qualitative insight on customer support metrics and other relevant insights.</p>
+<p>
+<strong>3.8.2</strong> Improving the Services.
+The Zendesk Group uses third party analytics providers in the following ways for the purpose of assessing and improving the usage of our Services.
+</p>
 <ol>
 <li>
-Collecting Usage Data.
-For the purposes of this section, “Usage Data” means aggregated, encoded or anonymized data that the Zendesk Group may collect about a group or category of services, features or users while You, Your Agents or End-Users use a Service for certain purposes, including analytics, and which does not contain Personal Data, which is used to help understand trends in usage of the Services.
-In addition to collecting and using Usage Data ourselves, the Zendesk Group may share the Usage Data with third parties, including Our subscribers, partners and service providers, for various purposes, including to help Us better understand Our subscribers’ needs and improve Our Services.
-We may also publish Usage Data to provide relevant information about the Services and for purposes of marketing.
+<strong>Usage Data.</strong> Third party analytics providers may collect metrics information regarding Your use of the Service(s), including evaluating how Agents and End-Users use the Services (“Usage Data”).
+To be clear, although Usage Data may be derived from aggregated and anonymized Service Data, it does not include actual Service Data or Personal Data.
+Usage Data is used to compile reports on activity within the Services for the Zendesk Group to improve the Services.
+The third party analytics providers will not share or otherwise disclose Usage Data, although We may make Usage Data publicly available from time to time.
 </li>
 <li>
-Aggregated Personal Data that is not personally identifiable.
-We may anonymize the Personal Data of Your Agents or End-Users so that they cannot be individually identified, and publish this anonymized information, as segmented by industry, geography and other metrics to provide qualitative insight on customer support metrics and other relevant insights.
-This is accomplished through “Zendesk Benchmark” or similar features.
-and, You have the choice whether to participate by enabling Zendesk Benchmark from within the settings in the Services.
-If You do not want to participate, then You should not enable Zendesk Benchmark.
-</li>
-<li>
-Aggregated Personal Data that is not personally identifiable.
-We may anonymize the Personal Data of Your Agents or End-Users so that they cannot be individually identified, and provide that information to our partners.
-We may also provide aggregate usage information to our partners for analytics purposes, who may use such information to help us understand how often and in what ways people use our Services.
-However, We never disclose aggregate information to a partner in a manner that would identify Your Agents or End-Users personally, as an individual.
+<strong>Anonymized Data.</strong> We may anonymize the Personal Data of your Agents or End-Users so they cannot be individually identified, and provide that information to third party analytics providers for analysis.
+We will use this information to maintain, enhance, or add to the functionality of the Service(s) and to personalize the user experience.
+The third party analytics providers will not share or otherwise disclose this information.
 </li>
 <p>
 </p>
@@ -316,7 +333,7 @@ provided You do not attempt, now or in the future, to claim any rights in the Ma
 THIRD PARTY SERVICES</strong>
 </p>
 <p>If You decide to enable, access or use Third Party Services, be advised that Your access and use of such Third Party Services are governed solely by the terms and conditions of such Third Party Services, and We do not endorse, are not responsible or liable for, and make no representations as to any aspect of such Third Party Services, including, without limitation, their content or the manner in which they handle, protect, manage or Process data (including Service Data) or any interaction between You and the provider of such Third Party Services.
-We cannot guarantee the continued availability of such Third Party Service features, and may cease enabling access to them without entitling You to any refund, credit, or Third Party compensation, if, for example and without limitation, the provider of an Third Party Service ceases to make the Third Party Service available for interoperation with the corresponding Service in a manner acceptable to Us.
+We cannot guarantee the continued availability of such Third Party Service features, and may cease enabling access to them without entitling You to any refund, credit, or compensation, if, for example and without limitation, the provider of an Third Party Service ceases to make the Third Party Service available for interoperation with the corresponding Service in a manner acceptable to Us.
 You irrevocably waive any claim against Zendesk with respect to such Third Party Services.
 We are not liable for any damage or loss caused or alleged to be caused by or in connection with Your enablement, access or use of any such Third Party Services, or Your reliance on the privacy practices, data security processes or other policies of such Third Party Services.
 You may be required to register for or log into such Third Party Services on their respective websites.
@@ -326,7 +343,7 @@ By enabling any Third Party Services, You are expressly permitting Zendesk to di
 BILLING, PLAN MODIFICATIONS AND PAYMENTS</strong>
 </p>
 <p>
-<strong>6.1</strong> Unless otherwise indicated on an Order Form referencing this Agreement, in the Supplemental Terms entitled “Service Specific Terms”, or Additional Terms (as defined in Section 12.2) and subject to Section 6.2, all charges associated with Your access to and use of a Service (“Subscription Charges”) are due in full upon commencement of Your Subscription Term, or, with respect to a Deployed Associated Service, at the time such Deployed Associated Service is purchased, subscribed to or otherwise deployed.
+<strong>6.1</strong> Unless otherwise indicated on an Order Form or SOW referencing this Agreement or in the Supplemental Terms, and subject to Section 6.2, all charges associated with Your access to and use of a Service (“Subscription Charges”) are due in full upon commencement of Your Subscription Term, or, with respect to a Deployed Associated Service, at the time such Deployed Associated Service is purchased, subscribed to or otherwise deployed.
 If You fail to pay Your Subscription Charges or other charges indicated on any Order Form within five (5) business days of Our notice to You that payment is due or delinquent, or if You do not update payment information upon Our request, in addition to Our other remedies, We may suspend or terminate access to and use of such Service by You, Agents and End-Users.
 </p>
 <p>
@@ -344,7 +361,7 @@ We will invoice You for such Taxes if We believe We have a legal obligation to d
 <p>
 <strong>6.5</strong> If You pay by credit card or certain other payment instruments, the Services provide an interface for the Account owner to change credit card information (e.g.
 upon card renewal).
-The Account owner will receive a receipt upon each receipt of payment by the Payment Agent, or they may obtain a receipt from within the Services to track subscription status.
+The Account owner will receive a receipt upon each acceptance of payment by the Payment Agent, or they may obtain a receipt from within the Services to track subscription status.
 You hereby authorize the Payment Agent to bill Your credit card or other payment instrument in advance on a periodic basis in accordance with the terms of the Service Plan for the Services and for periodic Subscription Charges applicable to Deployed Associated Services to which You subscribe until Your subscription to the Services terminates, and You further agree to pay any Subscription Charges so incurred.
 If applicable, You hereby authorize Zendesk and the Payment Agent to charge Your credit card or other payment instrument to establish such prepaid credit.
 You agree to promptly update Your Account information with any changes (for example, a change in Your billing address or credit card expiration date) that may occur.
@@ -354,7 +371,7 @@ The Payment Agent uses a third-party intermediary to manage credit card processi
 <strong>6.6</strong> Payments made by credit card, debit card or certain other payment instruments for the Zendesk Service are billed and processed by Zendesk’s Payment Agent.
 To the extent the Payment Agent is not Zendesk, the Payment Agent is acting solely as a billing and processing agent for and on behalf of Zendesk and shall not be construed to be providing the applicable Service.</p>
 <p>
-<strong>6.7</strong> Any Subscriber that mandates Zendesk to use a vendor payment portal or compliance portal which charges Zendesk a subscription fee or a percentage of any uploaded invoice as a required cost of doing business, shall be invoiced by Zendesk for the cost of this fee.</p>
+<strong>6.7</strong> If You mandate Zendesk use a vendor payment portal or compliance portal which charges Zendesk a subscription fee or a percentage of any uploaded invoice as a required cost of doing business, You shall be invoiced by Zendesk for, and You are obligated to pay, the cost of this fee.</p>
 <p>
 <strong>7.
 PROMOTIONAL CREDITS POLICY</strong>
@@ -379,15 +396,15 @@ Unless otherwise provided for in an Order Form, the Subscription Charges applica
 </p>
 <p>
 <strong>8.3</strong> Except for Your termination under Section 8.5, if You terminate Your subscription to a Service or cancel Your Account prior to the end of Your then effective Subscription Term or We effect such termination or cancellation pursuant to Sections 2, 8.4 and 8.5, in addition to other amounts You may owe Zendesk, You must immediately pay any then unpaid Subscription Charges associated with the remainder of such Subscription Term.
-This amount will not be payable by You in the event You terminate Your subscription to a Service or cancel Your Account as a result of a material breach of this Agreement by Zendesk, provided that You provide advance notice of such breach to Zendesk and afford Zendesk not less than thirty (30) days to reasonably cure such breach as provided for in Section 8.5 herein.</p>
+This amount will not be payable by You in the event You terminate Your subscription to a Service or cancel Your Account as a result of a material breach of this Agreement by Zendesk, provided that You provide advance notice of such breach to Zendesk and afford Zendesk no less than thirty (30) days to reasonably cure such breach as provided for in Section 8.5 herein.</p>
 <p>
-<strong>8.4</strong> We reserve the right to modify, suspend or terminate the Services (or any part thereof), Your Account or Your and/or Agents’ or End-Users’ rights to access and use the Services, and remove, disable and discard any Service Data if We believe that You, Agents or End-Users have violated this Agreement.
-This includes the removal or disablement of Service Data in accordance with Our Copyright Infringement Notice and Takedown Policy available at www.zendesk.com/company/trademark-property/DMCA/.
+<strong>8.4</strong> We reserve the right to restrict functionality, suspend or terminate the Services (or any part thereof), Your Account or Your and/or Agents’ or End-Users’ rights to access and use the Services, and remove, disable and quarantine any Service Data if We believe that You, Agents or End-Users have violated this Agreement.
+This right includes the removal or disablement of Service Data in accordance with Our Copyright Infringement Notice and Takedown Policy available at www.zendesk.com/company/trademark-property/DMCA/.
 Unless legally prohibited from doing so, We will use commercially reasonable efforts to contact You directly via email to notify You when taking any of the foregoing actions.
 We shall not be liable to You, Agents, End-Users or any other third party for any such modification, suspension or discontinuation of Your rights to access and use the Services.
 Any suspected fraudulent, abusive, or illegal activity by You, Agents or End-Users may be referred to law enforcement authorities at Our sole discretion.</p>
 <p>
-<strong>8.5</strong> A Party may terminate this Agreement for cause (a) upon thirty (30) days’ written notice to the other Party of a material breach if such breach remains uncured at the expiration of such period.
+<strong>8.5</strong> A Party may terminate this Agreement for cause (a) upon written notice to the other Party of a material breach if such breach remains uncured at the expiration of thirty (30) days from the date of the breaching Party’s receipt of such notice.
 or (b) if the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors.
 If this Agreement is terminated by You in accordance with this section, We will, to the extent permitted by applicable law, refund You any prepaid fees covering the remainder of the Subscription Term after the effective date of termination.
 If this Agreement is terminated by Us in accordance with this section, You will pay any unpaid fees covering the remainder of the Subscription Term pursuant to all applicable Order Forms.
@@ -409,20 +426,21 @@ and (b) the Services will perform materially in accordance with the applicable D
 For any breach of a warranty above, Your exclusive remedies are those described in Section 8.5 herein.
 </p>
 <p>
-<strong>9.3</strong> EXCEPT AS SPECIFICALLY SET FORTH IN SECTION 9.2, THE SITES AND THE SERVICES, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND WE EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+<strong>9.3</strong> EXCEPT AS SPECIFICALLY SET FORTH IN SECTION 9.2, THE SITES AND THE SERVICES, INCLUDING ALL SERVER AND NETWORK COMPONENTS, ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND WE EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 YOU ACKNOWLEDGE THAT WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES OR OTHER MALICIOUS SOFTWARE, AND NO INFORMATION OR ADVICE OBTAINED BY YOU FROM US OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT.</p>
 <p>
 <strong>10.
 LIMITATION OF LIABILITY</strong>
 </p>
 <p>
-<strong>10.1</strong> UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE) WILL EITHER PARTY TO THIS AGREEMENT, OR THEIR AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS, SUPPLIERS OR LICENSORS BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY LOST PROFITS, LOST SALES OR BUSINESS, LOST DATA, (BEING DATA LOST IN THE COURSE OF TRANSMISSION VIA YOUR SYSTEMS OR OVER THE INTERNET THROUGH NO FAULT OF ZENDESK), BUSINESS INTERRUPTION, LOSS OF GOODWILL, OR FOR ANY TYPE OF INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE LOSS OR DAMAGES, OR ANY OTHER LOSS OR DAMAGES INCURRED BY THE OTHER PARTY OR ANY THIRD PARTY IN CONNECTION WITH THIS AGREEMENT, THE SERVICES OR CONSULTING SERVICES, REGARDLESS OF WHETHER SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF OR COULD HAVE FORESEEN SUCH DAMAGES.</p>
+<strong>10.1</strong> UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE) WILL EITHER PARTY TO THIS AGREEMENT, OR THEIR AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS, SUPPLIERS OR LICENSORS BE LIABLE TO THE OTHER PARTY OR ANY AFFILIATE FOR ANY LOST PROFITS, LOST SALES OR BUSINESS, LOST DATA, (BEING DATA LOST IN THE COURSE OF TRANSMISSION VIA YOUR SYSTEMS OR OVER THE INTERNET THROUGH NO FAULT OF ZENDESK), BUSINESS INTERRUPTION, LOSS OF GOODWILL, OR FOR ANY TYPE OF INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE LOSS OR DAMAGES, OR ANY OTHER LOSS OR DAMAGES INCURRED BY THE OTHER PARTY OR ANY AFFILIATE IN CONNECTION WITH THIS AGREEMENT, THE SERVICES OR CONSULTING SERVICES, REGARDLESS OF WHETHER SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF OR COULD HAVE FORESEEN SUCH DAMAGES.</p>
 <p>
-<strong>10.2</strong> NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, THE ZENDESK GROUP’S AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY ARISING OUT OF THIS AGREEMENT, THE SERVICES OR CONSULTING SERVICES, SHALL IN NO EVENT EXCEED THE SUBSCRIPTION CHARGES AND/OR CONSULTING FEES PAID BY YOU DURING THE TWELVE (12) MONTHS PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
+<strong>10.2</strong> NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, THE ZENDESK GROUP’S AGGREGATE LIABILITY TO YOU, ANY AFFILIATE, OR ANY THIRD PARTY ARISING OUT OF THIS AGREEMENT, THE SERVICES OR CONSULTING SERVICES, SHALL IN NO EVENT EXCEED THE SUBSCRIPTION CHARGES AND/OR CONSULTING FEES PAID BY YOU DURING THE TWELVE (12) MONTHS PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
 YOU ACKNOWLEDGE AND AGREE THAT THE ESSENTIAL PURPOSE OF THIS SECTION 10.2 IS TO ALLOCATE THE RISKS UNDER THIS AGREEMENT BETWEEN THE PARTIES AND LIMIT POTENTIAL LIABILITY GIVEN THE SUBSCRIPTION CHARGES AND CONSULTING FEES, WHICH WOULD HAVE BEEN SUBSTANTIALLY HIGHER IF WE WERE TO ASSUME ANY FURTHER LIABILITY OTHER THAN AS SET FORTH HEREIN.
-WE HAVE RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO PROVIDE YOU WITH THE RIGHTS TO ACCESS AND USE THE SERVICES AND/OR CONSULTING SERVICES PROVIDED FOR IN THIS AGREEMENT.</p>
+WE HAVE RELIED ON THESE LIMITATIONS IN DETERMINING WHETHER TO PROVIDE YOU WITH THE RIGHTS TO ACCESS AND USE THE SERVICES AND/OR CONSULTING SERVICES PROVIDED FOR IN THIS AGREEMENT.
+THE LIMITATION OF LIABILITY PROVIDED FOR HEREIN WILL APPLY IN AGGREGATE TO SUBSCRIBER AND ITS AFFILIATES AND SHALL NOT BE CUMULATIVE.</p>
 <p>
-<strong>10.3</strong> Some jurisdictions do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply to You.
+<strong>10.3</strong> Some jurisdictions do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages or personal injury or death, which means that some of the above limitations may not apply to You.
 IN THESE JURISDICTIONS, THE ZENDESK GROUP’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.</p>
 <p>
 <strong>10.4</strong> Any claims or damages that You may have against Zendesk shall only be enforceable against Zendesk and not any other entity or its officers, directors, representatives or agents.</p>
@@ -431,7 +449,7 @@ IN THESE JURISDICTIONS, THE ZENDESK GROUP’S LIABILITY WILL BE LIMITED TO THE G
 INDEMNIFICATION</strong>
 </p>
 <p>
-<strong>11.1</strong> We will indemnify and hold You harmless, from and against any claim against You by reason of Your use of a Service as permitted hereunder, brought by a third party alleging that such Service infringes or misappropriates a third party’s valid patent, copyright, trademark or trade secret (an “IP Claim”).
+<strong>11.1</strong> We will indemnify and hold You harmless from and against any claim brought by a third party against You by reason of Your use of a Service as permitted hereunder, alleging that such Service infringes or misappropriates a third party’s valid patent, copyright, trademark or trade secret (an “IP Claim”).
 We shall, at Our expense, defend such IP Claim and pay damages finally awarded against You in connection therewith, including the reasonable fees and expenses of the attorneys engaged by Zendesk for such defense, provided that (a) You promptly notify Zendesk of the threat or notice of such IP Claim.
 (b) We will have the sole and exclusive control and authority to select defense attorneys, and defend and/or settle any such IP Claim.
 and (c) You fully cooperate with Zendesk in connection therewith.
@@ -443,8 +461,9 @@ We will have no liability or obligation under this Section 11.1 with respect to 
 or (iii) the combination, operation or use of the Service(s) with other hardware or software where a Service would not by itself be infringing.</p>
 <p>The provisions of this Section 11.1 state the sole, exclusive and entire liability of Zendesk to You and constitute Your sole remedy with respect to an IP Claim brought by reason of access to or use of a Service by You, Agents or End-Users.</p>
 <p>
-<strong>11.2</strong> You will indemnify and hold Zendesk harmless against any claim brought by a third party against Zendesk arising from or related to use of a Service by You, Agents or End-Users in breach of this Agreement or matters for which You have expressly agreed to be responsible pursuant to this Agreement.
-provided (a) We shall promptly notify You of the threat or notice of such claim.
+<strong>11.2</strong> You will indemnify and hold Zendesk harmless against any claim (i) arising from or related to use of a Service by You, Agents or End-Users in breach of this Agreement.
+or (ii) alleging that the intellectual property rights of a third party have been violated.
+provided (a) We promptly notify You of the threat or notice of such claim.
 (b) You will have the sole and exclusive control and authority to select defense attorneys, and defend and/or settle any such claim (however, You shall not settle or compromise any claim that results in liability or admission of any liability by Us without Our prior written consent).
 and (c) We fully cooperate with You in connection therewith.</p>
 <p>
@@ -459,10 +478,6 @@ Subject to the foregoing restrictions, this Agreement will be fully binding upon
 <strong>12.2</strong> This Agreement, together with any Order Form(s) and Supplemental Term(s) constitute the entire agreement, and supersede any and all prior agreements between You and Zendesk with regard to the subject matter hereof.
 This Agreement shall apply in lieu of the terms or conditions in any purchase order or other order documentation You or any Entity which You represent provides (all such terms or conditions being null and void), and, except as expressly stated herein, there are no other agreements, representations, warranties, or commitments which may be relied upon by either Party with respect to the subject matter hereof.
 There are no oral promises, conditions, representations, understandings, interpretations, or terms of any kind between the Parties, except as may otherwise be expressly provided herein.</p>
-<p>Notwithstanding the foregoing, You may be presented with additional features, functionality, or services as detailed in a Supplement hereto or that We offer as part of or distinct from the Services (the “Additional Features”).
-In those instances, We will notify You of such Additional Features prior to the activation of these features, functionality, or services and the activation of these features, functionality, or services in Your Account will be considered acceptance of the Additional Features.
-All such Additional Features will be considered incorporated into this Agreement when You or any Agent authorized as an administrator in Your Account activate the feature, functionality, or service.
-</p>
 <p>
 <strong>12.3</strong> We may amend this Agreement from time to time, in which case the new Agreement will supersede prior versions.
 We will notify You not less than ten (10) days prior to the effective date of any such amendment and Your continued use of the Services following the effective date of any such amendment may be relied upon by Zendesk as Your consent to any such amendment.
@@ -494,12 +509,12 @@ and (d) You shall comply with all applicable laws regarding the transmission of 
 RELATIONSHIP OF THE PARTIES</strong>
 </p>
 <p>The Parties are independent contractors.
-This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the Parties.</p>
+This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the Parties.</p>
 <p>
 <strong>16.
 NOTICE</strong>
 </p>
-<p>All notices to be provided by Zendesk to You under this Agreement may be delivered in writing (a) by nationally recognized overnight delivery service (“Courier”) or U.S.
+<p>All notices provided by Zendesk to You under this Agreement may be delivered in writing (a) by nationally recognized overnight delivery service (“Courier”) or U.S.
 mail to the contact mailing address provided by You on any Order Form.
 or (b) electronic mail to the electronic mail address provided for Your Account owner.
 You must give notice to Zendesk in writing by Courier or U.S.
@@ -543,7 +558,7 @@ Termination of such agreement shall not limit a Party’s liability for obligati
 <strong>SUPPLEMENTAL TERMS AND CONDITIONS<br>
 SECTION 1: SERVICE-SPECIFIC TERMS</strong>
 </p>
-<p>The terms and conditions in the section entitled, “General Terms and Conditions” (“General Terms”) apply generally to all Services.
+<p>The terms and conditions in the Section entitled, “General Terms and Conditions” (“General Terms”) apply generally to all Services.
 This section contains supplemental service-specific terms that are in addition to the General Terms.</p>
 <p>Supplemental Terms for Zendesk’s Chat Service (“Zendesk Chat”):</p>
 <p>If Your Service Plan for Zendesk Support allows You to use Zendesk Chat or You otherwise subscribe to or utilize Zendesk Chat as a Service, the following Supplemental Terms apply:</p>
@@ -551,7 +566,8 @@ This section contains supplemental service-specific terms that are in addition t
 Facebook Messenger), You hereby acknowledge that such messaging platforms are Third Party Services and certify that You have agreed to the terms of service that such third party uses to govern use of their platform.
 If You use such Third Party Service functionality, You hereby represent that You have provided notice to and received all necessary consents from Your End-Users to contact such End-Users using Zendesk Chat and/or the Third Party Services You enable within Your Account.
 Further, You agree that Your Service Data may be transferred to and processed by the Third Party services that You enable in Zendesk Chat as necessary to provide the Service.</p>
-<p>You agree not to use any functionality of Zendesk Chat that integrates with third party messaging platforms to facilitate conversations between End-Users and healthcare providers or to send or collect any patient data obtained from healthcare providers.
+<p>You agree not to use any functionality of Zendesk Chat that integrates with third party messaging platforms to (i) facilitate conversations between End-Users and healthcare providers.
+or (ii) to send or collect any patient data obtained from healthcare providers.
 Use of Zendesk Chat is subject to the obligation to pay Subscription Charges and the use restrictions described on the Site.
 By enabling or otherwise using Zendesk Chat, You are agreeing to pay the Subscription Charges and agreeing to the feature restrictions described on the Site.
 </p>
@@ -565,7 +581,7 @@ and (d) You will defend, hold harmless and indemnify Us from and against any thi
 <p>At Zendesk’s election, Subscription Charges and usage fees for Zendesk Talk may be charged in arrears or by requiring You to prepay for expected usage.
 To the extent that You have or are required to prepay for expected usage of Zendesk Talk, Your credit card will automatically be charged with the same amount and by the same payment method chosen when You first establish a prepaid credit for Zendesk Talk, or by such additional amount You request as a regular prepaid credit.</p>
 <p>If You prepay for Zendesk Talk via check, wire, or ACH, Zendesk reserves the right to automatically re-invoice You for the same amount as the previous pre-payment amount if Your balance approaches $0.00.
-If You wishes to cancel or change this automatic re-charge option, then You should contact Your Sales Representative or support@zendesk.com.
+If You wishes to cancel or change this automatic recharge option, then You should contact Your Sales Representative or support@zendesk.com.
 Talk usage credits will expire one (1) year from the date of purchase if unused at that time.</p>
 <p>If Your Zendesk Talk Service Plan includes Zendesk Text, then You agree that only Your Agents who have purchased both Zendesk Talk and Zendesk Text are authorized to use Zendesk Text.
 Zendesk reserves the right to monitor and periodically audit Your use of Zendesk Talk and Zendesk Text to ensure that Your use complies with these Agreement and the Zendesk Talk Service Plan restrictions on Our Site.
@@ -588,7 +604,7 @@ By enabling or otherwise using Zendesk Explore, You are agreeing to pay all appl
 </p>
 <p>Supplemental Terms for Zendesk’s Guide Service (“Zendesk Guide”):</p>
 <p>If Your Service Plan for Zendesk Support allows You to use Zendesk Guide or You otherwise subscribe to or utilize Zendesk Guide as a Service, the following Supplemental Terms apply:</p>
-<p>Use of Zendesk Guide is subject to the obligation to pay applicable Subscription Charges as stated on the pricing pages of the Site.
+<p>Use of Zendesk Guide is subject to the obligation to pay applicable Subscription Charges as stated here.
 Some features of Zendesk Guide may be subject to additional Subscription Charges and Consumption Capacity limits as explained on the Zendesk Guide pricing page on the Site.
 By enabling or otherwise using Zendesk Guide, You are agreeing to pay these charges and agreeing to the applicable feature terms.
 “Consumption Capacity”, as it relates to Zendesk Guide, means the maximum number of Ticket deflections available to You using the Answer Bot feature of Zendesk Guide for the Service Plan to which You subscribe.</p>
@@ -601,12 +617,12 @@ If Your Account reaches a Consumption Capacity limit during the applicable time 
 <p>If Your Service Plan for Zendesk Support allows You to use Zendesk Connect or You otherwise subscribe to or utilize Zendesk Connect as a Service, the following Supplemental Terms apply:
 </p>
 <p>1.
-Subscription Charges and Consumption Capacity.</p>
+Subscription Charges and Monthly Messaged Users.</p>
 <p>Use of Zendesk Connect is subject to the obligation to pay applicable Subscription Charges as stated on the pricing pages of the Site.
-Unless an earlier expiration date is communicated to You at time of purchase, Consumption Capacity will expire and no longer be redeemable at the end of the time period to which the Consumption Capacity is allocated.
-“Consumption Capacity,” as it relates to Zendesk Connect, means the maximum amount of individual End-Users You may contact in a given time period under the Zendesk Connect Service Plan to which You subscribe.
-In no event will Consumption Capacity carry over outside of the time period to which it is allocated.
-If Your Account reaches a Consumption Capacity limit during the applicable time period and You continue to contact additional End-Users during the time period, You will be charged for the overage amount at the beginning of Your next billing cycle as described on the Site.
+Unless an earlier expiration date is communicated to You at time of purchase, Monthly Messaged Users will expire and no longer be redeemable at the end of the month to which the Monthly Message User amount is allocated.
+“Monthly Messaged Users,” as it relates to Zendesk Connect, means the maximum amount of individual End-Users You may contact in a given month under the Zendesk Connect Monthly Messaged User tier to which You subscribe.
+In no event will Monthly Messaged Users carry over outside of the month to which it is allocated.
+If Your Account reaches a Monthly Messaged User limit during the applicable month and You continue to contact additional End-Users during the month, You will be upgraded to the subscription tier applicable to Your actual Monthly Messaged User amount for the remainder of Your Subscription Term as described on the Site.
 </p>
 <p>2.
 End-User Consent</p>
@@ -646,8 +662,8 @@ You shall be solely responsible for ensuring that Your use of the Service, inclu
 <p>Zendesk does not intend use of the Zendesk Connect’s email campaign functionality to create obligations under The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the Gramm-Leach- Bliley Act (“GLBA”) or similar laws and makes no representations that the Service’s email campaign functionality satisfies the requirements of such laws.
 If You are (or become) a Covered Entity or Business Associate (as defined in HIPAA) or a Financial Institution (as defined in GLBA), You agree not to use Zendesk Connect’s email campaign functionality for any purpose or in any manner involving Protected Health Information (as defined in HIPAA) or Nonpublic Personal Information (as defined in GLBA).
 </p>
-<p>Additional Features for Certain Zendesk Deployed Associated Services (Add-Ons):</p>
-<p>For Subscribers who have purchased or been given access to the Deployed Associated Services listed below, there are Additional Features that will be provided to You on the corresponding Order Form which will supplement the Agreement:</p>
+<p>Supplemental Terms for Certain Zendesk Deployed Associated Services (Add-Ons):</p>
+<p>For Subscribers who have purchased or been given access to the Deployed Associated Services listed below, there are Supplemental Terms that will be provided to You on the corresponding Order Form which will supplement the Agreement:</p>
 <ul>
 <li>Light Agent Deployed Associated Service for Zendesk Support</li>
 <li>High Volume API Deployed Associated Service for Zendesk Support</li>
@@ -655,6 +671,7 @@ If You are (or become) a Covered Entity or Business Associate (as defined in HIP
 <li>Priority Customer Support Deployed Associated Service for Zendesk Support</li>
 <li>Premier Customer Support Deployed Associated Service for Zendesk Support</li>
 <li>Advanced Security Deployed Associated Service for Zendesk Support</li>
+<li>Premium Sandbox Deployed Associated Service for Zendesk Support</li>
 </ul>
 <p>Supplemental Terms for Zendesk’s API and SDKs:</p>
 <p>If You use or access any API for the purpose of developing, implementing and publishing Applications (as defined in the API Agreement), You hereby agree that Your use shall be governed by the Application Developer and API License Agreement (“API Agreement”).
@@ -753,34 +770,36 @@ Third-party service providers shall logically segregate Service Data from the da
 <strong>SUPPLEMENTAL TERMS AND CONDITIONS<br>
 SECTION 3: COUNTRY-SPECIFIC TERMS</strong>
 </p>
+<p>The following country-specific terms may be applicable to Your use of the Service.</p>
 <p>
 <strong>Japan:</strong>
 <br>
-You agree that You are responsible for notifying the End-Users using Our Services via Your Account about how the Zendesk Group may use End-Users’ Personal Data as described in the Agreement and obtaining prior consent from End-Users to disclose their Personal Data to Us.</p>
+You agree that You are responsible for (i) notifying the End-Users using Our Services via Your Account about how the Zendesk Group may use End-Users’ Personal Data as described in the Agreement.
+and (ii) obtaining prior consent from End-Users to disclose their Personal Data to Us.</p>
 <p>
 <strong>Brazil:</strong>
 <br>
-Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in accordance with Brazilian Law No.
+You agree that You are responsible for notifying End-Users that Personal Data is collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement and is collected, stored, used and/or processed in accordance with Brazilian Law No.
 12,965/2014.
-By using Our Services You expressly consent to the collection, use, storage and processing of Your Personal Data by Us as described.</p>
+You agree You are responsible for notifying End-Users that by using Our Services they expressly consent to the collection, use, storage and processing of their Personal Data by Us as described.</p>
 <p>
 <strong>Australia:</strong>
 <br>
-Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the Australian Privacy Act 1988 (Commonwealth) and the Australian Privacy Principles as We further detail here.
-If You are dissatisfied with Our handling of a complaint or do not agree with the resolution proposed by Us, You may make a complaint to the Office of the Australian Information Commissioner (OAIC) by contacting the OAIC using the methods listed on their website.
-Alternatively, You may request that We pass on the details of Your complaint to the OAIC directly.</p>
+You agree that You are responsible for notifying End-Users that Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the Australian Privacy Act 1988 (Commonwealth) and the Australian Privacy Principles as We further detail here.
+You are responsible for notifying End-Users that if they are dissatisfied with Our handling of a complaint or do not agree with the resolution proposed by Us, they may make a complaint to the Office of the Australian Information Commissioner (OAIC) by contacting the OAIC using the methods listed on their website.
+Alternatively, they may request that We pass on the details of their complaint to the OAIC directly.</p>
 <p>
 <strong>New Zealand:</strong>
 <br>
-Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the New Zealand Privacy Act (1993) and its 12 Information Privacy Principles (NZ IPPs) as We further detail here.</p>
+You agree that You are responsible for notifying End-Users that Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the New Zealand Privacy Act (1993) and its 12 Information Privacy Principles (NZ IPPs) as We further detail here.</p>
 <p>
 <strong>Singapore:</strong>
 <br>
-Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the Zendesk Group’s obligations under the Personal Data Protection Act 2012 of Singapore (“PDPA”) as We further detail here.</p>
+You agree that You are responsible for notifying End-Users that Personal Data collected, stored, used and/or processed by the Zendesk Group, as described in the Agreement, is collected, stored, used and/or processed in compliance with the Zendesk Group’s obligations under the Personal Data Protection Act 2012 of Singapore (“PDPA”) as We further detail here.</p>
 <p>
 <strong>Canada:</strong>
 <br>
-Personal Data (as the term is defined in the Personal Information Protection and Electronic Documents Act of Canada (PIPEDA)) will be collected, stored, used and/or processed by the Zendesk Group in compliance with the Zendesk Group’s obligations under PIPEDA.</p>
+You agree that You are responsible for notifying End-Users that Personal Data (as the term is defined in the Personal Information Protection and Electronic Documents Act of Canada (PIPEDA)) will be collected, stored, used and/or processed by the Zendesk Group in compliance with the Zendesk Group’s obligations under PIPEDA.</p>
 <p>
 <strong>SUPPLEMENTAL TERMS AND CONDITIONS<br>
 SECTION 4: CONSULTING SERVICES</strong>
@@ -831,7 +850,7 @@ Zendesk shall not be obligated to perform any differing or additional Consulting
 <strong>3.8</strong> For SOWs that are deliverable/milestone based, upon delivery of all deliverables or completion of all milestones detailed in the SOW, Zendesk shall provide Subscriber with written notice (“Completion Notice”).
 Thereafter, Subscriber shall have five (5) days after the date of the Completion Notice to provide Zendesk with written notice describing any deliverables that have not been provided or milestones not met.
 The SOW shall be deemed complete and the deliverables accepted absent Subscriber’s timely written notice of any deliverables or milestones not having been met.
-For the avoidance of doubt, a Completion Notice shall not be necessary for SOWs that are Time and Materials based.</p>
+For the avoidance of doubt, a Completion Notice shall not be necessary for SOWs that are time and materials based.</p>
 <p>
 <strong>4.
 Consulting Fees.
@@ -882,8 +901,8 @@ and</li>
 <li>it is under no contractual or other restrictions or obligations which are inconsistent with the execution of the Agreement, or, to its best knowledge, which will interfere with its performance of the Consulting Services.</li>
 </ol>
 <p>
-<strong>6.2</strong> The Parties hereby agree that:<br>
-CUSTOM APPLICATIONS THAT RESIDE WITHIN THE ZENDESK SERVICE FRAMEWORK, HELP CENTER CUSTOMIZATIONS, INTEGRATIONS, AND PROGRAMMING SCRIPTS THAT ARE IDENTIFIED AND BEING DELIVERED UNDER A SOW (COLLECTIVELY, “CUSTOMIZED DELIVERABLES”) ARE PROVIDED TO SUBSCRIBER “AS IS” AND ZENDESK MAKES NO WARRANTIES, EXPRESS OR IMPLIED, OR ANY REPRESENTATIONS TO SUBSCRIBER OR ANY THIRD PARTY REGARDING THE USABILITY, CONDITION, OPERATION OR FITNESS OF THE CUSTOMIZED DELIVERABLES.
+<strong>6.2</strong> The Parties hereby agree that:</p>
+<p> EXCEPT AS SPECIFICALLY SET FORTH IN SECTION 6.1 ABOVE, CUSTOM APPLICATIONS THAT RESIDE WITHIN THE ZENDESK SERVICE FRAMEWORK, HELP CENTER CUSTOMIZATIONS, INTEGRATIONS, AND PROGRAMMING SCRIPTS THAT ARE IDENTIFIED AND BEING DELIVERED UNDER A SOW (COLLECTIVELY, “CUSTOMIZED DELIVERABLES”) ARE PROVIDED TO SUBSCRIBER “AS IS” AND ZENDESK MAKES NO WARRANTIES, EXPRESS OR IMPLIED, OR ANY REPRESENTATIONS TO SUBSCRIBER OR ANY THIRD PARTY REGARDING THE USABILITY, CONDITION, OPERATION OR FITNESS OF THE CUSTOMIZED DELIVERABLES.
 ZENDESK SHALL NOT BE RESPONSIBLE, AT LAW OR OTHERWISE, FOR ANY CUSTOMIZED DELIVERABLES DESPITE ANY OTHER WARRANTIES OR GUARANTEES, IN THE EVENT THAT SUBSCRIBER MODIFIES ANY CUSTOMIZED DELIVERABLES IN A MANNER NOT INSTRUCTED BY ZENDESK.
 ZENDESK DOES NOT WARRANT THAT SUBSCRIBER’S OR ANY THIRD PARTY’S ACCESS TO OR USE OF THE CUSTOMIZED DELIVERABLES SHALL BE UNINTERRUPTED OR ERROR-FREE, OR THAT IT WILL MEET ANY PARTICULAR CRITERIA OF PERFORMANCE OR QUALITY.
 ZENDESK EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING CUSTOMIZED DELIVERABLES, INCLUDING, WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, COMPATIBILITY, SECURITY OR ACCURACY.

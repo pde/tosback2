@@ -89,8 +89,8 @@ Jackets </li>
 <li> Pajamas &amp.
 Robes </li>
 <li> Long Underwear </li>
-</ul> BAGS &gt.
-SHOES &gt.
+</ul> WOMEN'S BAGS &gt.
+WOMEN'S SHOES &gt.
 <ul>
 <li> Athletic &amp.
 Water </li>
@@ -100,7 +100,7 @@ Water </li>
 <li> Flats </li>
 <li> Heels </li>
 <li> Slippers </li>
-</ul> ACCESSORIES &gt.
+</ul> WOMEN'S ACCESSORIES &gt.
 <ul>
 <li> Scarves </li>
 <li> Belts </li>
@@ -124,7 +124,8 @@ Tall </li>
 <li> Supima Shirts &amp.
 Sweaters </li>
 <li> Sale </li>
-</ul> CATEGORIES <ul>
+</ul> MEN'S CLOTHING &gt.
+<ul>
 <li> Swimwear </li>
 <li> Polo Shirts </li>
 <li> Knit Tops &amp.
@@ -146,8 +147,8 @@ Jackets </li>
 Robes </li>
 <li> Underwear &amp.
 Long Underwear </li>
-<li> Bags </li>
-</ul> SHOES&gt.
+</ul> MEN'S BAGS &gt.
+MEN'S SHOES&gt.
 <ul>
 <li> Athletic &amp.
 Water </li>
@@ -156,7 +157,7 @@ Water </li>
 <li> Boots </li>
 <li> Dress </li>
 <li> Slippers </li>
-</ul> ACCESSORIES&gt.
+</ul> MEN'S ACCESSORIES&gt.
 <ul>
 <li> Belts </li>
 <li> Socks </li>
@@ -168,16 +169,16 @@ Water </li>
 </ul>
 </li>
 <li> Kids SHOP BY AGE RANGE <ul>
-<li> Toddler Girl (2T-4T) </li>
-<li> Little Girl (size 4-7) </li>
-<li> Big Girl (size 7-16) </li>
-<li> Girl Plus (size 7+-16+) </li>
+<li> Toddler Girls (2T-4T) </li>
+<li> Little Girls (4-7) </li>
+<li> Big Girls (7-16) </li>
+<li> Girls' Plus Sizes </li>
 <li>
 </li>
-<li> Toddler Boy (2T-4T) </li>
-<li> Little Boy (size 4-7) </li>
-<li> Big Boy (size 7-20) </li>
-<li> Boy Husky (size 8H-20H) </li>
+<li> Toddler Boys (2T-4T) </li>
+<li> Little Boys (4-7) </li>
+<li> Big Boys (7-20) </li>
+<li> Boys' Husky Sizes </li>
 </ul> FEATURED SHOPS <ul>
 <li> New Arrivals </li>
 <li> Kids' Swim Shop </li>
@@ -185,47 +186,49 @@ Water </li>
 Lunch Boxes </li>
 <li> Kids' Star Spangled Collection </li>
 <li> Girls' Knit Kit </li>
-<li> Iron Knees Pants </li>
+<li> Kids' Iron Knees Pants </li>
 <li> School Uniforms </li>
 <li> Sale </li>
 </ul> Girls&gt.
 <ul>
-<li> Swimsuits </li>
-<li> Outerwear </li>
-<li> Tops </li>
-<li> Dresses </li>
-<li> Pants &amp.
+<li> Shop All Girls </li>
+<li> Girls' Swimsuits </li>
+<li> Girls' Tops </li>
+<li> Girls' Sweaters </li>
+<li> Girls' Dresses </li>
+<li> Girls' Pants &amp.
 Leggings </li>
-<li> Jeans </li>
-<li> Skirts &amp.
+<li> Girls' Jeans </li>
+<li> Girls' Shorts </li>
+<li> Girls' Skirts &amp.
 Skorts </li>
-<li> Shorts </li>
-<li> Blazers </li>
-<li> Sweaters </li>
-<li> Shoes </li>
-<li> Accessories </li>
-<li> Backpacks &amp.
+<li> Girls' Outerwear </li>
+<li> Girls' Blazers </li>
+<li> Girls' Shoes </li>
+<li> Girls' Backpacks &amp.
 Lunch Boxes </li>
-<li> Long Underwear </li>
-<li> Pajamas &amp.
+<li> Girls' Accessories </li>
+<li> Girls' Long Underwear </li>
+<li> Girls' Pajamas &amp.
 Robes </li>
 </ul> Boys&gt.
 <ul>
-<li> Swimsuits </li>
-<li> Outerwear </li>
-<li> Tops </li>
-<li> Pants </li>
-<li> Jeans </li>
-<li> Shorts </li>
-<li> Activewear </li>
-<li> Blazers </li>
-<li> Sweaters </li>
-<li> Shoes </li>
-<li> Accessories </li>
-<li> Backpacks &amp.
+<li> Shop All Boys </li>
+<li> Boys' Swimsuits </li>
+<li> Boys' Tops </li>
+<li> Boys' Sweaters </li>
+<li> Boys' Pants </li>
+<li> Boys' Jeans </li>
+<li> Boys' Shorts </li>
+<li> Boys' Activewear </li>
+<li> Boys' Outerwear </li>
+<li> Boys' Blazers </li>
+<li> Boys' Shoes </li>
+<li> Boys' Backpacks &amp.
 Lunch Boxes </li>
-<li> Long Underwear </li>
-<li> Pajamas &amp.
+<li> Boys' Accessories </li>
+<li> Boys' Long Underwear </li>
+<li> Boys' Pajamas &amp.
 Robes </li>
 </ul>
 </li>
@@ -529,8 +532,8 @@ Jackets </li>
 <li> Sale </li>
 </ul>
 </li>
-<li> BAGS </li>
-<li> SHOES <i>
+<li> WOMEN'S BAGS </li>
+<li> WOMEN'S SHOES <i>
 </i>
 <ul>
 <li>
@@ -547,7 +550,7 @@ Water </li>
 <li> Slippers </li>
 </ul>
 </li>
-<li> ACCESSORIES <i>
+<li> WOMEN'S ACCESSORIES <i>
 </i>
 <ul>
 <li>
@@ -617,7 +620,8 @@ Sweaters </li>
 <li> Sale </li>
 </ul>
 </li>
-<li> SHOES <i>
+<li> MEN'S BAGS </li>
+<li> MEN'S SHOES <i>
 </i>
 <ul>
 <li>
@@ -633,7 +637,7 @@ Water </li>
 <li> Slippers </li>
 </ul>
 </li>
-<li> ACCESSORIES <i>
+<li> MEN'S ACCESSORIES <i>
 </i>
 <ul>
 <li>
@@ -670,7 +674,6 @@ Jackets </li>
 Robes </li>
 <li> Underwear &amp.
 Long Underwear </li>
-<li> Bags </li>
 </ul>
 </li>
 <li> Kids <i>
@@ -686,16 +689,16 @@ Long Underwear </li>
 <li>
 <i>
 </i> Back </li>
-<li> Toddler Girl (2T-4T) </li>
-<li> Little Girl (size 4-7) </li>
-<li> Big Girl (size 7-16) </li>
-<li> Girl Plus (size 7+-16+) </li>
+<li> Toddler Girls (2T-4T) </li>
+<li> Little Girls (4-7) </li>
+<li> Big Girls (7-16) </li>
+<li> Girls' Plus Sizes </li>
 <li>
 </li>
-<li> Toddler Boy (2T-4T) </li>
-<li> Little Boy (size 4-7) </li>
-<li> Big Boy (size 7-20) </li>
-<li> Boy Husky (size 8H-20H) </li>
+<li> Toddler Boys (2T-4T) </li>
+<li> Little Boys (4-7) </li>
+<li> Big Boys (7-20) </li>
+<li> Boys' Husky Sizes </li>
 </ul>
 </li>
 <li> FEATURED SHOPS <i>
@@ -710,7 +713,7 @@ Long Underwear </li>
 Lunch Boxes </li>
 <li> Kids' Star Spangled Collection </li>
 <li> Girls' Knit Kit </li>
-<li> Iron Knees Pants </li>
+<li> Kids' Iron Knees Pants </li>
 <li> School Uniforms </li>
 <li> Sale </li>
 </ul>
@@ -722,24 +725,25 @@ Lunch Boxes </li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> Swimsuits </li>
-<li> Outerwear </li>
-<li> Tops </li>
-<li> Dresses </li>
-<li> Pants &amp.
+<li> Shop All Girls </li>
+<li> Girls' Swimsuits </li>
+<li> Girls' Tops </li>
+<li> Girls' Sweaters </li>
+<li> Girls' Dresses </li>
+<li> Girls' Pants &amp.
 Leggings </li>
-<li> Jeans </li>
-<li> Skirts &amp.
+<li> Girls' Jeans </li>
+<li> Girls' Shorts </li>
+<li> Girls' Skirts &amp.
 Skorts </li>
-<li> Shorts </li>
-<li> Blazers </li>
-<li> Sweaters </li>
-<li> Shoes </li>
-<li> Accessories </li>
-<li> Backpacks &amp.
+<li> Girls' Outerwear </li>
+<li> Girls' Blazers </li>
+<li> Girls' Shoes </li>
+<li> Girls' Backpacks &amp.
 Lunch Boxes </li>
-<li> Long Underwear </li>
-<li> Pajamas &amp.
+<li> Girls' Accessories </li>
+<li> Girls' Long Underwear </li>
+<li> Girls' Pajamas &amp.
 Robes </li>
 </ul>
 </li>
@@ -750,21 +754,22 @@ Robes </li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> Swimsuits </li>
-<li> Outerwear </li>
-<li> Tops </li>
-<li> Pants </li>
-<li> Jeans </li>
-<li> Shorts </li>
-<li> Activewear </li>
-<li> Blazers </li>
-<li> Sweaters </li>
-<li> Shoes </li>
-<li> Accessories </li>
-<li> Backpacks &amp.
+<li> Shop All Boys </li>
+<li> Boys' Swimsuits </li>
+<li> Boys' Tops </li>
+<li> Boys' Sweaters </li>
+<li> Boys' Pants </li>
+<li> Boys' Jeans </li>
+<li> Boys' Shorts </li>
+<li> Boys' Activewear </li>
+<li> Boys' Outerwear </li>
+<li> Boys' Blazers </li>
+<li> Boys' Shoes </li>
+<li> Boys' Backpacks &amp.
 Lunch Boxes </li>
-<li> Long Underwear </li>
-<li> Pajamas &amp.
+<li> Boys' Accessories </li>
+<li> Boys' Long Underwear </li>
+<li> Boys' Pajamas &amp.
 Robes </li>
 </ul>
 </li>
@@ -1276,8 +1281,7 @@ Track Orders </li>
 <li> Site Map </li>
 <li> Glossary </li>
 </ul>
-</ul> Find an answer fast <p>Search the Lands' End Help Center.</p> Search the Lands' End Help Center.
-Go Privacy Policy Last Updated: May 21, 2018 <p>This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc.
+</ul> Privacy Policy Last Updated: May 21, 2018 <p>This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc.
 or an affiliated entity.
 The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information.
 This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.</p>
