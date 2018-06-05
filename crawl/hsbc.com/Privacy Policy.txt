@@ -23,17 +23,16 @@ Search Menu <ul>
 </ul>
 </li>
 <li> Contact us <ul>
+<li> Country contacts last item in this group</li>
 </ul>
 </li>
 </ul>
 <ul>
-<li> Structure and network <ul>
+<li> Our businesses <ul>
 <li> Commercial Banking</li>
 <li> Global Banking and Markets</li>
 <li> Global Private Banking</li>
-<li> Retail Banking and Wealth Management</li>
-<li> HSBC on social media</li>
-<li> Country contacts last item in this group</li>
+<li> Retail Banking and Wealth Management last item in this group</li>
 </ul>
 </li>
 <li> Company history <ul>
@@ -149,7 +148,8 @@ Search Menu <ul>
 <li> Media contacts</li>
 <li> Media releases</li>
 <li> Speeches</li>
-<li> Image gallery last item in this group</li>
+<li> Image gallery</li>
+<li> Social media last item in this group</li>
 </ul>
 </li>
 <li> Insight archive <ul>
@@ -454,7 +454,7 @@ Patent Nos.
 <li>Our strategy</li>
 <li>Leadership</li>
 <li>Corporate governance</li>
-<li>Structure and network</li>
+<li>Our businesses</li>
 <li>Company history</li>
 </ul> Contact Us Our approach <ul>
 <li>Our values</li>
