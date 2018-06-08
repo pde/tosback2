@@ -420,6 +420,10 @@ You may experience a different version of our sites based on feature testing, or
 This may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 We use this data to measure our site performance and evaluate the ease of your online experience, so we can enhance our features.
 We also use advanced analytics methods to optimize your experience with email, customer support, and sales.
+<strong>Google Optimize</strong> We use Google Optimize to test new features on our sites and customize your experience of these features.
+To do this, we collect behavioral data while you’re on our sites.
+This data may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, your IP address or device ID, your Autodesk ID, and others.
+You may experience a different version of our sites based on feature testing, or view personalized content based on your visitor attributes.
 <p>icon-svg-hide-thick</p>
 <p>icon-svg-show-thick</p> Communication <strong>Marketo</strong> We use Marketo to send you more timely and relevant email content.
 To do this, we collect data about your online behavior and your interaction with the emails we send.
@@ -448,9 +452,6 @@ Ads are based on both LiveRamp data and behavioral data that we collect while yo
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that LiveRamp has collected from you.
 We use the data that we provide to LiveRamp to better customize your digital advertising experience and present you with more relevant ads.
-<strong>UpSellIt</strong> We use UpSellIt to help create a more streamlined shopping cart experience.
-Based on your selections, we may collect your contact and cart information.
-You may receive on-site and email notifications to help you complete your purchase faster in the future.
 <strong>Doubleclick</strong> We use Doubleclick to deploy digital advertising on sites supported by Doubleclick.
 Ads are based on both Doubleclick data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
@@ -534,31 +535,29 @@ Ads are based on both AdRoll data and behavioral data that we collect while you�
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that AdRoll has collected from you.
 We use the data that we provide to AdRoll to better customize your digital advertising experience and present you with more relevant ads.
-<strong>CJ Affiliate</strong> We use CJ Affiliate to deploy digital advertising on sites affiliated with CJ Affiliate.
-Ads are based on behavioral data that we collect while you’re on our sites.
-Data may include pages you’ve visited, trials you’ve initiated, purchases you’ve made, and your IP address and device ID.
-Your information may be combined with behavior you’ve exhibited on other sites associated with CJ Affiliate.
-We use the data that we provide to CJ Affiliate to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Radium One</strong> We use Radium One to deploy digital advertising on sites supported by Radium One.
-Ads are based on both Radium One data and behavioral data that we collect while you’re on our sites.
+<strong>Capterra Conversion</strong> We use Capterra Conversion to deploy digital advertising on sites supported by Capterra Conversion.
+Ads are based on both Capterra Conversion data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that Radium One has collected from you.
-We use the data that we provide to Radium One to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Afilio</strong> We use Afilio to deploy digital advertising on sites affiliated with Afilio.
-Ads are based on behavioral data that we collect while you’re on our sites.
-Data may include pages you’ve visited, trials you’ve initiated, purchases you’ve made, and your IP address and device ID.
-Your information may be combined with behavior you’ve exhibited on other sites associated with Afilio.
-We use the data that we provide to Afilio to better customize your digital advertising experience and present you with more relevant ads.
+This information may be combined with data that Capterra Conversion has collected from you.
+We use the data that we provide to Capterra Conversion to better customize your digital advertising experience and present you with more relevant ads.
+<strong>Call Tracking</strong> We use Call Tracking to provide customized phone numbers for our campaigns.
+This gives you faster access to our agents and helps us more accurately evaluate our performance.
+We may collect data about your behavior on our sites based on the phone number provided.
+<strong>BounceX</strong> We use BounceX to deploy digital advertising on sites supported by BounceX.
+Ads are based on both BounceX data and behavioral data that we collect while you’re on our sites.
+The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
+This information may be combined with data that BounceX has collected from you.
+We use the data that we provide to BounceX to better customize your digital advertising experience and present you with more relevant ads.
 <strong>Media Math</strong> We use Media Math to deploy digital advertising on sites supported by Media Math.
 Ads are based on both Media Math data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that Media Math has collected from you.
 We use the data that we provide to Media Math to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Commission Factory</strong> We use Commission Factory to deploy digital advertising on sites supported by Commission Factory.
-Ads are based on both Commission Factory data and behavioral data that we collect while you’re on our sites.
+<strong>RhythmOne</strong> We use RhythmOne to deploy digital advertising on sites supported by RhythmOne.
+Ads are based on both RhythmOne data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that Commission Factory has collected from you.
-We use the data that we provide to Commission Factory to better customize your digital advertising experience and present you with more relevant ads.
+This information may be combined with data that RhythmOne has collected from you.
+We use the data that we provide to RhythmOne to better customize your digital advertising experience and present you with more relevant ads.
 <strong>Engagio</strong> We use Engagio to deploy digital advertising on sites supported by Engagio.
 Ads are based on both Engagio data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
@@ -589,11 +588,11 @@ Ads are based on both Bing data and behavioral data that we collect while you’
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that Bing has collected from you.
 We use the data that we provide to Bing to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Cybba</strong> We use Cybba to deploy digital advertising on sites supported by Cybba.
-Ads are based on both Cybba data and behavioral data that we collect while you’re on our sites.
+<strong>Beehive</strong> We use Beehive to deploy digital advertising on sites supported by Beehive.
+Ads are based on both Beehive data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that Cybba has collected from you.
-We use the data that we provide to Cybba to better customize your digital advertising experience and present you with more relevant ads.
+This information may be combined with data that Beehive has collected from you.
+We use the data that we provide to Beehive to better customize your digital advertising experience and present you with more relevant ads.
 <strong>G2Crowd</strong> We use G2Crowd to deploy digital advertising on sites supported by G2Crowd.
 Ads are based on both G2Crowd data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
@@ -604,11 +603,11 @@ Ads are based on both InPowered data and behavioral data that we collect while y
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that InPowered has collected from you.
 We use the data that we provide to InPowered to better customize your digital advertising experience and present you with more relevant ads.
-<strong>LinkPrice</strong> We use LinkPrice to deploy digital advertising on sites supported by LinkPrice.
-Ads are based on both LinkPrice data and behavioral data that we collect while you’re on our sites.
+<strong>NMPI Display</strong> We use NMPI Display to deploy digital advertising on sites supported by NMPI Display.
+Ads are based on both NMPI Display data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that LinkPrice has collected from you.
-We use the data that we provide to LinkPrice to better customize your digital advertising experience and present you with more relevant ads.
+This information may be combined with data that NMPI Display has collected from you.
+We use the data that we provide to NMPI Display to better customize your digital advertising experience and present you with more relevant ads.
 <strong>RealClick</strong> We use RealClick to deploy digital advertising on sites supported by RealClick.
 Ads are based on both RealClick data and behavioral data that we collect while you’re on our sites.
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
@@ -629,19 +628,6 @@ Ads are based on both Impact Radius data and behavioral data that we collect whi
 The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
 This information may be combined with data that Impact Radius has collected from you.
 We use the data that we provide to Impact Radius to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Call Tracking</strong> We use Call Tracking to provide customized phone numbers for our campaigns.
-This gives you faster access to our agents and helps us more accurately evaluate our performance.
-We may collect data about your behavior on our sites based on the phone number provided.
-<strong>Rhythm One</strong> We use Rhythm One to deploy digital advertising on sites supported by Rhythm One.
-Ads are based on both Rhythm One data and behavioral data that we collect while you’re on our sites.
-The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that Rhythm One has collected from you.
-We use the data that we provide to Rhythm One to better customize your digital advertising experience and present you with more relevant ads.
-<strong>Beehive</strong> We use Beehive to deploy digital advertising on sites supported by Beehive.
-Ads are based on both Beehive data and behavioral data that we collect while you’re on our sites.
-The data we collect may include pages you’ve visited, trials you’ve initiated, videos you’ve played, purchases you’ve made, and your IP address or device ID.
-This information may be combined with data that Beehive has collected from you.
-We use the data that we provide to Beehive to better customize your digital advertising experience and present you with more relevant ads.
 <p>icon-svg-hide-thick</p>
 <p>icon-svg-show-thick</p> Troubleshooting <strong>ClickTale</strong> We use ClickTale to better understand where you may encounter difficulties with our sites.
 We use session recording to help us see how you interact with our sites, including any elements on our pages.
