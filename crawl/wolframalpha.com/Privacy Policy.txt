@@ -1,8 +1,9 @@
- What would you like to know about? Compute <ul>
+ What would you like to know about ? Compute <ul>
 <li> Pro <ul>
-<li>Overview</li>
-<li>Pro for Students</li>
-<li>Pro for Educators</li>
+<li>For Everyone</li>
+<li>For Students</li>
+<li>For Educators</li>
+<li>Pricing</li>
 </ul>
 </li>
 <li> Apps <ul>
@@ -21,7 +22,7 @@
 <li>Uploads</li>
 <li>Account</li>
 <li>My Widgets</li>
-<li>My API Apps</li>
+<li>My Apps (API)</li>
 <li>Sign Out</li>
 </ul>
 </li>
@@ -33,8 +34,8 @@
 &lt;/a&gt.
 &lt;/h1&gt.
 &lt;form id="header-input-form" class="input" action="/input/" method="get"&gt.
-&lt;label for="wa-top-input"&gt;What would you like to know about?&lt;/label&gt.
-&lt;input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about?"&gt.
+&lt;label for="wa-top-input"&gt;What would you like to know about ?&lt;/label&gt.
+&lt;input type="text" id="wa-top-input" name="i" placeholder="What would you like to know about ?"&gt.
 &lt;button&gt;Compute&lt;/button&gt.
 &lt;/form&gt.
 &lt;div class="menu-toggle"&gt;&lt;span class="icon-hamburger-menu"&gt;&lt;/span&gt;&lt;/div&gt.
@@ -42,9 +43,10 @@
 &lt;li&gt.
 &lt;a class="header-pro-link"&gt;Pro&lt;/a&gt.
 &lt;ul class="pro-menu"&gt.
-&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro/"&gt;Overview&lt;/a&gt;&lt;/li&gt.
-&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-students/"&gt;Pro for Students&lt;/a&gt;&lt;/li&gt.
-&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-educators/"&gt;Pro for Educators&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro/"&gt;For Everyone&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-students/"&gt;For Students&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-educators/"&gt;For Educators&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-pro-link" href="/pro/pricing/"&gt;Pricing&lt;/a&gt;&lt;/li&gt.
 &lt;/ul&gt.
 &lt;/li&gt.
 &lt;li&gt.
@@ -70,7 +72,7 @@
 &lt;/div&gt.
 &lt;div&gt.
 &lt;li&gt;&lt;a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/mywidgets/'&gt;My Widgets&lt;/a&gt;&lt;/li&gt.
-&lt;li&gt;&lt;a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/myapps/'&gt;My API Apps&lt;/a&gt;&lt;/li&gt.
+&lt;li&gt;&lt;a class="tracking-user-menu-link" href='http://developer.wolframalpha.com/portal/myapps/'&gt;My Apps (API)&lt;/a&gt;&lt;/li&gt.
 &lt;/div&gt.
 &lt;/ul&gt.
 &lt;/li&gt.
@@ -142,7 +144,8 @@ Tools</li>
 <li>Blog</li>
 <li>Community</li>
 <li>Contact</li>
-<li>Connect <ul>
+<li>
+<ul>
 <li>
 <li>
 <li>
@@ -151,6 +154,9 @@ Tools</li>
 </li>
 </ul>
 <ul>
+<li> English <ul>
+</ul>
+</li>
 <li>©2018 Wolfram Alpha LLC</li>
 <li>Terms</li>
 <li>Privacy</li>
