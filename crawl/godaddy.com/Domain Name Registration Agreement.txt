@@ -1,6 +1,6 @@
 
 <p>
-<strong>Last Revised: May 17, 2018</strong>
+<strong>Last Revised: June 21, 2018</strong>
 </p>
 <p>
 <strong>PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.</strong>
@@ -86,7 +86,7 @@ Third party beneficiary rights of the Registry Operator shall survive any termin
 premium names) and/or may have non-uniform renewal registration pricing (such that the Fee for a domain name registration renewal may differ from other domain names in the same TLD, e.g., renewal registration for one domain may be $100.00 and $33.00 for a different domain name).
 </li>
 <li>
-<em>Restriction on Availability of Privacy or Proxy</em>.  You acknowledge and agree that, as dictated by the Registry Policies, for certain TLDs you may not be permitted to purchase private or proxy TLD registrations.
+<em>Restriction on Availability of Privacy or Proxy</em>.  You acknowledge and agree that you may not be permitted to purchase private or proxy TLD registrations in certain markets, countries and terrories or for certain TLDs.
 In such case, you must register for any and all TLD registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 </li>
 </ol>
@@ -501,8 +501,39 @@ The term “Force Majeure” means any event caused by occurrences beyond a part
 <p>DNSSEC works by using public key cryptography.  You acknowledge and agree that if the keys do not match, a visitor’s lookup of your website may fail (and result in a “website not found” error) and we assume no liability or responsibility regarding the same.  In addition, DNSSEC responses are authenticated, but not encrypted.  You acknowledge and agree that DNSSEC does not provide confidentiality of data, and we assume no liability or responsibility regarding the same.</p>
 <p>We prohibit the running of a public recursive DNS service on any server.  All recursive DNS servers must be secured to allow only internal network access or a limited set of IP addresses.  We actively scan for the presence of public recursive DNS services and reserves the right to remove any servers from the network that violate this restriction.  </p>
 <p>
-<strong>12.
-PRE-REGISTRATIONS</strong>
+<strong>Privacy Protection</strong>.
+The privacy protection service generally allows You to: (i) replace your personal details in the WHOIS Directory with the details of Domains By Proxy.
+and (ii) set up a private email address for each domain name that you can forward, filter or block.
+ The privacy protection service features are intended to: prevent domain-related spam.
+and protect your identity from third-parties.  As set forth in Section 2(xi) of this Agreement, You acknowledge and agree that you may not be permitted to purchase private or proxy TLD registrations in certain markets, countries and territories or for certain TLDs.
+For a complete list of the markets and countries where privacy protection service <strong>is not available, </strong>please click <strong>here. </strong>Your purchase and use of Privacy Protection is subject to and governed by the terms of the [#doclink= domain_nameproxy].</p>
+<p>
+<strong>Full Domain Privacy and Protection</strong>.
+The full domain privacy and protection service generally allows You to: (i) replace your personal details in the WHOIS Directory with the details of Domains By Proxy.
+(ii) set up a private email address for each domain name that you can forward, filter or block.
+(iii) prevent accidental loss of a domain name due to an expired credit card.
+(iv) lock your domain name in your account.
+(v) receive real-time online reports to track vital domain name information.  The full domain privacy and protection service features are intended to: prevent domain-related spam.
+protect your identity from third-parties.
+plus add a higher level of security through 2-Step Verification to disallow most accidental or malicious domain name transfers.
+and provide an online business card in the WHOIS directory that is designed to increase traffic without sacrificing privacy.
+As set forth in Section 2(xi) of this Agreement, You acknowledge and agree that you may not be permitted to purchase private or proxy TLD registrations in certain markets, countries and territories or for certain TLDs.
+For a complete list of the markets and countries where privacy protection service <strong>is not available, </strong>please click <strong>here.</strong> Your purchase and use of Full Domain Privacy and Protection is also subject to and governed by the terms of the [#doclink= domain_nameproxy].</p>
+<p>
+<strong>Privacy and Business Protection</strong>.
+The privacy and business protection service includes all the features of Privacy Protection, plus the service generally allows You to: (i) prevent accidental loss of a domain name due to an expired credit card.
+(ii) lock your domain name in your account.
+(iii) receive real-time online reports to track vital domain name information.
+and (iv) activate TrustedSite, powered by McAfee SECURE.
+The privacy and business protection service features are intended to: prevent domain-related spam.
+protect your identity from third-parties.
+plus add a higher level of security through 2-Step Verification to disallow most accidental or malicious domain name transfers.
+provide an online business card in the WHOIS directory that is designed to increase traffic without sacrificing privacy.
+and provide domain name protection through TrustedSite.
+ Your purchase and use of privacy and business protection service is also governed by terms of the [#doclink= domain_nameproxy].</p>
+<p>
+<strong>
+<strong>12. </strong>PRE-REGISTRATIONS</strong>
 </p>
 <p>If you submit an application for pre-registration of a domain name, GoDaddy does not guarantee that the name will be secured for you, or that you will have immediate access to the domain name if secured.  GoDaddy may use third-party service providers for the pre-registration services.</p>
 <p>
