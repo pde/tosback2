@@ -1,11 +1,16 @@
 <sitename name="researchgate.net">
  <docname name="Privacy Policy">
-   <url name="https://www.researchgate.net/privacy-policy" xpath="//div[@class='privacy-policy']">
+   <url name="https://www.researchgate.net/privacy-policy" xpath="//div[@class='privacy-policy']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
-<docname name="Terms of Service">   
-   <url name="https://www.researchgate.net/terms-of-service" xpath="//div[@class='terms-and-conditions']">
+ <docname name="Terms of Service">   
+   <url name="https://www.researchgate.net/terms-of-service" xpath="//div[@class='terms-and-conditions']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Intellectual Property Policy">   
+   <url name="https://www.researchgate.net/ip-policy" xpath="//div[@class='c-content text-m']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
