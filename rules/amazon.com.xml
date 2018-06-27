@@ -1,62 +1,127 @@
 <sitename name="amazon.com">
- <!--<docname name="Amazon.com Privacy Notice">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Amazon Kindle Store Terms of Use">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201014950" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Conditions of Use">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=508088" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
-  <!--<docname name="Kindle for Android Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=201222440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Kindle for PC Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200499360" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Kindle for Mac Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200443370" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="AMAZON SILK TERMS &amp; CONDITIONS">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200775270" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Kindle Cloud Reader Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200701450" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Kindle for Windows 8 Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html?nodeId=200939440" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <!--<docname name="Amazon App Suite Legal Notices">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&amp;nodeId=201008370&amp;qid=1384707232&amp;sr=1-2" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
- <docname name="Interest-Based Ads">
-   <url name="https://www.amazon.com/b?node=5160028011" xpath="//div[@style='margin:0 10px']" reviewed="true">
+ <docname name="Conditions of Use">-->
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=508088" xpath="//div[@class='help-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <!--<docname name="Third Party Licenses">-->
-   <!--<url name="http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-6?ie=UTF8&amp;nodeId=200910440&amp;qid=1384707488&amp;sr=1-6" xpath="//div[@class='cs-help-content']/div[1]/node()[not(@class='cs-help-breadcrumb')]" reviewed="true">-->
-     <!--<norecurse name="arbitrary" />-->
-   <!--</url>-->
- <!--</docname>-->
+ <docname name="Amazon Privacy Notice">-->
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=46849" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Interest-Based Ads">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Kindle Store Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Saving Your Wi-Fi Passwords to Amazon FAQs">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201730860" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Device Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202002080" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Drive and Prime Photos Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Kindle E-Reader and Fire Tablet Terms">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=200699130" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Kindle Personal Documents Distributor Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201124320" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Alexa Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Prime Terms">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=13819201" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon FreeTime Unlimited Terms & Conditions and Kindle FreeTime Unlimited Terms & Conditions">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201222340" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Kindle Unlimited Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201556940" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Monthly Payments Terms & Conditions">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202095050" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Limited-Time Special Offers Promotional Discount Terms & Conditions">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201339330" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Kindle Special Offer Text Notifications Terms & Conditions">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201339340" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Music Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Appstore for Android Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Silk Terms & Conditions">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=200775270" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon GameCircle Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Coins Terms">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201434520" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Maps Terms of Use">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201544030" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Location Services FAQ">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201604200" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Firefly FAQ">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201604140" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Backup and Restore FAQ">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201604180" xpath="//div[@class='help-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
 </sitename>
