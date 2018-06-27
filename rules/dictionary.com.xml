@@ -1,6 +1,6 @@
 <sitename name="dictionary.com">
- <docname name="Privacy Policy">
-   <url name="http://dictionary.reference.com/help/privacy.html" xpath="//div[@id='primary']">
+ <docname name="Terms of Service &amp; Privacy Policy">
+   <url name="http://www.dictionary.com/e/terms/" xpath="//article" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
