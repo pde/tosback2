@@ -1,0 +1,12 @@
+<sitename name="w3schools.com">
+ <docname name="Terms of Use - About Copyright">
+   <url name="https://www.w3schools.com/about/about_copyright.asp" xpath="//*[@id='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Cookies and Privacy Policy - About Privacy">
+   <url name="https://www.w3schools.com/about/about_privacy.asp" xpath="//*[@id='main']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

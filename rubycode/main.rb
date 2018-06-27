@@ -51,6 +51,7 @@ else
   end
   
   docs.each do |doc|
+    puts doc.url
     doc.scrape
     doc.write
   end
