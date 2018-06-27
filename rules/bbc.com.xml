@@ -1,0 +1,13 @@
+
+<sitename name="bbc.com">
+ <docname name="Terms of Use">
+   <url name="http://www.bbc.com/usingthebbc/terms-of-use/" xpath="//div[@class='gel-wrap']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy and Cookies Policy">
+   <url name="http://www.bbc.com/usingthebbc/privacy-policy/" xpath="//div[@class='gel-wrap']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
