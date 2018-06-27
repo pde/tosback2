@@ -10,12 +10,12 @@
    </url>
  </docname>
  <docname name="DMCA">
-   <url name="https://trello.com/dmca" xpath="//div[@class='layout-centered-content']" reviewed="true">
+   <url name="https://trello.com/legal/dmca" xpath="//div[@class='layout-centered-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
  <docname name="Operations and Security">
-   <url name="https://trello.com/security" xpath="//div[@class='layout-centered-content']" reviewed="true">
+   <url name="https://trello.com/legal/security" xpath="//div[@class='layout-centered-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
