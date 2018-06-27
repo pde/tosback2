@@ -105,6 +105,7 @@ class TOSBackApp
   end
   
   def self.log_stuff(message,logfile)
+    puts message
     err_log = File.open("#{$log_dir}#{logfile}", "a")
     err_log.puts "#{Time.now} - #{message}\n"
     err_log.close
