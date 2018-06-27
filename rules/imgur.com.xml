@@ -1,11 +1,11 @@
 <sitename name="imgur.com">
  <docname name="Terms of Service">
-   <url name="http://imgur.com/tos" xpath="//div[@class='text-content']">
+   <url name="http://imgur.com/tos" xpath="//div[@class='text-content'][1]" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="http://imgur.com/privacy" xpath="//div[@class='text-content']">
+   <url name="http://imgur.com/privacy" xpath="//div[@class='text-content privacy']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
