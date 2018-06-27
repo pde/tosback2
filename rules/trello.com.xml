@@ -1,0 +1,22 @@
+<sitename name="trello.com">
+ <docname name="Terms of Service">
+   <url name="https://trello.com/legal" xpath="//div[@class='layout-centered-content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://trello.com/privacy" xpath="//div[@class='layout-centered-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="DMCA">
+   <url name="https://trello.com/dmca" xpath="//div[@class='layout-centered-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Operations and Security">
+   <url name="https://trello.com/security" xpath="//div[@class='layout-centered-content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
