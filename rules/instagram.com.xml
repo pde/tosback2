@@ -1,12 +1,12 @@
 
 <sitename name="instagram.com">
  <docname name="Terms of Service">
-   <url name="https://help.instagram.com/478745558852511" xpath="//div[@id='hc2content']" reviewed="true">
+   <url name="https://help.instagram.com/581066165581870" xpath="//div[@id='hc2content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="Privacy Policy">
-   <url name="https://help.instagram.com/155833707900388" xpath="//div[@id='hc2content']" reviewed="true">
+ <docname name="Data Policy">
+   <url name="https://help.instagram.com/519522125107875" xpath="//div[@id='hc2content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
