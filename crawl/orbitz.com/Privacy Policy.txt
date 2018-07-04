@@ -39,12 +39,10 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 <li> Not ? <br>Log in to your account </li>
 </ul>
 </li>
-<li>   <p>Things you view while shopping are saved here.</p>
-<p>
-</p>
+<li> My Lists   <p>Things you view while shopping are saved here.</p>
+<p>Loading your lists...</p>
 <ul>
-</ul>
-</li>
+</ul> View your lists </li>
 <li> My Trips </li>
 <li> Support <ul>
 <li> Customer Support </li>
@@ -52,7 +50,7 @@ site at Orbitz.com</strong> close Booking travel on behalf of <strong>
 </ul>
 </li>
 <li> Español </li>
-</ul> //a.travel-assets.com/globalcontrols-service/content/3bd83944dc1f98dfed25b3167f9564c3c3d025c0 Search anything Search For customer service, call us toll-free at 1-800-397-3342.
+</ul> //a.travel-assets.com/globalcontrols-service/content/251d7afe188d64e30b3d503a5451eb466f71271a Search anything Search For customer service, call us toll-free at 1-800-397-3342.
 For customers outside the US, please call 1-404-728-8787.
 International calling rates will apply.
 <ul>
@@ -78,8 +76,8 @@ Please try again Account already exists Authentication failure.
 Please try again Action required!<br>To finish creating your account, please click the link we just sent to First name <p>
 </p> Last name <p>
 </p> Email address <p>
-</p> This email has already been used to sign up with .
-Try signing in with or use another email address.
+</p> This email has already been used to sign up with CONNECTED_THIRD_PARTY_NAMES.
+Try signing in with CONNECTED_THIRD_PARTY_NAMES or use another email address.
 Create a password <p>
 </p> Earn free travel rewards with Orbitz Rewards.
 By joining Orbitz Rewards, I accept all Terms and Conditions.
@@ -90,7 +88,9 @@ Sign Up By creating an account, I agree to the Terms of Use and the Privacy Poli
 Please try again You may have entered an unknown email address or an incorrect password Authentication failure.
 Please try again Email address <p>
 </p> Password <p>
-</p> Keep me signed in Forgot password? Sign In Need an account? Sign Up Show us your human side...
+</p> Keep me signed in Forgot password? Earn free travel rewards with Orbitz Rewards.
+By joining Orbitz Rewards, I accept all Terms and Conditions.
+Sign In Need an account? Sign Up Show us your human side...
 We can't tell if you're a human or a bot.
 I'm human Explore More Orbitz <ul>
 <li>About Orbitz</li>

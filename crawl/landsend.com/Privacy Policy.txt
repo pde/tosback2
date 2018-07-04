@@ -57,7 +57,8 @@ skip to search Lands' End SIGN IN MY ACCOUNT <ul>
 <li> The Journal </li>
 </ul>
 </li>
-<li> Women SHOP BY SIZE RANGE <ul>
+<li> Women WOMEN'S SALE &gt.
+SHOP BY SIZE RANGE <ul>
 <li> Regular </li>
 <li> Petite </li>
 <li> Tall </li>
@@ -68,7 +69,6 @@ skip to search Lands' End SIGN IN MY ACCOUNT <ul>
 <li> New Arrivals </li>
 <li> The Starfish Collection </li>
 <li> Tunic Shop </li>
-<li> Sale </li>
 </ul> WOMEN'S CLOTHING &gt.
 <ul>
 <li> Swimsuits </li>
@@ -112,7 +112,8 @@ Tights </li>
 <li> Gloves </li>
 </ul>
 </li>
-<li> Men SHOP BY SIZE RANGE <ul>
+<li> Men MEN'S SALE &gt.
+SHOP BY SIZE RANGE <ul>
 <li> Regular </li>
 <li> Tall </li>
 <li> Big &amp.
@@ -123,7 +124,6 @@ Tall </li>
 <li> No Iron Shop </li>
 <li> Supima Shirts &amp.
 Sweaters </li>
-<li> Sale </li>
 </ul> MEN'S CLOTHING &gt.
 <ul>
 <li> Swimwear </li>
@@ -148,7 +148,7 @@ Robes </li>
 <li> Underwear &amp.
 Long Underwear </li>
 </ul> MEN'S BAGS &gt.
-MEN'S SHOES&gt.
+MEN'S SHOES &gt.
 <ul>
 <li> Athletic &amp.
 Water </li>
@@ -157,7 +157,7 @@ Water </li>
 <li> Boots </li>
 <li> Dress </li>
 <li> Slippers </li>
-</ul> MEN'S ACCESSORIES&gt.
+</ul> MEN'S ACCESSORIES &gt.
 <ul>
 <li> Belts </li>
 <li> Socks </li>
@@ -168,7 +168,7 @@ Water </li>
 <li> Hats </li>
 </ul>
 </li>
-<li> Kids Kid's Sale&gt.
+<li> Kids Kids' Sale&gt.
 SHOP BY AGE RANGE <ul>
 <li> Toddler Girls (2T-4T) </li>
 <li> Little Girls (4-7) </li>
@@ -191,7 +191,7 @@ Lunch Boxes </li>
 <li> Kids' Star Spangled Collection </li>
 </ul> Girls' Clothing&gt.
 <ul>
-<li> SHOP GIRLS SALE </li>
+<li> SHOP GIRLS' SALE </li>
 <li> Shop All Girls' Clothing </li>
 <li> Girls' Swimsuits </li>
 <li> Girls' Tops </li>
@@ -217,7 +217,7 @@ Lunch Boxes </li>
 <li> Girls' Accessories </li>
 </ul> Boys' Clothing&gt.
 <ul>
-<li> SHOP BOYS SALE </li>
+<li> SHOP BOYS' SALE </li>
 <li> Shop All Boys' Clothing </li>
 <li> Boys' Swimsuits </li>
 <li> Boys' Tops </li>
@@ -299,12 +299,12 @@ Match Tool </li>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Canvas Totes </li>
+<li> Backpacks &amp.
+Lunch Boxes </li>
 <li> Pouches &amp.
 Small Accessories </li>
 <li> Business &amp.
 Travel </li>
-<li> Backpacks &amp.
-Lunch Boxes </li>
 <li> Diaper Bags </li>
 <li> Sale </li>
 </ul> CATEGORIES <ul>
@@ -379,7 +379,8 @@ Men&gt.
 Bags </li>
 </ul>
 </li>
-<li> Home BATH &gt.
+<li> Home HOME SALE &gt.
+BATH &gt.
 <ul>
 <li> Beach Towels </li>
 <li> Rugs &amp.
@@ -426,7 +427,6 @@ Gifts </li>
 <li> Supima Bedding &amp.
 Bath </li>
 <li> Bedding Basics </li>
-<li> Sale </li>
 </ul> DOG SHOP &gt.
 </li>
 <li> Sale WOMEN'S SALE &gt.
@@ -520,6 +520,7 @@ Jackets </li>
 <i>
 </i> Back </li>
 <li> Shop all Women </li>
+<li> WOMEN'S SALE </li>
 <li> SHOP BY SIZE RANGE <i>
 </i>
 <ul>
@@ -543,7 +544,33 @@ Jackets </li>
 <li> New Arrivals </li>
 <li> The Starfish Collection </li>
 <li> Tunic Shop </li>
-<li> Sale </li>
+</ul>
+</li>
+<li> WOMEN'S CLOTHING <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> View All </li>
+<li> Swimsuits </li>
+<li> Knit Tops &amp.
+Tees </li>
+<li> Shirts &amp.
+Blouses </li>
+<li> Sweaters </li>
+<li> Dresses </li>
+<li> Pants </li>
+<li> Jeans </li>
+<li> Shorts </li>
+<li> Skirts </li>
+<li> Coats &amp.
+Jackets </li>
+<li> Blazers </li>
+<li> Activewear </li>
+<li> Pajamas &amp.
+Robes </li>
+<li> Long Underwear </li>
 </ul>
 </li>
 <li> WOMEN'S BAGS </li>
@@ -581,24 +608,6 @@ Tights </li>
 <li> Gloves </li>
 </ul>
 </li>
-<li> Swimsuits </li>
-<li> Knit Tops &amp.
-Tees </li>
-<li> Shirts &amp.
-Blouses </li>
-<li> Sweaters </li>
-<li> Dresses </li>
-<li> Pants </li>
-<li> Jeans </li>
-<li> Shorts </li>
-<li> Skirts </li>
-<li> Coats &amp.
-Jackets </li>
-<li> Blazers </li>
-<li> Activewear </li>
-<li> Pajamas &amp.
-Robes </li>
-<li> Long Underwear </li>
 </ul>
 </li>
 <li> Men <i>
@@ -608,6 +617,7 @@ Robes </li>
 <i>
 </i> Back </li>
 <li> Shop all Men </li>
+<li> MEN'S SALE </li>
 <li> SHOP BY SIZE RANGE <i>
 </i>
 <ul>
@@ -631,7 +641,36 @@ Tall </li>
 <li> No Iron Shop </li>
 <li> Supima Shirts &amp.
 Sweaters </li>
-<li> Sale </li>
+</ul>
+</li>
+<li> MEN'S CLOTHING <i>
+</i>
+<ul>
+<li>
+<i>
+</i> Back </li>
+<li> View All </li>
+<li> Swimwear </li>
+<li> Polo Shirts </li>
+<li> Knit Tops &amp.
+Tees </li>
+<li> Pants </li>
+<li> Shorts </li>
+<li> Jeans </li>
+<li> Casual Shirts </li>
+<li> Dress Shirts </li>
+<li> Sportcoats &amp.
+Blazers </li>
+<li> Suiting </li>
+<li> Sweaters </li>
+<li> Coats &amp.
+Jackets </li>
+<li> Fleece </li>
+<li> Activewear </li>
+<li> Pajamas &amp.
+Robes </li>
+<li> Underwear &amp.
+Long Underwear </li>
 </ul>
 </li>
 <li> MEN'S BAGS </li>
@@ -667,27 +706,6 @@ Water </li>
 <li> Hats </li>
 </ul>
 </li>
-<li> Swimwear </li>
-<li> Polo Shirts </li>
-<li> Knit Tops &amp.
-Tees </li>
-<li> Pants </li>
-<li> Shorts </li>
-<li> Jeans </li>
-<li> Casual Shirts </li>
-<li> Dress Shirts </li>
-<li> Sportcoats &amp.
-Blazers </li>
-<li> Suiting </li>
-<li> Sweaters </li>
-<li> Coats &amp.
-Jackets </li>
-<li> Fleece </li>
-<li> Activewear </li>
-<li> Pajamas &amp.
-Robes </li>
-<li> Underwear &amp.
-Long Underwear </li>
 </ul>
 </li>
 <li> Kids <i>
@@ -697,7 +715,7 @@ Long Underwear </li>
 <i>
 </i> Back </li>
 <li> Shop all Kids </li>
-<li> Kid's Sale </li>
+<li> Kids' Sale </li>
 <li> SHOP BY AGE RANGE <i>
 </i>
 <ul>
@@ -739,7 +757,7 @@ Lunch Boxes </li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> SHOP GIRLS SALE </li>
+<li> SHOP GIRLS' SALE </li>
 <li> Shop All Girls' Clothing </li>
 <li> Girls' Swimsuits </li>
 <li> Girls' Tops </li>
@@ -778,7 +796,7 @@ Lunch Boxes </li>
 <i>
 </i> Back </li>
 <li> View All </li>
-<li> SHOP BOYS SALE </li>
+<li> SHOP BOYS' SALE </li>
 <li> Shop All Boys' Clothing </li>
 <li> Boys' Swimsuits </li>
 <li> Boys' Tops </li>
@@ -935,12 +953,12 @@ Match Tool </li>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Canvas Totes </li>
+<li> Backpacks &amp.
+Lunch Boxes </li>
 <li> Pouches &amp.
 Small Accessories </li>
 <li> Business &amp.
 Travel </li>
-<li> Backpacks &amp.
-Lunch Boxes </li>
 <li> Diaper Bags </li>
 <li> Sale </li>
 </ul>
@@ -1065,6 +1083,7 @@ Bags </li>
 <i>
 </i> Back </li>
 <li> Shop all Home </li>
+<li> HOME SALE </li>
 <li> BATH <i>
 </i>
 <ul>
@@ -1145,7 +1164,6 @@ Gifts </li>
 <li> Supima Bedding &amp.
 Bath </li>
 <li> Bedding Basics </li>
-<li> Sale </li>
 </ul>
 </li>
 <li> DOG SHOP </li>
@@ -1299,8 +1317,9 @@ Jackets </li>
 </ul>
 </li>
 </ul>
-<p>Receive 50% off all swimwear, water shoes and more! </p>
-<p> code: FISH pin: 2124 DETAILS </p> Customer Service Menu<i>
+<p>Receive 50% off all swimwear, water shoes and more.
+30% off all other full-price styles!</p>
+<p> code: SPARKLE pin: 7014 DETAILS </p> Customer Service Menu<i>
 </i>
 <ul> Customer Service <ul>
 <li> Customer Service Home </li>
