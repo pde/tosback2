@@ -1,0 +1,7 @@
+<sitename name="minecraft.net">
+ <docname name="Terms and Conditions">
+   <url name="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" xpath="//main[@id='maincontent']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

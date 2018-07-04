@@ -1,0 +1,12 @@
+<sitename name="whatsapp.com">
+ <docname name="Terms of Service and Privacy">
+   <url name="https://www.whatsapp.com/legal?eea=0" xpath="//div[@class='_2z9-']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service and Privacy (EU)">
+   <url name="https://www.whatsapp.com/legal?eea=1" xpath="//div[@class='_2z9-']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

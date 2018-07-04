@@ -69,7 +69,7 @@ class TOSBackDoc
   
   def skip_notify?
     prev_mtime = File.exists?(@save_path) ? File.mtime(@save_path) : nil
-    prev_mtime > Time.now - 216000
+    prev_mtime && prev_mtime > Time.now - 216000
   end
   
   def puts_doc

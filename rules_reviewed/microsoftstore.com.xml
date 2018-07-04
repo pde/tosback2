@@ -1,0 +1,12 @@
+<sitename name="microsoftstore.com">
+ <docname name="Privacy Policy">
+   <url name="https://privacy.microsoft.com/en-us/privacystatement" xpath="//div[@style='background-color:white']/div" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Terms of Sale">
+  <url name="https://www.microsoft.com/en-us/store/b/terms-of-sale" xpath="//section[@id='mainArea']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

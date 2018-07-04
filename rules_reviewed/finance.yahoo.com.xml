@@ -1,0 +1,7 @@
+<sitename name="finance.yahoo.com">
+  <docname name="Privacy Policy">
+    <url name="https://policies.oath.com/us/en/oath/privacy/index.html" xpath="//main[@id=&apos;site-main&apos;]" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

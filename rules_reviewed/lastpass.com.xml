@@ -1,0 +1,12 @@
+<sitename name="lastpass.com">
+ <docname name="Terms of Service">
+   <url name="https://www.logmeininc.com/legal/terms-and-conditions" xpath="//div[@class='text-block']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Statement">
+   <url name="https://www.logmeininc.com/legal/privacy"  xpath="//div[@class='text-block']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

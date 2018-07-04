@@ -1,0 +1,7 @@
+<sitename name="zoosk.com">
+ <docname name="Privacy Policy">
+   <url name="https://www.zoosk.com/privacy.php?from=footer" xpath="//div[@class='privacy-policy-eu']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

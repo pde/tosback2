@@ -1,0 +1,11 @@
+<sitename name="yahoo.com">
+  <docname name="Terms of Service">
+    <url name="https://policies.oath.com/us/en/oath/terms/otos/index.html" xpath="//main[@id=&apos;site-main&apos;]" reviewed="true">
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://policies.oath.com/us/en/oath/privacy/index.html" xpath="//main[@id=&apos;site-main&apos;]" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

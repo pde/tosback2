@@ -1,0 +1,42 @@
+<sitename name="apple.com">
+ <docname name="Privacy Policy">
+   <url name="https://www.apple.com/legal/privacy/en-ww/" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Application-Based Services Terms of Use">
+   <url name="http://www.apple.com/internetservices/terms/membership_terms.html" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="iChat Account Terms of Service">
+   <url name="https://www.apple.com/legal/internet-services/terms/ichataccount.html" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Game Center Terms and Conditions">
+   <url name="https://www.apple.com/legal/internet-services/itunes/gamecenter/us/terms.html" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Apple Support Communities Use Agreement">
+   <url name="https://discussions.apple.com/docs/DOC-5952" xpath="//main[@class='tutorial']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Website Terms of Service">
+   <url name="http://www.apple.com/legal/internet-services/terms/site.html" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="iCloud Terms of Service">
+   <url name="https://www.apple.com/legal/internet-services/icloud/en/terms.html" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="iTunes Terms of Service">
+   <url name="https://www.apple.com/legal/internet-services/itunes/us/terms.html" xpath="//main[@class='main']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

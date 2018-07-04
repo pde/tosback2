@@ -1,0 +1,7 @@
+<sitename name="olx.com">
+  <docname name="Terms of Use">
+    <url name="http://www.olx.com/terms.php" reviewed="true"  xpath="//div[@id='terms-of-use']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

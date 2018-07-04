@@ -1,0 +1,12 @@
+<!--<sitename name="rapidshare.com">-->
+ <!--<docname name="Privacy Policy">-->
+   <!--<url name="http://rapidshare.com/privacy" xpath="//div[@id='privacy_sec_privacy']" reviewed="true">-->
+     <!--<norecurse name="arbitrary"/>-->
+   <!--</url>-->
+ <!--</docname>-->
+ <!--<docname name="Terms of Use">-->
+   <!--<url name="http://rapidshare.com/privacy/tou" xpath="//div[@id='privacy_sec_tou']" reviewed="true">-->
+     <!--<norecurse name="arbitrary"/>-->
+   <!--</url>-->
+ <!--</docname>-->
+<!--</sitename>-->

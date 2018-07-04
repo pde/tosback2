@@ -1,0 +1,7 @@
+<sitename name="forums.informe.com">
+ <docname name="Terms of Service">
+   <url name="http://forums.informe.com/TermsOfService.html" reviewed="true" xpath="//div[@id='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

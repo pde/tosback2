@@ -1,0 +1,7 @@
+<sitename name="play.google.com">
+ <docname name="Terms of Service">
+   <url name="https://play.google.com/intl/en_us/about/play-terms.html" xpath="//body/div[@class='play-contained']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

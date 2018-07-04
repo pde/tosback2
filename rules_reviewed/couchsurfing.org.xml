@@ -1,0 +1,12 @@
+<sitename name="couchsurfing.org">
+ <docname name="Terms of Use">
+   <url name="http://about.couchsurfing.com/terms-of-use/" xpath="//section[@id='tos']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="http://about.couchsurfing.com/privacy-policy/" xpath="//section[@id='privacy-policy']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

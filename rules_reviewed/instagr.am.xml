@@ -1,0 +1,7 @@
+<sitename name="instagr.am">
+ <docname name="Data Policy">
+   <url name="https://help.instagram.com/519522125107875" xpath="//div[@id='hc2content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

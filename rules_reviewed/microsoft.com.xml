@@ -1,0 +1,12 @@
+<sitename name="microsoft.com">
+ <docname name="Privacy Policy">
+   <url name="https://privacy.microsoft.com/en-us/privacystatement" xpath="//div[@style='background-color:white']/div" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Microsoft Services Agreement">
+  <url name="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" xpath="//div[@class='m-rich-content-block']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

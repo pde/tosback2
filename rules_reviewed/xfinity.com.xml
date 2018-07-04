@@ -1,0 +1,37 @@
+<sitename name="xfinity.com">
+  <docname name="Privacy Statement">
+    <url name="https://www.xfinity.com/corporate/legal/privacyStatement" xpath="//section[@id='details']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Customer Privacy Policy">
+    <url name="https://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy" xpath="//main[@role='main']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy for Xfinity Internet">
+    <url name="https://www.xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP" xpath="//div[@class='x-flex__col-xs-12 x-flex__col-lg-9']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Residential Subscriber Agreement">
+    <url name="https://www.xfinity.com/Corporate/Customers/Policies/SubscriberAgreement" xpath="//section[@class='x-section x-ui-theme--light']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Web Services Privacy Policy">
+    <url name="https://my.xfinity.com/privacy" xpath="//div[@id='legal']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Web Services Terms of Service">
+    <url name="http://my.xfinity.com/terms/web/" xpath="//div[@id='legal']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Software License Agreement">
+    <url name="http://my.xfinity.com/terms/license/" xpath="//div[@id='legal']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

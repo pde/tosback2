@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitename name="att.com">
+  <docname name="Privacy Policy">
+    <url name="http://about.att.com/sites/privacy_policy" xpath="//div[@class='parsys microParsys9']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Acceptable Use Policy">
+    <url name="https://www.att.com/legal/terms.aup.html" xpath="//div[@id='termsofservices']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Internet Terms of Service">
+    <url name="https://www.att.com/legal/terms.internetAttTermsOfService.html" xpath="//div[@id='termsofservices']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Wireless Plan Terms">
+    <url name="https://www.att.com/legal/terms.wirelessCustomerAgreement.html" xpath="//div[@id='termsofservices']" reviewed="true">
+    </url>
+  </docname>
+</sitename>

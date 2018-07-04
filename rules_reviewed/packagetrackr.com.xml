@@ -1,0 +1,12 @@
+<sitename name="packagetrackr.com">
+ <docname name="Privacy Policy">
+   <url name="https://www.packagetrackr.com/privacy" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="https://www.packagetrackr.com/tos" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

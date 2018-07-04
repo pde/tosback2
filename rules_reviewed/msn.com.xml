@@ -1,0 +1,12 @@
+<sitename name="msn.com">
+  <docname name="Privacy Policy">
+    <url name="https://privacy.microsoft.com/en-us/PrivacyStatement" xpath="//div[@style='background-color:white']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">
+    <url name="https://www.microsoft.com/en-us/servicesagreement/" xpath="//div[@class='row-fluid grid-container mscom-grid-container']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

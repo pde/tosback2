@@ -1,0 +1,52 @@
+<sitename name="skype.com">
+  <docname name="Terms of Use">
+    <url name="https://www.microsoft.com/en-us/servicesagreement/" xpath="//div[@class='row-fluid grid-container mscom-grid-container']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Group Video Calling Fair Usage Policy">
+    <url name="https://www.skype.com/en/legal/gvc-fair-usage/" xpath="//section[@id='mainContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Fair Usage Policy for Subscriptions">
+    <url name="https://www.skype.com/en/legal/fair-usage/" xpath="//section[@id='mainContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Fair Usage Policy for US Minute Bundles">
+    <url name="https://www.skype.com/en/legal/connect-minute-fair-usage/" xpath="//section[@id='mainContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://privacy.microsoft.com/en-us/PrivacyStatement" xpath="//div[@style='background-color:white']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <!--<docname name="Etiquette">-->
+    <!--<url name="http://www.skype.com/en/legal/etiquette/" xpath="//div[@class='alignLeft']" reviewed="true">-->
+      <!--<norecurse name="arbitrary"/>-->
+    <!--</url>-->
+  <!--</docname>-->
+  <!--<docname name="Skype Emergency Calling">-->
+    <!--<url name="http://www.skype.com/en/legal/emergency-calling/" xpath="//div[@class='parsys']" reviewed="true">-->
+      <!--<norecurse name="arbitrary"/>-->
+    <!--</url>-->
+  <!--</docname>-->
+  <!--<docname name="Trademark Guidelines">-->
+    <!--<url name="http://www.skype.com/en/legal/brand-guidelines/" xpath="//div[@class='parsys']" reviewed="true">-->
+      <!--<norecurse name="arbitrary"/>-->
+    <!--</url>-->
+  <!--</docname>-->
+  <!--<docname name="Business Terms of Use">-->
+    <!--<url name="http://www.skype.com/en/legal/business-tou/" xpath="//div[@class='parsys']" reviewed="true">-->
+      <!--<norecurse name="arbitrary"/>-->
+    <!--</url>-->
+  <!--</docname>-->
+  <!--<docname name="Business Terms of Use (USA)">-->
+    <!--<url name="http://www.skype.com/en/legal/business-tou-us/" xpath="//div[@class='parsys mainParsys']" reviewed="true">-->
+      <!--<norecurse name="arbitrary"/>-->
+    <!--</url>-->
+  <!--</docname>-->
+</sitename>

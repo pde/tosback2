@@ -1,0 +1,12 @@
+<sitename name="owncube.com">
+ <docname name="Privacy">
+   <url name="https://owncube.com/privacy_en.php" xpath="//section[@class='bottom_padding pricing_table']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Terms of Use">
+   <url name="https://owncube.com/agb_en.php" xpath="//section[@class='bottom_padding pricing_table']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,12 @@
+<sitename name="facebook.com">
+ <docname name="Data Use Policy">
+   <url name="https://www.facebook.com/about/privacy" xpath="//div[@class='_5tkp _3m9']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="https://www.facebook.com/legal/terms" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,7 @@
+<sitename name="gravatar.com">
+ <docname name="Privacy Policy">
+   <url name="http://automattic.com/privacy/" reviewed="true" xpath="//div[@id='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

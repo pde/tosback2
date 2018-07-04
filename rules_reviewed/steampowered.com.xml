@@ -1,0 +1,22 @@
+<sitename name="steampowered.com">
+ <docname name="Privacy Policy Agreement">
+   <url name="https://www.cbsinteractive.com/legal/cbsi/privacy-policy" xpath="//div[@id='main_content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Legal Info">
+   <url name="https://store.steampowered.com/legal/" xpath="//div[@id='main_content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Steam Subscriber Agreement">
+   <url name="https://store.steampowered.com/subscriber_agreement/" xpath="//div[@id='main_content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Steam Refunds">
+   <url name="https://store.steampowered.com/steam_refunds/" xpath="//div[@id='main_content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>

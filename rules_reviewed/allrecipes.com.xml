@@ -1,0 +1,12 @@
+<sitename name="allrecipes.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.meredith.com/legal/privacy" xpath="//div[@class='content-block']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms and Conditions">
+   <url name="http://www.meredith.com/legal/terms" xpath="//div[@class='content-block']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

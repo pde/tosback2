@@ -1,0 +1,7 @@
+<sitename name="duckduckgo.com">
+ <docname name="Privacy Policy">
+   <url name="https://duckduckgo.com/privacy" xpath="//div[@id='content_wrapper']" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

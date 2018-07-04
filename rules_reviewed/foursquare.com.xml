@@ -1,0 +1,12 @@
+<sitename name="foursquare.com">
+ <docname name="Terms of Use">
+   <url name="https://foursquare.com/legal/terms" xpath="//div[@id='blankPage']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://foursquare.com/legal/privacy" xpath="//div[@id='blankPage']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
