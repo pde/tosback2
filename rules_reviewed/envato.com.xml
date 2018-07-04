@@ -1,7 +1,0 @@
-<sitename name="envato.com">
- <docname name="Privacy Policy">
-   <url name="https://envato.com/privacy/" xpath="//div[@class='c-legal o-section u-bg-grey-light']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
-</sitename>

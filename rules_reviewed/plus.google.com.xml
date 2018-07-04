@@ -1,7 +1,0 @@
-<sitename name="plus.google.com">
-  <docname name="Privacy Policy">
-    <url name="https://policies.google.com/privacy" xpath="//div[@role='article']" reviewed="true">
-      <norecurse name="arbitrary"/>
-    </url>
-  </docname>
-</sitename>

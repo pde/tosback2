@@ -11,7 +11,7 @@ Dir["lib/*.rb"].each {|file| require "./#{file}" }
 # assumes we only need sql if running the full script in production
 ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash) if ARGV.length == 0
 
-$rules_path = "../rules_reviewed/" # Directories should include trailing slash
+$rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
 $reviewed_crawl_path = "../crawl_reviewed/"
 $log_dir = "../logs/"

@@ -1,7 +1,0 @@
-<sitename name="market.envato.com">
- <docname name="Terms and Conditions">
-   <url name="https://themeforest.net/legal/market" xpath="//div[@class='layout__main-content']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
-</sitename>
