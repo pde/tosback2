@@ -1,0 +1,10 @@
+2018-07-04 04:49:05 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=46849:	Unable to find visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:19 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201124320:	Unable to find visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:31 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201339330:	Unable to find visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:35 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201339340:	Unable to find visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:43 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670:	Unable to find visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:50 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201604200:	Ambiguous match, found 2 elements matching visible xpath "//div[@class='help-content']"
+2018-07-04 04:49:55 -0400 - https://www.amazon.com/gp/help/customer/display.html?nodeId=201604180:	Ambiguous match, found 2 elements matching visible xpath "//div[@class='help-content']"
+2018-07-04 04:50:51 -0400 - http://forums.informe.com/TermsOfService.html:	Request to 'http://forums.informe.com/TermsOfService.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://66.29.38.208/log.jsp?siteid=8&rand=3029
+2018-07-04 04:51:08 -0400 - https://del.icio.us/privacy:	Unable to find visible xpath "//div[@class='contentLeft']"
+2018-07-04 04:51:39 -0400 - https://www.dropbox.com/privacy:	Unable to find visible xpath "//div[@id='privacy-policy']"
