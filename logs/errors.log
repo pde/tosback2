@@ -1427,3 +1427,696 @@ Did you mean?  tap
 2018-07-05 01:45:52 -0400 - http://www.adobe.com/privacy/policy.html:	Unable to find visible xpath "//div[@id='bodycontent1']"
 2018-07-05 01:45:59 -0400 - http://www.eonline.com/about/privacy/index.jsp:	Unable to find visible xpath "//div[@class='privacy_content']"
 2018-07-05 01:46:04 -0400 - http://nih.gov/about/privacy.htm:	Unable to find visible xpath "//div[@id='centercolumn']"
+2018-07-05 08:24:18 -0400 - http://www.imdb.com/help/show_article?conditions:	Unable to find visible xpath "//div[@id='tn15']"
+2018-07-05 08:24:30 -0400 - http://www.outbrain.com/privacy:	Unable to find visible xpath "//div[@class='col-main clearfix']"
+2018-07-05 08:24:36 -0400 - http://www.collectionsetc.com/helpPrivacy.aspx:	Unable to find visible xpath "//table[@id='TableLeftNavAndContent']"
+2018-07-05 08:24:40 -0400 - http://www.mbusa.com/mercedes/policies/privacy_statement:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:24:48 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	404 Error
+2018-07-05 08:25:00 -0400 - https://ixquick.com/eng/privacy-policy.html:	Unable to find visible xpath "//td[@id='td_content']"
+2018-07-05 08:25:19 -0400 - http://www.ford.com/help/privacy/:	Unable to find visible xpath "//div[@id='view-bd']"
+2018-07-05 08:25:27 -0400 - http://www.sears.com/csprivacy/nb-100000000022508:	Unable to find visible xpath "//div[@id='container_main']"
+2018-07-05 08:25:28 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	404 Error
+2018-07-05 08:25:36 -0400 - http://farmfutures.com/customPage.aspx?p=227:	Unable to find visible xpath "//div[@id='siteWrap']/table[5]/tr/td/table/tr/td"
+2018-07-05 08:25:44 -0400 - http://www.americanidol.com/legal/privacypolicy:	Unable to find visible xpath "//ol[@id='full_policy']"
+2018-07-05 08:25:50 -0400 - http://www.americanidol.com/legal/terms:	Unable to find visible xpath "//div[@class='primary']"
+2018-07-05 08:25:55 -0400 - http://www.bored.com/guest/?page=privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:25:58 -0400 - http://www.dishnetwork.com/downloads/legal/PrivacyStatement.pdf:	404 Error
+2018-07-05 08:26:04 -0400 - http://www.thedailybeast.com/company/privacy-policy.html:	Unable to find visible xpath "//div[@class='text parbase section']"
+2018-07-05 08:26:14 -0400 - http://privacy.tribune.com/:	Request to 'http://privacy.tribune.com/' failed to reach server, check DNS and/or server status
+2018-07-05 08:26:15 -0400 - http://privacy.microsoft.com/en-us/fullnotice.mspx:	404 Error
+2018-07-05 08:26:49 -0400 - http://www.express.com/custserv/custserv_popup.jsp?pageName=Privacy:	Request to 'http://www.express.com/custserv/custserv_popup.jsp?pageName=Privacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:26:57 -0400 - http://www.brookstone.com/static/customerService.jsp?panelId=400003:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:27:10 -0400 - http://www.kayak.co.uk/privacy:	Unable to find visible xpath "//div[@class='seoWidgetContent']"
+2018-07-05 08:27:13 -0400 - https://app.topspin.net/account/terms_public:	Unable to find visible xpath "//div[@id='policy_copy']"
+2018-07-05 08:27:43 -0400 - http://www.blair.com/custserv/custserv.jsp?pageName=Privacy:	Request to 'http://www.blair.com/custserv/custserv.jsp?pageName=Privacy' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.blair.com/js/consolidated_utility.jsp,https://www.blair.com/js/consolidated_plugins.jsp,https://www.blair.com/js/common.js,https://www.blair.com/js/ocpsdk/jquery/ext/jquery.widget.jsp,https://www.blair.com/js/ocpsdk/aggregator/script_source.jsp?gkey=sG_5501348773298860515&hash=-1980911159394373078,https://www.blair.com/assets/js/adobe.target.targetcomplete.min.js,https://www.blair.com/_bm/bd-1-30,https://www.blair.com/js/persistent_cart.jsp,https://www.blair.com/js/s7swatch.js,https://appleseeds.blair.com/assets/chk/header/brand-layer-link-10.png,https://appleseeds.blair.com/assets/chk/header/brand-layer-callout-10.png,https://appleseeds.blair.com/assets/chk/header/close.png,https://appleseeds.blair.com/assets/chk/header/apl-grey.jpg,https://appleseeds.blair.com/assets/chk/header/apl-colr.jpg,https://appleseeds.blair.com/assets/images/background/header_tab_arrow.png,https://appleseeds.blair.com/assets/chk/header/tog-grey.jpg,https://appleseeds.blair.com/assets/chk/header/tog-colr.jpg,https://appleseeds.blair.com/assets/chk/header/wts-grey.jpg,https://appleseeds.blair.com/assets/chk/header/wts-colr.jpg,https://appleseeds.blair.com/assets/chk/header/nt-grey.jpg,https://appleseeds.blair.com/assets/chk/header/nt-colr.jpg,https://appleseeds.blair.com/assets/chk/header/sah-grey.jpg,https://appleseeds.blair.com/assets/chk/header/sah-colr.jpg,https://appleseeds.blair.com/assets/chk/header/bla-grey.jpg,https://appleseeds.blair.com/assets/chk/header/bla-colr.jpg,https://appleseeds.blair.com/assets/chk/header/hab-grey.jpg,https://appleseeds.blair.com/assets/chk/header/hab-colr.jpg,https://appleseeds.blair.com/assets/chk/header/opt-grey.jpg,https://appleseeds.blair.com/assets/chk/header/opt-colr.jpg,https://appleseeds.blair.com/assets/chk/header/bf-grey.jpg,https://appleseeds.blair.com/assets/chk/header/bf-colr.jpg,https://appleseeds.blair.com/assets/chk/header/gv-grey.jpg,https://appleseeds.blair.com/assets/chk/header/gv-colr.jpg,https://appleseeds.blair.com/assets/chk/header/brand-layer-foot-copy.png,https://appleseeds.blair.com/assets/apl/Footer/GBseal_125_50.png,https://www.blair.com/assets/bla/Feature/bcc_top2017.gif,https://www.blair.com/assets/images/navigation/tabs/tab_apl_link.png,https://www.blair.com/assets/images/background/header_tab_arrow.png,https://www.blair.com/assets/images/navigation/tabs/tab_tog_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_wts_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_nt_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_sah_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_out_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_bla.png,https://www.blair.com/assets/images/navigation/tabs/tab_hab_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_opt_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_bf_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_gv_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_sol_link.png,https://www.blair.com/assets/images/navigation/tabs/tab_lns_link.png,https://www.blair.com/assets/images/buttons/english/btn_header_checkout.jpg,https://www.blair.com/assets/images/text/english/bla_logo.png,https://www.blair.com/assets/bla/General/B_footer_socialmedia.png,https://www.blair.com/assets/bla/Email/BLA-SINGUP-BNR1r1.gif,https://www.blair.com/assets/hab/banners/HAB-SINGUP-BUT.jpg
+2018-07-05 08:27:50 -0400 - http://www.bloomberg.com/privacy:	Unable to find visible xpath "//div[@id='primary_content']"
+2018-07-05 08:27:57 -0400 - http://www.bloomberg.com/tos/:	Unable to find visible xpath "//div[@id='primary_content']"
+2018-07-05 08:27:58 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	404 Error
+2018-07-05 08:28:03 -0400 - http://www.crackle.com/privacy.aspx:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:28:07 -0400 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html:	Unable to find visible xpath "//div[@class='body parsys']"
+2018-07-05 08:28:11 -0400 - http://www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_terms_of_service.html:	Unable to find visible xpath "//div[@class='body parsys']"
+2018-07-05 08:28:15 -0400 - http://www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&fileName=privacyPolicy:	Unable to find visible xpath "//div[@id='contentContainer']"
+2018-07-05 08:28:15 -0400 - http://privacy.microsoft.com/DE-DE/fullnotice.mspx:	404 Error
+2018-07-05 08:28:29 -0400 - http://www.cars.com/about/privacy/:	Unable to find visible xpath "//div[@class='col41 content']"
+2018-07-05 08:28:36 -0400 - http://www.cars.com/about/terms/:	Unable to find visible xpath "//div[@class='col41 main-col']"
+2018-07-05 08:28:39 -0400 - http://www.eharmony.com/privacy/policy/:	Unable to find visible xpath "//div[@id='infoBox']"
+2018-07-05 08:28:56 -0400 - http://hypster.com/hypster/Terms_of_Service:	PhantomJS client died while processing {"id":"fecc4e2d-8bbc-490b-8647-d9bbd7f9bc92","name":"visit","args":["http://hypster.com/hypster/Terms_of_Service",30]}
+2018-07-05 08:29:10 -0400 - http://hypster.com/hypster/Privacy_Policy:	PhantomJS client died while processing {"id":"88c95805-8eba-42d5-a7e4-c5906f96d935","name":"visit","args":["http://hypster.com/hypster/Privacy_Policy",30]}
+2018-07-05 08:29:13 -0400 - http://www.tvguide.com/services/privacy.aspx:	404 Error
+2018-07-05 08:29:16 -0400 - http://www.4shared.com/privacy.jsp:	Unable to find visible xpath "//div[@style='padding-top:20px;text-align:justify;']"
+2018-07-05 08:29:21 -0400 - http://www.modnique.com/faqs/modnique_faq_privacy:	404 Error
+2018-07-05 08:29:22 -0400 - http://www.modnique.com/faqs/modnique_faq_terms:	404 Error
+2018-07-05 08:29:22 -0400 - http://www.imesh.com/privacypolicy.shtml:	Request to 'http://www.imesh.com/privacypolicy.shtml' failed to reach server, check DNS and/or server status
+2018-07-05 08:29:26 -0400 - http://twowaylove.com/info/usePolicy:	Request to 'http://twowaylove.com/info/usePolicy' failed to reach server, check DNS and/or server status
+2018-07-05 08:29:40 -0400 - http://dsc.discovery.com/utilities/about/privacypolicy.html:	Unable to find visible xpath "//article[@id='content']"
+2018-07-05 08:29:54 -0400 - http://www.sbnation.com/guide/privacy:	Unable to find visible xpath "//div[@class='l-chunk m-guide']"
+2018-07-05 08:29:58 -0400 - http://www.sbnation.com/guide/terms:	Unable to find visible xpath "//div[@class='l-chunk m-guide']"
+2018-07-05 08:30:02 -0400 - http://marqueemedia.com/privacy:	404 Error
+2018-07-05 08:30:13 -0400 - http://www.radioshack.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=privacy:	404 Error
+2018-07-05 08:30:35 -0400 - http://www.usa.gov/About/Privacy-Security.shtml:	Unable to find visible xpath "//div[@id='main_content']/node()[not(@class='feeds clearfix')]"
+2018-07-05 08:30:36 -0400 - http://www.metrolyrics.com/privacy.html:	404 Error
+2018-07-05 08:30:41 -0400 - https://personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp:	Unable to find visible xpath "//div[@id='colMcontent']"
+2018-07-05 08:30:43 -0400 - http://www.locatetv.com/privacy:	Request to 'http://www.locatetv.com/privacy' failed to reach server, check DNS and/or server status
+2018-07-05 08:30:50 -0400 - http://www.xing.com/privacy:	Unable to find visible xpath "//div[@id='maincontent']/div/div[@class='foundation-col-8']"
+2018-07-05 08:31:00 -0400 - http://www.statefarm.com/about/privacy/privacy.asp:	Unable to find visible xpath "//div[@id='mainContent']"
+2018-07-05 08:31:07 -0400 - http://www.statefarm.com/about/terms/terms.asp:	Unable to find visible xpath "//div[@id='contentWrapper']"
+2018-07-05 08:31:12 -0400 - http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&storeId=12052&catalogId=25005&langId=-1:	Unable to find visible xpath "//div[@id='contentPadding']"
+2018-07-05 08:31:24 -0400 - http://www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551:	Unable to find visible xpath "//div[@id='bodycontent']"
+2018-07-05 08:31:29 -0400 - http://www.miniclip.com/games/en/privacy-policy.php:	Unable to find visible xpath "//div[@id='page-content']"
+2018-07-05 08:31:43 -0400 - http://legal.kinja.com/privacy-policy-90190742:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 08:31:51 -0400 - http://legal.kinja.com/kinja-terms-of-use-90161644:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 08:31:57 -0400 - http://wiki.answers.com/about/legal_notices.html:	Unable to find visible xpath "//div[@id='main']"
+2018-07-05 08:32:04 -0400 - http://www.gap.com/customerService/info.do?cid=2331:	Unable to find visible xpath "//div[@id='golPrivacyPolicyContainer6607183']"
+2018-07-05 08:32:12 -0400 - http://www.gap.com/customerService/info.do?cid=6754&mlink=5058,6248410,CS_Footer_TermsOfUse&clink=6248410:	Unable to find visible xpath "//div[@id='golTosContainer']"
+2018-07-05 08:32:15 -0400 - http://about.pinterest.com/privacy/:	Unable to find visible xpath "//div[@id='bd']"
+2018-07-05 08:32:19 -0400 - http://about.pinterest.com/terms/:	Unable to find visible xpath "//div[@id='bd']"
+2018-07-05 08:32:24 -0400 - http://www.videobash.com/info#policy:	Request to 'http://www.videobash.com/info#policy' failed to reach server, check DNS and/or server status
+2018-07-05 08:32:25 -0400 - http://www.freecreditreport.com/privacy-policy/:	404 Error
+2018-07-05 08:32:30 -0400 - http://www.fragrancenet.com/f/net/privacy.html:	Unable to find visible xpath "//div[@id='mainContent']"
+2018-07-05 08:32:38 -0400 - http://www.gifts.com/company/privacy-policy:	404 Error
+2018-07-05 08:32:50 -0400 - http://www.scout.com/3/privacy-policy.html:	404 Error
+2018-07-05 08:32:53 -0400 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_privacypolicy:	Unable to find visible xpath "//div[@id='content-area']/node()[not(@class='breadcrumb')]"
+2018-07-05 08:32:57 -0400 - http://shop.advanceautoparts.com/webapp/wcs/stores/servlet/content_termscond:	Unable to find visible xpath "//div[@id='content-area']/node()[not(@class='breadcrumb')]"
+2018-07-05 08:33:07 -0400 - https://www.airbnb.com/terms:	Unable to find visible xpath "//div[@id='terms-tab-pane']"
+2018-07-05 08:33:12 -0400 - https://www.airbnb.com/terms:	Unable to find visible xpath "//div[@id='privacy-tab-pane']"
+2018-07-05 08:33:17 -0400 - https://www.airbnb.com/terms:	Unable to find visible xpath "//div[@id='guarantee-tab-pane']"
+2018-07-05 08:33:22 -0400 - https://www.airbnb.com/terms:	Unable to find visible xpath "//div[@id='grpt-tab-pane']"
+2018-07-05 08:33:27 -0400 - https://www.airbnb.com/terms:	Unable to find visible xpath "//div[@id='copyright-tab-pane']"
+2018-07-05 08:34:14 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	404 Error
+2018-07-05 08:34:20 -0400 - http://www.cracked.com/privacy-policy.html:	Unable to find visible xpath "//section[@class='body']"
+2018-07-05 08:34:25 -0400 - http://www.cracked.com/terms-and-conditions.html:	Unable to find visible xpath "//section[@class='body']"
+2018-07-05 08:34:30 -0400 - http://www.directv.com/DTVAPP/content/legal/privacy_policy:	Unable to find visible xpath "//div[@id='ctl_area_b']"
+2018-07-05 08:34:37 -0400 - http://www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx:	Unable to find visible xpath "//div[@id='content']/div[@class='width750 pB20']"
+2018-07-05 08:35:13 -0400 - http://www.cooks.com/rec/privacy.html:	Request to 'http://www.cooks.com/rec/privacy.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://geo-um.btrll.com/v1/map/f8f7eea76dadf624/18072662439231088912/,https://geo-um.btrll.com/v1/map_pixel/partner/587.png,https://cm.g.doubleclick.net/pixel?google_nid=exp&google_cm&google_sc&google_ula=2786954&google_hm=18072662439231088912,https://dsum-sec.casalemedia.com/rrum?cm_dsp_id=131&external_user_id=18072662439231088912&cb=https%3A%2F%2Fa.tribalfusion.com%2Fi.match%3Fp%3Db20%26u%3D,https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6552103091972347&output=html&h=600&slotname=2729154556&adk=621184051&adf=4074643411&w=160&lmt=1530808485&loeid=40993910&guci=2.2.0.0.2.2.0&url=https%3A%2F%2Fwww.cooks.com%2Frec%2Fprivacy.html&flash=0&wgl=0&dt=1530794084895&bpp=15&bdt=1439&fdt=18&idt=203&shv=r20180627&cbv=r20180604&saldr=sa&abxe=1&correlator=2077002919937&frm=20&pv=2&ga_vid=1094328381.1530794085&ga_sid=1530794085&ga_hid=394960435&ga_fc=0&iag=0&icsg=134763778&dssz=21&mdo=0&mso=1088&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&adx=822&ady=262&biw=1024&bih=768&scr_x=0&scr_y=0&eid=21061122%2C40993900%2C368226400%2C368226500&oid=3&rx=0&eae=0&fc=528&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C1024%2C768&vis=1&rsz=%7Co%7CoeE%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=jgoBcDfuj3&p=https%3A//www.cooks.com&dtd=227,https://image6.pubmatic.com/AdServer/UCookieSetPug?oid=1&rd=https%253A//simage2.pubmatic.com/AdServer/Pug%253Fvcode%253Dbz0yJnR5cGU9MSZjb2RlPTMzMjYmdGw9MTI5NjAw%2526piggybackCookie%253D18072662439231088912%2526r%253Dhttps%25253A//a.tribalfusion.com/i.match%25253Fp%25253Db11%252526u%25253D%252524%25257BPUBMATIC_UID%25257D&rdf=1,https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzMjYmdGw9MTI5NjAw&piggybackCookie=18072662439231088912&r=https%3A//a.tribalfusion.com/i.match%3Fp%3Db11%26u%3D%24%7BPUBMATIC_UID%7D,https://cm.g.doubleclick.net/pixel?google_nid=exp&google_cm=&google_sc=&google_ula=2786954&google_hm=18072662439231088912&google_tc=
+2018-07-05 08:35:14 -0400 - http://www.simplyhired.com/a/legal/privacy:	404 Error
+2018-07-05 08:35:20 -0400 - http://www.lowes.com/cd_Privacy+and+Security+Statement_137461171_:	Unable to find visible xpath "//div[@id='article-content']"
+2018-07-05 08:35:34 -0400 - http://www.livejournal.com/legal/privacy.bml:	Unable to find visible xpath "//div[@class='b-legaltext']"
+2018-07-05 08:35:41 -0400 - http://www.livejournal.com/legal/tos.bml:	Unable to find visible xpath "//div[@class='b-legaltext']"
+2018-07-05 08:35:47 -0400 - http://www.harryanddavid.com/h2/view/custserv-security:	Unable to find visible xpath "//div[@id='privacyTerms']"
+2018-07-05 08:36:18 -0400 - http://tracking.quisma.com/policy.htm:	Request to 'http://tracking.quisma.com/policy.htm' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:36:28 -0400 - http://www.ivillage.com/privacy-policy/8-a-257153:	Unable to find visible xpath "//div[@id='maincontent']"
+2018-07-05 08:36:33 -0400 - http://www.glassdoor.com/about/privacy.htm:	Unable to find visible xpath "//div[@id='Legal']"
+2018-07-05 08:36:41 -0400 - http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401:	Unable to find visible xpath "//td[@class='center-col']"
+2018-07-05 08:36:47 -0400 - http://legal.kinja.com/privacy-policy-90190742:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 08:36:54 -0400 - http://legal.kinja.com/kinja-terms-of-use-90161644:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 08:37:09 -0400 - http://www.grooveshark.com/privacy:	Request to 'http://www.grooveshark.com/privacy' failed to reach server, check DNS and/or server status
+2018-07-05 08:37:11 -0400 - http://www.grooveshark.com/terms:	Request to 'http://www.grooveshark.com/terms' failed to reach server, check DNS and/or server status
+2018-07-05 08:37:19 -0400 - http://www.mtv.com/sitewide/legal/privacy.jhtml:	Unable to find visible xpath "//div[@class='group-b']/div[@class='mdl']"
+2018-07-05 08:37:25 -0400 - http://www.mtv.com/sitewide/legal/terms.jhtml:	Unable to find visible xpath "//div[@class='group-b']/div[@class='mdl']"
+2018-07-05 08:37:31 -0400 - http://www.thepostgame.com/privacy:	Unable to find visible xpath "//div[@id='node-188']"
+2018-07-05 08:37:32 -0400 - http://www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx:	404 Error
+2018-07-05 08:37:40 -0400 - http://www.data.gov/privacypolicy:	404 Error
+2018-07-05 08:37:44 -0400 - http://www.data.gov/datapolicy:	Unable to find visible xpath "//div[@id='node-29']"
+2018-07-05 08:37:50 -0400 - http://www.kmart.com/csprivacy/nb-100000000000006?adCell=WF:	Unable to find visible xpath "//div[@class='csContentBlock']"
+2018-07-05 08:38:20 -0400 - http://www.eastbay.com/customerserv/help:privacyPolicy/:	Request to 'http://www.eastbay.com/customerserv/help:privacyPolicy/' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:38:21 -0400 - http://ereader.soc.io/privacy-policy:	Request to 'http://ereader.soc.io/privacy-policy' failed to reach server, check DNS and/or server status
+2018-07-05 08:38:28 -0400 - http://www.filestube.com/privacy.html:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 08:38:37 -0400 - http://www.kayak.com/privacy:	Unable to find visible xpath "//div[@class='seoWidgetContent']"
+2018-07-05 08:38:41 -0400 - http://www.hsn.com/cs/privacy_policy/default.aspx?o=!BNPR0&cm_sp=Global-_-BN-_-Privacy:	404 Error
+2018-07-05 08:38:51 -0400 - http://www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp:	Unable to find visible xpath "//div[@id='inner_page']/node()[not(@class='breadcrumbs_wrapper')]"
+2018-07-05 08:38:56 -0400 - http://www.hottopic.com/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp:	Unable to find visible xpath "//div[@id='inner_page']/node()[not(@class='breadcrumbs_wrapper')]"
+2018-07-05 08:39:02 -0400 - http://www.pandora.com/privacy:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 08:39:08 -0400 - http://www.bettycrocker.com/privacy-policy:	Ambiguous match, found 2 elements matching visible xpath "//div[@class='pageContainer']/*[not(@class='bcHead') and not(@id='globalNavigation') and not(@id='Footer') and not(@id='mobileFooter')]"
+2018-07-05 08:39:15 -0400 - http://dailycaller.com/footer/privacy-policy/:	Unable to find visible xpath "//div[@id='page']"
+2018-07-05 08:39:23 -0400 - http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx:	Unable to find visible xpath "//div[@class='cbPrivacy_inner']"
+2018-07-05 08:39:29 -0400 - http://www.springfieldnewssun.com/privacy_policy/:	Unable to find visible xpath "//div[@id='cmArticleWell']/script/node()"
+2018-07-05 08:39:32 -0400 - http://mall.soc.io/PrivacyPolicy:	Request to 'http://mall.soc.io/PrivacyPolicy' failed to reach server, check DNS and/or server status
+2018-07-05 08:39:40 -0400 - http://www.idgcsmb.com/contact/pcworld-terms-of-service/:	404 Error
+2018-07-05 08:39:41 -0400 - http://www.idgcsmb.com/contact/pcworld-privacy-policy/:	404 Error
+2018-07-05 08:39:51 -0400 - http://www.popcap.com/privacy:	Unable to find visible xpath "//body"
+2018-07-05 08:40:02 -0400 - http://www.reputation.com/privacy-policy:	Unable to find visible xpath "//div[@id='contentWrapper']"
+2018-07-05 08:40:09 -0400 - http://www.reputation.com/user-agreement:	Unable to find visible xpath "//div[@id='contentWrapper']"
+2018-07-05 08:40:27 -0400 - http://www.networkworld.com/aboutus/tos.html:	Unable to find visible xpath "//div[@id='article_copy']"
+2018-07-05 08:40:29 -0400 - http://www.whitehouse.gov/privacy/:	404 Error
+2018-07-05 08:40:34 -0400 - http://policy.heroku.com/tos:	Unable to find visible xpath "//div[@class='post-content']"
+2018-07-05 08:40:37 -0400 - http://www.cruises.co.uk/pages.php?p=privacy:	404 Error
+2018-07-05 08:40:47 -0400 - http://online.wsj.com/public/page/privacy-policy.html:	Unable to find visible xpath "//div[@class='privacyPolicyContent']"
+2018-07-05 08:40:52 -0400 - http://www.addthis.com/tos:	Unable to find visible xpath "//div[@id='maincontent']/div[@class='content-main']/div[@class='container_16']/div[@class='grid_12']"
+2018-07-05 08:41:25 -0400 - http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html:	Request to 'http://www.finishline.com/Privacy-Policy/privacy-policy,default,pg.html' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:41:28 -0400 - http://support.scribd.com/forums/33939/entries/25580:	404 Error
+2018-07-05 08:41:34 -0400 - http://www.shopjustice.com/customerService/Privacy_Policy:	Unable to find visible xpath "//div[@id='main_content']/div[@class='content']"
+2018-07-05 08:41:40 -0400 - http://www.sprint.com/legal/privacy.html?INTNAV=ATG:FT:Privacy:	Unable to find visible xpath "//div[@class='containerTwoColumnLegalRt']"
+2018-07-05 08:41:48 -0400 - http://www.mapstone.net/?page_id=13:	Unable to find visible xpath "//div[@class='entry-content']/node()[not(@class='wdfb_like_button') and not(@class='snap_nopreview sharing robots-nocontent')]"
+2018-07-05 08:41:51 -0400 - http://www.expedia.com/p/info-other/privacy-policy.htm:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 08:41:57 -0400 - http://hootsuite.com/privacy:	Unable to find visible xpath "//div[@id='page']"
+2018-07-05 08:42:02 -0400 - http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions&ab=footer_privacypolicy#policies:	Unable to find visible xpath "//td[@id='right-content']"
+2018-07-05 08:42:32 -0400 - http://www.autotrader.com/privacy.jsp:	Request to 'http://www.autotrader.com/privacy.jsp' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:43:03 -0400 - http://www.autotrader.com/visitor.jsp:	Request to 'http://www.autotrader.com/visitor.jsp' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:43:20 -0400 - http://www.telekom.de/datenschutz:	Unable to find visible xpath "//div[@class='modul4erFrame modulesBackgroundRepeatX']"
+2018-07-05 08:43:28 -0400 - http://www.adweek.com/privacy-policy:	Unable to find visible xpath "//div[@id='legal']"
+2018-07-05 08:43:35 -0400 - http://www.theblaze.com/privacy-policy/:	Unable to find visible xpath "//div[@class='two-thirds column']"
+2018-07-05 08:44:00 -0400 - http://www.exponential.com/about-us/privacy.html:	404 Error
+2018-07-05 08:44:04 -0400 - http://www.usmagazine.com/services/privacypolicy:	Unable to find visible xpath "//div[@class='ph10']"
+2018-07-05 08:44:34 -0400 - http://www.aarp.org/about-aarp/info-05-2010/terms_of_service.html:	Request to 'http://www.aarp.org/about-aarp/info-05-2010/terms_of_service.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.google-analytics.com/r/collect?v=1&_v=j68&a=1599893618&t=pageview&_s=1&dl=https%3A%2F%2Fassets.adobedtm.com%2F2755d5b313381183ec8ddef72ce582193e25b5a4%2Fscripts%2Fsatellite-5306957f772c75be9200001d.html&dr=https%3A%2F%2Fwww.aarp.org%2Fabout-aarp%2Fterms-of-service%2F&ul=en-us&de=ISO-8859-1&sd=32-bit&sr=1024x768&vp=&je=0&_u=IEBAAEQ~&jid=1187742600&gjid=548236929&cid=353294137.1530794648&tid=UA-4991397-1&_gid=884161837.1530794648&_r=1&z=1886590264,https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-4991397-1&cid=353294137.1530794648&jid=1187742600&_gid=884161837.1530794648&gjid=548236929&_v=j68&z=1886590264,https://cm.g.doubleclick.net/pixel?google_nid=adobe_dmp&google_cm,https://match.adsrvr.org/track/cmf/openx?oxid=55c33eec-0f68-3297-4d1d-e54f5a2d7e10,https://match.adsrvr.org/track/cmb/openx?oxid=55c33eec-0f68-3297-4d1d-e54f5a2d7e10,https://pix.btrll.com/partner/868092.png
+2018-07-05 08:44:37 -0400 - http://www.ulster.ac.uk/privacy/:	404 Error
+2018-07-05 08:44:40 -0400 - http://www.forever21.com/Htmls/CustomerService/en-US/privacypolicy.html:	404 Error
+2018-07-05 08:44:44 -0400 - http://www.answerbag.com/privacy/:	Unable to find visible xpath "//div[@id='Legal']"
+2018-07-05 08:45:10 -0400 - http://www.urbanoutfitters.com/urban/help/privacy_security.jsp:	Unable to find visible xpath "//div[@id='content_general']"
+2018-07-05 08:45:23 -0400 - http://www.condenast.com/services/privacy/:	Unable to find visible xpath "//div[@id='main']"
+2018-07-05 08:45:55 -0400 - http://www.clubpenguin.com/terms-of-use/en:	Unable to find visible xpath "//div[@class='field-content']"
+2018-07-05 08:46:00 -0400 - http://www.clubpenguin.com/privacy-policy/en:	Unable to find visible xpath "//div[@class='field-content']"
+2018-07-05 08:46:14 -0400 - http://www.josbank.com/menswear/shop/PrivacyPolicyView?langId=-1&storeId=11001&catalogId=10050:	Unable to find visible xpath "//div[@id='lc']/div[@class='content']"
+2018-07-05 08:46:22 -0400 - http://www.trulia.com/privacy/:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 08:46:28 -0400 - http://www.onstar.com/web/portal/termsconditions:	Unable to find visible xpath "//div[@id='onstarTerms']"
+2018-07-05 08:46:37 -0400 - http://www.webshots.com/privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:46:39 -0400 - http://www.pillsbury.com/privacy-policy:	404 Error
+2018-07-05 08:46:42 -0400 - http://www.salon.com/about/policy/:	Unable to find visible xpath "//div[@id='post-11']"
+2018-07-05 08:46:46 -0400 - http://www.realnetworks.com/privacy-policy/index.aspx:	Unable to find visible xpath "//div[@id='ctl00_phLeftChannel_pageContent']"
+2018-07-05 08:46:55 -0400 - http://www.rxlist.com/script/main/art.asp?articlekey=64474:	Unable to find visible xpath "//div[@id='textArea']"
+2018-07-05 08:47:00 -0400 - http://philanthropy.com/page/Privacy-Policy/109/:	Unable to find visible xpath "//div[@id='portal']"
+2018-07-05 08:47:04 -0400 - http://sdge.com/our-company/terms-and-conditions:	Unable to find visible xpath "//div[@id='node-230']"
+2018-07-05 08:47:10 -0400 - http://www.partycity.com/category/customer+service/privacy+%26+security.do:	Unable to find visible xpath "//div[@id='custserv-content']"
+2018-07-05 08:47:21 -0400 - http://www.opendns.com/privacy/:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 08:48:14 -0400 - http://geek.net/privacy-statement.cfm:	Unable to find visible xpath "//div[@id='bd']/div/div[@class='ndqRightDiv']"
+2018-07-05 08:48:19 -0400 - http://geek.net/terms-of-use.cfm:	Unable to find visible xpath "//div[@id='bd']/div/div[@class='ndqRightDiv']"
+2018-07-05 08:48:24 -0400 - http://www.aa.com/i18n/footer/privacyPolicy.jsp:	Unable to find visible xpath "//td[@height='10']"
+2018-07-05 08:49:00 -0400 - http://www.carmax.com/enus/privacy-policy/default.html:	Request to 'http://www.carmax.com/enus/privacy-policy/default.html' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:49:07 -0400 - http://privacy.pch.com/pchlotto-pchslots:	404 Error
+2018-07-05 08:49:11 -0400 - http://www.livingly.com/privacy-policy/:	Unable to find visible xpath "//div[@id='primary']"
+2018-07-05 08:49:41 -0400 - http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy--Cookies.html:	Request to 'http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy--Cookies.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_cm&google_sc&uid=6526953030235084051,https://geo-um.btrll.com/v1/map/1292d27a548c5efd/Wz4TyQAAAIrawANC/,https://global.ib-ibi.com/image.sbmx?go=252280&pid=368&xid=Wz4TyQAAAIrawANC,https://navdmp.com/req?prtid=17&tubid=Wz4TyQAAAIrawANC,https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6384385731055605&output=html&h=250&slotname=6971056099&adk=923007441&adf=1480696190&w=300&lmt=1530809357&guci=2.2.0.0.2.2.0&url=http%3A%2F%2Fwww.dailymail.co.uk%2Fhome%2Farticle-1388040%2FPrivacy-Policy-Cookies.html&ea=0&flash=0&wgl=0&dt=1530794957050&bpp=9&bdt=2110&fdt=10&idt=13&shv=r20180627&cbv=r20180604&saldr=sa&correlator=5438807853057&frm=23&ife=4&pv=1&ga_vid=1081127681.1530794953&ga_sid=1530794953&ga_hid=1308624886&ga_fc=1&iag=3&icsg=42&nhd=1&dssz=7&mdo=0&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&adx=690&ady=9051&biw=1024&bih=768&isw=300&ish=250&ifk=3093841263&scr_x=0&scr_y=0&eid=21061122%2C368226401&oid=3&rx=0&eae=2&fc=528&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C300%2C250&vis=1&rsz=o%7Co%7CeEbr%7C&abl=NS&ppjl=u&pfx=0&fu=20&bc=1&ifi=1&dtd=33,https://cm.g.doubleclick.net/pixel?google_nid=rubicon&google_cm&google_sc,https://match.adsrvr.org/track/cmf/rubicon,https://ib.mookie1.com/image.sbmx?go=252280&pid=368&xid=Wz4TyQAAAIrawANC
+2018-07-05 08:49:45 -0400 - http://www.bbb.org/us/privacy-policy/:	404 Error
+2018-07-05 08:49:52 -0400 - http://www.coach.com/online/handbags/genWCM-10551-10051-en-/Coach_US/SecurityAndPrivacy/?LOC=BN:	Unable to find visible xpath "//div[@id='static_content_padding']"
+2018-07-05 08:49:58 -0400 - http://privacy.tribune.com/:	Request to 'http://privacy.tribune.com/' failed to reach server, check DNS and/or server status
+2018-07-05 08:50:07 -0400 - http://www.timewarnercable.com/en/about-us/legal/privacy-policy.html:	Unable to find visible xpath "//div[@class='wrap']/div[@class='content-list']"
+2018-07-05 08:50:13 -0400 - http://www.timewarnercable.com/en/about-us/legal/terms-conditions-policies/subscriber-agreement-english.html:	Unable to find visible xpath "//div[@class='job-benefits']"
+2018-07-05 08:50:19 -0400 - http://www.opencongress.org/about/terms_of_service:	404 Error
+2018-07-05 08:50:32 -0400 - http://agb.web.de/Datenschutzerklaerung/AGB/20120801/:	Unable to find visible xpath "//center/table[@width='480']"
+2018-07-05 08:50:36 -0400 - http://agb.web.de/WEB.DE/AGB/20120801/:	Unable to find visible xpath "//center/table[@width='480']"
+2018-07-05 08:50:44 -0400 - http://www.squidoo.com/squidoo/65355501-Terms-of-Service:	Unable to find visible xpath "//div[@id='left_col']/article[@class='lens']/node()[not(contains(@class,'adsense')) and not(@id='lens_header')]"
+2018-07-05 08:50:55 -0400 - http://www.zedo.com/company/privacy.htm:	Unable to find visible xpath "//div[@class='postarea']"
+2018-07-05 08:50:56 -0400 - http://www.pronto.com/help/legal/policy.do:	404 Error
+2018-07-05 08:51:07 -0400 - http://www.intellicast.com/About/Privacy.aspx:	There was an error inside the PhantomJS portion of Poltergeist. If this is the error returned, and not the cause of a more detailed error response, this is probably a bug, so please report it. 
+
+Poltergeist.BrowserError: TypeError: null is not an object (evaluating 'style.display')
+isVisible@phantomjs://code/agent.js:417:16
+nodeCall@phantomjs://code/agent.js:90:28
+externalCall@phantomjs://code/agent.js:15:32
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+evaluate@phantomjs://code/web_page.js:567:54
+runCommand@phantomjs://code/web_page.js:601:27
+phantomjs://code/web_page.js:48:29
+phantomjs://code/node.js:22:32
+visible@phantomjs://code/browser.js:244:78
+runCommand@phantomjs://code/browser.js:89:36
+run@phantomjs://code/cmd.js:35:37
+runCommand@phantomjs://code/main.js:17:81
+commandReceived@phantomjs://code/connection.js:17:33
+phantomjs://code/connection.js:1:64
+2018-07-05 08:51:13 -0400 - http://www.mun2.tv/privacy-policy:	Unable to find visible xpath "//div[@id='block-system-main']"
+2018-07-05 08:51:17 -0400 - http://www.markosweb.com/policy/:	Unable to find visible xpath "//div[@id='column_right']"
+2018-07-05 08:51:47 -0400 - http://www.hollisterco.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10201&storeId=11205&langId=-1&textKey=HELP_PRIVACYPOLICY&pageName=privacy:	Request to 'http://www.hollisterco.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10201&storeId=11205&langId=-1&textKey=HELP_PRIVACYPOLICY&pageName=privacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:51:48 -0400 - http://privacy.microsoft.com/en-us/default.mspx:	404 Error
+2018-07-05 08:52:04 -0400 - http://www.bmwusa.com/Standard/Content/PrivacyPolicy/:	Unable to find visible xpath "//div[@id='T61BodyTextContainer2']"
+2018-07-05 08:52:08 -0400 - http://onlineshoes.custhelp.com/cgi-bin/onlineshoes.cfg/php/enduser/std_adp.php?p_faqid=55:	Request to 'http://onlineshoes.custhelp.com/cgi-bin/onlineshoes.cfg/php/enduser/std_adp.php?p_faqid=55' failed to reach server, check DNS and/or server status
+2018-07-05 08:52:54 -0400 - http://www.providecommerce.com/privacy.aspx:	Request to 'http://www.providecommerce.com/privacy.aspx' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:53:00 -0400 - http://www.jetsetter.com/privacy:	Unable to find visible xpath "//div[@id='com-left']"
+2018-07-05 08:53:22 -0400 - http://www.consumerreports.org/cro/customer-service/online-privacy-policy/index.htm:	404 Error
+2018-07-05 08:53:54 -0400 - http://www.putlocker.com/page.php?privacy:	Request to 'http://www.putlocker.com/page.php?privacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 08:53:56 -0400 - http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html:	bad URI(is not URI?): http://www.travelocity.com/info/info_window/0,,TRAVELOCITY|PRIVACY_WINDOW,00.html
+2018-07-05 08:54:05 -0400 - http://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html:	Unable to find visible xpath "//div[@id='mainBodyArea']"
+2018-07-05 08:54:10 -0400 - http://www.pocruises.com/legalprivacy/:	404 Error
+2018-07-05 08:54:17 -0400 - http://www.zales.com/helpdesk/index.jsp?display=safety&subdisplay=privacy:	Unable to find visible xpath "//div[@id='helpdeskText']"
+2018-07-05 08:54:24 -0400 - http://www.softpedia.com/user/privacy.shtml:	Unable to find visible xpath "//span[@id='intelliTxt']"
+2018-07-05 08:54:57 -0400 - https://customerservice.macys.com/app/answers/detail/a_id/595:	Request to 'https://customerservice.macys.com/app/answers/detail/a_id/595' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.macys.com/javascript/VisitorAPI.js,https://www.macys.com/javascript/at_9_3.js,https://www.macys.com/images/icons/mcom-sprite-large.png,https://www.macys.com/xapi/navigate/v1/footer?_regionCode=US&_shoppingMode=SITE&_deviceType=desktop,https://www.macys.com/xapi/navigate/v1/header?_regionCode=US&_shoppingMode=SITE&_deviceType=DESKTOP&viewType=Clean
+2018-07-05 08:55:06 -0400 - http://www.6pm.com/privacy-policy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:55:11 -0400 - http://pjmedia.com/privacy-policy/:	Unable to find visible xpath "//div[@id='page']"
+2018-07-05 08:55:18 -0400 - http://www.argos.co.uk/static/StaticDisplay/includeName/privacyPolicy.htm:	Unable to find visible xpath "//div[@id='staticContentMain']"
+2018-07-05 08:55:24 -0400 - http://www.komando.com/privacy.aspx:	Unable to find visible xpath "//span[@id='PrivacyContent']"
+2018-07-05 08:55:36 -0400 - http://www.wayfair.com/customerservice/general_info.php#privacy:	Unable to find visible xpath "//div[@class='yui-g answers']"
+2018-07-05 08:55:40 -0400 - https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=TermsConditions:	Unable to find visible xpath "//div[@id='TandC_page']"
+2018-07-05 08:55:43 -0400 - http://www.irs.gov/uac/IRS-Privacy-Policy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:55:48 -0400 - http://www.theatlantic.com/privacy-policy/:	Unable to find visible xpath "//div[@class='pageContent']"
+2018-07-05 08:55:54 -0400 - http://privacy.microsoft.com/FR-FR/fullnotice.mspx:	404 Error
+2018-07-05 08:56:01 -0400 - http://www.cruise.co.uk/cruise-guides/Privacy/:	Unable to find visible xpath "//div[@class='pages']"
+2018-07-05 08:56:08 -0400 - http://www.cruise.co.uk/cruise-guides/Terms-and-Conditions/:	Unable to find visible xpath "//div[@class='pages']"
+2018-07-05 08:56:24 -0400 - http://www.examiner.com/privacy_policy:	Unable to find visible xpath "//div[@property='schema:articleBody content:encoded']"
+2018-07-05 08:56:28 -0400 - http://www.groupon.com/privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 08:56:30 -0400 - http://rachaelray.com/privacy.php:	404 Error
+2018-07-05 08:56:36 -0400 - http://www.babycenter.com/help-privacy:	Unable to find visible xpath "//div[@class='centerColInner LPHeroBody']"
+2018-07-05 08:56:40 -0400 - http://www.babycenter.com/help-aboutus-terms:	Unable to find visible xpath "//div[@class='centerColInner LPHeroBody']"
+2018-07-05 08:56:44 -0400 - http://phonedeck.com/Legal/Privacy:	Request to 'http://phonedeck.com/Legal/Privacy' failed to reach server, check DNS and/or server status
+2018-07-05 08:56:48 -0400 - http://www.sierratradingpost.com/lp2/policies/#privacypolicy:	Unable to find visible xpath "//div[@class='g12 o content right']"
+2018-07-05 08:56:51 -0400 - http://www.ebaycommercenetwork.com/privacy-policy:	Unable to find visible xpath "//div[@class='text-block']/article/node()"
+2018-07-05 08:56:55 -0400 - http://www.ebaycommercenetwork.com/user-agreement:	Unable to find visible xpath "//div[@class='text-block']/article/node()"
+2018-07-05 08:57:02 -0400 - http://ww2.justanswer.com/privacy-security:	Unable to find visible xpath "//div[@id='content-area']"
+2018-07-05 08:57:06 -0400 - http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy:	404 Error
+2018-07-05 08:57:11 -0400 - http://adage.com/privacy:	Unable to find visible xpath "//div[@id='main']/div[@class='row']"
+2018-07-05 08:57:12 -0400 - http://www.reference.com/help/privacy.html:	404 Error
+2018-07-05 08:57:21 -0400 - http://www.adn.com/privacy_policy/:	404 Error
+2018-07-05 08:57:54 -0400 - http://www.buy.com/corp/privacy_policy_complete.asp:	Request to 'http://www.buy.com/corp/privacy_policy_complete.asp' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://www.rakuten.com/corp/privacy_policy_complete.asp
+2018-07-05 08:58:02 -0400 - http://www.hallmark.com/privacy/:	Unable to find visible xpath "//div[@class='wysiwyg grid-10']"
+2018-07-05 08:58:12 -0400 - http://www.kbb.com/company/privacy-policy/:	Unable to find visible xpath "//div[@class='grid-12']"
+2018-07-05 08:58:18 -0400 - http://www.kbb.com/company/terms-of-service/:	Unable to find visible xpath "//div[@class='grid-12']"
+2018-07-05 08:58:30 -0400 - http://www.legacy.com/NS/privacypolicy.aspx:	Unable to find visible xpath "//span[@id='ctl00_ctl00_MainContent_Content_PrivacyPolicyContentHtml']"
+2018-07-05 08:58:34 -0400 - http://www.healthline.com/health/privacy-policy:	Unable to find visible xpath "//div[@class='article-body c']"
+2018-07-05 08:58:38 -0400 - http://www.healthline.com/health/terms-of-use:	Unable to find visible xpath "//div[@class='article-body c']"
+2018-07-05 08:58:50 -0400 - http://www.bravotv.com/privacy-policy:	Unable to find visible xpath "//div[@id='content-page']"
+2018-07-05 08:58:54 -0400 - http://www.vcstar.com/privacy/:	Unable to find visible xpath "//div[@id='flatpage_content']"
+2018-07-05 08:59:11 -0400 - http://infospace.com/support/privacypolicy:	404 Error
+2018-07-05 08:59:23 -0400 - http://www.cheaptickets.com/pagedef/content/legal/privacy05.jsp?popupsDisabled=false:	404 Error
+2018-07-05 08:59:27 -0400 - http://privacy.aol.com/privacy-policy/:	Unable to find visible xpath "//div[@id='article']"
+2018-07-05 08:59:31 -0400 - http://legal.aol.com/terms-of-service/full-terms/:	Unable to find visible xpath "//div[@id='article']"
+2018-07-05 08:59:34 -0400 - http://www.shoplocal.com/termsandconditions.aspx:	Unable to find visible xpath "//div[@id='sl_container_all']/div[1]"
+2018-07-05 08:59:45 -0400 - http://www.einsurance.com/info/privacy/:	Unable to find visible xpath "//div[@id='part2']"
+2018-07-05 08:59:50 -0400 - http://gigaom.com/privacy-policy/:	Unable to find visible xpath "//div[@id='postloop-35']"
+2018-07-05 08:59:55 -0400 - http://gigaom.com/terms-of-service/:	Unable to find visible xpath "//div[@id='post-content-449084']"
+2018-07-05 08:59:59 -0400 - http://www.rackspace.com/information/legal/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:03 -0400 - http://www.rackspace.com/information/legal/global/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:08 -0400 - http://www.rackspace.com/information/legal/pt/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:13 -0400 - http://www.rackspace.com/information/legal/es/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:16 -0400 - http://www.rackspace.com/information/legal/cn/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:20 -0400 - http://www.rackspace.com/information/legal/nl/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:24 -0400 - http://www.rackspace.com/information/legal/de/aup:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:29 -0400 - http://www.rackspace.com/information/legal/privacystatement:	Unable to find visible xpath "//div[@id='content-main']"
+2018-07-05 09:00:36 -0400 - http://turnitin.com/static/aboutus/usage.php:	Unable to find visible xpath "//div[@id='system']"
+2018-07-05 09:00:38 -0400 - http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page:	Request to 'http://shop.sixdegreesrecords.com/app?page=PrivacyPolicy&service=page' failed to reach server, check DNS and/or server status
+2018-07-05 09:01:09 -0400 - http://www.fisher-price.com/us/privacy.asp:	Request to 'http://www.fisher-price.com/us/privacy.asp' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://user.mattel.com/api/token/emailsignupclienttoken,https://tracker.mattel.com/cmgametracker.js,https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-44899015-6&cid=484139295.1530795644&jid=270355057&_gid=511621597.1530795644&gjid=531898074&_v=j68&z=274287136
+2018-07-05 09:01:12 -0400 - http://www.meredith.com/privacy.html:	Unable to find visible xpath "//td[@width='100%']"
+2018-07-05 09:01:42 -0400 - http://www.fastcompany.com/about/privacy.html:	Request to 'http://www.fastcompany.com/about/privacy.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://pix.btrll.com/partner/868092.png
+2018-07-05 09:01:48 -0400 - http://geek.net/privacy-statement.cfm:	Unable to find visible xpath "//div[@id='bd']/div/div[@class='ndqRightDiv']"
+2018-07-05 09:01:59 -0400 - http://geek.net/terms-of-use.cfm:	Unable to find visible xpath "//div[@id='bd']/div/div[@class='ndqRightDiv']"
+2018-07-05 09:02:05 -0400 - http://www.thenorthface.com/en_US/contact-us/legal-notices-and-privacy-policy/:	Unable to find visible xpath "//div[@id='region_content-main']"
+2018-07-05 09:02:42 -0400 - http://www.champssports.com/customerserv/help:privacyPolicy/:	Request to 'http://www.champssports.com/customerserv/help:privacyPolicy/' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:02:50 -0400 - http://www.rollingstone.com/services/privacypolicy:	Unable to find visible xpath "//div[@id='col1']"
+2018-07-05 09:02:54 -0400 - http://www.primarygames.com/privacy.htm:	Unable to find visible xpath "//table[@id='table5']"
+2018-07-05 09:02:57 -0400 - http://www.kohls.com/upgrade/webstore/security_privacy.jsp:	404 Error
+2018-07-05 09:03:01 -0400 - http://www.nbc.com/privacy-policy/:	Unable to find visible xpath "//div[@id='primary-content']"
+2018-07-05 09:03:03 -0400 - http://www.nbc.com/privacy-policy/terms-of-service/:	404 Error
+2018-07-05 09:03:05 -0400 - http://www.nbc.com/privacy-policy/terms-of-service/2/:	404 Error
+2018-07-05 09:03:08 -0400 - http://www.nbc.com/privacy-policy/terms-of-service/3/:	404 Error
+2018-07-05 09:03:10 -0400 - http://www.gather.com/privacy.jsp:	404 Error
+2018-07-05 09:03:16 -0400 - http://www.redding.com/privacy/:	Unable to find visible xpath "//div[@id='primary_content']"
+2018-07-05 09:03:21 -0400 - http://www.rei.com/help/privacy.html:	Unable to find visible xpath "//section[@class='grid18']"
+2018-07-05 09:03:27 -0400 - http://www.nwf.org/Privacy-Policy.aspx:	Unable to find visible xpath "//div[@id='content_0_pnlCenterColumn']/node()[not(@id='content_0_maincontent_0_ctlEmailSharePrint_pnlSharing')]"
+2018-07-05 09:03:32 -0400 - http://www.nwf.org/Terms-of-Use.aspx:	Unable to find visible xpath "//div[@id='content_0_pnlCenterColumn']/node()[not(@id='content_0_maincontent_0_ctlEmailSharePrint_pnlSharing')]"
+2018-07-05 09:03:37 -0400 - http://www.golfchannel.com/about/privacy-policy/:	Unable to find visible xpath "//div[@id='articleContent']"
+2018-07-05 09:03:42 -0400 - http://www.kraftrecipes.com/about/PrivacyNotice.aspx:	Unable to find visible xpath "//div[@id='contentFull']"
+2018-07-05 09:03:56 -0400 - http://freeonlinegames.com/privacy/:	There was an error inside the PhantomJS portion of Poltergeist. If this is the error returned, and not the cause of a more detailed error response, this is probably a bug, so please report it. 
+
+Poltergeist.BrowserError: TypeError: null is not an object (evaluating 'style.display')
+isVisible@phantomjs://code/agent.js:417:16
+nodeCall@phantomjs://code/agent.js:90:28
+externalCall@phantomjs://code/agent.js:15:32
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+evaluate@phantomjs://code/web_page.js:567:54
+runCommand@phantomjs://code/web_page.js:601:27
+phantomjs://code/web_page.js:48:29
+phantomjs://code/node.js:22:32
+visible@phantomjs://code/browser.js:244:78
+runCommand@phantomjs://code/browser.js:89:36
+run@phantomjs://code/cmd.js:35:37
+runCommand@phantomjs://code/main.js:17:81
+commandReceived@phantomjs://code/connection.js:17:33
+phantomjs://code/connection.js:1:64
+2018-07-05 09:04:07 -0400 - http://www.homedecorators.com/Privacy/:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:04:16 -0400 - http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html:	Request to 'http://www.sprintpcs.com/common/popups/popLegalTermsPrivacy.html' failed to reach server, check DNS and/or server status
+2018-07-05 09:04:21 -0400 - http://pepsico.com/Privacy-Policy.html:	404 Error
+2018-07-05 09:04:31 -0400 - https://clients.cdiscount.com/Simple/Cgv.aspx:	Unable to find visible xpath "//div[@class='stdPageContent stdInfoPageContent']"
+2018-07-05 09:04:33 -0400 - http://privacy.microsoft.com/en-us/fullnotice.mspx:	404 Error
+2018-07-05 09:04:41 -0400 - http://www.autopartswarehouse.com/privacy/:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:04:46 -0400 - http://www.conduit.com/privacy/WebsitePrivacy.aspx:	Unable to find visible xpath "//div[@class='mainBodyMask']/div[@class='content']"
+2018-07-05 09:04:51 -0400 - http://privacy.microsoft.com/pt-br/fullnotice.mspx#communication:	404 Error
+2018-07-05 09:04:56 -0400 - http://www.everlane.com/privacy:	Unable to find visible xpath "//div[@class='column grid_12']"
+2018-07-05 09:05:00 -0400 - http://www.warnerbros.com/privacy/policy.html:	Unable to find visible xpath "//div[@class='bodycontent']/div[3]"
+2018-07-05 09:05:30 -0400 - http://forums.informe.com/TermsOfService.html:	Request to 'http://forums.informe.com/TermsOfService.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://66.29.38.208/log.jsp?siteid=8&rand=32059
+2018-07-05 09:06:03 -0400 - http://www.boston.com/help/privacy_policy/?p1=Foot_ContactBostonCom_PrivacyPolicy:	Request to 'http://www.boston.com/help/privacy_policy/?p1=Foot_ContactBostonCom_PrivacyPolicy' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://privacy-policy.truste.com/privacy-seal/Boston-Globe/asc?rid=de94e12d-b3ae-4b11-8cea-b29b4c8182d8
+2018-07-05 09:06:08 -0400 - http://www.nbcuni.com/terms/:	Unable to find visible xpath "//div[@id='post-43']"
+2018-07-05 09:06:12 -0400 - http://www.travelzoo.com/privacy/:	Unable to find visible xpath "//div[@class='leftCol rightBodyColumn']"
+2018-07-05 09:06:46 -0400 - http://www.accuweather.com/en/privacy:	Request to 'http://www.accuweather.com/en/privacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:06:47 -0400 - http://privacy.microsoft.com/en-us/fullnotice.mspx:	404 Error
+2018-07-05 09:07:09 -0400 - http://www.etsy.com/help/article/1262:	Unable to find visible xpath "//div[@id='article']"
+2018-07-05 09:07:31 -0400 - http://www.t-online.de/datenschutz-bei-t-online-de/id_12718440/index:	Unable to find visible xpath "//div[@class='Tart']/node()[not(@class='Tfkto') and not(@class='Tfktu')]"
+2018-07-05 09:08:03 -0400 - http://www.urbanspoon.com/privacy:	Request to 'http://www.urbanspoon.com/privacy' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.zomato.com/privacy
+2018-07-05 09:08:34 -0400 - http://www.urbanspoon.com/tos:	Request to 'http://www.urbanspoon.com/tos' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.zomato.com/tos
+2018-07-05 09:08:38 -0400 - http://www.alot.com/privacy-policy:	Unable to find visible xpath "//div[@class='podBody']"
+2018-07-05 09:08:42 -0400 - http://byliner.com/about/privacy:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 09:08:52 -0400 - http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx:	Unable to find visible xpath "//div[@id='pnlInnerWrapper']"
+2018-07-05 09:08:57 -0400 - http://www.cnbc.com/id/100000959/print:	Unable to find visible xpath "//div[@class='story']"
+2018-07-05 09:09:02 -0400 - http://www.cnbc.com/id/15837353/print:	404 Error
+2018-07-05 09:09:21 -0400 - http://www.scottrade.com/disclosures/privacy.html:	Unable to find visible xpath "//div[@id='main-column']"
+2018-07-05 09:09:51 -0400 - http://www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c?id=pcmcat204400050062:	Request to 'http://www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c?id=pcmcat204400050062' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:09:57 -0400 - http://www.weightwatchers.com/legal/privacy.aspx:	Unable to find visible xpath "//div[@id='holder']"
+2018-07-05 09:10:16 -0400 - http://www.nypost.com/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN:	Unable to find visible xpath "//div[@id='lt-col-wrap']"
+2018-07-05 09:10:20 -0400 - https://help.overstock.com/app/answers/detail/a_id/65:	Unable to find visible xpath "//div[@id='rn_AnswerText']"
+2018-07-05 09:10:26 -0400 - http://www.bikeexif.com/privacy-policy:	Unable to find visible xpath "//div[@id='post-5636']"
+2018-07-05 09:10:34 -0400 - https://www.cbsinteractive.com/legal/cbsi/privacy-policy:	Unable to find visible xpath "//div[@id='main_content']"
+2018-07-05 09:10:43 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:10:45 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:10:47 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:10:51 -0400 - http://gmx.com/privacy.html;jsessionid=D8647BF61300F47E8F72C8040B3151A8.jport-eu001:	Unable to find visible xpath "//div[@class='ColumnMain']"
+2018-07-05 09:10:58 -0400 - http://www.dickssportinggoods.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&ab=Footer_Know_PrivacyPolicy:	Unable to find visible xpath "//table[@class='helpDesk']/tr/td[3]/div/smpanel/table/tr/td"
+2018-07-05 09:11:01 -0400 - http://www.nps.gov/privacy.htm:	Unable to find visible xpath "//div[@id='cs_control_275207']"
+2018-07-05 09:11:07 -0400 - http://www.accesshollywood.com/privacy-policy:	404 Error
+2018-07-05 09:11:10 -0400 - http://www.boardgamegeek.com/privacy:	Unable to find visible xpath "//div[@id='toc0']"
+2018-07-05 09:11:18 -0400 - http://www.manta.com/coms2/page_terms_conditions_privacy:	Unable to find visible xpath "//div[@id='tab5']"
+2018-07-05 09:11:25 -0400 - http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html:	Unable to find visible xpath "//div[@id='datenschutz']"
+2018-07-05 09:11:43 -0400 - http://us.gateway.com/gw/en/US/content/privacy-policy:	Unable to find visible xpath "//div[@class='info-chunks']"
+2018-07-05 09:12:06 -0400 - http://www.politico.com/privacy/:	Unable to find visible xpath "//div[@id='mainContent']"
+2018-07-05 09:12:11 -0400 - http://www.weebly.com/privacy/:	Unable to find visible xpath "//div[@class='inner-content']"
+2018-07-05 09:12:16 -0400 - http://www.weebly.com/terms-of-service/:	Unable to find visible xpath "//div[@class='boxed-content']"
+2018-07-05 09:12:20 -0400 - http://www.drugs.com/support/privacy.html:	Ambiguous match, found 102 elements matching visible xpath "//div[@id='content']/div[@class='contentBox']/*[not(@id='first_ad_unit')]"
+2018-07-05 09:12:34 -0400 - http://corporate.disney.go.com/corporate/pp.html:	Unable to find visible xpath "//div[@id='TERMS']"
+2018-07-05 09:12:37 -0400 - http://corporate.disney.go.com/corporate/terms.html:	Unable to find visible xpath "//div[@id='TERMS']"
+2018-07-05 09:12:41 -0400 - http://www.shopathome.com/privacy-policy.aspx:	Unable to find visible xpath "//div[@class='PrimaryContent']"
+2018-07-05 09:12:49 -0400 - http://myoffers.co.uk/privacy_statement.aspx:	Unable to find visible xpath "//div[@class='panel-container']"
+2018-07-05 09:12:53 -0400 - http://www.bluefly.com/custom/custom.jsp?promoId=m1930248:	Unable to find visible xpath "//div[@class='help_text']"
+2018-07-05 09:13:00 -0400 - http://www.wunderground.com/members/tos.asp:	PhantomJS client died while processing {"id":"dbf645ae-3f32-4c20-bc80-588e44803f3a","name":"visit","args":["http://www.wunderground.com/members/tos.asp",30]}
+2018-07-05 09:13:08 -0400 - http://corporate.walmart.com/privacy-security/walmart-privacy-policy:	Unable to find visible xpath "//div[@class='bodyContent']"
+2018-07-05 09:13:11 -0400 - http://www.amtrak.com/servlet/ContentServer?c=Page&pagename=am%2FLayout&cid=1241305463068:	Unable to find visible xpath "//div[@id='content_body']"
+2018-07-05 09:13:14 -0400 - http://www.amtrak.com/servlet/ContentServer?c=Page&pagename=am%2FLayout&cid=1241305463061:	Unable to find visible xpath "//div[@id='content_body']"
+2018-07-05 09:13:20 -0400 - http://www.uncommongoods.com/static/faqsPrivacy.jsp:	404 Error
+2018-07-05 09:13:27 -0400 - http://www.newegg.com/HelpInfo/PrivacySecurity.aspx:	Unable to find visible xpath "//div[@class='policySpacing']"
+2018-07-05 09:13:37 -0400 - http://www.homes.com/Policies/:	Unable to find visible xpath "//div[@id='left']"
+2018-07-05 09:13:40 -0400 - http://consumerist.com/privacy-policy-2/:	Unable to find visible xpath "//div[@class='entry-content']/node()[not(@id='jp-post-flair')]"
+2018-07-05 09:13:46 -0400 - http://consumerist.com/user-agreement/:	Unable to find visible xpath "//div[@class='entry-content']/node()[not(@id='jp-post-flair')]"
+2018-07-05 09:14:19 -0400 - http://www.tiffany.com/Service/policy_vis.aspx?isMenu=1&:	Request to 'http://www.tiffany.com/Service/policy_vis.aspx?isMenu=1&' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.tiffany.com/shared/images/icons/close.png,https://www.tiffany.com/shared/images/header/magnify-glass-retina.png,https://www.tiffany.com/shared/Fonts/AvenirNextMedium.woff
+2018-07-05 09:14:30 -0400 - https://www.sugarsync.com/privacy.html:	Unable to find visible xpath "//div[@id='content-body']"
+2018-07-05 09:14:31 -0400 - http://www.coca-cola.com/webstore/en_US/template1/privacy_policy_en_US.html?WT.cl=1%20&WT.mm=footer7-privacy-red_en_US:	404 Error
+2018-07-05 09:14:40 -0400 - http://www.nick.com/info/privacy-policy.html:	Unable to find visible xpath "//div[@id='content-columns']"
+2018-07-05 09:14:45 -0400 - http://www.cheapflights.com/privacy/:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:14:50 -0400 - http://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security:	Unable to find visible xpath "//div[@id='main_body']"
+2018-07-05 09:14:54 -0400 - http://www.break.com/corp/privacy/:	Unable to find visible xpath "//article[@class='c12 legal']"
+2018-07-05 09:14:58 -0400 - http://www.yardbarker.com/account/privacy:	Unable to find visible xpath "//div[@class='rtwlm']"
+2018-07-05 09:15:28 -0400 - http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp:	Request to 'http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:15:58 -0400 - http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms:	Request to 'http://www.ticketmaster.com/h/terms.html?tm_link=tm_homeA_i_terms' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:16:03 -0400 - http://www.underarmour.com/shop/us/en/customer-service/security-and-privacy-policy:	Unable to find visible xpath "//div[@style='float:left']"
+2018-07-05 09:16:34 -0400 - http://www.adidas.com/us/content/privacypolicies:	Request to 'http://www.adidas.com/us/content/privacypolicies' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:16:44 -0400 - http://www.over-blog.com/reglement.php:	Unable to find visible xpath "//div[@class='main']"
+2018-07-05 09:16:50 -0400 - http://www.metacafe.com/privacy:	Unable to find visible xpath "//div[@id='Content']"
+2018-07-05 09:16:52 -0400 - http://womu.alexanderstreet.com/help/view/terms_of_use:	404 Error
+2018-07-05 09:17:09 -0400 - http://www.suntimes.com/aboutus/privacypolicy/index.html:	Unable to find visible xpath "//div[@id='primary-content']"
+2018-07-05 09:17:26 -0400 - http://www.kay.com/ContentView?catalogId=10001&langId=-1&storeId=10101&cmsId=privacy-policy:	Unable to find visible xpath "//div[@id='tab1']"
+2018-07-05 09:17:34 -0400 - http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html:	Unable to find visible xpath "//div[@id='contentWrapper']//div[@class='content s7 article']"
+2018-07-05 09:17:40 -0400 - http://legal.kinja.com/privacy-policy-90190742:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 09:17:47 -0400 - http://legal.kinja.com/kinja-terms-of-use-90161644:	Unable to find visible xpath "//div[@class='row post-content']"
+2018-07-05 09:17:51 -0400 - http://www.liveleak.com/privacy:	Unable to find visible xpath "//div[@id='content_box']"
+2018-07-05 09:18:00 -0400 - http://www.csmonitor.com/About/Privacy-Policy:	Unable to find visible xpath "//div[@id='mainColumn']"
+2018-07-05 09:18:09 -0400 - http://www.michaels.com/Privacy-Policy/privacyPolicy,default,pg.html:	Unable to find visible xpath "//div[@id='privacy-sections']/node()[not(@id='tofc-section')]"
+2018-07-05 09:18:39 -0400 - http://www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx:	Request to 'http://www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.petco.com/wcsstore/PetcoStore/css/styles-vf4794dc68904cbfcc238974e763c5b82.css,https://www.petco.com/wcsstore/dojo18/dojo/dojo.js,https://www.petco.com/wcsstore/dojo18/dojo/dojodesktop-rwd.js,https://www.petco.com/wcsstore/PetcoSAS/javascript/petco/petco.combined-vd3854026576f199432c594b585ac031d.js,https://www.petco.com/wcsstore/PetcoSAS/images/loading.gif,https://www.petco.com/wcsstore/PetcoStore/img/brand-logo.png,https://www.petco.com/wcsstore/PetcoSAS/images/miniloading.gif,https://www.petco.com/_bm/bd-1-30,https://www.petco.com/wcsstore/PetcoStore/img/close_icon.png
+2018-07-05 09:18:40 -0400 - http://www.about.com/gi/pages/mprivacy.htm:	404 Error
+2018-07-05 09:18:43 -0400 - http://imageshack.us/p/privacy/:	Unable to find visible xpath "//div[@id='container']"
+2018-07-05 09:18:47 -0400 - http://imageshack.us/p/rules/:	Unable to find visible xpath "//div[@id='container']"
+2018-07-05 09:18:55 -0400 - http://photobucket.com/privacy:	Unable to find visible xpath "//div[@id='privacyPolicyContent']"
+2018-07-05 09:19:00 -0400 - http://photobucket.com/terms:	Unable to find visible xpath "//div[@id='termsContainer']"
+2018-07-05 09:19:04 -0400 - http://info.yahoo.com/privacy/de/yahoo/details.html:	Unable to find visible xpath "//div[@id='pp-content1']"
+2018-07-05 09:19:21 -0400 - http://thehill.com/privacy-policy:	Unable to find visible xpath "//div[@id='el-article-div']"
+2018-07-05 09:19:35 -0400 - http://www.curves.com/privacy-policy/:	Unable to find visible xpath "//div[@id='content_padding']"
+2018-07-05 09:19:45 -0400 - http://www.quakelive.com/legals/privacy_policy:	404 Error
+2018-07-05 09:19:45 -0400 - http://www.quakelive.com/legals/eula:	404 Error
+2018-07-05 09:19:46 -0400 - http://www.quakelive.com/legals/terms_of_use:	404 Error
+2018-07-05 09:19:47 -0400 - http://www.quakelive.com/legals/notices:	404 Error
+2018-07-05 09:19:51 -0400 - http://xhamster.com/privacy.php:	Unable to find visible xpath "//td[@class='list']"
+2018-07-05 09:19:56 -0400 - http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy:	Unable to find visible xpath "//div[@class='floatright']"
+2018-07-05 09:20:00 -0400 - http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=termsandconditions:	Unable to find visible xpath "//div[@class='toc']"
+2018-07-05 09:20:10 -0400 - http://www.grainger.com/Grainger/static/help_privacypol.html:	Unable to find visible xpath "//div[@id='contentCenter']"
+2018-07-05 09:20:24 -0400 - http://www.speeddate.com/apps/site/views/mp/privacypolicy.php:	404 Error
+2018-07-05 09:20:29 -0400 - http://www.everydayhealth.com/privacy-policy.aspx:	Unable to find visible xpath "//div[@id='printinner']"
+2018-07-05 09:20:37 -0400 - http://www.symantec.com/about/profile/policies/privacy.jsp:	Unable to find visible xpath "//div[@class='bckPadMedium']"
+2018-07-05 09:20:41 -0400 - https://www.dashlane.com/terms:	Unable to find visible xpath "//div[@id='box-white']"
+2018-07-05 09:20:45 -0400 - https://www.dashlane.com/privacy:	Unable to find visible xpath "//div[@id='box-white']"
+2018-07-05 09:20:46 -0400 - https://www.freefilefillableforms.com/fff/html/Terms_of_Service/FED.htm:	404 Error
+2018-07-05 09:20:48 -0400 - http://geeknetmedia.com/privacy-statement/:	404 Error
+2018-07-05 09:21:19 -0400 - http://www.abercrombie.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10901&storeId=11203&langId=-1&textKey=HELP_PRIVACYPOLICY&pageName=privacy:	Request to 'http://www.abercrombie.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10901&storeId=11203&langId=-1&textKey=HELP_PRIVACYPOLICY&pageName=privacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:21:27 -0400 - http://www.drjays.com/content/customerservice/privacy_policy.html:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 09:21:32 -0400 - http://www.gutefrage.net/agb:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:21:39 -0400 - http://www.reddit.com/help/privacypolicy:	Unable to find visible xpath "//div[@class='content policy-page']/div[@class='md wiki']"
+2018-07-05 09:21:42 -0400 - http://www.reddit.com/help/useragreement:	Unable to find visible xpath "//div[@class='content policy-page']/div[@class='md wiki']"
+2018-07-05 09:22:14 -0400 - http://www.docstoc.com/Pages/Static.aspx?page_id=22:	Request to 'http://www.docstoc.com/Pages/Static.aspx?page_id=22' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://www.docstoc.com/Pages/Static.aspx?page_id=22
+2018-07-05 09:22:23 -0400 - http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=14175119:	404 Error
+2018-07-05 09:23:01 -0400 - http://www.retailmenot.com/static/privacy/:	Request to 'http://www.retailmenot.com/static/privacy/' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:23:04 -0400 - http://www.centerforinquiry.net/legal/terms:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:23:08 -0400 - http://www.shoebuy.com/customer/privacy.jsp:	Unable to find visible xpath "//td[@id='content']"
+2018-07-05 09:23:13 -0400 - http://www.pwc.com/gx/en/site-information/index.jhtml:	Unable to find visible xpath "//div[@id='center']"
+2018-07-05 09:23:23 -0400 - https://www.cableone.net/Pages/Legal.aspx:	undefined method `map' for nil:NilClass
+Did you mean?  tap
+2018-07-05 09:23:26 -0400 - http://www.cableone.net/Pages/internetaup.aspx:	undefined method `map' for nil:NilClass
+Did you mean?  tap
+2018-07-05 09:23:31 -0400 - http://www.modcloth.com/help/privacy:	Unable to find visible xpath "//div[@id='cms-content']"
+2018-07-05 09:23:37 -0400 - http://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=502584:	Unable to find visible xpath "//td[@class='center-col']"
+2018-07-05 09:23:45 -0400 - http://www.medicinenet.com/script/main/art.asp?articlekey=12507:	Unable to find visible xpath "//div[@id='TopOfContent']/article/table"
+2018-07-05 09:23:56 -0400 - http://www.salemwebnetwork.com/our-brands/privacy-policy/:	Unable to find visible xpath "//div[@class='entry clearfix post']"
+2018-07-05 09:24:05 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:24:07 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:24:09 -0400 - http://www.bitcasa.com/legal/:	Request to 'http://www.bitcasa.com/legal/' failed to reach server, check DNS and/or server status
+2018-07-05 09:24:10 -0400 - http://csoboard.com/privacy-policy/:	Request to 'http://csoboard.com/privacy-policy/' failed to reach server, check DNS and/or server status
+2018-07-05 09:24:18 -0400 - http://www.dailymotion.com/legal/privacy:	Unable to find visible xpath "//div[@id='contract']"
+2018-07-05 09:24:24 -0400 - https://www.catalogchoice.org/tos:	Unable to find visible xpath "//div[@class='first-column grid_10']"
+2018-07-05 09:24:27 -0400 - http://www.motorola.com/Consumers/US-EN/About_Motorola/Legal/Privacy_Policy:	404 Error
+2018-07-05 09:24:58 -0400 - http://www.nationalgeographic.com/community/privacy_complete.html:	Request to 'http://www.nationalgeographic.com/community/privacy_complete.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.nationalgeographic.com/legal/privacy.html
+2018-07-05 09:25:28 -0400 - http://www.nationalgeographic.com/community/terms/:	Request to 'http://www.nationalgeographic.com/community/terms/' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.nationalgeographic.com/etc/designs/platform/refresh/scripts/main.ngsversion.gaTJDG7r.js
+2018-07-05 09:25:32 -0400 - http://www.merriam-webster.com/info/privacy.htm:	Unable to find visible xpath "//div[@id='content']/node()[not(@class='section-links') and not(@id='ref-search-box')]"
+2018-07-05 09:25:35 -0400 - http://www.match.com/registration/privacystatement.aspx?lid=4:	Unable to find visible xpath "//div[@id='privacyPolicy']"
+2018-07-05 09:25:46 -0400 - http://www.officedepot.com/a/customerservice/termsofuse/:	Unable to find visible xpath "//div[@id='m02']"
+2018-07-05 09:25:50 -0400 - http://www.figis.com/category/customer+service/privacy+policy.do:	Unable to find visible xpath "//td[@width='790']"
+2018-07-05 09:25:59 -0400 - http://www.flightstats.com/go/About/termsOfUse.do:	404 Error
+2018-07-05 09:26:01 -0400 - http://www.freecreditscore.com/privacy-policy/:	404 Error
+2018-07-05 09:26:03 -0400 - http://www.audiusa.com/us/brand/en/tools/imprint/privacy.html:	404 Error
+2018-07-05 09:26:10 -0400 - http://identi.ca/doc/tos:	404 Error
+2018-07-05 09:26:10 -0400 - http://identi.ca/doc/privacy:	404 Error
+2018-07-05 09:26:42 -0400 - http://www.jobs.net/privacy.htm:	Request to 'http://www.jobs.net/privacy.htm' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:26:47 -0400 - http://www.tripadvisor.com/pages/privacy.html:	Unable to find visible xpath "//div[@id='BODYCON']"
+2018-07-05 09:26:52 -0400 - http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc:	Unable to find visible xpath "//div[@class='HelpContent']"
+2018-07-05 09:26:56 -0400 - http://pages.ebay.com/help/policies/user-agreement.html?rt=nc:	Unable to find visible xpath "//div[@class='HelpContent']"
+2018-07-05 09:27:01 -0400 - http://www.spencersonline.com/privacy-policy1/:	Unable to find visible xpath "//div[@class='broh']"
+2018-07-05 09:27:06 -0400 - http://www.billboard.com/footer/privacy-policy#/footer/privacy-policy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:27:10 -0400 - http://www.stubhub.com/privacy_policy/:	Unable to find visible xpath "//div[@id='bottom_truste']"
+2018-07-05 09:27:31 -0400 - http://www.dell.com/learn/us/en/19/terms-of-sale-consumer?c=us&l=en&s=dhs&cs=19:	404 Error
+2018-07-05 09:27:34 -0400 - https://del.icio.us/privacy:	Unable to find visible xpath "//div[@class='contentLeft']"
+2018-07-05 09:27:37 -0400 - https://del.icio.us/terms:	Unable to find visible xpath "//div[@class='contentLeft']"
+2018-07-05 09:28:07 -0400 - http://www.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html#us_privacy_policy:	Request to 'http://www.staples.com/sbd/cre/programs/customerservice/policy_and_legal.html#us_privacy_policy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:28:09 -0400 - http://www.smugmug.com/aboutus/privacy/:	404 Error
+2018-07-05 09:28:10 -0400 - http://www.northerntool.com/custhelp/privacypolicy.htm:	404 Error
+2018-07-05 09:28:19 -0400 - http://www.hulu.com/privacy:	Unable to find visible xpath "//div[@id='page-content']"
+2018-07-05 09:28:27 -0400 - http://www.intel.com/sites/sitewide/en_US/privacy/full.htm:	Unable to find visible xpath "//div[@id='html-hero']"
+2018-07-05 09:28:34 -0400 - http://www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/language/en-US/Default.aspx:	Unable to find visible xpath "//div[@id='site-policies_wrapper']"
+2018-07-05 09:28:41 -0400 - http://www.couponsinc.com/Corporate/Privacy.aspx:	Unable to find visible xpath "//div[@id='dnn_ctr394_HtmlModule_lblContent']"
+2018-07-05 09:29:00 -0400 - http://www.marthastewart.com/privacy-policy:	Unable to find visible xpath "//div[@id='ms-global-col2']"
+2018-07-05 09:29:04 -0400 - http://www.ziffdavis.com/privacy-policy/:	Unable to find visible xpath "//div[@class='latestnews-left-container properties-text']"
+2018-07-05 09:29:08 -0400 - http://privacy.tribune.com/:	Request to 'http://privacy.tribune.com/' failed to reach server, check DNS and/or server status
+2018-07-05 09:29:12 -0400 - http://www.latimes.com/lat-terms,0,3345221,full.story:	Unable to find visible xpath "//div[@id='story-body-text']/div[@class='p402_premium']/node()[not(@class='articlerail') and not(@id='pmad-rail')]"
+2018-07-05 09:29:22 -0400 - https://gratipay.com/about/policies/terms-of-service:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:29:24 -0400 - https://gratipay.com/about/policies/privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:29:33 -0400 - http://msn.foxsports.com/other/page/privacy-policy:	Unable to find visible xpath "//div[@id='bdy-container']"
+2018-07-05 09:29:38 -0400 - http://www.ning.com/privacy/:	Unable to find visible xpath "//div[@class='page-default']"
+2018-07-05 09:29:43 -0400 - http://www.ning.com/termsofservice/:	Unable to find visible xpath "//div[@class='page-default']"
+2018-07-05 09:29:47 -0400 - http://www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp?pageId=pg4003700012:	Unable to find visible xpath "//div[@class='customer_service_contain']"
+2018-07-05 09:29:55 -0400 - http://www.pbs.org/about/privacy-policy:	Unable to find visible xpath "//div[@id='article']"
+2018-07-05 09:29:59 -0400 - http://www.pbs.org/about/terms-of-use:	Unable to find visible xpath "//div[@id='article']"
+2018-07-05 09:30:04 -0400 - http://www.cyberpresse.ca/politique.php:	Unable to find visible xpath "//div[@class='desc-bodytext']"
+2018-07-05 09:30:06 -0400 - http://readwrite.com/page/privacy-policy:	404 Error
+2018-07-05 09:30:09 -0400 - http://hubpages.com/help/privacy_policy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:30:17 -0400 - http://www.charter.com/footer/footerPage.jsp?tag=privacy_website:	404 Error
+2018-07-05 09:30:22 -0400 - http://www.charter.com/footer/footerPage.jsp?tag=policies_resi_hsi_accep_use_policy:	404 Error
+2018-07-05 09:30:27 -0400 - http://www.dillards.com/information/international-faq?cm_sp=Footer-_-Int-_-FAQ:	404 Error
+2018-07-05 09:30:30 -0400 - http://www.conduit.com/privacy/WebsitePrivacy.aspx:	Unable to find visible xpath "//div[@class='mainBodyMask']/div[@class='content']"
+2018-07-05 09:30:35 -0400 - http://www.shutterfly.com/help/privacy.jsp:	Unable to find visible xpath "//td[@valign='top' and @colspan='3']"
+2018-07-05 09:30:38 -0400 - http://www.shutterfly.com/help/terms.jsp:	Unable to find visible xpath "//td[@valign='top' and @colspan='3']"
+2018-07-05 09:30:39 -0400 - https://www.meebo.com/privacy/full/:	404 Error
+2018-07-05 09:30:43 -0400 - http://www.ehow.com/privacy.html:	Unable to find visible xpath "//section[@id='Body']"
+2018-07-05 09:30:48 -0400 - http://www.ehow.com/terms-of-use.html:	Unable to find visible xpath "//section[@id='Body']"
+2018-07-05 09:30:55 -0400 - http://www.salesforce.com/company/privacy/full_privacy.jsp:	Unable to find visible xpath "//div[@id='layout']/node()[not(class='grid-row bg-divider top-30 fullwidth margin-bottom-20 left-5')]"
+2018-07-05 09:30:58 -0400 - http://www.cio-today.com/privacy.xhtml?full_skip=1:	Unable to find visible xpath "//div[@name='overall_wrapper']/center/table[5]/tr/td/table[@width='100%']/tr/td"
+2018-07-05 09:31:06 -0400 - http://pets.petsmart.com/help/privacy-policy/:	Unable to find visible xpath "//div[@id='right-col']"
+2018-07-05 09:31:10 -0400 - http://www.ziffdavis.com/privacy-policy/:	Unable to find visible xpath "//div[@class='latestnews-left-container properties-text']"
+2018-07-05 09:31:19 -0400 - http://www.capitalone.com/legal/terms-conditions/?Log=1&EventType=Link&ComponentType=T&LOB=MTS%3A%3ALCTMJBE8Z&PageName=Contact+Us+Customer+Service&PortletLocation=5&ComponentName=footer&ContentElement=30%3BTerms+%26+Conditions&TargetLob=MTS%3A%3ALCTMJBE8Z&TargetPageName=Terms+and+Conditions:	Ambiguous match, found 3 elements matching visible xpath "//div[@class='sixteen columns']"
+2018-07-05 09:31:25 -0400 - http://www.condenast.com/privacy-policy:	Unable to find visible xpath "//li[@id='privacypolicy']"
+2018-07-05 09:31:29 -0400 - http://www.girlsgogames.com/privacy_policy.html:	Unable to find visible xpath "//div[@id='staticContainer']"
+2018-07-05 09:31:37 -0400 - http://www.zazzle.com/mk/policy/privacy_policy:	Unable to find visible xpath "//div[@id='group_2']"
+2018-07-05 09:31:48 -0400 - http://www.voanews.com/english/news/69075687.html:	Unable to find visible xpath "//div[@id='ctl00_ctl00_cpAB_cp1_widgetDeskSection_ctl04_WIDGET_HTMLText_2_538']"
+2018-07-05 09:31:54 -0400 - https://medium.com/policy/9db0094a1e0f:	Unable to find visible xpath "//div[@class='post-field body notes-source']"
+2018-07-05 09:31:58 -0400 - https://medium.com/policy/f03bf92035c9:	Unable to find visible xpath "//div[@class='post-field body notes-source']"
+2018-07-05 09:32:04 -0400 - http://www.personified.com/privacy/:	404 Error
+2018-07-05 09:32:10 -0400 - http://www.avg.com/ph-en/privacy:	404 Error
+2018-07-05 09:32:11 -0400 - https://www.change.org/static/user_agreement.html:	404 Error
+2018-07-05 09:32:12 -0400 - http://privacy.microsoft.com/en-gb/fullnotice.mspx:	404 Error
+2018-07-05 09:32:16 -0400 - http://www.cheapoair.com/travel/travel_resources/privacy.asp:	Unable to find visible xpath "//table[@width='94%']"
+2018-07-05 09:32:20 -0400 - http://www.kaboodle.com/zm/tosandprivacy:	Unable to find visible xpath "//section[@class='section tos_privacy']"
+2018-07-05 09:32:25 -0400 - http://corporate.mattel.com/privacy-policy.aspx:	Unable to find visible xpath "//div[@id='container']/table"
+2018-07-05 09:32:43 -0400 - http://www.sfbc.com/privacy-policy/:	Unable to find visible xpath "//div[@class='col-main']"
+2018-07-05 09:32:50 -0400 - http://www8.hp.com/us/en/privacy/privacy.html:	Unable to find visible xpath "//div[@id='gateway_article_body']"
+2018-07-05 09:32:54 -0400 - http://www.mypoints.com/emp/u/privacy.vm:	Unable to find visible xpath "//div[@id='content_1']"
+2018-07-05 09:32:59 -0400 - https://www.yammer.com/about/privacy:	404 Error
+2018-07-05 09:33:05 -0400 - http://www.journeys.com/privacy.aspx:	Unable to find visible xpath "//article[@class='editorial']"
+2018-07-05 09:33:09 -0400 - http://www.weather.com/common/home/privacy.html:	Unable to find visible xpath "//td[@class='globPad']"
+2018-07-05 09:33:19 -0400 - http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&documentKey=privacysecurity:	Unable to find visible xpath "//div[@class='help']"
+2018-07-05 09:33:21 -0400 - http://www.kruxdigital.com/krux_privacy/:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:33:29 -0400 - http://www.thomasnet.com/privacy.html:	Unable to find visible xpath "//div[@id='tncontent']"
+2018-07-05 09:33:32 -0400 - http://piazza.com/terms.html:	Unable to find visible xpath "//div[@class='cardContent']"
+2018-07-05 09:33:33 -0400 - http://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy:	Request to 'http://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy' failed to reach server, check DNS and/or server status
+2018-07-05 09:33:36 -0400 - http://about.ask.com/privacy-policy/:	Unable to find visible xpath "//div[@class='whiteBox pressSinglePost']"
+2018-07-05 09:33:39 -0400 - http://about.ask.com/terms-of-service/:	Unable to find visible xpath "//div[@class='whiteBox pressSinglePost']"
+2018-07-05 09:33:48 -0400 - http://www.warnerbros.com/privacy/policy.html:	Unable to find visible xpath "//div[@class='bodycontent']/div[3]"
+2018-07-05 09:33:51 -0400 - http://www.playfirst.com/privacy-policy.html:	404 Error
+2018-07-05 09:33:55 -0400 - https://www.chase.com/resources/online-consumer-practices:	Unable to find visible xpath "//div[@class='leftnav-layout-right-contentPanel']"
+2018-07-05 09:33:59 -0400 - https://www.chase.com/resources/consumer-privacy:	Unable to find visible xpath "//div[@class='leftalign ' and @style='width:100%; height:100%; ']"
+2018-07-05 09:34:03 -0400 - https://www.chase.com/resources/terms-conditions:	Unable to find visible xpath "//section[@id='primary-no-hero']"
+2018-07-05 09:34:09 -0400 - http://www.zappos.com/privacy-policy:	Unable to find visible xpath "//div[@style='color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 8px;']"
+2018-07-05 09:34:15 -0400 - http://www.avast.com/privacy-policy:	Unable to find visible xpath "//div[@id='privacy-policy']"
+2018-07-05 09:34:27 -0400 - http://jetblue.com/about/privacy.html:	Unable to find visible xpath "//div[@id='container']"
+2018-07-05 09:34:37 -0400 - http://www.sheplers.com/custserv/custserv.jsp?pageName=Privacy:	Unable to find visible xpath "//div[@class='main custServMain']"
+2018-07-05 09:34:41 -0400 - http://www.naplesnews.com/privacy/:	Unable to find visible xpath "//div[@id='primary_content']"
+2018-07-05 09:34:50 -0400 - http://www.agweb.com/privacy_policy.aspx:	Unable to find visible xpath "//div[@class='contentTxt']"
+2018-07-05 09:34:56 -0400 - http://www.agweb.com/terms_conditions.aspx:	Unable to find visible xpath "//div[@class='contentTxt']"
+2018-07-05 09:35:11 -0400 - http://www.adobe.com/privacy/policy.html:	Unable to find visible xpath "//div[@id='bodycontent1']"
+2018-07-05 09:35:14 -0400 - http://www.priceline.com/privacypolicy/privacypolicy.asp:	Unable to find visible xpath "//div[@id='contentwh']"
+2018-07-05 09:35:18 -0400 - https://www212.americanexpress.com/dsmlive/dsm/int/internetprivacystatement.do?vgnextoid=1afe214407d5c210VgnVCM100000defaad94RCRD:	Unable to find visible xpath "//div[@id='column-1of2']"
+2018-07-05 09:35:23 -0400 - http://www.consumersenergy.com/Content.aspx?id=1121:	Unable to find visible xpath "//div[@id='col2']"
+2018-07-05 09:35:28 -0400 - http://shop.costco.com/privacy-policy.html:	Request to 'http://shop.costco.com/privacy-policy.html' failed to reach server, check DNS and/or server status
+2018-07-05 09:35:40 -0400 - http://www.americanmedical-id.com/about_us/privacypolicy.php:	Unable to find visible xpath "//table[@width='900']"
+2018-07-05 09:35:46 -0400 - http://bleacherreport.com/pages/privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:35:52 -0400 - http://nadaguides.com/Privacy-policy:	Unable to find visible xpath "//div[@id='mst_content_wrap']"
+2018-07-05 09:36:08 -0400 - http://tinyurl.com/#terms:	Unable to find visible xpath "//div[@style='float:left; width:700px']"
+2018-07-05 09:36:11 -0400 - http://www.thefreedictionary.com/privacy-policy.htm:	Unable to find visible xpath "//table[@id='Aux']"
+2018-07-05 09:36:19 -0400 - http://www.target.com/spot/privacy-policy:	Unable to find visible xpath "//div[@id='policyContainer']"
+2018-07-05 09:36:25 -0400 - http://www.foodnetwork.co.uk/privacy-policy.html:	Unable to find visible xpath "//div[@id='main-content']"
+2018-07-05 09:36:55 -0400 - http://www.adotas.com/privacy-policy/:	Unable to find visible xpath "//div[@id='content-article']"
+2018-07-05 09:37:08 -0400 - http://www.comedycentral.com/help/privacy.jhtml:	Unable to find visible xpath "//div[@class='copy']"
+2018-07-05 09:37:13 -0400 - http://www.amctheatres.com/privacy-policy:	Unable to find visible xpath "//div[@class='content-item page']"
+2018-07-05 09:37:19 -0400 - http://www.amctheatres.com/terms-and-conditions:	Unable to find visible xpath "//div[@class='content-item page']"
+2018-07-05 09:37:20 -0400 - http://www.detroitmedia.com/termsofservice:	404 Error
+2018-07-05 09:37:27 -0400 - http://privacy.microsoft.com/nl-nl/fullnotice.mspx:	404 Error
+2018-07-05 09:37:30 -0400 - http://www.dowjones.com/legal-notices.asp:	404 Error
+2018-07-05 09:37:34 -0400 - https://www.blackboard.com/Footer/Security-Policy.aspx:	Unable to find visible xpath "//div[@class='Content']/div"
+2018-07-05 09:37:40 -0400 - https://www.blackboard.com/Footer/Privacy-Center.aspx:	Unable to find visible xpath "//div[@class='editor widget']/div"
+2018-07-05 09:37:44 -0400 - https://www.blackboard.com/Footer/Terms-of-Use.aspx:	Unable to find visible xpath "//div[@class='Content']/div"
+2018-07-05 09:37:48 -0400 - http://www.spiceworks.com/privacy/:	Unable to find visible xpath "//div[@class='span8']"
+2018-07-05 09:37:53 -0400 - http://www.spiceworks.com/terms/:	Unable to find visible xpath "//div[@class='span8']"
+2018-07-05 09:38:24 -0400 - http://www.saksfifthavenue.com/Policies:	Request to 'http://www.saksfifthavenue.com/Policies' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.saksfifthavenue.com/static/build/js/shoprunner.js,https://www.saksfifthavenue.com/static/images/flags/US.gif,https://logx.optimizely.com/v1/events
+2018-07-05 09:38:28 -0400 - http://www.last.fm/legal/privacy:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:38:58 -0400 - http://karoo.co.uk/privacy-policy.aspx:	Request to 'http://karoo.co.uk/privacy-policy.aspx' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:39:10 -0400 - http://www.gci.com/privacy-policy:	Unable to find visible xpath "//div[@id='main']"
+2018-07-05 09:39:46 -0400 - http://www.kansascity.com/privacy_policy/:	Request to 'http://www.kansascity.com/privacy_policy/' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting http://www.mcclatchyinteractive.com/mistats/mi_content_tracker.js
+2018-07-05 09:39:51 -0400 - http://www.bathandbodyworks.com/helpdesk/index.jsp?display=corp&subdisplay=privacy:	Unable to find visible xpath "//smpanel"
+2018-07-05 09:39:55 -0400 - http://www.bathandbodyworks.com/helpdesk/index.jsp?display=corp&subdisplay=terms:	Unable to find visible xpath "//smpanel"
+2018-07-05 09:39:58 -0400 - http://www.barneys.com/Privacy-Policy/PRIVACY_POLICY,default,pg.html:	Unable to find visible xpath "//div[@id='main']"
+2018-07-05 09:40:06 -0400 - http://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy/279-1604438-5146529?ie=UTF8&nodeId=3329781:	Unable to find visible xpath "//td[@class='center-col']"
+2018-07-05 09:40:07 -0400 - http://www.mainstreet.com/privacy-policy/:	404 Error
+2018-07-05 09:40:16 -0400 - http://www.biblegateway.com/legal/privacy.php:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:40:29 -0400 - http://www.condenast.com/services/privacy/:	Unable to find visible xpath "//div[@id='main']"
+2018-07-05 09:40:32 -0400 - http://msnlatino.telemundo.com/legal_privacy/:	404 Error
+2018-07-05 09:40:36 -0400 - http://www.booking.com/general.en-us.html?sid=a6f820d269e9070d9a88d65cd79ee579;dcid=1;tmpl=docs/privacy-policy:	Unable to find visible xpath "//div[@id='right']"
+2018-07-05 09:40:41 -0400 - https://help.equifax.com/app/answers/detail/a_id/467:	404 Error
+2018-07-05 09:40:47 -0400 - http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles:	404 Error
+2018-07-05 09:40:52 -0400 - http://epulettar.hu/cikk/page/felhasznalasi-feltetelek:	404 Error
+2018-07-05 09:40:53 -0400 - http://www.thingsremembered.com/custserv/custserv.jsp?pageName=Privacy:	404 Error
+2018-07-05 09:41:08 -0400 - http://www.earthlink.net/about/policies/privacy/:	Unable to find visible xpath "//div[@class='prod']"
+2018-07-05 09:41:12 -0400 - http://www.earthlink.net/about/policies/cable.faces:	Unable to find visible xpath "//div[@class='prod']"
+2018-07-05 09:41:17 -0400 - http://www.earthlink.net/about/policies/use.faces:	Unable to find visible xpath "//div[@class='prod']"
+2018-07-05 09:41:21 -0400 - http://www.earthlink.net/about/policies/isa.faces:	Unable to find visible xpath "//div[@class='prod']"
+2018-07-05 09:41:25 -0400 - http://www.honda.com/site/site_privacy.aspx:	Unable to find visible xpath "//td[@class='td_privacy']"
+2018-07-05 09:41:30 -0400 - http://shop.nordstrom.com/c/nordstrom-privacy:	Unable to find visible xpath "//div[@class='csContent']"
+2018-07-05 09:41:34 -0400 - http://shop.nordstrom.com/c/nordstrom-com-privacy-policy:	Unable to find visible xpath "//div[@class='csContent']"
+2018-07-05 09:41:42 -0400 - http://www.o2.co.uk/termsandconditions/o2privacypolicy:	Unable to find visible xpath "//div[@class='leftContainer']"
+2018-07-05 09:41:46 -0400 - http://secondlife.com/corporate/tos.php:	Unable to find visible xpath "//div[@class='light_bg padded-box']"
+2018-07-05 09:41:49 -0400 - http://www.topix.com/topix/terms_details/:	Unable to find visible xpath "//div[@id='privacy']"
+2018-07-05 09:41:50 -0400 - http://www.pricegrabber.com/info_disclaimer.php:	404 Error
+2018-07-05 09:41:59 -0400 - http://www.mcafee.com/common/privacy/english/slide.htm:	Unable to find visible xpath "//ul[@id='page']"
+2018-07-05 09:42:04 -0400 - http://www.gamefly.com/about-us/privacy-policy:	Unable to find visible xpath "//div[@class='main-content-hold pad-h-4 pad-v-4 bgc-d0']"
+2018-07-05 09:42:09 -0400 - http://www.gamefly.com/about-us/terms-of-use/:	Unable to find visible xpath "//div[@class='main-content-hold pad-h-4 pad-v-4 bgc-d0']"
+2018-07-05 09:42:20 -0400 - http://www.gm.com/privacy/:	Unable to find visible xpath "//*[@id='content']"
+2018-07-05 09:42:35 -0400 - https://www.coursera.org/about/terms:	Unable to find visible xpath "//div[@class='coursera-about-body']"
+2018-07-05 09:42:38 -0400 - https://www.coursera.org/about/privacy:	Unable to find visible xpath "//div[@class='coursera-about-body']"
+2018-07-05 09:42:41 -0400 - https://www.coursera.org/about/cookies:	Unable to find visible xpath "//div[@class='coursera-about-body']"
+2018-07-05 09:42:55 -0400 - http://www.ancestry.com/cs/legal/privacystatement:	Unable to find visible xpath "//div[@class='left']"
+2018-07-05 09:43:05 -0400 - http://www.frontier.com/terms/Residential_HSI_Terms_and_Conditions/:	404 Error
+2018-07-05 09:43:11 -0400 - http://nbcsports.msnbc.com/id/23114206:	Unable to find visible xpath "//div[@id='nbc-content']/div[@class='body']/p[@class='textBodyBlack']"
+2018-07-05 09:43:16 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	404 Error
+2018-07-05 09:43:27 -0400 - http://ww2.cox.com/aboutus/policies/your-privacy-rights.cox:	Unable to find visible xpath "//div[@id='awards-content-main']"
+2018-07-05 09:43:33 -0400 - http://ww2.cox.com/aboutus/policies.cox:	Unable to find visible xpath "//div[@id='awards-content-main']"
+2018-07-05 09:43:39 -0400 - http://www.drugstore.com/drugstore/qxc148674:	Unable to find visible xpath "//div[@id='sc148677']"
+2018-07-05 09:43:45 -0400 - http://www.ideeli.com/pages/privacy_policy:	Unable to find visible xpath "//div[@id='privacy_policy_container']"
+2018-07-05 09:43:51 -0400 - http://www.amazon.com/gp/help/customer/display.html/?&nodeId=468496:	Unable to find visible xpath "//td[@class='center-col']"
+2018-07-05 09:44:02 -0400 - http://www.bigpoint.com/legal/#2:	Unable to find visible xpath "//div[@id='staticcontent_295']"
+2018-07-05 09:44:05 -0400 - http://www.homedepot.com/webapp/catalog/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053:	Unable to find visible xpath "//div[@class='left-indent']"
+2018-07-05 09:44:06 -0400 - http://www.about.com/gi/pages/mprivacy.htm:	404 Error
+2018-07-05 09:44:14 -0400 - http://www.citizensbank.com/security/online_privacy.aspx:	Unable to find visible xpath "//td[@class='twoCol']"
+2018-07-05 09:44:14 -0400 - http://www.backpage.com/classifieds/PrivacyPolicy:	404 Error
+2018-07-05 09:44:15 -0400 - http://www.formspring.me/about/terms:	Request to 'http://www.formspring.me/about/terms' failed to reach server, check DNS and/or server status
+2018-07-05 09:44:15 -0400 - http://www.formspring.me/about/privacy:	Request to 'http://www.formspring.me/about/privacy' failed to reach server, check DNS and/or server status
+2018-07-05 09:44:45 -0400 - http://www.providecommerce.com/privacy.aspx:	Request to 'http://www.providecommerce.com/privacy.aspx' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:44:49 -0400 - http://mashable.com/privacy/:	Unable to find visible xpath "//div[@class='page-content']"
+2018-07-05 09:44:55 -0400 - http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx:	Unable to find visible xpath "//div[@id='helpContent']"
+2018-07-05 09:45:00 -0400 - http://www.worldstarhiphop.com/videos/ppolicy.php:	404 Error
+2018-07-05 09:45:05 -0400 - https://www.mendeley.com/terms/privacy:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 09:45:21 -0400 - http://www.tbs.com/general/privacy/:	404 Error
+2018-07-05 09:45:35 -0400 - http://www.microsoft.com/privacystatement/en-us/bing/default.aspx:	404 Error
+2018-07-05 09:45:38 -0400 - http://www.mobilytrip.com/pages/privacy_policy:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 09:45:40 -0400 - http://www.mobilytrip.com/pages/terms_of_use:	Unable to find visible xpath "//div[@class='content']"
+2018-07-05 09:45:41 -0400 - http://www.blockbuster.com/corporate/privacyPolicy:	404 Error
+2018-07-05 09:45:47 -0400 - http://www.uggaustralia.com/privacy-policy-terms-and-conditions/privacy-policy,default,pg.html:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:45:50 -0400 - http://www.ebaycommercenetwork.com/privacy-policy:	Unable to find visible xpath "//div[@class='text-block']/article"
+2018-07-05 09:45:53 -0400 - http://www.ebaycommercenetwork.com/user-agreement:	Unable to find visible xpath "//div[@class='text-block']/article"
+2018-07-05 09:46:00 -0400 - http://www.oprah.com/privacy_policy.html:	Unable to find visible xpath "//div[@class='main_body']"
+2018-07-05 09:46:01 -0400 - http://sp.uk.ask.com/en/docs/about/privacy.shtml:	Request to 'http://sp.uk.ask.com/en/docs/about/privacy.shtml' failed to reach server, check DNS and/or server status
+2018-07-05 09:46:04 -0400 - https://stackexchange.com/legal/terms-of-service:	Unable to find visible xpath "//div[@class='contentWrapper']"
+2018-07-05 09:46:07 -0400 - https://stackexchange.com/legal/api-terms-of-use:	Unable to find visible xpath "//div[@class='contentWrapper']"
+2018-07-05 09:46:11 -0400 - https://stackexchange.com/legal/privacy-policy:	Unable to find visible xpath "//td[@class='full']"
+2018-07-05 09:46:14 -0400 - https://stackexchange.com/legal/content-policy:	Unable to find visible xpath "//div[@class='contentWrapper']"
+2018-07-05 09:46:18 -0400 - https://stackexchange.com/legal/trademark-guidance:	Unable to find visible xpath "//div[@class='contentWrapper']"
+2018-07-05 09:46:23 -0400 - http://www.carfax.com/privacyStatement.cfx:	Unable to find visible xpath "//div[@class='unstyled']"
+2018-07-05 09:46:35 -0400 - https://www.mint.com/how-it-works/security/terms/:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:46:38 -0400 - https://www.mint.com/how-it-works/security/policy/:	404 Error
+2018-07-05 09:46:43 -0400 - http://about.intuit.com/legal/:	Unable to find visible xpath "//td[@id='contentBodyL']"
+2018-07-05 09:47:04 -0400 - http://www.ups.com/content/corp/privacy_policy.html?WT.svl=Footer:	404 Error
+2018-07-05 09:47:13 -0400 - http://www.olx.com/terms.php:	Unable to find visible xpath "//div[@id='terms-of-use']"
+2018-07-05 09:47:20 -0400 - http://www.americangreetings.com/warrants.pd:	Unable to find visible xpath "//div[@id='agi-content']"
+2018-07-05 09:47:31 -0400 - http://www.meetup.com/privacy:	Unable to find visible xpath "//div[@id='C_document']"
+2018-07-05 09:47:37 -0400 - http://www.bedbathandbeyond.com/policyPrivacy.asp?:	Unable to find visible xpath "//div[@class='mainbody']/div[@class='contentwrap']/div[@class='contentbodymargin']"
+2018-07-05 09:48:12 -0400 - https://customerservice.bloomingdales.com/app/answers/detail/a_id/357/?cm_sp=NAVIGATION-_-BOTTOM_LINKS-_-PRIVACY_POLICY:	Request to 'https://customerservice.bloomingdales.com/app/answers/detail/a_id/357/?cm_sp=NAVIGATION-_-BOTTOM_LINKS-_-PRIVACY_POLICY' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://assets.bloomingdales.com/wgl/page/header-footer-wgl/latest/css/customFonts.css,https://assets.bloomingdales.com/page/header-footer-wgl/latest/css/header-footer-wgl.bcom-header-footer.css,https://assets.bloomingdales.com/wgl/page/header-footer-wgl/latest/css/bcom.main.min.css,https://assets.bloomingdales.com/page/header-footer-wgl/latest/js/common.bundle.js,https://assets.bloomingdales.com/page/header-footer-wgl/latest/js/header-footer-wgl.bcom-header-footer.js
+2018-07-05 09:48:18 -0400 - http://www.futureplc.com/futurenet/privacy-policy/:	Unable to find visible xpath "//div[@id='post-2019']"
+2018-07-05 09:48:22 -0400 - http://aboutus.lego.com/en-us/legal-notice/privacy-policy-full/:	Unable to find visible xpath "//div[@class='articleText richText']"
+2018-07-05 09:48:26 -0400 - http://www.oxygen.com/legal/privacyPolicy.aspx:	404 Error
+2018-07-05 09:48:31 -0400 - https://www.dropbox.com/privacy:	Unable to find visible xpath "//div[@id='privacy-policy']"
+2018-07-05 09:48:36 -0400 - http://www.lakeside.com/:	Unable to find visible xpath "//div[@id='ModalPrivacy']"
+2018-07-05 09:48:43 -0400 - http://www.marketwatch.com/support/privacy.asp:	Unable to find visible xpath "//div[@class='privacyPolicyContent']"
+2018-07-05 09:48:53 -0400 - http://www.sfgate.com/privacy-policy/:	Unable to find visible xpath "//div[@class='zone zone-2']"
+2018-07-05 09:48:56 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default:	404 Error
+2018-07-05 09:49:02 -0400 - http://www.commentcamarche.net/contents/ccmguide/cgu-conditions-generales.php3:	Unable to find visible xpath "//div[@id='article_cnt']/node()[not(@id='similiTable')]"
+2018-07-05 09:49:08 -0400 - http://www.priceminister.com/help/i_priv_cookies:	Unable to find visible xpath "//div[@id='main_ctn']"
+2018-07-05 09:49:10 -0400 - http://www.huffingtonpost.com/privacy/:	404 Error
+2018-07-05 09:49:11 -0400 - http://www.huffingtonpost.com/terms.html:	404 Error
+2018-07-05 09:49:16 -0400 - http://www.phoenix.edu/copyright-legal/privacy_policy.html:	Unable to find visible xpath "//div[@class='span11 left-rail']"
+2018-07-05 09:49:21 -0400 - http://www.phoenix.edu/copyright-legal/terms_and_conditions.html:	Unable to find visible xpath "//div[@class='span11 left-rail']"
+2018-07-05 09:49:23 -0400 - http://www.gandermountain.com/customer-service/privacy-policy.shtml:	404 Error
+2018-07-05 09:49:36 -0400 - https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?retURL=%2FCBSi%2Farticles%2FFAQ%2FCBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com&popup=false&categories=&template=template_privacygl&referer=privacygl.com&data=&cfs=:	404 Error
+2018-07-05 09:49:39 -0400 - http://shop.pacsun.com/customerservice/privacy/:	Unable to find visible xpath "//div[@id='rightContent']"
+2018-07-05 09:49:40 -0400 - http://debka.com/tac/:	PhantomJS client died while processing {"id":"1d1a0e5d-0549-4d46-b073-973aef2442f0","name":"visit","args":["http://debka.com/tac/",30]}
+2018-07-05 09:49:50 -0400 - http://www.joann.com/privacypolicy/:	Unable to find visible xpath "//div[@id='static']"
+2018-07-05 09:49:53 -0400 - http://www.harborfreight.com/security-and-privacy-policy:	404 Error
+2018-07-05 09:49:57 -0400 - http://www.carbonite.com/en/terms-of-use/privacy:	Unable to find visible xpath "//div[@class='forcorp']"
+2018-07-05 09:50:02 -0400 - http://support.lockerz.com/entries/515604-Terms-of-Use:	Request to 'http://support.lockerz.com/entries/515604-Terms-of-Use' failed to reach server, check DNS and/or server status
+2018-07-05 09:50:11 -0400 - http://www.realnetworks.com/about-us/legal/privacy.aspx:	Unable to find visible xpath "//div[@id='left-channel']"
+2018-07-05 09:50:19 -0400 - http://www.shoes.com/en-US/Content/PRIVACY.aspx:	Unable to find visible xpath "//div[@id='servicePageContent']"
+2018-07-05 09:50:28 -0400 - http://www.barnesandnoble.com/help/cds2.asp?PID=25560:	Unable to find visible xpath "//div[@id='mainContent']"
+2018-07-05 09:50:39 -0400 - http://notebook.lausd.net/portal/page?_dad=ptl&_pageid=33,177232&_schema=PTL_EP:	Unable to find visible xpath "//td[@class='RegionHeaderColor']"
+2018-07-05 09:50:48 -0400 - http://www.jpost.com/LandedPages/TermsOfService.aspx:	Unable to find visible xpath "//div[@id='tou_content']"
+2018-07-05 09:51:03 -0400 - http://www.local.com/privacy/:	Unable to find visible xpath "//div[@class='mainWrap']"
+2018-07-05 09:51:06 -0400 - http://www.carbonunity.com/privacy-policy:	404 Error
+2018-07-05 09:51:27 -0400 - http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx?lr=cbprime:	Unable to find visible xpath "//div[@class='cbPrivacy_inner']"
+2018-07-05 09:51:31 -0400 - http://info.yahoo.com/privacy/uk/yahoo/details.html:	Unable to find visible xpath "//div[@id='pp-content1']"
+2018-07-05 09:51:41 -0400 - http://www.shockwave.com/about/privacyPolicy.jsp:	Ambiguous match, found 2 elements matching visible xpath "//body"
+2018-07-05 09:51:42 -0400 - http://www.livingsocial.com/privacy_policy:	404 Error
+2018-07-05 09:51:46 -0400 - http://www.classmates.com/about/privacy:	Unable to find visible xpath "//div[@id='c0']"
+2018-07-05 09:51:52 -0400 - http://www.jny.com/Privacy/PRIVACY,default,pg.html:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:52:00 -0400 - http://www.nyandcompany.com/nyco/company/privacy.jsp:	Unable to find visible xpath "//div[@id='content']"
+2018-07-05 09:52:33 -0400 - http://www.united.com/page/article/06867100200.html?jumpLink=%2Fprivacy:	Request to 'http://www.united.com/page/article/06867100200.html?jumpLink=%2Fprivacy' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:52:41 -0400 - http://www.bodybuilding.com/fun/disclaim.htm:	Unable to find visible xpath "//div[@id='content']/div[@class='article-padding-content']/*[not(@id='article-related-articles') and not(@id='article-about-author') and not(@id='article-featured-product') and not(div[9]) and not(@class='padded-content article-content')]"
+2018-07-05 09:53:11 -0400 - http://www.united.com/web/en-US/content/privacy.aspx:	Request to 'http://www.united.com/web/en-US/content/privacy.aspx' failed to reach server, check DNS and/or server status - Timed out with no open resource requests
+2018-07-05 09:53:16 -0400 - http://www.brainyquote.com/inquire/privacy.html:	Unable to find visible xpath "//div[@class='span8']"
+2018-07-05 09:53:46 -0400 - http://www.brainyquote.com/inquire/terms.html:	Request to 'http://www.brainyquote.com/inquire/terms.html' failed to reach server, check DNS and/or server status - Timed out with the following resources still waiting https://www.google-analytics.com/r/collect?v=1&_v=j68&aip=1&a=924449002&t=pageview&_s=1&dl=https%3A%2F%2Fwww.brainyquote.com%2Fabout%2Fterms&ul=en-us&de=UTF-8&dt=BrainyQuote%20-%20Terms%20Of%20Service&sd=32-bit&sr=1024x768&vp=1024x768&je=0&_u=aEBAAEQAG~&jid=424202165&gjid=157090202&cid=1973702804.1530798798&tid=UA-6252296-1&_gid=1466193003.1530798798&_r=1&cd1=visitor&cd2=b&cd3=https&cd5=c015&cd6=n&cd7=n&z=1761915652,https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-6252296-1&cid=1973702804.1530798798&jid=424202165&_gid=1466193003.1530798798&gjid=157090202&_v=j68&z=1761915652,https://sync.c1exchange.com/sync/user?cb=CACHE_BUSTER&pid=a914869&url=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dc1x.com%26id%3D%24C1XUID
+2018-07-05 09:53:54 -0400 - http://www.spokeo.com/privacy/terms:	Unable to find visible xpath "//div[@id='main_panel_content']"
+2018-07-05 09:53:59 -0400 - http://www.sportsmansguide.com/net/main/Privacy.aspx:	Unable to find visible xpath "//div[@id='policy']"
+2018-07-05 09:54:08 -0400 - http://www4.lehigh.edu/about/privacy.aspx?footer:	Unable to find visible xpath "//div[@id='zone1']"
+2018-07-05 09:54:16 -0400 - http://www.adobe.com/privacy/policy.html:	Unable to find visible xpath "//div[@id='bodycontent1']"
+2018-07-05 09:54:23 -0400 - http://www.eonline.com/about/privacy/index.jsp:	Unable to find visible xpath "//div[@class='privacy_content']"
+2018-07-05 09:54:27 -0400 - http://nih.gov/about/privacy.htm:	Unable to find visible xpath "//div[@id='centercolumn']"
