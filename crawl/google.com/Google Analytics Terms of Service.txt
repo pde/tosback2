@@ -21,13 +21,13 @@ However, Confidential Information will not include any information that is or be
 <em>"GATC"</em> means the Google Analytics Tracking Code, which is installed on a Property for the purpose of collecting Customer Data, together with any fixes, updates and upgrades provided to You.
 </p>
 <p>
-<em>"GA 360 Suite Home"</em> means the user interface through which You can access certain Google Analytics 360 suite-level functionality.
-</p>
-<p>
 <em>"Hit"</em> means the base unit that the Google Analytics system processes.
 A Hit may be a call to the Google Analytics system by various libraries, including, Javascript (e.g., analytics.js), Silverlight, Flash, and Mobile.
 A Hit may currently be a page view, a transaction, item, or event, social interaction, or user timing.
 Hits may also be delivered to the Google Analytics system without using one of the various libraries by other Google Analytics-supported protocols and mechanisms the Service makes available to You.
+</p>
+<p>
+<em>"Platform Home"</em> means the user interface through which You can access certain Google Marketing Platform-level functionality.
 </p>
 <p>
 <em>"Processing Software"</em> means the Google Analytics server-side software and any upgrades, which analyzes the Customer Data and generates the Reports.
@@ -108,10 +108,10 @@ You will use commercially reasonable efforts to ensure that a Visitor is provide
 <p> You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.
 You will comply with all applicable Google Analytics policies located at www.google.com/analytics/policies/ (or such other URL as Google may provide) as modified from time to time (the "Google Analytics Policies").
 </p>
-<p> You may participate in an integrated version of Google Analytics and certain DoubleClick and Google advertising services ("Google Analytics Advertising Features").
-If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409) Your access to and use of any DoubleClick or Google advertising service is subject to the applicable terms between You and Google regarding that service.
+<p> You may participate in an integrated version of Google Analytics and certain Google advertising services ("Google Analytics Advertising Features").
+If You use Google Analytics Advertising Features, You will adhere to the Google Analytics Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&amp;topic=2611283&amp;answer=2700409) Your access to and use of any Google advertising service is subject to the applicable terms between You and Google regarding that service.
 </p>
-<p> If You use the GA 360 Suite Home, Your use of the GA 360 Suite Home is subject to the Google Analytics 360 Suite Home Additional Terms (or as subsequently re-named) available at https://360suite.google.com/terms (or such other URL as Google may provide) as modified from time to time (the "Suite Home Terms").
+<p> If You use the Platform Home, Your use of the Platform Home is subject to the Platform Home Additional Terms (or as subsequently re-named) available at https://support.google.com/marketingplatform/answer/9047313 (or such other URL as Google may provide) as modified from time to time (the "Platform Home Terms").
 </p> 8.
 Indemnification.
 <p> To the extent permitted by applicable law, You will indemnify, hold harmless and defend Google and its wholly owned subsidiaries, at Your expense, from any and all third-party claims, actions, proceedings, and suits brought against Google or any of its officers, directors, employees, agents or affiliates, and all related liabilities, damages, settlements, penalties, fines, costs or expenses (including, reasonable attorneys' fees and other litigation expenses) incurred by Google or any of its officers, directors, employees, agents or affiliates, arising out of or relating to (i) Your breach of any term or condition of this Agreement, (ii) Your use of the Service, (iii) Your violations of applicable laws, rules or regulations in connection with the Service, (iv) any representations and warranties made by You concerning any aspect of the Service, the Software or Reports to any Third Party.
@@ -183,4 +183,4 @@ The relationship between Google and You is not one of a legal partnership relati
 This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto.
 The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.
 </p>
-<p> Last Updated May 30, 2018 </p> 
+<p> Last Updated July 24, 2018 </p> 
