@@ -26,7 +26,7 @@
 <li>|</li>
 <li>Register</li>
 </ul>View Favorites</li>
-<li>MY BAGThere are no items in your bag!</li>
+<li>MY BAG</li>
 </ul>
 <ul>
 <li>MY FAVORITES Login to save favorite items to your Buckle account.
@@ -58,7 +58,6 @@
 <ul>
 <li>Tops</li>
 <li>
-<li>Shop All</li>
 <li>2 For $35</li>
 <li>Bodysuits</li>
 <li>Tees</li>
@@ -69,11 +68,11 @@
 <li>Sweatshirts</li>
 <li>Sweaters</li>
 <li>Jackets</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Bottoms</li>
 <li>
-<li>Shop All</li>
 <li>Jeans</li>
 <li>Curvy Jeans</li>
 <li>Skinny Jeans</li>
@@ -84,11 +83,11 @@
 <li>Skirts</li>
 <li>Denim Skirts</li>
 <li>The Denim Shop</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Shoes</li>
 <li>
-<li>Shop All</li>
 <li>Sandals</li>
 <li>Flips</li>
 <li>Sneakers</li>
@@ -97,11 +96,11 @@
 <li>Flats/Slides</li>
 <li>Wedges</li>
 <li>Western Boots</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>More</li>
 <li>
-<li>Shop All</li>
 <li>Accessories</li>
 <li>Watches</li>
 <li>Bags</li>
@@ -112,6 +111,7 @@
 <li>Activewear</li>
 <li>Sunglasses</li>
 <li>Swimwear</li>
+<li>Shop All</li>
 </ul>
 <br>
 <br>Give a Buckle Gift card</li>
@@ -134,7 +134,6 @@
 <ul>
 <li>Tops</li>
 <li>
-<li>Shop All</li>
 <li>2 For $25</li>
 <li>Graphic Tees</li>
 <li>Solid Tees</li>
@@ -144,11 +143,11 @@
 <li>Long Body</li>
 <li>Sweatshirts</li>
 <li>Jackets</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Bottoms</li>
 <li>
-<li>Shop All</li>
 <li>Jeans</li>
 <li>Bootcut Jeans</li>
 <li>Straight Leg Jeans</li>
@@ -159,22 +158,22 @@
 <li>Stretch Jeans</li>
 <li>Jeans Under $75</li>
 <li>The Denim Shop</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Shoes</li>
 <li>
-<li>Shop All</li>
 <li>Flips</li>
 <li>Slides</li>
 <li>Sneakers</li>
 <li>Casuals</li>
 <li>Dress</li>
 <li>Boots</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>More</li>
 <li>
-<li>Shop All</li>
 <li>Hats</li>
 <li>Sunglasses</li>
 <li>Boxers</li>
@@ -184,6 +183,7 @@
 <li>Cologne</li>
 <li>Wallets</li>
 <li>Jewelry</li>
+<li>Shop All</li>
 </ul>
 <br>
 <br>Give a Buckle Gift card</li>
@@ -202,16 +202,16 @@
 <ul>
 <li>Girl's Clothing</li>
 <li>
-<li>Shop All</li>
 <li>Tops</li>
 <li>Bottoms</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Boy's Clothing</li>
 <li>
-<li>Shop All</li>
 <li>Tops</li>
 <li>Bottoms</li>
+<li>Shop All</li>
 </ul>
 <br>
 <br>Give a Buckle Gift card</li>
@@ -222,7 +222,6 @@
 <ul>
 <li>Women's Jeans</li>
 <li>
-<li>Shop All</li>
 <li>Jegging</li>
 <li>Ankle Skinny</li>
 <li>Destructed Light Wash</li>
@@ -230,29 +229,30 @@
 <li>Boyfriend</li>
 <li>High Rise</li>
 <li>The Denim Shop</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Men's Jeans</li>
 <li>
-<li>Shop All</li>
 <li>Slim</li>
 <li>Regular</li>
 <li>Relaxed</li>
 <li>Loose</li>
 <li>Destructed</li>
 <li>The Denim Shop</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Stretch &amp.
 Tech Jeans</li>
 <li>
-<li>Shop All</li>
 <li>Non-Stretch</li>
 <li>Comfort Stretch</li>
 <li>Performance Stretch</li>
 <li>Superior Stretch</li>
 <li>All Stretch</li>
 <li>Coolmax</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Kid's Jeans</li>
@@ -263,9 +263,9 @@ Tech Jeans</li>
 <ul>
 <li>Factory Seconds</li>
 <li>
-<li>Shop All Factory Seconds Jeans</li>
 <li>Women’s Factory Seconds</li>
 <li>Men’s Factory Seconds</li>
+<li>Shop All Factory Seconds Jeans</li>
 </ul>
 <br>
 <br>Give a Buckle Gift card</li>
@@ -356,7 +356,6 @@ Lounge</li>
 <ul>
 <li>Women's Sale</li>
 <li>
-<li>Shop All</li>
 <li>Jeans</li>
 <li>All Tops</li>
 <li>Shirts/Blouses</li>
@@ -367,11 +366,11 @@ Lounge</li>
 <li>Crops/Capris</li>
 <li>Shorts</li>
 <li>Shoes</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Men's Sale</li>
 <li>
-<li>Shop All</li>
 <li>Jeans</li>
 <li>All Tops</li>
 <li>Shirts</li>
@@ -382,25 +381,26 @@ Lounge</li>
 <li>Boardshorts</li>
 <li>Accessories</li>
 <li>Shoes</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Kid's Sale</li>
 <li>
-<li>Shop All</li>
 <li>Girl's Sale Tops</li>
 <li>Girl's Sale Jeans</li>
 <li>Shop All</li>
 <li>Boy's Sale Tops</li>
 <li>Boy's Sale Jeans</li>
+<li>Shop All</li>
 </ul>
 <ul>
 <li>Outlet</li>
 <li>
-<li>Shop All Factory Seconds</li>
 <li>All Women’s Outlet</li>
 <li>All Men’s Outlet</li>
 <li>Women’s Factory Seconds</li>
 <li>Men’s Factory Seconds</li>
+<li>Shop All Factory Seconds</li>
 </ul>
 <br>
 <br>Give a Buckle Gift card</li>
@@ -759,5 +759,4 @@ If you would like to place a large order, please contact guest services at 800.6
 <p>Want to stay updated on our latest styles and promotions?<br>Sign up for email and let’s make things official.</p> Email Address Submit EmailFavorite Product<i>
 </i>
 <strong>
-</strong>Quick ShopClose Quick Shop×
-&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;amp;ev=PageView&amp;amp;noscript=1"&gt.
+</strong>Quick ShopClose Quick Shop×&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;amp;ev=PageView&amp;amp;noscript=1"&gt.
