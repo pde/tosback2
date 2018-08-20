@@ -1,6 +1,6 @@
 <sitename name="signal.org">
- <docname name="Signal Terms & Privacy Policy">
-   <url name="https://signal.org/legal/" xpath="//*[@id="document"]/div[@class='container']/div[@class='row']/div">
+ <docname name="Signal Terms &amp; Privacy Policy">
+   <url name="https://signal.org/legal/" xpath="//*[@id='document']/div[@class='container']/div[@class='row']/div" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
