@@ -1,0 +1,7 @@
+<sitename name="discordapp.com">
+ <docname name="Terms">
+   <url name="https://discordapp.com/terms" xpath="" reviewed="true">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
