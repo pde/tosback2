@@ -93,8 +93,7 @@ All data is saved locally in the Extension in your browser (<strong>and will - w
 <li>unclaimed flattrs will be anonymized after one (1) month after used in a distribution.</li>
 <li>profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers for a period of three (3) months.</li>
 <li>URLs without a recipient for one (1) month after subscription period.
-</li>
-</ul>Transaction data: <ul>
+Transaction data:</li>
 <li>historic data for three (3) months</li>
 <li>basic transaction data for tax purposes in accordance with tax retention periods</li>
 </ul>Analytics data <p>For 180 days.</p> Data sent with your consent: <p>Identifier will be removed three (3) months after submission.</p> What is the legal basis of data processing? <p>We process your personal data in compliance with the European General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”), the applicable EU laws and Swedish and German national data protection laws.</p> Our values <p>We collect as little data as possible.
@@ -107,7 +106,7 @@ As far as anonymous or pseudonymous use is possible we anonymize or pseudonymize
 </li>
 <li>including withdraw your consent at any time, when you have provided us with your consent to the processing of personal data.</li>
 <li>Lodge a complaint with the respective supervisory authority.</li>
-</ul>Questions? <p>Email our Data Protection Officer, Judith Nink: privacy AT flattr DOT com</p> Privacy Policy (long version) <p>Your protection and data confidentiality is of utmost importance to us (“<strong>Flattr</strong>” “<strong>we</strong>” “<strong>our</strong>”).
+</ul>Questions? <p>Email our Data Protection Officer, Judith Nink: </p> Privacy Policy (long version) <p>Your protection and data confidentiality is of utmost importance to us (“<strong>Flattr</strong>” “<strong>we</strong>” “<strong>our</strong>”).
 that is why we take protecting your personal data very seriously and collect as little data as possible.
 Nevertheless, some personal data is necessary to provide the services of our website flattr.com (hereinafter referred to “<strong>Website</strong>”), and our extension (hereinafter referred to as “<strong>Extension</strong>”, Website and Extension hereinafter referred to as “<strong>Services</strong>”).
 This Privacy Policy shall inform you about the personal data we collect and how exactly that data is processed.
@@ -117,7 +116,8 @@ The Privacy Policy does not apply to the practices of third parties that Flattr 
 “<strong>You</strong>”, “<strong>Your</strong>” and “<strong>Yourself</strong>” refer to anyone visiting our Website or using the Extension.</p> Who is responsible for the data collection and processing (contacts)? Controller <p>The legal person responsible for the collection, processing and / or use of personal data in connection with all Flattr Services (“<strong>Controller</strong>”) is:</p>
 <p>Flattr AB<br>Box 4111<br>20312 Malmö<br>Sweden</p> Contact our Data Protection Officer <p>If you have any questions regarding your personal data, please contact our Data Protection Officer: </p>
 <p>Dr.
-Judith Nink <strong>Phone</strong>: +49 (0) 221 / 65028 598 <strong>Email</strong>: privacy AT flattr DOT com <strong>Fax</strong>: +49 (0) 221 / 65028 599</p> What is personal data? <p>The purpose of data protection is to protect personal data.
+Judith Nink <strong>Phone</strong>: +49 (0) 221 / 65028 598 <strong>Email</strong>:<br>
+<strong>Fax</strong>: +49 (0) 221 / 65028 599</p> What is personal data? <p>The purpose of data protection is to protect personal data.
 Personal data means any information relating to an identified or identifiable natural person (“<strong>data subject</strong>”).
 An identifiable natural person is one who can be identified, directly or indirectly, in particular, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 </p>
@@ -263,9 +263,17 @@ If you do not open an account or - as a Contributor - do not install the Extensi
 6 (1) c GDPR <p>Collection and processing of your personal data may be necessary for compliance with a legal obligation to which we are subject under EU laws or the laws of a EU Member State.</p> Processing is necessary for the purposes of eyeo’s legitimate interests (Art.
 6 (1) f GDPR) <p>The collection and processing may be necessary for the purposes of our legitimate interests.
 If this will be the case we will inform you accordingly.</p> Processing is based on your consent (Art.
-6 (1) a GDPR) <p>When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.</p> Do we disclose any personal data? <p>We will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission.
+6 (1) a GDPR) <p>When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.</p> International data transfers <p>For some parts of our hosting we use a non-EU/EEA service provider called Cloudflare, Inc., seated in San Francisco (United States).
+We have carefully selected Cloudflare and review it regularly to ensure that your privacy is preserved.
+The service provider provides sufficient guarantees to ensure an adequate level of data protection and may only use the personal data for the purposes stipulated by us and in accordance with our instructions.
+We also contractually require the service provider to treat your personal data solely in accordance with this Privacy Policy and the European data protection laws.
+In order to ensure an adequate level of data protection, we have entered into the EU Standard Contractual Clauses (processors) - Commission Decision C(2010)593.
+You can request a copy by contacting us at privacy[at]flattr.com.</p> Do we disclose any personal data? <p>Except as explicitly mentioned in this Privacy Policy, we will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission.
 We may only transfer your personal data to third parties without informing you separately beforehand in the following exceptional cases as explained below:</p>
 <ul>
+<li>For hosting purposes, we work with service providers, who will only access and process any of your personal data to the extent required for support purposes and only under our instructions.
+This is safeguarded by data processing agreements.
+</li>
 <li>If required for legal proceedings / investigations, personal data will be transferred to the criminal investigation authorities and, if appropriate, to injured third parties.
 We will only do this if there are concrete indications of illegal and / or abusive behavior.
 We are also legally obliged to give certain public authorities information.
