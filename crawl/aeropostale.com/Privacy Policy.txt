@@ -46,7 +46,6 @@ Help? - Contact Us
 <li> Aviation Collection </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
-<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -66,7 +65,8 @@ Help? - Contact Us
 </ul>
 <ul>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
-</ul>Close submenu ( Featured ) Featured <ul>
+<li> Open submenu ( Collections ) Collections </li>
+</ul>Close submenu ( Collections ) Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -81,11 +81,11 @@ Help? - Contact Us
 <li> View All </li>
 <li> Tees </li>
 <li> Graphic Tees </li>
-<li> Camis + Tanks </li>
 <li> Polos </li>
-<li> Fashion Tops </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Camis + Tanks </li>
+<li> Fashion Tops </li>
 <li> Shirts </li>
 <li> Sweaters </li>
 <li> Active Tops </li>
@@ -94,10 +94,10 @@ Help? - Contact Us
 <li> View All </li>
 <li> Jeans </li>
 <li> Jeggings </li>
-<li> Shorts </li>
 <li> Leggings + Active </li>
 <li> Joggers + Lounge </li>
 <li> Pants </li>
+<li> Shorts </li>
 <li> Skirts </li>
 <li> Buy 1 Get 1 Free Jeans </li>
 <li>
@@ -120,7 +120,6 @@ Help? - Contact Us
 <li> Clearance </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
-<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -135,7 +134,8 @@ Help? - Contact Us
 <li> Cologne </li>
 <li> Clearance </li>
 <li> Extended Sizes </li>
-</ul>Close submenu ( Featured ) Featured <ul>
+<li> Open submenu ( Collections ) Collections </li>
+</ul>Close submenu ( Collections ) Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -151,17 +151,17 @@ Help? - Contact Us
 <li> Tees </li>
 <li> Graphic Tees </li>
 <li> Polos </li>
-<li> Shirts </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Shirts </li>
 <li> Sweaters </li>
 <li> Buy 1 Get 2 Free Tees </li>
 </ul>Close submenu ( Bottoms ) Bottoms <ul>
 <li> View All </li>
 <li> Jeans </li>
-<li> Shorts </li>
-<li> Pants </li>
 <li> Joggers + Sweats </li>
+<li> Pants </li>
+<li> Shorts </li>
 <li> Buy 1 Get 1 Free Jeans </li>
 <li>
 </li>
@@ -298,9 +298,12 @@ Help? - Contact Us
 </p> Shop Girls Shop Guys </li>
 <li> Girls <ul>
 <li> View Home </li>
-<li> Featured <ul>
+<li> Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
+<li> SWIM SALE </li>
+<li> 3 for $12 Undies </li>
+<li> Buy 1 Get 2 Socks </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
@@ -317,11 +320,11 @@ Help? - Contact Us
 <li> View All </li>
 <li> Tees </li>
 <li> Graphic Tees </li>
-<li> Camis + Tanks </li>
 <li> Polos </li>
-<li> Fashion Tops </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Camis + Tanks </li>
+<li> Fashion Tops </li>
 <li> Shirts </li>
 <li> Sweaters </li>
 <li> Active Tops </li>
@@ -334,10 +337,10 @@ Help? - Contact Us
 <li> View All </li>
 <li> Jeans </li>
 <li> Jeggings </li>
-<li> Shorts </li>
 <li> Leggings + Active </li>
 <li> Joggers + Lounge </li>
 <li> Pants </li>
+<li> Shorts </li>
 <li> Skirts </li>
 <li> Buy 1 Get 1 Free Jeans </li>
 <li>
@@ -378,9 +381,10 @@ Help? - Contact Us
 </li>
 <li> Guys <ul>
 <li> View Home </li>
-<li> Featured <ul>
+<li> Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
+<li> Buy 1 Get 2 Accessories </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
@@ -398,9 +402,9 @@ Help? - Contact Us
 <li> Tees </li>
 <li> Graphic Tees </li>
 <li> Polos </li>
-<li> Shirts </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Shirts </li>
 <li> Sweaters </li>
 <li> Buy 1 Get 2 Free Tees </li>
 </ul>
@@ -410,9 +414,9 @@ Help? - Contact Us
 <li> Bottoms <ul>
 <li> View All </li>
 <li> Jeans </li>
-<li> Shorts </li>
-<li> Pants </li>
 <li> Joggers + Sweats </li>
+<li> Pants </li>
+<li> Shorts </li>
 <li> Buy 1 Get 1 Free Jeans </li>
 <li>
 </li>
@@ -551,10 +555,12 @@ Sign Up Give $15, Get $15 FOLLOW US Customer Care <ul>
 <li>Help</li>
 <li>Coupon Page</li>
 <li>My Account</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> Gift Cards <ul>
 <li>eGift Cards</li>
 <li>Lost/Stolen Gift Cards</li>
 <li>Check Gift Card Balance</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> About Us <ul>
 <li>About Aeropostale</li>
 <li>Careers</li>
@@ -562,11 +568,13 @@ Sign Up Give $15, Get $15 FOLLOW US Customer Care <ul>
 <li>Privacy Policy</li>
 <li>CA Transparency Act</li>
 <li>Supply Chain</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> Stay Connected <ul>
 <li>Visit A Store</li>
 <li>Find Store Coupons</li>
 <li>Live Chat (9am - 10pm EST)Call Us</li>
 <li>Use Student Discount</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> © 2018 Aeropostale.
 All Rights Reserved.
 <p>Refer a friend and get $15 off.</p>
