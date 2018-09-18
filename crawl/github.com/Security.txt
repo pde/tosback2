@@ -49,7 +49,7 @@ We always test new features in order to rule out potential attacks, such as XSS-
 <p>We also maintain relationships with reputable security firms to perform regular penetration tests and ongoing audits of GitHub and its code.</p>
 <p>We're extremely concerned and active about security, but we're aware that many companies are not comfortable hosting code outside their firewall.
 For these companies we offer GitHub Enterprise, a version of GitHub that can be installed to a server within the company's network.</p> Credit card safety <p>When you sign up for a paid account on GitHub, we do not store any of your card information on our servers.
-It's handed off to Braintree Payment Solutions, a company dedicated to storing your sensitive data on PCI-Compliant servers.</p> Contact Us <p>Have a question, concern, or comment about GitHub security? Please contact GitHub Support.</p>
+It's handed off to Braintree Payment Solutions, a company dedicated to storing your sensitive data on PCI-Compliant servers.</p> Contact Us <p>Have a question, concern, or comment about GitHub security? Please contact GitHub Support or GitHub Premium Support.</p>
 <ul>
 <li> Contact a human </li>
 </ul>

@@ -46,6 +46,7 @@ Help? - Contact Us
 <li> Aviation Collection </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
+<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -65,8 +66,7 @@ Help? - Contact Us
 </ul>
 <ul>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
-<li> Open submenu ( Collections ) Collections </li>
-</ul>Close submenu ( Collections ) Collections <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -120,6 +120,7 @@ Help? - Contact Us
 <li> Clearance </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
+<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -134,8 +135,7 @@ Help? - Contact Us
 <li> Cologne </li>
 <li> Clearance </li>
 <li> Extended Sizes </li>
-<li> Open submenu ( Collections ) Collections </li>
-</ul>Close submenu ( Collections ) Collections <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -298,12 +298,9 @@ Help? - Contact Us
 </p> Shop Girls Shop Guys </li>
 <li> Girls <ul>
 <li> View Home </li>
-<li> Collections <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> SWIM SALE </li>
-<li> 3 for $12 Undies </li>
-<li> Buy 1 Get 2 Socks </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
@@ -381,10 +378,9 @@ Help? - Contact Us
 </li>
 <li> Guys <ul>
 <li> View Home </li>
-<li> Collections <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Buy 1 Get 2 Accessories </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
