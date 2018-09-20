@@ -1,9 +1,8 @@
  What would you like to know about ? Compute <ul>
-<li> Pro <ul>
-<li>For Everyone</li>
-<li>For Students</li>
-<li>For Educators</li>
-<li>Pricing</li>
+<li> Upgrade to Pro <ul>
+<li> For Everyone Pricing | Features </li>
+<li> For Students Pricing | Features </li>
+<li> For Educators Pricing | Features </li>
 </ul>
 </li>
 <li> Apps <ul>
@@ -41,7 +40,7 @@
 &lt;div class="menu-toggle"&gt;&lt;span class="icon-hamburger-menu"&gt;&lt;/span&gt;&lt;/div&gt.
 &lt;ul class="main-nav"&gt.
 &lt;li&gt.
-&lt;a class="header-pro-link"&gt;Pro&lt;/a&gt.
+&lt;a class="header-pro-link"&gt;Upgrade to Pro&lt;/a&gt.
 &lt;ul class="pro-menu"&gt.
 &lt;li&gt;&lt;a class="tracking-pro-link" href="/pro/"&gt;For Everyone&lt;/a&gt;&lt;/li&gt.
 &lt;li&gt;&lt;a class="tracking-pro-link" href="/pro-for-students/"&gt;For Students&lt;/a&gt;&lt;/li&gt.
