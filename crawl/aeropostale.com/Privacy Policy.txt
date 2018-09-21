@@ -46,7 +46,7 @@ Help? - Contact Us
 <li> Aviation Collection </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
-<li> Open submenu ( Collections ) Collections </li>
+<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -66,7 +66,7 @@ Help? - Contact Us
 </ul>
 <ul>
 <li> Open submenu ( Live Love Dream ) Live Love Dream </li>
-</ul>Close submenu ( Collections ) Collections <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -120,7 +120,7 @@ Help? - Contact Us
 <li> Clearance </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
-<li> Open submenu ( Collections ) Collections </li>
+<li> Open submenu ( Featured ) Featured </li>
 </ul>
 <ul>
 <li> Open submenu ( Tops ) Tops </li>
@@ -135,7 +135,7 @@ Help? - Contact Us
 <li> Cologne </li>
 <li> Clearance </li>
 <li> Extended Sizes </li>
-</ul>Close submenu ( Collections ) Collections <ul>
+</ul>Close submenu ( Featured ) Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
 <li> Uniform </li>
@@ -225,7 +225,6 @@ Help? - Contact Us
 <li> View All </li>
 <li> New to Clearance </li>
 <li> $9.99 + Under </li>
-<li> .99 Undies </li>
 <li> Tops </li>
 <li> Bottoms </li>
 <li> Dresses + Skirts </li>
@@ -298,12 +297,9 @@ Help? - Contact Us
 </p> Shop Girls Shop Guys </li>
 <li> Girls <ul>
 <li> View Home </li>
-<li> Collections <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> SWIM SALE </li>
-<li> 3 for $12 Undies </li>
-<li> Buy 1 Get 2 Socks </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
@@ -381,10 +377,9 @@ Help? - Contact Us
 </li>
 <li> Guys <ul>
 <li> View Home </li>
-<li> Collections <ul>
+<li> Featured <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Buy 1 Get 2 Accessories </li>
 <li> Uniform </li>
 <li> Denim Guide </li>
 <li> Flex Effects </li>
@@ -489,7 +484,6 @@ Help? - Contact Us
 <li> View All </li>
 <li> New to Clearance </li>
 <li> $9.99 + Under </li>
-<li> .99 Undies </li>
 <li> Tops </li>
 <li> Bottoms </li>
 <li> Dresses + Skirts </li>
@@ -555,10 +549,12 @@ Sign Up Give $15, Get $15 FOLLOW US Customer Care <ul>
 <li>Help</li>
 <li>Coupon Page</li>
 <li>My Account</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> Gift Cards <ul>
 <li>eGift Cards</li>
 <li>Lost/Stolen Gift Cards</li>
 <li>Check Gift Card Balance</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> About Us <ul>
 <li>About Aeropostale</li>
 <li>Careers</li>
@@ -566,11 +562,13 @@ Sign Up Give $15, Get $15 FOLLOW US Customer Care <ul>
 <li>Privacy Policy</li>
 <li>CA Transparency Act</li>
 <li>Supply Chain</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> Stay Connected <ul>
 <li>Visit A Store</li>
 <li>Find Store Coupons</li>
 <li>Live Chat (9am - 10pm EST)Call Us</li>
 <li>Use Student Discount</li>
+<li>Buy Online Pick Up In Store</li>
 </ul> © 2018 Aeropostale.
 All Rights Reserved.
 <p>Refer a friend and get $15 off.</p>
