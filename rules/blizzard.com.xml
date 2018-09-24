@@ -1,12 +1,12 @@
 <sitename name="blizzard.com">
- <docname name="Terms of Use">
-   <url name="http://us.blizzard.com/en-us/company/about/termsofuse.html" xpath="//div[@class='wrapper']/div[@class='contents']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
- <docname name="Privacy Policy">
-   <url name="http://us.blizzard.com/en-us/company/about/privacy.html" xpath="//div[@class='contents page-profile']" reviewed="true">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Terms of Use">
+    <url name="https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement" xpath="//div[@class='legalDocContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.blizzard.com/en-us/legal/a4380ee5-5c8d-4e3b-83b7-ea26d01a9918/blizzard-entertainment-online-privacy-policy" xpath="//div[@class='legalDocContent']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

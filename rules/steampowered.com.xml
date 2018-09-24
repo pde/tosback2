@@ -1,6 +1,6 @@
 <sitename name="steampowered.com">
  <docname name="Privacy Policy Agreement">
-   <url name="https://www.cbsinteractive.com/legal/cbsi/privacy-policy" xpath="//div[@id='main_content']" reviewed="true">
+   <url name="https://store.steampowered.com/privacy_agreement/" xpath="//div[@id='newsColumn']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
