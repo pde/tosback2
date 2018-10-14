@@ -6,6 +6,11 @@ Skip Navigation Explore Allstate <ul>
 <li>denver, CO 80201</li>
 <li> Search </li>
 </ul>
+<i>
+</i>
+<ul>
+</ul>Popular Searches <ul>
+</ul>
 <ul>
 <li> Allstate </li>
 <li>
@@ -119,7 +124,16 @@ Vehicle</li>
 <li>
 </ul>
 </li>
-</ul> Toggle navigation Log in Search Close Navigation <ul>
+</ul> Toggle navigation Log in <i>
+</i>
+<i>
+</i>
+<ul>
+</ul>Popular Searches <ul>
+</ul>
+<i>
+</i>
+<ul>
 <li>
 </li>
 <li> Get a Quote <p>Your location is set for <br>denver, CO 80201</p>
@@ -586,5 +600,4 @@ Location data not available.
 Please enter zip code.
 Please Wait...Updating Location...<br>It's taking a bit longer than expected.
 Your update should be done soon.
-This feature is not currently available.<br>Please try again later.<br> ".
-ECC Monitor: OK 
+This feature is not currently available.<br>Please try again later.<br> ECC Monitor: OK 
