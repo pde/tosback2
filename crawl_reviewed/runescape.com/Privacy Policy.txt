@@ -1,11 +1,11 @@
-Privacy Policy <p>Version 0.2</p>
-<p>Date July 24<sup>th</sup>, 2018.</p>
+Privacy Policy <p>Version 0.3</p>
+<p>Date October 29, 2018.</p>
 <strong>INTRODUCTION</strong>
 <p>Jagex respects your privacy and is committed to protecting your personal data.
-This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.</p>
+This privacy policy will inform you as to how we look after your personal data when you play our games, visit our website (regardless of where you visit it from) or otherwise access any of our products and services and tell you about your privacy rights and how the law protects you.</p>
 <p>The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA).
 It also addresses the export of personal data outside the EU and EEA areas.
-The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.</p>
+The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.</p>
 <p>
 <strong>1.
 IMPORTANT INFORMATION AND WHO WE ARE</strong>
@@ -13,7 +13,7 @@ IMPORTANT INFORMATION AND WHO WE ARE</strong>
 <p>
 <strong>PURPOSE OF THIS PRIVACY POLICY</strong>
 </p>
-<p>This privacy policy aims to give you information on how Jagex collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to play any of our games, subscribe to our newsletter, purchase a product or service or take part in a competition or a survey.</p>
+<p>This privacy policy aims to give you information on how Jagex collects and processes your personal data through your use of our games, whether through our websites or through your mobile device, including any data you may provide when you sign up to play any of our games, subscribe to our newsletter, purchase a product or service or take part in a competition or a survey.</p>
 <p>This website is not intended for children under 13 years old and we do not knowingly collect data relating to children under 13 years old.</p>
 <p>It is important that you read this privacy policy together with any other policies we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data.
 This privacy policy supplements the other policies and is not intended to override them.</p>
@@ -27,16 +27,16 @@ If you have any questions about this privacy policy, including any requests to e
 <strong>CONTACT DETAILS</strong>
 </p>
 <p>Our full details are:</p>
-<p>Full name of legal entity: Jagex Limited</p>
-<p>Name of external DPO: Robert Healey</p>
-<p>Email address: DPO@jagex.com</p>
-<p>Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.</p>
+<p>Full name of legal entity: Jagex Limited<br>
+Name of external DPO: Robert Healey<br>
+Email address: DPO@jagex.com<br>
+Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.</p>
 <p>You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (<em>www.ico.org.uk</em>).
 We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.</p>
 <p>
 <strong>CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES</strong>
 </p>
-<p>This version was last updated on May 2018 and historic versions can be obtained by contacting us.</p>
+<p>This version was last updated on October 2018 and historic versions can be obtained by contacting us.</p>
 <p>It is important that the personal data we hold about you is accurate and current.
 Please keep us informed if your personal data changes during your relationship with us.</p>
 <p>
@@ -64,10 +64,8 @@ It does not include data where the identity has been removed (anonymous data).</
 <ul>
 <li>
 <strong>Transaction Data</strong> includes details about payments to and from you and other details of products and services you have purchased from us.</li>
-</ul>
-<ul>
 <li>
-<strong>Technical Data</strong> includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.</li>
+<strong>Technical Data</strong> includes internet protocol (IP) address, unique mobile device identification numbers (such as your Media Access Control (MAC) address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI), type of device, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.</li>
 </ul>
 <ul>
 <li>
@@ -89,6 +87,9 @@ For example, we may aggregate your Usage Data to calculate the percentage of use
 However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.</p>
 <p>We do not collect any <strong>Special Categories of Personal Data</strong> about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data).
 Nor do we collect any information about criminal convictions and offences.</p>
+<p>We use mobile analytics software to allow us to better understand the functionality of our mobile software on your device.
+This software may record information such as how often you play our games, the events that occur within the games, aggregated usage, performance data, and where the games were downloaded from.
+We do not link the information we store within the analytics software to any personal information you submit within the games.</p>
 <p>
 <strong>IF YOU FAIL TO PROVIDE PERSONAL DATA</strong>
 </p>
@@ -138,11 +139,9 @@ Please see our Cookie Policy for further details.</li>
 <li>Technical Data from the following parties:</li>
 </ul>
 <p>
-<strong>(a) </strong>analytics providers such as Google based inside <strong>AND</strong> outside the EU;</p>
-<p>
+<strong>(a) </strong>analytics providers such as Google based inside <strong>AND</strong> outside the EU;<br>
 <strong>(b) </strong>advertising networks such as Facebook based inside <strong>AND</strong> outside the EU.
-and</p>
-<p>
+and<br>
 <strong>(c) </strong>search information providers such as Google based inside <strong>AND</strong> outside the EU.</p>
 <ul>
 <li>Contact, and Transaction Data from providers of technical, payment and delivery services based inside <strong>AND</strong> outside the EU.</li>
@@ -288,6 +287,35 @@ This is how we decide which products, services and offers may be relevant for yo
 </p>
 <p>You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by Contacting us at any time.</p>
 <p>Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.</p>
+<p>
+<strong>OPTING OUT OF ADVERTISING ID</strong>
+</p>
+<p>The Identifier For Advertising (IDFA) is a unique, user-resettable ID for advertising, provided by the mobile device’s operating system.
+We may use this ID to enhance serving and targeting capabilities, re-target specific campaigns, pass the ID to our partners.
+Advertising ID does not reveal any information about the user or the device.
+If you prefer to opt-out or reset your Identifier For Advertising (IDFA), please follow these standard instructions:</p>
+<ul>
+<li>iOS - Opt out of interest-based ads in the App Store and Apple News (https://support.apple.com/en-us/HT202074).</li>
+<li>Android - Opt out of seeing personalized ads (https://support.google.com/ads/answer/2662922?hl=en).</li>
+</ul>
+<p>
+<strong>OPTING OUT OF THIRD-PARTY TAILORED ADVERTISING</strong> </p>
+<p>If you do not want to receive tailored in-application advertisements from third parties that relate to your interests in our games on your mobile device, you may opt- out by:</p>
+<ul>
+<li>adjusting the ad tracking settings on your device</li>
+<li>resetting your Identifier For Advertising (IDFA) from your mobile device’s settings page, which will prevent continued use of existing behavioural data tied to the previous Identifier For Advertising (IDFA).</li>
+<li>visiting the following link: https://www.appsflyer.com/optout.</li>
+</ul>
+<p>Please note that you may still receive advertisements from third parties within our games even if you opt out of tailored advertising, but they will not be based on your activity across unrelated web sites or apps.</p>
+<p>
+<strong>OPTING OUT OF GEOLOCATION</strong>
+</p>
+<p>If you have previously allowed us to access your geolocation data, you can stop making geolocation available to us by visiting your mobile device's settings for the games or the “settings” page for the games.</p>
+<p>
+<strong>OPTING OUT OF OTHER COMMUNICATIONS</strong>
+</p>
+<p>When you install our games on your mobile device you can choose to receive push notifications, which are messages our games send you on your mobile device even when the game is not on.
+You can turn off notifications by visiting your mobile device’s “settings” page.</p>
 <p>
 <strong>COOKIES</strong>
 </p>
