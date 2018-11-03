@@ -86,7 +86,7 @@ Additional Features are purchased or enabled separately and distinctly from Your
 <p>
 <strong>Agreement</strong>: means the Master Subscription Agreement together with any and all Supplemental Terms, Order Forms (as defined below), other ordering documents such as a Statement Of Work (“SOW”), Business Associate Agreement (“BAA”), and Data Processing Agreement (“DPA”) (each, where applicable) along with the Zendesk Privacy Policy located on Our Site.</p>
 <p>
-<strong>Applicable Data Protection Law</strong>: means the following data protection law(s): (i) where You (acting as data controller or data processor) are established in an European Economic Area (“EEA”) member state or where Your Agents or End-Users access the Services from a (“EEA”) member state the EU Regulation 2016/679 entitled “On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)” and any applicable national laws made under it.
+<strong>Applicable Data Protection Law</strong>: means the following data protection law(s): (i) where You (acting as data controller or data processor) are established in an European Economic Area EEA member state or where Your Agents or End-Users access the Services from a EEA member state the EU Regulation 2016/679 entitled “On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)” and any applicable national laws made under it.
 and (ii) where You are established in Switzerland, the Swiss Federal Act of 19 June 1992 on Data Protection (as may be amended or superseded).</p>
 <p>
 <strong>API</strong>: means the application programming interfaces developed and enabled by Zendesk that permit Subscribers to access certain functionality provided by the Services, including, without limitation, the REST API that enables the interaction with the Services automatically through HTTP requests and the application development API that enables the integration of the Services with other web applications.</p>
@@ -724,7 +724,7 @@ These safeguards include encryption of Service Data in transmission with Our UI�
 We have an incident management process for security events that may affect the confidentiality, integrity, or availability of Our systems or data that includes a response time under which Zendesk will contact its subscribers upon verification of a security incident that affects Your Service Data.
 This process specifies courses of action, procedures for notification, escalation, mitigation, and documentation.
 The incident response program includes 24×7 centralized monitoring systems and on-call staffing to respond to service incidents.
-Unless ordered otherwise by law enforcement or government agency, You will be notified within seventy-two (72 hours of a Service Data Breach.
+Unless ordered otherwise by law enforcement or government agency, You will be notified within seventy-two (72) hours of a Service Data Breach.
 “Service Data Breach” is defined as an unauthorized access or improper disclosure that has been verified to have affected Your Service Data.</p>
 <p>
 <strong>4.
