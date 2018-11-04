@@ -6,38 +6,28 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
-	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
-	modified:   ../crawl/agame.com/Privacy Policy.txt
 	modified:   ../crawl/alibaba.com/Privacy Policy.txt
 	modified:   ../crawl/allthingsd.com/Privacy Policy.txt
-	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
-	modified:   ../crawl/bankrate.com/Privacy Policy.txt
+	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
 	modified:   ../crawl/cableone.net/Acceptable Use Policy.txt
 	modified:   ../crawl/cableone.net/Terms and Conditions.txt
 	modified:   ../crawl/careerpath.com/Privacy Policy.txt
 	modified:   ../crawl/daum.net/Privacy Policy.txt
 	modified:   ../crawl/elearners.com/Privacy Policy.txt
-	modified:   ../crawl/fandango.com/Privacy Policy.txt
+	modified:   ../crawl/elpasotimes.com/Privacy Policy.txt
 	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
-	modified:   ../crawl/fedex.com/Privacy Policy.txt
-	modified:   ../crawl/fisher-price.com/Privacy Policy.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
+	modified:   ../crawl/help.twcable.com/Residential Services Subscriber Agreement.txt
 	modified:   ../crawl/hotels.com/Privacy Policy.txt
 	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
 	modified:   ../crawl/indeed.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/jobgo.com/Privacy Policy.txt
-	modified:   ../crawl/landsend.com/Privacy Policy.txt
-	modified:   ../crawl/mattel.com/Privacy Policy.txt
-	modified:   ../crawl/mediaplex.com/Privacy Policy.txt
-	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
 	modified:   ../crawl/nature.org/Privacy Policy.txt
+	modified:   ../crawl/neimanmarcus.com/Privacy Policy.txt
 	modified:   ../crawl/nfl.com/Privacy Policy.txt
-	modified:   ../crawl/officemax.com/Privacy Policy.txt
 	modified:   ../crawl/okcupid.com/Privacy Policy.txt
-	modified:   ../crawl/orbitz.com/Privacy Policy.txt
-	modified:   ../crawl/otalliance.org/Privacy Policy.txt
 	modified:   ../crawl/patch.com/Privacy Policy.txt
 	modified:   ../crawl/paypal.com/Privacy Policy.txt
 	modified:   ../crawl/pbskids.org/Privacy Policy.txt
@@ -47,19 +37,18 @@ Changes not staged for commit:
 	modified:   ../crawl/reuters.com/Privacy Policy.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
 	modified:   ../crawl/sencha.com/Privacy Policy.txt
+	modified:   ../crawl/shockwave.com/Privacy Policy.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
 	modified:   ../crawl/spiegel.de/Privacy Policy.txt
-	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
 	modified:   ../crawl/subaru.com/Privacy Policy.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
-	modified:   ../crawl/typepad.com/Terms of Service.txt
 	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
+	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
 	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
-	modified:   ../crawl/wix.com/Privacy Policy.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl/zendesk.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/msn.com/Privacy Policy.txt
 	modified:   ../crawl_reviewed/sonic.net/All Policies.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
