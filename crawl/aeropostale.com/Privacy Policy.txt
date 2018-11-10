@@ -9,13 +9,9 @@ Open submenu ( Guys ) Guys </li>
 <li>
 Open submenu ( Jeans ) Jeans </li>
 <li>
-Open submenu ( Clearance ) Clearance </li>
-<ul>
+Open submenu ( Gifts ) Gifts </li>
 <li>
-<i>
-</i>
-Select Country </li>
-</ul>
+Open submenu ( Clearance ) Clearance </li>
 <ul>
 <li> Help? - Contact Us
 Help? - Contact Us
@@ -32,25 +28,25 @@ Help? - Contact Us
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Aero One </li>
+<li> Gifts for Her </li>
 <li> Best Sellers </li>
 <li> Destroyed Denim </li>
-<li> Cozy </li>
-<li> Knotted + Twisted </li>
 <li> New Jean Fits </li>
-<li> Flex Effects </li>
-<li> Lace Up Details </li>
-<li> Message Tees </li>
+<li> Cozy </li>
+<li> Online Only </li>
+<li> Aero One </li>
+<li> Matching Sets </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Aero One </li>
+<li> Gifts for Him </li>
 <li> Best Sellers </li>
 <li> Destroyed Denim </li>
-<li> Lounge </li>
 <li> Layer Up </li>
-<li> Message Tees </li>
-<li> Flex Effects </li>
+<li> Active </li>
+<li> Online Only </li>
+<li> Aero One </li>
+<li> Matching Sets </li>
 </ul>Close submenu ( Girls ) Girls <ul>
 <li> View Home </li>
 <li> Open submenu ( Tops ) Tops </li>
@@ -59,12 +55,12 @@ Help? - Contact Us
 <li> Open submenu ( Bottoms ) Bottoms </li>
 </ul>
 <ul>
-<li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
-<li> Winter Accessories </li>
+<li> Hats, Gloves + Scarves </li>
+<li> Dresses + Rompers </li>
 <li> Accessories </li>
+<li> Slippers + Slides </li>
 <li> Fragrance </li>
-<li> Shoes </li>
 <li> Extended Sizes </li>
 <li> Clearance </li>
 </ul>
@@ -77,9 +73,9 @@ Help? - Contact Us
 <li> View All </li>
 <li> Tees </li>
 <li> Graphic Tees </li>
-<li> Polos </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Polos </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
 <li> Shirts </li>
@@ -103,10 +99,6 @@ Help? - Contact Us
 </li>
 <li>
 </li>
-<li>
-</li>
-<li>
-</li>
 </ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
 <li> View All </li>
 <li> Active </li>
@@ -118,13 +110,11 @@ Help? - Contact Us
 </ul>Close submenu ( Collections ) Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Flash Sale </li>
-<li> Denim Guide </li>
-<li> Flex Effects </li>
-<li> Tribe Of Tees </li>
-<li> Logo Shop </li>
-<li> Seriously Soft </li>
 <li> Online Only </li>
+<li> Denim Guide </li>
+<li> Tribe Of Tees </li>
+<li> Basic Essentials </li>
+<li> Seriously Soft </li>
 <li> Uniform </li>
 </ul>Close submenu ( Guys ) Guys <ul>
 <li> View Home </li>
@@ -135,7 +125,7 @@ Help? - Contact Us
 </ul>
 <ul>
 <li> Jackets + Vests </li>
-<li> Winter Accessories </li>
+<li> Hats, Gloves + Scarves </li>
 <li> Accessories </li>
 <li> Underwear </li>
 <li> Cologne + Grooming </li>
@@ -180,14 +170,12 @@ Help? - Contact Us
 </ul>Close submenu ( Collections ) Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Flash Sale </li>
+<li> Online Only </li>
 <li> Denim Guide </li>
-<li> Flex Effects </li>
 <li> Tribe of Tees </li>
 <li> Lounge </li>
 <li> Active </li>
-<li> Logo Shop </li>
-<li> Online Only </li>
+<li> Back to Basics </li>
 <li> Uniform </li>
 </ul>Close submenu ( Jeans ) Jeans <ul>
 <li> View Home </li>
@@ -197,6 +185,7 @@ Help? - Contact Us
 <li> Open submenu ( Guys Jeans ) Guys Jeans </li>
 </ul>Close submenu ( Girls Jeans ) Girls Jeans <ul>
 <li> View All </li>
+<li> Destroyed Denim </li>
 <li> New Fits </li>
 <li> Low Rise Jegging </li>
 <li> High Rise Ankle Jegging </li>
@@ -210,7 +199,6 @@ Help? - Contact Us
 <li> Overalls </li>
 <li> Flex Effects </li>
 <li> Eco-Friendly Repreve </li>
-<li> Destroyed Denim </li>
 </ul>Close submenu ( Guys Jeans ) Guys Jeans <ul>
 <li> View All </li>
 <li> Super Skinny </li>
@@ -222,6 +210,34 @@ Help? - Contact Us
 <li> Relaxed </li>
 <li> Flex Effects </li>
 <li> Destroyed Denim </li>
+</ul>Close submenu ( Gifts ) Gifts <ul>
+<li> View Home </li>
+<li> Open submenu ( Gifts for Her ) Gifts for Her </li>
+</ul>
+<ul>
+<li> Open submenu ( Gifts for Him ) Gifts for Him </li>
+</ul>
+<ul>
+<li> Open submenu ( Gift Cards ) Gift Cards </li>
+</ul>Close submenu ( Gifts for Her ) Gifts for Her <ul>
+<li> View All </li>
+<li> Gifts Under $10 </li>
+<li> Gifts Under $20 </li>
+<li> Stocking Stuffers </li>
+<li> Comfy + Cozy </li>
+<li> Favorites For Her </li>
+<li> Best Sellers </li>
+</ul>Close submenu ( Gifts for Him ) Gifts for Him <ul>
+<li> View All </li>
+<li> Gifts Under $10 </li>
+<li> Gifts Under $20 </li>
+<li> Stocking Stuffers </li>
+<li> Lounge </li>
+<li> Favorites For Him </li>
+<li> Best Sellers </li>
+</ul>Close submenu ( Gift Cards ) Gift Cards <ul>
+<li> View All </li>
+<li> eGift Cards </li>
 </ul>Close submenu ( Clearance ) Clearance <ul>
 <li> View Home </li>
 <li> Open submenu ( Girls ) Girls </li>
@@ -260,17 +276,15 @@ Help? - Contact Us
 <li> Swim </li>
 <li> Active </li>
 <li> Lounge </li>
-</ul> BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <strong>EXTRA 15% OFF </strong>USE CODE<strong> FLASH15  </strong>
-<u>GIRLS</u>
-<u> GUYS</u>
-<strong>50-70% OFF EVERYTHING + FREE SHIPPING OVER $50</strong>
+</ul>
+<strong>SPEND $50 GET A $10 CASH CARD <sub>
+<u>DETAILS</u>
+</sub>
+</strong>
+<strong>FREE SHIPPING ON ORDERS OVER $50</strong>
 <ul>
 <li>
 </li>
-<li>
-<i>
-</i>
-Select Country </li>
 <li> My Account My Account Login Register </li>
 </ul> Menu Find a Store Aeropostale <ul>
 <li> New Arrivals <ul>
@@ -278,15 +292,14 @@ Select Country </li>
 <li> Girls <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Aero One </li>
+<li> Gifts for Her </li>
 <li> Best Sellers </li>
 <li> Destroyed Denim </li>
-<li> Cozy </li>
-<li> Knotted + Twisted </li>
 <li> New Jean Fits </li>
-<li> Flex Effects </li>
-<li> Lace Up Details </li>
-<li> Message Tees </li>
+<li> Cozy </li>
+<li> Online Only </li>
+<li> Aero One </li>
+<li> Matching Sets </li>
 </ul>
 </li>
 </ul>
@@ -294,13 +307,14 @@ Select Country </li>
 <li> Guys <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Aero One </li>
+<li> Gifts for Him </li>
 <li> Best Sellers </li>
 <li> Destroyed Denim </li>
-<li> Lounge </li>
 <li> Layer Up </li>
-<li> Message Tees </li>
-<li> Flex Effects </li>
+<li> Active </li>
+<li> Online Only </li>
+<li> Aero One </li>
+<li> Matching Sets </li>
 </ul>
 </li>
 </ul>
@@ -313,9 +327,9 @@ Select Country </li>
 <li> View All </li>
 <li> Tees </li>
 <li> Graphic Tees </li>
-<li> Polos </li>
 <li> Long Sleeve </li>
 <li> Hoodies + Sweatshirts </li>
+<li> Polos </li>
 <li> Camis + Tanks </li>
 <li> Fashion Tops </li>
 <li> Shirts </li>
@@ -343,20 +357,16 @@ Select Country </li>
 </li>
 <li>
 </li>
-<li>
-</li>
-<li>
-</li>
 </ul>
 </li>
 </ul>
 <ul>
-<li> Dresses + Rompers </li>
 <li> Jackets + Vests </li>
-<li> Winter Accessories </li>
+<li> Hats, Gloves + Scarves </li>
+<li> Dresses + Rompers </li>
 <li> Accessories </li>
+<li> Slippers + Slides </li>
 <li> Fragrance </li>
-<li> Shoes </li>
 <li> Extended Sizes </li>
 <li> Clearance </li>
 </ul>
@@ -376,13 +386,11 @@ Select Country </li>
 <li> Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Flash Sale </li>
-<li> Denim Guide </li>
-<li> Flex Effects </li>
-<li> Tribe Of Tees </li>
-<li> Logo Shop </li>
-<li> Seriously Soft </li>
 <li> Online Only </li>
+<li> Denim Guide </li>
+<li> Tribe Of Tees </li>
+<li> Basic Essentials </li>
+<li> Seriously Soft </li>
 <li> Uniform </li>
 </ul>
 </li>
@@ -432,7 +440,7 @@ Select Country </li>
 </ul>
 <ul>
 <li> Jackets + Vests </li>
-<li> Winter Accessories </li>
+<li> Hats, Gloves + Scarves </li>
 <li> Accessories </li>
 <li> Underwear </li>
 <li> Cologne + Grooming </li>
@@ -443,14 +451,12 @@ Select Country </li>
 <li> Collections <ul>
 <li> View All </li>
 <li> New Arrivals </li>
-<li> Flash Sale </li>
+<li> Online Only </li>
 <li> Denim Guide </li>
-<li> Flex Effects </li>
 <li> Tribe of Tees </li>
 <li> Lounge </li>
 <li> Active </li>
-<li> Logo Shop </li>
-<li> Online Only </li>
+<li> Back to Basics </li>
 <li> Uniform </li>
 </ul>
 </li>
@@ -462,6 +468,7 @@ Select Country </li>
 <li> View Home </li>
 <li> Girls Jeans <ul>
 <li> View All </li>
+<li> Destroyed Denim </li>
 <li> New Fits </li>
 <li> Low Rise Jegging </li>
 <li> High Rise Ankle Jegging </li>
@@ -475,7 +482,6 @@ Select Country </li>
 <li> Overalls </li>
 <li> Flex Effects </li>
 <li> Eco-Friendly Repreve </li>
-<li> Destroyed Denim </li>
 </ul>
 </li>
 </ul>
@@ -496,6 +502,39 @@ Select Country </li>
 </ul>
 <p>
 </p>
+</li>
+<li> Gifts <ul>
+<li> View Home </li>
+<li> Gifts for Her <ul>
+<li> View All </li>
+<li> Gifts Under $10 </li>
+<li> Gifts Under $20 </li>
+<li> Stocking Stuffers </li>
+<li> Comfy + Cozy </li>
+<li> Favorites For Her </li>
+<li> Best Sellers </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Gifts for Him <ul>
+<li> View All </li>
+<li> Gifts Under $10 </li>
+<li> Gifts Under $20 </li>
+<li> Stocking Stuffers </li>
+<li> Lounge </li>
+<li> Favorites For Him </li>
+<li> Best Sellers </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Gift Cards <ul>
+<li> View All </li>
+<li> eGift Cards </li>
+</ul>
+</li>
+</ul>
 </li>
 <li> Clearance <ul>
 <li> View Home </li>
@@ -543,12 +582,6 @@ Select Country </li>
 </p>
 </li>
 <ul>
-<li>
-<i>
-</i>
-Select Country </li>
-</ul>
-<ul>
 <li> Help? - Contact Us
 Help? - Contact Us
 </li>
@@ -556,7 +589,7 @@ Help? - Contact Us
 <li> Refer a Friend </li>
 </ul>
 </ul> 0 Your Shopping Cart is Empty FREE SHIPPING<br>ON ORDERS OVER $50 Search Catalog
-Search Free Shipping on Orders over $50 or When You Buy Jeans Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Learn More &lt;div class="browser-compatibility-alert"&gt.
+Search Free Shipping on Orders over $50 or When You Buy Hoodies or Joggers Shop Girls Shop Guys Shop Girls Hoodies Shop Guys Hoodies Shop Girls Tees Shop Guys Tees Shop Girls Jeans Shop Guys Jeans Shop Girls Shop Guys Shop Girls Clearance Shop Guys Clearance Learn More &lt;div class="browser-compatibility-alert"&gt.
 &lt;i class="fa fa-exclamation-triangle fa-2x pull-left"&gt;&lt;/i&gt.
 &lt;p class="browser-error"&gt;Your browser's Javascript functionality is turned off.
 Please turn it on so that you can experience the full capabilities of this site.&lt;/p&gt.
@@ -593,15 +626,6 @@ Conditions Details FOLLOW US Customer Care <ul>
 <li>Find Store Coupons</li>
 <li>Live Chat (9am - 10pm EST)Call Us</li>
 <li>Use Student Discount</li>
+<li>Store FAQs</li>
 </ul> © 2018 Aeropostale.
 All Rights Reserved.
-<p>Refer a friend and get $15 off.</p>
-<p>Refer a friend</p>
-<p>GET Our Gratitude when they make a purchase</p> Refer Now <p>Were You Referred to Us?</p>
-<p>Enter Your Friend's Code</p> Submit<i>
-</i>
-<i>
-</i>
-<i>
-</i> ...
-Refer Now 
