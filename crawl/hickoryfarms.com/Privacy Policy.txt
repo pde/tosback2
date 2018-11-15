@@ -12,6 +12,7 @@ Crates </li>
 <li> New! </li>
 </ul>
 <ul>Occasions
+<li>Christmas</li>
 <li>Thanksgiving</li>
 <li>Birthday Gifts</li>
 </ul> Most Popular New! Thanksgiving Gifts </li>
@@ -83,9 +84,10 @@ Confections </li>
 Cakes </li>
 <li> Holiday <ul>View All Categories
 Shop by Category
+<li> Christmas Gifts </li>
 <li> Thanksgiving Gifts </li>
 <li> Entertaining </li>
-<li> Christmas Gifts </li>
+<li> Stocking Stuffers </li>
 </ul>
 <ul>Occasions
 <li>Birthday Gifts</li>
@@ -121,6 +123,7 @@ Crates </li>
 <li> New! </li>
 </ul>
 <ul>Occasions
+<li>Christmas</li>
 <li>Thanksgiving</li>
 <li>Birthday Gifts</li>
 </ul> Most Popular New! Thanksgiving Gifts </li>
@@ -192,9 +195,10 @@ Confections </li>
 Cakes </li>
 <li> Holiday <ul>View All Categories
 Shop by Category
+<li> Christmas Gifts </li>
 <li> Thanksgiving Gifts </li>
 <li> Entertaining </li>
-<li> Christmas Gifts </li>
+<li> Stocking Stuffers </li>
 </ul>
 <ul>Occasions
 <li>Birthday Gifts</li>
@@ -297,8 +301,8 @@ Offer will be delivered to your email address.</p> Thank you! <p>%%Email Address
 <p>is now subscribed.</p>
 <p>Check your email for your exclusive offer!</p>
 <p>
-</p> Already Subscribed! <p>%%Email Address%%</p>
-<p>is already subscribed!</p>
-<p>You should be receiving Hickory Farms emails.</p>
+</p> Sorry, this offer is just for new subscribers! <p>%%Email Address%%</p>
+<p>is already subscribed.</p>
+<p>Watch your inbox to be the first to get exclusive Hickory Farms email offers!</p>
 <p>
 </p> Feedback 
