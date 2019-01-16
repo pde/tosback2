@@ -7,9 +7,9 @@ Listen Live Toggle initial options for NPR audio player<b>
 <li>
 </li>
 <li>
-<li>
+<li>Sign In</li>
 <li> Shop </li>
-<li>
+<li>Donate</li>
 <li> Open Navigation Menu </li>
 </ul> Close Navigation Menu <ul>
 <li> Home </li>
@@ -51,10 +51,12 @@ Design </li>
 Podcasts Expand/collapse submenu for Shows &amp.
 Podcasts Daily <ul>
 <li> Morning Edition </li>
+<li> Weekend Edition Saturday </li>
+<li> Weekend Edition Sunday </li>
 <li> All Things Considered </li>
 <li> Fresh Air </li>
 <li> Up First </li>
-</ul>Featured<ul>
+</ul>Featured <ul>
 <li> How I Built This with Guy Raz </li>
 <li> Wait Wait...Don't Tell Me! </li>
 <li> Planet Money </li>
@@ -66,7 +68,7 @@ Podcasts</li>
 </ul>
 </li>
 <li> Search </li>
-<li>
+<li>Sign In</li>
 <li> Shop </li>
 </ul>
 <ul>
