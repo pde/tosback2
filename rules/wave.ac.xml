@@ -1,13 +1,12 @@
 <sitename name="wave.ac">
  <docname name="Privacy Policy">
-   <url name="https://wave.ac/privacy" xpath="//main" reviewed="true">
+   <url name="https://wave.ac/privacy" xpath="//main" lang="EN">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Terms and Conditions of Use">
-   <url name="https://wave.ac/terms"  xpath="//main" reviewed="true">
+   <url name="https://wave.ac/terms"  xpath="//main" lang="EN">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
-
 </sitename>
