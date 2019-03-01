@@ -1,6 +1,11 @@
 <sitename name="meetup.com">
+ <docname name="Terms of Service">
+   <url name="https://www.meetup.com/terms/" xpath="//div[@class='policyDocument']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.meetup.com/privacy" xpath="//div[@id='C_document']">
+   <url name="https://www.meetup.com/privacy/" xpath="//div[@class='policyDocument']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
