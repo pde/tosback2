@@ -1,8 +1,8 @@
-##ToSBack!
+# ToSBack!
 
 This is a ruby implementation of TOSBack! Designed to scrape the Privacy Policies and Terms of Service agreements from sites defined in the rules folder. 
 
-#### Rules
+## Rules
 
 The log files in "logs" should give info on when the script was last run, and if one of the rule's URLs needs to be updated. Typically, tosback.rb will grab the body of a URL and try to strip away the html before storing the policy, but if a site is coming back as modified every time the script runs (thanks to ads or related links changing), you can now add an xpath attribute to the url in the xml data to pinpoint the TOS data on the page:
 
@@ -16,7 +16,7 @@ Here's an example:
 
 Now, tosback.rb should only grab the content we want from that URL! Hooray!
 
-#### Developing
+## Developing
 
 After cloning the project, use the `--without production` option to install the required gems:
 
@@ -35,4 +35,3 @@ This will only scrape and write the rule you pass, so you can add xpath data to 
 Running with the "-empty" argument will scan the crawl directory and update the empty.log! Example:
 
   `rubycode$ ruby main.rb -empty`
-
