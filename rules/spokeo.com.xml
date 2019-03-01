@@ -1,6 +1,16 @@
 <sitename name="spokeo.com">
+ <docname name="Terms of Use (Consumer)">
+   <url name="https://www.spokeo.com/terms-of-use-consumer" xpath="//div[@class='app-container']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Terms of Use (Enterprise)">
+   <url name="https://www.spokeo.com/terms-of-use-enterprise" xpath="//div[@class='app-container']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
  <docname name="Privacy Policy">
-   <url name="http://www.spokeo.com/privacy/terms" xpath="//div[@id='main_panel_content']">
+   <url name="https://www.spokeo.com/privacy-policy" xpath="//div[@class='app-container']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
