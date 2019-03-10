@@ -1,5 +1,5 @@
 
-2090cf4b-b2c2-498a-8b4a-7eb6d8d60be1 <ul>
+6ead8096-86a4-4269-9e25-f3324835a722 <ul>
 <li>
 <p>
 </p>
@@ -28,8 +28,32 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> Mobile </li>
-<li> Latino </li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="ac718b90-3c6b-4a4d-a654-12a553661910" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="ac718b90\u002D3c6b\u002D4a4d\u002Da654\u002D12a553661910"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="18122af2-292d-4936-aab7-eaaafa41b07c" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="18122af2\u002D292d\u002D4936\u002Daab7\u002Deaaafa41b07c"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
 <li> Business </li>
 </ul>
 </li>
@@ -68,8 +92,32 @@ Offers * Street Address Enter your street address Apartment * Zip Code Enter you
 <li> Spectrum Internet </li>
 <li> Spectrum TV </li>
 <li> Spectrum Voice </li>
-<li> Mi Plan Latino </li>
-<li> Spectrum Mobile </li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="7148ddea-ac25-4901-a2aa-5de7d14cdbf1" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="7148ddea\u002Dac25\u002D4901\u002Da2aa\u002D5de7d14cdbf1"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="10f01ea3-0ea3-406a-8e76-320df2889f50" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="10f01ea3\u002D0ea3\u002D406a\u002D8e76\u002D320df2889f50"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
 </ul> Explore Spectrum + <ul>
