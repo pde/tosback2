@@ -1,0 +1,7 @@
+<sitename name="tp-link.com">
+  <docname name="Privacy and Terms of Use">
+    <url name="https://www.tp-link.com/us/privacy" xpath="//div[@id='article']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+ </sitename>
