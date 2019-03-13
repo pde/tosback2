@@ -1,12 +1,12 @@
 <sitename name="netgear.com">
-	<docname name="Terms and Conditions">
-	  <url name="https://www.netgear.com/about/terms-and-conditions/default.aspx" xpath="//article" lang="EN">
-	    <norecurse name="arbitrary"/>
-	  </url>
-	</docname>
-	<docname name="Privacy Policy">
-	  <url name="https://www.netgear.com/about/privacy-policy/default.aspx" xpath="//article" lang="EN">
-	    <norecurse name="arbitrary"/>
-	  </url>
-	</docname>
+  <docname name="Terms and Conditions">
+    <url name="https://www.netgear.com/about/terms-and-conditions/default.aspx" xpath="//article" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.netgear.com/about/privacy-policy/default.aspx" xpath="//article" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

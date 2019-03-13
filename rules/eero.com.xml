@@ -1,12 +1,12 @@
 <sitename name="eero.com">
-	<docname name="Terms of Service">
-	 <url name="https://eero.com/legal/tos" xpath="//div[@class='legal-content']" lang="EN">
-	   <norecurse name="arbitrary"/>
-	 </url>
-	</docname>
-	<docname name="Privacy policy for eero Devices, Applications and Services">
-	 <url name="https://eero.com/legal/privacy" xpath="//div[@class='legal-content']" lang="EN">
-	   <norecurse name="arbitrary"/>
-	 </url>
-	</docname>
+  <docname name="Terms of Service">
+    <url name="https://eero.com/legal/tos" xpath="//div[@class='legal-content']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy policy for eero Devices, Applications and Services">
+    <url name="https://eero.com/legal/privacy" xpath="//div[@class='legal-content']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

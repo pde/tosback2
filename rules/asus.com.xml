@@ -1,12 +1,12 @@
 <sitename name="asus.com">
-	<docname name="Terms of Use">
-	 <url name="https://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/" xpath="//div[@id='main-zone']" lang="EN">
-	   <norecurse name="arbitrary"/>
-	 </url>
-	</docname>
-	<docname name="Privacy Policy">
-	 <url name="https://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/" xpath="//div[@id='main-zone']" lang="EN">
-	   <norecurse name="arbitrary"/>
-	 </url>
-	</docname>
+  <docname name="Terms of Use">
+    <url name="https://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Official-Site/" xpath="//div[@id='main-zone']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/" xpath="//div[@id='main-zone']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>
