@@ -20,7 +20,7 @@
 <li>Other Things You Should Know (Keep Reading!)</li>
 <li>Transferring Information</li>
 <li>Ads and Analytics Services Provided by Others</li>
-<li>Third Party Software</li>
+<li>Third Party Software and Services</li>
 <li>Visitors to Our Users’ Websites</li>
 <li>Privacy Policy Changes</li>
 <li>Change log</li>
@@ -87,7 +87,8 @@ This might be obvious to you…but it’s not to everyone!</li>
 <strong>Credentials:</strong> Depending on the Services you use, you may provide us with credentials for your website (like SSH, FTP, and SFTP username and password).
 For example, Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems on their site more quickly.</li>
 <li>
-<strong>Communications with Us (Hi There!):</strong> You may also provide us information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question about your site in our public forums, or sign up for a newsletter like the one we send through Longreads.</li>
+<strong>Communications with Us (Hi There!):</strong> You may also provide us information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question about your site in our public forums, or sign up for a newsletter like the one we send through Longreads.
+When you communicate with us via form, email, phone, WordPress.com comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).</li>
 </ul>
 <i>Information We Collect Automatically</i>
 <p>We also collect some information automatically:</p>
@@ -158,14 +159,17 @@ Sharing Information
 We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.</li>
 <li>
 <strong>Third Party Vendors:</strong> We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you or your site.
-This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic), those that assist us with our marketing efforts (e.g.
+This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, payment providers you use for your ecommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic), those that assist us with our marketing efforts (e.g.
 by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and companies that make products available on our websites (such as the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you.
 We require vendors to agree to privacy commitments in order to share information with them.
 Other vendors are listed in our more specific policies (e.g.
 our Cookie Policy).</li>
 <li>
-<strong>Legal Requests:</strong> We may disclose information about you in response to a subpoena, court order, or other governmental request.
-For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines.</li>
+<strong>Legal and Regulatory Requirements:</strong> We may disclose information about you in response to a subpoena, court order, or other governmental request.
+For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines.
+Additionally, if you have a domain registered with WordPress.com, we may share your information to comply with the Internet Corporation for Assigned Names and Numbers’ (ICANN) regulations, rules, or policies.
+For example, your information relating to your domain registration may be available in the WHOIS database, or we may be required to share your information with ICANN-approved Dispute Resolution Service Providers.
+Please see our Domain Registrations and Privacy support document for more details.</li>
 <li>
 <strong>To Protect Rights, Property, and Others:</strong> We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large.
 For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.</li>
@@ -179,7 +183,8 @@ For example, we may share your information with third parties with which you aut
 <strong>Aggregated or De-Identified Information:</strong> We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you.
 For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.</li>
 <li>
-<strong>Other Site Owners:</strong> If you have a WordPress.com account and leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.</li>
+<strong>Site Owners: </strong>If you have a WordPress.com account and interact with a site, your information may be shared with the administrators of the site.
+For example, if you leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.</li>
 <li>
 <strong>Published Support Requests:</strong> And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.</li>
 </ul>
@@ -211,9 +216,9 @@ Please keep in mind that if you do not provide this information, certain feature
 <strong>Limit Access to Information on Your Mobile Device:</strong> Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps.
 If you do so, you may not be able to use certain features (like adding a location to a photograph, for example).</li>
 <li>
-<strong>Opt-Out of Electronic Communications:</strong> You may opt out of receiving promotional messages from us.
-Just follow the instructions in those messages.
-If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.</li>
+<strong>Opt-Out of Marketing Communications:</strong> You may opt out of receiving promotional communications from us.
+Just follow the instructions in those communications or let us know.
+If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.</li>
 <li>
 <strong>Set Your Browser to Reject Cookies:</strong> At this time, Automattic does not respond to “do not track” signals across all of our Services.
 However, you can usually choose to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.</li>
@@ -283,9 +288,11 @@ These ad networks and analytics providers may set tracking technologies (like co
 These technologies allow these third parties to recognize your device to compile information about you or others who use your device.
 This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver advertisements that may be more targeted to your interests.
 Please note this Privacy Policy only covers the collection of information by Automattic and does not cover the collection of information by any third party advertisers or analytics providers.</p>
-<i>Third Party Software</i>
-<p>If you’d like to use third party plugins, WooCommerce extensions that enable services provided by third parties, or other third party software, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties.
-We don’t own or control these third parties and they have their own rules about collection, use and sharing of information, which you should review.</p>
+<i>Third Party Software and Services</i>
+<p>If you’d like to use WooCommerce extensions that enable services provided by third parties, third party plugins, embeds, or other third party software or services, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties.
+For example, some third party services may request or require access to your (yours, your visitors’, or customers’) data, for example, via a pixel or cookie.
+Please note that if you use the third party service or grant access, your data will handled in accordance with the third party’s privacy policy and practices.
+We don’t own or control these third parties, and they have their own rules about collection, use, and sharing of information, which you should review before using the software or services.</p>
 <i>Visitors to Our Users’ Websites</i>
 <p>We also process information about visitors to our users’ websites, on behalf of our users and in accordance with our user agreements.
 Please note that our processing of that information on behalf of our users for their websites isn’t covered by this Privacy Policy.
@@ -299,6 +306,8 @@ Your further use of the Services after a change to our Privacy Policy will be su
 <p>That’s it! Thanks for reading.</p>
 Change log
 <ul>
+<li>
+<em>March 13, 2019: </em>Added clarifications and additional details to existing sections, for example about ICANN policies and what we may store when you communicate with us.</li>
 <li>
 <em>February 1, 2019:</em> Included information for Longreads and additional information regarding Longreads accounts.</li>
 <li>
