@@ -18,6 +18,8 @@ Now, tosback.rb should only grab the content we want from that URL! Hooray!
 
 #### Developing
 
+This project requires ruby `2.3.1` and `phantomjs`.
+
 After cloning the project, use the `--without production` option to install the required gems:
 
   `$ bundle install --without production`
