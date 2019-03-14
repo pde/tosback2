@@ -14,4 +14,9 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Google Wifi and your privacy">   
+    <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

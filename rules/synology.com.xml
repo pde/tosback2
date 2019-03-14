@@ -1,0 +1,22 @@
+<sitename name="synology.com">
+  <docname name="Website Terms of Use">
+    <url name="https://www.synology.com/en-us/company/legal/terms_conditions" xpath="//div[@id='legal']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="End User Agreement">
+    <url name="https://www.synology.com/en-us/company/legal/terms_EULA" xpath="//div[@id='legal']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Statement">
+    <url name="https://www.synology.com/en-us/company/legal/privacy" xpath="//div[@id='legal']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Your Privacy Matters">
+    <url name="https://www.synology.com/en-us/privacy" xpath="//div[@id='privacy']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

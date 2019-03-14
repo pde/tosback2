@@ -1,0 +1,12 @@
+<sitename name="ampedwireless.com">
+  <docname name="Terms and Conditions">
+    <url name="https://www.ampedwireless.com/legal#terms" xpath="//*[@id='terms']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.ampedwireless.com/legal#privacy" xpath="//*[@id='privacy']" lang="EN">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
