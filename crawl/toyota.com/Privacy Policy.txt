@@ -43,7 +43,7 @@ Fuel Cell </li>
 <li> $24,090 as shown<sup>1</sup> All-New 2019 Corolla Hatchback $19,990 starting<sup>1</sup>
 <br>30/38 est MPG<sup>25</sup> Build Specials </li>
 <li> Hybrid $27,820 as shown<sup>1</sup> 2019 Prius $23,770 starting<sup>1</sup>
-<br>54/50 est MPG<sup>26</sup> Build Specials </li>
+<br>54/50 est MPG<sup>33</sup> Build Specials </li>
 <li> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
 <br>48/43 est MPG<sup>24</sup> Build Specials </li>
 <li> Hybrid Available $35,095 as shown<sup>1</sup> 2019 Camry $23,945 starting<sup>1</sup>
@@ -104,7 +104,7 @@ MPGe<sup>24</sup> Specials </li>
 <br>54/133 est.
 MPG<sup>15</sup>/MPGe<sup>16</sup> Build Specials </li>
 <li> Hybrid $27,820 as shown<sup>1</sup> 2019 Prius $23,770 starting<sup>1</sup>
-<br>54/50 est MPG<sup>26</sup> Build Specials </li>
+<br>54/50 est MPG<sup>33</sup> Build Specials </li>
 <li> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
 <br>48/43 est MPG<sup>24</sup> Build Specials </li>
 <li> Fuel Cell Electric Vehicle $58,500 as shown<sup>1</sup> 2019 Mirai $58,500 starting<sup>1</sup>
@@ -164,7 +164,7 @@ Minivan $18,260 as shown<sup>1</sup> 2018 Yaris Liftback $15,635 starting<sup>1<
 <br>31/38 est MPG<sup>32</sup> Hybrid $23,345 as shown<sup>1</sup> First-Ever 2020 Corolla Hybrid $22,950 starting<sup>1</sup>
 <br>53/52 est MPG<sup>31</sup> $24,090 as shown<sup>1</sup> All-New 2019 Corolla Hatchback $19,990 starting<sup>1</sup>
 <br>30/38 est MPG<sup>25</sup> Hybrid $27,820 as shown<sup>1</sup> 2019 Prius $23,770 starting<sup>1</sup>
-<br>54/50 est MPG<sup>26</sup> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
+<br>54/50 est MPG<sup>33</sup> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
 <br>48/43 est MPG<sup>24</sup> Hybrid Available $35,095 as shown<sup>1</sup> 2019 Camry $23,945 starting<sup>1</sup>
 <br>29/41 est MPG<sup>5</sup> Hybrid $32,825 as shown<sup>1</sup> 2019 Camry Hybrid $28,250 starting<sup>1</sup>
 <br>51/53 est MPG<sup>5</sup> Plug-In Hybrid $33,350 as shown<sup>1</sup> 2019 Prius Prime $27,350 starting<sup>1</sup>
@@ -195,7 +195,7 @@ Fuel Cell Hybrid $32,825 as shown<sup>1</sup> 2019 Camry Hybrid $28,250 starting
 <br>30/28 est MPG<sup>24</sup> Plug-In Hybrid $33,350 as shown<sup>1</sup> 2019 Prius Prime $27,350 starting<sup>1</sup>
 <br>54/133 est.
 MPG<sup>15</sup>/MPGe<sup>16</sup> Hybrid $27,820 as shown<sup>1</sup> 2019 Prius $23,770 starting<sup>1</sup>
-<br>54/50 est MPG<sup>26</sup> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
+<br>54/50 est MPG<sup>33</sup> Hybrid $23,350 as shown<sup>1</sup> 2019 Prius <em>c</em> $21,530 starting<sup>1</sup>
 <br>48/43 est MPG<sup>24</sup> Fuel Cell Electric Vehicle $58,500 as shown<sup>1</sup> 2019 Mirai $58,500 starting<sup>1</sup>
 <br>67/67 est.
 MPGe<sup>24</sup> Upcoming Vehicles All-New 2020 GR Supra 2020 RAV4 TRD Off-Road 2020 Tacoma 2020 Sequoia TRD Pro 2020 Land Cruiser Heritage Edition 2019 Nightshade Special Editions 2020 Camry TRD and Avalon TRD Hybrid All-New 2019 RAV4 Hybrid 2019 Supra Xfinity Series Race Car GR Supra Racing Concept All Vehicles <ul>
@@ -1594,6 +1594,9 @@ Actual mileage will vary.</li>
 Actual mileage will vary.</li>
 <li>32.
 2020 EPA-estimated 31 city/38 highway/34 combined mpg for Corolla XSE.
+Actual mileage will vary.</li>
+<li>33.
+2019 EPA-estimated 54 city/50 hwy/52 combined mpg estimates for Prius LE, XLE and Limited.
 Actual mileage will vary.</li>
 </ul> YOUR GARAGE NONE Log In <i>
 </i>
