@@ -1,0 +1,135 @@
+ Google Wifi and your privacy<p>When you use our products, we realize you’re trusting us with your information.
+We are committed to keeping your data private and safe.</p>
+<p>The Google Privacy Policy applies to all Google services, including the Google Wifi app and Wifi points.
+This article sheds additional light on your privacy choices specific to Wifi points and the Google Wifi app.</p>
+<p>Last modified: December 6, 2016 (view archived versions)</p> Information Wifi points &amp.
+the Google Wifi app collect <p>The information your Wifi points and the Google Wifi app collect helps us deliver the best Wi-Fi experience possible.
+<strong>Importantly, the Google Wifi app and your Wifi points do not track the websites you visit or collect the content of any traffic on your network.</strong> However, your Wifi points does collect data such as Wi-Fi channel, signal strength, and device types that are relevant to optimize your Wi-Fi performance.
+Google policies and terms of services apply as normal to any Google services you use (like Gmail or Google search), whether you’re using them on an Google Wifi network or not.</p>
+<p>With simple controls in the Google Wifi app's 'Privacy' settings, you can manage three types of data collected -- Cloud services, Wifi point stats, and App stats.
+Examples of the kinds of data managed by these controls are given below.</p>
+<p>Please note that some features may not function with certain privacy settings turned off, and some information (such as the association of your Google Account to your Google Wifi network) is stored by Google even if all privacy controls are turned off.</p> Cloud services <ul>
+<li>
+<strong>Broadcast information from your connected devices.</strong> For example, if your phone announces itself as “John’s iPhone,” Google Wifi detects this and shows “John’s iPhone” in your list of connected devices in the Google Wifi app.</li>
+<li>
+<strong>Inferred information about your connected devices.</strong> Google Wifi looks at how devices establish a connection to your network.
+With this, your Google Wifi network can determine when certain types of devices connect to it.
+If, for example, your phone doesn't broadcast a name but Google Wifi can determine that it was manufactured by "Motorola," the Google Wifi app will display "Motorola" in your list of connected devices.
+Examples of inferred signals are manufacturer OUI, order of DHCP options, and order of Wi-Fi options in probe and association requests.
+<p>
+<strong>Note:</strong> Though Google Wifi relies on MAC address information to help with this determination, your Wifi point does not store MAC addresses in the cloud.
+Instead, MAC addresses are stored locally within your Wifi points and retrieved by the Google Wifi App only as needed.</p>
+</li>
+<li>
+<strong>Network Status.</strong> This indicates if a device is currently connected to your network, its assigned IP Address, and its signal strength.</li>
+<li>
+<strong>Data usage.</strong> Current transfer speeds and historical data consumption.
+This allows you to see which devices are consuming network resources.</li>
+<li>
+<strong>Network settings.</strong> These are encrypted and stored securely in the cloud.
+The exception is your Wi-Fi password, which is only stored in your Wifi point.
+Storing these settings in the cloud allows you to access them from anywhere whether your Google Wifi network is online or not.</li>
+<li>
+<strong>Automatic Channel Selection.</strong> Google Wifi gathers information about your wireless environment.
+Your Wifi points scan for other routers in the area, collects their signal strength, Wi-Fi channel usage, and the list of 802.11 standards supported.
+The Wifi point and the Google Wifi app do not collect the content of any communications.
+<p>This data helps Google Wifi improve Wi-Fi performance for its users and their neighbors by reducing interference (due to channel congestion).
+The data allows Google Wifi to determine if there are better channels to use and automatically change those channels.</p>
+<p>
+<strong>Note:</strong> Per Google’s Location Service Access Point opt-out option, data from network names ending in “_nomap” will <em>
+<strong>not</strong>
+</em> be collected.</p>
+</li>
+</ul>
+<strong>Wifi point stats</strong>
+<ul>
+<li>
+<strong>Anonymous usage data.</strong> This helps us improve all Google Wifi products.
+Examples of the types of data we collect include aggregated counts of WAN type usage (DHCP, Static IP, PPPoE) and mean download time for update payloads.</li>
+<li>
+<strong>Crash reports.</strong> These let us know when Google Wifi’s software stops working properly, so we can prevent it from happening in the future.
+Reports can include information like stack traces, types of crashes, and which software version you’re running.</li>
+<li>
+<strong>Wifi point performance information.</strong> This includes how long it takes to boot up, CPU utilization, and memory utilization.</li>
+</ul>
+<strong>App stats</strong>
+<ul>
+<li>
+<strong>Anonymous Google Wifi app usage.</strong> For example, how often each feature is used or each screen is viewed.
+This helps us improve the Google Wifi app experience.
+Learn more about Google Analytics data safeguarding.</li>
+<li>
+<strong>Google Wifi app Crash reports.</strong> This includes information like how often your app crashes and what caused the crash.
+This is also stored in Google Analytics and helps us improve the Google Wifi app experience.</li>
+</ul>   <p>Want to opt out of any of these categories?</p>
+<p>The information you share with Google when you send feedback or a diagnostic report:</p>
+<ul>
+<li>
+<strong>Wifi point logs.</strong> These include messages from OS and kernel level processes.
+The logs are sanitized before being sent to Google to remove or redact personal information like MAC addresses, email addresses, URLs, and unique identifiers.</li>
+<li>Note: When using the Send Feedback option (versus Send Diagnostic report), the Google Wifi app logs are also included.</li>
+</ul>
+<p>
+<strong>What kind of signals does your Wifi point use?</strong>
+</p>
+<ul>
+<li>OUI (inferred)</li>
+<li>DHCP(broadcast)</li>
+<li>mDNS (broadcast)</li>
+<li>DHCP + Wi-Fi options (inferred)</li>
+<li>User entered names</li>
+</ul>How Cloud services help you <p>The majority of the data Google Wifi collects is used for cloud services, a group of features that helps Google Wifi keep your network operating at its best.
+To provide a smart wireless experience, data is gathered from your Wifi point and the Google Wifi app.
+This allows us to give you real-time information about your network and enables cloud services-dependent features like the following:</p>
+<ul>
+<li>
+<strong>Network checks:</strong> Test the download and upload speeds of your internet connection to provide insights and make sure everything is working properly.</li>
+<li>
+<strong>Insight cards:</strong> See updates on your network performance.
+This lets you know when your network is offline or not at peak performance and provides steps to fix it.</li>
+<li>
+<strong>List of connected devices:</strong> See how many devices are connected to your network, what those devices are, and how much data each uses (both in real-time and historically).</li>
+<li>
+<strong>Automatic channel selection:</strong> Google Wifi collects information about your surrounding spectral environment and uses that to determine which wireless channels will deliver you optimal performance.
+As wireless environments become increasingly crowded (with more neighbors actively using wireless networks), picking the best channel becomes increasingly important.</li>
+<li>
+<strong>Wave control</strong>: This lets you turn on Priority device with a simple wave of your hand over your OnHub from ASUS.
+Once wave control is turned on, each wave over your OnHub will automatically prioritize the pre-selected device for the preset amount of time.</li>
+<li>
+<strong>Guest Wi-Fi:</strong> Create a special network just for your guests.
+Guest will be able to get online and discover streaming devices that you make available from your main Wi-Fi network.</li>
+<li>
+<strong>Tailored Wi-Fi via Device classification:</strong> Understanding the nitty gritty details of your devices helps us optimize Google Wifi so it performs in the best way possible.
+Wi-Fi isn't one-setting fits all, so to tailor your Wi-Fi, we need to understand the capabilities and nuances of the devices that connect to your Google Wifi network.</li>
+</ul>
+<p>Data is shared according to the Google Privacy Policy.
+For example, we may share anonymized data (e.g.
+diagnostics crash reports, aggregate metrics) to improve your Wifi point and the Google Wifi app.
+We do not share your personal information from your Wifi point or the Google Wifi app for the purposes of advertising without your consent.</p> Change your privacy settings <p>
+<strong>1.</strong> Open the Google Wifi app.</p>
+<p>
+<strong>2.</strong> Tap the tab, then <strong>Network &amp.
+general</strong>.</p>
+<p>
+<strong>3.</strong> Tap <strong>Privacy</strong>.</p>
+<p>
+<strong>4.</strong> Toggle the desired options ON or OFF, then tap <strong>Save</strong>.</p> Data retention <p>If you are the Wi-Fi network owner and you factory reset your Wifi point:</p>
+<ul>
+<li>It will clear settings and data from the Wifi point.
+If triggered via the app, it will also remove the the Wifi point from your Google Account.</li>
+<li>Any data collected to deliver your Cloud services is no longer linked to your account</li>
+<li>All Wifi point and Google Wifi app data related to your Google Account will be deleted in accordance with Google's Privacy Policy</li>
+</ul>
+<p>If you are the Wi-Fi network owner and you delete your Google Account, the following will occur:</p>
+<ul>
+<li>Your Wifi point will factory reset.
+If it is not currently online, it will factory reset the next time it goes online.</li>
+<li>All Wifi point and Google Wifi app data related to your Google Account will be deleted in accordance with Google's Privacy Policy.</li>
+</ul>DNS Settings <p>While Google Wifi doesn’t track the websites you visit, your DNS provider can associate your web traffic with your public IP address.
+Google Wifi sets your default DNS provider to Google Public DNS.
+(This can be changed in the Advanced Networking settings of the Google Wifi app.) Google does not associate Google Public DNS information with your Google Account.
+Learn more about Google Public DNS.</p> Updates and Changes <p>We are constantly working on new features and controls that help you get more out of Google Wifi.
+It’s possible that, in order to implement these new features, we may need to change the way it collects, stores, and uses data.</p>
+<p>For these types of features, our intent is to explain how they collect, store, or use data in a way that is different from what we describe here.</p>
+<p>If changes are made to this article (which should be rare), a revision history will be available on this page to let you know what has changed and why.</p>
+<p>See archive</p> Was this article helpful?How can we improve it?YesNoSubmit 
