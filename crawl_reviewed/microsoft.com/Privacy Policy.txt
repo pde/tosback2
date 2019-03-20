@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: November 2018 What's new? <i>
+Microsoft Privacy StatementLast Updated: March 2019 What's new? <i>
 </i>Expand All<i>
 </i>Collapse AllPrint<p> Your privacy is important to us.
 This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
@@ -721,14 +721,14 @@ Microsoft maintains major data centers in Australia, Austria, Brazil, Canada, Ch
 Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region.
 The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
 We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.</p>
-<p> We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.
+<p> We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.
 For example, their laws may not guarantee you the same rights, or there may not be a privacy supervisory authority there that is capable of addressing your complaints.
 When we engage in such transfers, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
 To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, see this article on the European Commission website.</p>
 <p> Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States.
 Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
 If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage.
 The controlled U.S.
@@ -844,7 +844,7 @@ We encourage you to periodically review this privacy statement to learn how Micr
 </i>How to contact usHow to contact us<p>If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form.
 We will respond to questions or concerns within 30 days.
 You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.</p>
-<p>Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement.
+<p>Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement.
 Our addresses are:</p>
 <ul>
 <li>Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA.
@@ -1284,11 +1284,11 @@ With your permission, <strong>Cortana can also send information about you along 
 For instance, when you ask Cortana to request you a ride, Cortana will send Uber your request along with your current location and destination.</li>
 </ul>Top of page<i>
 </i>Microsoft TranslatorMicrosoft Translator<p>Microsoft Translator is a machine translation system designed to automatically translate text and speech between numerous supported languages.</p>
-<p>Microsoft Translator (which includes apps for Android, iOS, Windows, Presentation Translator, Translator Hub, Translator Live, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
+<p>Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
 We use this data to provide Translator, personalize your experiences, and improve our products.
 Microsoft has implemented business and technical measures designed to help de identify the data you submit to Translator.
 For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.</p>
-<p>For more information on the Cognitive Services Translator Text API and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
+<p>For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
 For the Translate feature in Office, see the Productivity and communications products section of this privacy statement.</p>Top of page<i>
 </i>SwiftKeySwiftKey<p> SwiftKey Keyboard and related products (collectively, the “SwiftKey Services”) process data about how you type and write, and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
 We also use this data to offer a range of other features, such as hashtag and emoji prediction.
@@ -1707,16 +1707,7 @@ Turning off your SMS/MMS backup will not delete messages that have been previous
 To delete such messages, you must first delete them from your device prior to turning off backup.
 If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message.
 Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
-</p>
-<p>
-<strong>Microsoft Wallet app for Windows Phone</strong>.
-You can use Microsoft Wallet to hold information such as coupons, loyalty cards, tickets, and other digital content.
-Where available, you can also add payment cards to the Microsoft Wallet to make payments at participating stores using NFC (near-field communication).</p>
-<p> You can set up your wallet for payment by signing in to Microsoft Wallet with your personal Microsoft account and adding payment cards associated with your Microsoft account.
-When you add a payment card to Microsoft Wallet, we provide data to your bank and payment card network, including your name, card number, billing address, email address, device data (including the device name, type, and identifier), and your location at the time you add your payment card to your wallet.
-This data is sent to your bank and payment card network to determine the eligibility of your payment card, enable transactions, and detect fraud.</p>
-<p> When you make an NFC payment, Microsoft Wallet will provide the merchant with an encrypted version of your payment card (a “token”).
-The merchant will present this token, along with transaction details, to your bank to complete the transaction and request payment for your transaction.</p>Top of page<i>
+</p>Top of page<i>
 </i>Windows Media PlayerWindows Media Player<p>Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library.
 To enrich your experience when you play content in your library, Windows Media player displays related media information, such as album title, song titles, album art, artist, and composer.
 To augment your media information, Windows Media player will send a request to Microsoft which contains standard computer information, an identifier for the media content, and the media information already contained in your Windows Media Player library (including information you may have edited or entered yourself) so that Microsoft can recognize the track and then return additional information that is available.</p>
@@ -2750,14 +2741,14 @@ Microsoft maintains major data centers in Australia, Austria, Brazil, Canada, Ch
 Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region.
 The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
 We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.</p>
-<p> We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.
+<p> We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.
 For example, their laws may not guarantee you the same rights, or there may not be a privacy supervisory authority there that is capable of addressing your complaints.
 When we engage in such transfers, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
 To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, see this article on the European Commission website.</p>
 <p> Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States.
 Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
 If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage.
 The controlled U.S.
@@ -2867,7 +2858,7 @@ If there are material changes to the statement, such as a change to the purposes
 We encourage you to periodically review this privacy statement to learn how Microsoft is protecting your information.</p>How to contact usHow to contact usmainhowtocontactusmoduleSummary<p>If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form.
 We will respond to questions or concerns within 30 days.
 You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.</p>
-<p>Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement.
+<p>Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement.
 Our addresses are:</p>
 <ul>
 <li>Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA.
@@ -3294,11 +3285,11 @@ Not all Skills require your authentication.
 With your permission, <strong>Cortana can also send information about you along with your request to certain third-parties</strong>.
 For instance, when you ask Cortana to request you a ride, Cortana will send Uber your request along with your current location and destination.</li>
 </ul>Microsoft TranslatorMicrosoft TranslatormainMicrosoftTranslatormoduleSummary<p>Microsoft Translator is a machine translation system designed to automatically translate text and speech between numerous supported languages.</p>
-<p>Microsoft Translator (which includes apps for Android, iOS, Windows, Presentation Translator, Translator Hub, Translator Live, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
+<p>Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
 We use this data to provide Translator, personalize your experiences, and improve our products.
 Microsoft has implemented business and technical measures designed to help de identify the data you submit to Translator.
 For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.</p>
-<p>For more information on the Cognitive Services Translator Text API and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
+<p>For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
 For the Translate feature in Office, see the Productivity and communications products section of this privacy statement.</p>SwiftKeySwiftKeymainswiftkeymoduleSummary<p> SwiftKey Keyboard and related products (collectively, the “SwiftKey Services”) process data about how you type and write, and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
 We also use this data to offer a range of other features, such as hashtag and emoji prediction.
 </p>
@@ -3703,16 +3694,7 @@ Turning off your SMS/MMS backup will not delete messages that have been previous
 To delete such messages, you must first delete them from your device prior to turning off backup.
 If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message.
 Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
-</p>
-<p>
-<strong>Microsoft Wallet app for Windows Phone</strong>.
-You can use Microsoft Wallet to hold information such as coupons, loyalty cards, tickets, and other digital content.
-Where available, you can also add payment cards to the Microsoft Wallet to make payments at participating stores using NFC (near-field communication).</p>
-<p> You can set up your wallet for payment by signing in to Microsoft Wallet with your personal Microsoft account and adding payment cards associated with your Microsoft account.
-When you add a payment card to Microsoft Wallet, we provide data to your bank and payment card network, including your name, card number, billing address, email address, device data (including the device name, type, and identifier), and your location at the time you add your payment card to your wallet.
-This data is sent to your bank and payment card network to determine the eligibility of your payment card, enable transactions, and detect fraud.</p>
-<p> When you make an NFC payment, Microsoft Wallet will provide the merchant with an encrypted version of your payment card (a “token”).
-The merchant will present this token, along with transaction details, to your bank to complete the transaction and request payment for your transaction.</p>Windows Media PlayerWindows Media PlayermainwindowsmediaplayermoduleSummary<p>Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library.
+</p>Windows Media PlayerWindows Media PlayermainwindowsmediaplayermoduleSummary<p>Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library.
 To enrich your experience when you play content in your library, Windows Media player displays related media information, such as album title, song titles, album art, artist, and composer.
 To augment your media information, Windows Media player will send a request to Microsoft which contains standard computer information, an identifier for the media content, and the media information already contained in your Windows Media Player library (including information you may have edited or entered yourself) so that Microsoft can recognize the track and then return additional information that is available.</p>
 <p>Windows Media Player also allows you to play back content that is streamed to you over a network.
