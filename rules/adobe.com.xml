@@ -1,6 +1,6 @@
 <sitename name="adobe.com">
  <docname name="Privacy Policy">
-   <url name="http://www.adobe.com/privacy/policy.html" xpath="//div[@id='bodycontent1']">
+   <url name="https://www.adobe.com/privacy/policy.html" xpath="//main">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
