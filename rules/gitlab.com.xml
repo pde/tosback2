@@ -1,0 +1,17 @@
+<sitename name="gitlab.com">
+ <docname name="Terms of Use">
+   <url name="https://about.gitlab.com/terms/">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Policy">
+   <url name="https://about.gitlab.com/privacy/"  xpath="//div[@class='container txt-lefty']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Security">
+   <url name="https://about.gitlab.com/security/" xpath="//div[@class='wrapper']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+</sitename>
