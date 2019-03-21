@@ -1,17 +1,17 @@
 <sitename name="github.com">
  <docname name="Terms of Service">
-   <url name="https://help.github.com/articles/github-terms-of-service/" xpath="//div[@class='article js-hide-during-search']" reviewed="true">
+   <url name="https://help.github.com/en/articles/github-terms-of-service" xpath="//main" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://help.github.com/articles/github-privacy-statement/" xpath="//div[@class='article js-hide-during-search']" reviewed="true">
+   <url name="https://help.github.com/en/articles/github-privacy-statement" xpath="//main" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Security">
-   <url name="https://help.github.com/articles/github-security/" xpath="//div[@class='article js-hide-during-search']">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+ <!--<docname name="Security">-->
+   <!--<url name="https://help.github.com/articles/github-security/" xpath="//div[@class='article js-hide-during-search']">-->
+     <!--<norecurse name="arbitrary" />-->
+   <!--</url>-->
+ <!--</docname>-->
 </sitename>

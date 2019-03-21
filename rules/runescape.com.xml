@@ -1,11 +1,11 @@
 <sitename name="runescape.com">
  <docname name="Terms and Conditions">
-   <url name="https://www.jagex.com/terms" xpath="//div[@class='c-copy-section__content']" reviewed="true">
+   <url name="https://www.jagex.com/en-GB/terms" xpath="//div[@class='c-copy-block__content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://www.jagex.com/terms/privacy" xpath="//div[@class='c-copy-section__content']" reviewed="true">
+   <url name="https://www.jagex.com/en-GB/terms/privacy" xpath="//div[@class='c-copy-block__content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

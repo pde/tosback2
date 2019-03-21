@@ -1,0 +1,7 @@
+<sitename name="blablacar.co.uk">
+  <docname name="Privacy Policy">
+    <url name="https://www.blablacar.co.uk/about-us/privacy-policy" xpath="//div[@class='s-post-content s-custom-page__cms']" lang="EN" reviewed="false">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

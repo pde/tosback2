@@ -1,6 +1,6 @@
 <sitename name="foxnews.com">
  <docname name="Privacy Policy">
-   <url name="http://www.foxnews.com/privacy-policy.html" xpath="//section[@class='privacy-policy']" reviewed="true">
+   <url name="https://www.foxnews.com/privacy-policy" xpath="//section[@class='privacy-policy']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
@@ -10,7 +10,7 @@
    </url>
  </docname>
  <docname name="Closed Captioning Policy">
-   <url name="http://www.foxnews.com/closed-captioning-policy.html" xpath="//section[@class='closed-captioning-policy']" reviewed="true">
+   <url name="https://www.foxnews.com/closed-captioning" xpath="//div[@class='content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

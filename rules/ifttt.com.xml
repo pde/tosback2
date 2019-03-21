@@ -1,6 +1,6 @@
 <sitename name="ifttt.com">
  <docname name="Privacy Policy">
-   <url name="https://ifttt.com/privacy" reviewed="true" xpath="//div[@class='privacy-policy']">
+   <url name="https://ifttt.com/privacy" reviewed="true" xpath="//div[@class='terms-merged-page privacy-policy']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

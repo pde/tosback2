@@ -1,6 +1,6 @@
 <sitename name="xing.com">
  <docname name="Privacy Policy">
-   <url name="http://www.xing.com/privacy" xpath="//div[@id='maincontent']/div/div[@class='foundation-col-8']" reviewed="true">
+   <url name="https://privacy.xing.com/en/privacy-policy/printable-version" xpath="//div[@class='data-protection-long-version-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

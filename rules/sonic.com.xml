@@ -1,0 +1,7 @@
+﻿<sitename name="sonic.com">
+  <docname name="All Policies">
+    <url name="https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies" xpath="//div[@class='article-body']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

@@ -1,16 +1,16 @@
 <sitename name="coursera.org">
  <docname name="Terms of Use">
-   <url name="https://www.coursera.org/about/terms" xpath="//div[@class='coursera-about-body']" reviewed="true">
+   <url name="https://www.coursera.org/about/terms" xpath="//div[@class='coursera-tos']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Privacy Policy">
-   <url name="https://www.coursera.org/about/privacy" xpath="//div[@class='coursera-about-body']" reviewed="true">
+   <url name="https://www.coursera.org/about/privacy" xpath="//div[@class='coursera-tos']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
  <docname name="Cookies Policy">
-   <url name="https://www.coursera.org/about/cookies" xpath="//div[@class='coursera-about-body']" reviewed="true">
+   <url name="https://www.coursera.org/about/cookies" xpath="//div[@class='coursera-tos']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>

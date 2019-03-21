@@ -1,6 +1,6 @@
 <sitename name="trello.com">
  <docname name="Terms of Service">
-   <url name="https://trello.com/legal" xpath="//div[@class='layout-centered-content']" reviewed="true">
+   <url name="https://www.atlassian.com/legal/product-specific-terms" xpath="//div[@class='column column-md-6 main']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
@@ -10,7 +10,7 @@
    </url>
  </docname>
  <docname name="DMCA">
-   <url name="https://trello.com/legal/dmca" xpath="//div[@class='layout-centered-content']" reviewed="true">
+   <url name="https://www.atlassian.com/legal/copyright-and-trademark-violations" xpath="//div[@class='column column-md-6 xs-cozy-top main']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>

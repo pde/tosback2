@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitename name="att.com">
   <docname name="Privacy Policy">
-    <url name="http://about.att.com/sites/privacy_policy" xpath="//div[@class='parsys microParsys9']" reviewed="true">
+    <url name="https://about.att.com/sites/privacy_policy/full_privacy_policy" xpath="//section[@id='main']" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
   </docname>
