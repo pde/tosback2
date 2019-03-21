@@ -1,6 +1,6 @@
 <sitename name="nps.gov">
  <docname name="Privacy Policy">
-   <url name="https://www.nps.gov/aboutus/privacy.htm" xpath="//div[@class='ColumnMain']">
+   <url name="https://www.nps.gov/aboutus/privacy.htm" xpath="//div[@id='main']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
