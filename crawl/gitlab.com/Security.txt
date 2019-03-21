@@ -1,0 +1,424 @@
+ <ol>
+<li>You are here:</li>
+<li>Security</li>
+</ol>On this page <ul>
+<li>Contact</li>
+<li>Security of GitLab by Being an Open-Source Product</li>
+<li>GitLab's Access to Your Private Repositories</li>
+<li>GitLab Development Guidelines</li>
+<li>Common Security Related Questions for Enterprises <ul>
+<li>Governance</li>
+<li>Software Development Life Cycle (SDLC)</li>
+<li>Training</li>
+<li>Validation</li>
+<li>Security Response</li>
+</ul>
+</li>
+<li>External Testing</li>
+<li>Business Continuity Plan</li>
+<li>Data Breach Notification Policy <ul>
+<li>Data Classification - What information is covered by this policy</li>
+<li>What qualifies as a breach</li>
+<li>What is not considered a breach</li>
+<li>Who will be notified in the event of a data breach</li>
+<li>Notification timing</li>
+</ul>
+</li>
+</ul>Contact <ul>
+<li>Email: security@gitlab.com</li>
+<li>Disclosure policy</li>
+<li>Vulnerability acknowledgements</li>
+</ul>Security of GitLab by Being an Open-Source Product <p>GitLab CE is open source and has over 2,000 contributors.
+This means there have been over 2,000 pairs of eyes looking at the GitLab CE source code.
+GitLab EE is open-core, which means the source code is also open for inspection to our customers.</p> GitLab's Access to Your Private Repositories <p>GitLab Support will never access private repositories unless required for support reasons and only when requested by the owner of the repository via a support ticket.
+When working a support issue we strive to respect your privacy as much as possible and we will only access the files and settings needed to resolve your issue.
+Support may sign into your account to access configurations but we will limit the scope of our review to the minimal required to solve your issue.
+In the event we need to pull a clone of your code, we will only do so with your consent.
+All cloned repositories are deleted as soon as the support issue has been resolved.
+There are two exceptions to this policy: we have determined that there has been a violation of our terms of service or if we are compelled as part of a legal matter.</p> GitLab Development Guidelines <ul>
+<li>Guidelines for shell commands in the GitLab codebase</li>
+<li>For community contributions, we enforce style guides</li>
+<li>In addition, both for community contributions and for internal development, we use brakeman and RuboCop run by GitLab CI.</li>
+<li>We engage security experts to do white box testing such as fault injection (manual), penetration testing (manual) and vulnerabilities testing (both automatic, and manual)</li>
+</ul>
+<p>GitLab also has a responsible disclosure program.</p> Common Security Related Questions for Enterprises Governance <ol>
+<li>Do you maintain a quality management system (QMS) approved by management? In lieu of a formal and static QMS, GitLab has a dynamic and responsive approach to quality management.
+Does your quality management system (QMS) include coverage for software application security principles? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Is quality management system (QMS) content published and communicated to all relevant employees? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is quality management system (QMS) content reviewed and updated (if appropriate) at least once per year? <ul>
+<li>It is considered a constant Work In Progress.
+and updated almost daily in small increments.</li>
+</ul>
+</li>
+<li>Is there defined management oversight who is responsible for application quality and security reporting &amp.
+signoff? <ul>
+<li>YES.
+See our team page (search for "maintainer").
+Also see code review guidelines which mentions the endbosses, and stresses team-wide code review.</li>
+</ul>
+</li>
+<li>Is access to and maintenance of applications, systems, network components (including routers, databases, firewalls, voice communications servers, voice recording servers, etc), operating systems, virtualization components, hypervisors, or other information objects restricted to authorized personnel only? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Is access to and maintenance of applications, systems, network components (including routers, firewalls, voice communications servers, voice recording servers, voice response units (VRU) etc), operating systems, virtualization components, hypervisors, or other information objects granted based upon need-to-know job function? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>For all IT systems including but not limited to servers, routers, switches, firewalls, databases, and external social spaces, is management approval required prior to creating all user and privileged accounts (e.g., system or security administrator)? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>For all IT systems including but not limited to servers, routers, switches, firewalls, databases are privileged accounts (e.g., system or security administrator) logged at all times and reviewed on at least a quarterly basis? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are all user accounts (including, but not limited to, standard user, system administrator, security administrator, internal social spaces, etc) assigned to an individual employee and not shared? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are all user accounts disabled after no more than ten unsuccessful logon attempts? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>For all IT systems (including but not limited to servers, routers, database, switches, firewalls, external social spaces), are inactive user and privileged accounts (e.g., system administrator or security administrator) disabled after 90 days or more? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Is a user's identity verified before communicating an initial/temporary password or initiating a password reset by an automated or manual process? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Do application, system, and device passwords (including routers, firewalls, databases, and external social spaces) require passwords to have the following characteristics: 1.
+minimum length of 8 characters, 2.
+chosen from any acceptable character sets available on the target system, 3.
+includes at least one alphabetic and one numeric character.) <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are passwords prevented from being displayed in clear text during user authentication or in electronic/printed reports? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are passwords/PINs sent to users utilizing a secure method (e.g.
+secure e-mail) and sent separately from other authentication information such as the user account? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>For all IT systems (including but not limited to servers, routers, databases, switches, firewalls), are user and privileged account (e.g., system or security administrator) passwords changed at least every 90 days? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are users required to authenticate prior to changing their password? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Are all system, application and device password files encrypted using an industry standard encryption algorithm where technically feasible? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>In instances where a software token is used to access an application or system, is a password or PIN required? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>In instances where a software token is used to access an application or system, are stored keys and software token files encrypted using an industry standard algorithm and smartcards compliant to FIPS level 2 or above? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>For externally hosted environment, is there separation of administrative access between the hosting infrastructure/platform and the hosted platform and data? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>If user accounts are assigned to non-permanent personnel (e.g., contractors, consultants) for troubleshooting purposes, are the accounts disabled or removed after each use? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>Is the retirement or replacement of encryption keys included in key management procedures when the integrity of the key has been weakened (such as departure of an employee with key knowledge) or keys are suspected of being compromised? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>If you use cloud services, do you ensure that confidential data or an aggregation of proprietary information that can reveal confidential information is encrypted to ensure confidentiality at rest and in transit? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>If you use cloud services, do you have key management procedures to manage and maintain encryption keys? <ul>
+<li>YES</li>
+</ul>
+</li>
+<li>How does GitLab help companies ensure HIPAA compliance? <ul>
+<li>
+<p>GitLab Enterprise Edition (EE) and GitLab Community Edition (CE) work seamlessly in HIPAA-controlled environments.
+These products do not store, process or transmit any patient related healthcare information.
+As a result, GitLab EE and GitLab CE have been implemented by hundreds of healthcare-related companies.
+If your company needs to ensure HIPAA compliance, GitLab will work with your security team to ensure that basic compliance criteria are met.
+If more extensive security procedures are required, GitLab has a number of partners that specialize in helping companies comply with industry accepted data security standards.</p>
+</li>
+</ul>
+</li>
+</ol>Software Development Life Cycle (SDLC) <ol>
+<li>Are there documented processes, procedures, standards and templates used in your SDLC process? <ul>
+<li>YES.
+See our Contributing guidelines, and related documentation on code review and development processes.</li>
+</ul>
+</li>
+<li>Do the materials above include references to application security best-practices and principles being followed? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Are design and code reviews performed as part of your SDLC processes? <ul>
+<li>YES.
+See our testing guidelines.</li>
+</ul>
+</li>
+<li>Are security considerations (checklists, standards and policies) referenced in the design and code review? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is app security threat modeling performed when deemed appropriate (i.e.
+new or changed architectures and approaches)? <ul>
+<li>NO.</li>
+</ul>
+</li>
+<li>Is application code managed in a secure configuration management system with access controls? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is there a configuration management plan and are release artifacts maintained in a configuration management system? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Are test plans and records kept that reflects the tests performed and results observed for each release? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is security testing defined and included in the test plan for each release? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is a release criteria defined, measured and reported on to confirm targeted release quality is achieved? <ul>
+<li>YES.
+We do manual QA testing for each monthly release and deploy all new versions on GitLab.com to be our own test subjects.</li>
+</ul>
+</li>
+<li>Are specific application security characteristics and measures part of the defined release criteria? <ul>
+<li>NO.</li>
+</ul>
+</li>
+<li>Do you work with third parties that may have access to your IP and sensitive data? <ul>
+<li>N/A w.r.t.
+code, as our code is all open-source (community edition) or open-core (enterprise edition).</li>
+</ul>
+</li>
+<li>If so, is access to data controlled by terms of Non-Disclosure Agreements? <ul>
+<li>N/A</li>
+</ul>
+</li>
+</ol>Training <ol>
+<li>Is Internal company training available &amp.
+performed commensurate with personnel roles and responsibilities? <ul>
+<li>YES.
+peer-to-peer training is commonplace.</li>
+</ul>
+</li>
+<li>Does training include security awareness? <ul>
+<li>YES.
+as applicable for the role.</li>
+</ul>
+</li>
+<li>Does training include education on policies, standards, procedures and updates when needed? <ul>
+<li>YES.
+as applicable.</li>
+</ul>
+</li>
+<li>Are personnel training plans and records kept for internal company compliance purposes? <ul>
+<li>Tasks and training completed during onboarding are recorded.</li>
+</ul>
+</li>
+</ol>Validation <ol>
+<li>Are results from the execution of test plans reported and used to track and justify release readiness? <ul>
+<li>YES.
+We require all automated tests to pass before any official release (monthly and patch versions), and perform manual QA testing for each monthly release.</li>
+</ul>
+</li>
+<li>Does the quality assurance organization have authority to delay shipment of releases due to non-conformance reasons? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Is some form of static code scanning performed as part of the release acceptance? What tools are used? <ul>
+<li>YES.
+For example, brakeman and bundler-audit are part of our test suite to be alerted to any security issues in our dependent Ruby libraries.</li>
+</ul>
+</li>
+<li>Is some form of dynamic code scanning performed as part of the release acceptance? What tools are used? <ul>
+<li>YES.
+We use GitLab CI for this purpose.</li>
+</ul>
+</li>
+</ol>Security Response <ol>
+<li>Do you have a documented company security incident response process? <ul>
+<li>YES.
+See security documentation as well as details on service level response times and priorities.</li>
+</ul>
+</li>
+<li>Do your maintenance releases include fixes for both quality and security related issues? <ul>
+<li>YES.</li>
+</ul>
+</li>
+<li>Do you provide dedicated security patches for software versions that are released and supported in the field? How? <ul>
+<li>YES, for the latest release and the two prior monthly releases, when applicable.</li>
+</ul>
+</li>
+<li>Is there proactive notification provided to customers and software partners (PTC)? How? <ul>
+<li>YES.
+Notifications in the "version check" image, blog posts, tweets, and a mailing list just for security fixes.</li>
+</ul>
+</li>
+<li>Do you have a formal risk severity classification assessment approach? <ul>
+<li>NO.</li>
+</ul>
+</li>
+<li>Is there a specified response policy that includes the timeframe issues are to be addressed? <ul>
+<li>YES.
+See security documentation as well as details on service level response times and priorities.</li>
+</ul>
+</li>
+</ol>External Testing <p>GitLab's on-premises product as well as GitLab.com SaaS is subjected to security tests regularly through a combination of:</p>
+<ul>
+<li>Bug reporting program through direct email, or HackerOne.
+For more details on this, please see the page on responsible disclosure.</li>
+<li>A combination of third party white box, grey box, and pen testing.</li>
+</ul>
+<p>Grimm carried out a black box assessment of GitLab and GitLab.com in Q2 2018.
+Their report is available for (prospective) enterprise customers by emailing <code>security@gitlab.com</code>.</p>
+<p>Given that penetration testing and other simulated events are frequently indistinguishable from real life attack activities and have the potential to impact performance and site reliability, we do not permit customers, prospective customers, or members of the larger GitLab community to conduct penetration tests and vulnerability scans to or originating from the GitLab.com environment without explicit approval from GitLab's Security Team.</p>
+<p>To request authorization for penetration testing to or originating from any GitLab resource, please email security@gitlab.com.
+If you have hired a third-party to conduct your testing, you must follow the same process and then notify your third-party company when we grant approval.
+GitLab will not grant approval to a third-party testing company.</p>
+<p>If you are a GitLab customer or prospective customer, please reach out to your GitLab Sales Account Representative and have them submit the request on your behalf.</p>
+<p>Again, explicit permission from GitLab's Security Team is required for all penetration tests.</p> Business Continuity Plan <p>GitLab, by it's remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters.
+Even so, threats considered in the context of business continuity are categorized by impact of the disruption.</p>
+<p>
+<strong>P1: Outage would have immediate impact on GitLab customer / user operations</strong>
+</p>
+<ol>
+<li>Disruption of service of Google Cloud Platform, specifically the region in which GitLab.com and dev.gitlab.org are hosted.
+<ul>
+<li>Effect: a loss of the Google Cloud Platform service means that GitLab.com is not available.
+This affects anyone who uses GitLab.com to host their repositories.
+GitLab.com is also the primary server where GitLab CE and EE source code and packages are hosted.</li>
+<li>Solution(s): There are many other servers across the globe where GitLab CE is readily available.</li>
+<li>Effect: Security releases are developed and staged on dev.gitlab.org before being brought to production on GitLab.com.
+these may be lost or unavailable for the duration of the disruption.</li>
+<li>Solution(s): Depending on the duration and nature of the disruption, the solution is to wait for service to be restored (minimal duration), or build a new staging server.
+Using VM snapshots, recovery from backup is relatively quick.</li>
+</ul>
+</li>
+<li>Unavailability of support staff in case of customer emergency.
+<ul>
+<li>Effect: emergency response times are greater than intended.</li>
+<li>Solution(s): The team is distributed geographically (except during team get-togethers).
+Customer emergencies are handled by <em>any</em> person who is in the on-call rotation.
+The on-call load is distributed at many levels, service engineers, production engineers, and even developers can be summoned when we have an outage or a customer incident.
+Emergencies also trigger automatic notifications on our internal chat system, alerting the entire company.
+There is also an ongoing effort to publish our runbooks, explaining how we manage our infrastructure and how we deal with outage cases.</li>
+</ul>
+</li>
+<li>Disruption of service of ZenDesk.
+<ul>
+<li>Effect: support workflows are disrupted.
+New tickets cannot be created, existing tickets cannot be responded to.</li>
+<li>Solution(s): For the duration of the outage (if more than e.g.
+4 hours) temporarily re-route incoming support requests to individual email accounts of members of the support team.
+Customers with premium support also have access to a direct chat channel.</li>
+</ul>
+</li>
+</ol>
+<p>
+<strong>P2: Outage would have immediate impact on GitLab ability to continue business</strong>
+</p>
+<ol>
+<li>Malicious Software (Viruses, Worms, Trojan horses) attack.
+<ul>
+<li>Effect: depends on attack.</li>
+<li>Solution(s): All the hosts in our fleet are running rkhunter every day to check for known rootkits.
+We get notifications whenever we detect a change in any of our hosted systems.
+Each case is handled manually for now.</li>
+</ul>
+</li>
+<li>Hacking or other Internet attacks.
+<ul>
+<li>Effect: depends on attack.</li>
+<li>Solution(s): We log and track any access that happens on any server in the fleet using logstash/kibana at log.gitlab.net.</li>
+</ul>
+</li>
+</ol>
+<p>
+<strong>P3: Outage greater than 72 hours would have impact on GitLab ability to continue to do business</strong>
+</p>
+<p>Disruption of service from Salesforce.com, Zuora</p>
+<ul>
+<li>No failover plan currently.</li>
+</ul>
+<p>
+<strong>P4: Outage greater than 10 business days would have impact on GitLab ability to continue business</strong>
+</p>
+<p>Disruption of service from TriNet, NetSuite, Google (gmail)</p>
+<ul>
+<li>No failover plan currently.</li>
+</ul>
+<p>
+<strong>P5: Non critical system</strong>
+</p>
+<p>Disruption of service from Egencia, or internal chat tool.</p>
+<ul>
+<li>No failover plan currently.</li>
+</ul>Data Breach Notification Policy <p>This policy defines what qualifies as a breach of user data, what actions will be taken in the event of user data exposure or compromise, and the timeline for action.</p>
+<p>This policy applies to user data stored on GitLab.com and GitLab Hosted (GitHost).
+It does not apply to self-managed / on-premises GitLab instances or instances hosted with other providers than GitLab.com and GitLab Hosted.</p> Data Classification - What information is covered by this policy <p>This policy covers "private user data" stored by GitLab.com and GitLab Hosted, and includes:</p>
+<ul>
+<li>Private git Repositories</li>
+<li>Private Wikis, Issues, and Merge Requests</li>
+<li>Encrypted Passwords</li>
+<li>Private Email Addresses</li>
+</ul>
+<p>Note: GitLab.com and GitLab Hosted do not store any "personally identifiable information" (PII) such as (i) Private Addresses, (ii) Credit Card Numbers, (iii) Bank Account Information, (iv) ID numbers (e.g.
+passport, driver's license, social security, national identification, etc.).
+GitLab.com and GitLab Hosted also do not store any "personal health information" (PHI).
+Therefore, laws and regulations relating to PII and PHI do not apply.</p> What qualifies as a breach <p>A breach of user data is the unintended or accidental exposure of private user data.
+This can be caused by accidents, misconfigurations, or malicious actions performed by an external attacker or team member.</p>
+<p>An event is considered a data breach when there is evidence that private user data has been exposed to the public or to an untrusted third party.</p>
+<p>Trusted third parties may have authorized access to user data under a signed Non-Disclosure Agreement (NDA).
+Such trusted third parties include but are not limited to:</p>
+<ul>
+<li>Cloud service providers</li>
+<li>Database consultants</li>
+<li>Security auditors</li>
+<li>Financial auditors</li>
+</ul>
+<p>Some examples of a user data breach would include:</p>
+<ul>
+<li>Compromise of a database server that contains private user data with evidence that an attacker may have had access to or copied the data off-site.</li>
+<li>Compromise of an application server account that has access to private user data and evidence that the attacker has downloaded or accessed private data.</li>
+<li>Theft of a device known to contain private user data.</li>
+<li>Web application attack used to download a list of all user emails and encrypted passwords.</li>
+</ul>What is not considered a breach <p>Examples of security incidents that would not be considered a breach of private user data:</p>
+<ul>
+<li>Compromise of an application server that does not contain or have access to private user data.</li>
+<li>Compromise of a team member application account that does not have access to private user data.</li>
+<li>Malware infection on a server or team member computer system that does not contain private user data.</li>
+<li>Compromise of non-sensitive user data such as login IP addresses, login history, project permissions.</li>
+<li>Unintentional disclosure of project names, group names, issue titles, or project or user metadata unless this data can cause damage to the user or their business.</li>
+<li>Discovery of a vulnerability that could have been used to compromise private data, but for which there is no evidence of exploitation.</li>
+<li>Theft of a team member's mobile device that does not contain private user data.</li>
+<li>Theft of a team member's private keys, tokens, or other credentials provided there is no evidence they were used to access private user data.</li>
+</ul>Who will be notified in the event of a data breach <p>If GitLab has detected evidence of a breach of GitLab.com or GitLab Hosted private user data, all affected users will be notified via the configured email address for their accounts.
+Emails will contain information on what data was exposed or compromised, when, and for how long (to the extent this information is available).</p>
+<p>For a breach that exposes private data for a large number of users, the public will also be informed via the configured email addresses for their accounts, and additional means of communication will be considered (e.g.
+press release, the blog, etc.) on a case by case basis.</p> Notification timing <p>GitLab will endeavor to notify users within 24 hours of breach discovery.
+This may be delayed when necessary to comply with requests by law enforcement.</p> 

@@ -1,6 +1,6 @@
 <sitename name="gitlab.com">
  <docname name="Terms of Use">
-   <url name="https://about.gitlab.com/terms/">
+   <url name="https://about.gitlab.com/terms/" xpath="//div[@class='col-sm-9 col-md-9']">
      <norecurse name="arbitrary"/>
    </url>
  </docname>
