@@ -2,7 +2,10 @@
 <li>You are here:</li>
 <li>Security</li>
 </ol>On this page <ul>
-<li>Contact</li>
+<li>Contact <ul>
+<li>Other Contact Methods</li>
+</ul>
+</li>
 <li>Security of GitLab by Being an Open-Source Product</li>
 <li>GitLab's Access to Your Private Repositories</li>
 <li>GitLab Development Guidelines</li>
@@ -25,9 +28,14 @@
 </ul>
 </li>
 </ul>Contact <ul>
-<li>Email: security@gitlab.com</li>
+<li>Security email: security@gitlab.com</li>
+<li>Legal &amp.
+law enforcement email: legal@gitlab.com</li>
+</ul>Other Contact Methods <ul>
 <li>Disclosure policy</li>
 <li>Vulnerability acknowledgements</li>
+<li>Team member immediate security panic</li>
+<li>Report a DMCA claim</li>
 </ul>Security of GitLab by Being an Open-Source Product <p>GitLab CE is open source and has over 2,000 contributors.
 This means there have been over 2,000 pairs of eyes looking at the GitLab CE source code.
 GitLab EE is open-core, which means the source code is also open for inspection to our customers.</p> GitLab's Access to Your Private Repositories <p>GitLab Support will never access private repositories unless required for support reasons and only when requested by the owner of the repository via a support ticket.
