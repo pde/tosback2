@@ -36,19 +36,19 @@ At Automattic, we have a few fundamental principles:</p>
 </ul>
 <p>Below is our Privacy Policy, which incorporates and clarifies these principles.</p>
 Who We Are and What This Policy Covers
-<p>Howdy! We are the folks behind a variety of products and services designed to allow anyone–from bloggers, to photographers, small business owners, and enterprises–to build and manage a website to share with the world.
-Our mission is to democratize publishing so that anyone with a story can tell it.
+<p>Howdy! We are the folks behind a variety of products and services designed to allow anyone — from bloggers, to photographers, small business owners, and enterprises — to take full advantage of the power and promise of the open web.
+Our mission is to democratize publishing and commerce so that anyone with a story can tell it, and anyone can turn their great idea into a livelihood.
 We believe in powering the open Internet with code that is open source and are proud to say that the vast majority of our work is available under the General Public License (“GPL”).
 Unlike most other services, because our GPL code is public, you can actually download and take a look at that code to see how it works.</p>
 <p>This Privacy Policy applies to information that we collect about you when you use:</p>
 <ul>
-<li>Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, and longreads.com);</li>
+<li>Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools);</li>
 <li>Our mobile applications (including the WordPress mobile app for Android and iOS);</li>
-<li>Our other Automattic products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, and Longreads).
+<li>Our other Automattic products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, and Happy Tools).
 and</li>
 <li>Other users’ websites that use our Services, while you are logged in to your account with us.</li>
 </ul>
-<p>Throughout this Privacy Policy we’ll refer to our website, mobile applications and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.</p>
+<p>Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.</p>
 <p>Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.</p>
 <p>Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.</p>
 Creative Commons Sharealike License
@@ -69,13 +69,16 @@ Here are some examples:</p>
 <li>
 <strong>Basic Account Information:</strong> We ask for basic information from you in order to set up your account.
 For example, we require individuals who sign up for a WordPress.com account to provide an email address along with a username or name, depending on the service – and that’s it.
-You may provide us with more information – like your address – but we don’t require that information to create a WordPress.com account.</li>
+You may provide us with more information – like your address and other information you want to share – but we don’t require that information to create a WordPress.com account.</li>
 <li>
 <strong>Public Profile Information:</strong> If you have an account with us, we collect the information that you provide for your public profile.
 For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description.
-Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.</li>
+Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.</li>
 <li>
 <strong>Transaction and Billing Information:</strong> If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a custom domain, or some fun Longreads swag, for example – you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.</li>
+<li>
+<strong>Happy Tools Information:</strong> If you are a Happy Tools user, you will provide us with information to make use of the Service’s features.
+For example, you might enter timezone and location information, company information, and contact information.</li>
 <li>
 <strong>Ecommerce Site Information:</strong> If you use our ecommerce Services to sell products or services to others through your site (including Stores on WordPress.com, the WooCommerce Services extension, or other purchases on WooCommerce.com), you will have to create a WordPress.com account or connect an existing account and, for some of our ecommerce Services, provide your site URL.
 You may also provide us with information about your financial account to set up a payments integration, such as the email address for your Stripe or PayPal account or your bank account information.</li>
@@ -107,7 +110,7 @@ We use this information to, for example, provide our Services to you, as well as
 We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
 We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.</li>
 <li>
-<strong>Stored Information:</strong> We may access information stored on your mobile device via our mobile app.
+<strong>Stored Information:</strong> We may access information stored on your mobile device via our mobile apps.
 We access this stored information through your device operating system’s permissions.
 For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing photograph of the sunrise to your website.</li>
 <li>
@@ -134,19 +137,26 @@ How and Why We Use Information
 <li>To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;</li>
 <li>To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition — for example, we may analyze how many individuals purchased a paid plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;</li>
 <li>To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Automattic and others, which may result in us declining a transaction or the use of our Services;</li>
-<li>To communicate with you, for example through an email, about offers and promotions offered by Automattic and others we think will be of interest to you, solicit your feedback, or keep you up to date on Automattic and our products.
+<li>To communicate with you, for example through an email, about offers and promotions offered by Automattic and others we think will be of interest to you, solicit your feedback, or keep you up to date on Automattic and our products (which you can unsubscribe from at any time).
 and</li>
 <li>To personalize your experience using our Services, provide content recommendations (for example, through our Reader Post Suggestions), target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.</li>
 </ul>
 <i>Legal Bases for Collecting and Using Information</i>
 <p>A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:</p>
-<p>(1) The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan.
+<p>(1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan.
 or</p>
 <p>(2) The use is necessary for compliance with a legal obligation.
 or</p>
 <p>(3) The use is necessary in order to protect your vital interests or those of another person.
 or</p>
-<p>(4) We have a legitimate interest in using your information — for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience.
+<p>(4) We have a legitimate interest in using your information — for example, to provide and update our Services.
+to improve our Services so that we can offer you an even better user experience.
+to safeguard our Services.
+to communicate with you.
+to measure, gauge, and improve the effectiveness of our advertising.
+and to understand our user retention and attrition.
+to monitor and prevent any problems with our Services.
+and to personalize your experience.
 or</p>
 <p>(5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on, as described in our Cookie Policy.</p>
 Sharing Information
@@ -194,7 +204,7 @@ For example, if you leave a comment on a site that uses our Services (like a sit
 <p>For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your <strong>G</strong>lobally <strong>R</strong>ecognized Avatar, or Gravatar — get it? :).
 Your Gravatar, along with other public profile information, will display with the comments and “Likes” that you make on other users’ websites while logged in to your WordPress.com account.
 Your Gravatar + public profile information may also display with your comments, “Likes,” and other interactions on websites that use our Gravatar service, if the email address associated with your account with us is the same as the email address that you use on the other website.</p>
-<p>We also provide a “Firehose” stream of public data (like posts and comments) from sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it, publicly.</p>
+<p>We also provide a “Firehose” stream of public data (like posts and comments) from some sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it, publicly.</p>
 <p>Public information may also be indexed by search engines or used by third parties.</p>
 <p>Please keep all of this in mind when deciding what you would like to share.</p>
 How Long We Keep Information
@@ -306,6 +316,8 @@ Your further use of the Services after a change to our Privacy Policy will be su
 <p>That’s it! Thanks for reading.</p>
 Change log
 <ul>
+<li>
+<em>April 1, 2019:</em> Included information for Happy Tools.</li>
 <li>
 <em>March 13, 2019: </em>Added clarifications and additional details to existing sections, for example about ICANN policies and what we may store when you communicate with us.</li>
 <li>

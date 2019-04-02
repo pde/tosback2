@@ -2,8 +2,8 @@ Privacy Policy <p>
 </p>Privacy Policy for Flattr <p>Privacy Notice (short version)<br>Privacy Policy (long version)<br>Privacy Information: Voluntary opt in to send anonymized data to us</p>
 <ul>
 <li>Declaration of Consent</li>
-</ul>
-<p>Annex to Declaration of Consent: List of domains</p> Privacy Notice (short version) <p>The following privacy notice shall provide you with a general overview about the collection and processing (hereinafter together referred to as "processing") of your personal data.
+<li>Annex to Declaration of Consent: List of domains</li>
+</ul>Privacy Notice (short version) <p>The following privacy notice shall provide you with a general overview about the collection and processing (hereinafter together referred to as "processing") of your personal data.
 For more information regarding our processing activities, please view our complete Privacy Policy.</p> What kind of personal data do we process? <ol>
 <li>
 <p>While using the Flattr Extension (automatically).
@@ -106,18 +106,16 @@ As far as anonymous or pseudonymous use is possible we anonymize or pseudonymize
 </li>
 <li>including withdraw your consent at any time, when you have provided us with your consent to the processing of personal data.</li>
 <li>Lodge a complaint with the respective supervisory authority.</li>
-</ul>Questions? <p>Email our Data Protection Officer, Judith Nink: </p> Privacy Policy (long version) <p>Your protection and data confidentiality is of utmost importance to us (“<strong>Flattr</strong>” “<strong>we</strong>” “<strong>our</strong>”).
+</ul>Questions? <p>Email our Data Protection Officer</p> Privacy Policy (long version) <p>Your protection and data confidentiality is of utmost importance to us (“<strong>Flattr</strong>” “<strong>we</strong>” “<strong>our</strong>”).
 that is why we take protecting your personal data very seriously and collect as little data as possible.
 Nevertheless, some personal data is necessary to provide the services of our website flattr.com (hereinafter referred to “<strong>Website</strong>”), and our extension (hereinafter referred to as “<strong>Extension</strong>”, Website and Extension hereinafter referred to as “<strong>Services</strong>”).
 This Privacy Policy shall inform you about the personal data we collect and how exactly that data is processed.
 We gather and use personal data firmly within the provisions of the European General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”), the applicable EU Laws and German and Swedish national data protection.
 In the following text we will inform you about the specific data, the scope and the purpose of the collection and use of personal data by us when using the Services, the legal basis for such collection and processing as well as your rights to protect your personal data.
 The Privacy Policy does not apply to the practices of third parties that Flattr does not own or control, or to individuals that Flattr does not employ or manage.
-“<strong>You</strong>”, “<strong>Your</strong>” and “<strong>Yourself</strong>” refer to anyone visiting our Website or using the Extension.</p> Who is responsible for the data collection and processing (contacts)? Controller <p>The legal person responsible for the collection, processing and / or use of personal data in connection with all Flattr Services (“<strong>Controller</strong>”) is:</p>
+“<strong>You</strong>”, “<strong>Your</strong>” and “<strong>Yourself</strong>” refer to anyone visiting our Website or using the Extension.</p> &lt;a name=”responsibility"&gt;Who is responsible for the data collection and processing (contacts)? Controller <p>The legal person responsible for the collection, processing and / or use of personal data in connection with all Flattr Services (“<strong>Controller</strong>”) is:</p>
 <p>Flattr AB<br>Box 4111<br>20312 Malmö<br>Sweden</p> Contact our Data Protection Officer <p>If you have any questions regarding your personal data, please contact our Data Protection Officer: </p>
-<p>Dr.
-Judith Nink <strong>Phone</strong>: +49 (0) 221 / 65028 598 <strong>Email</strong>:<br>
-<strong>Fax</strong>: +49 (0) 221 / 65028 599</p> What is personal data? <p>The purpose of data protection is to protect personal data.
+<p>Johanna Hagemeier <strong>Phone</strong>: +49 (0) 221 / 65028 598 <strong>Email</strong>: privacy {@} flattr.com <strong>Fax</strong>: +49 (0) 221 / 65028 599</p> What is personal data? <p>The purpose of data protection is to protect personal data.
 Personal data means any information relating to an identified or identifiable natural person (“<strong>data subject</strong>”).
 An identifiable natural person is one who can be identified, directly or indirectly, in particular, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 </p>
@@ -177,22 +175,27 @@ The information / documents you must upload include: </p>
 </ul>Deletion of accounts <p>When deleting an account, all account data will be deleted directly, except for the following data, which must be retained for accounting purposes and/or for providing the Flattr service for a short period and will be automatically deleted at the end of the respective period:</p>
 <ol>
 <li>
-<strong>Contributors</strong>: </li>
-<li>Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account.
+<strong>Contributors</strong>: Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account.
 This is required for content creators’ and/or Publisher’s accounting.
 The flattrs cannot be connected to you.
-</li>
-<li>URLs without a recipient will be retained for one (1) more month after the end of the subscription period.
+URLs without a recipient will be retained for one (1) more month after the end of the subscription period.
 </li>
 <li>
 <strong>Content creators/Publishers</strong>: For accounting reasons the profile name, flattred URL and the public profile will be retained for a period of three (3) months.</li>
-</ol>Web Analytics <p>We use Matomo, an open-source web analytics software, on flattr.com.
+</ol>Web Analytics <p>We use Google Analytics, a web analytics service from Google Inc.
+("Google"), on our flattr.com.
+Google Analytics uses so-called "cookies" (text files stored on your computer that enable us to analyze your use of our Websites).
+Information generated by the cookies (including your abbreviated IP address) is transmitted to and stored at a Google server in the United States.
+Google uses this information to assess your use of our Websites, to compile activity reports, and to provide more services connected with the use of our Websites.
+It is possible that Google may transmit this information to third parties if required by law, or if third parties process this information on behalf of Google.</p>
+<p>You can deactivate Google Analytics by means of a browser add-on if you do not want to participate in website analytics.
+You can download the add-on from Google</p>
+<p>We also use Matomo, an open-source web analytics software, on flattr.com.
 Matomo uses “cookies”, which are text files placed on your computer, to help us analyze how users use the site.
 The information generated by the cookie about your use of the website (including your IP address anonymized prior to its storage) will be stored on our servers.
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
-</p>
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.</p>
 <p>
-<strong>You can deactivate analytics by clicking on Opt-Out.</strong>
+<strong>You can deactivate Matomo analytics by clicking on Opt-Out.</strong>
 </p>
 <p>Analytics data will be automatically deleted after 180 days.</p> Newsletter <p>Flattr provides You with various newsletter services free of charge.
 We use the newsletter to inform you about new products and send you general information about Flattr.
@@ -263,7 +266,7 @@ If you do not open an account or - as a Contributor - do not install the Extensi
 6 (1) c GDPR <p>Collection and processing of your personal data may be necessary for compliance with a legal obligation to which we are subject under EU laws or the laws of a EU Member State.</p> Processing is necessary for the purposes of eyeo’s legitimate interests (Art.
 6 (1) f GDPR) <p>The collection and processing may be necessary for the purposes of our legitimate interests.
 If this will be the case we will inform you accordingly.</p> Processing is based on your consent (Art.
-6 (1) a GDPR) <p>When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.</p> International data transfers <p>For some parts of our hosting we use a non-EU/EEA service provider called Cloudflare, Inc., seated in San Francisco (United States).
+6 (1) a GDPR) <p>When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.</p> &lt;a name="data-transfers”&gt;International data transfers <p>For some parts of our hosting we use a non-EU/EEA service provider called Cloudflare, Inc., seated in San Francisco (United States).
 We have carefully selected Cloudflare and review it regularly to ensure that your privacy is preserved.
 The service provider provides sufficient guarantees to ensure an adequate level of data protection and may only use the personal data for the purposes stipulated by us and in accordance with our instructions.
 We also contractually require the service provider to treat your personal data solely in accordance with this Privacy Policy and the European data protection laws.
@@ -301,7 +304,7 @@ The withdrawal of your consent does not affect the lawfulness of processing base
 The respective current version is available at flattr.com/privacy.
 We encourage you to check the Privacy Policy frequently to see if it has changed.
 </p>
-<p>May 2018</p> Privacy Information: Voluntary opt in to send anonymized data to us <p>We are continuously improving the Extension.
+<p>November 2018</p> Privacy Information: Voluntary opt in to send anonymized data to us <p>We are continuously improving the Extension.
 If you want to support us in improving the Extension, you can allow the Extension to transfer the above mentioned data to Flattr and eyeo GmbH by explicitly opting in to such a transfer.
 Depending on the status of our improvement, we may need different data.
 Such data will be restricted to the data listed in the Declaration of Consent and will be only transferred if you opt in to provide us with beta feedback.
@@ -342,7 +345,7 @@ The data we Collect is statistical data, therefore we do not know who generated 
 <li>Creating, selecting, moving or closing tabs in the User Interface, including which window and at which position the tab was created, as well as which window created it in case of popups</li>
 <li>Adding or removing domains to or from your flattr enabled/disabled list</li>
 <li>Browser idle state changes</li>
-<li>Manually flattring URLs https://flattr.com/faq</li>
+<li>Manually flattring URLs https://flattr.com/faq**</li>
 </ul>
 <p>We do not combine the Collected data with any other information about you.
 The data we Collect is statistical data, therefore we do not know who generated it.</p>
