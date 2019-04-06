@@ -217,6 +217,11 @@ If an audit reveals underpayment, then Customer shall promptly pay the deficienc
 GitLab shall bear the cost of an audit unless the audit reveals underpayment by more than 5% for the audited period, in which case Customer shall promptly pay GitLab for the reasonable costs of the audit.
 <p>
 </p> 2.3 Customer will be responsible for maintaining the security of Customer’s account, passwords (including but not limited to administrative and User passwords) and files, and for all uses of Customer account with or without Customer’s knowledge or consent.
+2.4 Account name squatting is prohibited by GitLab.Account names on GitLab are administered to users on a first-come, first-serve basis.
+Accordingly, account names cannot be held or remain inactive for future use.
+Any attempts to purchase, solicit, or sell account names in any form may result in the permanent suspension of the account.
+GitLab reserves the right to remove, rename, or close inactive accounts at its discretion.
+If you believe that an account is in violation of these terms, please visit our [Abuse Reports](https://docs.gitlab.com/ee/user/abuse_reports.html) page for reporting instructions.
 3.
 CONFIDENTIALITY <p>
 </p> 3.1 Each party (the “Receiving Party”) understands that the other party (the “Disclosing Party”) has disclosed or may disclose information relating to the Disclosing Party’s technology or business (hereinafter referred to as “Proprietary Information” of the Disclosing Party).
