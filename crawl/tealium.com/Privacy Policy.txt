@@ -265,12 +265,6 @@ Attn: Legal Department</p>
 <p>The Right Content</p>
 <p>Using the Tealium Universal Data Hub, we’ve compiled your content topic and medium preferences based on your previous interactions with our digital properties.</p>
 <p>
-</p> X <p>
-</p>
-<p>The Right Match</p>
-<p>Utilizing a service to reveal what 3rd party services a visitor’s presumed company uses on their site.
-We then compare those against our own list of integrations, and if there are any matches, present those logos here.</p>
-<p>
 </p> X <p>The Right Market</p>
 <p>Here we are using a reverse IP address lookup service to reveal a visitor’s industry.
 Then using that data point to relate to the visitor by powering personalized content.</p>
@@ -283,6 +277,12 @@ Then using that data point to relate to the visitor by powering personalized con
 <p>Healthcare</p>
 <p>Retail</p>
 <p>Financial</p>
+<p>
+</p> X <p>
+</p>
+<p>The Right Match</p>
+<p>Utilizing a service to reveal what 3rd party services a visitor’s presumed company uses on their site.
+We then compare those against our own list of integrations, and if there are any matches, present those logos here.</p>
 <p>
 </p> X This website uses cookies.
 By using our services, you agree to our use of cookies.
