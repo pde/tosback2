@@ -1,11 +1,11 @@
  Amazon Music Terms of Use <p>
-<strong>Last updated November 07, 2018</strong>
+<strong> Last updated April 16, 2019</strong>
 </p>
 <p>This is an agreement between you and the entity providing Amazon Music to you, which may be, depending on your country of residence (your “Location”), Amazon Digital Services LLC, Amazon.com.ca, Inc., Amazon Media EU S.à.r.l., Amazon.com Int'l Sales, Inc., Amazon Seller Services Private Limited.
 Amazon Australia Services Inc., Servicios Comerciales Amazon México, S.
 de R.L.
 de C.V., or one of their affiliates ("Amazon," "we," or "us").
-This agreement governs your use of the personalized services available in your Location (Unlimited, Prime Music, the Store, and/or the Music Library Service, collectively, the "Services").
+This agreement governs your use of the personalized services available in your Location (Unlimited, Prime Music, Amazon Music (free with ads), the Store, and/or the Music Library Service, collectively, the "Services").
 Visit Amazon Music Service Provider Information and Applicable Terms and Policies to identify the Amazon affiliate that provides the Services to you and other applicable terms based on your Location.
 The Amazon Music marketplace is your primary website for accessing the Amazon Music service ("Music Marketplace").
 The Amazon affiliate that provides the Services to you may change from time to time.
@@ -30,11 +30,13 @@ Amazon Music Unlimited ("Unlimited") allows you to access certain Music Content 
 Fees.
 Upgrades and Downgrades</strong>.
 We may offer paid plans that allow you to access Unlimited Content (each, an "Unlimited Plan").
-The Unlimited Plans and the applicable subscription fees are described in our detail pages and Help Pages.
+If you subscribe to an Unlimited Plan directly through us, the applicable subscription fees are described in our detail pages and Help Pages.
 From time to time, we may change the Unlimited Plans, as well as the applicable fees for those plans.
 The amount of the fee and the next due date are available in your Amazon Music Settings.
 Unless legally required, the price stated does not include any taxes that we may charge.
-Payment is non-refundable, except as described in sections 5.1 and 5.3.
+Payment is non-refundable, except as described in section 5.1.
+section 5.3.
+or, if you signed up through a third party and are not billed directly by us, as described in the billing terms provided by the third party.
 If you upgrade your Unlimited Plan, the upgrade will take effect immediately, we will charge you the applicable fee, and the term of your Unlimited Plan may be extended, as described at the time you upgrade your Unlimited Plan.
 If you downgrade your Unlimited Plan, unless otherwise specified, the downgrade will take effect at the end of the term of your existing Unlimited Plan.</p>
 <p>
@@ -43,16 +45,24 @@ A Family Unlimited Plan allows you to share Unlimited Content with up to five fa
 When you invite a family member to your Family Unlimited Plan, that family member may have access to the payment method we charge for your subscription.
 You authorize each family member that you invite to your Family Unlimited Plan to make purchases on or through Amazon with that payment method.
 If a family member makes a purchase on the shared payment method, you will be notified of that purchase.
-All Family Unlimited Plan members must be 13 years of age or older.
+All Family Unlimited Plan members must be 13 years of age or older, unless a higher minimum age applies to your Location, e.g.
+14 years (Spain), 15 years (France), 16 years (Germany and Italy).
+You can find additional information regarding minimum age requirements for other European Union Locations, if applicable, when you invite family members to your Family Unlimited Plan.
 If you invite a minor to the Family Unlimited Plan, you must either be the parent or legal guardian of the minor, or act with the parent's or legal guardian's consent.
 In the United States, parents may give permission for children under 13 to access Amazon Music Unlimited.
 Minors may use their Amazon account, including access to the Family Unlimited Plan and privacy settings, only with involvement of a parent or guardian.</p>
 <p>
 <strong>1.3 Amazon Prime Music</strong>.
-Amazon Prime Music ("Prime Music") allows you to access certain Music Content from our catalog ("Prime Music Content," and collectively with Unlimited Content, "Subscription Content") if you (a) are eligible for the Prime Music benefit under the Amazon Prime Terms applicable to you (noted here), and (b) opt-in to Prime Music by playing Prime Music Content.
-In some Locations, your usage of Prime Music may be subject to a listening cap.</p>
+Amazon Prime Music ("Prime Music") allows you to access certain Music Content from our catalog ("Prime Music Content") if you (a) are eligible for the Prime Music benefit under the Amazon Prime Terms applicable to you (noted here), and (b) opt-in to Prime Music by playing Prime Music Content.</p>
 <p>
-<strong>1.4 Digital Music Store</strong>.
+<strong> 1.4 Amazon Music (free with ads).</strong> We may offer a music service with advertisements, which allows you to access certain Music Content from our catalog (such content, collectively with Unlimited Content and Prime Music Content, "Music Service Content").
+This service may contain advertising, and advertising may be personalized as described in the Interest-Based Ads notice applicable to you.
+Amazon offers you choices about receiving interest-based ads from us.
+You can choose not to receive interest-based ads from Amazon.
+If you choose this option, this service may continue to contain ads but they will not be personalized.
+Please visit the Advertising Preferences page applicable to you to learn how to set your preference.</p>
+<p>
+<strong>1.5 Digital Music Store</strong>.
 The Digital Music Store (the "Store") allows you to purchase Music Content ("Purchased Music").
 Unless otherwise specified, all sales are final and risk of loss transfers upon sale.
 We do not accept returns of Purchased Music.
@@ -60,10 +70,10 @@ When you purchase Music Content from the Store, you are directing us to store th
 When you place an order to purchase Music Content on the Store, you acknowledge and agree that you cannot cancel your purchase of Music Content once delivery has started, including by our making it available to you in the cloud for streaming or downloading from the Music Library Service.
 Your statutory rights are not affected.</p>
 <p>
-<strong>1.5 Music Library Service</strong>.
-The music library service (the "Music Library Service") allows you to store, download, manage, and play back Subscription Content and Stored Music.
+<strong>1.6 Music Library Service</strong>.
+The music library service (the "Music Library Service") allows you to store, download, manage, and/or play back Music Service Content and Stored Music.
 "Stored Music" is your Music Content that you store in or access using the Music Library Service, including your Matched Music.
-"Stored Music" does not include Subscription Content.
+"Stored Music" does not include Music Service Content.
 There may be limits on the types of content you can store using the Music Library Service, such as file types we don't support.
 By using the Music Library Service, you are directing us to store, download, manage, and play back Stored Music on your behalf.</p>
 <p>
@@ -82,15 +92,15 @@ If you upgrade your Storage Plan, the upgrade will take effect immediately, we w
 If you downgrade your Storage Plan, unless otherwise specified, the downgrade will take effect at the end of the term of your existing Storage Plan.
 If you exceed your Storage Plan's storage limit, including by downgrading or not renewing your Storage Plan, you may no longer be able to access Stored Music.</p>
 <p>
-<strong> 1.6 Matched Music</strong>.
+<strong> 1.7 Matched Music</strong>.
 If we find that music you have purchased from us, or Music Content you have stored in the Music Library Service, matches available Music Content from our catalog ("Matched Music"), you are directing us to store a personal copy of that Matched Music for you in place of your existing files or instead of uploading the files.</p>
 <p>
-<strong>1.7 AutoRip-Eligible Orders</strong>.
+<strong>1.8 AutoRip-Eligible Orders</strong>.
 Under the AutoRip program, when you purchase a qualifying CD or vinyl album from Amazon, we provide you a digital version of that album through the Music Library Service.
 For more information on the AutoRip program, please see the AutoRip Terms &amp.
 Conditions applicable to you (noted here).</p>
 <p>
-<strong>1.8 Personalization.</strong> We provide personalized features and recommendations as part of the Services, including recommending Music Content and Services, which might be of interest to you.
+<strong>1.9 Personalization.</strong> We provide personalized features and recommendations as part of the Services, including recommending Music Content and Services, which might be of interest to you.
 We also endeavor to continuously improve the Amazon services and devices and your experience with them.</p>
 <p>
 <strong>2.
@@ -102,7 +112,9 @@ Some Trial Plans may, as communicated to you, automatically convert to a paid pl
 <p>
 <strong>2.2 Payment.
 Renewal</strong>.
-For customers on an Unlimited Plan, if all payment methods we have on file for you are declined for payment of your Unlimited Plan, you have 3 days to provide us a new payment method or your Unlimited Plan will be canceled.
+</p>
+<p> If you sign up through us and are billed by us, then the billing terms described below in this section 2.2 will apply to your subscription.</p>
+<p>For customers on an Unlimited Plan, if all payment methods we have on file for you are declined for payment of your Unlimited Plan, you have 3 days to provide us a new payment method or your Unlimited Plan will be canceled.
 If you provide us with a new payment method and are successfully charged within 3 days, your new Unlimited Plan term will be based on the original renewal/subscription date and not the date of the successful charge.</p>
 <p> For customers on a Storage Plan, if all payment methods we have on file for you are declined for payment of your Storage Plan, you have 30 days to provide us a new payment method or your Storage Plan will be canceled.
 If you provide us with a new payment method and are successfully charged within 30 days, your new Storage Plan term will be based on the original renewal/subscription date and not the date of the successful charge.</p>
@@ -112,10 +124,11 @@ HOWEVER, ANY INCREASE IN THE FEE WILL NOT AFFECT THE COST OF YOUR UNLIMITED PLAN
 YOUR RENEWAL PLAN WILL BE THE ONE WE CHOOSE AS BEING CLOSEST TO YOUR UNLIMITED PLAN OR STORAGE PLAN.</p>
 <p> You may cancel the auto renewal of your Unlimited Plan or Storage Plan by visiting Amazon Music Settings and adjusting your subscription settings.
 If you cancel your subscription, you will not receive a refund of any fees already paid.</p>
+<p> If you signed up through a third party and are not billed directly by us, then the billing terms provided by the third party will apply to you.</p>
 <p>
 <strong>2.3 Subscription Restrictions</strong>.
 We reserve the right to accept or refuse subscriptions.
-You may not transfer or assign your subscription or any Unlimited Plan or Storage Plan benefits.
+You may not transfer or assign your subscription or any benefits from the Unlimited Plan, Music Free Plan, Storage Plan, or Amazon Music (free with ads).
 You may only use your Individual Unlimited Plan, Unlimited Single Device Plan, or Storage Plan in connection with one Amazon account.
 Up to six Amazon accounts may be associated with one Family Unlimited Plan.</p>
 <p>
@@ -125,8 +138,8 @@ RIGHTS AND RESTRICTIONS</strong>.</p>
 <strong>3.1 Rights Granted</strong>.
 You may use the Services only for your personal, non-commercial purposes.
 You may not use the Services to store, transfer, or distribute content of or on behalf of third parties, to operate your own content application or service, or to resell any part of the Services.
-We grant you a non-exclusive, non-transferable right to use Purchased Music, Subscription Content, Matched Music, and any additional Music Content we provide you access to through the Services only for your personal, non-commercial purposes, subject to the Agreement.
-Except as set forth in the preceding sentence, you may not redistribute, transmit, assign, sell, broadcast, rent, share, lend, repurpose, modify, adapt, edit, license or otherwise transfer, or use Purchased Music or Subscription Content.
+We grant you a non-exclusive, non-transferable right to use Purchased Music, Music Service Content, Matched Music, and any additional Music Content we provide you access to through the Services only for your personal, non-commercial purposes, subject to the Agreement.
+Except as set forth in the preceding sentence, you may not redistribute, transmit, assign, sell, broadcast, rent, share, lend, repurpose, modify, adapt, edit, license or otherwise transfer, or use Purchased Music or Music Service Content.
 We do not grant you any synchronization, public performance, public display, promotional use, commercial sale, resale, reproduction, or distribution rights for any Music Content.
 You must comply with all applicable laws and with the terms of any licenses or agreements to which you are bound in your use of the Services.</p>
 <p>
@@ -172,19 +185,21 @@ SUSPENSION AND TERMINATION</strong>.</p>
 <p>
 <strong>5.1 Changes</strong>.
 We may change, suspend, or discontinue the Services, or any part of them, at any time.
-If we discontinue your Unlimited Plan or Storage Plan, we will give you a prorated refund of any fees paid for your Unlimited Plan or Storage Plan.
-From time to time, we may add Music Content to or remove it from the Store, Unlimited or Prime Music.
+If we discontinue your Unlimited Plan or Storage Plan, and you signed up directly through us, we will give you a prorated refund of any fees paid for your Unlimited Plan or Storage Plan.
+If you signed up through a third party, you may need to contact the third party to receive a refund, if any, under its policies.
+From time to time, we may add Music Content to or remove it from the Store, Unlimited, Prime Music, or from Amazon Music (free with ads).
 There may be unusual circumstances where due to legal reasons we may no longer be able to store or provide you access to particular Music Content.</p>
 <p>
 <strong>5.2 Suspension and Termination by Us</strong>.
 Your rights under the Agreement will automatically terminate without notice if you fail to comply with its terms.
 We may terminate the Agreement or restrict, suspend, or terminate your use of the Services at any time, including if we determine that your use violates the Agreement, is improper, substantially exceeds or differs from normal use by other users, involves fraud or misuse of the Services, or harms our interests or those of another user of the Services.
-If your Unlimited Plan or Storage Plan is restricted, suspended, or terminated, you may be unable to access the Services and you may not receive any refund of fees or any other compensation.</p>
+If your access to the Services is restricted, suspended, or terminated, you may be unable to access the Services and you may not receive any refund of fees or any other compensation.</p>
 <p>
 <strong>5.3 Cancellation by You</strong>.
-You may cancel your Unlimited Plan or Storage Plan at any time with effect to the end of its term by visiting your Amazon Music Settings, by contacting Amazon customer service, or by using any other cancellation method that we make available to you on your Music Marketplace (noted here).
-Payment is non-refundable, even if you did not use the Services.</p>
+If you signed up directly through us, you may cancel your Unlimited Plan or Storage Plan at any time with effect to the end of its term by visiting your Amazon Music Settings, by contacting Amazon customer service, or by using any other cancellation method that we make available to you on your Music Marketplace (noted here).
+Payment, if any, is non-refundable, even if you did not use the Services.</p>
 <p>If your Location is in the European Union, you may cancel your Unlimited Plan or Storage Plan by communicating your withdrawal within 14 days of sign up, and if you paid any fee, we will refund it.</p>
+<p> If you signed up through a third party, you may need to contact the third party to cancel or receive a refund, if any, under its policies.</p>
 <p>
 <strong>6.
 GENERAL</strong>.</p>
@@ -197,7 +212,7 @@ All licenses granted to you are non-exclusive.
 Our failure to insist upon or enforce your strict compliance with the Agreement will not constitute a waiver of any of our rights.</p>
 <p>
 <strong>6.2 Amendments</strong>.
-We may amend the Agreement at any time by posting the revised terms on or through the Services or on Amazon Music Marketplace sites, but any increase in fees will not affect the cost of your Unlimited Plan or Storage Plan during its term.
+We may amend the Agreement at any time by posting the revised terms on or through the Services or on Music Marketplace sites, but any increase in fees will not affect the cost of your Unlimited Plan or Storage Plan during its term.
 Your continued use of the Services or the Software after any amendment evidences your agreement to be bound by it.</p>
 <p>
 <strong>6.3 Contact Information.
