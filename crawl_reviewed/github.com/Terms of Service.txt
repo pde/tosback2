@@ -72,7 +72,7 @@ S.
 Miscellaneous
 Please see this section for legal details including our choice of law.
 The GitHub Terms of Service
-<p>Effective date: May 25, 2018</p>
+<p>Effective date: April 19, 2019</p>
 A.
 Definitions
 <p>
@@ -154,6 +154,13 @@ If you are a resident of a country outside the United States, your country’s m
 in such a case, you are responsible for complying with your country’s laws.</li>
 <li>Your login may only be used by one person — i.e., a single login may not be shared by multiple people.
 A paid Organization may only provide access to as many User Accounts as your subscription allows.</li>
+<li>You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction.
+You may not use GitHub if you are or are working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions administered by a U.S.
+government agency.
+GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S.
+government authorizations.
+For more information, please see our Export Controls policy.
+</li>
 </ul>4.
 User Account Security
 <p>You are responsible for keeping your Account secure while you use our Service.
@@ -182,7 +189,7 @@ In short, be excellent to each other.</em>
 </p>
 1.
 Compliance with Laws and Regulations
-<p>Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction.
+<p>Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction.
 You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.</p>
 2.
 Content Restrictions
@@ -192,6 +199,7 @@ Content Restrictions
 <li>is or contains sexually obscene content;</li>
 <li>is libelous, defamatory, or fraudulent;</li>
 <li>is discriminatory or abusive toward any individual or group;</li>
+<li>gratuitously depicts or glorifies violence, including violent images;</li>
 <li>contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system).
 or</li>
 <li>infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.</li>
@@ -299,7 +307,7 @@ We treat the content of private repositories as confidential, and we only access
 </p>
 1.
 Control of Private Repositories.
-<p>Some Accounts, such as paid Accounts, may have private repositories, which allow the User to control access to Content.</p>
+<p>Some Accounts may have private repositories, which allow the User to control access to Content.</p>
 2.
 Confidentiality of Private Repositories.
 <p>GitHub considers the contents of private repositories to be confidential to you.
@@ -365,16 +373,21 @@ We will make a reasonable attempt to warn you via email prior to suspension.</p>
 <p>All use of the GitHub API is subject to these Terms of Service and the GitHub Privacy Statement.</p>
 <p>GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.</p>
 I.
-Additional Terms for GitHub Pages
+Additional Terms for GitHub Pages and Learning Lab
 <p>
 <strong>Short version:</strong>
-<em>The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms.</em>
+<em>The GitHub Pages hosting service and GitHub Learning Lab are subject to certain rules, in addition to the rest of the Terms.</em>
 </p>
+1.
+GitHub Pages
 <p>Each GitHub Account comes with access to the GitHub Pages static hosting service.
-This hosting service is intended to host static web pages for GitHub users.
+This hosting service is intended to host static web pages for All Users.
 GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses.
-Please see our GitHub Pages guidelines for more information.</p>
-<p>GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.</p>
+Please see our GitHub Pages guidelines for more information.
+GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.</p>
+2.
+GitHub Learning Lab
+<p>If you decide to purchase and use the GitHub Learning Lab and associated documentation, depending on the nature of your usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply..</p>
 J.
 Third Party Applications
 <p>
@@ -495,7 +508,7 @@ GitHub May Terminate
 GitHub reserves the right to refuse service to anyone for any reason at any time.</p>
 4.
 Survival
-<p>All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.</p>
+<p>All provisions of this Agreement which, by their nature, should survive termination <em>will</em> survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.</p>
 N.
 Communications with GitHub
 <p>
