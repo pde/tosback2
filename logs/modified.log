@@ -7,15 +7,19 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
+	modified:   ../crawl/aetna.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
 	modified:   ../crawl/alibaba.com/Privacy Policy.txt
-	modified:   ../crawl/allstate.com/Privacy Policy.txt
-	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
+	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
-	modified:   ../crawl/cableone.net/Terms and Conditions.txt
+	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 	modified:   ../crawl/careerpath.com/Privacy Policy.txt
+	modified:   ../crawl/chacha.com/Privacy Policy.txt
 	modified:   ../crawl/daum.net/Privacy Policy.txt
 	modified:   ../crawl/fandango.com/Privacy Policy.txt
+	modified:   ../crawl/fedex.com/Privacy Policy.txt
+	modified:   ../crawl/fitbit.com/Privacy Policy.txt
+	modified:   ../crawl/ft.com/Privacy Policy.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
 	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
@@ -25,9 +29,7 @@ Changes not staged for commit:
 	modified:   ../crawl/landsend.com/Privacy Policy.txt
 	modified:   ../crawl/linksys.com/Linksys Shield Privacy Notice.txt
 	modified:   ../crawl/linksys.com/Linksys Shield Terms of Service.txt
-	modified:   ../crawl/linksys.com/Privacy Policy.txt
-	modified:   ../crawl/linksys.com/Terms of Use.txt
-	modified:   ../crawl/nfl.com/Privacy Policy.txt
+	modified:   ../crawl/mediaplex.com/Privacy Policy.txt
 	modified:   ../crawl/npr.org/Privacy Policy.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
 	modified:   ../crawl/okcupid.com/Privacy Policy.txt
@@ -36,16 +38,13 @@ Changes not staged for commit:
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
 	modified:   ../crawl/pollen.com/Privacy Policy.txt
 	modified:   ../crawl/realclearpolitics.com/Privacy Policy.txt
-	modified:   ../crawl/realtor.com/Privacy Policy.txt
 	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
-	modified:   ../crawl/sencha.com/Privacy Policy.txt
 	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
-	modified:   ../crawl/shopzilla.com/Privacy Policy.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
 	modified:   ../crawl/spiegel.de/Privacy Policy.txt
 	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
-	modified:   ../crawl/stumbleupon.com/Privacy Policy.txt
+	modified:   ../crawl/tealium.com/Privacy Policy.txt
 	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
 	modified:   ../crawl/ubuntu.com/Terms of Service.txt
@@ -53,10 +52,15 @@ Changes not staged for commit:
 	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
 	modified:   ../crawl/webmd.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
-	modified:   ../crawl/wolframalpha.com/Privacy Policy.txt
+	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl/zillow.com/Privacy Policy.txt
-	modified:   ../crawl_reviewed/steampowered.com/Steam Refunds.txt
+	modified:   ../crawl_reviewed/apple.com/Apple Support Communities Use Agreement.txt
+	modified:   ../crawl_reviewed/cnn.com/Privacy and Cookies Policy.txt
+	modified:   ../crawl_reviewed/cnn.com/Terms of Use.txt
+	modified:   ../crawl_reviewed/couchsurfing.org/Terms of Use.txt
+	modified:   ../crawl_reviewed/runescape.com/Terms and Conditions.txt
+	modified:   ../crawl_reviewed/steampowered.com/Steam Subscriber Agreement.txt
+	modified:   ../crawl_reviewed/tumblr.com/Terms of Service.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
