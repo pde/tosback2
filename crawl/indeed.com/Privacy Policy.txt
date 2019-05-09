@@ -139,7 +139,7 @@ Changes To Our Cookie Policy</strong>
 Any changes will become effective on the “Last Updated” date indicated above.
 By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy.
 If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.</p>
-<p> </p> Privacy Policy <p>Last Updated: April 25, 2019</p>
+<p> </p> Privacy Policy <p>Last Updated: May 8th, 2019</p>
 <b>1.
 Introduction</b>
 <p>Indeed values the trust our users and customers place in us when they give us access to their personal data.
@@ -258,8 +258,11 @@ For example, Indeed may identify that you have not responded to an email from a 
 Indeed collects your email address and notes or information about a candidate or candidate statuses that you save or update.
 Indeed may use this information to add labels to candidates in your inbox, which you may remove, if you so wish.
 Embox may detect if you receive an email through Indeed’s email relay service and automatically launch the extension or add-on.
-When you update the status of a candidate in Embox, to the extent such candidate also appears in your Indeed Employer dashboard, the status update may be reflected in your Indeed Employer dashboard.
-Likewise, when you update a candidate status in your Indeed Employer dashboard, the new status may be reflected in Embox.</p>
+If you opt in to sync candidates between Embox and your Indeed Employer dashboard, all candidates and their statuses in your Indeed Employer dashboard will also appear in Embox.
+Candidates in Embox will not be added to your Indeed Employer dashboard as part of the syncing.
+Candidate status updates in Embox will be reflected in your Indeed Employer dashboard.
+For any syncing to occur, you must sign in to your Indeed Employer account from Embox.
+Syncing will continue so long as you are signed in to your Indeed Employer account from the same device from which you use Embox.</p>
 <p>
 <b>2.3 Any Other Personal Data Indeed May Receive from Third Parties</b>
 </p>
@@ -2191,4 +2194,4 @@ Your testing must not violate any law, or disrupt or compromise any data that is
 Cookies, Privacy and Terms | © 2019 Indeed &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&amp;ev=PageView&amp;noscript=1"
 /&gt.
-&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1daavnhh5hs11800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
+&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1dadi0nif2469000&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
