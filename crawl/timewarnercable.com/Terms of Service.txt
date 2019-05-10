@@ -1,5 +1,5 @@
 
-c81c64aa-c159-4439-bfe7-a744e95c002a <ul>
+6347ce4b-2ef5-4f1c-a895-49bd1218e76d <ul>
 <li>
 <p>
 </p>
@@ -28,32 +28,8 @@ c81c64aa-c159-4439-bfe7-a744e95c002a <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="5a77cb21-0f2e-438d-9053-c35bbc9844f4" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="5a77cb21\u002D0f2e\u002D438d\u002D9053\u002Dc35bbc9844f4"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="ab983aa9-dc93-40ee-88da-dbd39479a3a0" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="ab983aa9\u002Ddc93\u002D40ee\u002D88da\u002Ddbd39479a3a0"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
+<li> Mobile </li>
+<li> Latino </li>
 <li> Business </li>
 </ul>
 </li>
@@ -71,31 +47,8 @@ jQuery(document).ready(function () { jQuery('.linkComponent [data-id="ab983aa9\u
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="2c1ace9b-0346-4124-a610-6e3071638cf8" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="2c1ace9b\u002D0346\u002D4124\u002Da610\u002D6e3071638cf8"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="eb7df9b3-452b-4d19-8f20-63f8e87c3d2a" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="eb7df9b3\u002D452b\u002D4d19\u002D8f20\u002D63f8e87c3d2a"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li> Mobile </li>
+<li>
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -116,31 +69,9 @@ Offers * Street Address Enter your street address Apartment * Zip Code Enter you
 <li> Spectrum Internet </li>
 <li> Spectrum TV </li>
 <li> Spectrum Voice </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="a3959490-2ebf-4fff-9d7e-2443c75613d9" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Mi Plan Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="a3959490\u002D2ebf\u002D4fff\u002D9d7e\u002D2443c75613d9"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="26e1a1b5-3a4e-4c3d-a97c-3c0db47be077" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Spectrum Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="26e1a1b5\u002D3a4e\u002D4c3d\u002Da97c\u002D3c0db47be077"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
