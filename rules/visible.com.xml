@@ -1,0 +1,17 @@
+<sitename name="visible.com">
+  <docname name="Visible Service Terms &amp; Conditions">
+    <url name="https://www.visible.com/legal/terms-and-conditions" xpath="//div[contains(@class, 'legal')]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Terms of Use">
+    <url name="https://www.visible.com/legal/terms-of-use" xpath="//div[contains(@class, 'legal')]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.visible.com/legal/privacy" xpath="//div[contains(@class, 'legal')]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>
