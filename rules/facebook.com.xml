@@ -9,4 +9,14 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
+ <docname name="Data Policy">
+   <url name="https://www.facebook.com/policy.php" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Terms of Service">
+   <url name="https://www.facebook.com/terms.php" xpath="//div[@id='content']" reviewed="true">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
 </sitename>

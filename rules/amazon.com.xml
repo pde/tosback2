@@ -1,10 +1,10 @@
 <sitename name="amazon.com">
- <docname name="Conditions of Use">-->
+ <docname name="Conditions of Use">
    <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=508088" xpath="//div[@class='help-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Amazon Privacy Notice">-->
+ <docname name="Amazon Privacy Notice">
    <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" xpath="//div[@class='help-content']" reviewed="true">
      <norecurse name="arbitrary" />
    </url>
@@ -124,4 +124,20 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
+ <docname name="Official AWS Privacy Policy">
+   <url name="https://aws.amazon.com/privacy/" xpath="//main">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+ <docname name="Amazon Terms of Service">
+   <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202140280" xpath="//div[@class='cs-help-content']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
+<docname name="Amazon Advertising Preferences">
+   <url name="https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2" xpath="//div[@class='a-container']">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname>
 </sitename>
+ 

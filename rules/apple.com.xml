@@ -39,4 +39,19 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
+ <docname name="California Privacy Disclosure">
+   <url name="https://www.apple.com/legal/privacy/california-dnt/" xpath="//main[@class='main']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Privacy Management Guide">
+   <url name="https://www.apple.com/privacy/manage-your-privacy/" xpath="//main[@class='main']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+ <docname name="Apple Transparency Report">
+   <url name="https://www.apple.com/legal/transparency/" xpath="//main[@class='main']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
 </sitename>

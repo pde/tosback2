@@ -9,12 +9,22 @@
       <norecurse name="arbitrary"/>
     </url>
   </docname>
-  <docname name="Google Analytics Terms of Service">   
+  <docname name="Google Analytics Terms of Service">
     <url name="https://www.google.com/analytics/terms/us.html" xpath="//div[@class='main']">
       <norecurse name="arbitrary" />
     </url>
   </docname>
-  <docname name="Google Wifi and your privacy">   
+  <docname name="Google Wifi and your privacy">
+    <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Google Privacy &amp; Terms - FAQ">
+    <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Google Privacy &amp; Terms - Technologies">
     <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="//article">
       <norecurse name="arbitrary" />
     </url>

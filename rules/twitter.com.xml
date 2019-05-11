@@ -3,9 +3,54 @@
     <url name="https://twitter.com/en/privacy" xpath="//main" reviewed="true">
       <norecurse name="arbitrary" />
     </url>
-  </docname> 
+  </docname>
   <docname name="Terms of Service">
     <url name="https://twitter.com/en/tos" xpath="//main" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Developer Agreement">
+    <url name="https://developer.twitter.com/en/developer-terms/agreement" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Developer Policy">
+    <url name="https://developer.twitter.com/en/developer-terms/policy" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Geo guidelines">
+    <url name="https://developer.twitter.com/en/developer-terms/geo-guidelines" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Twitter Kit Agreement">
+    <url name="https://developer.twitter.com/en/developer-terms/twitter-kit-agreement" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Ads API Agreement">
+    <url name="https://developer.twitter.com/en/developer-terms/ads-api-agreement" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="More about restricted uses of the Twitter APIs">
+    <url name="https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Display requirements: Tweets">
+    <url name="https://developer.twitter.com/en/developer-terms/display-requirements" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Display requirements: Replies">
+    <url name="https://developer.twitter.com/en/developer-terms/reply-requirements" xpath="//body/div[@id='component-wrapper']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Our use of cookies and similar technologies">
+    <url name="https://help.twitter.com/en/rules-and-policies/twitter-cookies" xpath="//main[@class='twtr-main']//div[contains(@class, 'twtr-grid__yang')]">
       <norecurse name="arbitrary" />
     </url>
   </docname>

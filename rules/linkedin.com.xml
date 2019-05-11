@@ -1,12 +1,17 @@
 <sitename name="linkedin.com">
- <docname name="Privacy Policy">
-   <url name="https://www.linkedin.com/legal/privacy-policy" xpath="//div[@class='legal-content']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
-<docname name="Terms of Service">   
-   <url name="https://www.linkedin.com/legal/user-agreement" xpath="//div[@class='legal-content']" reviewed="true">
-     <norecurse name="arbitrary" />
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://www.linkedin.com/legal/privacy-policy" xpath="//div[@class='legal-content']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Terms of Service">
+    <url name="https://www.linkedin.com/legal/user-agreement" xpath="//div[@class='legal-content']" reviewed="true">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="LinkedIn in Microsoft Applications with Your Personal Account">
+    <url name="https://www.linkedin.com/help/linkedin/answer/84711" xpath="//section[@role='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
