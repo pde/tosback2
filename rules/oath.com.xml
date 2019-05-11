@@ -65,4 +65,74 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Ad Serving">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Oath Analytics">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/analytics/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Appended and Matched Data">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/appenddata/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Cookies and Similar Technologies">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Data Storage and Anonymization">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/datastorage/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Data Transfer">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/datatransfer/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="IP Address">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/ipaddress/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Location">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/location/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Research">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/research/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Security">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/security/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Third Parties">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Beacons &amp; SDKs">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/webbeacons/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="About Your Choices">
+    <url name="https://policies.oath.com/us/en/oath/privacy/topics/aboutyourchoices/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="OATH ENTERPRISE ACCOUNT PRIVACY POLICY">
+    <url name="https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
