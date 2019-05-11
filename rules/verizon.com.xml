@@ -10,4 +10,54 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Gizmo Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/gizmo-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Verizon Home Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/verizon-home-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Smart Family Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/smart-family-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Full Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/full-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="AppFlash Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/appflash-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="VZ Navigator App Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/vz-navigator-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Message+ Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Privacy Policy for Fios and other Fiber-to-the-Premises Customers">
+    <url name="https://www.verizon.com/about/privacy/fios-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Privacy Policy Summary">
+    <url name="https://www.verizon.com/about/privacy/privacy-policy-summary" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="MapQuest Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/mapquest" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
