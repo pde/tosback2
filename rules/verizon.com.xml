@@ -60,4 +60,19 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Mobile Location Analytics Privacy Notice">
+    <url name="https://www.verizon.com/about/privacy/mobile-location-analytics-privacy-notice" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Hum Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/hum-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="International Privacy Centre">
+    <url name="https://www.verizon.com/about/privacy/international-privacy-centre" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

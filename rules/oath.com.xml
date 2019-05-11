@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitename name="oath.com">
+  <docname name="Oath Privacy Center">
+    <url name="https://policies.oath.com/us/en/oath/privacy/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Copyright and Intellectual Property Policy">
+    <url name="https://policies.oath.com/us/en/oath/ip/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Communication Products">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/communications/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Media">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/mediaservices/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Browser Apps">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/browserapps/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Children's Privacy And Family Accounts">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/family/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Yahoo Developer Network">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/developer/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Search Services">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/searchservices/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Smart TV">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/smarttv/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Oath Promotions">
+    <url name="https://policies.oath.com/us/en/oath/privacy/products/promotions/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Why This Ad?">
+    <url name="https://policies.oath.com/us/en/oath/privacy/adinfo/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Oath Community Guidelines">
+    <url name="https://policies.oath.com/us/en/oath/guidelines/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Oath Terms of Service">
+    <url name="https://policies.oath.com/us/en/oath/terms/otos/index.html" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>
