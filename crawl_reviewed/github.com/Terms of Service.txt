@@ -399,29 +399,25 @@ Creating Applications
 <p>If you create a third-party application or other developer product that collects User Personal Information or User-Generated Content and integrates with the Service through GitHub's API, OAuth mechanism, or otherwise ("Developer Product"), and make it available for other Users, then you must comply with the following requirements:</p>
 <ul>
 <li>You must comply with this Agreement and the GitHub Privacy Statement.</li>
-<li>Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection.
-</li>
+<li>Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection.</li>
 <li>You must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content.</li>
 <li>You must not hold yourself out as collecting any User Personal Information or User-Generated Content on GitHub’s behalf, and provide sufficient notice of your privacy practices to the User, such as by posting a privacy policy.</li>
 <li>You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.</li>
 </ul>
-<p>If you list a Developer Product through GitHub Marketplace, then you must agree to the GitHub Marketplace Developer Agreement, prior to submitting the project to be listed.
-</p>
+<p>If you list a Developer Product through GitHub Marketplace, then you must agree to the GitHub Marketplace Developer Agreement, prior to submitting the project to be listed.</p>
 2.
 Using Third-Party Applications
 <p>You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories.
 Some Developer Products are available through GitHub Marketplace.
 Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product.
 However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account.
-Please see our Privacy Statement for more information about how we share data with Developer Products.
-</p>
+Please see our Privacy Statement for more information about how we share data with Developer Products.</p>
 <p>
 <strong>GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that you authorize to access Your Content.
 Your use of any third-party applications is at your sole risk.</strong>
 </p>
 <p>If you buy Developer Products through GitHub Marketplace, the GitHub Marketplace Terms of Service controls your purchase.
-This Agreement, as well as the GitHub Marketplace Terms of Service, will govern your use of GitHub Marketplace.
-</p>
+This Agreement, as well as the GitHub Marketplace Terms of Service, will govern your use of GitHub Marketplace.</p>
 K.
 Advertising on GitHub
 <p>
