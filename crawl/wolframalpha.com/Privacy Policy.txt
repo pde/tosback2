@@ -31,6 +31,9 @@ Services<i>
 </i>Wolfram Player</li>
 <li>
 <i>
+</i>Wolfram Engine</li>
+<li>
+<i>
 </i>WolframScript</li>
 </ul>
 <ul>
@@ -191,12 +194,12 @@ Business Analysis <ul>
 <ul>
 <li>
 <i>
-</i>Web &amp.
-Software <ul>
+</i>Software &amp.
+Web <ul>
+<li>Software Development</li>
 <li>Authoring &amp.
 Publishing</li>
 <li>Interface Development</li>
-<li>Software Engineering</li>
 <li>Web Development</li>
 </ul>
 </li>
@@ -436,6 +439,7 @@ If you don't want to be bound by these terms, do not use the Services or their r
 <li>Wolfram|Alpha Pro</li>
 <li>Wolfram|Alpha API</li>
 <li>Wolfram ID</li>
+<li>Wolfram Engine</li>
 <li>Wolfram Cloud</li>
 <li>Wolfram Enterprise Private Cloud</li>
 <li>Wolfram Programming Lab</li>
@@ -511,6 +515,7 @@ If you don't want to be bound by these terms, do not use the Services or their r
 <li>Finance Platform</li>
 <li>SystemModeler</li>
 <li>Wolfram Player</li>
+<li>Wolfram Engine</li>
 <li>WolframScript</li>
 <li>Wolfram Workbench</li>
 <li>Volume &amp.
