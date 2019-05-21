@@ -1,7 +1,67 @@
 <sitename name="alibaba.com">
- <docname name="Privacy Policy">
-   <url name="http://www.alibaba.com/help/safety_security/policies_rules/others/001.html">
-     <norecurse name="arbitrary"/>
-   </url>
- </docname>
+  <docname name="Privacy Policy">
+    <url name="https://rule.alibaba.com/rule/detail/2034.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Terms of Use">
+    <url name="https://rule.alibaba.com/rule/detail/2041.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Rules on Resolving Image Piracy Complaints">
+    <url name="https://rule.alibaba.com/rule/detail/6391.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Rules for Handling Unauthorized Use of A Third Party's Information">
+    <url name="https://rule.alibaba.com/rule/detail/5929.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Rules for Enforcement Actions against Non-compliance Relating to Inappropriate Product Postings">
+    <url name="https://rule.alibaba.com/rule/detail/5845.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Updated Rules for Preventing Duplicate Product Postings">
+    <url name="https://rule.alibaba.com/rule/detail/5629.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Terms and Conditions Governing Request for Quotation">
+    <url name="https://rule.alibaba.com/rule/detail/2051.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Rules against Duplicate Product Listing">
+    <url name="https://rule.alibaba.com/rule/detail/2050.htm" xpath="(//*[contains(@class, 'mod-main-content')]//div[@class='detail'])[1]">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Intellectual Property Rights(IPR)Protection Policy">
+    <url name="https://rule.alibaba.com/rule/detail/2049.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Alibaba.com Product Listing Information-Editing Guidelines">
+    <url name="https://rule.alibaba.com/rule/detail/2048.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Product Listing Policy">
+    <url name="https://rule.alibaba.com/rule/detail/2047.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Enforcement Actions for Displaying Prohibited and Controlled Items">
+    <url name="https://rule.alibaba.com/rule/detail/2044.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Enforcement Actions for Intellectual Property Rights Infringements Claims on Alibaba.com">
+    <url name="https://rule.alibaba.com/rule/detail/2043.htm" xpath="//*[contains(@class, 'mod-main-content')]//div[@class='detail']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 </sitename>

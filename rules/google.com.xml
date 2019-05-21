@@ -1,19 +1,89 @@
-<docname name="Google Wifi and your privacy">
-  <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section">
-   <norecurse name="arbitrary"/>
-  </url>
-</docname>
+<sitename name="google.com">
+  <docname name="Terms of Service">
+    <url name="https://policies.google.com/terms" xpath="//div[@role='article']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Privacy Policy">
+    <!-- note: see also next one -->
+    <url name="https://policies.google.com/privacy" xpath="//div[@role='article']" reviewed="true">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+   <docname name="GOOGLE PRIVACY POLICY">
+    <!-- note: see also previous one -->
+    <url name="https://policies.google.com/privacy" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]">
+     <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 
+  <docname name="Google Analytics Terms of Service">
+    <url name="https://www.google.com/analytics/terms/us.html" xpath="//div[@class='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Google Wifi and your privacy">
+    <!-- <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="//article"> -->
+    <url name="https://support.google.com/wifi/answer/6246642?hl=en" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+  <docname name="Google Privacy &amp; Terms - FAQ">
+    <url name="https://policies.google.com/faq?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Google Privacy &amp; Terms - Technologies - Advertising">
+    <!-- note: see also next one -->
+    <url name="https://policies.google.com/technologies/ads?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Advertising Cookies Policy">
+    <!-- note: see also previous one -->
+    <url name="https://policies.google.com/technologies/ads" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/div/div">
+     <norecurse name="arbitrary"/>
+    </url>
+  </docname>
 
-<docname name="GOOGLE PRIVACY POLICY">
-  <url name="https://policies.google.com/privacy" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]">
-   <norecurse name="arbitrary"/>
-  </url>
-</docname>
-
-
-<docname name="Advertising Cookies Policy">
-  <url name="https://policies.google.com/technologies/ads" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/div/div">
-   <norecurse name="arbitrary"/>
-  </url>
-</docname>
+  <docname name="How Google uses information from sites or apps that use our services">
+    <url name="https://policies.google.com/technologies/partner-sites?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google uses cookies">
+    <url name="https://policies.google.com/technologies/cookies?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google uses pattern recognition">
+    <url name="https://policies.google.com/technologies/pattern-recognition?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google uses location information">
+    <url name="https://policies.google.com/technologies/location-data?hl=en#why-use" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google uses credit card numbers for payments">
+    <url name="https://policies.google.com/technologies/wallet?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google Voice works">
+    <url name="https://policies.google.com/technologies/voice?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google retains data we collect">
+    <url name="https://policies.google.com/technologies/retention?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="How Google anonymizes data">
+    <url name="https://policies.google.com/technologies/anonymization?hl=en" xpath="//article">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+</sitename>

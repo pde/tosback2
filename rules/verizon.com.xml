@@ -10,4 +10,99 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Gizmo Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/gizmo-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Verizon Home Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/verizon-home-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Smart Family Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/smart-family-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Full Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/full-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="AppFlash Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/appflash-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="VZ Navigator App Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/vz-navigator-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Message+ Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Privacy Policy for Fios and other Fiber-to-the-Premises Customers">
+    <url name="https://www.verizon.com/about/privacy/fios-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Privacy Policy Summary">
+    <url name="https://www.verizon.com/about/privacy/privacy-policy-summary" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="MapQuest Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/mapquest" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Mobile Location Analytics Privacy Notice">
+    <url name="https://www.verizon.com/about/privacy/mobile-location-analytics-privacy-notice" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Hum Privacy Policy">
+    <url name="https://www.verizon.com/about/privacy/hum-privacy-policy" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="International Privacy Centre">
+    <url name="https://www.verizon.com/about/privacy/international-privacy-centre" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Verizon Selects FAQs">
+    <url name="https://www.verizonwireless.com/support/verizon-selects-faqs/" xpath="//div[@class='faq basefragment']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Business and Marketing Insights FAQs">
+    <url name="https://www.verizonwireless.com/support/business-marketing-reports-faqs/" xpath="//div[@class='faq basefragment']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Cookies &amp; Related Technologies">
+    <url name="https://www.verizon.com/about/privacy/cookies" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Frequently Asked Questions about Copyrights and Verizon's Anti-Piracy Cooperation Program">
+    <url name="https://www.verizon.com/support/residential/account/manage-account/security/copyright-faq" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Web com Master Services Agreement">
+    <url name="https://www.verizon.com/about/terms-conditions/web-com-master-services-agreement" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Master Domain Registration Agreement for Verizon Domain Names">
+    <url name="https://www.verizon.com/about/terms-conditions/master-domain-registration-agreement-verizon-domain-names" xpath="//main">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

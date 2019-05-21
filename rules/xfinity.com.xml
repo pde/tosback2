@@ -34,4 +34,9 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
+  <docname name="Xfinity Mobile Customer Privacy Policy">
+    <url name="https://www.xfinity.com/mobile/policies/privacy-policy" xpath="//xm-privacy-policy">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>

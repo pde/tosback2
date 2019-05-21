@@ -19,4 +19,24 @@
     <url name="https://www.att.com/legal/terms.wirelessCustomerAgreement.html" xpath="//div[@id='termsofservices']" reviewed="true">
     </url>
   </docname>
+  <docname name="AT&amp;T Consumer Marketing">
+    <url name="https://about.att.com/sites/privacy_policy/att_consumer_marketing" xpath="//section[@id='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Cookies and Other Technologies">
+    <url name="https://about.att.com/sites/privacy_policy/cookies_and_other_technologies" xpath="//section[@id='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="Your Rights &amp; Choices">
+    <url name="https://about.att.com/sites/privacy_policy/rights_choices" xpath="//section[@id='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
+  <docname name="AT&amp;T Privacy Policy FAQ">
+    <url name="https://about.att.com/sites/privacy_policy/terms" xpath="//section[@id='main']">
+      <norecurse name="arbitrary" />
+    </url>
+  </docname>
 </sitename>
