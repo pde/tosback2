@@ -1,0 +1,126 @@
+ Developer Back <ul>
+<li> Use cases <ul>
+<li> Advertise </li>
+<li> Publish and curate </li>
+<li> Analyze </li>
+<li> Engage </li>
+</ul>
+</li>
+<li> Products <ul>
+<li> Products overview </li>
+<li> Accounts and users </li>
+<li> Tweets </li>
+<li> Direct messages </li>
+<li> Metrics </li>
+<li> Ad campaigns </li>
+<li> Publisher tools </li>
+</ul>
+</li>
+<li> Docs <ul>
+<li> Documentation </li>
+<li> API reference index </li>
+<li> Tutorials </li>
+<li> Changelog </li>
+<li> API status </li>
+</ul>
+</li>
+<li> More <ul>
+<li> Case studies </li>
+<li> Enterprise data </li>
+<li> Developer terms </li>
+<li> Pricing </li>
+<li> Billing details </li>
+<li> Community </li>
+<li> Forum </li>
+<li> Blog </li>
+<li> Stay informed </li>
+</ul>
+</li>
+<li> Labs <ul>
+<li> About </li>
+<li> Docs </li>
+<li> Feedback </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Apply </li>
+</ul> Sign In <p>Developer terms</p> Geo guidelines <p>Last Update: October 22, 2014.</p> Introduction <p>Tweeting With Location is the geotagging feature in the Twitter API.
+This feature helps to provide a more meaningful experience for users by making Tweets more contextual.
+For instance, “Fireworks!” is much more relevant when associated with a location: “Fireworks!” from the SoMa Neighborhood in San Francisco, California.
+We look forward to working with the developer ecosystem to create great experiences around this functionality!</p> User Privacy And User Control Of Their Location Information <p>To ensure a good and safe experience, developers should be sensitive to user privacy when dealing with their location as well as provide baseline consistency in the “Tweeting with Location” experience.
+Here are some key things to keep in mind that help protect user privacy and ensure users understand the impact of their actions:</p> General Guidelines <ul>
+<li>Users must opt-in to use the Tweeting With Location feature (turn location “on”).</li>
+<li>Users must give explicit permission for their exact location to be displayed with their Tweets.
+If the location feature on your client is “sticky” — i.e.
+once location is turned on it always accompanies a Tweet — you may wish to display only place names (place_ids) and allow users to further opt in to exact latitude and longitude on a per-Tweet basis or as a specific alternative setting.</li>
+<li>When you access your users’ location data to post a Tweet, that information should not be stored by you apart from the Tweet without the user’s explicit permission.</li>
+<li>It must be clear to users what level of location information, if any, will be displayed in association with their Tweet.
+One way you can do this is by showing a map of how this information will be displayed before the Tweet is published.
+If exact latitude and longitude is part of the information (or the only information) published by the user on the client, it should be clear to the user that their exact coordinates will be published.</li>
+<li>Users should be able to turn on and off their location each time they compose a Tweet.</li>
+<li>You must follow the terms of Twitter’s Developer Policy – including the requirement that you may not aggregate, cache, or store location data and other geographic information from the Twitter API, except as part of a Tweet, and may not use such location data or geographic information on a standalone basis.</li>
+</ul>Specific Examples Example 1: <i>No addition of explicit latitude and longitude (this is the current Twitter Web Client UI)</i>
+<ol>
+<li>Show a link to “Add your location” when a user composes a Tweet;</li>
+<li>In the background, use the Twitter reverse_geocode API call and pass the latitude, longitude, accuracy of your fix, and the user’s preferred granularity (which, by default, is “neighborhood”);</li>
+<li>Display the name for the default place (Twitter will attempt to order these in a way that makes sense - the ordering is such that a Twitter client can just display the list without a need for modification);</li>
+<li>Allow the user to select a different location from the list (e.g.
+change from “SoMa, San Francisco” to “South Beach, San Francisco”).</li>
+<li>
+<b>Important</b>: Be transparent with the user if you will be displaying exact location information.
+Make sure the user knows if exact location information will be displayed.</li>
+<li>Allow the user the choice to turn on or off location with every Tweet compose.</li>
+</ol>Example 2: <i>Existing geotagging implementations</i>
+<p>A number of Twitter client apps have the original geotagging feature (which only broadcast lat/lons without providing place_IDs) implemented.
+The default behavior of the API mimics this behavior – i.e.
+as a developer you do not need to make any changes to your existing app in order to maintain the behavior that exists today.
+Indeed, if you simply pass a lat/lon coordinate in to Twitter, Twitter will automatically reverse geocode that latitude and longitude and display the place_ID in addition to lat/lon for areas where we have data available.</p>
+<p>Ensure that it is transparent to your users that their exact coordinates are being used and displayed on Twitter.
+A best practice for existing apps would be to allow users to turn on or off their location on a per-Tweet basis.
+You can also enable your users to share only place_IDs instead of exact coordinates as a default, “sticky” setting.</p> Twitter Storage Of User Location Data <p>Twitter will store data passed by the client as follows:</p>
+<ul>
+<li>Twitter will save all the data that a user chooses to publicly display to his/her followers.
+This is similar to how Twitter stores the time stamp that says when the Tweet was made, meaning if a user Tweets with their exact coordinates, Twitter will store this exact location along with the Tweet for as long as the Tweet exists.
+Users can clear location data from their Tweets by clicking the “clear my location history” button on the Settings page as described here).</li>
+</ul>Summary <p>The addition of location to a Tweet adds an enormous amount of context and value from a user perspective.
+However, implementations of location in your client should be careful to take privacy and user transparency as a key consideration in designing a location-focused product.</p>
+<p>If you have any questions or comments about privacy, location, and other geo features, please contact us.</p> Developer policy and terms Follow @twitterdev Subscribe to developer news About <ul>
+<li> Let’s go Twitter</li>
+<li> Company</li>
+<li> Values</li>
+<li> Safety</li>
+<li> Blog</li>
+<li> Brand Resources</li>
+<li> Careers</li>
+<li> Investors</li>
+</ul> Business <ul>
+<li> About Twitter Ads</li>
+<li> Targeting</li>
+<li> Analytics</li>
+<li> Ads support</li>
+<li> Business blog</li>
+<li> Advertise</li>
+</ul> Developers <ul>
+<li> Documentation</li>
+<li> Forums</li>
+<li> Communities</li>
+<li> Developer blog</li>
+</ul> Help Center <ul>
+<li> Using Twitter</li>
+<li> Managing your account</li>
+<li> Safety and security</li>
+<li> Rules and policies</li>
+<li> Contact us</li>
+</ul> Marketing <ul>
+<li> Insights</li>
+<li> Success Stories</li>
+<li> Solutions</li>
+<li> Collections</li>
+<li> Marketing Blog</li>
+<li> Learn About Twitter Video</li>
+</ul>
+<p>© 2019 Twitter, Inc.</p> Cookies Privacy Terms and Conditions <ul>
+<li> Read Previous </li>
+<li> Read Next </li>
+</ul> 

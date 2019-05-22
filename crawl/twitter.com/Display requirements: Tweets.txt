@@ -1,0 +1,208 @@
+ Developer Back <ul>
+<li> Use cases <ul>
+<li> Advertise </li>
+<li> Publish and curate </li>
+<li> Analyze </li>
+<li> Engage </li>
+</ul>
+</li>
+<li> Products <ul>
+<li> Products overview </li>
+<li> Accounts and users </li>
+<li> Tweets </li>
+<li> Direct messages </li>
+<li> Metrics </li>
+<li> Ad campaigns </li>
+<li> Publisher tools </li>
+</ul>
+</li>
+<li> Docs <ul>
+<li> Documentation </li>
+<li> API reference index </li>
+<li> Tutorials </li>
+<li> Changelog </li>
+<li> API status </li>
+</ul>
+</li>
+<li> More <ul>
+<li> Case studies </li>
+<li> Enterprise data </li>
+<li> Developer terms </li>
+<li> Pricing </li>
+<li> Billing details </li>
+<li> Community </li>
+<li> Forum </li>
+<li> Blog </li>
+<li> Stay informed </li>
+</ul>
+</li>
+<li> Labs <ul>
+<li> About </li>
+<li> Docs </li>
+<li> Feedback </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Apply </li>
+</ul> Sign In <p>Developer terms</p> Display requirements: Tweets General principles and Tweet anatomy <p>Tweets are one of our most visible brand elements, so it’s important that they are presented correctly.
+You should comply with the display requirements below when you display Tweets, timelines, and other Twitter content.
+ <br>
+</p>
+<p>If you follow these guidelines merely to display a Tweet, you may not need to contact Twitter for any additional display or trademark permissions.
+However, you may still want to submit your proposed use and context for Twitter review.
+(Note that, in some cases, permission from the original content creator may still be necessary, as Twitter does not provide permission to use third party/user content.)</p>
+<p>The following general principles apply to all display mediums.
+Please note, medium-specific requirements do apply, and are are outlined in the sections below.</p>
+<p>The image below shows all the main components of a Tweet.</p>
+<p>Do:<br>
+</p>
+<ul>
+<li>Display real, unmodified Tweets from real accounts.</li>
+<li>Follow Twitter’s Terms of Service, the Twitter Brand Assets and Guidelines, and (if applicable) the Developer Agreement and Developer Policy.</li>
+<li>Display the Twitter logo.</li>
+</ul>
+<p>Don't:</p>
+<ul>
+<li>Use Twitter content to promote any product or service (e.g., by displaying Twitter content in advertising or otherwise displaying Twitter content to imply endorsement of any product or service) without explicit permission from the user.</li>
+<li>Use Twitter content to imply sponsorship by, endorsement from, or a false association with Twitter.</li>
+<li>Include buttons or icons from other social platforms.</li>
+<li>Modify Tweet text.</li>
+<li>Use mock ups of Tweets that don’t exist on the platform.</li>
+</ul> Online display / Mobile, web, and beyond <p>We’re committed to bringing the ease and power of Twitter to everyone.
+To ensure every Tweet is displayed optimally, we strongly encourage using embedded Tweets, embedded timelines, and/or Twitter Kit.
+When you use these products to publish Twitter content, Tweets and timelines are automatically rendered correctly, including advanced features like photos, video playback and fetching of up-to-date Twitter data without OAuth.
+If it is not possible for you to use our embedding features, you must follow the requirements below when displaying Tweets and timelines online.<br>
+</p>
+<p>Tweet author:</p>
+<ul>
+<li>The Tweet author’s profile picture, @username, and display name must always be displayed and link to the user’s Twitter profile.</li>
+<li>The Tweet author’s @username must always be displayed with the “@” symbol.</li>
+<li>The Tweet author’s avatar must be positioned to the left of the author’s name and @username—except for Tweets in languages that read right to left, in which case the author’s avatar must be positioned to the right of the author’s display name and @username.</li>
+</ul>
+<p>Tweet text:</p>
+<ul>
+<li>The Tweet text must be displayed on a line below the author’s display name and @username, and may not be altered or modified.</li>
+<li>On touch devices, the white space around the Tweet text and Tweet author must link to the Tweet’s permalink.</li>
+<li>Tweet Entities within the Tweet text must be properly linked to their appropriate home on Twitter.
+For example:<ul>
+<li>User_mentions must link to the mentioned user’s profile.</li>
+<li>Hashtags must link to a Twitter search with the hashtag as the query.</li>
+<li>Links in Tweet text must be displayed using the display_url field in the URL entities API response, and link to the original t.co url field.
+See our t.co best practices article for additional details.</li>
+</ul>
+</li>
+</ul>
+<p>Timestamp:</p>
+<ul>
+<li>The Tweet timestamp must be displayed and link to the Tweet’s permalink.</li>
+</ul>
+<p>Tweet Actions:</p>
+<ul>
+<li>All Tweet Action icons (including reply, Retweet, and like) must always be visible for the user to interact with the Tweet.
+These actions must be implemented using Web Intents or with the authenticated Twitter API.
+(To support the implementation of Tweet Actions, we provide several image resources.) In lieu of Tweet Actions, “View on Twitter” may be shown next to the timestamp, linking the user to the Tweet permalink.</li>
+<li>No other social or third party actions may be attached to a Tweet.
+(e.g., subscribe, comment, like).</li>
+<li>If the Tweet being displayed is a Retweet, the display name of the user who Retweeted it and the Retweet icon must be displayed above or under the Tweet text.
+e.g., “Retweeted by Jane Doe”.
+The display name must link to the profile of the user who Retweeted it.</li>
+<li>Follow reply guidelines for displaying replies.</li>
+</ul>
+<p>Branding:</p>
+<ul>
+<li>The official Twitter logo must always be reasonably visible and displayed on the upper-right corner of an individual Tweet or directly attached to the timeline (e.g., top of the timeline).
+The logo should be the same height “x” as in the image.
+See Twitter’s brand resources page for brand guidelines and assets.</li>
+</ul>
+<p>Mobile deep linking:</p>
+<ul>
+<li>
+<p>Deep links from native mobile apps must direct to the native Twitter application.
+If the native Twitter application is not installed on the device, the link must direct to twitter.com via a web browser.</p>
+</li>
+</ul>
+<p>Timelines:</p>
+<ul>
+<li>
+<p>All timelines must allow users to view the details of an individual Tweet (e.g., by linking the Tweet timestamp or by linking the entire Tweet area).</p>
+</li>
+</ul>
+<p>If you plan any advertising near Tweets, please ensure it complies with the Developer Policy.</p>
+<p>If for any reason you cannot comply with one or more of these rules, please contact us directly via our Policy Support form before displaying Twitter content.
+For questions or further information about use of the Twitter name and trademarks, please contact trademarks@twitter.com.</p> Broadcast display / 15 minutes of fame <p>We welcome and encourage the use of Twitter in broadcast media.
+Our requirements ensure that Twitter users receive proper attribution for their content, and help provide the best experience for your audience.<br>
+</p>
+<p>Do:</p>
+<ul>
+<li>Show the user’s full name, @username, Tweet text, and profile picture.</li>
+<li>Include the Twitter logo in close proximity to the Tweets for as long as they appear in your broadcast.
+Make sure that the Twitter logo is sized similarly to the size in the above image, relative to the content.</li>
+<li>Use the full text of the Tweet.</li>
+<li>When displaying images, the Tweet text must also be included along with the user’s display name, @username, and the Twitter logo.</li>
+</ul>
+<p>Don't:</p>
+<ul>
+<li>Display Twitter content in advertising or to imply endorsement of any product or service without explicit permission from the user.</li>
+<li>Delete, obscure, or alter the Tweet content or identification of the user (with the exception of removing hyperlinks).</li>
+<li>Exclude the timestamp.</li>
+<li>Do not use Twitter marks, in whole or in part, in the title of your production without first reviewing their use with Twitter by contacting us at trademarks@twitter.com.</li>
+</ul> Verbal or voice-over <p>Tweets<br>
+</p>
+<p>When reading Tweets on air with no graphic display of the Tweet, you do not need to display the Twitter logo but you do need to verbally attribute it to Twitter.
+Read the Tweet as originally written, without edits.</p>
+<p>Usernames</p>
+<p>Make sure to include a reference to Twitter when mentioning Twitter usernames.
+For example, “Follow us on Twitter, at-username” or “You can follow Lady Gaga on Twitter, at-ladygaga”</p>
+<p>Hashtags</p>
+<p>Make sure to include a reference to Twitter when mentioning Twitter hashtags.
+For example, “Use the hashtag ‘election2016’ on Twitter” or “The hashtag for this broadcast on Twitter is bbcaq”.</p> Offline display / Fit to print <p>When displaying Tweets offline, our general principles for Tweet anatomy apply, with some minor variations.<br>
+</p>
+<p>Do:</p>
+<ul>
+<li>Show display name, @username, unmodified Tweet text, profile picture (where possible), timestamp and the Twitter logo in the upper-right corner.</li>
+<li>Display the associated Tweet and attribution with images or media.</li>
+</ul>
+<p>Don't:</p>
+<ul>
+<li>Modify the Tweet text with the exception of removing hyperlinks.</li>
+<li>Include buttons or icons from other social media platforms.</li>
+</ul> Developer policy and terms Follow @twitterdev Subscribe to developer news About <ul>
+<li> Let’s go Twitter</li>
+<li> Company</li>
+<li> Values</li>
+<li> Safety</li>
+<li> Blog</li>
+<li> Brand Resources</li>
+<li> Careers</li>
+<li> Investors</li>
+</ul> Business <ul>
+<li> About Twitter Ads</li>
+<li> Targeting</li>
+<li> Analytics</li>
+<li> Ads support</li>
+<li> Business blog</li>
+<li> Advertise</li>
+</ul> Developers <ul>
+<li> Documentation</li>
+<li> Forums</li>
+<li> Communities</li>
+<li> Developer blog</li>
+</ul> Help Center <ul>
+<li> Using Twitter</li>
+<li> Managing your account</li>
+<li> Safety and security</li>
+<li> Rules and policies</li>
+<li> Contact us</li>
+</ul> Marketing <ul>
+<li> Insights</li>
+<li> Success Stories</li>
+<li> Solutions</li>
+<li> Collections</li>
+<li> Marketing Blog</li>
+<li> Learn About Twitter Video</li>
+</ul>
+<p>© 2019 Twitter, Inc.</p> Cookies Privacy Terms and Conditions <ul>
+<li> Read Previous </li>
+<li> Read Next </li>
+</ul> 

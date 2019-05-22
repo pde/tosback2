@@ -1,0 +1,404 @@
+ Developer Back <ul>
+<li> Use cases <ul>
+<li> Advertise </li>
+<li> Publish and curate </li>
+<li> Analyze </li>
+<li> Engage </li>
+</ul>
+</li>
+<li> Products <ul>
+<li> Products overview </li>
+<li> Accounts and users </li>
+<li> Tweets </li>
+<li> Direct messages </li>
+<li> Metrics </li>
+<li> Ad campaigns </li>
+<li> Publisher tools </li>
+</ul>
+</li>
+<li> Docs <ul>
+<li> Documentation </li>
+<li> API reference index </li>
+<li> Tutorials </li>
+<li> Changelog </li>
+<li> API status </li>
+</ul>
+</li>
+<li> More <ul>
+<li> Case studies </li>
+<li> Enterprise data </li>
+<li> Developer terms </li>
+<li> Pricing </li>
+<li> Billing details </li>
+<li> Community </li>
+<li> Forum </li>
+<li> Blog </li>
+<li> Stay informed </li>
+</ul>
+</li>
+<li> Labs <ul>
+<li> About </li>
+<li> Docs </li>
+<li> Feedback </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Apply </li>
+</ul> Sign In <p>Developer terms</p> Developer Policy Developer Policy Developer Policy¶ <p>Effective: November 3, 2017.</p>
+<p>In addition to the Developer Agreement, this Developer Policy (“Policy”) provides rules and guidelines for developers who interact with Twitter’s ecosystem of applications, services, website, web pages and content including any content that we may make available through our other covered services set forth at https://support.twitter.com/articles/20172501 (“Twitter Services”).
+Policy violations are also considered violations of the Developer Agreement.
+Take a look at the Definitions for the meaning of capitalized words used in this Policy.
+These policies may be changed from time to time without notice.
+Please check here for any updates.</p>
+<ul>
+<li>
+<strong>I.
+Guiding Principles</strong>
+<ul>
+<li> A.
+A Few Key Points </li>
+<li> B.
+Maintain the Integrity of Twitter’s Products </li>
+<li> C.
+Respect Users’ Control and Privacy </li>
+<li> D.
+Clearly Identify Your Service </li>
+<li> E.
+Keep Twitter Spam Free </li>
+<li> F.
+Be a Good Partner to Twitter </li>
+<li> G.
+Avoid Replicating the Core Twitter Experience </li>
+<li> H.
+Engage in Appropriate Commercial Use </li>
+</ul>
+</li>
+<li>
+<strong>II.
+Rules for Specific Twitter Services or Features</strong>
+<ul>
+<li> A.
+Twitter Login </li>
+<li> B.
+Social Updates </li>
+<li> C.
+Twitter Identity </li>
+<li> D.
+Twitter Cards </li>
+<li> E.
+Twitter for Websites </li>
+<li> F.
+Periscope Producer </li>
+<li> G.
+Definitions </li>
+</ul>
+</li>
+</ul>
+<strong>I.
+Guiding Principles</strong>¶ A.
+A Few Key Points¶ <ol>
+<li>Keep any API keys or other access credentials private and use only as permitted.</li>
+<li>Respect our requirements on how to display and interact with users’ content.</li>
+<li>If your application will need more than 1 million user tokens, you must contact us about your Twitter API access, as you may be subject to additional terms.
+</li>
+<li>Twitter may monitor your use of the Twitter API to improve the Twitter Services, examine commercial use and ensure your compliance with this Policy.</li>
+<li>Remember, Twitter may suspend or revoke access to the Twitter API if we believe you are in violation of this Policy.
+Do not apply for or register additional API tokens if Twitter has suspended your account.
+Instead, contact us.
+</li>
+</ol> B.
+Maintain the Integrity of Twitter’s Products¶ <ol>
+<li>Follow the Display Requirements, Twitter Rules and Periscope Community Guidelines.
+If your Service facilitates or induces users to violate the Twitter Rules or Periscope Community Guidelines, you must figure out how to prevent the abuse or Twitter may suspend or terminate your access to the Twitter API.
+We’ve provided guidance in our Abuse Prevention and Security help page.
+</li>
+<li>If your Service submits content to Twitter that includes a Twitter username, submit the correct Twitter username (“@username”).</li>
+<li>Do not modify, translate or delete a portion of the Twitter Content.</li>
+<li>Maintain the features and functionality of Twitter Content and Twitter API.
+Do not interfere with, intercept, disrupt, filter, or disable any features of Twitter or the Twitter API, including the Twitter Content of embedded Tweets and embedded timelines.
+</li>
+<li>Do not exceed or circumvent limitations on access, calls, sharing, privacy settings, or use permitted in this Policy, or as otherwise set forth on the Developer Site, or communicated to you by Twitter.
+</li>
+<li>Do not remove or alter any proprietary notices or marks on Twitter Content or the Twitter API.</li>
+<li>Do not (and do not allow others to) aggregate, cache, or store location data and other geographic information contained in the Twitter Content, except as part of a Tweet or Periscope Broadcast.
+Any use of location data or geographic information on a standalone basis is prohibited.</li>
+</ol> C.
+Respect Users’ Control and Privacy¶ <ol>
+<li>Get the user’s express consent before you do any of the following: <ol>
+<li>Take any actions on a user’s behalf, including posting Twitter Content, following/unfollowing other users, modifying profile information, starting a Periscope Broadcast or adding hashtags or other data to the user's Tweets.
+A user authenticating through your Service does not constitute user consent.</li>
+<li>Republish Twitter Content accessed by means other than via the Twitter API or other Twitter tools.</li>
+<li>Use a user’s Twitter Content to promote a commercial product or service, either on a commercial durable good or as part of an advertisement.</li>
+<li>Store non-public Twitter Content such as Direct Messages or other private or confidential information.</li>
+<li>Share or publish protected Twitter Content, private or confidential information.</li>
+<li>Configure media to be sent in a Direct Message as "shared" (i.e.
+reusable across multiple Direct Messages).
+You must also provide the user with clear notice that "shared" media sent in a Direct Message will be viewable by anyone with the media's URL.</li>
+</ol>
+</li>
+<li>Do not (and do not permit others to) associate the Twitter Content with any person, household, device, browser, or other individual identifier, unless you or the entity on whose sole behalf you make such an association do so (a) with the express opt-in consent of the applicable individual.
+or (b) based solely on publicly available data and/or data provided directly by the applicable individual that the individual would reasonably expect to be used for that purpose.</li>
+<li>If Twitter Content is deleted, gains protected status, or is otherwise suspended, withheld, modified, or removed from the Twitter Service (including removal of location information), you will make all reasonable efforts to delete or modify such Twitter Content (as applicable) as soon as reasonably possible, and in any case within 24 hours after a request to do so by Twitter or by a Twitter user with regard to their Twitter Content, unless otherwise prohibited by applicable law or regulation, and with the express written permission of Twitter.</li>
+<li>If your Service will display Twitter Content to the public or to end users of your Service, and you do not use Twitter Kit or Twitter for Websites to do so, then you must use the Twitter API to retrieve the most current version of the Twitter Content for such display.
+If Twitter Content ceases to be available through the Twitter API, you may not display such Twitter Content and must remove it from non-display portions of your Service as soon as reasonably possible.
+</li>
+<li>If your Service allows users to post Twitter Content to Twitter, then, before publishing, show the user exactly what will be published, including whether any geotags will be added to the Twitter Content.
+If you will send read receipt events for Direct Messages, you should inform users they will be sent as part of a conversation, such as by directly providing this notice to users in your application or by displaying read receipts from other participants in a conversation.</li>
+<li>If your Service allows users to post Twitter Content to your Service and Twitter, then, before publishing to the Service: <ol>
+<li>Explain how you will use the Twitter Content;</li>
+<li>Obtain proper permission to use the Twitter Content.
+and</li>
+<li>Continue to use such Twitter Content in accordance with this Policy in connection with the Twitter Content.</li>
+</ol>
+</li>
+<li>Display your Service’s privacy policy to users before download, installation or sign up of your application.
+Your privacy policy must be consistent with all applicable laws, and be no less protective of end users than Twitter’s Privacy Policy located at https://twitter.com/privacy including any relevant incorporated policies such as the supplemental terms located at https://support.twitter.com/articles/20172501.
+You must comply with your privacy policy, which must clearly disclose the information you collect from users, how you use and share that information (including with Twitter), and how users can contact you with inquiries and requests regarding their information.
+If for any reason you are unable to comply with your privacy policy or any privacy requirement of the Developer Agreement or Policy, you must promptly inform Twitter and take reasonable and appropriate steps to remedy any non-compliance, or cease your access to the Twitter API and use of all Twitter Content.
+</li>
+<li>If your Service uses cookies, disclose in your privacy policy: <ol>
+<li>Whether third parties collect user information on your Service and across other websites or online services;</li>
+<li>Information about user options for cookie management and whether you honor the Do Not Track setting in supporting web browsers.
+</li>
+</ol>
+</li>
+<li>If your Service adds location information to users’ Tweets or Periscope Broadcasts: <ol>
+<li>Disclose when you add location information, whether as a geotag or annotations data, and whether you add a place or specific coordinates.</li>
+<li>Comply with Geo Developers Guidelines if your application allows users to Tweet with their location.
+</li>
+</ol>
+</li>
+<li>Do not store Twitter passwords.</li>
+</ol> D.
+Clearly Identify Your Service¶ <ol>
+<li>Make sure users understand your identity and the source and purpose of your Service.
+For example: <ol>
+<li>Don’t use a name or logo that falsely implies you or your company is related to another business or person.</li>
+<li>Don’t use a shortened URL for your Service that attempts to mask the destination site.</li>
+<li>Don’t use a URL for your Service that directs users to <ol>
+<li>a site that is unrelated to your Service</li>
+<li>a site that encourages users to violate the Twitter Rules or the Periscope Community Guidelines.
+</li>
+<li>a spam or malware site.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Do not replicate, frame, or mirror the Twitter website or its design.</li>
+</ol> E.
+Keep Twitter Spam Free¶ <ol>
+<li>Follow the Abuse and Spam rules here.
+</li>
+<li>Comply with the automation rules if your Service performs automatic actions.
+</li>
+<li>Do not do any of the following: <ol>
+<li>Mass-register applications.</li>
+<li>Create tokens/applications to sell names, prevent others from using names, or other commercial use.</li>
+<li>Use third-party content feeds to update and maintain accounts under those third parties’ names.</li>
+<li>Name squat by submitting multiple applications with the same function under different names.</li>
+<li>Publish links to malicious content.</li>
+<li>Publish pornographic or obscene images to user profile images and background images.</li>
+</ol>
+</li>
+</ol> F.
+Be a Good Partner to Twitter¶ <ol>
+<li>Follow the guidelines for using Tweets in broadcast if you display Tweets offline and the guidelines for using Periscope Broadcasts in a broadcast if you display Periscope Broadcasts offline.
+</li>
+<li>If you provide Twitter Content to third parties, including downloadable datasets of Twitter Content or an API that returns Twitter Content, you will only distribute or allow download of Tweet IDs, Direct Message IDs, and/or User IDs.
+<ol>
+<li>You may, however, provide export via non-automated means (e.g., download of spreadsheets or PDF files, or use of a “save as” button) of up to 50,000 public Tweet Objects and/or User Objects per user of your Service, per day.</li>
+<li>Any Twitter Content provided to third parties remains subject to this Policy, and those third parties must agree to the Twitter Terms of Service, Privacy Policy, Developer Agreement, and Developer Policy before receiving such downloads.
+<ol>
+<li>You may not distribute more than 1,500,000 Tweet IDs to any entity (inclusive of multiple individual users associated with a single entity) within any given 30 day period, unless you are doing so on behalf of an academic institution and for the sole purpose of non-commercial research or you have received the express written permission of Twitter.</li>
+<li>You may not distribute Tweet IDs for the purposes of (a) enabling any entity to store and analyze Tweets for a period exceeding 30 days unless you are doing so on behalf of an academic institution and for the sole purpose of non-commercial research or you have received the express written permission of Twitter, or (b) enabling any entity to circumvent any other limitations or restrictions on the distribution of Twitter Content as contained in this Policy, the Twitter Developer Agreement, or any other agreement with Twitter.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Use and display Twitter Marks solely to identify Twitter as the source of Twitter Content.</li>
+<li>Comply with Twitter Brand Assets and Guidelines as well as the Periscope Trademark guidelines.
+</li>
+<li>Do not do any of the following: <ol>
+<li>Use a single application API key for multiple use cases or multiple application API keys for the same use case.</li>
+<li>Charge a premium above your Service's standard data and usage rates for access to Twitter Content via SMS or USSD.</li>
+<li>Sell or receive monetary or virtual compensation for Tweet actions, Periscope Broadcasts actions or the placement of Tweet actions on your Service, such as, but not limited to follow, retweet, like, heart, comment and reply.</li>
+<li>Do not use, access or analyze the Twitter API to monitor or measure the availability, performance, functionality, usage statistics or results of Twitter Services or for any other benchmarking or competitive purposes, including without limitation, monitoring or measuring: <ol>
+<li>the responsiveness of Twitter Services.
+or</li>
+<li>aggregate Twitter user metrics such as total number of active users, accounts, total number of Periscope Broadcast views, user engagements or account engagements.</li>
+</ol>
+</li>
+<li>Use Twitter Content, by itself or bundled with third party data, to target users with advertising outside of the Twitter platform, including without limitation on other advertising networks, via data brokers, or through any other advertising or monetization services.</li>
+<li>Use Twitter Marks, or Twitter Certified Products Program badges, or similar marks or names in a manner that creates a false sense of endorsement, sponsorship, or association with Twitter.</li>
+<li>Use the Twitter Verified Account badge, Verified Account status, or any other enhanced user categorization on Twitter Content other than that reported to you by Twitter through the API.</li>
+</ol>
+</li>
+</ol> G.
+Avoid Replicating the Core Twitter Experience¶ <ol>
+<li>Twitter discourages online services from replicating Twitter Service’s core user experience or features.</li>
+<li>The following rules apply solely to Services or applications that attempt to replicate Twitter’s core user experience: <ol>
+<li>You must obtain our permission to have more than 100,000 user tokens, and you may be subject to additional terms.</li>
+<li>Use the Twitter API as provided by Twitter for functionalities in your Service that are substantially similar to a Twitter Service feature and present this to your users as the default option.
+</li>
+<li>Display a prominent link or button in your Service that directs new users to Twitter’s sign-up functionality.</li>
+<li>Do not do the following: <ol>
+<li>Pay, or offer to pay, third parties for distribution.
+This includes offering compensation for downloads (other than transactional fees) or other mechanisms of traffic acquisition.</li>
+<li>Arrange for your Service to be pre-installed on any other device, promoted as a "zero-rated" service, or marketed as part of a specialized data plan.</li>
+<li>Use Twitter Content or other data collected from users to create or maintain a separate status update, social network, private messaging or live broadcasting database or service.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol> H.
+Engage in Appropriate Commercial Use¶ <ol>
+<li>Advertising Around Twitter Content <ol>
+<li>You may advertise around and on sites that display Tweets and Periscope Broadcasts, but you may not place any advertisements within the Twitter timeline or on or within Periscope Broadcasts on your Service other than Twitter Ads or advertisements made available through the official Twitter Kit integration with MoPub.
+Access to MoPub ads through Twitter Kit requires a MoPub supply account and is subject to MoPub terms of service &amp.
+policies.</li>
+<li>Your advertisements cannot resemble or reasonably be confused by users as a Tweet or Periscope Broadcast.</li>
+<li>You may advertise in close proximity to the Twitter timeline or a Periscope Broadcast (e.g., banner ads above or below timeline), but there must be a clear separation between Twitter Content and your advertisements.</li>
+</ol>
+</li>
+<li>Twitter reserves the right to serve advertising via Twitter APIs (“Twitter Ads”).
+If you decide to serve Twitter Ads once we start delivering them, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.</li>
+</ol>
+<strong>II.
+Rules for Specific Twitter Services or Features</strong>¶ A.
+Twitter Login¶ <ol>
+<li>Present users with easy to find options to log into and out of Twitter, for example, via the OAuth protocol or Twitter Kit.</li>
+<li>Provide users without a Twitter account the opportunity to create a new Twitter account.</li>
+<li>Display the "Sign in with Twitter" option at least as prominently as the most prominent of any other third party social networking sign-up or sign-in marks and branding appearing on your Service.</li>
+</ol> B.
+Social Updates¶ <ol>
+<li>If you allow users to create social updates from your own social service or a third party social networking, micro-blogging, or status update provider integrated into your Service ("Update"), you must display a prominent option to publish that content to Twitter.</li>
+<li>If Updates are longer than 140 characters or not text, you must display a prominent link to publish that content to Twitter and: <ol>
+<li>URLs must direct users to the page where that content is displayed.
+You may require users to sign in to access that page, but the content must not otherwise be restricted from being viewed.</li>
+<li>URLs must not direct users to interstitial or intermediate pages.</li>
+</ol>
+</li>
+</ol> C.
+Twitter Identity¶ <ol>
+<li>Once a user has authenticated via "Sign in with Twitter" via your Service, you must clearly display the user's Twitter identity via your Service.
+Twitter identity includes visible display of the user's avatar, Twitter user name and the Twitter bird mark.</li>
+<li>Displays of the user's followers on your Service must clearly show that the relationship is associated with the Twitter Service.</li>
+</ol> D.
+Twitter Cards¶ <ol>
+<li>Develop your Card to have the same quality experience across all platforms where Cards are displayed.</li>
+<li>If your Service provides a logged-in experience, the experience prior to a user’s login must be of equivalent quality and user value.</li>
+<li>Mark your Card as ‘true’ for sensitive media if such media can be displayed.</li>
+<li>Use HTTPS for hosting all assets within your Card.</li>
+<li>For video and audio content: <ol>
+<li>Default to ‘sound off’ for videos that automatically play content.</li>
+<li>Include stop or pause controls.</li>
+</ol>
+</li>
+<li>Do not do any of the following: <ol>
+<li>Exceed or circumvent Twitter’s limitations placed on any Cards, including the Card’s intended use.</li>
+<li>Attach the App Card to a user’s Tweet, unless the user is explicitly promoting or referring to the app in the Tweet.</li>
+<li>Place third-party sponsored content within Cards without Twitter’s prior approval.</li>
+<li>Include content or actions within your Card that are not contextually relevant to the user’s Tweet text and Tweet entities, such as URLs and media.</li>
+<li>Generate active mixed content browser warnings.</li>
+<li>Attach monetary incentives or transactions (including virtual currency) to activities that occur within the Card or on Twitter from your Card.</li>
+<li>Apply for Cards access for domains you do not manage to prevent others from registering or utilizing Cards on those domains.</li>
+</ol>
+</li>
+</ol> E.
+Twitter for Websites¶ <ol>
+<li>If you expect your embedded Tweets and embedded timelines to exceed 10 million daily impressions, you must contact us about your Twitter API access, as you may be subject to additional terms.
+</li>
+<li>If you use Twitter for Websites widgets, you must ensure that an end user is provided with clear and comprehensive information about, and consents to, the storing and accessing of cookies or other information on the end user’s device as described in Twitter's cookie use where providing such information and obtaining such consent is required by law.
+</li>
+<li>If you use embedded Tweets or embedded timelines, you must provide users legally sufficient notice that fully discloses Twitter's collection and use of data about users’ browsing activities on your website, including for interest-based advertising and personalization.
+You must also obtain legally sufficient consent from users for such collection and use, and provide legally sufficient instructions on how users can opt out of Twitter’s interest-based advertising and personalization as described here.
+</li>
+<li>If you operate a Service targeted to children under 13, you must opt out of tailoring Twitter in any embedded Tweets or embedded timelines on your Service by setting the opt-out parameter to be true as described here.
+</li>
+</ol> F.
+Periscope Producer¶ <ol>
+<li>You must provide a reasonable user-agent, as described in the Periscope Producer technical documentation, for your Service when accessing the Periscope API.</li>
+<li>If you expect the number of broadcasts created by your hardware will exceed (10 million) daily broadcasts, you must contact us about your Twitter API access, as you may be subject to additional terms.
+</li>
+<li>You must honor user requests to log out of their Periscope account on your Service.</li>
+<li>You may not provide tools in your service to allow users to circumvent technological protection measures.</li>
+</ol> G.
+Definitions¶ <ol>
+<li>
+<strong>Twitter Content</strong> - Tweets, Tweet IDs, Direct Messages, Direct Message IDs, Twitter end user profile information, User IDs, Periscope Broadcasts, Periscope Broadcast IDs and any other data and information made available to you through the Twitter API or by any other means authorized by Twitter, and any copies and derivative works thereof.</li>
+<li>
+<strong>Developer Site</strong> ‒ Twitter’s developer site located at https://developer.twitter.com.
+</li>
+<li>
+<strong>Periscope Broadcast</strong> - A user generated live video stream that is available live or on-demand, that is publicly displayed on Twitter Services.</li>
+<li>
+<strong>Broadcast ID</strong> - A unique identification number generated for each Periscope Broadcast.</li>
+<li>
+<strong>Tweet</strong> - A short-form text and/or multimedia-based posting made on Twitter Services.</li>
+<li>
+<strong>Tweet ID</strong> - A unique identification number generated for each Tweet.</li>
+<li>
+<strong>Direct Message</strong> - A text and/or multimedia-based posting that is privately sent on the Twitter Service by one end user to one or more specific end user(s).</li>
+<li>
+<strong>Direct Message ID</strong> - A unique identification number generated for each Direct Message.</li>
+<li>
+<strong>Twitter API</strong> - The Twitter Application Programming Interface (“API”), Software Development Kit (“SDK”) and/or the related documentation, data, code, and other materials provided by Twitter, as updated from time to time, including without limitation through the Developer Site.</li>
+<li>
+<strong>Twitter Marks</strong> - The Twitter name, or logos that Twitter makes available to you, including via the Developer Site.</li>
+<li>
+<strong>Service</strong> - Your websites, applications, hardware and other offerings that display or otherwise use Twitter Content.</li>
+<li>
+<strong>User ID</strong> - Unique identification numbers generated for each User that do not contain any personally identifiable information such as Twitter usernames or users’ names.</li>
+</ol>
+<p> By using Twitter’s services you agree to our Cookies Use.
+We use cookies for purposes including analytics, personalisation, and ads.
+</p>
+<ul>
+<li>OK</li>
+</ul>
+<p> This page and certain other Twitter sites place and read third party cookies on your browser that are used for non-essential purposes including targeting of ads. Through these cookies, <u>Google</u>, <u>LinkedIn</u> and <u>NewsCred</u> collect personal data about you for their own purposes. <u>Learn more</u>.<br>
+<br>
+</p>
+<ul>
+<li>Accept</li>
+<li>Decline</li>
+</ul> Developer policy and terms Follow @twitterdev Subscribe to developer news About <ul>
+<li> Let’s go Twitter</li>
+<li> Company</li>
+<li> Values</li>
+<li> Safety</li>
+<li> Blog</li>
+<li> Brand Resources</li>
+<li> Careers</li>
+<li> Investors</li>
+</ul> Business <ul>
+<li> About Twitter Ads</li>
+<li> Targeting</li>
+<li> Analytics</li>
+<li> Ads support</li>
+<li> Business blog</li>
+<li> Advertise</li>
+</ul> Developers <ul>
+<li> Documentation</li>
+<li> Forums</li>
+<li> Communities</li>
+<li> Developer blog</li>
+</ul> Help Center <ul>
+<li> Using Twitter</li>
+<li> Managing your account</li>
+<li> Safety and security</li>
+<li> Rules and policies</li>
+<li> Contact us</li>
+</ul> Marketing <ul>
+<li> Insights</li>
+<li> Success Stories</li>
+<li> Solutions</li>
+<li> Collections</li>
+<li> Marketing Blog</li>
+<li> Learn About Twitter Video</li>
+</ul>
+<p>© 2019 Twitter, Inc.</p> Cookies Privacy Terms and Conditions <ul>
+<li> Read Previous </li>
+<li> Read Next </li>
+</ul> 

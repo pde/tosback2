@@ -1,0 +1,721 @@
+ Developer Back <ul>
+<li> Use cases <ul>
+<li> Advertise </li>
+<li> Publish and curate </li>
+<li> Analyze </li>
+<li> Engage </li>
+</ul>
+</li>
+<li> Products <ul>
+<li> Products overview </li>
+<li> Accounts and users </li>
+<li> Tweets </li>
+<li> Direct messages </li>
+<li> Metrics </li>
+<li> Ad campaigns </li>
+<li> Publisher tools </li>
+</ul>
+</li>
+<li> Docs <ul>
+<li> Documentation </li>
+<li> API reference index </li>
+<li> Tutorials </li>
+<li> Changelog </li>
+<li> API status </li>
+</ul>
+</li>
+<li> More <ul>
+<li> Case studies </li>
+<li> Enterprise data </li>
+<li> Developer terms </li>
+<li> Pricing </li>
+<li> Billing details </li>
+<li> Community </li>
+<li> Forum </li>
+<li> Blog </li>
+<li> Stay informed </li>
+</ul>
+</li>
+<li> Labs <ul>
+<li> About </li>
+<li> Docs </li>
+<li> Feedback </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Apply </li>
+</ul> Sign In <p>Developer terms</p> Ads API Agreement Accept Ads API Agreement Ads API Agreement TWITTER ADS PRODUCTS AND SERVICES AGREEMENT
+<p>Effective: Aug 1, 2018.</p>
+<p>
+<br>This Twitter Ads Products and Services Agreement (the “<strong>Agreement</strong>”) is made and entered into by and between the entity identified in the “Twitter Ads API Program” application form submitted to Twitter by such entity (or its authorized representative) (referred to herein as “<strong>Company</strong>”) and Twitter, Inc., if Company is in the United States of America, or Twitter International Company, if Company is outside of the United States of America, on behalf of itself and its Affiliates (as defined below) (in either case, “<strong>Twitter</strong>”) and governs Company’s access to and use of the Ad Products (as defined below).
+As used herein, “<strong>Affiliate</strong>” means any other entity that directly or indirectly controls, is controlled by, or is under common control with Twitter.</p>
+<br>
+<p>PLEASE READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY, INCLUDING, WITHOUT LIMITATION, ALL EXHIBITS ATTACHED HERETO AND ANY LINKED TERMS AND CONDITIONS APPEARING OR REFERENCED BELOW, WHICH ARE HEREBY MADE PART OF THIS AGREEMENT.
+BY CHECKING THE BOX LABELED “Yes, I Agree” AND CLICKING “SUBMIT” (OR LANGUAGE THAT IS THE EQUIVALENT OF “Yes, I Agree” SUCH AS, FOR EXAMPLE ONLY, “I Accept”) OR USING THE TWITTER MATERIALS, COMPANY IS AGREEING THAT COMPANY HAS READ, AND THAT COMPANY AGREES TO COMPLY WITH AND TO BE BOUND BY, THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+IF COMPANY DOES NOT AGREE TO BE BOUND BY THIS AGREEMENT, THEN COMPANY MAY NOT ACCESS OR OTHERWISE USE THE TWITTER MATERIALS.
+THIS AGREEMENT IS EFFECTIVE AS OF THE EARLIER OF: (I) THE DATE COMPANY CHECKS “Yes, I Agree” AND CLICKS “SUBMIT” TO ACCEPT THIS AGREEMENT, OR (II) THE FIRST DATE THAT COMPANY ACCESSES THE TWITTER MATERIALS (“<strong>EFFECTIVE DATE</strong>”).
+IF AND TO THE EXTENT, HOWEVER, THAT COMPANY’S APPLICATION TO ACCESS AND USE THE TWITTER MATERIALS IS NOT APPROVED BY TWITTER (IN ITS SOLE AND ABSOLUTE DISCRETION), THIS AGREEMENT WILL BE NULL, VOID AND OF NO EFFECT.
+IF YOU ARE AN INDIVIDUAL REPRESENTING COMPANY, YOU ACKNOWLEDGE, REPRESENT, AND WARRANT, THAT YOU (A) HAVE READ AND UNDERSTAND THIS AGREEMENT, (B) HAVE THE APPROPRIATE AUTHORITY TO ACCEPT THIS AGREEMENT ON BEHALF OF COMPANY, AND (C) YOU AGREE, ON BEHALF OF COMPANY, TO THE TERMS OF THIS AGREEMENT.
+YOU MAY NOT USE THE TWITTER MATERIALS AND MAY NOT ACCEPT THIS AGREEMENT IF YOU DO NOT HAVE THE LEGAL AUTHORITY TO BIND COMPANY, ARE NOT OF LEGAL AGE OR ARE OTHERWISE UNABLE TO FORM A BINDING CONTRACT WITH TWITTER, OR YOU ARE BARRED FROM USING OR RECEIVING THE TWITTER MATERIALS UNDER APPLICABLE LAW.
+</p>
+<ol>
+<li>
+<strong>Introduction.
+Scope.
+Individual Product Terms.</strong>
+<ol>
+<li>
+<strong>Introduction.</strong> Twitter maintains, operates, and offers a suite of products and services that enable various functionalities for Twitter’s advertising partners.
+The specific products, services and programs (each, an “<strong>Individual Product</strong>”) that enable or are related to these functionalities are: (i) the Twitter Ads API Program (as further described in <u>Exhibit A</u>).
+and (ii) Twitter’s Tailored Audiences Program (as further described in <u>Exhibit B</u>).
+Collectively, these Individual Products are referred to herein as the “<strong>Ads Products</strong>”.
+This Agreement governs the use of, and/or access to, the Ads Products collectively, and the Individual Products individually.
+In addition, to the extent that Company participates in the Twitter Official Partner (“<strong>TOP</strong>”) program in connection with an Ads Product covered under this Agreement, the terms and conditions set forth in Exhibit C will apply to Company.</li>
+<li>
+<strong>Scope.</strong> Subject to this Agreement, during the Term, Company may access and use the specific Individual Products to which Twitter has granted or provided Company with access.
+Company is under no obligation to use any or all of the Individual Products to which Twitter has granted or provided Company with access, and Twitter is under no obligation to provide (nor continue to provide) Company with the use of, and/or access to, any given Individual Product or feature of the Ads Products.
+Twitter may grant or deny use of and/or access to any given Individual Product, or any feature thereof, at any time at Twitter’s sole discretion.
+To the extent that Company accesses or uses any feature of the Ads Products, the terms of this Agreement will govern any such access or use.
+For the avoidance of doubt, this Agreement shall solely govern Company’s use of the Ads Products described herein.
+Access and use by Company of any data, content or other materials provided (directly or indirectly) by Twitter to Company under a separate agreement and/or in connection with a separate Twitter program shall be governed wholly by the terms and conditions of such separate agreement and/or program (and not the terms and conditions of this Agreement), unless otherwise mutually agreed in writing by Twitter and Company.</li>
+<li>
+<strong>Individual Product Terms.</strong> Each Individual Product may include specific terms and conditions that, in addition to and without limitation to, the terms of this Agreement, will be applicable to the extent that Company accesses or uses the given Individual Product.
+Company’s access to any given Individual Product and/or the associated Twitter Materials (as defined below in Section 2.14) is conditioned upon Company’s acceptance of, and compliance with, the Individual Product Terms and any technical limitations on access, calls, and use of the Individual Products.
+The Individual Product Terms are attached hereto as <u>Exhibits A and B</u>.
+Twitter may establish and modify such Individual Product policies or terms in Twitter’s sole discretion, as set forth in Section 15.15 below.
+</li>
+</ol>
+</li>
+<li>
+<strong>Definitions.</strong>
+<ol>
+<li>"Campaign" means a desktop, mobile website, or mobile application advertising campaign, or fraction thereof.</li>
+<li>"<strong>Client</strong>" means a Twitter advertiser (who is also a Company customer) that utilizes one (1) or more of the Ads Products, as approved by Twitter in each instance.</li>
+<li>"<strong>Company Marks</strong>" means Company’s name and any Company logos, trademarks and/or service marks supplied by Company to Twitter for use hereunder (or otherwise authorized by Company for Twitter’s use hereunder).</li>
+<li>"<strong>Company Materials</strong>" means any Company data, deliverables, or user content provided by Company to Twitter via the Ads Products.</li>
+<li>"<strong>Company Service</strong>" means Company’s websites, applications and other offerings that display or otherwise use Twitter Materials or aspects thereof.</li>
+<li>"<strong>Data</strong>" means metrics, data and any other information and/or content Twitter makes available to Company, including any results, usage statistics, data or other information (in the aggregate or otherwise) derived from analyzing or using any of the foregoing.</li>
+<li>"<strong>End Users</strong>" means an employee or authorized agent of a Client who uses the Ads Products on behalf of such Client.</li>
+<li>"<strong>Marks</strong>" means the Twitter Marks and/or Company Marks, as the case may be (based on context).</li>
+<li>"<strong>Materials</strong>" means Twitter Materials and/or Company Materials, as the case may be (based on context).</li>
+<li>"<strong>Personal Data</strong>" means data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the data controller.
+</li>
+<li>"<strong>Twitter Ads</strong>" means Twitter advertising products and services, including the placement of advertisements on the Twitter Network.
+</li>
+<li>"<strong>Twitter Code</strong>" means computer code that will call (at a minimum) a Twitter server, developed by Twitter and provided to Company.</li>
+<li>"<strong>Twitter Marks</strong>" means Twitter’s name and any Twitter logos, trademarks and/or service marks supplied by Twitter to Company for use hereunder (or otherwise authorized by Twitter for Company’s use hereunder).</li>
+<li>"<strong>Twitter Materials</strong>" means any Twitter data, deliverables, or user content (including derivatives thereof) generated by Twitter, and any Twitter data, deliverables, or user content (including derivatives thereof) generated, collected or developed by Twitter, or that is provided or made available to Company by Twitter pursuant to this Agreement, including any data derived from, based upon, or arising out of, Company’s partnership with Twitter, or any device-level data, or any conversion, engagement, tracking or targeting data that Company or any Twitter-approved third party collects, infers, derives, or obtains from or in connection with Company’s Twitter advertising campaigns.
+For clarity and without limitation, “Twitter Materials” includes the Twitter Ads API (as defined in <u>Exhibit A</u>), Twitter Code, Data, the Ads Products, and any Twitter user ID used to create a Tailored Audience (defined below).
+</li>
+<li>"<strong>Twitter Network</strong>" means the network of advertising channels, including all forms of media, applications, and devices, through which Twitter may distribute ads, in any medium now known or hereafter developed.
+</li>
+<li>"<strong>Twitter Official Partner Program</strong>" means the partnership and branding program offered by Twitter, as further described in <u>Exhibit C</u>.</li>
+<li>"<strong>Twitter Service</strong>" means: (i) real-time content and information services operated by Twitter, (ii) the technology and systems that enable such services, which includes, collectively, the consumer and advertising products and services currently provided by Twitter or at its websites, and Twitter-owned, operated and/or controlled mobile applications and social plug-ins and APIs, including, without limitation, the Measurement Code, any HTML tags or other codes, internet portals, dashboards, systems and analytic tools and related services, and (iii) all other products or services offered by Twitter and its Affiliates, including (without limitation and for example only) the Twitter Audience Platform, MoPub, Data &amp.
+Enterprise Solutions, and Periscope.</li>
+</ol>
+</li>
+<li>
+<strong>Twitter Ads/Campaign Management.
+Liability Assumption.</strong>
+<ol>
+<li>
+<strong>Twitter Ads/Campaign Management.</strong> Company may have access to one or more Individual Products that will allow Company, in Company’s sole discretion and/or at the direction of Company’s Clients, to optimize, modify, manage, initiate or manipulate Twitter Ads on the Twitter Network, or otherwise make ad management and targeting decisions (referred to herein as “<strong>Campaign Management</strong>”).
+If Company accesses or uses any such Individual Products: (a) Company must promptly provide any advertising materials it intends to post to the Twitter Network.
+and (b) Company authorizes Twitter to place Company and/or Client’s advertising materials on any content or property available through the applicable Individual Product, whether such content or property is provided on the Twitter Network or through a third party.
+Company will obtain the necessary licenses and authorizations from the applicable Client for Company to use such advertising materials on behalf of such Client.
+Company is not required to use any Individual Product that permits Campaign Management, but if Company uses any such products, services or features then Company hereby assumes any and all risk, and accepts any and all responsibility and liability, arising out of or in connection with Company’s Campaign Management, including but not limited to: (i) audience creation and selection, data entry errors, tactic selection, and associated inventory, data, and other third-party costs.
+(ii) properties to which any ads provided by Company directs viewers (e.g.
+landing pages) and any redirects therefrom.
+(iii) services and products advertised in any landing pages.
+and (iv) any associated Company Materials including without limitation, the advertising materials, technology, and/or creative provided to Twitter.
+Company hereby acknowledges and agrees that Twitter shall bear no responsibility or liability in connection with Company’s Campaign Management.
+Without limiting the generality of the foregoing, Twitter shall not be responsible, and Company shall be solely responsible, for training Company’s personnel in Campaign Management and the Ads Products functionality.</li>
+<li>
+<strong>Binding of Clients to these Terms.
+Liability Assumption.</strong> If Company accesses or uses the Ads Products (or any aspect thereof, including by Campaign Management) on behalf of Clients or any other third parties, Company warrants that it: (i) is authorized to act on behalf of such Clients or other third parties, and has bound such Clients or other third parties to the applicable Twitter Policies (as defined in Section 6 below), including the applicable Twitter Master Services Agreement (“<strong>MSA</strong>”), which shall govern all purchases of Twitter Ads made by Company, and the terms of this Agreement that apply to the access and use of the applicable Ads Products (or any aspect thereof) and (ii) will be responsible for their compliance with, and liable for their breach thereof.
+</li>
+</ol>
+</li>
+<li>
+<strong>Privacy.</strong>
+<ol>
+<li>
+<strong>Direct Data Gathering.</strong> Company represents and warrants that (i) in the event Company is collecting data from users directly (including, without limitation, on or through the Company Service), it has provided such users with legally-sufficient notice (including, without limitation, by conspicuously posting a legally-sufficient privacy policy from all websites, mobile applications, and other services from which data from users are collected and/or made available to Twitter that complies with all applicable laws and regulations, discloses the fact that third parties collect information about users’ activities on or through the relevant websites, mobile applications, and other services (e.g., browsing or shopping) for interest-based advertising purposes, and provides users with legally sufficient instructions for such users to opt out of interest-based advertising).
+(ii) it has obtained all legally-required informed consent from such users, including regarding Company’s use of cookies and/or tracking pixels in connection with such data collection.
+and (iii) the Company Materials do not contain or relate to, and any audience data provided, made accessible, or imported by Company to Twitter does not contain or relate to, any data pertaining to any user(s) or data subject(s) who has or have exercised an option to opt-out of receiving interest-based advertising.
+</li>
+<li>
+<strong>Personal Data.</strong> Company represents and warrants that Company will not, and will not attempt to, connect or combine any Twitter Materials either directly or indirectly with any Personal Data or to identifiers that are themselves directly or indirectly associated with any Personal Data.
+In addition, Company will put reasonable safeguards in place to prohibit Twitter Materials from being linked to any Personal Data (whether directly or by inference).</li>
+<li>
+<strong>Privacy Compliance.</strong> Company represents and warrants that (i) it will not provide Twitter with Company Materials relating to sensitive information, including alleged or actual commission of a crime, health, negative financial status or condition, political affiliation or beliefs, racial or ethnic origin, religious or philosophical affiliation or beliefs, sex life, or trade union membership, or collected from websites, mobile applications, or other services where the product, message, or service that is being offered is prohibited by Twitter’s Ads policies (https://business.twitter.com/en/help/ads-policies/introduction-to-twitter-ads/twitter-ads-policies.html), and (ii) it will not (1) provide Twitter with any Company Materials regarding children under the age of thirteen, or (2) send Twitter any Company Materials or other data from a website, mobile application or online service directed to children, as defined in the Children’s Online Privacy Protection Act, currently at 16 CFR 312.
+Company acknowledges and agrees that it will at all times comply with the terms of the Twitter Data Processing Addendum located at https://gdpr.twitter.com/en/dpa.html.</li>
+<li>
+<strong>Third Party Data.</strong> Company represents and warrants that, in the event Company is obtaining data about users indirectly from one or more third parties (including, without limitation, data partners and/or advertisers, including, without limitation, Clients) to support Company’s performance obligations vis-à-vis Twitter under this Agreement, it has contractually bound each such third party to the requirements contained in this Agreement including, without limitation, in this Section 4.
+</li>
+</ol>
+</li>
+<li>
+<strong>Ownership.
+License.
+Limitations and Restrictions.</strong>
+<ol>
+<li>
+<strong>Ownership.</strong> As between Company and Twitter, Company retains all worldwide right, title and interest in and to the Company Materials, Company Marks, and the Company Service, excluding any Twitter Materials, Twitter Marks and Twitter Service (and any derivative works or enhancements of any of the foregoing) incorporated therein, including but not limited to all intellectual property rights therein.
+Any rights not expressly granted herein are withheld.
+As between Company and Twitter, Twitter owns all worldwide right, title and interest in and to the Twitter Materials, Twitter Marks, and Twitter Service and all future improvements, developments, enhancements, derivative works, and related rights based upon, related to, arising from, or associated with the (i) Twitter Materials, (ii) the Twitter Marks, and (iii) the Twitter Service, including where such improvements, developments, enhancements or derivative works are created by using or referencing data, insights, information, or learnings derived from any Company Materials in accordance to the terms of this Agreement, or data related to the Company advertising activity on the Twitter Service), including but not limited to all intellectual property rights therein.</li>
+<li>
+<strong>License to Company.</strong> During the Term (including, any Wind-Down Period), to the extent that Company uses, or has access to, the Ad Products (or any aspect thereof), Twitter hereby grants to Company a limited, royalty-free, non-exclusive, non-sublicensable, non-transferrable right and license to use and maintain any Twitter Materials and Twitter Marks that Twitter may provide to Company under this Agreement solely if and as necessary to use the Ads Products (or any Individual Product) which Twitter provides or makes accessible to Company, and to exercise its rights and fulfill its obligations under this Agreement, in each instance in accordance with the terms of this Agreement (including without limitation the restrictions and/or limitations on the use of Twitter Materials).
+Company agrees that its use of the Twitter Marks will at all times comply with the Twitter Trademark Guidelines (defined below in Section 6).</li>
+<li>
+<strong>License to Twitter.</strong> During the Term (including, any Wind-Down Period), if Company uses, or has access to, the Ad Products (or any aspect thereof), Company grants to Twitter a royalty-free, non-exclusive, sublicensable, non-transferable right and license to use, copy, display, maintain, transfer, modify, duplicate, and transmit the Company Materials and the Company Marks as necessary to fulfill Company instructions (including without limitation via the purchase and/or placement of ads on any ad inventory accessible on the Twitter Network), to operate the Ad Products (or any Individual Product), and to exercise its rights and fulfill its obligations under this Agreement, in each instance in accordance with the terms of this Agreement.</li>
+<li>
+<strong>Limitations and Restrictions.</strong>
+<ol>
+<li>Twitter Materials are being provided to Company, and Company Materials are being provided to Twitter, solely for the use of and/or provision of the Ads Products and for any other purpose expressly permitted under this Agreement.</li>
+<li>Except as expressly permitted under this Agreement or unless otherwise mutually agreed in writing in advance by Twitter and Company, Company shall not, nor allow any other party (including Clients) to, exploit, duplicate, copy, modify, derive, and/or re-use any Twitter Materials, or any information, data, or insights derived from Twitter Materials for any internal or external purpose (including, but not limited to, ad targeting, ad optimization, remarketing, behavioral targeting, retargeting, redirecting, or creating or augmenting in any manner groupings of users or devices segments, or creating or appending end user profiles, including those associated with any mobile device identifier or other unique identifier connected to any end user, computer, browser or device, or redirecting a user with advertising via advertising networks or exchanges, data brokers or any other advertising or monetization services).
+Further, Company will not use Twitter Materials for identifying or re-identifying users in any way whatsoever (including by combining Twitter Materials or data derived therefrom with data derived from third party sources).</li>
+<li>Company may not, nor allow any other party (including Clients) to, incorporate any Twitter Materials (including, without limitation, computer code, pixels, tags, or any other digital products provided by Twitter to Company) into another product or service (except as necessary for the performance of this Agreement and permitted by the terms and conditions of this Agreement), translate, modify, reverse engineer or reverse compile, disassemble, make derivative works of, or otherwise attempt to discover any source code, underlying ideas, of algorithms of any Twitter Materials without Twitter’s express written permission.</li>
+<li>Company will not, nor allow any other party (including Clients) to, interfere with, modify, disrupt or disable features or functionality of any Twitter Materials, including without limitation any mechanism used to restrict or control the functionality, or defeat, avoid, bypass, remove, deactivate or otherwise circumvent any software protection or monitoring mechanisms of the Twitter Materials.
+</li>
+<li>Company will not, nor allow any other party (including Clients) to, sell, rent, lease, sublicense, distribute, redistribute, syndicate, create derivative works of, assign or otherwise transfer or provide access to, in whole or in part, the Twitter Materials to any third party except as expressly permitted herein.</li>
+<li>Company will not, nor allow any other party (including Clients) to, remove or alter any proprietary notices or marks in or on the Twitter Materials.</li>
+<li>Company will not, nor allow any other party (including Clients) to, provide use of the Twitter Materials on a service bureau, rental or managed services basis or permit other individuals or entities to create links to the Twitter Materials or "frame" or "mirror" the Twitter Materials on any other server, or wireless or Internet-based device, or if applicable, otherwise make available to a third party, any token, key, password or other login credentials to the Twitter Materials.</li>
+<li>Company will not, nor allow any other party (including Clients) to, use the Twitter Materials for any illegal, unauthorized or other improper purposes.
+</li>
+<li>Company may not, nor allow any other party (including Clients) to, share the Twitter Materials (including without limitation Data) with any third party (whether verbally or in writing), including any of Company’s clients or business partners or any Company personnel unrelated to the Ads Products, except if and as explicitly outlined herein, or as permitted by Twitter in advance in writing (email accepted).</li>
+<li>Company may not, nor allow any other party (including Clients) to, co-mingle or otherwise create any combined display of Twitter Materials with Company Materials, data, content or other materials received from Twitter under a separate agreement, or any other third-party materials or across advertising campaigns, except if and as expressly detailed herein or as approved by Twitter in writing in advance.</li>
+<li>Company may not, nor allow any other party (including Clients) to, offer or provide the Company Service and/or the Twitter Materials as part of an advertising network and may not enable any programmatic export or otherwise enable machine consumption of Twitter Materials by or to any third party (including, without limitation, Clients) without Twitter’s prior written consent.</li>
+<li>Company may not, nor allow any other party (including Clients) to, encourage or require users to engage with any Ads Products in such a fashion that may be misleading or deceptive to the user accessing the Twitter Network, which may include methods such as offering incentives, points, rewards, cash, prizes, or anything else of monetary value, or any other methods that are malicious or fraudulent.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<strong>Incorporated Terms.</strong> Company’s access to any given Individual Product and/or the associated Twitter Materials is conditioned upon Company’s acceptance of, and compliance with, the following Twitter policies (each solely to the extent applicable to the Individual Product and Twitter Materials that Company is accessing and/or using): <ol>
+<li>Privacy Policy (https://twitter.com/en/privacy)</li>
+<li>Terms of Service (https://twitter.com/en/tos)</li>
+<li>Applicable Twitter Master Services Agreement (https://legal.twitter.com/ads-terms/us.html) (https://legal.twitter.com/ads-terms/international.html) or other such Twitter Master Services Agreement referenced on an insertion order.</li>
+<li>Applicable Twitter Master Services Agreement (https://legal.twitter.com/ads-terms/us.html) (https://legal.twitter.com/ads-terms/international.html) or other such Twitter Master Services Agreement referenced on an insertion order.</li>
+<li>Developer Agreement and Policy (https://developer.twitter.com/en/developer-terms/agreement-and-policy)</li>
+<li>Twitter Trademark and Brand Guidelines (https://about.twitter.com/en_us/company/brand-resources.html) <p>The above policies are collectively referred to herein as the “<strong>Twitter Policies.</strong>” Company agrees to the Twitter Policies to the extent that Company accesses or uses Individual Products to which the individual policies apply.
+Company accepts and agrees that the Twitter Policies may be modified by Twitter from time to time in Twitter’s sole discretion.
+In the event of a material modification to the Twitter Policies that impacts Company, Twitter will provide Company of notice (email accepted) of any such change.
+Company’s continued access or use of the Twitter Materials and Twitter Marks following any such updates or modifications will constitute binding acceptance of the updates and modifications.</p>
+</li>
+</ol>
+</li>
+<li>
+<strong>Term.
+Termination Rights.
+Suspension Rights</strong>
+<ol>
+<li>
+<strong>Term.</strong> This Agreement will commence on the Effective Date and will remain in effect for one (1) year (the “<strong>Initial Term</strong>”) and automatically continue thereafter for additional, successive one (1) year terms (each a “<strong>Renewal Term</strong>”), unless either party provides written notice of non-renewal at least thirty (30) days prior to the expiration of the Initial Term or then-current Renewal Term, as applicable.
+The Initial Term and all Renewal Terms will collectively constitute the “<strong>Term.</strong>”) </li>
+<li>
+<strong>Termination.
+Suspension.</strong> Either party may terminate this Agreement for convenience upon provision of thirty (30) days’ prior notice to the other party.
+This Agreement may also be terminated by Twitter: (a) immediately upon written notice to Company if Company merges or is acquired, in whole or in part, by any third party, whether voluntarily or involuntarily, and/or by operation of law (including, without limitation, in connection with a merger, acquisition, or sale of assets, whether Company is the surviving or disappearing entity).
+or (b) immediately upon written notice to Company if Company has a receiver or similar party appointed for its property, becomes insolvent, acknowledges its insolvency in any manner, ceases to do business, makes an assignment for the benefit of its creditors, or files a petition in bankruptcy.
+Without limiting any other remedy in this Agreement or available at law or in equity, Twitter may immediately suspend Company’s access to, or use of, the Ads Products, any given Individual Product, and/or the Twitter Materials (or any part thereof) or terminate any and all license(s) granted to Company under this Agreement or this Agreement in its entirety, at any time and without notice, if Twitter, in its sole discretion, believes or determines that: (i) Company is in violation of any of the Twitter Policies, or has breached or attempts to breach or is in non-compliance with any term or condition of this Agreement, and/or (ii) Company’s continued access to the Ads Products, a given Individual Product, and/or the Twitter Materials will or may cause liability for Twitter and/or Twitter’s Clients or otherwise harm Twitter or Twitter’s Client’s service, business, or reputation.</li>
+<li>
+<strong>Effect of Termination.</strong> Upon expiration or termination of this Agreement: (a) all rights and licenses granted hereunder will immediately cease and Company shall immediately cease accessing and using the Twitter Materials.
+(b) within thirty (30) days of such expiration or termination, Company will remove, delete and securely erase all Twitter Materials (including all copies and portions thereof) in all forms and types of media from the Company Service or otherwise in Company’s possession or control.
+and (c) within thirty (30) days of such expiration or termination, Company will delete and securely erase all copies of any Confidential Information (as defined below in Section 9) in Company’s possession or control.
+Twitter will not be liable for any costs, expenses, or damages as a result of its termination of this Agreement.</li>
+<li>
+<strong>Wind Down Period.</strong> Notwithstanding the foregoing, in the event that either party terminates this Agreement pursuant to this Section, the terms and conditions of this Agreement, and the respective rights and obligations of the parties hereto, shall, at Twitter’s sole election (and upon Twitter’s written notification to Company of such election), continue to apply during a Wind-Down Period (as defined below) solely with respect to any and all Client advertising campaigns that are then ongoing at the time of such termination (which shall include, without limitation, circumstances in which Twitter and/or the applicable Client have elected to run an advertising campaign, even if such advertising campaign has not actually commenced at the time of termination).
+As used herein, “<strong>Wind-Down Period</strong>” shall mean a period commencing upon the termination of the Term and continuing until the earlier of: (i) ninety (90) days following such termination date.
+or (ii) the completion of all Client advertising campaigns that were then ongoing (as described above) as of such termination date.</li>
+<li>
+<strong>Survival.</strong> Those terms that by their nature should survive either expiration or termination of this Agreement, shall survive, including, but not limited to, Sections 3-15.</li>
+</ol>
+</li>
+<li>
+<strong>Security.
+Security Breaches.
+Regulatory Notice.
+Data Deletion.
+Audit.</strong>
+<ol>
+<li>
+<strong>Security.</strong> Company will use industry-standard security measures in connection with its performance under this Agreement, including, but not limited to, administrative, technical, and physical security measures for data transmission and storage at least as restrictive as industry-standard security measures for the transmission and storage of the types of data included in the Twitter Materials.
+Company will also use reasonable technical and organizational security measures (including, at a minimum, password protection and access protocol restrictions), and in no event less care than it uses in connection with transmitting and securing Company’s own data of the same or similar nature, to restrict access to Twitter Materials and Confidential Information to only those individual Company personnel who need to access such Twitter Materials in order to exercise Company’s rights and/or fulfill Company’s obligations pursuant to this Agreement.</li>
+<li>
+<strong>Security Breaches.</strong> Company shall notify Twitter in writing (which may include email) within twenty-four (24) hours of becoming aware of any security breach or other improper access that resulted, may have resulted, or had the potential to result, in exposure of any Twitter Materials and/or data related to, based upon, or arising from, this Agreement.
+Company will consult and cooperate with Twitter in any investigations, provide any required notices and/or provide any information reasonably requested by Twitter.</li>
+<li>
+<strong>Regulatory Inquiries.</strong> Company shall notify Twitter within twenty-four (24) hours of Company’s receipt of notice of any inquiry from a government or regulatory agency concerning a security breach (or similar incident), Company’s alleged misuse of consumer data, or any other aspect of Company’s operations that are reasonably related, either directly or indirectly, to this Agreement.</li>
+<li>
+<strong>Data Deletion.</strong> Company shall delete and securely erase any and all Twitter Materials from its systems when Company no longer has a legitimate business need to retain such Twitter Materials in order to exercise Company’s rights and/or fulfill Company’s obligations under this Agreement (including, without limitation, in the event that the applicable Client ceases to use the Ads Products or otherwise ceases to use the Company Services), but in no event later than the earlier of: (a) eighteen (18) months from the date that Company first receives the applicable Data, or (b) thirty (30) days following the expiration or termination date of the Agreement.
+In addition, at any time, Company agrees to delete and securely erase, immediately upon Twitter’s written request (which may be delivered via email), any Twitter Materials that Twitter deems necessary or desirable to delete and securely erase (in Twitter’s sole and absolute discretion).</li>
+<li>
+<strong>Audit.</strong> Upon reasonable prior written notice (of no less than ten (10) days), no more than twice each calendar year during the Term and once during the six (6) month period after the date that this Agreement terminates or expires, at Twitter’s expense, Twitter shall be provided access to Company facilities to audit the processes, methodologies, practices and systems used by Company in performance of its obligations and exercising its rights under this Agreement.
+For clarity, Company acknowledges and agrees that (i) Twitter may engage a third-party auditor to perform any such audit on its behalf.
+and (ii) notwithstanding anything to the contrary herein, Twitter may share any relevant Confidential Information concerning Company (including, without limitation, the terms and conditions of this Agreement) with such third-party auditor solely as required to facilitate any such audit.</li>
+</ol>
+</li>
+<li>
+<strong>Confidential Information.</strong> Each party agrees that all business, technical and financial information that is designated as “confidential” or “proprietary,” or that is disclosed in a manner that a reasonable person would understand the confidential nature of the information being disclosed by the disclosing party (“<strong>Confidential Information</strong>”).
+For clarity, all proprietary information provided by Twitter to Company pursuant to this Agreement, which includes, without limitation, information (tangible or intangible) regarding Twitter’s technology, designs, techniques, research, know-how, specifications, product plans, pricing, customer information, user data, current or future strategic information, current or future business plans, policies or practices, employee information, and other business and technical information (including, without limitation, results, analysis or data regarding uptime, reliability, traffic and growth metrics, network quality, and other usage statistics of the Twitter Service, in the aggregate or otherwise, derived from Company’s use of the Twitter Materials or the Twitter Service and/or access to technical documentation, developer newsletters and/or online portals or forums) is Twitter Confidential Information and proprietary to Twitter.
+Without limiting the foregoing, the terms and conditions of this Agreement, the Twitter Materials, any product requirements, and any other documentation, onboarding processes or other materials provided by Twitter to Company under this Agreement shall be deemed Twitter Confidential Information.
+Except as expressly allowed herein, the receiving party will hold in confidence and not use or disclose (except in connection with the performance of such party’s obligations under this Agreement) any Confidential Information of the disclosing party.
+The receiving party shall not be obligated under this Section with respect to information that the receiving party can document through writing or testimony that such information: (i) is or has become readily publicly available through no fault of the receiving party or its employees or agents.
+(ii) is received from a third party lawfully in possession of such information, and the receiving party has no knowledge of any disclosure restrictions on such third party to disclose such information.
+(iii) is disclosed to a third party by the disclosing party without restriction on disclosure.
+(iv) was rightfully in the possession of the receiving party without restriction prior to its disclosure by the other party.
+or (v) was independently developed by employees or consultants of the receiving party without reliance on such information.
+The receiving party may make disclosures required by law or court order, provided that the receiving party notifies the disclosing party of the issuance of such order and allows the disclosing party to participate in the proceeding</li>
+<li>
+<strong>Representations and Warranties.</strong> Company represents and warrants that: (i) it has all requisite legal and corporate power to enter into this Agreement.
+(ii) it has taken all action required to make this Agreement a legal, valid and binding obligation.
+(iii) it has no agreement or understanding with any third party that interferes with or will interfere with its performance of its obligations under this Agreement.
+(iv) it has obtained and shall maintain all permissions, consents, rights, approvals and licenses necessary to perform its obligations and grant all rights and licenses granted under this Agreement including, without limitation, all rights necessary for Company to grant Twitter a license to use Company Materials to place ads on any advertising inventory available or accessible to Twitter on the Twitter Service or otherwise and provide the Company Service.
+(v) the Company Service and Company Materials do not, and will not, infringe, misappropriate or otherwise violate any third party rights.
+and (vi) its business and performance under this Agreement, including its provision of the Company Service, is and shall be in compliance with all applicable foreign, federal, state and local laws and government rules and regulations.
+Company further represents and warrants that: (a) it has no knowledge of any actual, pending, or threatened claims, lawsuits, actions, or charges pertaining to the Company Service, any Company Materials or other deliverables related to this Agreement or Company’s practices regarding data security, data use, or privacy.
+and (b) in in the event that Company is accessing or using the Ads Products (or any aspect thereof) on behalf of a Client, Company has the authority as agent to such third party to use such Company Materials on such third party’s behalf, to convey the rights to such third party materials as may be provided to Twitter in the Company Materials, and to bind such third party to the terms of this Agreement.</li>
+<li>
+<strong>Feedback.
+Beta Services.</strong> If and to the extent that Twitter provides (in its sole and absolute discretion) Company with any access to any features and functionality that are designated private, unreleased, in development, or in “alpha” or “beta” (collectively, “<strong>Beta Services</strong>”), Company acknowledges and agrees that Beta Services are not supported by Twitter, and Beta Services (or any portion thereof) may be launched publicly or made unavailable at any time (in each case, in Twitter’s sole and absolute discretion).
+Beta Services are provided “AS IS” to the fullest extent of the law, and Company’s use of such Beta Services is at Company’s own risk and consent.
+All Beta Services will be considered Twitter Confidential Information.
+Company agrees that participation in any Beta Service will assist Twitter in research, analyzing and validating some existing and/or prospective programs, products and/or tools, and that if Company provides Twitter with any comments, feedback or other information to assist Twitter in evaluating and improving such programs, products and/or tools (“<strong>Feedback</strong>”), Twitter and its designees will be free to copy, modify, create derivative works, publicly display, disclose, distribute, license and sublicense, incorporate, and otherwise use the Feedback, including derivative works thereto, for any and all commercial and non-commercial purposes with no obligation or compensation of any kind to Company or any third party.
+For clarification, Feedback does not include and Twitter will not use Company’s name or publicly disclose Company’s Beta Services performance results.
+Feedback will also include any Company comments concerning the Twitter Materials, the Ads Products, and/or Company’s evaluation and use thereof.
+Company agrees that nothing in this Agreement will prevent Twitter from developing products or services that may be competitive with Company’s or any Company Clients’ or End Users’ products or services.
+</li>
+<li>
+<strong>Warranty Disclaimer.</strong> If and to the extent that Twitter provides (in its sole and absolute discretion) Company with any access to any features and functionality that are designated private, unreleased, in development, or in “alpha” or “beta” (collectively, “Beta Services”), Company acknowledges and agrees that Beta Services are not supported by Twitter, and Beta Services (or any portion thereof) may be launched publicly or made unavailable at any time (in each case, in Twitter’s sole and absolute discretion).
+Beta Services are provided “AS IS” to the fullest extent of the law, and Company’s use of such Beta Services is at Company’s own risk and consent.
+All Beta Services will be considered Twitter Confidential Information.
+Company agrees that participation in any Beta Service will assist Twitter in research, analyzing and validating some existing and/or prospective programs, products and/or tools, and that if Company provides Twitter with any comments, feedback or other information to assist Twitter in evaluating and improving such programs, products and/or tools (“Feedback”), Twitter and its designees will be free to copy, modify, create derivative works, publicly display, disclose, distribute, license and sublicense, incorporate, and otherwise use the Feedback, including derivative works thereto, for any and all commercial and non-commercial purposes with no obligation or compensation of any kind to Company or any third party.
+For clarification, Feedback does not include and Twitter will not use Company’s name or publicly disclose Company’s Beta Services performance results.
+Feedback will also include any Company comments concerning the Twitter Materials, the Ads Products, and/or Company’s evaluation and use thereof.
+Company agrees that nothing in this Agreement will prevent Twitter from developing products or services that may be competitive with Company’s or any Company Clients’ or End Users’ products or services.
+</li>
+<li>
+<strong>Indemnification</strong> Company will defend, at its own expense, any claim, suit or action against Twitter brought by a third party to the extent that such claim, suit or action is based upon an allegation that (i) the Company Materials, the Company Service, the Company Marks, Twitter’s use of the Company Materials or Company Marks, or the technology used to generate the Company Materials and/or the Company Service infringes any rights of any third party (including, without limitation, any intellectual property rights, privacy rights or publicity rights).
+(ii) Company has breached any of its obligations, representations or warranties hereunder, including Company’s data security, data use, and privacy obligations or (iii) Company’s unauthorized use of the Twitter Materials and/or Twitter Marks in violation of the terms, conditions and restrictions set forth in the Agreement.
+Company will indemnify and hold Twitter harmless from and against any losses, damages, liabilities, penalties, costs and expenses attributable to any such claim.
+Company is responsible for defending any claim against Twitter, subject to Twitter’s right to participate with counsel of its own choosing, and for payment of all judgments, settlements, damages, losses, liabilities, costs, and expenses, including reasonable attorney’s fees, resulting from all claims against Twitter, provided that Company will not agree to any settlement related to any claims without Twitter’s prior express written consent regardless of whether or not such settlement releases Twitter from any obligation or liability.
+Twitter will give Company prompt notice of an indemnification obligation (provided that failure to do so will only relieve Company of its obligation to the extent it can demonstrate material prejudice from the failure).</li>
+<li>
+<strong>Limitation of Liability.</strong> IN NO EVENT WILL TWITTER BE LIABLE TO COMPANY OR ANY CLIENTS OR END USERS FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR FOR LOST REVENUE, LOST PROFITS, COSTS OF REPLACEMENT OF GOODS OR SERVICES, LOSS OF TECHNOLOGY, GOODWILL, RIGHTS OF SERVICES, LOSS OF DATA OR INTERRUPTION OR OF LOSS OF USE OF SERVICE ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, OR FOR COMPANY’S OR CLIENT’S OR END USER’S USE OF THE TWITTER MATERIALS, TWITTER MARKS OR ANY TWITTER PRODUCTS AND/OR SERVICES (INCLUDING, WITHOUT LIMITATION, THE ADS PRODUCTS) PROVIDED HEREUNDER, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, AND WHETHER OR NOT TWITTER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE.
+INSOFAR AS APPLICABLE LAW PROHIBITS ANY LIMITATION ON LIABILITY HEREIN, THE PARTIES AGREE THAT SUCH LIMITATION WILL BE AUTOMATICALLY MODIFIED, BUT ONLY TO THE EXTENT SO AS TO MAKE THE LIMITATION COMPLIANT WITH APPLICABLE LAW.
+THE PARTIES AGREE THAT THE LIMITATIONS ON LIABILITIES SET FORTH HEREIN ARE AGREED ALLOCATIONS OF RISK AND WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+IN ANY CASE, TWITTER’S AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED FIFTY U.S.
+DOLLARS (U.S.
+$50).</li>
+<li>
+<strong>Miscellaneous.</strong>
+<ol>
+<li>
+<strong>Publicity.</strong> Company may not issue any press release, blog post or otherwise make any public announcement or disclosure concerning this Agreement, any of the activities contemplated hereunder, or concerning the relationship between Company and Twitter without Twitter’s prior written consent (which may be provided by email).</li>
+<li>
+<strong>User Protection.</strong> Company will not (a) knowingly allow or assist any government entities, law enforcement, or other organizations to conduct surveillance on the Twitter Service or the Twitter Materials or obtain information on Twitter’s users or their Tweets that would require a subpoena, court order, or other valid legal process, or that would otherwise have the potential to be inconsistent with Twitter’s users’ reasonable expectations of privacy.
+or (b) display, distribute or otherwise make available Twitter Materials to any person or entity that Company reasonably believes will use such data to violate the Universal Declaration of Human Rights (located at http://www.un.org/en/universal-declaration-human-rights/index.html), including without limitation Articles 12, 18, or 19.
+Any law enforcement personnel seeking information about Twitter users will be referred to Twitter’s Guidelines for Law Enforcement located at https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support.</li>
+<li>
+<strong>Government Use.</strong> The Twitter Materials may be “commercial items” as that term is defined at 48 C.F.R.
+2.101, consisting of “commercial computer software” and “commercial computer software documentation” as such terms are used in 48 C.F.R.
+12.212.
+Any use, modification, derivative, reproduction, release, performance, display, disclosure or distribution of the Twitter Materials by any government entity is prohibited, except as expressly permitted by the terms of this Agreement.
+Additionally, any use by U.S.
+government entities must be in accordance with 48 C.F.R.
+12.212 and 48 C.F.R.
+227.7202-1 through 227.7202-4.
+Contractor/manufacturer is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, California 94103.</li>
+<li>
+<strong>Compliance with Laws.
+Export/Import.</strong> Each party will comply with all applicable foreign, federal, state, and local laws, rules and regulations.
+Company shall not export or re-export Twitter Services or Twitter Data in violation of the Twitter Policies (as defined herein) or applicable law.
+The Twitter Materials may be subject to U.S.
+export laws and may be subject to import and use laws of the country where it is delivered or used.
+Company agrees to abide by these laws.
+Under these laws, the Twitter Materials may not be sold, leased, downloaded, moved, exported, re-exported, or transferred across borders without a license, or approval from the relevant government authority, to any country or to any foreign national restricted by these laws, including countries embargoed by the U.S.
+Government.
+or to any restricted or denied end-user including, but not limited to, any person or entity prohibited by the U.S.
+Office of Foreign Assets Control.
+or for any restricted end-use.</li>
+<li>
+<strong>Modifcations.</strong> Twitter may update or modify the Twitter Policies, Analytics Data Display Requirements (attached as <u>Exhibit A-2</u>), the “Twitter Official Partner” program-related terms and conditions (attached as <u>Exhibit C</u>) and any other technical documentation and any other guidelines or policies related to the Twitter Materials from time to time, at Twitter’s sole discretion, by posting the changes, as applicable, on Twitter’s developer site, located at: https://developer.twitter.com/ (as may be amended from time to time) , the URL where the applicable Twitter Policy is posted or by otherwise notifying Company (such notice may be via email).
+If any change is unacceptable to Company, Company’s only recourse is to cease all use of the Twitter Materials and Twitter Marks.</li>
+<li>
+<strong>Notices.</strong> Any notice required or permitted by this Agreement shall be in writing and shall be delivered as follows, with notice deemed given as indicated: (a) by personal delivery when delivered personally.
+(b) by overnight courier upon written verification of receipt.
+(c) by certified or registered mail, return receipt requested, upon verification of receipt.
+or (d) by electronic mail when the recipient acknowledges having received the applicable email.
+Notice shall be sent to the addresses set forth below or such other address as either party may specify in writing.
+Notices for breach sent by Company to Twitter must be sent by via overnight courier or certified or registered mail only.
+Notices to Company will be sent to the Company address on record with Twitter.
+Notices to Twitter, Inc.
+will be delivered to: Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, Attn: General Counsel, with a compulsory copy to: Head of Ads API and legalnotices@twitter.com.
+Notices to Twitter International Company will be delivered to: Legal Department, Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
+</li>
+<li>
+<strong>Assignment.</strong> Company may not assign this Agreement or any of the rights or obligations granted hereunder, in whole or in part, to any third party, whether voluntarily, involuntarily and/or by operation of law (including, without limitation, in connection with a merger, acquisition, or sale of assets, whether Company is the surviving or disappearing entity), except with the express written consent of Twitter, and any attempted assignment in violation of this paragraph is null and void, and Twitter may immediately terminate this Agreement.
+This Agreement will bind and inure to the benefit of each party’s permitted successors and assigns.</li>
+<li>
+<strong>No Subcontractors.</strong> Company may not use a third party to perform or fulfill any of Company’s obligations or duties under this Agreement, unless approved in advance by Twitter in writing, which approval may be provided by email.</li>
+<li>
+<strong>No Partnership.</strong> This Agreement does not create or imply any partnership, agency or joint venture.
+No waiver by either party of any covenant or right under this Agreement will be effective unless memorialized in a writing duly authorized by such party.</li>
+<li>
+<strong>No Third-Party Beneficiaries.</strong> There shall be no third-party beneficiaries to this Agreement.</li>
+<li>
+<strong>Severability.</strong> If any part of this Agreement is determined to be invalid or unenforceable by a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the remaining provisions of this Agreement will remain in full force and effect.</li>
+<li>
+<strong>Waiver.</strong> The waiver by either party of a breach of any provision of this Agreement by the other party shall not operate or be construed as a waiver of any other or subsequent breach by that party.
+No waiver by Twitter of any covenant or right under this Agreement will be effective unless memorialized in a writing duly authorized by Twitter.</li>
+<li>
+<strong>Governing Law and Jurisdiction.</strong> If Twitter, Inc.
+is the contracting entity hereunder, the terms of the Agreement and any dispute relating thereto or between Company and Twitter will be governed by the laws of the State of California, without regard to conflict/choice of law principles.
+The United Nations Convention on Contracts for the International Sale of Goods does not apply to the Agreement.
+If a dispute, claim on controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate arises, Company agrees to provide Twitter with notice of the dispute, and to provide a ten (10) business day resolution period in which Twitter and Company may attempt to work out the dispute informally.
+If, after the ten (10) business day resolution period, Twitter and Company cannot resolve the dispute, Company agrees to bring any dispute or claim arising out of this Agreement in binding arbitration before a single, mutually agreed upon arbitrator.
+Company and Twitter hereby expressly waive trial by jury.
+The arbitration shall be administered by JAMS pursuant to its expedited rules for arbitration.
+Company may bring claims only on its own behalf, and unless Company and Twitter both agree, the arbitrator may not consolidate more than one person’s claims.
+In a dispute involving U.S.
+$25,000 or less, the arbitrator will hold a telephonic hearing, unless the arbitrator determines that good cause exists to justify an in-person hearing.
+Any in-person hearing will take place in San Francisco, California.
+Judgment on any award may be entered in any court having jurisdiction.
+As an alternative to arbitration, Company may bring its claim in its local “small claims” court if permitted by that small claims court’s rules.
+For any small claims court or arbitration dispute, Company and Twitter both agree that any claim or dispute covered by this Agreement must be filed within one year from the first point at which the dispute could be filed.
+<p>
+<br>If Twitter International Company is the contracting entity hereunder, the terms of the Agreement and any dispute relating thereto or between Company and Twitter will be governed by the laws of Ireland, without regard to conflict/choice of law principles.
+The parties agree that neither the United Nations Convention on Contracts for the International Sale of Goods, nor the Uniform Computer Information Transaction Act (UCITA) shall apply to this Agreement, regardless of the states in which the parties do business or are incorporated.
+Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in Dublin, Ireland before a single arbitrator.
+The arbitration shall be administered by the Rules of Arbitration of the International Chamber of Commerce (ICC).
+Judgment on the Award may be entered in any court having jurisdiction.
+Company and Twitter hereby expressly waive trial by jury.
+Company may bring claims only on its own behalf, and unless Twitter agrees, the arbitrator may not consolidate more than one party’s claims.
+</p>
+</li>
+<li>
+<strong>Injunctive Relief.</strong> Each party agrees that money damages would be an inadequate remedy in the event of a breach or threatened breach of the provisions in this Agreement protecting Twitter’s intellectual property (including, without limitation, the Twitter Materials) and/or Twitter’s Confidential Information, and that, in the event of such a breach or threat, Twitter, in addition to any other remedies to which Twitter is entitled, is entitled to such preliminary or injunctive relief (including an order prohibiting the other party from taking actions in breach of such provisions), without the need for posting bond, and specific performance as may be appropriate to preserve all of Twitter’s rights.</li>
+<li>
+<strong>Updates.</strong> Twitter may update the terms of this Agreement and any policies referenced herein from time-to-time, at its sole discretion, and will provide email notice to Company or posting notice to the URL identified below.
+Such notice will indicate the effective date of any such updates.
+The terms of this Agreement will be available for Company to view at any time at https://developer.twitter.com/en/developer-terms/ads-api-agreement.
+Company’s continued use of any Individual Product(s) after the effective date provided in the applicable notice will indicate Company’s acceptance of such updates.
+</li>
+<li>
+<strong>Entire Agreement.</strong> This Agreement (including the Exhibits attached hereto) constitutes the entire agreement between the parties relating to this subject matter hereof and supersedes and replaces all prior or contemporaneous proposals, understandings, communications and agreements, oral or written, concerning such subject matter.
+Any amendments to this Agreement shall be made in writing and signed by a representative of the respective parties authorized to bind the parties.</li>
+</ol>
+</li>
+</ol>
+<u>
+<strong>Exhibit A: Individual Product Terms/Twitter Ads API</strong>
+</u>
+<p>Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement.
+To the extent that Company participates in the “Twitter Ads API Program,” the following terms and conditions of this <u>Exhibit A</u> (including <u>Exhibit A-1</u> and <u>Exhibit A-2</u>) will apply: </p>
+<ol>
+<li>
+<strong>Twitter Ads API Introduction.
+Access Levels.</strong>
+<ol>
+<li>
+<strong>Introduction.</strong> The Twitter advertising application programming interface (API), and the accompanying documentation, code and related materials (collectively, the “<strong>Twitter Ads API</strong>”) that provides Company with “read/write” access that allows Company to engage in Campaign Management of Twitter Ads and/or with “read” access to certain reporting of Data about the performance of Twitter Ads Campaigns.</li>
+<li>
+<strong>Classification Status.
+API Access Level.</strong> Twitter will (in its sole and absolute discretion) decide if and whether to: (i) approve Company’s application for a specific classification status (i.e., “Developer” or “Standard”) and (ii) grant Company “read” or “read/write” Twitter Ads API access (such permitted access level referred to as the “<strong>API Access Level</strong>”).</li>
+</ol>
+</li>
+<li>
+<strong>Ads API License.</strong> The license in this section will apply to all classification statuses (i.e., “Developer” and “Standard”) and API Access Levels.
+On condition that Twitter approves Company’s application for the applicable classification status, and subject to Company’s continuing compliance with terms and conditions of the Agreement, Twitter grants Company a limited, non-exclusive, non-transferable, non-sublicensable, revocable license during the Term to: (a) use the Twitter Ads API in accordance with the applicable API Access Level granted by Twitter to Company to implement the Company Service for the purpose of providing a Client’s End Users with access to Data related to such Client’s Twitter Ads Campaigns (and, if Company has “read/write” API Access Level, to enable Campaign Management of Twitter Ads through the Company Service).
+(b) display the Data in aggregated format solely within the Company Service in accordance with the Analytics Data Display Requirements (defined below in Section 3 of this <u>Exhibit A</u>) to a Client’s End Users solely for the purpose of optimizing such Client’s Twitter Ads Campaigns.
+(c) modify the Data only as necessary to format it for, and display it, within the Company Service.
+(d) enable the Company Service to export Data only in a format that Twitter has approved in writing and that complies with the Analytics Data Display Requirements and via an export mechanism that is approved by Twitter in writing.
+and (e) use and display the Twitter Marks that Twitter makes available for use in connection with the Twitter Ads API and/or Data solely to attribute Twitter as the source of the Data or as otherwise expressly permitted under the Agreement (in each instance, in accordance with the Twitter Trademark Guidelines).</li>
+<li>
+<strong>Display Requirements, Integration and Other Requirements.</strong> Company’s implementation and use of the Twitter Ads API and Data must at all times comply with: (a) the product requirements attached hereto as <u>Exhibit A-1</u> (“<strong>Product Requirements</strong>”).
+(b) the display requirements attached hereto as <u>Exhibit A-2</u> (“<strong>Analytics Data Display Requirements</strong>”).
+(c) all technical documentation for the Twitter Ads API that has been, or will be, provided to Company by Twitter (including, without limitation, any endpoint specifications or requirements).
+(d) any onboarding processes specified by Twitter related to the Twitter Ads API and Data.
+(e) the Twitter Policies.
+and (f) any other guidelines and policies applicable to the Twitter Ads API and Data that may be provided to Company by Twitter.</li>
+<li>
+<strong>Compliance.</strong> Company will abide by all instructions provided or communicated to Company by Twitter, including, without limitation, the limitations on access, calls and use of the Twitter Ads API and any additional limitations or restrictions related to tokens, rate limits, keys, passwords or other login credentials to the Twitter Ads API.
+Any such instructions are determined by Twitter in its sole and absolute discretion.
+Company shall comply with any Twitter request to inspect and access the Company Service, including, without limitation, providing Twitter with any Company Service code related to the implementation of the Twitter Ads API, to ensure that the integration of the Twitter Ads API into, and display of the Data within, the Company Service complies with the Product Requirements and Analytics Data Display Requirements, Twitter quality controls and/or other terms and conditions of this Agreement.
+Twitter may monitor Company’s use of the Twitter Ads API to improve the Twitter Services.</li>
+<li>
+<strong>Control of Allocation of Twitter Ads Inventory.</strong> For clarity, and without limiting the generality of any other term or condition of this Agreement, nothing in this Agreement is meant to represent or imply that Company or the Company Service will have access, via the Twitter Ads API, to any particular inventory or category of Twitter Ads, and Twitter may (in its sole and absolute discretion) elect from time to time, to limit, without restriction, the allocation of Twitter Ads inventory to which Company or the Company Service has access (e.g., without limitation, due to Twitter’s strategic decisions concerning sales channels, direct vs.
+non-direct client relationships, agency relationships, etc.).</li>
+<li>
+<strong>Control of Twitter Ads Features, API Calls and Functionality.</strong> For clarity, and without limiting the generality of any other term or condition of this Agreement, nothing in this Agreement is meant to represent or imply that Company or the Company Service will have access, via the Twitter Ads API, to any particular Twitter Ads feature, API call or functionality, and Twitter may (in its sole and absolute discretion) elect from time to time, to limit, without restriction, those Twitter Ads features, API calls and/or functionalities to which Company or the Company Service has access (for any or no reason).</li>
+<li>
+<strong>Geography Data.</strong> Company will not (and will not allow others to) use or access the Twitter Ads API to aggregate, cache or store place or other geographic location information contained in any Data or otherwise.</li>
+<li>
+<strong>Removals.</strong> When requested by Twitter, through the Twitter Ads API or otherwise, Company will promptly: (a) delete Data from the Company Service that Twitter reports as deleted or expired.
+(b) change Company’s treatment of Data that Twitter reports is subject to changed sharing options.
+and (c) modify Data on the Company Service that Twitter reports has been modified.
+Company is responsible for the quality of Twitter Ads transmitted to the Twitter Service by the Company Service.
+Twitter reserves the right to revoke access to the Twitter Ads API and/or, if applicable, remove any specific Twitter Ads from the Twitter Service for any objectionable use by Company or Clients.</li>
+<li>
+<strong>Updates.</strong> Company acknowledges that Twitter may update or modify the Twitter Ads API, from time to time, and in Twitter’s sole and absolute discretion (in each instance, an “<strong>Update</strong>”).
+Unless otherwise mutually agreed by Twitter and Company in advance in writing (email to suffice), Company is required to implement and use the most current version of the Twitter Ads API and to make any changes to the Company Service, at Company’s sole cost and expense, that are required as a result of such Update no later than thirty (30) days from the date that Twitter notifies Company of the Update.
+Company will implement all tools (if any) provided by Twitter to enable Updates, as applicable.
+Updates may adversely affect the manner in which the Company Service accesses or communicates with the Twitter Ads API or displays Data.
+Company’s continued access or use of the Twitter Ads API following any such Update will constitute binding acceptance of the Update.</li>
+<li>
+<strong>Support.</strong> Company is responsible for providing all support and technical assistance to Company Clients and their End Users regarding the use of the Company Service (including any issues related to any Ads Product).
+Twitter is not obligated to provide support or technical assistance directly to Company or any Company Clients or any of their End Users, and Company will not represent to any Company Clients or any of their End Users that Twitter is available to provide such support.</li>
+</ol>
+<u>
+<strong>Exhibit A-1: Product Requirements</strong>
+</u>
+<p>The Company Service should enable marketers to more efficiently optimize Twitter Ads campaigns, take advantage of Twitter’s real-time conversation, and develop Twitter Ads that improve the user experience.
+</p>
+<p>
+<br>Accordingly, the Company Service, at all times, will meet the following requirements (as applicable based on Company’s API Access Level): </p>
+<ol>
+<li>
+<strong>Product Pricing.
+No Monetization.</strong> Paid access to the Company Service must be priced on a fixed or variable percentage of spend fee structure.
+Company will not charge Clients a premium for access to Twitter Ads and/or Data through the Company Service in excess of Company’s standard rates for the Company Service.
+</li>
+<li>
+<strong>Transparency.</strong>
+<ol>
+<li>
+<strong>Spend.</strong>
+<ol>
+<li>If Company has “read/write” API Access Level, then any pricing reports delivered by Company to Clients and their End Users must clearly state and itemize (i) the Twitter Ads spend in Twitter’s native metrics (e.g., as applicable, CPE/CPF) and (ii) the fees charged for use of the Company Service.
+In addition, Company must always include CPE or CPF metrics (or other applicable Twitter native metrics) adjacent to last-click attribution metrics (e.g., CPC) or other reporting metrics (e.g.
+CPM).</li>
+<li>Company Service will include a self-serve reporting dashboard that will include the capability for Company to report on all metrics provided via the Twitter Ads API.</li>
+</ol>
+</li>
+<li>
+<strong>Data.</strong> Company will: (i) use commercially reasonable efforts to maintain up-to-date Data within the Company Service in connection with the Twitter Integration (defined below in Section 6.3 of this <u>Exhibit A-1</u>) in accordance with the then-current Analytics Data Display Requirements.
+and (ii) clearly disclose to Clients and their End Users any material delay inherent in any information regarding Client’s Twitter Ads Campaigns and/or related analytics data.</li>
+</ol>
+</li>
+<li>
+<strong>Accounts.</strong> Each End User must be given a separate account to access the Company Service, including a unique user name and password.</li>
+<li>
+<strong>Company Service.</strong> Each customized version of the Company Service for a specific Client (including, without limitation, a white-labeled version of Company Service for a specific Client) must be approved by Twitter in advance and in writing (email to suffice for such purposes).</li>
+<li>
+<strong>Clients and Account Management.</strong>
+<ol>
+<li>A Client must be given the ability to quickly and easily disassociate its Twitter Ads Campaigns from the Company Service and regain exclusive, direct control of its Twitter Ads account(s).</li>
+<li>Only a Client and its End Users may be allowed to view such Client’s account data or features via the Company Service.</li>
+</ol>
+</li>
+<li>
+<strong>Other Requirements.</strong>
+<ol>
+<li>Any Company Service functionality that replicates a Twitter feature will utilize Twitter’s naming nomenclature and feature names, subject to any applicable Twitter Trademark Guidelines.</li>
+<li>Unless otherwise mutually agreed by the parties in advance and in writing, Company will not provide Clients and their End Users or any other third party with access to Data except for the aggregated derivations of such material embodied in the user interface of the Company Service.</li>
+<li>Company may not commercialize, market or provide access to any Twitter Materials to any third parties (including any Clients or their End Users) until the implementation of the Twitter Ads API and integration and display of any Data within Company Service (collectively, the “<strong>Twitter Integration</strong>”) has been approved in advance by Twitter via the process described in this Section.
+Company will give Twitter access to the Company Service so that Twitter can review the Twitter Integration.
+Twitter will inform Company in writing (email being sufficient) if the Twitter Integration is approved or rejected (in Twitter’s sole discretion).
+Throughout the Term, Company will submit to Twitter any changes to the Company Service that affect the Twitter Integration, which Twitter shall have the right to approve or reject in writing (email being sufficient), in Twitter’s sole discretion.</li>
+</ol>
+</li>
+</ol>
+<strong>
+<u>Exhibit A-2: Analytics Data Display Requirements</u>
+</strong>
+<p>These Analytics Data Display Requirements govern how Company can display Data within the Company Service.
+Company agrees to abide by these Analytics Data Display Requirements at all times.
+<strong>
+<u>Defined Metrics</u>
+</strong>
+</p>
+<p>All campaigns shown in the Company Service that display Data must include the specific Twitter-defined metrics associated with various campaign objectives (each, a “<strong>Campaign Objective</strong>”), which metrics must be calculated by Company based on the endpoints and formulas located at: https://developer.twitter.com/en/docs/ads/analytics/overview/metrics-by-objective (or any other successor URL that Twitter may elect from time to time).
+<strong>
+<u>Display Guidelines</u>
+</strong>
+</p>
+<ol>
+<li>The applicable defined metrics for a given Campaign Objective (as described above in the Defined Metrics section of this <u>Exhibit A-2</u>) must be shown every time a campaign is displayed within the Company Service.</li>
+<li>If the Company Service displays any organic Tweet analytics data, Company must comply with the Twitter Developer Agreement &amp.
+Policy located at: https://developer.twitter.com/en/developer-terms/agreement-and-policy as it relates to Company’s implementation, use and display of the organic Tweet analytics data.</li>
+<li>If the Company Service displays metrics about campaigns run on third party networks or by third party publishers (i.e., “cross-channel metrics”) side-by-side with Data, then the following requirements and restrictions apply: <ol>
+<li>Any cross-channel metrics displayed alongside the Data in the Company Service can only include the same category of campaign objective metrics as the applicable Twitter-defined Campaign Objective metrics for such campaign (as described above in the Defined Metrics section of this <u>Exhibit A-2</u>).
+<p>
+<br>By way of example only - If an advertiser is running an app install campaign on a third-party network, only cross-channel metrics that are of the same category as the applicable Twitter-defined metrics for the app install Campaign Objective can be shown alongside the Data.</p>
+</li>
+<li>Aggregating data to display cross-channel metrics is not permitted unless the aggregated metrics can be referenced (across all third-party networks/publishers) against a category of metrics associated with a campaign objective that is the same to the applicable Twitter-defined Campaign Objective metrics (as described above in the Defined Metrics section of this <u>Exhibit A-2</u>).
+By way of example only - Aggregating total engagements for network A, network B, and network C would not be permitted if engagement rates across all channels are not calculated using the same formulas.</li>
+</ol>
+</li>
+<li>If the Company Service displays any category of metrics sourced from third parties other than Twitter (“third-party-sourced metrics”), then the following requirements and restrictions apply: <ol>
+<li>The same requirements and restrictions that apply to displaying cross-channel metrics set forth above in Section 3 apply to the display of any third-party-sourced metrics.</li>
+<li>4.2.
+Any third-party-sourced metrics that are displayed alongside Data for a campaign in the Company Service must be the same category of campaign objective metrics as the applicable Twitter-defined Campaign Objective metrics for such campaign (as described above in the Defined Metrics section of this <u>Exhibit A-2</u>).
+By way of example only: <br>- If Company displays link click and click-rate metrics from a third-party source, Company will display Twitter’s click and click-rate metrics alongside the third-party-sourced link click and click rate metrics.
+<br>- If Company or any of its Clients uses a third-party tracking solution to track website clicks from Promoted Tweets and such data is displayed in the Company Service, Company must show link clicks, click rate, cost per link click and CPA from Twitter (if available) alongside such third-party-sourced data.</li>
+<li>Notwithstanding Section 4.2 of this Exhibit A-2, if the third-party-sourced metrics are from a third-party tracking solution provided by a Twitter Conversion Tracking Partner (as defined below), then Twitter requires that only the Data delivered through the Twitter Ads API (and not any corresponding data delivered by the Twitter Conversion Tracking Partner) is displayed in the Company Service, unless otherwise agreed by Twitter in writing in advance (in each instance).
+For the avoidance of doubt, Company will not display any data sourced from a Twitter Conversion Tracking Partner alongside, or in place of, any Data delivered through the Twitter Ads API.
+As used in this <u>Exhibit A-2</u>, “Twitter Conversion Tracking Partner” means an authorized Twitter conversion tracking partner (as designated by Twitter, in its sole and absolute discretion).</li>
+</ol>
+</li>
+</ol>
+<strong>
+<u>Exhibit B: Individual Product Terms/Tailored Audiences</u>
+</strong>
+<p>Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement.
+To the extent that Company uses or accesses the Twitter Tailored Audiences Program the following terms and conditions of this <u>Exhibit B</u> will apply: </p>
+<ol>
+<li>
+<strong>Tailored Audiences.</strong>
+<ol>
+<li>
+<strong>Introduction.</strong> The Twitter Tailored Audiences Program allows for the import and creation of specific segments of users (each a “<strong>Tailored Audience</strong>”) for the targeting of advertising Campaigns on the Twitter Service.
+The parties acknowledge that in order to utilize Twitter’s Tailored Audiences Program, Company, its Client, or a third party service provided approved by Twitter (“<strong>Data Partner</strong>”) is required to provide Twitter with a hashed set of users or devices (which many include email, cookies, devise IDs, tracking pixels, etc.) in order for Twitter to complete a match with Twitter users and create Tailored Audiences.
+The Tailored Audiences created on behalf of a specific client(s) will be stored in each such Client’s Twitter Ads account for use by Company or Client to target, or retarget, as applicable, advertising on the Twitter Service.
+</li>
+<li>
+<strong>Data Usage and Opt-Out.</strong> With respect to any data used in connection with the Tailored Audiences Program, in addition to the obligations set out in the Data Protection Addendum found at https://gdpr.twitter.com/en/dpa.html, Company agrees and, if applicable, will ensure that its Data Partner(s) agree that (i) Company or such Data Partner (as applicable) have secured all necessary rights, consents, waivers and licenses for use of such data, and (ii) that Company or such Data Partner (as applicable) have provided any users from whom the data is collected with legally-sufficient notice that fully discloses the collection, use, and sharing of the data Company provides to Twitter for purposes of serving ads targeting to users’ interests, and legally sufficient instructions on how users can opt out of Twitter’s interest-based advertising through the methods described here (https://support.twitter.com/articles/20170405).
+Data Company uses in connection with the Tailored Audiences Program and/or to create a Tailored Audience will not include any data from any user who has opted out of having his/her data used by Company, its Data Partner, or any third party on Company’s behalf.
+If Company receives a user opt-out after such user was included in an audience provided to Twitter, Company must promptly, but no less frequently than once every twenty-four (24) hours, remove such user(s) from any Tailored Audience in which such user was included.
+Company will provide the data in a format selected by Twitter and acceptable to Data Partner (if/as applicable).
+In addition to the terms and conditions of this Agreement, Company’s use of the Tailored Audiences program will be subject to the terms of the Twitter Master Services Agreement and Tailored Audiences Program T&amp;Cs and applicable policies, including Twitter’s Policies for Conversion Tracking and Tailored Audiences, at https://support.twitter.com/articles/20171365.
+</li>
+<li>
+<strong>Program Deliverables.</strong> Company’s access to, and use of, the Twitter Tailored Audience Program is subject to its compliance with the technical instructions and program policies provided by Twitter to Company (the “<strong>Program Integration Spec</strong>”).
+Company and Twitter will mutually agree on a process for Company to import or upload Tailored Audiences to Twitter.</li>
+</ol>
+</li>
+<li>
+<strong>Shareable Audiences.</strong> Notwithstanding anything to the contrary set forth in Section 1.1 hereinabove, as a service to Company, at Company’s request and in Company’s sole discretion, Twitter may allow Company to “share” Tailored Audiences created for Company amongst grouped Twitter advertiser accounts and/or Twitter @handles and/or otherwise with third parties on the Twitter Service.
+As used herein, “sharing” an audience means that Company would instruct Twitter to, without limitation, enable grouped Twitter Advertiser Accounts and/or Twitter @handles and/or third parties to access, use, and target advertising Campaigns against the “shared” Tailored Audience.
+Company represents and warrants that it has all necessary rights and authority to share any such audience data in accordance with the instructions given to Twitter by Company.
+If Company is providing the audience data, and/or managing the Tailored Audiences on behalf of a third party (including, without limitation, a Client), Company represents and warrants that Company has the authority as agent for such party to use any such data on the third party’s behalf, to grant Twitter the rights described herein, and to bind such third party to the terms of this Agreement.
+Notwithstanding the foregoing, nothing in this Section requires Twitter to make the functionality that enables “sharing” Tailored Audiences described herein (or any portion thereof) available at any time to Company or any other third party (including, without limitation, any Client).
+</li>
+</ol>
+<strong>
+<u>Exhibit C: Individual Product Terms/Twitter Official Partner (TOP) Program</u>
+</strong>
+<p>Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement.
+To the extent that Company participates in the “Twitter Official Partner (“<strong>TOP</strong>”)” program, the following terms and conditions of this <u>Exhibit C</u> (including <u>Exhibit C-1</u>) will apply: </p>
+<ol>
+<li>
+<strong>Twitter Official Partner Program.</strong> If Twitter approves Company’s application for “Standard” classification status, and Company maintains such classification status throughout the Term, Twitter may, at any time, choose, in Twitter’s sole and absolute discretion, to qualify Company as part of the TOP program (or any other successor program name that Twitter may select from time to time).
+For clarity, Twitter is not required to select Company to participate in the TOP program, regardless of whether Company has achieved or maintains “Standard” classification status.
+Furthermore, Twitter may, at any time, choose, in Twitter’s sole and absolute discretion, to terminate or suspend Company’s participation in the TOP program for any reason upon notice to Company, in which case, Company’s eligibility to receive any benefits associated with participating in the TOP program will immediately cease (without any additional notice from Twitter).
+In addition to the Twitter Trademark Guidelines that govern Company’s use of any Twitter Marks, Company must also comply with the terms and conditions set forth in <u>Exhibit C-1</u> that govern use of Badges (as defined in <u>Exhibit C-1</u>) provided by Twitter in connection with participation in the TOP program.
+All Badges (as defined in <u>Exhibit C-1</u>) are deemed Twitter Marks under the Agreement.</li>
+<li>
+<strong>No Use of Badges Outside of TOP Program.</strong> For the avoidance of doubt, if Company is not currently qualified by Twitter (in its sole and absolute discretion) as a member of the TOP program, (i) Company is not eligible to receive any benefits associated with participating in the TOP program, including, without limitation, use of any Badges (as defined in <u>Exhibit C-1</u>) and (ii) Company is prohibited from suggesting it participates in, or has any affiliation with, the TOP program.</li>
+</ol>
+<strong>
+<u>Exhibit C-1: Twitter Official Partner Program Terms</u>
+</strong>
+<p>The Twitter Official Partner Program Terms set forth below, including, without limitation, any linked terms and conditions appearing or referenced below, which are hereby incorporated by reference (collectively, “<strong>TOP Partner Terms</strong>”), govern participation in the “Twitter Official Partner” program.
+To the extent that Company is qualified by Twitter, in its sole and absolute discretion, to participate in the “Twitter Official Partner” program, Company agrees to abide by the terms and conditions of the TOP Program Terms at all times during Company’s participation in the “Twitter Official Partner” program.
+These TOP Program Terms are subject to, and governed by, the Agreement.
+Any capitalized terms used in this <u>Exhibit C-1</u> and not otherwise defined in the TOP Partner Program Terms shall have the meanings ascribed to them in the Agreement.
+</p>
+<ol>
+<li>
+<strong>TOP Program.</strong> Upon Twitter’s notification to Company that Twitter has qualified Company as a “Twitter Official Partner,” Partner will be a member of the “Twitter Official Partner” program, as described at partners.twitter.com (the “<strong>TOP Program</strong>”) and will be given access to the TOP Program badge(s) and any other associated marks that Twitter makes available in connection with the TOP Program (collectively, the “<strong>Badges</strong>”), use of which is subject to the terms and conditions of this Agreement.</li>
+<li>
+<strong>License from Twitter.</strong> Subject to the terms and conditions of these TOP Program Terms, and conditioned upon Company’s continuing compliance with this Agreement, Twitter hereby grants Company, and Company accepts, a non-exclusive, royalty free, non-transferrable, non-sub-licensable, revocable license to copy and display the Badges solely with, and to promote, Company’s qualification as a “Twitter Official Partner” in the TOP Program.</li>
+<li>
+<strong>Restrictions.</strong> Strict compliance with this Agreement is required at all times, and any use of the Badges in violation of this Agreement will automatically terminate any license related to Company’s use of the Badges.
+<ol>
+<li>Company may not alter the Badges in any manner, including, but not limited to, changing the proportion, color or font of the Badges, or adding or removing any elements to or from the Badges.</li>
+<li>Company may not use the Badges in any manner that implies a false sense of sponsorship or endorsement by Twitter.</li>
+<li>Company may not use the Badges to disparage Twitter, its products or services, or in a manner which, in Twitter’s sole discretion, may diminish or tarnish Twitter’s goodwill in the Badges.</li>
+<li>Company may not use the Badges to refer to any other product or service other than Twitter’s or Company’s products and/or services related to Company’s participation in the TOP Program.</li>
+<li>The Badges must appear by themselves, with reasonable spacing between each side of the marks, and other visual, graphic or textual elements.</li>
+<li>The Badges should not be presented or placed in any way that interferes with the readability or display of the entirety of the Badges.</li>
+<li>Company must link all Badges to partners.twitter.com (or any other successor URL that Twitter may elect from time to time) or otherwise display the following attribution on any materials that display the Badges: “The ‘Twitter Official Partner’ Program badge, TWITTER and the Bird logo are trademarks of Twitter, Inc.
+or its affiliates.”</li>
+</ol>
+</li>
+<li>
+<strong>Program Requirements.</strong> Use of the Badges are further subject to, and governed by, at all times, without limitation, the Twitter Trademark Guidelines and any other requirements communicated by Twitter to Company in connection with participation in the TOP Program (collectively, the “<strong>TOP Program Requirements</strong>”).
+Company agrees to the TOP Program Requirements, which are hereby incorporated by reference and are available in hardcopy upon request to Twitter.
+The TOP Program Requirements do not expand or extend the license to the Badges granted herein.
+Company may use the Badges solely for the purpose expressly authorized by Twitter, and Company’s use must comply with the most up-to-date version of (i) these TOP Program Terms, and (ii) the TOP Program Requirements.
+To the extent that there is any conflict or inconsistency between these TOP Program Terms and the TOP Program Requirements, these TOP Program Terms shall control.</li>
+<li>
+<strong>License to Twitter.</strong> Use of the Badges are further subject to, and governed by, at all times, without limitation, the Twitter Trademark Guidelines and any other requirements communicated by Twitter to Company in connection with participation in the TOP Program (collectively, the “TOP Program Requirements”).
+Company agrees to the TOP Program Requirements, which are hereby incorporated by reference and are available in hardcopy upon request to Twitter.
+The TOP Program Requirements do not expand or extend the license to the Badges granted herein.
+Company may use the Badges solely for the purpose expressly authorized by Twitter, and Company’s use must comply with the most up-to-date version of (i) these TOP Program Terms, and (ii) the TOP Program Requirements.
+To the extent that there is any conflict or inconsistency between these TOP Program Terms and the TOP Program Requirements, these TOP Program Terms shall control.</li>
+<li>
+<strong>Program Qualification.</strong>
+<ol>
+<li>
+<strong>Program Qualification.</strong> Twitter reserves the right, from time to time, to review Company’s membership in the TOP Program, and, in Twitter’s sole and absolute discretion, to re-qualify or de-qualify Company from any given competency and/or the TOP Program as a whole.</li>
+<li>
+<strong>Changes to Company’s Products or Services.</strong> In the event that Company plans to make any material change to Company’s product(s) and/or service(s) related to the TOP Program, Company will provide Twitter with at least thirty (30) calendar days to review Company’s updated products or services prior to release of such change to determine whether they continue to qualify for the TOP Program.
+Updated products or services must be re-qualified by Twitter before any further use of the Badges.
+Twitter will use commercially reasonable efforts to respond to Company’s request for qualification in new competencies.
+If Company merges, is acquired or otherwise undergo a change of control, in whole or in part, by any third party, whether voluntarily or involuntarily, and/or by operation of law (including, without limitation, in connection with a merger, acquisition, or sale of assets, whether the assigning party is the surviving or disappearing entity), Company must submit all of Company’s products and/or services related to the TOP Program to Twitter for re-qualification before any further use of the Badges.</li>
+</ol>
+</li>
+<li>
+<strong>Suspension and Termination.</strong> Twitter may immediately terminate or suspend these TOP Program Terms, any rights granted to Company herein, and/or Company’s participation in the TOP Program, at its sole discretion at any time, for any reason by providing notice to Company.
+Company may terminate Company’s participation in the TOP Program by providing ninety (90) calendar days’ notice to Twitter.
+Upon termination of these TOP Program Terms and/or termination of Company’s participation in the TOP Program, all licenses granted herein immediately expire, and Company must cease use of all Badges.
+Neither party will be liable to the other for any damages resulting solely from termination of these TOP Program Terms as permitted under this Agreement.</li>
+<li>
+<strong>Modifications.</strong> Twitter reserves the rights, exercisable at its sole discretion, to modify the terms and conditions of these TOP Program Terms and/or the Badges at any time and to take appropriate action against any unauthorized or non-conforming use of the Badges.
+If Company has any questions about usage of the Badges, please contact trademarks@twitter.com for assistance, or write to us at: Twitter, Inc., Attention: Trademarks, 1355 Market Street, Suite 900, San Francisco, CA 94103.</li>
+</ol>
+<p> By using Twitter’s services you agree to our Cookies Use.
+We use cookies for purposes including analytics, personalisation, and ads.
+</p>
+<ul>
+<li>OK</li>
+</ul>
+<p> This page and certain other Twitter sites place and read third party cookies on your browser that are used for non-essential purposes including targeting of ads. Through these cookies, <u>Google</u>, <u>LinkedIn</u> and <u>NewsCred</u> collect personal data about you for their own purposes. <u>Learn more</u>.<br>
+<br>
+</p>
+<ul>
+<li>Accept</li>
+<li>Decline</li>
+</ul> Developer policy and terms Follow @twitterdev Subscribe to developer news About <ul>
+<li> Let’s go Twitter</li>
+<li> Company</li>
+<li> Values</li>
+<li> Safety</li>
+<li> Blog</li>
+<li> Brand Resources</li>
+<li> Careers</li>
+<li> Investors</li>
+</ul> Business <ul>
+<li> About Twitter Ads</li>
+<li> Targeting</li>
+<li> Analytics</li>
+<li> Ads support</li>
+<li> Business blog</li>
+<li> Advertise</li>
+</ul> Developers <ul>
+<li> Documentation</li>
+<li> Forums</li>
+<li> Communities</li>
+<li> Developer blog</li>
+</ul> Help Center <ul>
+<li> Using Twitter</li>
+<li> Managing your account</li>
+<li> Safety and security</li>
+<li> Rules and policies</li>
+<li> Contact us</li>
+</ul> Marketing <ul>
+<li> Insights</li>
+<li> Success Stories</li>
+<li> Solutions</li>
+<li> Collections</li>
+<li> Marketing Blog</li>
+<li> Learn About Twitter Video</li>
+</ul>
+<p>© 2019 Twitter, Inc.</p> Cookies Privacy Terms and Conditions <ul>
+<li> Read Previous </li>
+<li> Read Next </li>
+</ul> 

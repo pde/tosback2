@@ -9,59 +9,62 @@ Changes not staged for commit:
 	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
 	modified:   ../crawl/alibaba.com/Privacy Policy.txt
-	modified:   ../crawl/allstate.com/Privacy Policy.txt
-	modified:   ../crawl/bankrate.com/Privacy Policy.txt
+	modified:   ../crawl/asus.com/Privacy Policy.txt
+	modified:   ../crawl/bing.com/Privacy Policy.txt
+	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
 	modified:   ../crawl/cableone.net/Terms and Conditions.txt
-	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 	modified:   ../crawl/careerpath.com/Privacy Policy.txt
+	modified:   ../crawl/centurylink.com/Acceptable Use Policy.txt
 	modified:   ../crawl/daum.net/Privacy Policy.txt
 	modified:   ../crawl/fandango.com/Privacy Policy.txt
 	modified:   ../crawl/fedex.com/Privacy Policy.txt
-	modified:   ../crawl/fidelity.com/Privacy Policy.txt
 	modified:   ../crawl/fitbit.com/Privacy Policy.txt
+	modified:   ../crawl/forbes.com/Privacy Policy.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
+	modified:   ../crawl/google.com/Google Wifi and your privacy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
+	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
-	modified:   ../crawl/imdb.com/Privacy Policy.txt
+	modified:   ../crawl/iegallery.com/Privacy Policy.txt
 	modified:   ../crawl/imvu.com/Privacy Policy.txt
 	modified:   ../crawl/indeed.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/jobgo.com/Privacy Policy.txt
 	modified:   ../crawl/landsend.com/Privacy Policy.txt
-	modified:   ../crawl/linksys.com/Linksys Shield Privacy Notice.txt
-	modified:   ../crawl/linksys.com/Linksys Shield Terms of Service.txt
-	modified:   ../crawl/mozilla.org/Privacy Policy.txt
+	modified:   ../crawl/linksys.com/Privacy Policy.txt
+	modified:   ../crawl/marketingvox.com/Privacy Policy.txt
+	modified:   ../crawl/mylife.com/Privacy Policy.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
 	modified:   ../crawl/npr.org/Privacy Policy.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
 	modified:   ../crawl/okcupid.com/Privacy Policy.txt
-	modified:   ../crawl/orbitz.com/Privacy Policy.txt
 	modified:   ../crawl/paypal.com/Privacy Policy.txt
 	modified:   ../crawl/pbskids.org/Privacy Policy.txt
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
-	modified:   ../crawl/pogo.com/Privacy Policy.txt
 	modified:   ../crawl/pollen.com/Privacy Policy.txt
 	modified:   ../crawl/replacements.com/Privacy Policy.txt
-	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
 	modified:   ../crawl/sencha.com/Privacy Policy.txt
-	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
-	modified:   ../crawl/shopzilla.com/Privacy Policy.txt
+	modified:   ../crawl/shockwave.com/Privacy Policy.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
 	modified:   ../crawl/spiegel.de/Privacy Policy.txt
+	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
 	modified:   ../crawl/stumbleupon.com/Privacy Policy.txt
-	modified:   ../crawl/subaru.com/Privacy Policy.txt
-	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
-	modified:   ../crawl/ubuntu.com/Terms of Service.txt
 	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
 	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
+	modified:   ../crawl/webs.com/Privacy Policy.txt
+	modified:   ../crawl/wellsfargo.com/Privacy Policy.txt
+	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 	modified:   ../crawl/windstream.com/Term of Service.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl/zillow.com/Privacy Policy.txt
-	modified:   ../crawl_reviewed/apple.com/Apple Support Communities Use Agreement.txt
+	modified:   ../crawl_reviewed/amazon.com/Interest-Based Ads.txt
+	modified:   ../crawl_reviewed/live.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/microsoftstore.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/msn.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/skype.com/Privacy Policy.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
@@ -71,5 +74,64 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
 	../cp.sh
+	../crawl/alibaba.com/Alibaba.com Product Listing Information-Editing Guidelines.txt
+	../crawl/alibaba.com/Enforcement Actions for Displaying Prohibited and Controlled Items.txt
+	../crawl/alibaba.com/Enforcement Actions for Intellectual Property Rights Infringements Claims on Alibaba.com.txt
+	../crawl/alibaba.com/Intellectual Property Rights(IPR)Protection Policy.txt
+	../crawl/alibaba.com/Product Listing Policy.txt
+	../crawl/alibaba.com/Rules against Duplicate Product Listing.txt
+	../crawl/alibaba.com/Rules for Enforcement Actions against Non-compliance Relating to Inappropriate Product Postings.txt
+	../crawl/alibaba.com/Rules for Handling Unauthorized Use of A Third Party's Information.txt
+	../crawl/alibaba.com/Terms and Conditions Governing Request for Quotation.txt
+	../crawl/alibaba.com/Terms of Use.txt
+	../crawl/alibaba.com/Updated Rules for Preventing Duplicate Product Postings.txt
+	../crawl/amazon.com/Amazon Advertising Preferences.txt
+	../crawl/amazon.com/Amazon Terms of Service.txt
+	../crawl/amazon.com/Official AWS Privacy Policy.txt
+	../crawl/apple.com/Apple Transparency Report.txt
+	../crawl/apple.com/California Privacy Disclosure.txt
+	../crawl/apple.com/Privacy Management Guide.txt
+	../crawl/att.com/AT&T Consumer Marketing.txt
+	../crawl/att.com/AT&T Privacy Policy FAQ.txt
+	../crawl/att.com/Cookies and Other Technologies.txt
+	../crawl/att.com/Your Rights & Choices.txt
+	../crawl/google.com/Advertising Cookies Policy.txt
+	../crawl/google.com/GOOGLE PRIVACY POLICY.txt
+	../crawl/linkedin.com/LinkedIn in Microsoft Applications with Your Personal Account.txt
+	../crawl/microsoft.com/Microsoft Services Agreement.txt
+	../crawl/microsoft.com/Microsoft Terms of Use.txt
+	../crawl/oath.com/
+	../crawl/tp-link.com/Privacy Policy.txt
+	../crawl/twitter.com/Ads API Agreement.txt
+	../crawl/twitter.com/Developer Agreement.txt
+	../crawl/twitter.com/Developer Policy.txt
+	../crawl/twitter.com/Display requirements: Replies.txt
+	../crawl/twitter.com/Display requirements: Tweets.txt
+	../crawl/twitter.com/Geo guidelines.txt
+	../crawl/twitter.com/More about restricted uses of the Twitter APIs.txt
+	../crawl/twitter.com/Our use of cookies and similar technologies.txt
+	../crawl/twitter.com/Twitter Kit Agreement.txt
+	../crawl/verizon.com/AppFlash Privacy Policy.txt
+	../crawl/verizon.com/Business and Marketing Insights FAQs.txt
+	../crawl/verizon.com/Cookies & Related Technologies.txt
+	../crawl/verizon.com/Frequently Asked Questions about Copyrights and Verizon's Anti-Piracy Cooperation Program.txt
+	../crawl/verizon.com/Full Privacy Policy.txt
+	../crawl/verizon.com/Gizmo Privacy Policy.txt
+	../crawl/verizon.com/Hum Privacy Policy.txt
+	../crawl/verizon.com/International Privacy Centre.txt
+	../crawl/verizon.com/MapQuest Privacy Policy.txt
+	../crawl/verizon.com/Master Domain Registration Agreement for Verizon Domain Names.txt
+	../crawl/verizon.com/Message+ Privacy Policy.txt
+	../crawl/verizon.com/Mobile Location Analytics Privacy Notice.txt
+	../crawl/verizon.com/Privacy Policy Summary.txt
+	../crawl/verizon.com/Privacy Policy for Fios and other Fiber-to-the-Premises Customers.txt
+	../crawl/verizon.com/Smart Family Privacy Policy.txt
+	../crawl/verizon.com/VZ Navigator App Privacy Policy.txt
+	../crawl/verizon.com/Verizon Home Privacy Policy.txt
+	../crawl/verizon.com/Verizon Selects FAQs.txt
+	../crawl/verizon.com/Web com Master Services Agreement.txt
+	../crawl/visible.com/
+	../crawl/xfinity.com/
+	../crawl_reviewed/facebook.com/Data Policy.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")

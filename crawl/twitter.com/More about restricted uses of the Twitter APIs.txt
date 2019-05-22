@@ -1,0 +1,186 @@
+ Developer Back <ul>
+<li> Use cases <ul>
+<li> Advertise </li>
+<li> Publish and curate </li>
+<li> Analyze </li>
+<li> Engage </li>
+</ul>
+</li>
+<li> Products <ul>
+<li> Products overview </li>
+<li> Accounts and users </li>
+<li> Tweets </li>
+<li> Direct messages </li>
+<li> Metrics </li>
+<li> Ad campaigns </li>
+<li> Publisher tools </li>
+</ul>
+</li>
+<li> Docs <ul>
+<li> Documentation </li>
+<li> API reference index </li>
+<li> Tutorials </li>
+<li> Changelog </li>
+<li> API status </li>
+</ul>
+</li>
+<li> More <ul>
+<li> Case studies </li>
+<li> Enterprise data </li>
+<li> Developer terms </li>
+<li> Pricing </li>
+<li> Billing details </li>
+<li> Community </li>
+<li> Forum </li>
+<li> Blog </li>
+<li> Stay informed </li>
+</ul>
+</li>
+<li> Labs <ul>
+<li> About </li>
+<li> Docs </li>
+<li> Feedback </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Apply </li>
+</ul> Sign In <p>Developer terms</p> More about restricted uses of the Twitter APIs.
+<p>Use of our developer platform requires that you review and agree to our Developer Agreement and Policy, as well as our related policies, including the Display Requirements and Automation Rules.
+Among other things, our agreements and policies provide guidance about several restricted use cases.
+We’ve provided additional information about some of these restrictions below.</p> Sensitive information <p>You should be careful about using Twitter data to derive or infer potentially sensitive characteristics about Twitter users.
+Never derive or infer, or store derived or inferred, information about a Twitter user’s:</p>
+<ul>
+<li>Health (including pregnancy)</li>
+<li>Negative financial status or condition</li>
+<li>Political affiliation or beliefs</li>
+<li>Racial or ethnic origin</li>
+<li>Religious or philosophical affiliation or beliefs</li>
+<li>Sex life or sexual orientation</li>
+<li>Trade union membership</li>
+<li>Alleged or actual commission of a crime</li>
+</ul>
+<p> </p>
+<p>Aggregate analysis of Twitter content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.<br>
+</p> Off-Twitter matching <p>Off-Twitter matching involves associating Twitter content, including a Twitter username or user ID, with a person, household, device, browser, or other off-Twitter identifier.
+One example would be associating a Twitter username with a business’s customer records (i.e.
+“John Doe” in your customer record is matched to @johndoe on Twitter).</p>
+<p>We want people to feel comfortable to create a separate and, if they choose, pseudonymous identity on Twitter.
+If you intend to associate any information about a Twitter user with an off-Twitter identifier, we require that you get express, opt-in consent from the user before making the association.
+For example, you could get this consent if the user shares their Twitter handle directly with you as part of a signup process for your service.</p>
+<p>In situations in which you do not have a user’s express, opt-in consent to link their Twitter identity to an off-Twitter identifier, we require that any connection you draw be based only on information that a user would reasonably expect to be used for that purpose.
+If a user would be surprised to learn that you are using information they provided to link their Twitter account to an identity off of Twitter, don’t do it.
+In addition, absent a person’s express opt-in consent you may only attempt to match your records about someone to a Twitter identity based on:</p>
+<ul>
+<li>
+<b>Information provided directly to you by the user.
+</b>Records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard.
+and/or<br>
+</li>
+<li>
+<b>Public data.</b> “Public data” in this context refers to:<ul>
+<li>Information about a user which you obtained from a public, generally-available resource (such as a directory of members of a professional association)</li>
+<li>Information on Twitter about a user which is publicly available, including:<ul>
+<li>Tweets</li>
+<li>Profile information, including a user’s bio and publicly-stated location</li>
+<li>Display name and username</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p> </p> Redistribution of Twitter content <p>If you need to share Twitter content you obtained via the Twitter APIs with another party, the best way to do so is by sharing Tweet IDs, Direct Message IDs, and/or User IDs, which the end user of the content can then rehydrate (i.e.
+request the full Tweet, user, or Direct Message content) using the Twitter APIs.
+This helps ensure that end users of Twitter content always get the most current information directly from us.</p>
+<p>We permit limited redistribution of hydrated Twitter content via non-automated means.
+If you choose to share hydrated Twitter content with another party in this way, you may only share up to 50,000 hydrated public Tweet Objects and/or User Objects per recipient, per day, and should not make this data publicly available (for example, as an attachment to a blog post or in a public Github repository).</p>
+<p>There are a few other points to keep in mind about redistributing Twitter content:</p>
+<ul>
+<li>You may only distribute up to a total of 1,500,000 Tweet IDs to a single entity within a 30 day period unless you’ve received prior express written permission from Twitter.<br>
+</li>
+<li>Individuals redistributing Tweet IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Tweet IDs and/or User IDs.<br>
+</li>
+<li>To request permission to share Twitter content as outlined above, please use the API Policy support form.<br>
+</li>
+</ul>
+<p> </p>
+<p>To the extent you are permitted to distribute Twitter content to a third party, note that this content remains subject to the Developer Agreement and Policy, and you must ensure such third party has agreed to the Twitter Terms of Service, Privacy Policy, Developer Agreement, and Developer Policy before receiving Twitter content.</p> Multiple applications <p>You are not permitted to register multiple applications for a single use case, or substantially similar or overlapping use cases. Learn more about these policies here.</p>
+<p>In this context, we define “use case” as a consistent set of analyses, displays, or actions performed via an application.
+Providing the same service or application to different end users (including “white label” versions of a tool or service) counts as a single use case.
+These rules apply both to applications you register, and to applications registered by the end users of your tool or service.
+requiring your end users to register applications for the purpose of using your tool or service could result in enforcement actions against you, your applications, your customers, and/or the end users of your tool or service.</p>
+<p>The only exception to this rule is to create development (“dev”), staging, and production (“prod”) instances of the same service.
+Ensure that these applications are clearly labeled (for instance, in the application name or description), and that you do not use development or staging applications for production purposes.</p> Automation, spam, and auto-responses <p>The use of Twitter’s APIs and developer products to create spam, or engage in spammy behavior, is prohibited.
+You should review the Twitter Rules on spam, and ensure that your application does not, and does not enable users to, violate our policies.</p>
+<p>If your application will be used to perform write actions on the Twitter service, including posting Tweets, following accounts, or sending Direct Messages, you should carefully review the Automation Rules to ensure your service complies with our guidelines.
+In particular, you should:</p>
+<ul>
+<li>Always get a user’s explicit consent before sending them automated replies or messages</li>
+<li>Immediately respect user requests to opt-out of being contacted by you</li>
+<li>Never perform bulk, aggressive, or spammy actions, including bulk following</li>
+<li>Never post identical or substantially similar content across multiple accounts<br>
+</li>
+</ul>
+<p> </p> Measuring the Twitter service <p>Do not use the Twitter APIs to measure the availability, performance, functionality, or usage of Twitter for benchmarking or competitive purposes.
+For example, you should never use the Twitter APIs to:</p>
+<ul>
+<li>Calculate aggregate Twitter user metrics, such as the total number of active users or accounts</li>
+<li>Calculate aggregate Twitter Tweet metrics, such as the total number of Tweets posted per day, or the number of user engagements or account engagements</li>
+<li>Measure or analyze spam or security on Twitter, except as permitted in the Twitter Rules</li>
+</ul>
+<p> </p> Surveillance, privacy, and user protection <p>At Twitter, protecting and defending the privacy of our users is built into the core DNA of our company — and our developer and data products reflect that commitment.
+We believe that Twitter data can be a powerful force for good in the world — from saving lives during flooding in Jakarta to helping the USGS track earthquakes to working with the UN to achieve the Sustainable Development Goals.
+However, we prohibit the use of Twitter data and the Twitter APIs by any entity for surveillance purposes, or in any other way that would be inconsistent with our users' reasonable expectations of privacy.
+Period.</p>
+<p>We describe prohibited uses of our data and developer products in the Developer Agreement, including prohibitions on investigating or tracking Twitter users or their content, as well as tracking, alerting, or monitoring sensitive events (such as protests, rallies, or community organizing meetings).</p>
+<p>Other categories of activities prohibited under these terms include (but are not limited to):<br>
+</p>
+<ul>
+<li>Investigating or tracking sensitive groups and organizations, such as unions or activist groups</li>
+<li>Background checks or any form of extreme vetting</li>
+<li>Credit or insurance risk analyses</li>
+<li>Individual profiling or psychographic segmentation</li>
+<li>Facial recognition</li>
+</ul>
+<p> </p>
+<p>These policies apply to all users of our APIs.
+Any misuse of the Twitter APIs for these purposes will be subject to enforcement action, which can include suspension and termination of access.</p>
+<p>For additional information for law enforcement authorities seeking information about Twitter accounts, visit https://t.co/le.</p> Developer policy and terms Follow @twitterdev Subscribe to developer news About <ul>
+<li> Let’s go Twitter</li>
+<li> Company</li>
+<li> Values</li>
+<li> Safety</li>
+<li> Blog</li>
+<li> Brand Resources</li>
+<li> Careers</li>
+<li> Investors</li>
+</ul> Business <ul>
+<li> About Twitter Ads</li>
+<li> Targeting</li>
+<li> Analytics</li>
+<li> Ads support</li>
+<li> Business blog</li>
+<li> Advertise</li>
+</ul> Developers <ul>
+<li> Documentation</li>
+<li> Forums</li>
+<li> Communities</li>
+<li> Developer blog</li>
+</ul> Help Center <ul>
+<li> Using Twitter</li>
+<li> Managing your account</li>
+<li> Safety and security</li>
+<li> Rules and policies</li>
+<li> Contact us</li>
+</ul> Marketing <ul>
+<li> Insights</li>
+<li> Success Stories</li>
+<li> Solutions</li>
+<li> Collections</li>
+<li> Marketing Blog</li>
+<li> Learn About Twitter Video</li>
+</ul>
+<p>© 2019 Twitter, Inc.</p> Cookies Privacy Terms and Conditions <ul>
+<li> Read Previous </li>
+<li> Read Next </li>
+</ul> 
