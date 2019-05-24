@@ -499,8 +499,31 @@ More than one search partner may be used at the same time and may change based o
 <li>NetSeer</li>
 <li>Yandex</li>
 </ul>
-<p>
-</p>
+<strong>Biometric Technology Providers</strong>
+<p>The biometric technology providers with whom we work are listed below.
+These companies may provide users choices about how they collect and use information.
+For more information, please review their privacy policies.</p>
+<ul>
+<li>Apple<br> Integration of Apple’s TrueDepth API into Oath applications may allow you to use the Oath application, in combination with your device’s camera, to virtually apply face paint filters or face accessories to your facial image (this TrueDepth API functionality is collectively referred to below as “face filters”).<br>
+<br> The Oath application will require access to your device's camera in order for you to use the face filter functionality.
+This access may be toggled on or off at any time in your device's settings. <br>
+<br> The camera images and any resulting data from your use of face filters are only used for the current session and to provide the face filter functionality.
+The live video feed that you see while using the face filters is only used for the purpose of providing the feature, and this data is not stored locally or remotely.
+Further any data related to your use of face filters is stored only on the device, and only for the duration of your current face filter session.
+Each time the home screen is presented or the application is closed, the data is deleted.
+Oath does not store or share with third parties data related to your use of the face filters functionality. </li>
+</ul>
+<strong>Voice and Digital Assistant Providers</strong>
+<p>The voice and digital assistant providers with whom we work are listed below.
+These companies may provide users choices about how they collect and use information.
+For more information, please review their privacy policies.</p>
+<ul>
+<li>Amazon</li>
+<li>Apple<br> Oath applications may allow you to interact with them using Apple’s Siri functionality (iOS 12 or above).
+Use of Apple's Siri with Oath applications requires your recorded audio data be sent to Apple for speech recognition, processing and/or transcription purposes.
+ Such audio data may be used by Apple to improve and provide Apple products and services. </li>
+<li>Google</li>
+</ul>
 <strong>Other partnerships</strong>
 <p>Oath partners with companies who may offer products or services to you based on the current page content or other criteria.
 These partners may be in the form of the "Get the Look" bar on celebrity pictures or a sidebar with topical products.
