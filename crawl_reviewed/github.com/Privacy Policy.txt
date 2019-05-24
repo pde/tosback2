@@ -1,4 +1,4 @@
- GitHub Privacy Statement <p>Effective date: <strong>May 7, 2019</strong>
+ GitHub Privacy Statement <p>Effective date: <strong>May 23, 2019</strong>
 </p>
 <p>Thanks for entrusting GitHub with your source code, your projects, and your personal information.
 Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.</p>
@@ -61,6 +61,8 @@ Information from users with accounts
 <p>If you <strong>create an account</strong>, we require some basic information at the time of account creation.
 You will create your own user name and password, and we will ask you for a valid email address.
 You also have the option to give us more information if you want to, and this may include "User Personal Information."</p>
+<p>If you sell a Marketplace application or raise funds through the Sponsors Program, we require some additional information through the registration process.
+We may require identification information and banking information for you to receive funds through those services.</p>
 Information from website browsers
 <p>If you're <strong>just browsing the website</strong>, we collect the same basic information that most websites collect.
 We use common internet technologies, such as cookies and web server logs, to collect Technical Information.
@@ -72,7 +74,7 @@ Information we collect from third parties
 This may happen if you sign up for a training or to receive information about GitHub from one of our vendors.</p>
 Why we collect this information
 <ul>
-<li>We need your User Personal Information to create your account, and to provide the services you request, including to provide the GitHub service, the Marketplace service, or to respond to support requests.</li>
+<li>We need your User Personal Information to create your account, and to provide the services you request, including to provide the GitHub service, the Marketplace service, the Sponsors Program, or to respond to support requests.</li>
 <li>We use your User Personal Information, specifically your user name, to identify you on GitHub.</li>
 <li>We use it to fill out your profile and share that profile with other users if you ask us to.</li>
 <li>We will use your email address to communicate with you, if you've said that's okay, <strong>and only for the reasons you’ve said that’s okay</strong>.
@@ -92,23 +94,42 @@ You can always see what information we have, how we're using it, and what permis
 <p>Under certain international laws (including GDPR), GitHub is required to notify you about the legal basis on which we process User Personal Information.
 GitHub processes User Personal Information on the following legal bases:</p>
 <ul>
+<li>
+<p>Contract Performance:</p>
+<ul>
 <li>When you create a GitHub account, you provide your user name and an email address.
 We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract.
 We also process your user name and email address on other bases.
-If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract.
-GitHub does not collect or process a credit card number, but our third-party payment processor does.</li>
+</li>
+<li>If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract.
+GitHub does not collect or process a credit card number, but our third-party payment processor does.
+</li>
+<li>When you sell a Marketplace application or receive funds through the Sponsors Program, you provide identification and banking information.
+We process those elements on the basis of performing the contract that applies to those services.</li>
+</ul>
+</li>
+<li>
+<p>Consent:</p>
+<ul>
 <li>As a user, you can fill out the information in your user profile, and you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website.
 You also have the option of setting a publicly visible email address here.
 If you decide to participate in a GitHub research project or survey, you may choose to provide User Personal Information or other personal information to us for limited purposes.
 We process this information on the basis of consent.
 All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private).</li>
+</ul>
+</li>
+<li>
+<p>Legitimate Interests:</p>
+<ul>
 <li>Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests.
 For example, for legal compliance purposes or to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems, website, and service, we must keep logs of Technical Information.
 and, in order to respond to legal process, we are required to keep records of users who have sent and received DMCA takedown notices.</li>
+</ul>
+</li>
 <li>If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please use our Privacy contact form.</li>
 </ul>What information GitHub does not collect
-<p>We do not intentionally collect <strong>sensitive personal information</strong>, such as social security numbers, genetic data, health information, or religious information.
-Although GitHub does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a repository or in your public profile.
+<p>We do not intentionally collect <strong>sensitive personal information</strong>, such as social security numbers, genetic data, health information, or religious information, unless you sell a Marketplace application or raise funds through the Sponsors Program.
+Although GitHub does not request or intentionally collect any other sensitive personal information, we realize that you might store this kind of information in your account, such as in a repository or in your public profile.
 If you store any sensitive personal information on our servers, you are responsible for complying with any regulatory controls regarding that data.</p>
 <p>If you're a <strong>child under the age of 13</strong>, you may not have an account on GitHub.
 GitHub does not knowingly collect information from or direct any of our content specifically to children under 13.
