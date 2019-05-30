@@ -28,32 +28,9 @@ ef82728b-728f-41a2-b6eb-f0a82e99139e <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="42ebe52a-024b-43c9-ab21-6d7e06b0a819" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/content/spectrum/residential/en/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="42ebe52a\u002D024b\u002D43c9\u002Dab21\u002D6d7e06b0a819"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="c0cf6588-f200-475e-b6de-79f9fd7aa721" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/content/spectrum/residential/en/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="c0cf6588\u002Df200\u002D475e\u002Db6de\u002D79f9fd7aa721"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
+<li> Latino </li>
 <li> Business </li>
 </ul>
 </li>
@@ -71,32 +48,8 @@ jQuery(document).ready(function () { jQuery('.linkComponent [data-id="c0cf6588\u
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="74d2bedc-e171-42e9-b4f6-7713e9a32960" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/content/spectrum/residential/en/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="74d2bedc\u002De171\u002D42e9\u002Db4f6\u002D7713e9a32960"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="8cc8e8c6-6508-43c5-a5f4-545db43acbfd" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/content/spectrum/residential/en/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="8cc8e8c6\u002D6508\u002D43c5\u002Da5f4\u002D545db43acbfd"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
+<li> Mobile </li>
+<li> Latino </li>
 <li> Business </li>
 </ul> Check Availability &amp.
 Offers * Street Address Enter your street address Apartment * Zip Code Enter your 5-digit ZIP code Go Why do I need to enter my exact address? <p>SHOP ONLINE NOW</p> *Street Address Apt / Unit # *Zip Code FIND BEST OFFERS <p>
@@ -116,32 +69,8 @@ Offers * Street Address Enter your street address Apartment * Zip Code Enter you
 <li> Spectrum Internet </li>
 <li> Spectrum TV </li>
 <li> Spectrum Voice </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="4b895cab-0bc0-4f4d-9d7b-122795ee17a1" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Mi Plan Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="4b895cab\u002D0bc0\u002D4f4d\u002D9d7b\u002D122795ee17a1"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="42b15d37-785e-469b-bd9d-5ccb4cb77779" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Spectrum Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="42b15d37\u002D785e\u002D469b\u002Dbd9d\u002D5ccb4cb77779"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
-</li>
+<li> Mi Plan Latino </li>
+<li> Spectrum Mobile </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
 </ul> Explore Spectrum + <ul>
