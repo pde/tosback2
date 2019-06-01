@@ -44,7 +44,7 @@ Unlike most other services, because our GPL code is public, you can actually dow
 <ul>
 <li>Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools);</li>
 <li>Our mobile applications (including the WordPress mobile app for Android and iOS);</li>
-<li>Our other Automattic products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, and Happy Tools).
+<li>Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, Recurring Payments, Simple Payments, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, and Happy Tools).
 and</li>
 <li>Other users’ websites that use our Services, while you are logged in to your account with us.</li>
 </ul>
@@ -75,7 +75,7 @@ You may provide us with more information – like your address and other informa
 For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description.
 Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.</li>
 <li>
-<strong>Transaction and Billing Information:</strong> If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a custom domain, or some fun Longreads swag, for example – you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.</li>
+<strong>Transaction and Billing Information:</strong> If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a custom domain, or some fun Longreads swag, for example – or pay fees to a site owner (for example via Recurring Payments or Simple Payments),  you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.</li>
 <li>
 <strong>Happy Tools Information:</strong> If you are a Happy Tools user, you will provide us with information to make use of the Service’s features.
 For example, you might enter timezone and location information, company information, and contact information.</li>
@@ -194,7 +194,8 @@ For example, we may share your information with third parties with which you aut
 For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.</li>
 <li>
 <strong>Site Owners: </strong>If you have a WordPress.com account and interact with a site, your information may be shared with the administrators of the site.
-For example, if you leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.</li>
+For example, if you leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.
+Or if you make a payment (such as via Recurring Payments) to a site, your public display name, user name, and email address may be shared with the administrator(s) of the site.</li>
 <li>
 <strong>Published Support Requests:</strong> And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.</li>
 </ul>
@@ -316,6 +317,8 @@ Your further use of the Services after a change to our Privacy Policy will be su
 <p>That’s it! Thanks for reading.</p>
 Change log
 <ul>
+<li>
+<em>May 31, 2019:</em> Included information for the Recurring Payments feature.</li>
 <li>
 <em>April 1, 2019:</em> Included information for Happy Tools.</li>
 <li>
