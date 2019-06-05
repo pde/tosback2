@@ -65,7 +65,7 @@ Survival</p>
 <p>1.
 Service-Specific Terms</p>
 <p>2.
-How We Protect Your Service Data</p>
+How We Protect Service Data</p>
 <p>3.
 Country-Specific Terms</p>
 <p>4.
@@ -197,7 +197,7 @@ Further, in Your use of the Services You agree not to (a) license, sublicense, s
 (h) use the Services in any manner that interferes with or disrupts the integrity or performance of the Services and its components.
 (i) attempt to decipher, decompile, reverse engineer or otherwise discover the source code of any Software making up the Services.
 (j) use the Services to knowingly post, transmit, upload, link to, send or store any content that is (or directly or indirectly supports activities that are) unlawful, racist, hateful, abusive, libelous, obscene, or discriminatory.
-this section applies to US entities only: (k) use the Services to store or transmit any “protected health information” as defined in 45 C.F.R 160.103 provided that You are a “business associate” or “covered entity” as defined in 45 C.F.R.
+(k) use the Services to store or transmit any “protected health information” as defined in 45 C.F.R 160.103 provided that You are a “business associate” or “covered entity” as defined in 45 C.F.R.
 160.103, unless expressly agreed to otherwise in writing by Zendesk.
 (l) use the Services to knowingly post transmit, upload, link to, send or store any viruses, malware, Trojan horses, time bombs, or any other similar harmful software (“Malicious Software”).
 (m) use or launch any automated system that accesses a Service (i.e., bot) in a manner that sends more request messages to a Service server in a given period of time than a human can reasonably produce in the same period by using a conventional online web browser.
@@ -295,44 +295,40 @@ When We collect this information, We only use this data in aggregate form, and n
 For example, this aggregate data can tell Us how often users use a particular feature of the Services, and We can use that knowledge to improve the Services.</p>
 <p>
 <strong>3.8</strong> We receive and store any information that You knowingly provide to Us.
-For example, through the registration process for Our Services and/or through Your Account settings, We may collect Personal Data such as Your name, email address, phone number, credit card information and third-party account credentials (for example, Your log-in credentials for Third Party Services that integrate with the Services as further detailed in Section 3.9) of You and Your Agents.
-We base the processing of your Personal Data on our legitimate interest to provide you with the necessary functionality required during your use of the Services.
-In addition, We may communicate with You and Your Agents.
-For example, We may send You and Your Agents product announcements and promotional offers or contact You and Your Agents about Your use of the Services.
-These messages may be tailored to You based on Zendesk’s analysis of Your use of the Services.
-We are processing your Personal Data based on legitimate interests and providing you with information regarding how our services may support your business needs.
+For example, through the registration process for Our Services and/or through Your Account settings, We may collect Personal Data such as name, email address, phone number, credit card information and third-party account credentials (for example, log-in credentials for Third Party Services that integrate with the Service(s) as further detailed in Section 3.10) of You and Your Agents.
+We base the Processing of Personal Data of Your Agents on Our legitimate interest under Applicable Data Protection Law, to provide You with the necessary functionality required during Your use of the Service(s).
+In addition, We may communicate with You and Your Agents, send You and Your Agents product announcements and promotional offers, or contact You and Your Agents about the Service(s).
 If You or an Agent does not want to receive communications from Us, please indicate this preference by sending an email to privacy@zendesk.com and provide Us with the name and email address of each Agent that no longer wishes to receive these communications.
 </p>
 <p>
 <strong>3.9</strong> We never sell, rent, or lease Your Service Data to any third party.
 We do not share Your Service Data with third parties, except as permitted by Section 3 of this Agreement and in order to provide and support the Services.
-The Parties agree that We may, however, share aggregated and/or anonymized information regarding Your use of the Services with third parties for marketing purposes and as described in this Section, to the extent it is necessary for our legitimate interest in developing and improving the Services and providing our You with more relevant content and service offerings.
+The Parties agree that We may, however, share aggregated and/or anonymized information regarding Your use of the Service(s) with third parties for marketing purposes and as described in this Section, to the extent it is necessary for Our legitimate interest under Applicable Data Protection Law, in developing and improving the Service(s) and providing You with more relevant content and service offerings.
 To be clear, We never disclose aggregated and/or anonymized information to a third party in a manner that would identify You as the source of the information or Your Agents or End-Users personally.</p>
 <p>
 <strong>3.9.1</strong> Zendesk Benchmark.
 You have the choice whether to enable Zendesk Benchmark from within the settings in the Services, to the extent this is necessary for our legitimate interest.
 If You do not wish to participate in Zendesk Benchmark then You should not opt-in to Zendesk Benchmark.
 If enabled, Zendesk Benchmark aggregates and anonymizes the Personal Data of Your Agents and Service Data and publishes this information, segmented by industry, geography, and other metrics, in order to provide qualitative insights on customer support metrics and other relevant insights.
-Zendesk may use Zendesk Benchmark for the Zendesk Group’s own marketing purposes, to the extent it is necessary for our legitimate interest in developing and improving the Service and providing You with more relevant content and service offerings.</p>
+Zendesk may use Zendesk Benchmark for the Zendesk Group’s own marketing purposes, to the extent it is necessary for Our legitimate interest under Applicable Data Protection Law in developing and improving the Service(s) and providing You with more relevant content and service offerings.</p>
 <p>
 <strong>3.9.2</strong> Improving the Services.
 We consistently endeavor to improve Our Services.
-In doing so, we use analytics techniques to better understand how Our Services are being used as detailed below.</p>
+In doing so, We use analytics techniques to better understand how Our Service(s) are being used as detailed below.</p>
 <p>(i) Usage Data.
 We may engage third party analytics providers to collect metrics and information regarding Your use of the Service(s), including evaluating how Agents and End-Users use the Services (“Usage Data”).
 To be clear, when Zendesk uses Usage Data, any Personal Data that was included in Service Data shall be anonymized and/or aggregated in such a manner that it no longer constitutes Service Data or Personal Data under Applicable Data Protection Law.
 Usage Data is used to develop new features or improve existing features, inform future sales and marketing strategies and to market and sell the Services.
 The third party analytics providers will not share or otherwise disclose Usage Data, although Zendesk may make Usage Data publicly available from time to time.
-We base the the processing of your Usage Data on our legitimate interest to analyze trends in order to assess and improve the overall user experience to the extent it is necessary for our legitimate interest in developing and improving the Service(s).
+We base the Processing of Usage Data on Our legitimate interest to analyze trends in order to assess and improve the overall user experience in the Service(s) to the extent it is necessary for Our legitimate interest under Applicable Data Protection Law.
 </p>
-<p>
-(ii) Zendesk uses Subscriber Service Data in an anonymized manner, such as conversion to numerical value, for the training of the machine learning models to support certain features and functionality within the Service
+<p>(ii) Zendesk uses Service Data in an anonymized manner, such as conversion to numerical value, for the training of the machine learning models to support certain features and functionality within the Service(s).
 </p>
 <p>
 <strong>3.10</strong> In the event that You decide to use a Third Party Service or You log into Our Services through a third party social media or authentication service, or otherwise provide Us with access to information from such third party social media or authentication services, Zendesk may obtain other information, including Personal Data, from third parties and combine that with information We collect through Our Services.
 Any access that We may have to such information from a third party social or authentication service is in accordance with the authorization procedures determined by that service.
 By authorizing Us to connect with a Third Party Service, You authorize Us to access and store Your name, email address(es), current city, profile picture URL, and any other Personal Data that the Third Party Service makes available to Us, and to use and disclose it in accordance with this Agreement and the Zendesk Privacy Policy in effect from time to time and available here.
-We base the processing of your Personal Data on our legitimate interest to provide you with the necessary functionality required during Your use of our Service(s).</p>
+We base the Processing of the Personal Data of Your Agents on Our legitimate interest under Applicable Data Protection Law, to provide You with the necessary functionality required during Your use of Our Service(s).</p>
 <p>
 <strong>4.
 INTELLECTUAL PROPERTY RIGHTS</strong>
