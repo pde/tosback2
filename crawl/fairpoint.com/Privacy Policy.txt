@@ -295,7 +295,12 @@ College Relations </li>
 </li>
 </ul>
 <ul>
-<li>My Account    </li>
+<li>My Account <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
+<li>MyCCI.net</li>
+</ul>
+</li>
 <ul>
 <li> About Us <ul>
 <li> Investor Relations </li>
@@ -680,10 +685,12 @@ Domain Support</li>
 <li>Agent Support Center</li>
 </ul> Account Support <ul>
 <li>Check My Email</li>
+<li>View or Pay My Bill</li>
 <li>Help Understanding My Bill</li>
 <li>Check My Internet Speed Eligibility</li>
 <li>Seasonal Suspend &amp.
 Restore</li>
+<li>MyCCI.net Support</li>
 </ul> Phone Book <ul>
 <li>Phone Book Info</li>
 <li>Local Search</li>
