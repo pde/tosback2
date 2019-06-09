@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: May 2019 What's new? <i>
+Microsoft Privacy StatementLast Updated: April 2019 What's new? <i>
 </i>Expand All<i>
 </i>Collapse AllPrint<p> Your privacy is important to us.
 This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
@@ -12,7 +12,7 @@ This statement applies to the interactions Microsoft has with you and the Micros
 </i>Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products<i>
 </i>OfficeOneDriveOutlookSkypeLinkedInSearch and artificial intelligence<i>
 </i>BingCortanaMicrosoft TranslatorSwiftKeyWindows<i>
-</i>ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services<i>
+</i>ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchEntertainment and related services<i>
 </i>Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &amp.
 TVSilverlightMicrosoft Health services<i>
 </i>Health servicesHealthVaultCookies<p> Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
@@ -30,7 +30,7 @@ The data we collect depends on the context of your interactions with Microsoft a
 We also obtain data about you from third parties.
 </p>
 <p> If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.
-If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.</p>
+</p>
 <p> You have choices when it comes to the technology you use and the data you share.
 When we ask you to provide personal data, you can decline.
 Many of our products require some personal data to provide you with a service.
@@ -43,7 +43,7 @@ Where providing the data is optional, and you choose not to share personal data,
 <p>Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products.
 You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support.
 We get some of it by collecting data about your interactions, use, and experience with our products and communications.</p>
-<p>We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
+<p>We rely on a variety of legal reasons and permissions (“legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 </p>
 <p>We also obtain data from third parties.
 We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data.
@@ -54,13 +54,10 @@ These third-party sources vary over time and include:</p>
 <li>Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks.</li>
 <li>Service providers that help us determine your device’s location.</li>
 <li>Partners with which we offer co-branded services or engage in joint marketing activities.</li>
-<li>Developers who create experiences through or for Microsoft products.</li>
-<li>Third parties that deliver experiences through Microsoft products, such as skills related to Cortana.</li>
+<li>Developers who create experiences for Microsoft products, such as Cortana.</li>
 <li>Publicly-available sources, such as open government databases.</li>
 </ul>
-<p>If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.
-If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
-</p>
+<p>If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.</p>
 <p>You have choices when it comes to the technology you use and the data you share.
 When you are asked to provide personal data, you can decline.
 Many of our products require some personal data to operate and provide you with a service.
@@ -124,9 +121,6 @@ Error reports (sometimes called “crash dumps”) can include details of the so
 Data you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support.
 For example, contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of your device, and the products you use related to your help inquiry.
 When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.</li>
-<li>
-<strong>Bot usage data</strong>.
-Interactions with third party bots and skills available through Microsoft products like Cortana.</li>
 </ul>
 </li>
 <li>
@@ -342,7 +336,7 @@ We may also disclose personal data as part of a corporate transaction such as a 
 </ul>
 <p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Requests Report.
 </p>
-<p> Please note that some of our products include links to or otherwise enable you to access products of third parties whose privacy practices differ from those of Microsoft.
+<p> Please note that some of our products include links to products of third parties whose privacy practices differ from those of Microsoft.
 If you provide personal data to any of those products, your data is governed by their privacy policies.
 </p>Learn moreTop of page<i>
 </i>How to access and control your personal dataHow to access and control your personal data<p>You can also make choices about the collection and use of your data by Microsoft.
@@ -387,10 +381,9 @@ specific products may provide additional controls.
 <li>
 <strong>Microsoft privacy dashboard</strong>.
 You can control some of the data Microsoft processes through your use of a Microsoft account on the Microsoft privacy dashboard.
-From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.</li>
-<li>
-<strong>Cortana</strong>.
-You can control some of the data Cortana accesses or stores in your Cortana Notebook and Cortana settings.</li>
+From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.
+You can also manage data in your Cortana Notebook and Microsoft Health services.
+</li>
 <li>
 <strong>Microsoft account</strong>.
 If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the Microsoft account website.</li>
@@ -399,7 +392,7 @@ If you wish to access, edit, or remove the profile information and payment infor
 If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.</li>
 <li>
 <strong>Skype</strong>.
-If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.</li>
+If you wish to access, edit, or remove some profile and payment information in your account for Skype or change your password, sign in to your account.</li>
 <li>
 <strong>Xbox</strong>.
 If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.</li>
@@ -579,12 +572,9 @@ These companies use the data they process in accordance with their privacy polic
 <strong>How to control cookies</strong>
 </p>
 <p>Most web browsers automatically accept cookies but provide controls that allow you to block or delete them.
-For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy &amp.
-Security  </strong>&gt;<strong> Clear Browsing data</strong> &gt.
-<strong>Cookies and saved website data</strong>.
-For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge or Internet Explorer.
-If you use a different browser, refer to that browser’s instructions.
-.</p>
+For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy </strong>&gt;<strong> Advanced Settings</strong> &gt.
+<strong>Cookies</strong>.
+Please refer to your browser's privacy or help documentation to find Instructions for blocking or deleting cookies in other browsers.</p>
 <p>Certain features of Microsoft products depend on cookies.
 If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost.
 If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.
@@ -597,8 +587,8 @@ If you choose to delete cookies, any settings and preferences controlled by thos
 <p>Some Microsoft webpages contain electronic tags known as web beacons that we use to help deliver cookies on our websites, count users who have visited those websites, and deliver co-branded products.
 We also include web beacons or similar technologies in our electronic communications to determine whether you open and act on them.</p>
 <p>In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.
-This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
-It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.</p>
+This helps us develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
+</p>
 <p>Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
 These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products.
 However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address).
@@ -863,6 +853,9 @@ Telephone: +1 (425) 882 8080.
 <li>Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland.
 Telephone: +353 (0) 1 295 3826.</li>
 </ul>
+<p>Skype Communications S.à r.l.
+23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg, is a data controller for Skype.
+To contact us in relation to Skype software or products, please visit the Skype Help page to submit a support request to the Skype customer support team.</p>
 <p> To find the Microsoft subsidiary in your country or region, see the list of Microsoft office locations around the world.</p>
 <p> Where French law applies, you can also send us specific instructions regarding the use of your personal data after your death, by using our web form.</p>
 <p> If you have a technical or support question, please visit Microsoft Support to learn more about Microsoft Support offerings.
@@ -874,9 +867,11 @@ They include:
 <ul>
 <li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 </li>
-<li>Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.</li>
-<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
+<li>Other enterprise and developer cloud-based services, such as PlayFab Services.
+</li>
+<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).</li>
+<li>Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.</li>
 <li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
 <p>
@@ -947,7 +942,7 @@ If you work in an organization, your administrator can set certain telemetry set
 </i>OfficeOffice<p> Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others.
 For more details about Outlook, see the Outlook section of this privacy statement.
 Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences.
-Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products.
+Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and third-party connected products.
 If you work in an organization, your administrator may turn off or disable these connected services.
 Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
 For more information, see View my options and settings in the Microsoft Office Trust Center.
@@ -1107,7 +1102,7 @@ If you are using the desktop Outlook application, you can choose whether to allo
 At any time, you can remove an account or make changes to the data that is synced from your account.</p>
 <p>If you add an account provided by an organization (such as your employer or school), the owner of the organizational domain can implement policies and controls (for example, requiring multi-factor authentication or the ability to remotely wipe data from your device) that can affect your use of Outlook.</p>
 <p>To learn more about the data the Outlook applications collect and process, please see the Office section of this privacy statement.</p>Top of page<i>
-</i>SkypeSkype<p> Skype lets you send and receive voice, video, SMS, and instant message communications.
+</i>SkypeSkype<p> Skype lets you send and receive voice, video, and instant message communications.
 This section applies to the consumer version of Skype.
 if you are using Skype for Business, see the Enterprise and developer products section of this privacy statement.
 </p>
@@ -1122,7 +1117,7 @@ Your profile includes your user name, avatar, and any other data you choose to a
 <p>
 <strong>Skype Contacts</strong>.
 If you use a Microsoft service, such as Outlook.com, to manage contacts, Skype will automatically add the people you know to your Skype contact list until you tell us to stop.
-With your permission, Skype will also check your device or other address books to automatically add your friends as Skype contacts.
+With your permission, Skype will also check your device or other address books from time to time to automatically add your friends as Skype contacts.
 You can block users if you don’t want to receive their communications.
 </p>
 <p>
@@ -1149,6 +1144,13 @@ Microsoft is not responsible for the data collected by the company providing the
 If you don’t want to use the notification services for incoming Skype calls and messages, turn it off in the settings found in the Skype application or your device.
 </p>
 <p>
+<strong>Skype advertising</strong>.
+Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like.
+In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu.
+If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising on the Microsoft privacy dashboard.
+If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.
+</p>
+<p>
 <strong>Translation features</strong>.
 To help you communicate with people in different languages, some Skype apps offer audio and/or text translation features.
 When you use translation features, your voice and text data are used to provide and improve Microsoft speech recognition and translation services.
@@ -1167,11 +1169,14 @@ Bots are programs offered by Microsoft or third parties that can do many useful 
 Depending on their capabilities, bots may have access to your display name, Skype ID, country, region, language, and any messages, audio, video, or content that you share with the bot.
 Please review the bot profile and its privacy statement before engaging in a one-to-one or group conversation with a bot.
 You can delete a bot that you no longer wish to engage with.
-Prior to adding a bot to a group, please ensure that your group participants have consented to their information being shared with the bot.</p>
+Prior to adding a bot to a group, please ensure that your group participants have consented to their information being shared with the bot.
+</p>
 <p>
-<strong>Recommendations in Skype</strong>.
-Subject to availability, Skype may offer suggestions to help you manage your time, tasks, find information and get things done.
-For example, Skype may provide contextual prompts to create reminders or suggest you create a task using Microsoft services.This data may also be used to improve Microsoft products.</p>
+<strong>Cortana in Skype</strong>.
+Subject to availability, you can use Cortana in Skype to help manage your time and tasks, find information, and get things done using Microsoft and third-party services.
+Cortana works best when you give her permission to use data, such as your location and IM conversations from Skype to personalize experiences across Microsoft products that offer Cortana functionality.
+If you choose not to give permission, Cortana may still provide you with non-personalized suggestions and responses within Skype.
+</p>
 <p>
 <strong>Captioning</strong>.
 Certain Skype features include accessibility functionality such as captioning.
@@ -1192,12 +1197,11 @@ When you use Bing-powered experiences, such as Ask Cortana or Bing Lookup to sea
 </p>
 <p>
 <strong>Search suggestions</strong>.
-For the search suggestions feature, the characters that you type into a Bing-powered experience (such as search and site suggestions in the Microsoft Edge browser) to conduct a search and what you click on will be sent to Microsoft.
-This allows us to provide you with relevant suggestions as you type your searches.
+For the search suggestions feature, the characters that you type into a Bing-powered experience to conduct a search will be sent to Microsoft.
+This allows us to provide you with suggestions as you type your searches.
 To turn this feature on or off, while using Bing Search, go to Bing Settings.
-There are other methods to control this feature in other Bing-powered experiences, such as the Microsoft Edge browser.
-Search Suggestions cannot be turned off in the Windows 10 search box.
-On Windows, you can always hide the search box so as not to use the feature.
+Search Suggestions cannot be turned off in Cortana.
+On Windows, you can always hide Cortana and the search box so as not to use the feature.
 </p>
 <p>
 <strong>Bing experience improvement program for Bing Desktop and Bing Toolbar</strong>.
@@ -1222,8 +1226,7 @@ When you’re signed-in to a personal Microsoft account, you can erase your sear
 The Search History service from Bing, located in Bing Settings, provides another method of revisiting the search terms you've entered and results you've clicked when using Bing search through your browser.
 You may clear your search history on a device through this service.
 Clearing your history prevents that history from being displayed on the Search History site, but does not delete information from our search logs, which are retained and de-identified as described above or as you have instructed through the privacy dashboard.
-If you are signed-in to a work or school Microsoft account using Microsoft Search in Bing, you can export your Microsoft Search in Bing search history, but you cannot delete it.
-Your Microsoft Search in Bing service administrator can see aggregated search history across all enterprise users but cannot see specific searches by user.</p>
+</p>
 <p>
 <strong>Third-party services that use Bing</strong>.
 You may access Bing-powered experiences when using third-party services, such as those from Yahoo!.
@@ -1247,20 +1250,22 @@ Additionally, we require these third parties to keep the data secure and to not 
 </p>Top of page<i>
 </i>CortanaCortana<p> Cortana is your intelligent assistant that provides smart features and personalized experiences across a variety of devices, apps, and services.
 As described below, the data we collect when you use Cortana depends on the choices you make (including your privacy settings and whether or not you are signed-in), the data you share with Cortana, and Cortana’s capabilities (which vary depending on your operating system, device, and the services and apps you use).
-Cortana works best when you sign in and allow use of data from your device, your Microsoft account, other Microsoft services, and third-party services to which you choose to connect.
+Cortana works best when you sign in and let her use data from your device, your Microsoft account, other Microsoft services, and third-party services to which you choose to connect.
 </p>
-<p> You can manage what data Cortana uses or remembers about you in Cortana Settings, Permissions, Notebook, and the Microsoft privacy dashboard.
-More about Cortana features and how to manage them can be found at Cortana and privacy.</p>
+<p> You can manage what data Cortana uses, and what she knows about you in Cortana Settings, Permissions, and Notebook.
+More about Cortana’s features and how to manage them can be found at Cortana and privacy.</p>
 <p> The data Cortana collects is used to provide, improve, personalize, and develop Cortana and other Microsoft products.
 For example:</p>
 <ul>
 <li>Cortana uses information about your interests to recommend features you may enjoy.</li>
-<li>Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, or help you with a skill such as making a restaurant reservation or booking a ride share service.</li>
+<li>Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, such as making a restaurant reservation or booking a ride share service.</li>
 <li>Microsoft uses your voice data to improve speech recognition and user intent understanding to improve Cortana and other Microsoft products.</li>
-<li>Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Office) or third-party services.
-For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.</li>
 </ul>
-<p> On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.</p>
+<p> On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.
+For more information, see the Windows Search section of this privacy statement.
+If you choose not to sign in to Cortana on Skype, you can still receive non-personalized suggestions and responses within Skype.
+See the Skype section of this privacy statement for more information.
+</p>
 <p> When you use Cortana when you are signed out, we collect:</p>
 <ul>
 <li>
@@ -1280,59 +1285,58 @@ For instance, Cortana can determine if Bluetooth is on, whether you’ve locked 
 <p> If you sign in with your Microsoft account, you can enable Cortana to perform additional tasks and to provide personalized experiences and suggestions.
 Cortana can process the demographic data (such as your age, postal code, and gender) associated with your Microsoft account and data collected through other Microsoft services to provide personalized suggestions.
 For example, Cortana uses data collected by the Sports app to automatically display information about the teams you follow.
-Cortana also learns your favorite places from the Microsoft Maps app, and what you view and purchase in Microsoft Store to improve suggestions.
-Your interests in the Cortana Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.</p>
+Cortana also learns your favorite places from the Microsoft Maps app, and what you view and purchase in Microsoft Store to improve her suggestions.
+Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.</p>
 <p> When you sign in to Cortana, in addition to the information described above, we also collect:</p>
 <p>
 <strong>Location data</strong>.
-You can choose whether Cortana processes your location information to give you relevant notices and results and to make suggestions such as local traffic information and location-based reminders.
+You can choose whether Cortana processes your location information to give you the most relevant notices and results and to make suggestions that help save you time, such as local traffic information and location-based reminders.
 If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive).
 Location data Cortana collects is used to provide you with personalized experiences across our products, such as making Bing search results more relevant.
-It may also be used in de-identified form to improve Microsoft’s location services.
-</p>
+It may also be used in de-identified form to improve the Windows Location Services.
+See more details in the Location services section of this privacy statement.</p>
 <p>
 <strong>Contacts, communications, and other inputs</strong>.
-You can choose to let Cortana collect and access your device and cloud-based email and other communications, your calendar and tasks, and your contacts to enable additional features and personalization.
+You can choose to let Cortana collect and access your device and cloud-based email and other communications, your calendar, and your contacts to enable additional features and personalization.
 If you give permission, Cortana will collect and process additional data, including:</p>
 <ul>
 <li>
 <strong>Contacts, text messages, and email</strong>.
-Cortana uses your contacts and messages to do a variety of things, such as: making calls when Cortana is connected to Skype, allowing you to add events to your calendar, apprising you of messages or important contacts, and keeping you up to date on events and important activities.
-Cortana also uses your contacts and messages to help you with planning and offers other suggestions.
-</li>
+Cortana uses your contacts and messages to do a variety of things, such as: making calls when Cortana is connected to Skype, allowing you to add events to your calendar, apprising you of important messages or important contacts, and keeping you up to date on events or other things that are important to you, like package tracking.
+Cortana also uses your contacts and messages to help you with planning around your events and offers other helpful suggestions and recommendations.</li>
 <li>
 <strong>Communications history</strong>.
-Cortana learns who is most important to you and your preferred methods of communication by analyzing your call, text message, and email history.
-Cortana uses this data to flag important messages for you (such as missed calls), and to improve the performance of features such as speech recognition.</li>
+Cortana learns who is most important to you by analyzing your call, text message, and email history.
+Cortana uses this data to keep track of people most relevant to you and your preferred methods of communication, flag important messages for you (such as missed calls), and improve the performance of Cortana features, such as speech recognition.</li>
 <li>
 <strong>Calendar appointments</strong>.
 Cortana uses your calendars to provide reminders and information relevant to your appointments.</li>
 </ul>
 <p>
 <strong>Browse history</strong>.
-If you choose, Cortana can use the Microsoft Edge browse history associated with your Microsoft account.
+If you choose, Cortana can use your Microsoft Edge browse history associated with your Microsoft account.
 Cortana uses this data to learn about you and provide you with intelligent answers and timely, personalized suggestions, or to complete web tasks for you.
 Cortana can also help you pick up where you left off on one device when browsing in Microsoft Edge on another device.
 Cortana won’t collect information about sites you visit in InPrivate tabs.</p>
 <p>
-<strong>Connected services and skills</strong>.
-To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) provide your information to those services.
-When enabled, Cortana provides your requests and responses to those services or third parties to enable them to provide you their information or services.
-With your permission, Cortana can send additional information (e.g., your location).
+<strong>Connected services and Skills</strong>.
+To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) share your information with those services.
+When you enable data sharing, Cortana shares your requests and responses with those services or third parties to enable your commands.
+With your permission, Cortana may also share additional information (e.g., your location).
 Information you share with a third party is governed by the third party’s privacy policy and terms.
-Cortana also uses data about your use of connected services and skills to improve and develop Cortana and other Microsoft products.
-For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products.
-Below are examples of how your data is processed when you use connected services and skills:</p>
+Cortana also uses data about your use of Connected services and Skills to improve and develop Cortana and other Microsoft products.
+For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products, especially Cortana.
+Below are examples of how your data is processed when you use Connected services and Skills:
+</p>
 <ul>
-<li>If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.</li>
-<li>Choosing to connect Cortana to LinkedIn allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations.
-It also enables LinkedIn to access the name, email address, job title, and company name of people you are meeting with to retrieve relevant information about those contacts.</li>
-<li>Cortana allows you to connect to third-party services to do more and get additional experiences from the third-party service.
-Cortana may also personalize your experiences based on your use of third-party skills.
-With your permission, <strong>Cortana can send information about you along with your request to third-parties that ask for it</strong>.
-For instance, when you ask Cortana to request you a ride, the ride provider will ask for your current location.
-Third-party skills provide their own separate terms and privacy statements.
-Please review those carefully before allowing Cortana to send information to them.</li>
+<li>If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
+</li>
+<li>Choosing to sign in to LinkedIn within Cortana allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations.
+Please note that Cortana enables LinkedIn to access the name, email address, job title, and company name of people are you are meeting with, so she can retrieve relevant information about those contacts.</li>
+<li>Cortana allows you to connect to third-party services to enable her to do more and provide additional personalized experiences based upon data from the third-party service.
+Not all Skills require your authentication.
+With your permission, <strong>Cortana can also send information about you along with your request to certain third-parties</strong>.
+For instance, when you ask Cortana to request you a ride, Cortana will send Uber your request along with your current location and destination.</li>
 </ul>Top of page<i>
 </i>Microsoft TranslatorMicrosoft Translator<p>Microsoft Translator is a machine translation system designed to automatically translate text and speech between numerous supported languages.</p>
 <p>Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
@@ -1394,12 +1398,12 @@ Settings &gt.
 Privacy &gt.
 Activity history.
 Learn more about activity history in Windows 10.</p>Top of page<i>
-</i>Advertising IDAdvertising ID<p> Windows generates a unique advertising ID for each person using a device, which app developers and advertising networks can then use for their own purposes, including providing relevant advertising in apps.
+</i>Advertising IDAdvertising ID<p> Windows generates a unique advertising ID for each person using a device, which app developers and advertising networks can then use to provide more relevant advertising in apps.
 When the advertising ID is enabled, both Microsoft apps and third-party apps can access and use the advertising ID in much the same way that websites can access and use a unique identifier stored in a cookie.
 Thus, your advertising ID can be used by app developers and advertising networks to provide more relevant advertising and other personalized experiences across their apps and on the web.
 Microsoft collects the advertising ID for the uses described here only when you choose to enable the advertising ID as part of your privacy setting.
 </p>
-<p> The advertising ID setting applies to Windows apps using the Windows advertising identifier.
+<p> The advertising ID setting applies to Windows apps using the Windows advertising identifier to provide interest-based advertising.
 You can turn off access to this identifier at any time by turning off the advertising ID in Settings.
 If you choose to turn it on again, the advertising ID will be reset and a new identifier will be generated.
 When a third-party app accesses the advertising ID, its use of the advertising ID will be subject to its own privacy policy.
@@ -1498,7 +1502,7 @@ Microsoft operates a location service that helps determine the precise geographi
 Depending on the capabilities of the device, the device’s location can be determined with varying degrees of accuracy and may in some cases be determined precisely.
 When you have enabled location on a Windows device, or you have given permission for Microsoft apps to access location information on non-Windows devices, data about cell towers and Wi-Fi access points and their locations is collected by Microsoft and added to the location database after removing any data identifying the person or device from which it was collected.
 This de-identified copy of location information is used to improve Microsoft's location services and, in some instances, shared with our location service provider partners, currently HERE (see https://www.here.com/), to improve the location services of the provider.</p>
-<p> Windows services and features (such as browsers and Cortana), apps running on Windows, and websites opened in Windows browsers can access the device’s location through Windows if your settings allow them to do so.
+<p> Windows services and features (such as browsers and Cortana), apps running on Windows, and websites opened in Windows browsers can access the device’s location through Windows if you allow them to do so.
 Some features and apps request location permission when you first install Windows, some ask the first time you use the app, and others ask every time you access the device’s location.
 For information about certain Windows apps that use the device’s location, see the Windows apps section of this privacy statement.
 </p>
@@ -1584,52 +1588,28 @@ When Windows Defender Antivirus is turned on, or is running because Limited Peri
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
 You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
 </p>Top of page<i>
-</i>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and Typing<p>
-<strong>Speech</strong>.
-Microsoft provides both a device-based speech recognition feature and a cloud-based (online) speech recognition service, in regions where Cortana is available.
+</i>Speech, Inking, and TypingSpeech, Inking, and Typing<p>
+<strong>Online Speech Recognition</strong>.
+Windows provides both a device-based speech recognition feature (available through the Windows Speech Recognition app) and an online speech recognition service, in regions where Cortana is available.
 To learn more about what languages and regions speech currently supports, see Cortana’s regions and languages.
 </p>
-<p>Turning on the online speech recognition setting lets you use Microsoft’s cloud-based speech recognition in Cortana, the Mixed Reality Portal, dictation in Windows from the software keyboard, supported Microsoft Store apps, and over time in other parts of Windows.</p>
-<p> Turning on speech while setting up a HoloLens device or installing Windows Mixed Reality allows you to use your voice for commands, dictation, and app interactions.
-Both device-based speech recognition and online speech recognition settings will be enabled.
-With both settings enabled, while your headset is turned on the device will always be listening to your voice input and will send your voice data to Microsoft’s cloud-based speech recognition service.</p>
-<p> When you use the Microsoft’s cloud-based speech recognition service, Microsoft collects and uses your voice recordings to create a text transcription of the spoken words in the voice data.
+<p> Turning on the online speech recognition setting lets you use Windows cloud-based speech recognition in Cortana, the Mixed Reality Portal, dictation in Windows from the software keyboard, supported Microsoft Store apps, and over time other parts of Windows.
+</p>
+<p> When you use the Windows online speech recognition service, Microsoft collects and uses your voice recordings to create a text transcription of the spoken words in the voice data.
 The voice data is used in the aggregate to help improve our ability to correctly recognize all users’ speech.
 </p>
 <p> You can use device-based speech recognition without sending your voice data to Microsoft.
-However, Microsoft’s cloud-based speech recognition service provides more accurate recognition than the device-based speech recognition.
-When the online speech recognition setting is turned off, speech services that don’t rely on the cloud and only use device-based recognition—like the Narrator app or the Windows Speech Recognition app—will still work.</p>
-<p> If you’ve given permission in Cortana, we also collect additional information, like your name and nickname, your recent calendar events, and the names of the people in your appointments, information about your contacts including names and nicknames, names of your favorite places, apps you use, and information about your music preferences.
+However, the Windows cloud-based speech service provides more powerful recognition than the device-based speech recognition.
+When the online speech recognition setting is turned off, speech services that don’t rely on the cloud and only use device-based recognition, like the Narrator app or the Windows Speech Recognition app, will still work, and Microsoft won’t collect any voice data.
+</p>
+<p> If you’ve given permission in Cortana, we also collect your name and nickname, your recent calendar events, and the names of the people in your appointments, information about your contacts including names and nicknames, names of your favorite places, apps you use, and information about your music preferences.
 This additional data enables us to better recognize people, events, places, and music when you dictate commands, messages, or documents.</p>
 <p> You can turn off online speech recognition at any time.
-This will stop your voice data from being sent to Microsoft.
-If you are using a HoloLens or mixed reality headset, you can also turn off device-based speech recognition at any time.
-This will stop the device from listening for your voice input.
+This will stop the data collection for this feature.
 To control the voice data Microsoft has associated with your Microsoft account, please visit the Microsoft privacy dashboard.
 When you turn off the online speech recognition setting, any voice data collected while you were not signed in with a Microsoft account will be disassociated from your device.
 Learn more about the online speech recognition in Windows 10.
 </p>
-<p>
-<strong>Voice Activation</strong>.
-Windows provides supported apps with the ability to respond and take action based on voice keywords that are specific to that app—for example allowing Cortana to listen and respond to “Hey Cortana.”</p>
-<p>  If you’ve given permission for an app to listen for voice keywords, Windows 10 will be actively listening to the microphone for these keywords.
-Once a keyword is recognized, the app will have access to your voice recording, can process the recording, take action, and respond, such as with a spoken answer.
-The app may send the voice recording to its own services in the cloud to process the commands.
-Each app should ask you for permission before accessing voice recordings.
-</p>
-<p> Allowing Cortana to use voice activation and respond to “Hey Cortana” means your voice data will be collected and used in the aggregate to help improve our ability to correctly recognize all users’ speech.
-For more information about Cortana’s features and how to manage them, see Cortana and privacy.
-Microsoft does not collect voice recordings on behalf of any third-party apps for which you have allowed voice activation.
-</p>
-<p> Additionally, voice activation can be enabled when the device is locked.
-If enabled, the relevant app will continue listening to the microphone for voice keywords when you have locked your device and can activate for anyone who speaks near the device.
-When the device is locked, the app will have access to the same set of capabilities and information as when the device is unlocked.
-</p>
-<p> You can turn off voice activation at any time.
-Learn more about voice activation in Windows 10.
-</p>
-<p> Even when you’ve turned off voice activation, some third-party desktop apps and services could still be listening to the microphone and collect your voice input.
-Learn more about third-party desktop apps and how they may still be able to access your microphone even with these settings turned off.</p>
 <p>
 <strong>Inking &amp.
 Typing Personalization</strong>.
@@ -1747,29 +1727,12 @@ Other descriptive data, such as camera model and the date that the picture was t
 If you choose to share a photo or video, any embedded data will be accessible to the people and services you share with.
 You can disable the Camera app's access to your location by turning off all access to the location service in your device's Settings menu or turning off the Camera app's access to the location service.
 </p>
-<p> The Photos app presents different tabs to group photos and videos by time, location, tags, and faces.
-The Collection tab displays photos and videos according to their time.
-The Album tab helps users organize their photos and videos by location and common tags.
-The People tab organizes photos and videos by faces.
+<p> Your photos, videos, and screenshots that are saved in your camera roll automatically upload to OneDrive.
+You can manage your photos and videos in OneDrive, and you can disable the automatic upload in Settings.
 </p>
-<p> When you import photos and videos that include location attributes, the Photos app can group your photos and videos by time and location.
-To do so, the Photos app sends location data in your photos and videos to Microsoft to determine the names of locations, such as "Seattle, Washington." When you sign-in to the Photos app using your Microsoft account, and you have configured your system to synchronize your local device file system with OneDrive, Photos will use object detection to tag and sort your photos and videos into Albums.
-</p>
-<p> If you enable the “People” toggle on Photos Settings page, the app uses both face detection and face recognition technologies to organize your private collection into groups.
-Face detection is used to identify photos and videos containing faces.
-Face recognition groups photos and videos containing a given person’s face.
-</p>
-<p> You can choose to enable or disable grouping photos and videos by faces.
-If this feature is enabled, Photos’ background processes scan your photo and video collections stored on your device for facial groupings and present the results within Photos’ People tab on your device.
-Facial groupings are not accessible beyond the context of the device file system and are protected by the same security measures associated with all other content and data associated with a given Windows account.
-By enabling the People setting feature in Photos app, you consent to the use of facial grouping technology to organize your photo and video collection.
-</p>
-<p> From the People tab, you can then choose to link facial groupings with your locally stored Contacts via the People Picker.
-You, and not Microsoft, are responsible for obtaining consent to link Contacts with your facial groupings, and you represent that you have obtained all necessary consents to link your photos and videos into groups.
-</p>
-<p> Your groupings will be stored on your device for as long as you elect to keep the groupings or the photos or videos.
-Users will be prompted to reassert their consent after three years of non-interaction with the Photos app.
-At any time, users can turn off the People toggle under the Settings tab.
+<p> When you take photos embedded with your location, the Photos app can group your photos by time and location.
+To group your photos, the Photos app sends location data in your photos to Microsoft to determine the names of locations, such as "Seattle, Washington." When you are using the Photo app while signed in to your Microsoft account, your photos and videos from OneDrive will be automatically sorted into albums in the Photo app and will also appear on the Photo app's live tile.
+Your photos and/or videos will only be shared with others if you choose to do so.
 </p>
 <p>
 <strong>People app</strong>.
@@ -1818,60 +1781,6 @@ You can delete your biometric verification data from within Settings.
 </i>Windows SearchWindows Search<p>Windows Search lets you search your stuff and the web from one place.
 If you choose to use Windows Search to search "your stuff," it will provide results for items on your personal OneDrive, your OneDrive for Business if so enabled, other cloud storage providers to the extent supported by those third-party providers, and on your device.
 If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.</p>Top of page<i>
-</i>Your PhoneYour Phone<p> The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences.
-You can use Your Phone to see recent photos from your Android phone on your Windows device.
-view and send text messages from your Windows device.
-view, dismiss, or perform other actions to your Android phone notifications from your Windows device.
-and share your phone screen on your Windows device through Your Phone’s mirroring function.
-</p>
-<p> To use Your Phone, the Your Phone app must be installed on your Windows device and the Your Phone Companion app must be installed on your Android phone.
-Upon launching the Your Phone app on your Windows device, you will be prompted to provide your mobile phone number.
-We use this mobile phone number solely to send you a link with information about downloading the Your Phone Companion app.
-</p>
-<p> To use Your Phone, you must log into your Microsoft account on the Your Phone app on your Windows device and on the Your Phone Companion app on your Android phone.
-Your Android phone must be connected to Wi-Fi and your Windows device must be connected to the internet and permit Your Phone to run in the background.
-To use Your Phone’s mirroring function, your Android phone must also have Bluetooth enabled.
-Your Phone also requires your Windows device to be set up with Windows Hello, as an additional security measure.</p>
-<p> As part of providing Your Phone’s features to you, Microsoft collects performance, usage, and device data that includes, for example, the hardware capabilities of your mobile phone and Windows device, the number and duration of your sessions on Your Phone, and the amount of time you spent during setup.
-</p>
-<p> You can unlink your Android phone from your Windows device at any time by logging in with your Microsoft account at accounts.microsoft.com/devices and updating the Settings on your Android phone.
-For detailed information, see our support page.
-</p>
-<p>
-<strong>Text Messages</strong>.
-Your Phone allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device.
-Only text messages received and sent within the last 30 days are visible on your Windows device.
-These text messages are temporarily stored on your Windows device.
-We never store your text messages on our servers or change or delete any text messages on your Android phone.
-You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services).
-To provide this functionality, Your Phone accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages.
-</p>
-<p>
-<strong>Photos</strong>.
-Your Phone allows you to copy, share or edit photos from your Android phone on your Windows device.
-Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time.
-These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device.
-We never store your photos on our servers or change or delete any photos on your Android phone.
-</p>
-<p>
-<strong>Notifications</strong>.
-Your Phone allows you to view your Android phone’s notifications on your Windows device.
-Through Your Phone, you can read and dismiss your Android phone’s notifications from your Windows device or perform other actions related to the notifications.
-To activate this Your Phone feature, you must enable certain permissions, such as sync notifications, on both your Windows device and Android phone.
-These permissions can be revoked at any time under the Your Phone Settings page on your Windows device and your Android phone’s settings.
-For detailed information, see our support page.
-</p>
-<p>
-<strong>Mirroring</strong>.
-Your Phone allows you to view your Android phone’s screen on your Windows device.
-Your Android phone screen will be visible on your Windows device as a pixel stream and any audio that you enable on your Android phone screen while it is linked to your Windows device through Your Phone will play through your Android phone.
-</p>
-<p>
-<strong>Text-to-voice</strong>.
-Your Phone features include accessibility functionality such as text-to-voice.
-You can activate a text-to-voice feature, which allows you to hear the contents of a text message or notification as audio.
-If you activate this feature, your text messages and notifications will be read out loud as they are received.
-</p>Top of page<i>
 </i>Entertainment and related servicesEntertainment and related services<p>Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.</p>Learn moreTop of page<i>
 </i>Xbox and Xbox LiveXbox and Xbox Live<p> Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment.
 Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles.
@@ -2035,7 +1944,8 @@ TV<p>Groove Music lets you easily play your music collection and make playlists.
 Microsoft Movies &amp.
 TV allows you to play your video collection and rent or buy movies and TV episodes.
 These services were formerly offered as Xbox Music and Video.</p>
-<p>To help you discover content that may interest you, Microsoft will collect data about what content you play, the length of play, and the rating you give it.</p>
+<p>To help you discover content that may interest you, Microsoft will collect data about what content you play, the length of play, and the rating you give it.
+If you sign in to Cortana on your device, Microsoft will collect and use data related to the music you play via Groove Music to provide personalized experiences and relevant suggestions.</p>
 <p>To enrich your experience when playing content, Groove Music and Movies &amp.
 TV will display related information about the content you play and the content in your music and video libraries, such as the album title, cover art, song or video title, and other information, where available.
 To provide this information, Groove Music and Movies &amp.
@@ -2119,6 +2029,13 @@ You can delete specific activity details in the Microsoft Health services.
 When you delete a specific activity, the event is deleted from the Microsoft Health services.
 however, other data and the basic sensor data captured by the devices remain in the Microsoft Health services.
 You can cancel your Microsoft Health services account at any time by contacting Customer Support from the Microsoft Band website.
+</p>
+<p>
+<strong>Cortana</strong>.
+The Microsoft Health services allow you to use Cortana.
+When you use Cortana, data you process in the Microsoft Health services, including health-related data and data processed from third-party services, is shared with Cortana.
+Cortana’s capabilities allow you to perform queries and set reminders with your voice, if Cortana is enabled on your device.
+To learn more about how Cortana manages your data, see the Cortana section of this privacy statement.
 </p>Top of page<i>
 </i>HealthVaultHealthVault<p> HealthVault is a personal health platform that lets you gather, edit, store, and share health data online.
 With HealthVault, you can control your own health records.
@@ -2203,7 +2120,7 @@ The data we collect depends on the context of your interactions with Microsoft a
 We also obtain data about you from third parties.
 </p>
 <p> If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.
-If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.</p>
+</p>
 <p> You have choices when it comes to the technology you use and the data you share.
 When we ask you to provide personal data, you can decline.
 Many of our products require some personal data to provide you with a service.
@@ -2215,7 +2132,7 @@ Where providing the data is optional, and you choose not to share personal data,
 </p>Full text<p>Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products.
 You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support.
 We get some of it by collecting data about your interactions, use, and experience with our products and communications.</p>
-<p>We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
+<p>We rely on a variety of legal reasons and permissions (“legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 </p>
 <p>We also obtain data from third parties.
 We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data.
@@ -2226,13 +2143,10 @@ These third-party sources vary over time and include:</p>
 <li>Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks.</li>
 <li>Service providers that help us determine your device’s location.</li>
 <li>Partners with which we offer co-branded services or engage in joint marketing activities.</li>
-<li>Developers who create experiences through or for Microsoft products.</li>
-<li>Third parties that deliver experiences through Microsoft products, such as skills related to Cortana.</li>
+<li>Developers who create experiences for Microsoft products, such as Cortana.</li>
 <li>Publicly-available sources, such as open government databases.</li>
 </ul>
-<p>If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.
-If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
-</p>
+<p>If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data.</p>
 <p>You have choices when it comes to the technology you use and the data you share.
 When you are asked to provide personal data, you can decline.
 Many of our products require some personal data to operate and provide you with a service.
@@ -2296,9 +2210,6 @@ Error reports (sometimes called “crash dumps”) can include details of the so
 Data you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support.
 For example, contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of your device, and the products you use related to your help inquiry.
 When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.</li>
-<li>
-<strong>Bot usage data</strong>.
-Interactions with third party bots and skills available through Microsoft products like Cortana.</li>
 </ul>
 </li>
 <li>
@@ -2510,7 +2421,7 @@ We may also disclose personal data as part of a corporate transaction such as a 
 </ul>
 <p> For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Requests Report.
 </p>
-<p> Please note that some of our products include links to or otherwise enable you to access products of third parties whose privacy practices differ from those of Microsoft.
+<p> Please note that some of our products include links to products of third parties whose privacy practices differ from those of Microsoft.
 If you provide personal data to any of those products, your data is governed by their privacy policies.
 </p>How to access and control your personal dataHow to access and control your personal datamainhowtoaccesscontrolyourdatamoduleSummary<p>You can also make choices about the collection and use of your data by Microsoft.
 You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide.
@@ -2553,10 +2464,9 @@ specific products may provide additional controls.
 <li>
 <strong>Microsoft privacy dashboard</strong>.
 You can control some of the data Microsoft processes through your use of a Microsoft account on the Microsoft privacy dashboard.
-From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.</li>
-<li>
-<strong>Cortana</strong>.
-You can control some of the data Cortana accesses or stores in your Cortana Notebook and Cortana settings.</li>
+From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.
+You can also manage data in your Cortana Notebook and Microsoft Health services.
+</li>
 <li>
 <strong>Microsoft account</strong>.
 If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the Microsoft account website.</li>
@@ -2565,7 +2475,7 @@ If you wish to access, edit, or remove the profile information and payment infor
 If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.</li>
 <li>
 <strong>Skype</strong>.
-If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.</li>
+If you wish to access, edit, or remove some profile and payment information in your account for Skype or change your password, sign in to your account.</li>
 <li>
 <strong>Xbox</strong>.
 If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.</li>
@@ -2743,12 +2653,9 @@ These companies use the data they process in accordance with their privacy polic
 <strong>How to control cookies</strong>
 </p>
 <p>Most web browsers automatically accept cookies but provide controls that allow you to block or delete them.
-For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy &amp.
-Security  </strong>&gt;<strong> Clear Browsing data</strong> &gt.
-<strong>Cookies and saved website data</strong>.
-For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge or Internet Explorer.
-If you use a different browser, refer to that browser’s instructions.
-.</p>
+For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy </strong>&gt;<strong> Advanced Settings</strong> &gt.
+<strong>Cookies</strong>.
+Please refer to your browser's privacy or help documentation to find Instructions for blocking or deleting cookies in other browsers.</p>
 <p>Certain features of Microsoft products depend on cookies.
 If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost.
 If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.
@@ -2761,8 +2668,8 @@ If you choose to delete cookies, any settings and preferences controlled by thos
 <p>Some Microsoft webpages contain electronic tags known as web beacons that we use to help deliver cookies on our websites, count users who have visited those websites, and deliver co-branded products.
 We also include web beacons or similar technologies in our electronic communications to determine whether you open and act on them.</p>
 <p>In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.
-This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
-It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.</p>
+This helps us develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
+</p>
 <p>Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
 These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products.
 However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address).
@@ -3015,6 +2922,9 @@ Telephone: +1 (425) 882 8080.
 <li>Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland.
 Telephone: +353 (0) 1 295 3826.</li>
 </ul>
+<p>Skype Communications S.à r.l.
+23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg, is a data controller for Skype.
+To contact us in relation to Skype software or products, please visit the Skype Help page to submit a support request to the Skype customer support team.</p>
 <p> To find the Microsoft subsidiary in your country or region, see the list of Microsoft office locations around the world.</p>
 <p> Where French law applies, you can also send us specific instructions regarding the use of your personal data after your death, by using our web form.</p>
 <p> If you have a technical or support question, please visit Microsoft Support to learn more about Microsoft Support offerings.
@@ -3025,9 +2935,11 @@ They include:
 <ul>
 <li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 </li>
-<li>Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.</li>
-<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
+<li>Other enterprise and developer cloud-based services, such as PlayFab Services.
+</li>
+<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).</li>
+<li>Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.</li>
 <li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
 <p>
@@ -3094,7 +3006,7 @@ If you work in an organization, your administrator can set certain telemetry set
 </p>Productivity and communications productsProductivity and communications productsmainprodcommproductsmoduleSummary<p>Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.</p>OfficeOfficemainofficeservicesmoduleSummary<p> Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others.
 For more details about Outlook, see the Outlook section of this privacy statement.
 Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences.
-Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products.
+Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and third-party connected products.
 If you work in an organization, your administrator may turn off or disable these connected services.
 Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
 For more information, see View my options and settings in the Microsoft Office Trust Center.
@@ -3251,7 +3163,7 @@ If you are using the mobile Outlook application, that data will also sync to Mic
 If you are using the desktop Outlook application, you can choose whether to allow the data to sync to our servers.
 At any time, you can remove an account or make changes to the data that is synced from your account.</p>
 <p>If you add an account provided by an organization (such as your employer or school), the owner of the organizational domain can implement policies and controls (for example, requiring multi-factor authentication or the ability to remotely wipe data from your device) that can affect your use of Outlook.</p>
-<p>To learn more about the data the Outlook applications collect and process, please see the Office section of this privacy statement.</p>SkypeSkypemainskypemoduleSummary<p> Skype lets you send and receive voice, video, SMS, and instant message communications.
+<p>To learn more about the data the Outlook applications collect and process, please see the Office section of this privacy statement.</p>SkypeSkypemainskypemoduleSummary<p> Skype lets you send and receive voice, video, and instant message communications.
 This section applies to the consumer version of Skype.
 if you are using Skype for Business, see the Enterprise and developer products section of this privacy statement.
 </p>
@@ -3266,7 +3178,7 @@ Your profile includes your user name, avatar, and any other data you choose to a
 <p>
 <strong>Skype Contacts</strong>.
 If you use a Microsoft service, such as Outlook.com, to manage contacts, Skype will automatically add the people you know to your Skype contact list until you tell us to stop.
-With your permission, Skype will also check your device or other address books to automatically add your friends as Skype contacts.
+With your permission, Skype will also check your device or other address books from time to time to automatically add your friends as Skype contacts.
 You can block users if you don’t want to receive their communications.
 </p>
 <p>
@@ -3293,6 +3205,13 @@ Microsoft is not responsible for the data collected by the company providing the
 If you don’t want to use the notification services for incoming Skype calls and messages, turn it off in the settings found in the Skype application or your device.
 </p>
 <p>
+<strong>Skype advertising</strong>.
+Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like.
+In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu.
+If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising on the Microsoft privacy dashboard.
+If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.
+</p>
+<p>
 <strong>Translation features</strong>.
 To help you communicate with people in different languages, some Skype apps offer audio and/or text translation features.
 When you use translation features, your voice and text data are used to provide and improve Microsoft speech recognition and translation services.
@@ -3311,11 +3230,14 @@ Bots are programs offered by Microsoft or third parties that can do many useful 
 Depending on their capabilities, bots may have access to your display name, Skype ID, country, region, language, and any messages, audio, video, or content that you share with the bot.
 Please review the bot profile and its privacy statement before engaging in a one-to-one or group conversation with a bot.
 You can delete a bot that you no longer wish to engage with.
-Prior to adding a bot to a group, please ensure that your group participants have consented to their information being shared with the bot.</p>
+Prior to adding a bot to a group, please ensure that your group participants have consented to their information being shared with the bot.
+</p>
 <p>
-<strong>Recommendations in Skype</strong>.
-Subject to availability, Skype may offer suggestions to help you manage your time, tasks, find information and get things done.
-For example, Skype may provide contextual prompts to create reminders or suggest you create a task using Microsoft services.This data may also be used to improve Microsoft products.</p>
+<strong>Cortana in Skype</strong>.
+Subject to availability, you can use Cortana in Skype to help manage your time and tasks, find information, and get things done using Microsoft and third-party services.
+Cortana works best when you give her permission to use data, such as your location and IM conversations from Skype to personalize experiences across Microsoft products that offer Cortana functionality.
+If you choose not to give permission, Cortana may still provide you with non-personalized suggestions and responses within Skype.
+</p>
 <p>
 <strong>Captioning</strong>.
 Certain Skype features include accessibility functionality such as captioning.
@@ -3333,12 +3255,11 @@ When you use Bing-powered experiences, such as Ask Cortana or Bing Lookup to sea
 </p>
 <p>
 <strong>Search suggestions</strong>.
-For the search suggestions feature, the characters that you type into a Bing-powered experience (such as search and site suggestions in the Microsoft Edge browser) to conduct a search and what you click on will be sent to Microsoft.
-This allows us to provide you with relevant suggestions as you type your searches.
+For the search suggestions feature, the characters that you type into a Bing-powered experience to conduct a search will be sent to Microsoft.
+This allows us to provide you with suggestions as you type your searches.
 To turn this feature on or off, while using Bing Search, go to Bing Settings.
-There are other methods to control this feature in other Bing-powered experiences, such as the Microsoft Edge browser.
-Search Suggestions cannot be turned off in the Windows 10 search box.
-On Windows, you can always hide the search box so as not to use the feature.
+Search Suggestions cannot be turned off in Cortana.
+On Windows, you can always hide Cortana and the search box so as not to use the feature.
 </p>
 <p>
 <strong>Bing experience improvement program for Bing Desktop and Bing Toolbar</strong>.
@@ -3363,8 +3284,7 @@ When you’re signed-in to a personal Microsoft account, you can erase your sear
 The Search History service from Bing, located in Bing Settings, provides another method of revisiting the search terms you've entered and results you've clicked when using Bing search through your browser.
 You may clear your search history on a device through this service.
 Clearing your history prevents that history from being displayed on the Search History site, but does not delete information from our search logs, which are retained and de-identified as described above or as you have instructed through the privacy dashboard.
-If you are signed-in to a work or school Microsoft account using Microsoft Search in Bing, you can export your Microsoft Search in Bing search history, but you cannot delete it.
-Your Microsoft Search in Bing service administrator can see aggregated search history across all enterprise users but cannot see specific searches by user.</p>
+</p>
 <p>
 <strong>Third-party services that use Bing</strong>.
 You may access Bing-powered experiences when using third-party services, such as those from Yahoo!.
@@ -3387,20 +3307,22 @@ Before we do so, we run the data through a process designed to remove certain se
 Additionally, we require these third parties to keep the data secure and to not use the data for purposes other than for which it is provided.
 </p>CortanaCortanamaincortanamoduleSummary<p> Cortana is your intelligent assistant that provides smart features and personalized experiences across a variety of devices, apps, and services.
 As described below, the data we collect when you use Cortana depends on the choices you make (including your privacy settings and whether or not you are signed-in), the data you share with Cortana, and Cortana’s capabilities (which vary depending on your operating system, device, and the services and apps you use).
-Cortana works best when you sign in and allow use of data from your device, your Microsoft account, other Microsoft services, and third-party services to which you choose to connect.
+Cortana works best when you sign in and let her use data from your device, your Microsoft account, other Microsoft services, and third-party services to which you choose to connect.
 </p>
-<p> You can manage what data Cortana uses or remembers about you in Cortana Settings, Permissions, Notebook, and the Microsoft privacy dashboard.
-More about Cortana features and how to manage them can be found at Cortana and privacy.</p>
+<p> You can manage what data Cortana uses, and what she knows about you in Cortana Settings, Permissions, and Notebook.
+More about Cortana’s features and how to manage them can be found at Cortana and privacy.</p>
 <p> The data Cortana collects is used to provide, improve, personalize, and develop Cortana and other Microsoft products.
 For example:</p>
 <ul>
 <li>Cortana uses information about your interests to recommend features you may enjoy.</li>
-<li>Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, or help you with a skill such as making a restaurant reservation or booking a ride share service.</li>
+<li>Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, such as making a restaurant reservation or booking a ride share service.</li>
 <li>Microsoft uses your voice data to improve speech recognition and user intent understanding to improve Cortana and other Microsoft products.</li>
-<li>Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Office) or third-party services.
-For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.</li>
 </ul>
-<p> On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.</p>
+<p> On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.
+For more information, see the Windows Search section of this privacy statement.
+If you choose not to sign in to Cortana on Skype, you can still receive non-personalized suggestions and responses within Skype.
+See the Skype section of this privacy statement for more information.
+</p>
 <p> When you use Cortana when you are signed out, we collect:</p>
 <ul>
 <li>
@@ -3420,59 +3342,58 @@ For instance, Cortana can determine if Bluetooth is on, whether you’ve locked 
 <p> If you sign in with your Microsoft account, you can enable Cortana to perform additional tasks and to provide personalized experiences and suggestions.
 Cortana can process the demographic data (such as your age, postal code, and gender) associated with your Microsoft account and data collected through other Microsoft services to provide personalized suggestions.
 For example, Cortana uses data collected by the Sports app to automatically display information about the teams you follow.
-Cortana also learns your favorite places from the Microsoft Maps app, and what you view and purchase in Microsoft Store to improve suggestions.
-Your interests in the Cortana Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.</p>
+Cortana also learns your favorite places from the Microsoft Maps app, and what you view and purchase in Microsoft Store to improve her suggestions.
+Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.</p>
 <p> When you sign in to Cortana, in addition to the information described above, we also collect:</p>
 <p>
 <strong>Location data</strong>.
-You can choose whether Cortana processes your location information to give you relevant notices and results and to make suggestions such as local traffic information and location-based reminders.
+You can choose whether Cortana processes your location information to give you the most relevant notices and results and to make suggestions that help save you time, such as local traffic information and location-based reminders.
 If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive).
 Location data Cortana collects is used to provide you with personalized experiences across our products, such as making Bing search results more relevant.
-It may also be used in de-identified form to improve Microsoft’s location services.
-</p>
+It may also be used in de-identified form to improve the Windows Location Services.
+See more details in the Location services section of this privacy statement.</p>
 <p>
 <strong>Contacts, communications, and other inputs</strong>.
-You can choose to let Cortana collect and access your device and cloud-based email and other communications, your calendar and tasks, and your contacts to enable additional features and personalization.
+You can choose to let Cortana collect and access your device and cloud-based email and other communications, your calendar, and your contacts to enable additional features and personalization.
 If you give permission, Cortana will collect and process additional data, including:</p>
 <ul>
 <li>
 <strong>Contacts, text messages, and email</strong>.
-Cortana uses your contacts and messages to do a variety of things, such as: making calls when Cortana is connected to Skype, allowing you to add events to your calendar, apprising you of messages or important contacts, and keeping you up to date on events and important activities.
-Cortana also uses your contacts and messages to help you with planning and offers other suggestions.
-</li>
+Cortana uses your contacts and messages to do a variety of things, such as: making calls when Cortana is connected to Skype, allowing you to add events to your calendar, apprising you of important messages or important contacts, and keeping you up to date on events or other things that are important to you, like package tracking.
+Cortana also uses your contacts and messages to help you with planning around your events and offers other helpful suggestions and recommendations.</li>
 <li>
 <strong>Communications history</strong>.
-Cortana learns who is most important to you and your preferred methods of communication by analyzing your call, text message, and email history.
-Cortana uses this data to flag important messages for you (such as missed calls), and to improve the performance of features such as speech recognition.</li>
+Cortana learns who is most important to you by analyzing your call, text message, and email history.
+Cortana uses this data to keep track of people most relevant to you and your preferred methods of communication, flag important messages for you (such as missed calls), and improve the performance of Cortana features, such as speech recognition.</li>
 <li>
 <strong>Calendar appointments</strong>.
 Cortana uses your calendars to provide reminders and information relevant to your appointments.</li>
 </ul>
 <p>
 <strong>Browse history</strong>.
-If you choose, Cortana can use the Microsoft Edge browse history associated with your Microsoft account.
+If you choose, Cortana can use your Microsoft Edge browse history associated with your Microsoft account.
 Cortana uses this data to learn about you and provide you with intelligent answers and timely, personalized suggestions, or to complete web tasks for you.
 Cortana can also help you pick up where you left off on one device when browsing in Microsoft Edge on another device.
 Cortana won’t collect information about sites you visit in InPrivate tabs.</p>
 <p>
-<strong>Connected services and skills</strong>.
-To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) provide your information to those services.
-When enabled, Cortana provides your requests and responses to those services or third parties to enable them to provide you their information or services.
-With your permission, Cortana can send additional information (e.g., your location).
+<strong>Connected services and Skills</strong>.
+To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) share your information with those services.
+When you enable data sharing, Cortana shares your requests and responses with those services or third parties to enable your commands.
+With your permission, Cortana may also share additional information (e.g., your location).
 Information you share with a third party is governed by the third party’s privacy policy and terms.
-Cortana also uses data about your use of connected services and skills to improve and develop Cortana and other Microsoft products.
-For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products.
-Below are examples of how your data is processed when you use connected services and skills:</p>
+Cortana also uses data about your use of Connected services and Skills to improve and develop Cortana and other Microsoft products.
+For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products, especially Cortana.
+Below are examples of how your data is processed when you use Connected services and Skills:
+</p>
 <ul>
-<li>If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.</li>
-<li>Choosing to connect Cortana to LinkedIn allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations.
-It also enables LinkedIn to access the name, email address, job title, and company name of people you are meeting with to retrieve relevant information about those contacts.</li>
-<li>Cortana allows you to connect to third-party services to do more and get additional experiences from the third-party service.
-Cortana may also personalize your experiences based on your use of third-party skills.
-With your permission, <strong>Cortana can send information about you along with your request to third-parties that ask for it</strong>.
-For instance, when you ask Cortana to request you a ride, the ride provider will ask for your current location.
-Third-party skills provide their own separate terms and privacy statements.
-Please review those carefully before allowing Cortana to send information to them.</li>
+<li>If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
+</li>
+<li>Choosing to sign in to LinkedIn within Cortana allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations.
+Please note that Cortana enables LinkedIn to access the name, email address, job title, and company name of people are you are meeting with, so she can retrieve relevant information about those contacts.</li>
+<li>Cortana allows you to connect to third-party services to enable her to do more and provide additional personalized experiences based upon data from the third-party service.
+Not all Skills require your authentication.
+With your permission, <strong>Cortana can also send information about you along with your request to certain third-parties</strong>.
+For instance, when you ask Cortana to request you a ride, Cortana will send Uber your request along with your current location and destination.</li>
 </ul>Microsoft TranslatorMicrosoft TranslatormainMicrosoftTranslatormoduleSummary<p>Microsoft Translator is a machine translation system designed to automatically translate text and speech between numerous supported languages.</p>
 <p>Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
 We use this data to provide Translator, personalize your experiences, and improve our products.
@@ -3528,12 +3449,12 @@ You can turn settings off or on for sending your activity history to Microsoft a
 Settings &gt.
 Privacy &gt.
 Activity history.
-Learn more about activity history in Windows 10.</p>Advertising IDAdvertising IDmainadvertisingidmoduleSummary<p> Windows generates a unique advertising ID for each person using a device, which app developers and advertising networks can then use for their own purposes, including providing relevant advertising in apps.
+Learn more about activity history in Windows 10.</p>Advertising IDAdvertising IDmainadvertisingidmoduleSummary<p> Windows generates a unique advertising ID for each person using a device, which app developers and advertising networks can then use to provide more relevant advertising in apps.
 When the advertising ID is enabled, both Microsoft apps and third-party apps can access and use the advertising ID in much the same way that websites can access and use a unique identifier stored in a cookie.
 Thus, your advertising ID can be used by app developers and advertising networks to provide more relevant advertising and other personalized experiences across their apps and on the web.
 Microsoft collects the advertising ID for the uses described here only when you choose to enable the advertising ID as part of your privacy setting.
 </p>
-<p> The advertising ID setting applies to Windows apps using the Windows advertising identifier.
+<p> The advertising ID setting applies to Windows apps using the Windows advertising identifier to provide interest-based advertising.
 You can turn off access to this identifier at any time by turning off the advertising ID in Settings.
 If you choose to turn it on again, the advertising ID will be reset and a new identifier will be generated.
 When a third-party app accesses the advertising ID, its use of the advertising ID will be subject to its own privacy policy.
@@ -3629,7 +3550,7 @@ Microsoft operates a location service that helps determine the precise geographi
 Depending on the capabilities of the device, the device’s location can be determined with varying degrees of accuracy and may in some cases be determined precisely.
 When you have enabled location on a Windows device, or you have given permission for Microsoft apps to access location information on non-Windows devices, data about cell towers and Wi-Fi access points and their locations is collected by Microsoft and added to the location database after removing any data identifying the person or device from which it was collected.
 This de-identified copy of location information is used to improve Microsoft's location services and, in some instances, shared with our location service provider partners, currently HERE (see https://www.here.com/), to improve the location services of the provider.</p>
-<p> Windows services and features (such as browsers and Cortana), apps running on Windows, and websites opened in Windows browsers can access the device’s location through Windows if your settings allow them to do so.
+<p> Windows services and features (such as browsers and Cortana), apps running on Windows, and websites opened in Windows browsers can access the device’s location through Windows if you allow them to do so.
 Some features and apps request location permission when you first install Windows, some ask the first time you use the app, and others ask every time you access the device’s location.
 For information about certain Windows apps that use the device’s location, see the Windows apps section of this privacy statement.
 </p>
@@ -3713,52 +3634,28 @@ If Windows Defender Antivirus is turned on, it will monitor the security status 
 When Windows Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, and it may also send files that could contain malware.
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
 You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
-</p>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and TypingmainspeechinkingtypingmoduleSummary<p>
-<strong>Speech</strong>.
-Microsoft provides both a device-based speech recognition feature and a cloud-based (online) speech recognition service, in regions where Cortana is available.
+</p>Speech, Inking, and TypingSpeech, Inking, and TypingmainspeechinkingtypingmoduleSummary<p>
+<strong>Online Speech Recognition</strong>.
+Windows provides both a device-based speech recognition feature (available through the Windows Speech Recognition app) and an online speech recognition service, in regions where Cortana is available.
 To learn more about what languages and regions speech currently supports, see Cortana’s regions and languages.
 </p>
-<p>Turning on the online speech recognition setting lets you use Microsoft’s cloud-based speech recognition in Cortana, the Mixed Reality Portal, dictation in Windows from the software keyboard, supported Microsoft Store apps, and over time in other parts of Windows.</p>
-<p> Turning on speech while setting up a HoloLens device or installing Windows Mixed Reality allows you to use your voice for commands, dictation, and app interactions.
-Both device-based speech recognition and online speech recognition settings will be enabled.
-With both settings enabled, while your headset is turned on the device will always be listening to your voice input and will send your voice data to Microsoft’s cloud-based speech recognition service.</p>
-<p> When you use the Microsoft’s cloud-based speech recognition service, Microsoft collects and uses your voice recordings to create a text transcription of the spoken words in the voice data.
+<p> Turning on the online speech recognition setting lets you use Windows cloud-based speech recognition in Cortana, the Mixed Reality Portal, dictation in Windows from the software keyboard, supported Microsoft Store apps, and over time other parts of Windows.
+</p>
+<p> When you use the Windows online speech recognition service, Microsoft collects and uses your voice recordings to create a text transcription of the spoken words in the voice data.
 The voice data is used in the aggregate to help improve our ability to correctly recognize all users’ speech.
 </p>
 <p> You can use device-based speech recognition without sending your voice data to Microsoft.
-However, Microsoft’s cloud-based speech recognition service provides more accurate recognition than the device-based speech recognition.
-When the online speech recognition setting is turned off, speech services that don’t rely on the cloud and only use device-based recognition—like the Narrator app or the Windows Speech Recognition app—will still work.</p>
-<p> If you’ve given permission in Cortana, we also collect additional information, like your name and nickname, your recent calendar events, and the names of the people in your appointments, information about your contacts including names and nicknames, names of your favorite places, apps you use, and information about your music preferences.
+However, the Windows cloud-based speech service provides more powerful recognition than the device-based speech recognition.
+When the online speech recognition setting is turned off, speech services that don’t rely on the cloud and only use device-based recognition, like the Narrator app or the Windows Speech Recognition app, will still work, and Microsoft won’t collect any voice data.
+</p>
+<p> If you’ve given permission in Cortana, we also collect your name and nickname, your recent calendar events, and the names of the people in your appointments, information about your contacts including names and nicknames, names of your favorite places, apps you use, and information about your music preferences.
 This additional data enables us to better recognize people, events, places, and music when you dictate commands, messages, or documents.</p>
 <p> You can turn off online speech recognition at any time.
-This will stop your voice data from being sent to Microsoft.
-If you are using a HoloLens or mixed reality headset, you can also turn off device-based speech recognition at any time.
-This will stop the device from listening for your voice input.
+This will stop the data collection for this feature.
 To control the voice data Microsoft has associated with your Microsoft account, please visit the Microsoft privacy dashboard.
 When you turn off the online speech recognition setting, any voice data collected while you were not signed in with a Microsoft account will be disassociated from your device.
 Learn more about the online speech recognition in Windows 10.
 </p>
-<p>
-<strong>Voice Activation</strong>.
-Windows provides supported apps with the ability to respond and take action based on voice keywords that are specific to that app—for example allowing Cortana to listen and respond to “Hey Cortana.”</p>
-<p>  If you’ve given permission for an app to listen for voice keywords, Windows 10 will be actively listening to the microphone for these keywords.
-Once a keyword is recognized, the app will have access to your voice recording, can process the recording, take action, and respond, such as with a spoken answer.
-The app may send the voice recording to its own services in the cloud to process the commands.
-Each app should ask you for permission before accessing voice recordings.
-</p>
-<p> Allowing Cortana to use voice activation and respond to “Hey Cortana” means your voice data will be collected and used in the aggregate to help improve our ability to correctly recognize all users’ speech.
-For more information about Cortana’s features and how to manage them, see Cortana and privacy.
-Microsoft does not collect voice recordings on behalf of any third-party apps for which you have allowed voice activation.
-</p>
-<p> Additionally, voice activation can be enabled when the device is locked.
-If enabled, the relevant app will continue listening to the microphone for voice keywords when you have locked your device and can activate for anyone who speaks near the device.
-When the device is locked, the app will have access to the same set of capabilities and information as when the device is unlocked.
-</p>
-<p> You can turn off voice activation at any time.
-Learn more about voice activation in Windows 10.
-</p>
-<p> Even when you’ve turned off voice activation, some third-party desktop apps and services could still be listening to the microphone and collect your voice input.
-Learn more about third-party desktop apps and how they may still be able to access your microphone even with these settings turned off.</p>
 <p>
 <strong>Inking &amp.
 Typing Personalization</strong>.
@@ -3872,29 +3769,12 @@ Other descriptive data, such as camera model and the date that the picture was t
 If you choose to share a photo or video, any embedded data will be accessible to the people and services you share with.
 You can disable the Camera app's access to your location by turning off all access to the location service in your device's Settings menu or turning off the Camera app's access to the location service.
 </p>
-<p> The Photos app presents different tabs to group photos and videos by time, location, tags, and faces.
-The Collection tab displays photos and videos according to their time.
-The Album tab helps users organize their photos and videos by location and common tags.
-The People tab organizes photos and videos by faces.
+<p> Your photos, videos, and screenshots that are saved in your camera roll automatically upload to OneDrive.
+You can manage your photos and videos in OneDrive, and you can disable the automatic upload in Settings.
 </p>
-<p> When you import photos and videos that include location attributes, the Photos app can group your photos and videos by time and location.
-To do so, the Photos app sends location data in your photos and videos to Microsoft to determine the names of locations, such as "Seattle, Washington." When you sign-in to the Photos app using your Microsoft account, and you have configured your system to synchronize your local device file system with OneDrive, Photos will use object detection to tag and sort your photos and videos into Albums.
-</p>
-<p> If you enable the “People” toggle on Photos Settings page, the app uses both face detection and face recognition technologies to organize your private collection into groups.
-Face detection is used to identify photos and videos containing faces.
-Face recognition groups photos and videos containing a given person’s face.
-</p>
-<p> You can choose to enable or disable grouping photos and videos by faces.
-If this feature is enabled, Photos’ background processes scan your photo and video collections stored on your device for facial groupings and present the results within Photos’ People tab on your device.
-Facial groupings are not accessible beyond the context of the device file system and are protected by the same security measures associated with all other content and data associated with a given Windows account.
-By enabling the People setting feature in Photos app, you consent to the use of facial grouping technology to organize your photo and video collection.
-</p>
-<p> From the People tab, you can then choose to link facial groupings with your locally stored Contacts via the People Picker.
-You, and not Microsoft, are responsible for obtaining consent to link Contacts with your facial groupings, and you represent that you have obtained all necessary consents to link your photos and videos into groups.
-</p>
-<p> Your groupings will be stored on your device for as long as you elect to keep the groupings or the photos or videos.
-Users will be prompted to reassert their consent after three years of non-interaction with the Photos app.
-At any time, users can turn off the People toggle under the Settings tab.
+<p> When you take photos embedded with your location, the Photos app can group your photos by time and location.
+To group your photos, the Photos app sends location data in your photos to Microsoft to determine the names of locations, such as "Seattle, Washington." When you are using the Photo app while signed in to your Microsoft account, your photos and videos from OneDrive will be automatically sorted into albums in the Photo app and will also appear on the Photo app's live tile.
+Your photos and/or videos will only be shared with others if you choose to do so.
 </p>
 <p>
 <strong>People app</strong>.
@@ -3939,60 +3819,7 @@ Biometric verification data that's used when you sign in doesn't leave your devi
 You can delete your biometric verification data from within Settings.
 </p>Windows SearchWindows SearchmainwindowssearchmoduleSummary<p>Windows Search lets you search your stuff and the web from one place.
 If you choose to use Windows Search to search "your stuff," it will provide results for items on your personal OneDrive, your OneDrive for Business if so enabled, other cloud storage providers to the extent supported by those third-party providers, and on your device.
-If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.</p>Your PhoneYour PhonemainyourphonemoduleSummary<p> The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences.
-You can use Your Phone to see recent photos from your Android phone on your Windows device.
-view and send text messages from your Windows device.
-view, dismiss, or perform other actions to your Android phone notifications from your Windows device.
-and share your phone screen on your Windows device through Your Phone’s mirroring function.
-</p>
-<p> To use Your Phone, the Your Phone app must be installed on your Windows device and the Your Phone Companion app must be installed on your Android phone.
-Upon launching the Your Phone app on your Windows device, you will be prompted to provide your mobile phone number.
-We use this mobile phone number solely to send you a link with information about downloading the Your Phone Companion app.
-</p>
-<p> To use Your Phone, you must log into your Microsoft account on the Your Phone app on your Windows device and on the Your Phone Companion app on your Android phone.
-Your Android phone must be connected to Wi-Fi and your Windows device must be connected to the internet and permit Your Phone to run in the background.
-To use Your Phone’s mirroring function, your Android phone must also have Bluetooth enabled.
-Your Phone also requires your Windows device to be set up with Windows Hello, as an additional security measure.</p>
-<p> As part of providing Your Phone’s features to you, Microsoft collects performance, usage, and device data that includes, for example, the hardware capabilities of your mobile phone and Windows device, the number and duration of your sessions on Your Phone, and the amount of time you spent during setup.
-</p>
-<p> You can unlink your Android phone from your Windows device at any time by logging in with your Microsoft account at accounts.microsoft.com/devices and updating the Settings on your Android phone.
-For detailed information, see our support page.
-</p>
-<p>
-<strong>Text Messages</strong>.
-Your Phone allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device.
-Only text messages received and sent within the last 30 days are visible on your Windows device.
-These text messages are temporarily stored on your Windows device.
-We never store your text messages on our servers or change or delete any text messages on your Android phone.
-You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services).
-To provide this functionality, Your Phone accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages.
-</p>
-<p>
-<strong>Photos</strong>.
-Your Phone allows you to copy, share or edit photos from your Android phone on your Windows device.
-Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time.
-These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device.
-We never store your photos on our servers or change or delete any photos on your Android phone.
-</p>
-<p>
-<strong>Notifications</strong>.
-Your Phone allows you to view your Android phone’s notifications on your Windows device.
-Through Your Phone, you can read and dismiss your Android phone’s notifications from your Windows device or perform other actions related to the notifications.
-To activate this Your Phone feature, you must enable certain permissions, such as sync notifications, on both your Windows device and Android phone.
-These permissions can be revoked at any time under the Your Phone Settings page on your Windows device and your Android phone’s settings.
-For detailed information, see our support page.
-</p>
-<p>
-<strong>Mirroring</strong>.
-Your Phone allows you to view your Android phone’s screen on your Windows device.
-Your Android phone screen will be visible on your Windows device as a pixel stream and any audio that you enable on your Android phone screen while it is linked to your Windows device through Your Phone will play through your Android phone.
-</p>
-<p>
-<strong>Text-to-voice</strong>.
-Your Phone features include accessibility functionality such as text-to-voice.
-You can activate a text-to-voice feature, which allows you to hear the contents of a text message or notification as audio.
-If you activate this feature, your text messages and notifications will be read out loud as they are received.
-</p>Entertainment and related servicesEntertainment and related servicesmainentertainmentmoduleSummary<p>Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.</p>Xbox and Xbox LiveXbox and Xbox LivemainxboxmoduleSummary<p> Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment.
+If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.</p>Entertainment and related servicesEntertainment and related servicesmainentertainmentmoduleSummary<p>Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.</p>Xbox and Xbox LiveXbox and Xbox LivemainxboxmoduleSummary<p> Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment.
 Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles.
 </p>
 <p> When you access an Xbox experience from a device, we assign you a unique device identifier.
@@ -4150,7 +3977,8 @@ TVmaingroovemusicmoviestvmoduleSummary<p>Groove Music lets you easily play your 
 Microsoft Movies &amp.
 TV allows you to play your video collection and rent or buy movies and TV episodes.
 These services were formerly offered as Xbox Music and Video.</p>
-<p>To help you discover content that may interest you, Microsoft will collect data about what content you play, the length of play, and the rating you give it.</p>
+<p>To help you discover content that may interest you, Microsoft will collect data about what content you play, the length of play, and the rating you give it.
+If you sign in to Cortana on your device, Microsoft will collect and use data related to the music you play via Groove Music to provide personalized experiences and relevant suggestions.</p>
 <p>To enrich your experience when playing content, Groove Music and Movies &amp.
 TV will display related information about the content you play and the content in your music and video libraries, such as the album title, cover art, song or video title, and other information, where available.
 To provide this information, Groove Music and Movies &amp.
@@ -4231,6 +4059,13 @@ You can delete specific activity details in the Microsoft Health services.
 When you delete a specific activity, the event is deleted from the Microsoft Health services.
 however, other data and the basic sensor data captured by the devices remain in the Microsoft Health services.
 You can cancel your Microsoft Health services account at any time by contacting Customer Support from the Microsoft Band website.
+</p>
+<p>
+<strong>Cortana</strong>.
+The Microsoft Health services allow you to use Cortana.
+When you use Cortana, data you process in the Microsoft Health services, including health-related data and data processed from third-party services, is shared with Cortana.
+Cortana’s capabilities allow you to perform queries and set reminders with your voice, if Cortana is enabled on your device.
+To learn more about how Cortana manages your data, see the Cortana section of this privacy statement.
 </p>HealthVaultHealthVaultmainhealthvaultmoduleSummary<p> HealthVault is a personal health platform that lets you gather, edit, store, and share health data online.
 With HealthVault, you can control your own health records.
 You can also choose to share your health data with family, caregivers, health care professionals, mobile applications, health-related devices, and online tools.
@@ -4306,7 +4141,7 @@ We will use the email address you provide when you create your HealthVault accou
 HealthVault will also periodically send you an email summarizing recent account activity.
 Subject to your contact preferences, we also use your email addresses to send you promotional email.
 You can unsubscribe from these emails at any time.
-</p> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule mainmicrosoftservicelongmodule,mainhealthvaultmodule mainenterprisedeveloperproductsmoduleCookies<p> Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
+</p> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule mainmicrosoftservicelongmodule,mainhealthvaultmodule mainenterprisedeveloperproductsmoduleCookies<p> Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
 We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations.
 For more information, see the Cookies and similar technologies section of this privacy statement.</p>EU-U.S.
 and Swiss-U.S.
