@@ -1,5 +1,5 @@
  Alexa Terms of Use <p>
-<strong>Last Updated: November 27, 2018</strong>
+<strong>Last Updated: June 14, 2019</strong>
 </p>
 <p>This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon" or "we").
 Before using Alexa, please read these Alexa Terms of Use, including the Alexa Communication Schedule, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement").
@@ -31,8 +31,11 @@ Alexa streams audio to the cloud when you interact with Alexa.
 Amazon processes and retains your Alexa Interactions, such as your voice inputs, music playlists, and your Alexa to-do and shopping lists, in the cloud to provide, personalize, and improve our services. Learn more about these voice services including how to delete voice recordings associated with your account.</p>
 <p>
 <strong>1.4 Voice Purchasing.</strong> Alexa allows voice purchasing of physical and digital products and services, including subscriptions, from Amazon and other sellers using your default Amazon payment and shipping settings (an “Amazon-Processed Purchase”).
-You can require a speakable confirmation code, turn off voice purchasing, and see product and order details for Amazon-Processed Purchases in your Alexa App. Learn more.
-These settings may not apply to purchases that are not Amazon-Processed Purchases (such as when you provide a credit card directly to the provider of a Third-Party Service), and we are not a party to, and have no responsibility for, those purchases.
+You can require a speakable confirmation code, turn off all voice purchasing or turn off voice purchasing only in kid skills, and see product and order details for Amazon-Processed Purchases in your Alexa App. Learn more.
+By default, your approval will be required for each voice purchase from Amazon through a kid skill.
+You consent to receive automated text messages from us requesting those approvals.
+To opt out of these automated text messages, you may change your voice purchasing settings for kid skills in your Alexa app.
+Your voice purchasing settings may not apply to purchases that are not Amazon-Processed Purchases (such as when you provide a credit card directly to the provider of a Third-Party Service), and we are not a party to, and have no responsibility for, those purchases.
 Amazon-Processed Purchases are subject to the Amazon.com Privacy Notice, Amazon.com Conditions of Use, and, in the case of a subscription, the terms for the applicable service.</p>
 <p>If you make an Amazon-Processed Purchase of, or start a free trial for, a subscription, your subscription will automatically continue at the applicable subscription price at the end of the free trial period (if any) and each renewal period, unless you notify us before a charge that you want to cancel or do not want to automatically renew your subscription.
 You authorize us (without notice to you, unless required by applicable law) to collect the subscription price and any taxes using any payment method we have on record for you.
