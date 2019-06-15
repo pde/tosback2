@@ -18,7 +18,15 @@ Skip to main content <ul>
 <li>Pricing</li>
 </ul>
 </li>
-<li>Conferences</li>
+<li>Conferences <ul>
+<li>Artificial Intelligence Conference</li>
+<li>Open Source Software Conference</li>
+<li>Software Architecture Conference</li>
+<li>Strata Data Conference</li>
+<li>TensorFlow World</li>
+<li>Velocity Conference</li>
+</ul>
+</li>
 <li>Ideas</li>
 <li>Our Approach</li>
 </ul>
@@ -370,12 +378,12 @@ Previous Versions of the Privacy Policy 11.1 O'Reilly and Safari privacy policie
 <p>Click here for version 1.1</p> 11.3 O'Reilly School of Technology privacy policies <p>Click here for version 2.1</p>
 <p>Click here for version 2.0</p> 11.4 Safari privacy policies <p>Click here for version 3.4</p>
 <p>Click here for version 3.3</p> Upcoming Conferences <ul>
-<li> Velocity Jun 11–13, San Jose </li>
-<li> Software Architecture Jun 11–13, San Jose </li>
 <li> Artificial Intelligence Jun 19–21, Beijing </li>
 <li> OSCON Jul 15–18, Portland </li>
 <li> Artificial Intelligence Sep 10–12, San Jose </li>
 <li> Strata Sep 24–26, New York </li>
+<li> Artificial Intelligence Oct 15–17, London </li>
+<li> TensorFlow Oct 28–31, Santa Clara </li>
 </ul> The O'Reilly Approach <ul>
 <li>Our Company</li>
 <li>Teach/Speak/Write</li>
