@@ -34,7 +34,7 @@ If you are an end user of a Microsoft product or a Microsoft account provided by
 <p> You have choices when it comes to the technology you use and the data you share.
 When we ask you to provide personal data, you can decline.
 Many of our products require some personal data to provide you with a service.
-If you choose not to provide data necessary to provide you with a product or feature, you cannot use that product or feature.
+If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature.
 Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract.
 or if this relates to an existing product you’re using, we may have to suspend or cancel it.
 We will notify you if this is the case at the time.
@@ -64,7 +64,7 @@ If you are an end user of a Microsoft product or a Microsoft account provided by
 <p>You have choices when it comes to the technology you use and the data you share.
 When you are asked to provide personal data, you can decline.
 Many of our products require some personal data to operate and provide you with a service.
-If you choose not to provide data necessary to operate and provide you with a product or feature, you cannot use that product or feature.
+If you choose not to provide data required to operate and provide you with a product or feature, you cannot use that product or feature.
 Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract.
 or if this relates to an existing product you’re using, we may have to suspend or cancel it.
 We will notify you if this is the case at the time.
@@ -219,7 +219,7 @@ It also includes sharing data, when it is required to provide the service or car
 For example, Cortana uses the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations.
 However, we have built in technological and procedural safeguards designed to prevent certain data combinations where required by law.
 For example, where required by law, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address, or phone number.</p>
-<p>When we process personal data about you, we do so with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the
+<p>When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the
 Reasons we share personal data section of this privacy statement.
 When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the
 Where we store and process personal data section of this privacy statement.</p>
@@ -436,7 +436,7 @@ It will then apply on any device where you use that account and will continue to
 If you delete the cookies on your device, you will need to sign in again for the settings to apply.
 </p>
 <p> For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings.</p>
-<p> Because the data used for interest-based advertising is also used for other necessary purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection.
+<p> Because the data used for interest-based advertising is also used for other required purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection.
 You will continue to get ads, although they may be less relevant to you.
 </p>
 <p> You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above).</p>
@@ -832,7 +832,7 @@ These companies currently include, but are not limited to: A9, AppNexus, Criteo,
 Select any of the preceding links to find more information on each company's practices, including the choices it offers.
 Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.</p>Top of page<i>
 </i>Collection of data from childrenCollection of data from children<p> When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
-We will not knowingly ask children under that age to provide more data than is necessary to provide for the product.
+We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 </p>
 <p> Once parental consent or authorization is granted, the child's account is treated much like any other account.
 The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.</p>
@@ -973,6 +973,10 @@ See the Update Services section of this privacy statement for more information a
 The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet.
 The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.</p>
 <p>
+<strong>Office Translator</strong>.
+Office Translator is designed as a no-trace connected experience.
+With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.</p>
+<p>
 <strong>Diagnostic Data</strong>.
 Diagnostic data is used to (i) keep Office secure and up to date.
 (ii) detect, diagnose, and remediate problems.
@@ -994,7 +998,7 @@ Additional data that helps us make product improvements and provides enhanced in
 <p>
 <strong>Connected Experiences</strong>.
 Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services.
-In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
 </p>
 <p> Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively.
 Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences.
@@ -1024,15 +1028,15 @@ But even if you use this privacy setting to turn off connected experiences, cert
 </p>
 <p> There are a set of services that are essential to how Office functions and cannot be disabled.
 For example, the licensing service that confirms that you are properly licensed to use Office is essential.
-Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured.
+Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured.
 See
 Essential Services for more information.
 </p>
 <p>
-<strong>Necessary service data for connected experiences</strong>
+<strong>Required service data for connected experiences</strong>
 </p>
-<p> Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected.
-There are three types of information that are considered as necessary service data.
+<p> Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected.
+There are three types of information that are considered as required service data.
 </p>
 <ul>
 <li>
@@ -1042,15 +1046,15 @@ There are three types of information that are considered as necessary service da
 <strong>Functional Data</strong>, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
 </li>
 <li>
-<strong>Service Diagnostic Data</strong>, which is the data necessary to keep the service secure, up to date, and performing as expected.
+<strong>Service Diagnostic Data</strong>, which is the data required to keep the service secure, up to date, and performing as expected.
 Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
 </li>
 </ul>
-<p> To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation.
+<p> To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation.
 PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from.
 While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
 </p>
-<p> The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following: </p>
+<p> The required service data that is sent to Microsoft to enable this connected experience for you could include the following: </p>
 <ul>
 <li>Customer content, such as the text or images you added to your slide.
 </li>
@@ -1059,7 +1063,7 @@ While you're putting content on a slide, Designer works in the background to mat
 <li>Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
 </li>
 </ul>
-<p> If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+<p> If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
 </p>
 <p>See Connected Experiences in Office for more information </p>Top of page<i>
 </i>OneDriveOneDrive<p> OneDrive lets you store and access your files on virtually any device.
@@ -2208,7 +2212,7 @@ If you are an end user of a Microsoft product or a Microsoft account provided by
 <p> You have choices when it comes to the technology you use and the data you share.
 When we ask you to provide personal data, you can decline.
 Many of our products require some personal data to provide you with a service.
-If you choose not to provide data necessary to provide you with a product or feature, you cannot use that product or feature.
+If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature.
 Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract.
 or if this relates to an existing product you’re using, we may have to suspend or cancel it.
 We will notify you if this is the case at the time.
@@ -2237,7 +2241,7 @@ If you are an end user of a Microsoft product or a Microsoft account provided by
 <p>You have choices when it comes to the technology you use and the data you share.
 When you are asked to provide personal data, you can decline.
 Many of our products require some personal data to operate and provide you with a service.
-If you choose not to provide data necessary to operate and provide you with a product or feature, you cannot use that product or feature.
+If you choose not to provide data required to operate and provide you with a product or feature, you cannot use that product or feature.
 Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract.
 or if this relates to an existing product you’re using, we may have to suspend or cancel it.
 We will notify you if this is the case at the time.
@@ -2390,7 +2394,7 @@ It also includes sharing data, when it is required to provide the service or car
 For example, Cortana uses the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations.
 However, we have built in technological and procedural safeguards designed to prevent certain data combinations where required by law.
 For example, where required by law, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address, or phone number.</p>
-<p>When we process personal data about you, we do so with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the
+<p>When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the
 Reasons we share personal data section of this privacy statement.
 When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the
 Where we store and process personal data section of this privacy statement.</p>
@@ -2603,7 +2607,7 @@ It will then apply on any device where you use that account and will continue to
 If you delete the cookies on your device, you will need to sign in again for the settings to apply.
 </p>
 <p> For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings.</p>
-<p> Because the data used for interest-based advertising is also used for other necessary purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection.
+<p> Because the data used for interest-based advertising is also used for other required purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection.
 You will continue to get ads, although they may be less relevant to you.
 </p>
 <p> You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above).</p>
@@ -2988,7 +2992,7 @@ These third parties may place cookies on your computer and collect data about yo
 These companies currently include, but are not limited to: A9, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Oath, Rocket Fuel, and Yahoo!.
 Select any of the preceding links to find more information on each company's practices, including the choices it offers.
 Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.</p>Collection of data from childrenCollection of data from childrenmaincollectionofdatafromchildrenmoduleSummary<p> When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
-We will not knowingly ask children under that age to provide more data than is necessary to provide for the product.
+We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 </p>
 <p> Once parental consent or authorization is granted, the child's account is treated much like any other account.
 The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.</p>
@@ -3121,6 +3125,10 @@ See the Update Services section of this privacy statement for more information a
 The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet.
 The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.</p>
 <p>
+<strong>Office Translator</strong>.
+Office Translator is designed as a no-trace connected experience.
+With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.</p>
+<p>
 <strong>Diagnostic Data</strong>.
 Diagnostic data is used to (i) keep Office secure and up to date.
 (ii) detect, diagnose, and remediate problems.
@@ -3142,7 +3150,7 @@ Additional data that helps us make product improvements and provides enhanced in
 <p>
 <strong>Connected Experiences</strong>.
 Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services.
-In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
 </p>
 <p> Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively.
 Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences.
@@ -3172,15 +3180,15 @@ But even if you use this privacy setting to turn off connected experiences, cert
 </p>
 <p> There are a set of services that are essential to how Office functions and cannot be disabled.
 For example, the licensing service that confirms that you are properly licensed to use Office is essential.
-Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured.
+Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured.
 See
 Essential Services for more information.
 </p>
 <p>
-<strong>Necessary service data for connected experiences</strong>
+<strong>Required service data for connected experiences</strong>
 </p>
-<p> Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected.
-There are three types of information that are considered as necessary service data.
+<p> Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected.
+There are three types of information that are considered as required service data.
 </p>
 <ul>
 <li>
@@ -3190,15 +3198,15 @@ There are three types of information that are considered as necessary service da
 <strong>Functional Data</strong>, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
 </li>
 <li>
-<strong>Service Diagnostic Data</strong>, which is the data necessary to keep the service secure, up to date, and performing as expected.
+<strong>Service Diagnostic Data</strong>, which is the data required to keep the service secure, up to date, and performing as expected.
 Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
 </li>
 </ul>
-<p> To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation.
+<p> To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation.
 PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from.
 While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
 </p>
-<p> The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following: </p>
+<p> The required service data that is sent to Microsoft to enable this connected experience for you could include the following: </p>
 <ul>
 <li>Customer content, such as the text or images you added to your slide.
 </li>
@@ -3207,7 +3215,7 @@ While you're putting content on a slide, Designer works in the background to mat
 <li>Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
 </li>
 </ul>
-<p> If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+<p> If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
 </p>
 <p>See Connected Experiences in Office for more information </p>OneDriveOneDrivemainonedrivemoduleSummary<p> OneDrive lets you store and access your files on virtually any device.
 You can also share and collaborate on your files with others.

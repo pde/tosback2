@@ -1,5 +1,7 @@
  Data and Encryption Policies Certifications and Assessments <p>Trello, Inc.
-(“we”, “us” or “our”) is SOC2 Type 1 certified—we receive and review our data hosting providers’ SOC1 and SOC2 reports every 6 months under NDA.
+(“we”, “us” or “our”) is SOC2 Type 2 certified—we receive and review our data hosting providers’ SOC1 and SOC2 reports every 6 months under NDA.
+Trello is ISO/IEC 27001 certified which validates our information security management system (ISMS) and the implementation of our security controls.
+More information is available on the Atlassian Trust Management System.
 Trello is PCI-DSS certified and complies with Privacy Shield.</p> Vulnerability Detection and Bug Bounty Program <p>Automated scans of Trello's production site are conducted a minimum of every 7 days.
 All changes are peer reviewed and vulnerability and security lists are actively monitored for CVE and other vulnerability disclosures with appropriate actions taken.
 We participate in an active bug bounty program on Bugcrowd and mitigate all material findings as appropriate.</p> Data Centers and Location <p>Trello production services are hosted on Amazon Web Services’ (“AWS”) EC2 platform.
