@@ -1,4 +1,4 @@
- IDERA, Inc.About Idera, Inc.Developer ToolsDatabase ToolsTesting Tools US: 1 (800) 212-2802<p>Sencha.com</p>
+ <p>Sencha.com</p>
 <ul>
 <li>Products
 <ul>
@@ -29,10 +29,7 @@
 <li>IDE and Code Editor Plugins</li>
 </ul>
 </li>
-<li>New! Ext JS Community Edition<p>JavaScript framework that enables developers to build web apps for any modern device.
-<em>LEARN MORE</em>
-</p>
-</li>
+<li>
 </ul>
 </li>
 <li>Services
@@ -55,12 +52,7 @@
 <li>Ext JS for OEM</li>
 </ul>
 </li>
-<li>Why Develop with Sencha?<p>Sencha is a leader in the web application development space with over 400 man-years of expertise in modern web technologies including ES6, HTML5, JavaScript, and CSS.</p>
-<p>Our products enable enterprises to rapidly design, develop, and test web applications across any modern device.
-Our enterprise-class Java and JavaScript frameworks leverage progressive modern standards to deliver data-rich applications for desktops, smartphones, and tablets.
-They provide developers with 115+ professionally built and supported JavaScript components, including top-notch grids, delivering unmatched productivity.
-Our testing solutions seamlessly support these tool-sets to significantly accelerate multi-platform development lifecycles.</p>
-</li>
+<li>Why Develop with Sencha?</li>
 </ul>
 </li>
 <li>Resources
@@ -654,7 +646,7 @@ LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebec
 may share your information with its parent company, Idera, Inc., its affiliates globally and its partners.
 For further details on how your data is used and stored, please review our Sencha Privacy Policy.</small>
 </li>
-<li>PhoneThis field is for validation purposes and should be left unchanged.</li>
+<li>NameThis field is for validation purposes and should be left unchanged.</li>
 </ul> This iframe contains the logic required to handle Ajax powered Gravity Forms.
 &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9"
 height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
