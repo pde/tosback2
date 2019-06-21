@@ -8,27 +8,25 @@ Changes not staged for commit:
 
 	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
-	modified:   ../crawl/apple.com/Apple Transparency Report.txt
-	modified:   ../crawl/cableone.net/Acceptable Use Policy.txt
 	modified:   ../crawl/cableone.net/Terms and Conditions.txt
 	modified:   ../crawl/careerpath.com/Privacy Policy.txt
-	modified:   ../crawl/christianpost.com/Privacy Policy.txt
-	modified:   ../crawl/constantcontact.com/Privacy Policy.txt
 	modified:   ../crawl/daum.net/Privacy Policy.txt
-	modified:   ../crawl/fairpoint.com/Privacy Policy.txt
+	modified:   ../crawl/elearners.com/Privacy Policy.txt
 	modified:   ../crawl/fandango.com/Privacy Policy.txt
-	modified:   ../crawl/fidelity.com/Privacy Policy.txt
+	modified:   ../crawl/fedex.com/Privacy Policy.txt
+	modified:   ../crawl/fitbit.com/Privacy Policy.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
-	modified:   ../crawl/imvu.com/Privacy Policy.txt
+	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
+	modified:   ../crawl/home.mywebsearch.com/Privacy Policy.txt
+	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
+	modified:   ../crawl/iegallery.com/Privacy Policy.txt
 	modified:   ../crawl/indeed.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
-	modified:   ../crawl/jobgo.com/Privacy Policy.txt
 	modified:   ../crawl/landsend.com/Privacy Policy.txt
-	modified:   ../crawl/lexus.com/Privacy Policy.txt
-	modified:   ../crawl/linkedin.com/LinkedIn in Microsoft Applications with Your Personal Account.txt
+	modified:   ../crawl/microsoft.com/Microsoft Services Agreement.txt
+	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
-	modified:   ../crawl/noaa.gov/Privacy Policy.txt
 	modified:   ../crawl/npr.org/Privacy Policy.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
 	modified:   ../crawl/okcupid.com/Privacy Policy.txt
@@ -45,7 +43,6 @@ Changes not staged for commit:
 	modified:   ../crawl/spiegel.de/Privacy Policy.txt
 	modified:   ../crawl/stumbleupon.com/Privacy Policy.txt
 	modified:   ../crawl/subaru.com/Privacy Policy.txt
-	modified:   ../crawl/superpages.com/Privacy Policy.txt
 	modified:   ../crawl/timewarnercable.com/Terms of Service.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
 	modified:   ../crawl/ubuntu.com/Terms of Service.txt
@@ -55,9 +52,12 @@ Changes not staged for commit:
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl/yellowpages.com/Privacy Policy.txt
+	modified:   ../crawl/zillow.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/discordapp.com/Terms.txt
+	modified:   ../crawl_reviewed/live.com/Microsoft Services Agreement.txt
 	modified:   ../crawl_reviewed/live.com/Privacy Policy.txt
-	modified:   ../crawl_reviewed/youtube.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/msn.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/skype.com/Terms of Use.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
