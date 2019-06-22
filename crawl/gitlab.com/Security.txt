@@ -46,7 +46,8 @@ or</p>
 </ul>Security of GitLab by Being an Open-Source Product <p>GitLab CE is open source and has over 2,000 contributors.
 This means there have been over 2,000 pairs of eyes looking at the GitLab CE source code.
 GitLab EE is open-core, which means the source code is also open for inspection to our customers.</p> GitLab's Access to Your Private Repositories <p>GitLab Support will never access private repositories unless required for support reasons and only when requested by the owner of the repository via a support ticket.
-When working a support issue we strive to respect your privacy as much as possible and we will only access the files and settings needed to resolve your issue.
+When working a support issue we strive to respect your privacy as much as possible.
+Once we've verified account ownership, we will only access the files and settings needed to resolve your issue.
 Support may sign into your account to access configurations but we will limit the scope of our review to the minimal required to solve your issue.
 In the event we need to pull a clone of your code, we will only do so with your consent.
 All cloned repositories are deleted as soon as the support issue has been resolved.
