@@ -139,7 +139,7 @@ Changes To Our Cookie Policy</strong>
 Any changes will become effective on the “Last Updated” date indicated above.
 By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy.
 If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.</p>
-<p> </p> Privacy Policy <p>Last Updated: May 22, 2019</p>
+<p> </p> Privacy Policy <p>Last Updated: June 25, 2019</p>
 <b>1.
 Introduction</b>
 <p>Indeed values the trust our users and customers place in us when they give us access to their personal data.
@@ -260,7 +260,10 @@ For example, Indeed may identify that you have not responded to an email from a 
 Indeed collects your email address and notes or information about a candidate or candidate statuses that you save or update.
 Indeed may use this information to add labels to candidates in your inbox, which you may remove, if you so wish.
 Embox may detect if you receive an email through Indeed’s email relay service and automatically launch the extension or add-on.
-If you opt in to sync candidates between Embox and your Indeed Employer dashboard, all candidates and their statuses in your Indeed Employer dashboard will also appear in Embox.
+Indeed may also use information obtained from Gmail to provide and improve the Embox product offering and to communicate with you about Embox.
+This information will not be used to market other Indeed products and services to you.
+</p>
+<p>If you opt in to sync candidates between Embox and your Indeed Employer dashboard, all candidates and their statuses in your Indeed Employer dashboard will also appear in Embox.
 Candidates in Embox will not be added to your Indeed Employer dashboard as part of the syncing.
 Candidate status updates in Embox will be reflected in your Indeed Employer dashboard.
 For any syncing to occur, you must sign in to your Indeed Employer account from Embox.
@@ -413,7 +416,7 @@ In particular, you agree that Indeed may, as part of its services to you, commun
 Indeed reserves the right to charge third parties a fee for accessing your information, including Personal Data, as part of Indeed’s services.
 At your direction, Indeed may also send your resume to third parties if you choose to apply for a job listing.
 The extent to which your information is made available to third parties depends on the privacy settings you choose on Indeed, in accordance with this Privacy Policy.
-When a Job Seeker creates a resume on Indeed, they are given the option to make their resume public or private.
+When a Job Seeker creates a profile on Indeed, their resume is set to public by default, and the Job Seeker may change their resume privacy settings at any time.
 This is detailed below.</p>
 <p>
 <b>
@@ -430,6 +433,7 @@ Those third parties may be interested in you as an employee, and may forward you
 </b>
 </p>
 <p>Public resumes are available to anyone with access to Indeed’s resume search application and may be accessed by other Indeed users, in order to increase the visibility of that resume and help Indeed find you a job.
+ A public resume is also available to anyone accessing the associated URL.
 Where this occurs, you make your resume, your name and other Personal Data that you place on your resume available to third parties.
 Those third parties may be interested in you as an employee, and may forward your resume to other third parties.
 </p>
@@ -447,7 +451,7 @@ Resumes set to public will become searchable upon the launch of Resume Search in
 <i>– Changing Your Resume Privacy Settings</i>
 </b>
 </p>
-<p>You will be given the option to make your resume private or public when you place your resume on Indeed.
+<p>When you place your resume on Indeed, it will be public by default.
 You may adjust this at any point by editing your privacy settings on Indeed.
 Where you adjust your resume from public to private, Indeed does not warrant how often third-party search engines will update their caches, which may continue to contain your resume information.
 Additionally, Employers who have saved your resume while it was public may continue to have access to your resume even after you have adjusted it to private.</p>
@@ -456,7 +460,9 @@ Additionally, Employers who have saved your resume while it was public may conti
 </p>
 <p>You acknowledge that Indeed may determine whether the words of your resume or any other individuals’ resume match the words of certain job descriptions, and vice versa, in order to improve the Site or any other Indeed product or service (including by displaying or otherwise making available potentially relevant job descriptions and resumes to Job Seekers and Employers).</p>
 <p>Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Data, to Employers that may be interested in contacting you.
-By applying to a job, answering screener questions, providing your contact information to show interest in a job, or by replying to a message from an Employer, you agree to the disclosure of your information to that Employer. Indeed may also provide the results of any Indeed Assessments you complete to Employers, where you agree to such provision at the time of taking such as assessment. Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.</p>
+By applying to a job, answering screener questions, providing your contact information to show interest in a job, or by replying to a message from an Employer, you agree to the disclosure of your information to that Employer.
+Indeed may also provide the results of any Indeed Assessments you complete to Employers, where you agree to such provision at the time of taking such an assessment.
+Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.</p>
 <p>If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed may contact you or suggest you or your public resume to Employers that might be interested in a person who matches your behavior on Indeed.</p>
 <p>
 <b>In addition, if you are located in the United States and you set your Resume to public, this means that Indeed may share all of the aforementioned information about yourself with recruiters working for or on behalf of Employers.
@@ -469,7 +475,7 @@ If you do not wish to share such information, you may set your Resume to private
 By utilizing any Relay Service, you acknowledge that you are asking Indeed to send these messages on your behalf.
 This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials.</p>
 <p>We process, monitor, review, store and analyze such content, including via automated means, for data analysis, quality control, enforcement of the Site Rules and other Indeed policies, content moderation, and to improve the Site or any other Indeed product or service.
-Examples of such improvements would be optimizing our search results, improving Job Listings, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam.
+Examples of such improvements would be improving the open rate of messages by optimizing their delivery, optimizing our search results, improving Job Listings, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam.
 As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient.
 Indeed may (but is not obligated to) notify you in such an event.
 By using a Relay Service or otherwise providing User Content through the Site, you agree to this activity and acknowledge that this activity is necessary for maintaining the quality of the Site and for providing the Relay Service.</p>
@@ -816,7 +822,7 @@ In particular:</p>
 <li>If you access or use Indeed Targeted Ads, you are agreeing to be bound by the Indeed Targeted Ads Terms</li>
 <li>If you access or use the Indeed Publisher Program, you are agreeing to be bound by the Indeed Publisher Program Terms</li>
 <li>For all other uses of the Site, you are agreeing to be bound by the Indeed General Terms of Service</li>
-</ul> Indeed General Terms of Service <p>Last Updated: May 22, 2019</p>
+</ul> Indeed General Terms of Service <p>Last Updated: June 21, 2019</p>
 <p>
 <strong>A.
 </strong>The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.</p>
@@ -869,9 +875,10 @@ Indeed may use your application materials (including public resumes and response
 Job Seekers are solely responsible for verifying the accuracy of any Employer or job offer.</strong>
 </p>
 <p>
-<strong>1(b) </strong>If you are an Employer, when you create an Indeed account, a Career Page or post a Job Listing on the Site, whether as part of the Indeed Ads Program or otherwise, you agree that this Agreement and all of Indeed’s policies, including the Indeed Privacy Policy and Cookie Policy, apply to you and to the Job Seekers using such Career Page or indicating an interest in such Job Listings.
- Specifically, when you create an Indeed account, Indeed may require that you verify your identity through a third party service called NetVerify. By using NetVerify, you are submitting your identification documents for verification directly to NetVerify, you are agreeing to share your identification with NetVerify, and you agree that NetVerify is solely responsible for any use or loss of data.
-Indeed may have access to your identification documents via NetVerify. You also agree that, as a service to Job Seekers, Indeed may activate its Indeed Apply relay function for use in connection with such Job Listing, and that any Job Seekers who wish to indicate an interest in such Job Listing may only do so through Indeed Apply, and that Indeed will send applications to the email address you provide us with.
+<strong>1(b) </strong>If you are an Employer, when you create an Indeed account, a Career Page or post a Job Listing on the Site, whether as part of the Indeed Ads Program or otherwise, you agree that this Agreement and all of Indeed’s policies, including the Indeed Privacy Policy and Cookie Policy, apply to you and to the Job Seekers using such Career Page or indicating an interest in such Job Listings.
+ Specifically, when you create an Indeed account, Indeed may require that you verify your identity through a third party service called Mitek.
+By using Mitek, you are submitting your identification documents for verification directly to Mitek, you are agreeing to share your identification with Mitek, and you agree that Mitek is solely responsible for any use or loss of data.
+Indeed may have access to your identification documents via Mitek. You also agree that, as a service to Job Seekers, Indeed may activate its Indeed Apply relay function for use in connection with such Job Listing, and that any Job Seekers who wish to indicate an interest in such Job Listing may only do so through Indeed Apply, and that Indeed will send applications to the email address you provide us with.
 When you use Indeed candidate management tools, including but not limited to your Employer Dashboard, or by activating the Indeed Apply relay function for your Job Advertisements, you acknowledge and agree that Indeed may make available certain functions allowing you to take actions regarding the Job Seeker, such as tools for setting up an interview, viewing a resume and rejecting a candidate.
 You agree that by using such candidate management tools, you are instructing Indeed to assemble the candidate’s application materials, resume, answers to screener questions, assessment responses and other information you provide to Indeed into one document.
 When you use the Indeed Apply relay function for your Job Advertisements, you acknowledge and agree that Indeed may add certain functions into the email.
@@ -1467,7 +1474,7 @@ However, Job Ads indexed by Indeed will expire after a certain period of time an
 Indeed may require sponsorship for the display of any Job Ad at any time for any reason.
 Indeed may recommend or suggest a budget for any Job Ad to maintain its visibility.
 The suggestion is made without warranty and is not a guarantee regarding placement or visibility of any Job Ad.
-If you are an Indeed agency partner, you may be eligible to participate in an Indeed partnership program.
+If you are located in Japan, you acknowledge that Indeed’s content moderation policies may, in certain instances, result in the modification of your Job Ad, and you agree to this activity. If you are an Indeed agency partner, you may be eligible to participate in an Indeed partnership program.
 Agency partners in this program may attain the rank of “Gold”, “Silver”, or “Bronze” based on their Indeed usage and engagement, measured by revenue.
 Indeed’s determination of an agency’s rank is made at Indeed’s full discretion and may be revoked at any time.
 Indeed may offer certain Employers who sponsor Job Ads the opportunity to be displayed more prominently on the Site (“Featured Employer”).
@@ -1503,9 +1510,9 @@ For examples of why Indeed may stop accepting such Job Ads from job boards, refe
 As a job board, <i>you may only post Job Ads on the Site for your own company.
 you may not post Job Ads on the Site for your client</i>
 <i>s and if you do or attempt to do so, Indeed reserves the right to disable your account.
-</i>You acknowledge that inclusion of jobs in violation of these guidelines on the Indeed Site may harm Indeed and its users. </i>When you create an Indeed account, Indeed may require that you verify your identity through a third party service called NetVerify.
-By using NetVerify, you are submitting your identification documents for verification directly to NetVerify, you are agreeing to share your identification with NetVerify, and you agree that NetVerify is solely responsible for any use or loss of data.
-Indeed may have access to your identification documents via NetVerify.</p>
+</i>You acknowledge that inclusion of jobs in violation of these guidelines on the Indeed Site may harm Indeed and its users. </i>When you create an Indeed account, Indeed may require that you verify your identity through a third party service called Mitek.
+By using Mitek, you are submitting your identification documents for verification directly to Mitek you are agreeing to share your identification with Mitek, and you agree that Mitek is solely responsible for any use or loss of data.
+Indeed may have access to your identification documents via Mitek.</p>
 <p>
 <strong>4.
 Disclaimer and Limitation of Liability</strong>
@@ -1661,7 +1668,7 @@ Indeed and you are not legal partners or agents, but are independent contractors
 <p>These IPP Terms and any dispute arising out of or in connection with these IPP Terms or related in any way to the Site (“Dispute”) will be governed as to all matters, including, but not limited to the validity, construction and performance of these IPP Terms, by and under the laws of the State of Texas, United States of America, without giving effect to conflicts of law principles thereof.
 Any and all actions, lawsuits, or other legal proceedings related to such Dispute shall be filed only in the federal or state courts located in Travis County, Texas, U.S.A.
 Each of the Parties hereby consent to the exclusive personal jurisdiction of the federal or state courts located in Travis County, Texas, U.S.A.</p> E.
-Indeed Assessments Terms <p>Last Updated: November 29, 2018</p>
+Indeed Assessments Terms <p>Last Updated: June 21, 2019</p>
 <p>These Indeed Assessments Terms (“IA Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”).
 By using Indeed Assessments in any way, or by registering as a Candidate or an Employer on Indeed Assessments, you agree to these Indeed Assessments Terms and the Indeed Terms of Service.
 Any capitalized terms that are used but not defined in these IA Terms have the meaning set forth in the Agreement.
@@ -1679,9 +1686,11 @@ Assessments</strong>
 <p>In order to use Indeed Assessments as a Candidate you must create an Indeed Assessments account or log in using your preexisting Indeed Assessments account.
 Account information you submit through the Site is subject to the Indeed Terms of Service and to Indeed’s Privacy Policy.
 Employers may use the Indeed Assessments tool to send you Assessments, to which you may provide Responses.
+Indeed may also offer you the option to select an Assessment to complete independent of a particular job, and your Response will be associated with your Indeed profile.
+You may choose whether the Response is available to Employers viewing your Indeed profile, though Indeed will count the Response for purposes of generating aggregate Response statistics even if Your Response is hidden.
 An Assessment only evaluates a particular skill.
 It does not evaluate a Candidate’s qualification for any job.
-Whether a particular skill is relevant to a job, or whether a Candidate is qualified or appropriate for a job, is decided solely by the Employer sending the Assessment.</p>
+Whether a particular skill is relevant to a job, or whether a Candidate is qualified or appropriate for a job, is decided solely by the Employer sending the Assessment and reviewing your Response.</p>
 <p>You acknowledge and understand that Indeed does not choose the Assessments sent by Employers and has no control over Employers’ selection or use of Assessments.
 You agree that the questions in any Assessment are solely being asked by the Employer sending the Assessment and are not being asked by Indeed.
 <b>You further agree that Indeed is not responsible for offering alternative methods of screening, if so required by the Americans with Disabilities Act or any other equivalent state act, and that the responsibility for offering any such alternative method lies solely with Employers.</b>
@@ -1709,18 +1718,20 @@ Responses</strong>
 </p>
 <p>A Candidate may, but is not required to, provide a Response to an Assessment sent by an Employer.
 After a Candidate has provided a Response, the Employer will be able to use the Indeed Assessments platform to review the Response.
+A candidate may also have the option to select an Assessment and associate the Response with their Indeed profile, which will be visible to Employers in accordance with our Terms.
 If there are multiple versions of the same Assessment, the Response percentile for any Candidate will be determined only in relation to other Responses to the same version of that Assessment.</p>
 <p>As a Candidate, you consent to your Responses, applications, and any other communications sent through Indeed Assessments being processed and analyzed by Indeed according to this Agreement and Indeed’s Privacy Policy.
 </p>
-<p>As a Candidate, you are requesting and authorizing Indeed to make your Response available to the Employer providing the Assessment.
+<p>As a Candidate, you are requesting and authorizing Indeed to make your Response available to the Employer providing the Assessment, or (in the case of Assessments selected by You) to any Employer viewing Your Indeed profile.
 You understand that this is without warranty, and that Indeed reserves the right to display or reformat Responses in a manner to permit Employers to review your Response together with Responses from other Candidates.
+Indeed may aggregate the results of all Candidate-selected Assessments for the purpose of displaying the percentile for Your Response.
 You also acknowledge that once you have requested that Indeed transmit your Response to an Employer, that request cannot be canceled.
 Indeed does not guarantee that any Employer will receive, access, read or respond to any Response, or that there will be no mistakes in the transmission of the data.
 However, Indeed may alert you when any of the above events occur.
 </p>
-<p>The Employer sending the Assessment is the sole party to determine whether a Response indicates a qualified candidate.
+<p>An Employer is the sole party to determine whether a Response indicates a qualified candidate.
 Employers may have instructed Indeed to send out rejection notices if you have have not responded to Assessments in a manner acceptable to the Employer, and you acknowledge that Indeed has no discretion in the transmission of these rejections.
-The Employer is the sole party to determine whether to give you the opportunity to retake any Assessment or update or modify your Response.</p>
+The Employer is the sole party to determine whether to give you the opportunity to retake any Assessment sent by that Employer or update or modify your Response.</p>
 <p>
 <strong>4.
 Rules For Using Indeed Assessments</strong>
@@ -2012,7 +2023,7 @@ Termination</b>
 <p>We may suspend Indeed Prime, your account or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice.
 If you wish to terminate this Agreement, you may do so by notifying Indeed Prime at any time and closing your account.
 All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, success fee provisions, warranty disclaimers, indemnity and limitations of liability.</p> G.
-Indeed Targeted Ads Terms <p>Last Updated: March 22, 2019</p>
+Indeed Targeted Ads Terms <p>Last Updated: June 21, 2019</p>
 <p>These Indeed Targeted Ads Terms (“ITA Terms”) form a part of, and are incorporated into, the Indeed Terms of Service (the “Agreement”), and apply to any Employer who accesses or uses the Indeed Targeted Ads program, or who otherwise indicates its acceptance of these ITA Terms.
  These ITA Terms apply to both of Indeed’s Targeted Ads Services: 1) Indeed Targeted Ads: Brand (“ITA Brand”) and 2) Indeed Targeted Ads: Apply (“ITA Apply”).</p>
 <p>Any capitalized terms that are used but not defined in these ITA Terms have the meaning set forth in the Agreement.</p>
@@ -2023,10 +2034,12 @@ Indeed Targeted Ads Terms <p>Last Updated: March 22, 2019</p>
 <p>Use of Indeed Targeted Ads (“ITA”) on or through the Site is subject to all applicable Indeed terms and policies, including without limitation the Indeed Privacy Policy (http://www.indeed.com/legal#privacy) and those instructions provided on the Site, and, if you are using ITA, through our online forms.
 Indeed policies may be modified at any time.
 With regards to any job advertisements posted on Indeed through ITA, (“Targeted Ads”), you agree that you are solely responsible for all: (a) ad or job content and target URLs (“Creative”), whether generated by or for you.
+including but not limited to photograph(s) you provide to Indeed.
 and (b) websites proximately reachable from Creative URLs and your services and products (collectively “Your Services”).
 You shall protect your passwords and take full responsibility for your own, and third party, use of your accounts.
 Targeted Ads may be placed on any content or property provided by Indeed (“Indeed Property”).
-By posting a Targeted Ad on Indeed, you authorize Indeed to reformat the Job Ad to be effectively displayed on a mobile device. Target audience membership is based partly on information and criteria provided by the Employer, but the composition of each target audience is determined by Indeed in its sole discretion.</p>
+By posting a Targeted Ad on Indeed, you authorize Indeed to reformat the Job Ad to be effectively displayed on a mobile device.
+Target audience membership is based partly on information and criteria provided by the Employer, but the composition of each target audience is determined by Indeed in its sole discretion.</p>
 <p>
 <b>ITA Apply</b>: In order to participate in ITA Apply, you must either use Indeed Apply to receive applications or add Indeed’s conversion tracker snippet to your post-apply page (the “Post-Apply Page”).
 The Post-Apply Page on which you add Indeed’s conversion tracker snippet shall be determined by mutual agreement between you and Indeed.
@@ -2245,5 +2258,5 @@ Your testing must not violate any law, or disrupt or compromise any data that is
 Cookies, Privacy and Terms | © 2019 Indeed &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&amp;ev=PageView&amp;noscript=1"
 /&gt.
-&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1de6ivnmphniq800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
+&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1de95hprtnr0v800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
 By using Indeed you agree to our new Privacy Policy, Cookie Policy and Terms, which we encourage you to review.Dismiss
