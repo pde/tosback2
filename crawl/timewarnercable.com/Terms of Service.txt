@@ -1,5 +1,5 @@
 
-d5cdc8f3-0d48-4204-bc86-4b82d5296a89 <ul>
+380ad750-a241-45b6-95b8-ab951a7cba3c <ul>
 <li>
 <p>
 </p>
@@ -28,9 +28,31 @@ d5cdc8f3-0d48-4204-bc86-4b82d5296a89 <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="b6df669d-0e01-438d-86d6-498b8a27fdf8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="b6df669d\u002D0e01\u002D438d\u002D86d6\u002D498b8a27fdf8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="47610716-f566-4e29-8c69-ded21372dfe4" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="47610716\u002Df566\u002D4e29\u002D8c69\u002Dded21372dfe4"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul>
@@ -49,9 +71,31 @@ d5cdc8f3-0d48-4204-bc86-4b82d5296a89 <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="d2d6d94f-ef39-4c08-8e20-42eaa9b63570" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d2d6d94f\u002Def39\u002D4c08\u002D8e20\u002D42eaa9b63570"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="31c3e310-777b-4386-827b-ff8379867b10" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="31c3e310\u002D777b\u002D4386\u002D827b\u002Dff8379867b10"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -72,9 +116,31 @@ Offers * Street Address Enter your street address Apartment * Zip Code Enter you
 <li> Spectrum Internet </li>
 <li> Spectrum TV </li>
 <li> Spectrum Voice </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="23eb436d-0723-4df7-a43f-246e3e466896" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="23eb436d\u002D0723\u002D4df7\u002Da43f\u002D246e3e466896"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="8eb6ec4f-ae75-48eb-88c3-cbfc66b392dd" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="8eb6ec4f\u002Dae75\u002D48eb\u002D88c3\u002Dcbfc66b392dd"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
