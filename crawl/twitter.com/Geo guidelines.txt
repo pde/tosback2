@@ -46,7 +46,7 @@
 </ul>
 <ul>
 <li> Apply </li>
-</ul> Sign In <p>Developer terms</p> Geo guidelines <p>Last Update: October 22, 2014.</p> Introduction <p>Tweeting With Location is the geotagging feature in the Twitter API.
+</ul> Sign in <p>Developer terms</p> Geo guidelines <p>Last Update: October 22, 2014.</p> Introduction <p>Tweeting With Location is the geotagging feature in the Twitter API.
 This feature helps to provide a more meaningful experience for users by making Tweets more contextual.
 For instance, “Fireworks!” is much more relevant when associated with a location: “Fireworks!” from the SoMa Neighborhood in San Francisco, California.
 We look forward to working with the developer ecosystem to create great experiences around this functionality!</p> User Privacy And User Control Of Their Location Information <p>To ensure a good and safe experience, developers should be sensitive to user privacy when dealing with their location as well as provide baseline consistency in the “Tweeting with Location” experience.
