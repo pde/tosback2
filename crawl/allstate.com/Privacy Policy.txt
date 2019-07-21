@@ -146,14 +146,20 @@ Vehicle</li>
 <ul>
 <li>
 </li>
-<li>Get a quote <p>Get a quote in </p>
-<p>Select which products you'd like to bundle:</p> Auto Home Renters Life <p>Or choose from other popular products</p> Select a productCondoMotorcycleBoatATVBusiness<ul>
+<li> Get a quote <p>Get a quote in </p> AutoHomeRentersLifeCondoMotorcycleBoatATVBusiness<ul>
+<li>Home</li>
+<li>Renters</li>
+<li>Life</li>
 <li>Condo</li>
 <li>Motorcycle</li>
 <li>Boat</li>
 <li>ATV</li>
 <li>Business</li>
-</ul>Select a product Get a quote Retrieve a saved quote </li>
+</ul>Auto + Add another product to saveHomeRentersLife<ul>
+<li>Home</li>
+<li>Renters</li>
+<li>Life</li>
+</ul>+ Add another product to save Get a quote Retrieve a saved quote </li>
 <li> Insurance &amp.
 More <ul>
 <li>Roadside</li>

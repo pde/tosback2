@@ -8,7 +8,9 @@ This report provides information on government requests received.</p> Government
 <li> Device <p>Device requests are based on device identifiers such as Apple serial number, IMEI or MEID.</p>
 <p>Device requests generally seek information regarding customers associated with devices and device connections to Apple services - for example, law enforcement investigations on behalf of customers regarding lost or stolen devices.</p>
 <p>Additionally, Apple regularly receives multi-device requests related to fraud investigations.</p>
-<p>View Device Requests</p> Device Requests by Year - Worldwide <ul>
+<p>View Device Requests</p> Device Requests by Year - Worldwide 70k60k50k40k30k20k10k0k79%201878%201767%201659%201560%201473%2013 <ul>
+<li> Requests Received</li>
+<li> Requests where Data Provided</li>
 </ul>
 </li>
 <li> Financial Identifier <p>Financial Identifier requests are based on financial identifiers such as credit/debit card or iTunes Gift Card.</p>
@@ -20,7 +22,9 @@ This report provides information on government requests received.</p> Government
 Account requests generally seek information regarding customers’ Apple ID accounts, such as account holder name and address and account connections to Apple services - for example, law enforcement investigations where an account may have been used unlawfully.
 Account requests may also seek customers’ content data, such as photos, email, iOS device backups, contacts or calendars.<br>
 </p>
-<p>View Account Requests</p> Account Requests by Year - Worldwide <ul>
+<p>View Account Requests</p> Account Requests by Year - Worldwide 10k9k8k7k6k5k4k3k2k1k0k82%201881%201775%201667%201560%201454%2013 <ul>
+<li> Requests Received</li>
+<li> Requests where Data Provided</li>
 </ul>
 </li>
 <li> Account Preservation <p>Account Preservation requests are based on account identifiers such as an Apple ID or email address.   </p>
@@ -34,9 +38,7 @@ Account requests may also seek customers’ content data, such as photos, email,
 <p>View Account Restriction/Deletion Requests</p> Account Restriction/Deletion Requests - Worldwide Report Period Requests Received Requests where Account Restricted Requests where Account Deleted 2018 H2 15 2 2 2018 H1 5 3 2 2017 H2 7 7 0 2017 H1 14 14 0 2016 H2 14 1 5 2016 H1 3 - 3 2015 H2 3 - 3 2015 H1 1 - 0 2014 H2 2 - 0 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable </li>
 <li> Emergency <p>Emergency requests relate to circumstances involving imminent danger of death or serious physical injury to any person, and generally seek information regarding customers’ connections to Apple services - for example, instances where law enforcement believe a person is missing and in danger.  </p>
 <p>Apple began reporting on Emergency requests as a separate category in Transparency Report Period January 1 - June 30, 2015.  Prior to this, emergency requests were reported in applicable Account and/or Device request categories.</p>
-<p>View Emergency Requests</p> Emergency Requests by Year - Worldwide 1000900800700600500400300200100088%201882%2017N/A2016N/A2015N/A2014N/A2013 <ul>
-<li> Requests Received</li>
-<li> Requests where Data Provided</li>
+<p>View Emergency Requests</p> Emergency Requests by Year - Worldwide <ul>
 </ul>
 </li>
 <li> United States National Security <p>U.S.
