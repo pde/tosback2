@@ -28,31 +28,9 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="de5e38f0-153a-4201-94f7-098fd386c1ac" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="de5e38f0\u002D153a\u002D4201\u002D94f7\u002D098fd386c1ac"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="78e3600a-3af1-4b5f-b541-37871363bc6b" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="78e3600a\u002D3af1\u002D4b5f\u002Db541\u002D37871363bc6b"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
 <li> Business </li>
 </ul>
@@ -71,31 +49,9 @@ jQuery(document).ready(function () { jQuery('.linkComponent [data-id="78e3600a\u
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="81764128-cf8c-4902-8823-94f8229154aa" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="81764128\u002Dcf8c\u002D4902\u002D8823\u002D94f8229154aa"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="226a49cc-d8cf-4100-ae1f-4b82ff04ba05" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
-&lt;span class="linkLabel "&gt.
-Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="226a49cc\u002Dd8cf\u002D4100\u002Dae1f\u002D4b82ff04ba05"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -116,31 +72,9 @@ Offers * Street Address Enter your street address Apartment * Zip Code Enter you
 <li> Spectrum Internet </li>
 <li> Spectrum TV </li>
 <li> Spectrum Voice </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="9ba70138-2a1a-4a0e-9f09-b2733d9d4b09" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Mi Plan Latino &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="9ba70138\u002D2a1a\u002D4a0e\u002D9f09\u002Db2733d9d4b09"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
-<li> &lt;div class="default linkComponent"&gt.
-&lt;div data-id="78f53dc4-4e1f-40db-b2fb-a76798f8ddd4" class="text-left spectrum-icon-before "&gt.
-&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
-&lt;span class="linkLabel "&gt.
-Spectrum Mobile &lt;/span&gt.
-&lt;/a&gt.
-&lt;/div&gt.
-&lt;script&gt.
-jQuery(document).ready(function () { jQuery('.linkComponent [data-id="78f53dc4\u002D4e1f\u002D40db\u002Db2fb\u002Da76798f8ddd4"]').linkComponent().
-}).
-&lt;/script&gt.
-&lt;/div&gt.
+<li>
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
