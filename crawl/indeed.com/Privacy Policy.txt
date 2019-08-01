@@ -140,7 +140,7 @@ Changes To Our Cookie Policy</strong>
 Any changes will become effective on the “Last Updated” date indicated above.
 By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy.
 If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.</p>
-<p> </p> Privacy Policy <p>Last Updated: July 28, 2019</p>
+<p> </p> Privacy Policy <p>Last Updated: July 31, 2019</p>
 <b>1.
 Introduction</b>
 <p>Indeed values the trust our users and customers place in us when they give us access to their personal data.
@@ -259,17 +259,17 @@ For those users that avail of Indeed Family specifically, Facebook may ask for p
 </b>
 </p>
 <p>Indeed Embox is a browser extension or add-on developed by Indeed that can be downloaded from the Google Chrome Web Store or G Suite Marketplace.
-Indeed Embox serves as a free extension or add-on in Gmail that allows you to manage your candidates by updating their application status and utilizing templates to respond to applications.</p>
+Indeed Embox serves as a free extension or add-on in Gmail that allows you to manage your candidates by updating their application statuses and utilizing templates to respond to applications.</p>
+<p>To use Indeed Embox after installing it on a particular device, you must first sign in to your Indeed Employer account within the browser extension or add-on (some older versions of Indeed Embox did not require users to sign in to their Indeed Employer accounts to use the extension or add on).
+Once you sign in to your Indeed Employer account, Embox will sync automatically with your Indeed Employer Dashboard, and all candidates, plus their profiles and statuses, in your Indeed Employer dashboard will also appear in Indeed Embox.
+Only candidates’ status changes sync from Indeed Embox to your Indeed Employer Dashboard.  Notes made in, messages and attachments sent through, and any candidates added only to Indeed Embox will not sync to your Indeed Employer Dashboard.
+ This syncing is device specific.  To stop syncing with Indeed Embox installed on any device, you must log out of your Indeed Employer account at Indeed.com on that device.  Stopping syncing on one device will not stop syncing enabled on another device.  </p>
 <p>If you use Indeed Embox, Indeed may collect your email address and information that you save or update in Embox while you use the extension or add-on, including your notes and information about a candidate or candidate’s statuses that you save or update.  Indeed may use this information to provide and improve the Embox product offering and to communicate with you about Embox.</p>
-<p>Some versions of Embox will prompt you to sign in to your Gmail account, in Embox, in order to use the extension or add-on.  When you sign in to Gmail in Embox, Indeed may also collect information about your activity in Gmail as it relates to Indeed Embox or to help improve Indeed Embox offerings.
+<p>Some versions of Embox will prompt you to sign in to your Gmail account, in Embox, in order to use the extension or add-on.  If you sign in to Gmail in Embox, Indeed may also collect information about your activity in Gmail as it relates to Indeed Embox or to help improve Indeed Embox offerings.
 For example, Indeed may identify that you have not responded to an email from a candidate and send you a notification reminder.
-Indeed may also use this information to add labels to candidates in your inbox (which you may remove, if you so wish), to detect if you receive an email through Indeed’s email relay service, and to automatically launch the extension or add-on.
+Indeed may use this information to add labels to candidates in your inbox (which you may remove, if you so wish), to detect if you receive an email through Indeed’s email relay service, and to automatically launch the extension or add-on.
 Indeed may also use information obtained from Gmail to provide and improve the Embox product offering and to communicate with you about Embox.
 This information will not be used to market other Indeed products and services to you.</p>
-<p>If you opt in to sync candidates between Embox and your Indeed Employer dashboard, all candidates, and their profiles and statuses, in your Indeed Employer dashboard will also appear in Embox.
-Candidate status updates made in Embox also will be reflected in your Indeed Employer dashboard.
-Candidates you identify in Embox will not be added to your Indeed Employer dashboard as part of the syncing.
- Syncing is device specific.  To stop syncing with a specific device, you must log out of your Indeed Employer account on that device.  Stopping the syncing process on one device will not stop syncing enabled on another device.</p>
 <p>
 <b>2.3 Any Other Personal Data Indeed May Receive from Third Parties</b>
 </p>
@@ -435,7 +435,7 @@ Those third parties may be interested in you as an employee, and may forward you
 </b>
 </p>
 <p>Public resumes are available to anyone with access to Indeed’s resume search application and may be accessed by other Indeed users, in order to increase the visibility of that resume and help Indeed find you a job.
- A public resume is also available to anyone accessing the associated URL.
+ A public resume is also available to anyone accessing the associated URL, and to Employers whose Company Page you are following.
 Where this occurs, you make your resume, your name and other Personal Data that you place on your resume available to third parties.
 Those third parties may be interested in you as an employee, and may forward your resume to other third parties.
 </p>
@@ -825,7 +825,7 @@ In particular:</p>
 <li>If you access or use Indeed Targeted Ads, you are agreeing to be bound by the Indeed Targeted Ads Terms</li>
 <li>If you access or use the Indeed Publisher Program, you are agreeing to be bound by the Indeed Publisher Program Terms</li>
 <li>For all other uses of the Site, you are agreeing to be bound by the Indeed General Terms of Service</li>
-</ul> Indeed General Terms of Service <p>Last Updated: July 15, 2019</p>
+</ul> Indeed General Terms of Service <p>Last Updated: July 31, 2019</p>
 <p>
 <strong>A.
 </strong>The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.</p>
@@ -1011,6 +1011,12 @@ Your use of the e-signature option is at your own risk.
 Regardless of whether you are an Employer or Job Seeker, it is your responsibility to follow-up with the Employer or Job Seeker to ensure that they received your communication, including the offer letter.
 Indeed is not your record keeper, to the extent the law requires you to retain a copy of the offer letter, it is your responsibility to retain such copy.</p>
 <p>
+<strong>1(q)</strong> Indeed may offer a service called Indeed Franchise to facilitate the coordination of Job Ads within geographically distributed businesses, such as franchises or large companies with many locations.
+You acknowledge and agree that using Indeed Franchise involves sharing a franchisee’s account information with the franchisor, or sharing a local office’s account information with the corporate headquarters, as applicable.
+This information may include items such as the number of your business locations or accounts, information about your job ads (content, clicks, impressions, etc.), your contact information, and your spend levels.
+The franchisor or corporate headquarters may request that Indeed contact its franchisees or local offices, respectively, by providing Indeed with contact information, and may provide the content of Job Ads to Indeed for use in connection with Indeed Franchise.
+By using Indeed Franchise, you agree to this information being shared, and you represent and warrant that i) all information you provide to Indeed is accurate, and ii) you have all necessary right and authorization to provide such information to Indeed and to permit Indeed to share it in connection with Indeed Franchise.</p>
+<p>
 <strong>2.
 External Sites</strong>
 </p>
@@ -1024,6 +1030,9 @@ We may stop offering any such third party sites or services at any time.
 We are additionally not responsible for any payment that may be asked of you by such third party.
 You will be notified on the site that these are third party sites and services, and not Indeed.</strong>
 </p>
+<p>Certain pages on the Site may embed content and information provided by third-party APIs, which is subject to additional terms and conditions imposed by those third parties.
+For example, the Site may include Google Maps features and content, which is subject to the current versions of: (1) the Google Maps/Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html.
+and (2) the Google Privacy Policy at https://www.google.com/policies/privacy/.</p>
 <p>
 <strong>3.
 Use of Site</strong>
@@ -1264,6 +1273,7 @@ Travis County, Texas, U.S.A., if you are located in the United States.
 The Republic of Singapore, if you are located in the Asia-Pacific Region*.
 London, England, if you are supported primarily by Indeed’s UK office; Paris, France, if you are supported primarily by Indeed’s office in France; or Dublin, Ireland, if you are located elsewhere.</p>
 <p>If you are neither a Job Seeker or Employer as defined in this Agreement and are not using the Site as intended by Indeed, this Agreement will be governed as to all matters, including, but not limited to the validity, construction and performance of this Agreement, by and under the laws of Travis County, Texas, U.S.A.</p>
+<p>As an Employer, you agree that if you assert any claims against Indeed as a third-party counterclaim defendant in any action that could have been removed to federal court but was not so removed, then you will pay Indeed’s litigation expenses and costs, including reasonable attorney’s fees, arising from the action.</p>
 <p>You agree to waive your right to file a pre-suit discovery proceeding seeking a user’s identifying information from Indeed.
 If you intend to propound discovery seeking user information from Indeed Inc., you agree to do so pursuant to a valid federal, Texas or Texas domesticated request, addressed to and properly served at our registered agent in Texas at Indeed, Inc., c/o CT Corporation, 1999 Bryan Street, Suite 900, Dallas, TX 75201.
 You further agree to submit to the personal jurisdiction of the appropriate Texas state or federal courts for such discovery proceedings.</p>
@@ -2249,4 +2259,4 @@ Your testing must not violate any law, or disrupt or compromise any data that is
 Cookies, Privacy and Terms | © 2019 Indeed &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=579216298929618&amp;ev=PageView&amp;noscript=1"
 /&gt.
-&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1dh39fdd0hpd1800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
+&lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1dh5rtn4nhp8u800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
