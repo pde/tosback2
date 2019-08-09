@@ -1,4 +1,6 @@
  Toggle navigation <i>
+</i>
+<i>
 </i> {{ user.display_name }} <ul>
 <li> Post </li>
 <li> Manage posts </li>
@@ -15,8 +17,6 @@
 <strong>Log in</strong> Sign up <ul>
 <li> Home Log in </li>
 <li>
-<li>
-</li>
 <li>
 </li>
 <li> Post </li>
