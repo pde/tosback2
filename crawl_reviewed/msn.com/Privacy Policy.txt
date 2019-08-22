@@ -409,7 +409,8 @@ If you wish to access, edit, or remove the profile information and payment infor
 If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.</li>
 <li>
 <strong>Skype</strong>.
-If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.</li>
+If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.
+If you wish to export your Skype chat history and files shared on Skype, you can request a copy.</li>
 <li>
 <strong>Xbox</strong>.
 If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.</li>
@@ -882,10 +883,10 @@ If you have a personal Microsoft account password question, please visit Microso
 They include:
 </p>
 <ul>
-<li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+<li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 </li>
 <li>Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.</li>
-<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
+<li>Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).</li>
 <li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
@@ -1581,22 +1582,22 @@ When Family activity reporting is turned on for a child, Microsoft will collect 
 Activity reports are routinely deleted from Microsoft servers after a short period of time.
 </p>
 <p>
-<strong>Windows Defender SmartScreen</strong>.
-Windows Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device.
+<strong>Microsoft Defender SmartScreen</strong>.
+Microsoft Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device.
 When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates.
-If Windows Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file.
+If Microsoft Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file.
 When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content.
-If Windows Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content.
-Windows Defender SmartScreen can be turned on or off in Settings.
+If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content.
+Microsoft Defender SmartScreen can be turned on or off in Settings.
 </p>
 <p>
-<strong>Windows Defender Antivirus</strong>.
-Windows Defender Antivirus looks for malware and other unwanted software on your device.
-Windows Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
-If Windows Defender Antivirus is turned on, it will monitor the security status of your device.
-When Windows Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, and it may also send files that could contain malware.
+<strong>Microsoft Defender Antivirus</strong>.
+Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device.
+Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
+If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device.
+When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware.
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
-You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
+You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
 </p>Top of page<i>
 </i>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and Typing<p>
 <strong>Speech</strong>.
@@ -1813,6 +1814,30 @@ Turning off your SMS/MMS backup will not delete messages that have been previous
 To delete such messages, you must first delete them from your device prior to turning off backup.
 If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message.
 Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
+</p>
+<p>
+<strong>Narrator</strong>.
+Narrator is a screen-reading app that helps you use Windows without a screen.
+Narrator offers intelligent image and page title description and web page summaries when you encounter undescribed images and ambiguous links.
+</p>
+<p> When you choose to get an image description by pressing Narrator + Ctrl + D, the image will be sent to Microsoft to perform analysis of the image and generate a description.
+Images are used only to generate the description and are not stored by Microsoft.
+</p>
+<p> When you choose to get page title descriptions by pressing Narrator + Ctrl + D, the URL of the site you are visiting will be sent to Microsoft to generate the page title description and to provide and improve Microsoft services, such as Bing services as described in the Bing section above.
+</p>
+<p> When you choose to get a list of popular links for a web page by pressing Narrator + double press of S, the URL of the site you are visiting will be sent to Microsoft to generate the summary of popular links and to provide and improve Microsoft services, such as Bing.
+</p>
+<p> You can disable these features at any time by going to <strong>Settings &gt.
+Ease of Access &gt.
+Narrator &gt.
+Get image descriptions, page titles and popular links</strong>.
+</p>
+<p> You can also send feedback about Narrator to help Microsoft diagnose and resolve problems with Narrator and improve Microsoft products and services, such as Windows.
+Verbal feedback can be submitted at any time in Narrator by using Narrator Key + Alt + F.
+When you use this command, the Feedback Hub app will launch, giving you the opportunity to submit verbal feedback.
+If you enable the setting “Help Make Narrator Better” in <strong>Settings &gt.
+Ease of Access &gt.
+Narrator</strong> and submit verbal feedback through Feedback Hub, recent device and usage data, including event trace log (ETL) data, will be submitted along with your verbal feedback to improve Microsoft products and services, such as Windows.
 </p>Top of page<i>
 </i>Windows Media PlayerWindows Media Player<p>Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library.
 To enrich your experience when you play content in your library, Windows Media player displays related media information, such as album title, song titles, album art, artist, and composer.
@@ -2590,7 +2615,8 @@ If you wish to access, edit, or remove the profile information and payment infor
 If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.</li>
 <li>
 <strong>Skype</strong>.
-If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.</li>
+If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.
+If you wish to export your Skype chat history and files shared on Skype, you can request a copy.</li>
 <li>
 <strong>Xbox</strong>.
 If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.</li>
@@ -3048,10 +3074,10 @@ If you have a personal Microsoft account password question, please visit Microso
 They include:
 </p>
 <ul>
-<li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+<li>Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 </li>
 <li>Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.</li>
-<li>Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
+<li>Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).</li>
 <li>Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).</li>
 <li>Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.</li>
 </ul>
@@ -3726,22 +3752,22 @@ When Family activity reporting is turned on for a child, Microsoft will collect 
 Activity reports are routinely deleted from Microsoft servers after a short period of time.
 </p>
 <p>
-<strong>Windows Defender SmartScreen</strong>.
-Windows Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device.
+<strong>Microsoft Defender SmartScreen</strong>.
+Microsoft Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device.
 When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates.
-If Windows Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file.
+If Microsoft Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file.
 When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content.
-If Windows Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content.
-Windows Defender SmartScreen can be turned on or off in Settings.
+If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content.
+Microsoft Defender SmartScreen can be turned on or off in Settings.
 </p>
 <p>
-<strong>Windows Defender Antivirus</strong>.
-Windows Defender Antivirus looks for malware and other unwanted software on your device.
-Windows Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
-If Windows Defender Antivirus is turned on, it will monitor the security status of your device.
-When Windows Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, and it may also send files that could contain malware.
+<strong>Microsoft Defender Antivirus</strong>.
+Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device.
+Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
+If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device.
+When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware.
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
-You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
+You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
 </p>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and TypingmainspeechinkingtypingmoduleSummary<p>
 <strong>Speech</strong>.
 Microsoft provides both a device-based speech recognition feature and a cloud-based (online) speech recognition service, in regions where Cortana is available.
@@ -3953,6 +3979,30 @@ Turning off your SMS/MMS backup will not delete messages that have been previous
 To delete such messages, you must first delete them from your device prior to turning off backup.
 If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message.
 Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
+</p>
+<p>
+<strong>Narrator</strong>.
+Narrator is a screen-reading app that helps you use Windows without a screen.
+Narrator offers intelligent image and page title description and web page summaries when you encounter undescribed images and ambiguous links.
+</p>
+<p> When you choose to get an image description by pressing Narrator + Ctrl + D, the image will be sent to Microsoft to perform analysis of the image and generate a description.
+Images are used only to generate the description and are not stored by Microsoft.
+</p>
+<p> When you choose to get page title descriptions by pressing Narrator + Ctrl + D, the URL of the site you are visiting will be sent to Microsoft to generate the page title description and to provide and improve Microsoft services, such as Bing services as described in the Bing section above.
+</p>
+<p> When you choose to get a list of popular links for a web page by pressing Narrator + double press of S, the URL of the site you are visiting will be sent to Microsoft to generate the summary of popular links and to provide and improve Microsoft services, such as Bing.
+</p>
+<p> You can disable these features at any time by going to <strong>Settings &gt.
+Ease of Access &gt.
+Narrator &gt.
+Get image descriptions, page titles and popular links</strong>.
+</p>
+<p> You can also send feedback about Narrator to help Microsoft diagnose and resolve problems with Narrator and improve Microsoft products and services, such as Windows.
+Verbal feedback can be submitted at any time in Narrator by using Narrator Key + Alt + F.
+When you use this command, the Feedback Hub app will launch, giving you the opportunity to submit verbal feedback.
+If you enable the setting “Help Make Narrator Better” in <strong>Settings &gt.
+Ease of Access &gt.
+Narrator</strong> and submit verbal feedback through Feedback Hub, recent device and usage data, including event trace log (ETL) data, will be submitted along with your verbal feedback to improve Microsoft products and services, such as Windows.
 </p>Windows Media PlayerWindows Media PlayermainwindowsmediaplayermoduleSummary<p>Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library.
 To enrich your experience when you play content in your library, Windows Media player displays related media information, such as album title, song titles, album art, artist, and composer.
 To augment your media information, Windows Media player will send a request to Microsoft which contains standard computer information, an identifier for the media content, and the media information already contained in your Windows Media Player library (including information you may have edited or entered yourself) so that Microsoft can recognize the track and then return additional information that is available.</p>
