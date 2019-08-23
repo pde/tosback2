@@ -17,6 +17,7 @@ You are agreeing to proceed under them.</p>
 <li> Indeed Assessments Terms </li>
 <li> Indeed Prime Terms </li>
 <li> Indeed Targeted Ads Terms </li>
+<li> Indeed API Terms </li>
 <li> Indeed for Chrome Terms </li>
 <li> Indeed Hiring Events Program Terms </li>
 <li> Indeed Vulnerability Reward Program </li>
@@ -2165,6 +2166,102 @@ Invoices may be provided to you via electronic mail.</p>
 </p>
 <p>You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, licensors and Partners from any third party claim or liability (including without limitation reasonable legal fees) arising out of your ITA use, Creative, site or Your Services, or your breach of these ITA Terms.</p>
 <p>*For the purposes of this Agreement, the Asia-Pacific Region is defined as the following countries and territories: American Samoa, Antarctica, Australia, Bangladesh, Bhutan, Brunei, Cambodia, China, Christmas Island, Cocos Islands, Cook Islands, East Timor, Fiji, French Polynesia, French Southern Territories, Guam, Heard Island and McDonald Islands, Hong Kong, Indonesia, Japan, Kiribati, Laos, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Georgia and the South Sandwich Islands, South Korea, Sri Lanka, Taiwan, Thailand, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis and Futuna.</p> H.
+Indeed API Terms <p>Last Updated: August 22, 2019</p>
+<p>These API Terms incorporate the Indeed Terms of Service (the “Agreement”), and apply to anyone who accesses or uses an Application Programming Interface created or maintained by Indeed (“API”) or related documentation (“Documentation”), develops any application that communicates or interoperates with the API, the Site, or any Indeed service (“Application”), or who otherwise indicates acceptance of these API Terms.
+By agreeing to the API Terms, you also agree to the Indeed Terms of Service.
+Any capitalized terms that are used but not defined in these API Terms have the meaning set forth in the Agreement.</p>
+<p>
+<strong>1.  The APIs</strong>
+</p>
+<p>Indeed may provide you with access to one or more APIs, as well as any accompanying Documentation, solely for your internal business use in developing and using Applications. </p>
+<p>Your license is subject to and conditioned on your compliance with all terms and conditions set forth in the Agreement, and it is revocable, non-exclusive, non-transferable, and non-sublicensable.
+No implied license is granted.
+Indeed reserves all rights that are not expressly granted by this Agreement. </p>
+<p>You may develop an Application that interoperates with an Indeed API for the use of your employees or independent contractors for your internal business purposes (“End Users”).
+Your and End Users’ use of an API or Application to access the Site or any Indeed App is subject to the applicable Terms of Service for the Site or Indeed App, and you agree to require your End Users to accept and comply with such Terms of Service as well as these API Terms.
+You agree that you will be responsible for your End Users’ use of your Application and any API.
+It is also you and your End Users’ responsibility to regularly review any Indeed App or the Site in order to obtain the most up to date information (including, but not limited to, explanations about how features work, disclaimers regarding the services provided, method for charging) about Indeed’s products and services.
+By using an Application via the API, rather than directly using the Site or an Indeed App, you agree to all information provided on the Site or an Indeed App.
+Use of an Application via the API, rather than direct use of the Site or an Indeed App, shall not excuse any lack of information or understanding about Indeed’s products and services, where that information is otherwise provided on the Site or an Indeed App. </p>
+<p>You agree that Indeed may monitor your and End Users’ use of any API and may process and analyze submitted information and behavioral data in accordance with the Indeed Privacy Policy.
+This monitoring may include Indeed accessing and using your Application.
+You will not interfere with this monitoring.
+Indeed may use any technical means to overcome such interference. </p>
+<p>Indeed reserves the right to place limits on access to any API (including without limitation the number of calls or requests), and monitor usage of the APIs to enforce these limits, in its sole discretion.
+Such limits may be detailed in the Documentation or otherwise communicated to you by Indeed.</p>
+<p>Indeed may update, modify or discontinue the API at any time and in our sole discretion and without liability to you, and may require you to obtain and use the most recent version.
+You are required to update your Application accordingly at your sole expense.
+You acknowledge that Indeed’s update to an API may adversely affect how your Application communicates with the Site or an Indeed App, and you agree that Indeed will have no liability therefrom.
+Your use of an API after an update by Indeed constitutes acceptance of the update.
+Indeed reserves the right to develop products or services that are similar to, or may compete with, any Application. </p>
+<p>
+<strong>2.
+Restrictions</strong>
+</p>
+<p>Accessing and using the Site or any Indeed App through an API is subject to the Site Rules and any additional rules and policies made available by Indeed. </p>
+<p>You agree to do all the following in connection with your access and use of any API or development or use of any Application: (a) comply with the Agreement, the Site Rules, all applicable laws, rules, and regulations, and all guidelines, standards, and requirements that may be made available to you by Indeed from time to time.
+(b) monitor the use of your Applications for any activity that violates these API Terms.
+(c) promptly restrict any End Users who violate these API Terms from further use of your Application.
+and (d) promptly notify Indeed of any violation of these API Terms by you or End Users. </p>
+<p>You agree that neither you, your Application, nor your End Users, will do any of the following in connection with your access or use of any API or development or use of any Application: (a) violate any Site Rule or other rule or policy pertaining to the Site, or any applicable law or regulation.
+(b) copy, duplicate, modify, or create derivative works of an API, in whole or in part.
+(c) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any source code component of the API.
+(d) remove any proprietary notices from any materials available through the API.
+(e) make an API or Application available to a third party except as permitted by a written agreement with Indeed.
+(f) circumvent any limits on API access imposed by Indeed.
+or (g) scrape, build databases, or otherwise create permanent copies of any User Content, except as expressly permitted by the Documentation.</p>
+<p>You agree to provide and adhere to a Privacy Policy for your Application that accurately describes to End Users what user information you collect and how you use and share such information with Indeed and other third parties.</p>
+<p>
+<strong>3.
+Access and API Key</strong>
+</p>
+<p>You agree to only access an API by the means described in its Documentation.
+Indeed may require that you use a password, key or other security device to access an API (“API Key”).
+Instructions for obtaining an API Key are included in the applicable Documentation.
+You are responsible for all access to and use of the API under your API Key.
+You agree to maintain the confidentiality and security of your API Key, to not share it with any third party, and use it only in compliance with these API Terms.
+You will not misrepresent or mask either your identity or your Application’s identity.
+Your API Key may be revoked at any time by Indeed. </p>
+<p>
+<strong>4.  Intellectual Property</strong>
+</p>
+<p>You understand and acknowledge that Indeed or its affiliates, or its or their licensors, owns all right title and interest to the API, the Site, and Indeed Apps, and all proprietary rights associated therewith.
+Indeed reserves all rights not specifically granted herein.
+You shall not modify any copyright notices, proprietary legends, any trademark and service mark attributions, any patent markings, or other indicia of ownership on the materials accessed through the API, other than your User Content. </p>
+<p>If you provide feedback or suggestions about our APIs, then we may use such information without obligation to you. </p>
+<p>You acknowledge that User Content as defined in the Agreement may be available via the APIs, and that User Content is the sole responsibility of the person who provided it to Indeed. </p>
+<p>
+<strong>5.  Disclaimer and Limitation of Liability</strong>
+</p>
+<p>THE SITE, APIS, AND DOCUMENTATION ARE PROVIDED “AS IS,” WITH NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED.
+INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, EXPRESSLY DISCLAIM TO THE FULLEST EXTENT PERMITTED BY LAW ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS.
+INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE APIS AND DOCUMENTATION, AND ALL MATERIALS, INFORMATION, ADVICE, JOB LISTINGS, USER CONTENT, PRODUCTS AND SERVICES AVAILABLE ON OR THROUGH ANY API.
+INDEED AND ITS AFFILIATES, AND ITS AND THEIR THIRD-PARTY LICENSORS, DISCLAIM ANY WARRANTIES FOR SERVICES OR GOODS RECEIVED THROUGH ANY API.</p>
+<p>YOU UNDERSTAND AND AGREE THAT YOU ACCESS AND USE AN INDEED API AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM ANY SUCH ACCESS OR USE.</p>
+<p>YOU UNDERSTAND AND AGREE THAT YOU CREATE AN APPLICATION AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR OR ANY OTHER PERSON’S COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM YOUR APPLICATION.</p>
+<p>EXCEPT FOR AMOUNTS PAYABLE PURSUANT TO SECTION 8 HEREUNDER AND FOR ANY BREACH BY YOU OF SECTION 1, TO THE FULLEST EXTENT PERMITTED BY LAW: (a) NEITHER PARTY WILL BE LIABLE UNDER THESE API TERMS FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+AND (b) EACH PARTY’S AGGREGATE LIABILITY TO THE OTHER UNDER THESE API TERMS IS LIMITED TO AMOUNTS PAID OR PAYABLE TO INDEED BY YOU FOR THE INDEED SERVICE GIVING RISE TO THE CLAIM.</p>
+<p>
+<strong>6.  Payment</strong>
+</p>
+<p>Unless you have a separate written agreement with Indeed, you shall be charged based on your and your End Users’ use of an Indeed App or the Site, in accordance with that Indeed App’s or Site’s Terms of Service and other payment information made available on the Indeed App or Site, and based on Indeed’s measurements of usage.
+It is your and your End Users’ responsibility to regularly review any Indeed App or the Site in order to obtain the most up to date information regarding payment and how Indeed charges you for your use of Indeed’s products and services.</p>
+<p>
+<strong>7.  Cancelation</strong>
+</p>
+<p>Unless otherwise stated in an agreement with Indeed, you may cancel this Agreement at any time by ceasing your use of the APIs and deleting your Application.
+Indeed may discontinue any API or any portion or feature or your access thereto for any reason and at any time without liability or other obligation to you.
+Indeed may immediately cancel the API or these API Terms at any time upon notice.
+Indeed may modify these API Terms at any time without liability, and your use of an API or Application after notice that these API Terms have changed indicates acceptance of the updated API Terms.
+</p>
+<p>Upon cancelation of this Agreement: (a) your license to access or use any Indeed API immediately expires.
+and (b) you shall delete your Application and all User Content acquired through the Site or API.
+You agree that Indeed may notify any End User to provide notice of the cancelation of this Agreement or of your right to use an API.
+Sections 1, 2, 3, 4, 5, 6, and 8 will survive these API Terms. </p>
+<p>
+<strong>8.  Indemnification</strong>
+</p>
+<p>You shall indemnify, defend and hold harmless Indeed, its agents, affiliates, and licensors from any third-party claim or liability (including without limitation reasonable legal fees) arising out of your or End Users’ API use, User Content, your Application, or breach of these API Terms.</p> I.
 Indeed for Chrome Terms <p>Last Updated: December 21, 2018</p>
 <p>
 <strong>1.</strong>
@@ -2214,7 +2311,7 @@ This defense and indemnification obligation will survive this Agreement and your
 <p>Indeed may suspend Indeed for Chrome, the Site, your account, or any other provision of tools to you, and we may terminate this Agreement with you, at our sole discretion, at any time, with or without notice.
 If you wish to terminate this Agreement, you may do so by notifying Indeed at any time and closing your account.
 All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
-  </p> I.
+  </p> J.
 Indeed Hiring Events Program Terms <p>Last Updated: August 13, 2019</p>
 <p>These Indeed Hiring Events Program Terms (“IHEP Terms”) incorporate the Indeed Terms of Service, and apply to any Employer who accesses or uses the Indeed Hiring Events Program, or who otherwise indicates its acceptance of these Indeed Hiring Events Program Terms.
 By agreeing to the IHEP Terms, you also agree to the Indeed Terms of Service (the “Agreement”).</p>
@@ -2309,4 +2406,4 @@ Vulnerabilities submitted outside of Bugcrowd will <strong>not</strong> be consi
 There may be additional restrictions on your ability to enter depending upon your local laws.
 Your testing must not violate any law, or disrupt or compromise any data that is not your own.</p> &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Cookies, Privacy and Terms | © 2019 Indeed &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
-Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1diru6mc8hnhn800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
+Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1diugj033h1kq800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
