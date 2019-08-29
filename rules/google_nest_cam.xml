@@ -1,0 +1,79 @@
+<docname name="Privacy Notice">
+  <url name="https://policies.google.com/privacy" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/c-wiz/div[5]/div">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://policies.google.com/terms" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/c-wiz/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Nest Commitment to Privacy">
+  <url name="https://store.google.com/us/magazine/google_nest_privacy?hl=en-US" xpath="//*[@id='mqn2-body']/div/div/div/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Download your data">
+  <url name="https://takeout.google.com/?utm_source=pp&pli=1" xpath="//*[@id='yDmH0d']/c-wiz/div/c-wiz/div/div[3]/c-wiz/div/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Who are Google's partners?">
+  <url name="https://policies.google.com/privacy/google-partners" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Control the ads you see">
+  <url name="https://support.google.com/accounts/answer/2662856?hl=en" xpath="/html/body/div[2]/div/section/div/div[1]/article/section">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="How to delete your camera’s video history and snapshots">
+  <url name="https://support.google.com/googlenest/answer/9219185?hl=en" xpath="/html/body/div[2]/div/section/div/div[1]/article/section/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Our Privacy and Security Principles">
+  <url name="https://safety.google/principles/?hl=en-US" xpath="//*[@id='jump-content']">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Sensors in Google Nest devices">
+  <url name="https://support.google.com/googlenest/answer/9330256?p=sensorglossary&hl=en&visit_id=637008037093522707-183071222&rd=1#topic=7029677" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="How Google retains data we collect">
+  <url name="https://policies.google.com/technologies/retention" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Google's Connected Home Devices and Services">
+  <url name="https://support.google.com/googlenest/answer/9327662?p=connected-devices&hl=en&visit_id=637008037093522707-183071222&rd=1" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Google Nest: welcome to the helpful home">
+  <url name="https://blog.google/products/google-nest/helpful-home/?hl=en-US" xpath="//*[@id='jump-content']/article/section[2]/div/div/div[1]/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Google Vulnerability Reward Program (VRP) Rules">
+  <url name="https://www.google.com/about/appsecurity/reward-program/" xpath="//*[@id='maia-main']">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+

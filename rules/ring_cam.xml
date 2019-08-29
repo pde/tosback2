@@ -1,0 +1,27 @@
+<docname name="Privacy Notice">
+  <url name="https://shop.ring.com/pages/privacy" xpath="/html/body/div[3]/div/div/div/div/div">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Ring Terms of Service">
+  <url name="https://shop.ring.com/pages/terms" xpath="/html/body/div[3]/div/div/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Downloading and Sharing Your Ring Videos">
+  <url name="https://support.ring.com/hc/en-us/articles/115001834066-Sharing-Your-Ring-Videos" xpath="/html/body/div[1]/main/div/div[2]/article/div[1]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Ring Privacy Notice">
+  <url name="https://ring.com/third-party-services" xpath="//*[@id='legals']/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+

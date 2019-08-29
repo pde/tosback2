@@ -1,0 +1,22 @@
+<docname name="Privacy Notice">
+  <url name="https://www.arlo.com/eu/about/privacy-policy/" xpath="//*[@id='about']/section/div/div/article">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://www.arlo.com/en-us/about/terms-and-conditions/default.aspx" xpath="//*[@id='about']/section/div/div[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Product Security">
+  <url name="https://www.arlo.com/en-us/about/security/" xpath="//*[@id='about']/section/div/div[2]/article[1]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+
+

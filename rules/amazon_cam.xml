@@ -1,0 +1,62 @@
+<docname name="Privacy Notice">
+  <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Amazon Cloud Cam Terms of Service">
+  <url name="https://www.amazon.com/gp/help/customer/display.html/?nodeId=202201080" xpath="/html/body/div[2]/div[2]/div[1]/div[1]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Conditions of Use">
+  <url name="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909000" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Amazon Device Terms of Use">
+  <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202002080" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="EU-US and Swiss-US Privacy Shield">
+  <url name="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Report a Security Issue">
+  <url name="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909140" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Interest-Based Ads @ Amazon">
+  <url name="https://www.amazon.com/b?ie=UTF8&node=5160028011" xpath="//*[@id='a-page']/div[4]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Amazon Cloud Cam and Cloud Cam App FAQs">
+  <url name="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202201100" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="File Retention Policy">
+  <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=202146630" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Amazon Photos Terms of Use">
+  <url name="https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540" xpath="/html/body/div[2]/div[2]/div[1]/div[1]/div[2]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+

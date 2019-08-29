@@ -1,0 +1,44 @@
+<docname name="Privacy Notice">
+  <url name="https://nest.com/legal/privacy-statement-for-nest-products-and-services/" xpath="//*[@id='main']/div/section[2]/article">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://nest.com/legal/terms-of-service/" xpath="//*[@id='main']/div/section[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="End User License Agreement">
+  <url name="https://nest.com/legal/eula/" xpath="//*[@id='main']/div/section[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Hackerone Profile">
+  <url name="https://hackerone.com/nest" xpath="/html/body/div[2]/div/div[3]/div[1]/div/div[1]/div[1]/div/div[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Google Vulnerability Reward Program (VRP) Rules">
+  <url name="https://www.google.com/about/appsecurity/reward-program/" xpath="//*[@id='maia-main']">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Frequently asked questions about privacy">
+  <url name="https://nest.com/privacy-faq/" xpath="//*[@id='faq']/div/div/ul">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Nest Retention Statement">
+  <url name="https://nest.com/data-retention/" xpath="//*[@id='data-retention']/div/div/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+

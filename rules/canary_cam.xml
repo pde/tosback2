@@ -1,0 +1,31 @@
+<docname name="Canary Privacy Policy">
+  <url name="https://canary.is/legal/privacy-policy/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Canary System Terms & Conditions">
+  <url name="https://canary.is/legal/system-terms/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="End User License Agreement">
+  <url name="https://canary.is/legal/eula/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Cookie & Ad Policy">
+  <url name="https://canary.is/legal/cookie-policy/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+<docname name="Safe and sound">
+  <url name="https://canary.is/security/" xpath="//*[@id='security-details']/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+

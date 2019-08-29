@@ -1,0 +1,27 @@
+<docname name="Privacy Statement">
+  <url name="https://www.wyze.com/privacy-statement-wyze-products/" xpath="//*[@id='main']/div/section/div/div/div/div/div/div/div/div">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://www.wyze.com/term-conditions/" xpath="//*[@id='main']/div/section/div/div/div[1]/div/div/div/div/div/section/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Security & Privacy">
+  <url name="https://support.wyzecam.com/hc/en-us/articles/360009314072-Security-Privacy-" xpath="//*[@id='article-container']/article/section[1]/div/div[1]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Privacy Statement for the Company Site">
+  <url name="https://www.wyze.com/privacy-statement-wyze-site/" xpath="//*[@id='main']/div/section/div/div/div/div/div/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+

@@ -1,0 +1,27 @@
+<docname name="Privacy Policy">
+  <url name="https://www.honeywell.com/en-us/privacy-statement" xpath="//*[@id='left-rail-tabs-content']">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms & Conditions">
+  <url name="https://www.honeywellhome.com/terms-and-conditions" xpath="//*[@id='out_container']/div[2]/div/div/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Product Security">
+  <url name="https://www.honeywell.com/en-us/product-security" xpath="//*[@id='left-rail-tabs-content']">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Privacy Statement and Cookies">
+  <url name="https://www.resideo.com/privacy/english" xpath="/html/body/div[2]/div/div/div/div[2]/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+
