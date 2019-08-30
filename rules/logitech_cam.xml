@@ -1,0 +1,27 @@
+<docname name="YOUR PRIVACY & SECURITY">
+  <url name="https://www.logitech.com/en-us/legal/product-privacy-policy.html#circle_products" xpath="/html/body/div[1]/div[7]">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://www.logitech.com/en-us/articles/terms-of-service-logi-circle" xpath="/html/body/div[1]/main/div/div/div/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="LOGITECH WEBSITE PRIVACY STATEMENT">
+  <url name="https://www.logitech.com/en-us/legal/web-privacy-policy.html" xpath="/html/body/div[1]/div[7]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="SECURITY REPORTING">
+  <url name="https://www.logitech.com/en-us/legal/security-vulnerability-reporting.html" xpath="/html/body/div[1]/div[7]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+
