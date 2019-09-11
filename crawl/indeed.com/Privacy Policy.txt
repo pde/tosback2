@@ -21,7 +21,7 @@ You are agreeing to proceed under them.</p>
 <li> Indeed for Chrome Terms </li>
 <li> Indeed Hiring Events Program Terms </li>
 <li> Indeed Vulnerability Reward Program </li>
-</ul> Cookie Policy <p>Last Updated: August 29, 2019</p>
+</ul> Cookie Policy <p>Last Updated: September 9, 2019</p>
 <p>By using or accessing Indeed’s websites (“Site”), you agree to Indeed’s use of Cookies as outlined below.
 All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.</p>
 <p>For the purposes of this Cookie Policy, “Indeed” or “we” means Indeed, Inc.
@@ -48,10 +48,10 @@ We may associate personal information with a cookie file in those instances.
 <strong>2.
 How Indeed uses cookies</strong>
 </p>
-<p>We use cookies, web beacons, and other storage technologies from third-party partners such as Google for measurement services, better targeting ads, and for marketing purposes.
-This takes place from the Site and when you download or install an Indeed App (as defined in the Indeed Terms of Service Introduction).
+<p>We use cookies, web beacons, and other storage technologies from third-party partners such as Google and Facebook for measurement services, better targeting ads, and for marketing purposes.
+This takes place from the Site and when you download or install an Indeed App.
 These cookies, web beacons, and other storage technologies allow us to display Indeed promotional material to you on other sites you visit across the Internet.
-Indeed may also share information about your behavior on the Site with third parties (including operators of third-party websites) in order to show you targeted advertisements and other content that has been customized for you.
+Indeed may also share information about your behavior on the Site with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you.
 We also use cookies to facilitate the Indeed Targeted Ads Program.
 In this Program, we use cookies to determine which ads users have seen, and how many times users have seen a particular ad.</p>
 <strong>Analytical Purposes</strong> Indeed and its affiliates (as defined in section 4.12 of the Privacy Policy) use cookies to analyze user activity in order to improve the Site and the websites of Indeed affiliates.
@@ -136,7 +136,7 @@ Third-Party Cookies</strong>
 </p>
 <p>The following cookie table lists a selection of the third party cookies used on Indeed.
 Although we may update this list periodically, please be advised that the names of cookies, pixels and other technologies are subject to change.</p> Domain Cookie Name Description Expiration Opt-out Third party optimizelyBuckets Used by Optimizely to store page variants assigned to user for A/B performance testing (ensures user gets a consistent experience) 10 years Optimizely opt-out Third party optimizelyEndUserID Used by Optimizely for A/B performance testing.
-it is a unique user identifier 10 years Optimizely opt-out Third party _ga Used by Google Analytics to track user activity over different browsing sessions. For some job postings in Japan, this cookie may share limited demographic information about applicants with employers.
+it is a unique user identifier 10 years Optimizely opt-out Third party _ga Used by Google Analytics to track user activity over different browsing sessions.
 You will know if this information is being shared because it will be explicitly called out in the application process.
 2 years Google Analytics opt-out <p>Google Ads Settings</p> Third party _gali Used by Google Analytics to record what item on the previous page the user interacted with to get to the current page immediately Google Analytics opt-out <p>Google Ads Settings</p> Third party _utma Used by Google Analytics to store information on number of visits, first visit, and most recent visit 2 years Google Analytics opt-out <p>Google Ads Settings</p> Third party _utmb Used by Google Analytics to record the timestamp of the moment the user enters the site 1 month Google Analytics opt-out <p>Google Ads Settings</p> Third party _utmc Used by Google Analytics to track when users leave the site 1 year Google Analytics opt-out <p>Google Ads Settings</p> Third party _utmz Used by Google Analytics to track where a visitor came from 1 year Google Analytics opt-out <p>Google Ads Settings</p> Third party intercom-session-pn6o23fv Used by Intercom.io to allow users to ask customer service questions in real time 1 week Intercom.io opt-out Third party UIDR Used by Scorecardresearch.com to measure user volume 2 years Scorecardresearch.com opt-out Third party mkto.trk Used by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient 2 years Marketo opt-out Third party TS01d65e80 Used by f5 networks to maintain the performance, capacity, and reliability of our Website Current session f5 Networks opt-out Third party hjClosedSurveyInvites This cookie is set once a visitor interacts with a Survey invitation modal pop-up.
 It is used to ensure that the same invite does not reappear if it has already been shown.
@@ -148,7 +148,7 @@ Changes To Our Cookie Policy</strong>
 Any changes will become effective on the “Last Updated” date indicated above.
 By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy.
 If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.</p>
-<p> </p> Privacy Policy <p>Last Updated: August 30, 2019</p>
+<p> </p> Privacy Policy <p>Last Updated: September 9, 2019</p>
 <b>1.
 Introduction</b>
 <p>Indeed values the trust our users and customers place in us when they give us access to their personal data.
@@ -249,19 +249,18 @@ Please note that Indeed only has access to the last four digits of Employer cred
 <i>– When You Log In or Use Indeed from Some Third-Party Sites</i>
 </b>
 </p>
-<p>You may also create an account or log in to your Indeed account using third-party websites including, but not limited to, Google.
-If you do not already have an Indeed account but log in to Indeed using your Google account, this creates an Indeed account using the same email address used in your Google account.
-If you agree to provide this information to Indeed,  Google will authenticate you and redirect you to Indeed’s Site.
-Please note, when you log in to Indeed using your Google account, Google will cookie you in order to authenticate you as a Google user.
-</p>
-<p>By accessing Indeed through your Google account, you understand that Google will share certain data detailed in the above paragraph for the purposes of authentication to permit you to access our Site in a secure manner.
-You may stop this at any point from your Google account.
+<p>You may also create an account or log in to your Indeed account using third-party websites including, but not limited to, Facebook or Google.
+If you do not already have an Indeed account but log in to Indeed using your Facebook or Google account, this creates an Indeed account using the same email address used in your Facebook or Google account.
+If you agree to provide this information to Indeed, Facebook or Google will authenticate you and redirect you to Indeed’s Site.
+Please note, when you log in to Indeed using your Facebook or Google account, Facebook or Google will cookie you in order to authenticate you as a Facebook or Google user.</p>
+<p>By accessing Indeed through your Facebook or Google account, you understand that Facebook or Google will share certain data detailed in the above paragraph for the purposes of authentication to permit you to access our Site in a secure manner.
+You may stop this at any point from your Facebook or Google account.
 This information will be considered Indeed account information for purposes of your use of the Site.</p>
-<p>You have the ability to disable the connection between your Google account and your Indeed account at any time by accessing your privacy settings on your Google account.
-Google may also ask for your permission to share certain other details with Indeed, including but not limited to your name, profile picture, public profile information, and email address.
-Once you give this permission, the requested information will be shared with Indeed, which may use this information to provide Services to you, including populating your Indeed Profile.
-The shared information will remain associated with your Indeed Profile until you modify or delete it. </p>
-<p>PLEASE NOTE THAT YOUR RELATIONSHIP OR GOOGLE OR ANY OTHER THIRD-PARTY WEBSITE IS GOVERNED SOLELY BY YOUR AGREEMENT WITH SUCH THIRD-PARTY WEBSITE.</p>
+<p>You have the ability to disable the connection between your Facebook or Google account and your Indeed account at any time by accessing your privacy settings on your Facebook or Google account.
+Facebook or Google may also ask for your permission to share certain other details with Indeed, including but not limited to your name, profile picture, public profile information, and email address.
+Once you give this permission, the requested information will be shared with Indeed, which may use this information to provide Services to you, including populating your Indeed profile.
+The shared information will remain associated with your Indeed profile until you modify or delete it.</p>
+<p>PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR GOOGLE OR ANY OTHER THIRD-PARTY WEBSITE IS GOVERNED SOLELY BY YOUR AGREEMENT WITH SUCH THIRD-PARTY WEBSITE.</p>
 <p>
 <b>
 <i>– When You Use Indeed Embox</i>
@@ -292,7 +291,7 @@ Your application will not be complete and we will not share it with the Employer
 <b>PLEASE NOTE THAT DUE TO THE CONVERSATIONAL NATURE OF THIS SERVICE AND THE UNRESTRICTED FORMAT OF SMS TEXT MESSAGES,</b> <b>INDEED CANNOT GUARANTEE IT WILL HONOR AN UNSUBSCRIBE REQUEST MADE BY TEXT MESSAGE UNLESS IT IS LIMITED TO THE SINGLE-WORD “STOP”</b>
 <b>.
 INDEED EXPRESSLY MAKES NO REPRESENTATION AND DOES NOT GUARANTEE THAT IT WILL RESPOND TO ANY OTHER FORM OF REQUEST BY TEXT MESSAGE TO UNSUBSCRIBE FROM THIS SERVICE.
-YOU MAY ALSO CONTACT US AT TEXT2APPLY@INDEED.COM OR SUPPORT.INDEED.COM FOR MORE INFORMATION AND TO UNSUBSCRIBE.</b>
+YOU MAY ALSO CONTACT US BY SENDING AN EMAIL TO TEXT2APPLY @ INDEED.COM (remove spaces when sending email) OR SUPPORT.INDEED.COM FOR MORE INFORMATION AND TO UNSUBSCRIBE.</b>
 </p>
 <p>
 <b>2.3 Any Other Personal Data Indeed May Receive from Third Parties</b>
@@ -301,8 +300,8 @@ YOU MAY ALSO CONTACT US AT TEXT2APPLY@INDEED.COM OR SUPPORT.INDEED.COM FOR MORE 
 <p>
 <b>2.4 Storage of Your Information</b>
 </p>
-<p>Indeed shall retain users’ Personal Data to the extent such retention is adequate, relevant and limited to what is necessary for the purposes for which they are processed.
-In particular, Indeed shall not retain Personal Data for any longer than necessary for the purposes of performing the processing outlined in this Privacy Policy.</p>
+<p>Indeed stores your personal data until it is no longer necessary to provide our services, or until you ask us to delete your personal data.
+We may also be required to retain certain information in order to comply with local laws.</p>
 <p>If you create an Indeed account, your information may be collected and stored in a manner that connects to your account email address.
 Indeed may also create and assign to your device an identifier that is similar to an account number.
 We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, email address, or zip code.
@@ -430,7 +429,8 @@ If you wish to opt out of receiving any marketing messages from Indeed please se
 </p>
 <p>In order to optimize our services, products and features for you, Indeed may use your previous search and browsing history (e.g.
 the jobs you click on), or application materials and answers to screener questions, to identify you and determine relevant search results and provide you with recommended jobs or reach out to you about jobs you may be interested in.
-We may also use demographic and/or profile data to tailor your experience on the Site, to show you content that Indeed thinks you may be interested in, and display content according to your preferences. Indeed may return different results for the same search query and has full discretion with respect to the job listings it presents in response to any particular search.</p>
+We may also use profile data to tailor your experience on the Site, to show you content that Indeed thinks you may be interested in, and display content according to your preferences.
+Indeed may return different results for the same search query and has full discretion with respect to the job listings it presents in response to any particular search.</p>
 <p>
 <b>4.3 Your Contact Information</b>
 </p>
@@ -569,7 +569,7 @@ And this includes Indeed affiliated entities located outside the European Econom
 <p>It provides Job Seekers with more personalized and improved content, performance, features and services on Indeed and its affiliates’ sites.
 For example, Indeed and its affiliates use your previous search and browsing history (e.g.
 the jobs you click on), IP address, or your resume or profile information, to determine relevant search results, job alerts, display and moderate career insights, such as company reviews, job listing salary data, interview tips and more.
-Such sharing is also be performed to facilitate improved data analysis, testing, research, and service improvement.</p>
+Such sharing is also performed to facilitate improved data analysis, testing, research, and service improvement.</p>
 <p>It also allows employers to have better insight into the performance of their job postings.
 For example, we may share data related to user clicks on their job postings which in turn allows them to understand how their job posting may or may not be achieving their goal of attracting candidates.
 By providing employers with the information they need to better utilize our platform, they can provide stronger job postings.</p>
@@ -591,14 +591,25 @@ Indeed and its affiliates can also share Employer data (such as account informat
 </p>
 <p>Such data sharing allows Indeed and Indeed affiliates to process your Personal Data for the purpose of improving user security and internal operations, troubleshooting, and detecting and preventing fraud and spam.</p>
 <p>
-<b>4.13 Transfer of Information to Employers</b>
+<b>4.13 Transfers of Information to Employers and Job Seekers</b>
 </p>
-<p>Indeed sends Personal Data to Employers to which a Job Seeker applies and as described in sections 2 and 4 of this Privacy Policy.
+<p>Indeed sends Job Seeker Personal Data to Employers on the instruction of Job Seekers.
+Indeed also sends Employer Personal Data to Job Seekers on the instruction of Employers.
+Such transfers are performed in the course of the job search, application and interview process.
+This is further described in sections 2 and 4 of this Privacy Policy.
 Such Personal Data will be processed in accordance with these terms and those of the relevant Employer.
 Job Seekers that apply to jobs through Indeed that are outside their own country may involve sending their Personal Data to countries with lower levels of data protection.</p>
 <p>Employer account holders agree to comply with all their responsibilities under applicable data protection rules with respect to the collection, processing and storage of Personal Data, as well as providing adequate protection of all data subject rights provided for under all applicable data protection rules.</p>
 <p>
-<b>4.14 Transfers of Information to Service Providers </b>
+<strong>4.14 Transfers of Information to Job Seekers</strong>
+</p>
+<p>Indeed sends certain Employer-related information to Job Seekers.
+This includes publishing Job Ads, Company Pages, and salary information.
+Indeed may also provide information to Job Seekers about an Employer’s activity and responsiveness on Indeed in order to help Job Seekers evaluate employment opportunities.
+This may include the Employer representative’s name, the Employer’s city/state location, and whether the Employer has engaged with other Job Seekers or viewed other Job Seekers’ resumes.
+As an Employer, when you use Indeed (for example by posting a Job Ad or contacting a Job Seeker through the Indeed Resume Program) you agree that Indeed may provide this information to Job Seekers.</p>
+<p>
+<b>4.15 Transfers of Information to Service Providers </b>
 </p>
 <p>We may use third parties to perform services in connection with our operations, to improve the Site and our services, products, and features, to protect our users and better understand their needs, and to optimize the services and the users’ experiences.
 These service providers may have access to Personal Data in the course of providing these services, which may involve transfers of such Personal Data to other countries.
@@ -646,20 +657,20 @@ You also agree to Indeed’s Cookie Policy, Privacy Policy and Terms of Service,
 However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of any information, including Personal Data, by these companies.
 </p>
 <p>
-<b>4.15 </b>
+<b>4.16 </b>
 <strong>Transfers of Publicly Available Information</strong>
 </p>
 <p>When users post content on Indeed in a manner that is intended to make that content publicly available and searchable by individuals, Indeed reserves the right to aggregate and share that information with third parties.
 For example, if an Employer posts a job on Indeed, Indeed may share that job posting or information contained within that job posting with third parties, at Indeed’s discretion and subject to agreement between Indeed and any such third parties.
 Indeed also reserves the right to share information aggregated from public sources in this capacity.</p>
 <p>
-<b>4.16 Third-Party Sites You Link to from Indeed</b>
+<b>4.17 Third-Party Sites You Link to from Indeed</b>
 </p>
 <p>You may also use certain third-party sites or services that you link to from Indeed’s Site.
 In such cases, all information you provide to a third party is provided to that third party and not to Indeed, and is subject to the third-party’s privacy policy and terms of service.
 Please see section 8 of this Privacy Policy titled Links to Third-Party Sites for more information.</p>
 <p>
-<b>4.17 Transfers of Personal Data for individuals in the EU (including the European Economic Area (“EEA”)) and Switzerland</b>
+<b>4.18 Transfers of Personal Data for individuals in the EU (including the European Economic Area (“EEA”)) and Switzerland</b>
 </p>
 <p>Please see sections 11 of this Privacy Policy for information related to this.
 </p>
@@ -853,7 +864,7 @@ In particular:</p>
 <li>If you access or use Indeed Targeted Ads, you are agreeing to be bound by the Indeed Targeted Ads Terms</li>
 <li>If you access or use the Indeed Publisher Program, you are agreeing to be bound by the Indeed Publisher Program Terms</li>
 <li>For all other uses of the Site, you are agreeing to be bound by the Indeed General Terms of Service</li>
-</ul> Indeed General Terms of Service <p>Last Updated: August 26, 2019</p>
+</ul> Indeed General Terms of Service <p>Last Updated: September 5, 2019</p>
 <p>
 <strong>A.
 </strong>The following terms and conditions apply to all Job Seekers, Employers, Publishers and other users who access or use the Site, or otherwise indicate their acceptance to this Agreement.</p>
@@ -1038,6 +1049,13 @@ You acknowledge and agree that using Indeed Franchise involves sharing a franchi
 This information may include items such as the number of your business locations or accounts, information about your job ads (content, clicks, impressions, etc.), your contact information, and your spend levels.
 The franchisor or corporate headquarters may request that Indeed contact its franchisees or local offices, respectively, by providing Indeed with contact information, and may provide the content of Job Ads to Indeed for use in connection with Indeed Franchise.
 By using Indeed Franchise, you agree to this information being shared, and you represent and warrant that i) all information you provide to Indeed is accurate, and ii) you have all necessary right and authorization to provide such information to Indeed and to permit Indeed to share it in connection with Indeed Franchise.</p>
+<p>
+<b>1(q)</b> Employer Assist.
+Indeed may offer Employers the ability to activate a feature on their account called Employer Assist.
+The Employer is using Indeed’s software tools to decline a Job Seeker’s application if the Employer has not interacted with the application within a time frame selected by the Employer.
+The Employer is also using Indeed’s software to automatically send a message on the Employer’s behalf to the Job Seeker informing them that the Employer has determined not to move forward with their application.
+As a Job Seeker, you acknowledge and agree that Indeed has no discretion in the sending of these messages and that any such messages are solely a result of the Employer’s decision to activate Employer Assist and to not take an action on your application within the time period selected by the Employer.
+As an Employer, if you activate Employer Assist you agree to indemnify Indeed from any claims arising therefrom.</p>
 <p>
 <strong>2.
 External Sites</strong>
@@ -2402,4 +2420,4 @@ Vulnerabilities submitted outside of Bugcrowd will <strong>not</strong> be consi
 There may be additional restrictions on your ability to enter depending upon your local laws.
 Your testing must not violate any law, or disrupt or compromise any data that is not your own.</p> &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Cookies, Privacy and Terms | © 2019 Indeed &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8RKLN" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
-Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1dkcs8ftnp7gj800&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
+Jobs - Career Advice - Hiring Lab - Browse Jobs - Tools - Find Certifications - Employer Events - About - Help Center © 2019 Indeed - Cookies, Privacy and Terms &lt;img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6486505&amp;c4=www.indeed.com%2Flegal&amp;c15=1dkfeagr93444000&amp;cv=2.0&amp;cj=1" style="display:none" width="0" height="0" alt=""/&gt.
