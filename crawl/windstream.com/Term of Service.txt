@@ -132,7 +132,7 @@ YOU WILL CONTINUE TO HAVE CERTAIN RIGHTS TO OBTAIN RELIEF FROM FEDERAL OR STATE 
 <strong>“Service(s)” </strong>refer to any services you have agreed to obtain from us.</p>
 <p>
 <strong>“Equipment”</strong> means any equipment or accessories you purchase or lease from us or those provided by us for use in any manner in connection with your Services.
-For ease of reference, Services and Equipment provided by Windstream shall be referred to in this document collectively as “Services.”</p>
+For ease of reference, Services and Equipment provided by Windstream shall be referred to in this document collectively as “Services.” </p>
 <p>
 <strong>“Promotional Terms”</strong> mean terms that apply to special offers from time to time.
 Promotional terms will be specified in your first bill message.
@@ -206,7 +206,8 @@ If you terminate Service prior to the last day of your billing cycle, then you w
 <p>Some plans may offer a discount, if you sign up for bundled Services, and may require a term commitment.
 If you sign up for bundled Services, then you agree to maintain the bundled Services for the applicable term.
 If you receive bundled Services, and you subsequently unbundle, terminate, or disconnect any of these Services, or we disconnect any of the Services, then we may adjust the rates for the remaining Service(s) to the then current price.</p> Change in Location.
-<p>A change in your service address or location to which any Service is provided to you may constitute, at our sole discretion, termination of the Services or result in an increase in the prices you must pay for the Services.</p> Change to Another Carrier.
+<p>A change in your service address or location to which any Service is provided to you may constitute, at our sole discretion, termination of the Services or result in an increase in the prices you must pay for the Services.
+</p> Change to Another Carrier.
 <p>We may deem a request by you to port your numbers as a request by you to terminate your Agreement.
 If you choose to port less than all of your numbers, or you leave any Services connected, then we will continue to bill you for the numbers and/or Services still connected.</p> 7. Termination by Us.
 <p>Provisioning of the Service is subject to the availability of the requisite equipment and facilities.
@@ -267,7 +268,8 @@ All issues are for the arbitrator to decide, except that issues relating to the 
 Unless Windstream and you agree otherwise, any arbitration hearings will take place in the county (or parish) of your billing address.
 If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the JAMS Rules.
 If your claim exceeds $10,000, the right to a hearing will be determined by the JAMS Rules.
-Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.</li>
+Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+</li>
 <li>For any non-frivolous claim that does not exceed $75,000, Windstream will pay all JAMS filing, administration and arbitrator fees for any arbitration initiated in accordance with the notice requirements above.
 If, however, the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all such fees will be governed by the JAMS Rules.
 In such case, you agree to reimburse Windstream for all monies previously disbursed by it that are otherwise your obligation to pay under the JAMS Rules.
@@ -372,9 +374,11 @@ or otherwise make available through the Service, your use of the Service, your c
 <p>You acknowledge that you are responsible for all use of the Service, by your account (including use by subaccounts), and that this Agreement (including, without limitation, the Acceptable Use Policy and Privacy Policies, as amended from time to time) applies to any and all usage of your account.
 You agree to abide by these terms, and you agree to defend, hold harmless, and indemnify Windstream from and against any and all claims stemming from usage of this account and any subaccounts, whether or not such usage is expressly authorized by you.</p> 21. Emergency/Critical Lines.
 <p>
-<strong>CUSTOMER ACKNOWLEDGES THAT CERTAIN SERVICES MAY NOT PROVIDE ACCESS TO 911, OR TRANSMIT THE LOCATION OR EXTENSION, IF CUSTOMER ATTEMPTS TO ACCESS 911 IN AN EMERGENCY. </strong>Examples include voice over Internet protocol (VoIP), Centrex, and private branch exchange.
-Additionally, because T1s and VoIP can cease operating during a power outage, you should have a basic business or copper line for elevator, alarm, E911, and other critical functions.
-By proceeding with use of Services, you assume all responsibility and risk of harm, loss, or damage in the event that 911 access fails, is not possible, or does not provide the address, correct address, extension, or other information to emergency authorities.</p> 22. Changes to these Terms and Conditions.
+<strong>CUSTOMER ACKNOWLEDGES THAT CERTAIN SERVICES MAY NOT PROVIDE ACCESS TO 911, OR TRANSMIT THE LOCATION OR EXTENSION, IF CUSTOMER ATTEMPTS TO ACCESS 911 IN AN EMERGENCY. </strong>If your voice Services are provided via an internet connection (e.g.
+voice over Internet protocol (VoIP), Centrex, and private branch exchange), the Services are different from traditional voice services and require both electrical power and broadband function.
+The Services will not function if power is lost, if there is a disruption to the broadband connection, if the network is congested, or if your account has been suspended.
+You expressly acknowledge that in such instances You or anyone using Your Services will not be able to place or receive calls including calls to emergency 911 services and that communications between a home security system and home security monitoring service will not function.
+Windstream strongly recommends you maintain an alternative means of accessing 911 Services and that you purchase a battery backup for use with your Services during power outages, more information can be found on windstream.com.</p> 22. Changes to these Terms and Conditions.
 <p>We may change these Terms, including any change in any charge or fee, and the imposition of a new charge or fee, at any time, if we give you notice of the change.
 If we make a change to these Terms and Conditions that is material, and you do not wish to accept such material change, then you may terminate the affected Service by giving us 30-days’ notice, in which case you will not be subject to an early cancellation fee.
 You will, however, still be responsible for all charges for Services provided before you terminated your Agreement.
@@ -387,7 +391,8 @@ In the event of an inconsistency between any governmental requirement and these 
 You may not assign this Agreement without our consent.</p> 25. No Waiver.
 Severability.
 <p>If we do not enforce any right or remedy available under this Agreement, that failure is not a waiver.
-If any part of this Agreement is held invalid or unenforceable, the remainder of this Agreement will remain in force.</p> 26. Product Bundles - Specific Terms and Conditions (alphabetically).
+If any part of this Agreement is held invalid or unenforceable, the remainder of this Agreement will remain in force.
+</p> 26. Product Bundles - Specific Terms and Conditions (alphabetically).
 <p>Product Descriptions, generally, can be found at https://www.windstream.com.
 Some Services have certain system requirements (i.e., Online Backup, Security Suite, and TechHelp).
 Please see the relevant product description for details.</p>
@@ -460,7 +465,8 @@ If the Hulu Plus membership is not cancelled at the end of the promotional perio
 <li>
 <strong>Identity Protection.</strong> Windstream partners with a third-party vendor to provide this Service.
 As a result of this, you may be required to accept certain terms and conditions of the Service as required by the third-party.
-Windstream reserves the right to alter the Service in any way including, but not limited to, changing the third-party provider of the Service or discontinuing this Service at any time .</li>
+Windstream reserves the right to alter the Service in any way including, but not limited to, changing the third-party provider of the Service or discontinuing this Service at any time .
+</li>
 <li>
 <strong>Internet Access. </strong>Internet Access Service is subject to the Broadband Network Statement.
 Service will be provisioned for a maximum download speed of 1 Mbps.
@@ -612,7 +618,8 @@ and/or (3) void the price guarantee, and convert rates to then current monthly r
 <li>
 <strong>Voice Over Internet Protocol (VoIP)-Based Services. </strong>In order to access or use any VoIP Services, you must sign the 911 Disclosure form, which warns of and has you acknowledge certain 911 limitations for VoIP Services.</li>
 <li>
-<strong>Web Hosting. </strong>See policy for Web Hosting at https://www.windstreambusiness.com/media/789/hosting_policy.pdf.</li>
+<strong>Web Hosting. </strong>See policy for Web Hosting at https://www.windstreambusiness.com/media/789/hosting_policy.pdf.
+</li>
 <li>
 <strong>Whole-Home Tech Help. </strong>Windstream partners with a third-party vendor to provide this Service.
 As a result of this, you may be required to accept certain terms and conditions of the Service as required by the third party.
@@ -663,7 +670,8 @@ Kinetic TV services include a Windstream gateway, which will be assessed a separ
 Equipment may be new or fully inspected and tested.
 If receiver(s) and gateway are not returned to Windstream within thirty (30) days of termination of services, a fee will be assessed for each receiver and gateway not returned.</p>
 <p>Some programming may not be available in certain areas because of legal, regulatory, or contractual prohibitions, including restrictions of the Federal Communications Commission and sports blackouts.
-If you also purchase Windstream voice service, Caller ID information for Windstream voice calls can be displayed on your TV screen.</p>
+If you also purchase Windstream voice service, Caller ID information for Windstream voice calls can be displayed on your TV screen.
+</p>
 <p>Windstream’s Kinetic TV is provided for your non-commercial, personal viewing, use and enjoyment in a private residential dwelling.
 You agree that the Windstream Kinetic TV service will not be viewed in areas open to the public or in commercial establishments, and that admission will not be charged for listening to or viewing the Service.
 Your Windstream Kinetic TV Service may not be copied, transmitted, reproduced, published, broadcast, rewritten, redistributed, or performed except as permitted by the “fair use” provisions of the U.S.
@@ -816,7 +824,8 @@ Some digital TVs require a moment for each setting to be read.</li>
 <li>To ensure reliable operation, all connections to television sets, wall jacks and any connected video devices should be securely attached to the appropriate inputs.</li>
 <li>The cables used to attach devices can affect video and audio quality.
 The ends of coax cables should be undamaged and the connector center pin should be straight.
-Damaged cables or connections should be replaced.</li>
+Damaged cables or connections should be replaced.
+</li>
 <li>Moving coaxial cables away from other cables can sometimes prevent signal problems.
 TV cables may be receiving electromagnetic interference from nearby power cables or other electronic devices.
 If separating the cables improves the picture, cable ties or tape can be used to hold them in place.</li>
