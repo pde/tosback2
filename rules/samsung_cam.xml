@@ -1,0 +1,30 @@
+<docname name="SAMSUNG PRIVACY POLICY FOR THE U.S.">
+  <url name="https://www.samsung.com/us/account/privacy-policy/" xpath="//*[@id='samsung-legal']">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Legal">
+  <url name="https://www.samsung.com/us/common/legal.html" xpath="//*[@id='main']">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="SmartThings Privacy Policy">
+  <url name="https://www.smartthings.com/privacy" xpath="/html/body/main/div[1]/div[3]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Bugcrowd Profile">
+  <url name="https://bugcrowd.com/smartthings" xpath="//*[@id='content']/main/div[2]/section/div/div[2]/div[3]/div[2]">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="SmartThings Terms">
+  <url name="https://www.smartthings.com/terms" xpath="/html/body/main/div[1]/div[3]/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+

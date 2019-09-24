@@ -1,0 +1,27 @@
+<docname name="Privacy Notice">
+  <url name="https://blinkforhome.com/pages/privacy-policy" xpath="/html/body/main/div[2]/div/div">
+	<norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Terms of Service">
+  <url name="https://blinkforhome.com/pages/terms-of-service" xpath="/html/body/main/div[2]/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Cookie Policy">
+  <url name="https://blinkforhome.com/pages/cookie-policy" xpath="/html/body/main/div[2]/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+<docname name="Responsible Disclosure Policy">
+  <url name="https://blinkforhome.com/pages/responsible-disclosure-policy?locale=en" xpath="/html/body/main/div[2]/div/div">
+   <norecurse name="arbitrary"/>
+  </url>
+</docname>
+
+
+
+
