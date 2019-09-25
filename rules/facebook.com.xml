@@ -19,4 +19,9 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
+ <docname name="Supplemental Portal Data Policy">
+   <url name="https://portal.facebook.com/legal/data-policy-update/" xpath="//section[contains(@class, 'legalArticleSection')]" reviewed="false">
+     <norecurse name="arbitrary" />
+   </url>
+ </docname> 
 </sitename>
