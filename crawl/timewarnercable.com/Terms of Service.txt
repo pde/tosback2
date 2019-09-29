@@ -1,5 +1,5 @@
 
-228d81b6-1ba3-4b18-97b3-4b738b025007 <ul>
+2ca31a05-38ac-4f38-824c-669373232327 <ul>
 <li>
 <p>
 </p>
@@ -28,9 +28,31 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="d217b644-3db7-4e88-a808-c1ac904d684f" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d217b644\u002D3db7\u002D4e88\u002Da808\u002Dc1ac904d684f"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="cb24d303-cef8-4341-8694-4c27821ccd93" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="cb24d303\u002Dcef8\u002D4341\u002D8694\u002D4c27821ccd93"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul>
@@ -49,9 +71,31 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="03de4cc4-bbeb-4190-8de8-ef690f3c5179" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="03de4cc4\u002Dbbeb\u002D4190\u002D8de8\u002Def690f3c5179"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="bb961bbe-795c-47a8-a2f8-cb3402333189" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="bb961bbe\u002D795c\u002D47a8\u002Da2f8\u002Dcb3402333189"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -75,9 +119,31 @@ Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Pri
 <li> Spectrum TV </li>
 <li> Spectrum Internet </li>
 <li> Spectrum Voice </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="0068a25a-8ae9-43f9-8e6d-175adddb076a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="0068a25a\u002D8ae9\u002D43f9\u002D8e6d\u002D175adddb076a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="dbcf31bb-2cd1-479e-acec-59e99a278da6" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="dbcf31bb\u002D2cd1\u002D479e\u002Dacec\u002D59e99a278da6"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
