@@ -254,7 +254,7 @@ We use:</p>
 <li>Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.
 This helps us to improve site content.
 </li>
-<li>Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.
+<li>Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content.
 This helps us offer better web experiences to users.</li>
 <li>DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.
 This helps us measure the effectiveness of our advertising campaigns.</li>
@@ -294,7 +294,7 @@ Optimization</strong>: Follow the instructions below to prevent data collection 
 <li>Google: Install the Google Analytics Opt-out Browser Add-on, which keeps your visits anonymous and prohibits data transmission to Google Analytics.
 Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns.
 you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).</li>
-<li>Optimizely: Opt-out on www.mozilla.org or visit Optimizely's opt-out website for more information.</li>
+<li>Convert.com: Opt-out on www.mozilla.org.</li>
 <li>Yahoo: visit the Ad Interest Manager to opt-out.</li>
 <li>ShareProgress: You can turn on Do Not Track in your browser.
 </li>

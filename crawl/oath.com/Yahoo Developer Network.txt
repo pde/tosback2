@@ -4,12 +4,12 @@ You need to have an Application ID in order to use the Yahoo Web Services.</p>
 <strong>Information Collection and Use Practices</strong>
 <ul>
 <li>Before accessing the Yahoo Web Services, you will need to get an Application ID.
-Information collected on the Application ID page may be used by Oath to contact you if there is a problem with your application.
+Information collected on the Application ID page may be used by Verizon Media to contact you if there is a problem with your application.
 You will be asked to provide a Yahoo ID and an optional alternate email address for contacting you.</li>
 <li>Access to the Web Services is rate-limited based upon the user's IP address.
-Oath logs IP addresses for each Web Service during a 24-hour period on a per-IP basis in order to determine the number of API calls made by an IP address during a specific window of time.</li>
+Verizon Media logs IP addresses for each Web Service during a 24-hour period on a per-IP basis in order to determine the number of API calls made by an IP address during a specific window of time.</li>
 <li>If you wish, you may download a free Software Developer's Kit containing libraries and examples in various languages to help you get started on your applications.
-Oath logs the number of downloads made from the site.</li>
+Verizon Media logs the number of downloads made from the site.</li>
 </ul>
 <strong>Information Sharing and Disclosure Practices</strong>
 <ul>
@@ -17,7 +17,7 @@ Oath logs the number of downloads made from the site.</li>
 The Application ID is used to identify each application.</li>
 <li>In the future, information about your application's popularity may be made available to you through the Yahoo ID associated with the Application ID</li>
 <li>Please see Yahoo Developer Network FAQ if you have questions about this service.</li>
-<li>This page describes current Oath practices with respect to this particular service.
-This information may change as Oath revises this service by adding or removing features or using different service providers.
-To find out how Oath treats your personal information, please visit our Privacy Policy.</li>
+<li>This page describes current Verizon Media practices with respect to this particular service.
+This information may change as Verizon Media revises this service by adding or removing features or using different service providers.
+To find out how Verizon Media treats your personal information, please visit our Privacy Policy.</li>
 </ul> 
