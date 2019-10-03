@@ -3,6 +3,7 @@
 <i>
 </i> {{ user.display_name }} <ul>
 <li> Post </li>
+<li> Write article </li>
 <li> Manage posts </li>
 <li> Membership </li>
 <li> View profile </li>
@@ -408,6 +409,8 @@ If you wish to complain about the handling of your Personal Information outside 
 <li>Community Guidelines</li>
 </ul>
 <ul>
+<li>
+<li>
 <li>
 <li>
 <li>
