@@ -12,17 +12,49 @@
 </li>
 <li>Solutions
 <ul>
-<li>Mobile</li>
+<li>Mobile<i>
+</i>
+<ul>
+<li>Intro to Mobile Data</li>
+<li>Mobile Data Strategies</li>
+<li>IoT, Mobile and Beacons</li>
+<li>Mobile Libraries and SDKs</li>
+</ul>
+</li>
+<li>Event Data Framework<i>
+</i>
+<ul>
+<li>Data Infrastructure Fundamentals</li>
+<li>Client Side vs.
+Server-Side</li>
+</ul>
+</li>
+<li>Customer Data Platform<i>
+</i>
+<ul>
+<li>CDP Fundamentals</li>
+<li>CDPs vs.
+DMPs</li>
 <li>Identity Resolution</li>
-<li>Client-side &amp.
-Server-side Data</li>
-<li>Customer Data Platform</li>
-<li>Event Data Framework</li>
+</ul>
+</li>
 <li>EDW or Data Lake + Tealium</li>
-<li>Preparing for GDPR</li>
-<li>Trust and Privacy</li>
-<li>InfoSec</li>
+<li>Data Governance<i>
+</i>
+<ul>
+<li>Data Governance Checklist</li>
+</ul>
+</li>
+<li>Trust and Privacy<i>
+</i>
+<ul>
+<li>GDPR</li>
+<li>CCPA</li>
+<li>Tealium InfoSec</li>
+</ul>
+</li>
 <li>Adobe + Tealium</li>
+<li>Amazon Web Services + Tealium</li>
 </ul>
 </li>
 <li>Integrations</li>
@@ -78,17 +110,39 @@ Server-side Data</li>
 </li>
 <li>Solutions
 <ul>
-<li>Mobile</li>
+<li>Mobile <ul>
+<li>Intro to Mobile Data</li>
+<li>Mobile Data Strategies</li>
+<li>IoT, Mobile and Beacons</li>
+<li>Mobile Libraries and SDKs</li>
+</ul>
+</li>
+<li>Event Data Framework <ul>
+<li>Data Infrastructure Fundamentals</li>
+<li>Client Side vs.
+Server-Side</li>
+</ul>
+</li>
+<li>Customer Data Platform <ul>
+<li>CDP Fundamentals</li>
+<li>CDPs vs.
+DMPs</li>
 <li>Identity Resolution</li>
-<li>Client-side &amp.
-Server-side Data</li>
-<li>Customer Data Platform</li>
-<li>Event Data Framework</li>
+</ul>
+</li>
 <li>EDW or Data Lake + Tealium</li>
-<li>Preparing for GDPR</li>
-<li>Trust and Privacy</li>
-<li>InfoSec</li>
+<li>Data Governance <ul>
+<li>Data Governance Checklist</li>
+</ul>
+</li>
+<li>Trust and Privacy <ul>
+<li>GDPR</li>
+<li>CCPA</li>
+<li>Tealium InfoSec</li>
+</ul>
+</li>
 <li>Adobe + Tealium</li>
+<li>Amazon Web Services + Tealium</li>
 </ul>
 </li>
 <li>Integrations</li>
