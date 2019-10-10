@@ -170,8 +170,7 @@ f) legitimate and legal business reasons to access this information must be pres
 g) take steps to protect the information against unauthorized use or release.
 In order to ensure compliance with this Program, the following controls have been established.</p>
 Technological Controls
-<p>The GitLab environment must align and comply with our [Security Best Practices](https://about.gitlab.com/handbook/security/).
-All applications and technologies brought into the GitLab environment will undergo a Data Protection Impact Assessment (DPIA) in accordance with the existing [DPIA Policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/) and [DPIA Procedure](https://about.gitlab.com/handbook/finance/procure-to-pay/)/.
+<p>The GitLab environment must align and comply with our = link_to "Security Best Practices", "https://about.gitlab.com/handbook/security/" All applications and technologies brought into the GitLab environment will undergo a Data Protection Impact Assessment (DPIA) in accordance with the existing [DPIA Policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/) and [DPIA Procedure](https://about.gitlab.com/handbook/finance/procure-to-pay/)/.
 The [DPIA Template](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Data%20Protection%20Impact%20Assessment) should be completed for any and all technology within its environment to confirm proper and legitimate use and to identify if new information is being collected, new uses of information are employed, and/or if any further consents are required.</p>
 <p>Data is retained in accordance with the [Record Retention Policy](https://about.gitlab.com/handbook/people-operations/code-of-conduct/#record-retention-policy) and the corresponding [Record Retention Schedule](https://docs.google.com/spreadsheets/d/1EbyOSQvjiT4KJGB0_evhJEfKlvp2qKaJJbyzknCEPzA/edit#gid=1070326101).</p>
 Contractual and Administrative Controls
