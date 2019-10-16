@@ -1,6 +1,6 @@
 Google Privacy Policy<p>When you use our services, you’re trusting us with your information.
 We understand this is a big responsibility and work hard to protect your information and put you in control.</p>
-<p>This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.</p>Effective January 22, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &amp.
+<p>This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.</p>Effective October 15, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &amp.
 deleting your informationCompliance &amp.
 cooperation with regulatorsAbout this policyRelated privacy practices<p>We build a range of services that help millions of people daily to explore and interact with the world in new ways.
 Our services include:</p>
@@ -106,7 +106,7 @@ For example, you can turn on Location History if you want traffic predictions fo
 You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.</p>
 <p>Go to Ad Settings</p>About you<p>Control what others see about you across Google services.</p>
 <p>Go to About You</p>Shared endorsements<p>Choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads.</p>
-<p>Go to Shared Endorsements</p>Information you share<p>Control whom you share information with through your account on Google+.</p>
+<p>Go to Shared Endorsements</p>Information you share<p>If you’re a G Suite user, control whom you share information with through your account on Google+.</p>
 <p>Go to Information You Share</p>Ways to review &amp.
 update your informationMy Activity<p>My Activity allows you to review and control data that’s created when you use Google services, like searches you’ve done or your visits to Google Play.
 You can browse by date and by topic, and delete part or all of your activity.</p>
@@ -141,7 +141,7 @@ For example, you can modify location settings on your Android device.</li>
 </ul>Sharing your informationWhen you share your information<p>Many of our services let you share information with other people, and you have control over how you share.
 For example, you can share videos on YouTube publicly or you can decide to keep your videos private.
 Remember, when you share information publicly, your content may become accessible through search engines, including Google Search.</p>
-<p>When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing a song in Play, your name and photo appear next to your activity.
+<p>When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo appear next to your activity.
 We may also display this information in ads depending on your Shared endorsements setting.</p>When Google shares your information<p>We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:</p>With your consent<p>We’ll share personal information outside of Google when we have your consent.
 For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant.
 We’ll ask for your explicit consent to share any sensitive personal information.</p>With domain administrators<p>If you’re a student or work for an organization that uses Google services (like G Suite), your domain administrator and resellers who manage your account will have access to your Google Account.
@@ -187,11 +187,18 @@ deleting your information<p>You can export a copy of your information or delete 
 <li>Delete specific Google products, including your information associated with those products</li>
 <li>Delete your entire Google Account</li>
 </ul>
-<p>Delete your information</p>
-<p>In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes.
-You can read about Google’s data retention periods, including how long it takes us to delete your information.</p>
-<p>We try to ensure that our services protect information from accidental or malicious deletion.
-Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.</p>Compliance &amp.
+<p>Delete your information</p>Retaining your information<p>We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:</p>
+<ul>
+<li>Some data you can delete whenever you like, such as the content you create or upload.
+You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time.</li>
+<li>Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.</li>
+<li>We keep some data until you delete your Google Account, such as information about how often you use our services.</li>
+<li>And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.</li>
+</ul>
+<p>When you delete data, we follow a deletion process to make sure that your data is safely and completely removed from our servers or retained only in anonymized form.
+We try to ensure that our services protect information from accidental or malicious deletion.
+Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.</p>
+<p>You can read more about Google’s data retention periods, including how long it takes us to delete your information.</p>Compliance &amp.
 cooperation with regulators<p>We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.</p>Data transfers<p>We maintain servers around the world and your information may be processed on servers located outside of the country where you live.
 Data protection laws vary among countries, with some providing more protection than others.
 Regardless of where your information is processed, we apply the same protections described in this policy.
@@ -217,6 +224,7 @@ the Chrome Operating System</li>
 <li>G Suite for Education</li>
 <li>YouTube Kids</li>
 <li>Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)</li>
+<li>Voice and Audio Collection from Children’s Features on the Google Assistant</li>
 </ul>Other useful resources<p>The following links highlight useful resources for you to learn more about our practices and privacy settings.</p>
 <ul>
 <li>Your Google Account is home to many of the settings you can use to manage your account</li>
