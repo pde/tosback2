@@ -1,5 +1,5 @@
 
-d2a82643-c7e2-4bc7-9a60-6f140e2d5c14 <ul>
+b1223b39-3205-4ad3-a869-22831175f32e <ul>
 <li>
 <p>
 </p>
@@ -28,9 +28,31 @@ d2a82643-c7e2-4bc7-9a60-6f140e2d5c14 <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="dc1ad53a-8895-45f1-b533-99943acd8a0a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_self" data-target="#" data-linkname="Mobile" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="dc1ad53a\u002D8895\u002D45f1\u002Db533\u002D99943acd8a0a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="9c3a6895-be38-4bd4-87ba-b375054353f6" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="9c3a6895\u002Dbe38\u002D4bd4\u002D87ba\u002Db375054353f6"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul>
@@ -49,9 +71,31 @@ d2a82643-c7e2-4bc7-9a60-6f140e2d5c14 <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="44ddebda-3a03-47af-8a76-aa52b6850ba8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="44ddebda\u002D3a03\u002D47af\u002D8a76\u002Daa52b6850ba8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="c9d53558-9f87-479a-ac94-442b429cd54d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="c9d53558\u002D9f87\u002D479a\u002Dac94\u002D442b429cd54d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -5089,9 +5133,31 @@ Voice Service Price Guides
 <li> Spectrum TV </li>
 <li> Spectrum Internet </li>
 <li> Spectrum Voice </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="959b0203-8b3f-4a61-8adc-a71a4d09c79a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="959b0203\u002D8b3f\u002D4a61\u002D8adc\u002Da71a4d09c79a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="9df5302a-410c-43f0-95f0-1f9ac7cda0c9" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="9df5302a\u002D410c\u002D43f0\u002D95f0\u002D1f9ac7cda0c9"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
@@ -5129,5 +5195,9 @@ Disclosures </li>
 <li> Rural Carrier Call Completion </li>
 <li> Accessibility </li>
 </ul>
+<p>Not all products, pricing, and services are available in all areas.
+Pricing and actual speeds may vary.
+Internet speed based on wired connection.
+Restrictions apply.</p>
 <p>© 2019 Charter Communications.
 All rights reserved.</p> ✓Verify
