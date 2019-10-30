@@ -1,5 +1,5 @@
  Alexa Terms of Use <p>
-<strong>Last Updated: June 14, 2019</strong>
+<strong>Last Updated: October 29, 2019</strong>
 </p>
 <p>This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon" or "we").
 Before using Alexa, please read these Alexa Terms of Use, including the Alexa Communication Schedule, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement").
@@ -12,7 +12,7 @@ If you do not accept the terms of this Agreement, then you may not use Alexa.</p
 <p>“Alexa Interactions” means all information related to your use of Alexa and Alexa Enabled Products, including your voice and other inputs, responses provided to you through Alexa, information we receive in connection with Third Party Services and Auxiliary Products you use, and information and content you provide or receive through the Alexa App.</p>
 <p>“Auxiliary Product” means any product you can interact with or operate using an Alexa Enabled Product, including Alexa Gadgets and smart home devices such as lights, switches, and thermostats.</p>
 <p>"Software" means all software that we make available to you for use in connection with Alexa.</p>
-<p>"Third Party Service" means any service or application provided by a third party that we make available to you for use on or through Alexa.</p>
+<p>"Third Party Service" means any Alexa skill or other service or application provided by a third party that we make available to you for use on or through Alexa.</p>
 <p>
 <strong>1.
 Alexa</strong>
@@ -50,7 +50,9 @@ Voice Profiles</strong>.
 Alexa can automatically recognize the voices of users in your household over time to improve personalization of certain Alexa features.
 You can also create a voice profile, so Alexa can call you by name and do more to personalize your experience.
 When Alexa recognizes your voice automatically, or when you create a voice profile, Alexa uses recordings of your voice to create an acoustic model of your voice characteristics.
-You can turn off automatic voice recognition or delete any voice profile you’ve created. Learn more about voice profiles.</p>
+If Alexa recognizes your voice when you are using a third-party skill, that skill may receive a numeric identifier that allows it to distinguish you from other users in your household to better personalize your experience.
+You can turn off automatic voice recognition, turn off personalization of third-party skills based on recognized voices, or delete any voice profile you’ve created.
+ Learn more about voice profiles.</p>
 <p>
 <strong>2.
 Third Party Services.
