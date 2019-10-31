@@ -14,17 +14,13 @@
 <li>Sale</li>
 </ul>
 <ul>
-<li>SearchSubmit</li>
+<li>SearchSearchSubmit</li>
 <li>MY ACCOUNTHello, guest.<ul>
-<li>Log In</li>
-<li>|</li>
-<li>Register</li>
+<li>Log In</li>|<li>Register</li>
 </ul>
 <p>Guest Loyalty Rewards</p>Join now to start earning!</li>
 <li>MY FAVORITESLogin to save favorite items to your Buckle account.<ul>
-<li>Login</li>
-<li>|</li>
-<li>Register</li>
+<li>Login</li>|<li>Register</li>
 </ul>
 </li>
 <li>MY BAG</li>
@@ -425,7 +421,7 @@ Winter Sale</li>
 </ul>Give a Buckle Gift card</li>
 </ul>
 </li>
-</ul>SubmitPrivacy &amp.
+</ul>SearchSubmitPrivacy &amp.
 Security<br>
 <p>
 <strong>Buckle Privacy &amp.
