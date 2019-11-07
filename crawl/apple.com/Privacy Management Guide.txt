@@ -1,111 +1,71 @@
- Here’s how to manage your privacy.
-<p>We’ve worked hard to design tools to help you maintain your privacy.
-Here you’ll learn how to keep your devices, data, and Apple ID secure, along with how to avoid phishing scams and how to control what you share and with whom.</p>
-<p>Secure your devices</p>
-<p>Manage your Apple ID</p>
-<p>Be aware of what you’re sharing</p> Secure your devices.
-<p>To keep your iCloud data and other personal information secure, your Mac, Apple Watch, and iOS devices also need to be secure.
-Here are a few ways to help prevent anyone but you from using your devices and accessing your information.</p> Put a passcode on your device.
-The more complex, the better.
-<p>Setting a passcode is the most important thing you can do to safeguard your device.
-The default passcode on your Touch ID– or Face ID–enabled device is six digits instead of the four used in earlier versions of iOS.
-This means that there are a million possible combinations, making your passcode even tougher to crack.
-In Settings, you can enable Erase Data to have your device wipe itself clean after ten incorrect guesses.</p>
-<p>Learn more about protecting your device with a passcode</p> Enable Touch ID and Face ID.
-<p>Touch ID and Face ID provide intuitive and secure authentication with the touch of a finger or a simple glance.
-Your fingerprint or face data is converted into a mathematical representation that is encrypted and used only by the Secure Enclave in your Mac or iOS device.
-This data can’t be accessed by the OS on your device or by any applications running on it.
-And it is never stored on Apple servers or backed up to iCloud or anywhere else.</p>
-<p>Learn more about Touch ID Security</p> Auto-unlock your Mac.
-<p>You can use your Apple Watch to automatically unlock your Mac when it’s close by.
-Turn on two-factor authentication for your Apple ID and sign in to iCloud on both devices.</p> Find your lost device.
-<p>Enabling Find My iPhone, iPad, and Mac helps keep you connected to your device even if it’s lost or stolen.
+ You have control over what you share.
+<p>Privacy is built in from the beginning, from the moment you open your new device to every time you use an app.
+Here are a few things to know so you can be even more secure.</p> Secure your devices.
+<p>Prevent anyone except you from using your devices and accessing your information.</p> Six-digit passcodes <p>Setting a passcode is the most important thing you can do to safeguard your device.
+The passcode on your Touch ID—or Face ID-enabled device is automatically set to six digits, creating a million possible combinations.
+You can also enable Erase Data in Settings to have your device wipe itself clean after 10 incorrect guesses.</p> Learn more about protecting your device with a passcode Touch ID and Face ID <p>Touch ID and Face ID provide intuitive and secure authentication with the touch of a finger or a simple glance.
+Your fingerprint or face data is converted into a mathematical representation that is encrypted and used only by the Secure Enclave in your Mac, iPad, or iPhone.
+Since fingerprint and face data is so personal, your device takes extraordinary measures to protect it.
+This data can’t be accessed by the operating system on your device or by any applications running on it.
+And it is never stored on Apple servers or backed up to iCloud or anywhere else.</p> Learn more about Touch ID Security View the Face ID white paper (PDF) Two-factor authentication <p>Two-factor authentication is the best way to keep your information safe because it adds a second layer of security to your Apple ID.
+It’s designed to ensure that even someone who knows your password can’t access your account.
+When you sign in on a new device or from the web, a verification code will be displayed automatically on all your trusted devices.
+Enter this code along with your password and you’ll be signed in.
+Anyone who can’t provide both your password and the verification code will be kept out.
+Once signed in, you won’t be asked for a verification code on that device again unless you sign out completely, erase the device, or need to change your password for security reasons.</p> Learn how to set up two-factor authentication Find My <p>Enabling Find My for iPhone, iPad, and Mac helps keep you connected to your device even if it’s lost or stolen, and Find My is built in a way that protects your privacy.
 It’s enabled automatically when you sign in to iCloud on a new device.
-You can see where your device is on a map — and where it’s been — so you improve your chances of recovering it.
+You can see where your device is on a map — and where it has been — so you improve your chances of recovering it.
 If you’re unable to get your device back, you can remotely erase the personal data on it.
 Apple receives this location information only when you locate your device, turn on Lost Mode, or enable Send Last Location.
-Location data is only retained for 24 hours and is encrypted to your password.</p>
-<p>Activation Lock, which is built into Find My iPhone and Apple Watch, prevents your iOS or watchOS device from being reactivated and used without your permission even if you’ve already erased it remotely.
-This significantly reduces the incentive for someone to steal your device.</p> Manage your Apple ID.
-<p>Your Apple ID is the account you use to access many Apple services, including iCloud, the App Store, the iTunes Store, and more.
-Keeping your Apple ID secure is critical to the protection of all kinds of information, including your calendar, contacts, email, photos, and even the backup files from your iOS device.
-It’s a good idea to review and update your security settings on a regular basis so you can protect yourself from attempts to compromise your privacy.</p> Choose a strong Apple ID password.
-<p>Never use the same password for your Apple ID that you use for other accounts.
-To make your password hard to guess, make it longer than eight characters, include special characters, and don’t base it on information that others can easily find out about you.
-New Apple ID passwords cannot have been used by you in the past year.</p>
-<p>You should update your Apple ID password if it’s not particularly strong or if it has been in use for other online accounts.
-If you ever have any reason to believe that your password has been compromised, you should change it immediately.</p>
-<p>Learn about creating a strong password</p>
-<p>Change your Apple ID password</p> Take charge of your data.
-<p>To give you more control over your personal information, we provide a set of dedicated privacy management tools on your Data and Privacy page.
-These tools give you the ability to get a copy of your data, request a correction to your data, deactivate your account, or delete your account.</p>
-<p>Learn more about taking charge of your data</p>
-<p>Visit your Data and Privacy page</p> Turn on two-factor authentication.
-<p>Two-factor authentication is the best way to keep your information safe because it adds a second layer of security to your Apple ID.
-It is designed to ensure that even if someone knows your password, they cannot access your account.</p>
-<p>Before you can sign in on a new device or from the web, a verification code will be displayed automatically on all your trusted devices.
-Enter this code along with your password and you are signed in.
-Anyone who can’t provide both your password and the verification code will be kept out.</p>
-<p>Learn how to set up two-factor authentication</p> Pay attention to notiﬁcations about your Apple ID.
+Location data is only retained for 24 hours so we can display the last known location of your device.
+Find My also automatically turns on Activation Lock, which requires your Apple ID to be entered before anyone can erase or reactivate your device.</p> Learn about privacy settings and controls.
+<p>Settings have been carefully designed to put you in control of your data.
+And you can adjust what information is shared, where you share it, and when it is backed up.</p> Third-party apps and permissions <p>Apple gives you transparency and control over data that you share with apps.
+Apps may request access to things such as your location, contacts, calendars, or photos.
+You’ll receive a prompt with an explanation the first time a third-party app wants to use this data, so you can make an informed decision about granting permission.
+Even if you grant access once, you can always change it later in Settings.</p> Location data <p>Sometimes it’s useful for your device to know your location, like when you’re setting up meetings in Calendar or getting directions.
+Location Services on your device uses a combination of GPS, Bluetooth, and crowd-sourced Wi-Fi hotspots and mobile towers to figure out where you are.
+Apple gives you control over the collection and use of this location data on all your devices.
+You have the choice to enable Location Services when you first set up your device — it’s not on by default.
+And once you turn it on, you can always change your mind and turn it off.</p> View the Location Services Privacy white paper (PDF) Data and privacy information <p>Data and privacy information screens make it easy to understand how Apple will use your personal information before you sign in or start using new features.
+When you see the Data and Privacy icon, you’ll find helpful information on what personal data may be shared and how it will be used to improve your experience.</p> Data and Privacy page <p>To give you more control over your personal information, we provide a set of dedicated privacy management tools on your Data and Privacy page.
+These tools give you the ability to get a copy of your data, request a correction to your data, deactivate your account, or delete your account.</p> Learn more about taking control of your data Visit your Data and Privacy page Analytics <p>If you choose to opt in, your iOS and iPadOS devices can collect analytics about your device and any paired Apple Watch and send it to Apple for analysis.
+This analysis helps Apple improve products and reduce problems like apps crashing.
+The collected information does not identify you personally and can be sent to Apple only with your explicit consent.
+Analytics may include details about hardware and operating system specifications, performance statistics, and data about how you use your devices and applications.
+When it’s collected, personal data is either not logged at all, removed from reports before they’re sent to Apple, or protected by techniques such as Differential Privacy.</p>
+<p>The information we gather using Differential Privacy helps us improve our services without compromising individual privacy.
+For example, this technology improves QuickType and emoji suggestions, as well as Lookup Hints in Notes.</p>
+<p>We now identify commonly used data types in the Health app and web domains in Safari that cause performance issues.
+This information will allow us to work with developers to improve your experience without revealing anything about your individual behavior.</p>
+<p>If you give your explicit consent to share iCloud Analytics, Apple can improve Siri and other intelligent features by analyzing how you use iCloud data from your account, such as text snippets from email messages.
+Analysis happens only after the data has gone through privacy-enhancing techniques like Differential Privacy so that it cannot be associated with you or your account.</p> Advertising <p>Apple is committed to delivering advertising in a way that respects your privacy.
+Ads that are delivered by Apple may appear in the App Store, Apple News, or the Stocks app.
+Ads in the App Store, Apple News, and Stocks do not access user data from other Apple services like Apple Pay, Maps, Siri, iMessage, and iCloud.
+They also don’t use data from user devices through services and functions such as the Health app, HomeKit, email, contacts, or call history.
+In the App Store and Apple News, your search and download history may be used to serve you relevant search ads.
+In the Apple News and Stocks apps, ads are served based partly on what you read or follow.
+This includes publishers for whom you’ve enabled notifications and the type of publishing subscription you have.
+The articles you read are not used to serve targeted ads to you outside these apps, and information collected about what you read is linked to a random identifier rather than your Apple ID.
+You can always turn on Limit Ad Tracking to stop receiving targeted ads in Apple News, Stocks, and the App Store.
+You may still receive the same number of ads, but the ads may be less relevant to you.</p> Limiting targeted interest-based ads <p>To help protect your privacy, we have developed the nonpersistent Advertising Identifier.
+This requires all ads in every app to clearly indicate that they are advertisements, and they’re marked so you can see why you were served a particular ad.
+You can also go into Settings to view what data may be used to determine which ads are delivered to you.
+Advertisers use the Advertising Identifier to control the number of times you see a given ad, to measure the effectiveness of ad campaigns, and to serve you more relevant ads, but you can always choose to opt out.
+When you enable Limit Ad Tracking, your Advertising Identifier cannot be used by third-party apps to serve you targeted ads.
+Apple’s advertising service won’t serve interest-based ads to children under 13 and Managed Apple IDs.
+And Apple has strong guidelines for apps in the Kids category of the App Store to protect children from seeing improper advertising.</p> More ways to keep your data safe.
+<p>Keep an eye out for fraudulent attempts to acquire your personal information.</p> Pay attention to notifications.
 <p>When you sign in for the first time on a new device, update your payment method, change your password, or make other changes to your account, Apple notifies you with an email or a push notification.
 So if you receive a notification from us about a change that you don’t remember making, it could mean that someone has wrongfully accessed your account.
-If that happens, go to “Manage your Apple ID” to change your password immediately.
-If you need additional help, contact Apple Support for assistance.</p>
-<p>Change your Apple ID password</p>
-<p>Contact Apple ID Support</p> Beware of phishing.
-<p>“Phishing” refers to fraudulent attempts to get personal information from you, such as your Apple ID password or credit card information, usually through an email or text message.
+If that happens, go to “Manage your Apple ID” to change your password immediately.
+If you need additional help, contact Apple Support for assistance.</p> Change your Apple ID password Contact Apple ID Support Beware of phishing.
+<p>“Phishing” refers to fraudulent attempts to get personal information from you, such as your Apple ID password or credit card information, usually through an email or text message.
 The request may appear to be from a legitimate company or individual, but it’s not.
-Turning on two-factor authentication is the best way to protect yourself against phishing schemes designed to trick you into revealing your Apple ID account credentials.
+Turning on two-factor authentication is the best way to protect yourself against phishing schemes designed to trick you into revealing your Apple ID account credentials.
 Never provide your password, verification codes, or any other sensitive account information over email or text messages.
-If you receive what you believe to be a phishing email purporting to be from Apple, send it to reportphishing@apple.com.</p>
-<p>Learn more about protecting yourself from phishing</p> Be aware of what you’re sharing.
-<p>Sharing certain information with apps and services can make your Apple products work even better.
-There are a number of settings that let you choose which data is shared, where you share it, and when it is backed up.
-It’s important to know how your settings are currently configured and how you can easily manage them.</p> Data and privacy information.
-<p>We’ve introduced new data and privacy information screens that make it easier than ever to understand how Apple will use your personal information before you sign in or start using new features.
-When you see the data and privacy icon, you’ll find helpful information on what data may be shared and how it will be used to improve your experience.</p> Conﬁgure your iCloud settings.
-<p>You have control over how your photos, health information, documents, and other data are shared between your devices and iCloud.
-Individual iCloud services can be turned on or off.
-In iOS, you can manage these in iCloud settings.
-On a Mac, go to the iCloud section of System Preferences.
-On a Windows PC, open the iCloud Control Panel.</p> Manage your location data.
-<p>Sometimes it’s useful for your device to know your location, like when you’re setting up meetings in Calendar or getting directions.
-Location Services uses a combination of GPS, Bluetooth, and crowd-sourced Wi-Fi hotspots and mobile towers to figure out where you are.
-Apple gives you control over the collection and use of this location data on all your devices.
-You have to make the choice to enable Location Services — it’s not on by default.
-Once you turn it on, you can always change your mind and turn it off.</p> Emergency SOS.
-<p>With SOS, you can use your Apple Watch to place a call to emergency services. You can also choose to notify your selected SOS contacts with a message indicating that you placed this call and to share your current location with them for a specific period of time.
-You can disable further notices to your SOS contacts at any time.
-If Location Services is disabled, it will be temporarily enabled in order to notify your SOS contacts of your location.
-Your location is also sent to any nearby emergency services that use the Rapid SOS service, and any data shared is deleted after 24 hours.</p> Control data shared with apps.
-<p>Apps from the App Store may request access to things such as your location, contacts, calendars, or photos.
-You’ll receive a prompt with an explanation the first time a third-party app wants to use this data, so you can make an informed decision about granting permission.
-Even if you grant access once, you can always change it later in Settings.</p> Limit targeted interest-based ads.
-<p>Advertising is a source of income for some app developers.
-To help protect your privacy, we have developed the nonpersistent Advertising Identifier.
-This requires all ads in every one of our apps to clearly indicate that they are advertisements, and to provide specific information on why they were delivered to you at that moment.
-Advertisers use the Advertising Identifier to control the number of times you see a given ad, to measure the effectiveness of ad campaigns, and, unless you choose to opt out, to serve you more relevant ads.
-When you enable Limit Ad Tracking, your Advertising Identifier cannot be used by third-party apps to serve you targeted ads.
-Apple’s advertising service won’t serve interest-based ads to children under 13 and Managed Apple IDs.</p>
-<p>Learn more about opting out of interest-based ads</p> Browse the web privately.
-<p>Turn on Private Browsing and Safari won’t add the sites you visit to your history, remember your searches, or save any information from forms you fill out online.
-You can use content blockers to control what’s loaded onto your browser and to prevent anyone from attempting to track your activity on a website or across websites.
-Content blocker support is designed so that it can’t send developers information about what you’re looking at.</p>
-<p>In addition, Safari is the first browser to offer DuckDuckGo as a built-in option that you can set as your default search engine, which allows you to search the web without being tracked.
-On your Mac, go to Safari Preferences, choose Search, then choose DuckDuckGo as your search engine.
-On iOS devices, tap Settings, tap Safari, then tap Search Engine and choose DuckDuckGo.</p>
-<p>We provide a way for developers to build downloadable extensions for Safari that block malicious content designed to collect the addresses of the sites you visit.</p>
-<p>Learn more about Safari Extensions</p>
-<p>Learn more about Safari Settings on iOS</p> Protect your children’s privacy.
-<p>You can set parental controls and restrictions on your Apple device to limit the websites your children visit, the type of movies and TV shows they watch, their access to FaceTime and Camera, and even their ability to download third-party apps.
-Since parental controls and restrictions are device specific, we encourage you to set them for each Apple device your child uses.
-On a Mac, you’ll find these options in Parental Controls in System Preferences.
-On iOS devices, tap Settings, tap General, then tap Restrictions.</p>
-<p>You can also use Screen Time to better understand and make choices about how much time your children spend using apps and websites.
-Activity Reports give you a detailed look at all of their app usage, notifications, and device pickups — information that is accessible only to you, never to Apple or third parties.
-And you can set the amount of time your kids can spend each day on specific apps and websites.</p>
-<p>With Family Sharing, children can have their own Apple IDs.
-We’ve developed tools such as Ask to Buy, which allows parents to approve app or in-app purchases, to give parents control over their children’s purchases using their Apple ID.
-We require a parent or guardian’s valid consent to set up an Apple ID for a child, and we help give adults visibility into that child’s activity and content.</p>
-<p>Learn more about Family Sharing</p>
-<p>Learn more about Screen Time</p> 
+If you receive what you believe to be a phishing email purporting to be from Apple, send it to reportphishing@apple.com.</p> Learn more about protecting yourself from phishing Learn more about privacy at Apple.
+<ul>
+<li>Review privacy features</li>
+<li>Go to privacy overview</li>
+</ul> 
