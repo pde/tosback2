@@ -18,6 +18,7 @@
 <li>Governance</li>
 <li>Software Development Life Cycle (SDLC)</li>
 <li>Training</li>
+<li>Enterprise Protection</li>
 <li>Validation</li>
 <li>Security Response</li>
 </ul>
@@ -312,6 +313,19 @@ as applicable.</li>
 <li>Are personnel training plans and records kept for internal company compliance purposes?
 <ul>
 <li>Tasks and training completed during onboarding are recorded.</li>
+</ul>
+</li>
+</ol>Enterprise Protection
+<ol>
+<li>Is antivirus protection enabled on endpoints?
+<ul>
+<li>NO.
+Antivirus solution will be dependent on management decision on device management strategy.
+We use Apple Macbook Pro's and Linux GitLab-issued laptops.
+Mac's provide application sandboxing which will require the malware to escape.
+requires by default all applications installed are signed.
+Linux laptops are operating with user trust.
+GitLab hosts are monitored utilizing Uptycs and OSquery.</li>
 </ul>
 </li>
 </ol>Validation
