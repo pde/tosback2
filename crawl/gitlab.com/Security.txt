@@ -405,8 +405,8 @@ For more details on
 this, please see the page on responsible disclosure.</li>
 <li>A combination of third party white box, grey box, and pen testing.</li>
 </ul>
-<p>Grimm carried out a black box
-assessment of GitLab and GitLab.com in Q2 2018.
+<p>Grimm carries out a black box
+assessment of GitLab and GitLab.com annually and the last assessment was performed in Q3 of 2019.
 Their report is available for
 (prospective) enterprise customers by emailing <code>security@gitlab.com</code>.</p>
 <p>Given that penetration testing and other simulated events are frequently indistinguishable from real life attack activities and have the potential to impact performance and site reliability, we do not permit customers, prospective customers, or members of the larger GitLab community to conduct penetration tests and vulnerability scans to or originating from the GitLab.com environment without explicit approval from GitLab's Security Team.</p>
