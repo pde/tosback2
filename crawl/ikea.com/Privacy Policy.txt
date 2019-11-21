@@ -1,4 +1,12 @@
- Menu IKEA <ul>
+ <ul>
+<li>Customer Service</li>
+<li>IKEA Family</li>
+<li>IKEA for Business</li>
+<li>IKEA Planning Tools</li>
+<li>Track My Order</li>
+<li>Find a Location</li>
+<li>Credit Card</li>
+</ul> Menu IKEA <ul>
 <li> Offers </li>
 <li> Products Products Products <ul>
 <li> Furniture <ul>
@@ -399,6 +407,9 @@ Steals <ul>
 <li> IKEA Sets </li>
 <li> $10 and under </li>
 </ul> Seasonal <ul>
+<li> Black Friday <p>
+</p>
+</li>
 <li> Winter Holidays <p>
 </p>
 </li>
@@ -421,7 +432,6 @@ appliances </li>
 <li> Baby &amp.
 kids room </li>
 <li> Dining </li>
-<li> Storage </li>
 <li> Hallway </li>
 <li> Laundry </li>
 <li> Outdoor </li>
@@ -444,9 +454,20 @@ Steals </li>
 </li>
 <li> Seasonal Seasonal <ul>
 <li> Seasonal </li>
+<li> Black Friday </li>
 <li> Winter Holidays </li>
 <li> Collections </li>
 <li> Back to College </li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Customer Service</li>
+<li>IKEA Family</li>
+<li>IKEA for Business</li>
+<li>IKEA Planning Tools</li>
+<li>Track My Order</li>
+<li>Credit Card</li>
 </ul>
 </li>
 </ul>
