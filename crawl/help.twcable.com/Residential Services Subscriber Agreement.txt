@@ -1,5 +1,5 @@
 
-850fed33-67fb-4c45-8bbf-fb747cf6bc6f <ul>
+4bb845f9-311f-4560-a22c-6cd90d72a01c <ul>
 <li>
 <p>
 </p>
@@ -29,7 +29,18 @@
 <li> Cable TV </li>
 <li> Home Phone </li>
 <li> Mobile </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="d84e9f46-69ab-489b-a0f6-bb9d4b0a957b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="d84e9f46\u002D69ab\u002D489b\u002Da0f6\u002Dbb9d4b0a957b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul>
@@ -48,9 +59,31 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="e1d425da-caf0-464b-985a-63e1a756797d" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="e1d425da\u002Dcaf0\u002D464b\u002D985a\u002D63e1a756797d"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="7ec2a8f6-4a13-448d-b172-c09224d1f49a" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="7ec2a8f6\u002D4a13\u002D448d\u002Db172\u002Dc09224d1f49a"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -4729,9 +4762,31 @@ Voice Service Price Guides
 <li> Spectrum TV </li>
 <li> Spectrum Internet </li>
 <li> Spectrum Voice </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="b584860c-8058-4851-aa36-761153687dfa" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="b584860c\u002D8058\u002D4851\u002Daa36\u002D761153687dfa"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="9feeb2fc-628d-469d-8b30-4c9f2019d61b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="9feeb2fc\u002D628d\u002D469d\u002D8b30\u002D4c9f2019d61b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
