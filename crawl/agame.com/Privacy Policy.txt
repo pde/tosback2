@@ -10,35 +10,7 @@
 <p>New</p>
 </li>
 <li>
-<p>Multiplayer</p>
-</li>
-<li>
-<p>Action</p>
-</li>
-<li>
-<p>Adventure</p>
-</li>
-<li>
-<p>Puzzle</p>
-</li>
-<li>
-<p>Girls</p>
-</li>
-<li>
-<p>Racing</p>
-</li>
-<li>
-<p>Sports</p>
-</li>
-<li>
-<p>More</p>
-</li>
-<li>
-<p>For you</p>
-</li>
-</ul>
-<ul>
-<li> Top Categories <ul>
+<p>Multiplayer</p> Top Categories <ul>
 <li> Social Games </li>
 <li> 2 player </li>
 <li> MMO </li>
@@ -64,7 +36,8 @@
 <li> Pixel Apocalypse </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Action</p> Top Categories <ul>
 <li> Boy Games </li>
 <li> 3D Games </li>
 <li> Fighting </li>
@@ -95,7 +68,8 @@ Bullet </li>
 <li> Stickman Archer 2 </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Adventure</p> Top Categories <ul>
 <li> Platform Games </li>
 <li> Physics </li>
 <li> Funny Games </li>
@@ -125,7 +99,8 @@ Bullet </li>
 <li> Naruto Online </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Puzzle</p> Top Categories <ul>
 <li> Bubble Shooter </li>
 <li> Hidden Objects </li>
 <li> Match 3 </li>
@@ -155,7 +130,8 @@ Bullet </li>
 <li> Pyramid Solitaire Duel </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Girls</p> Top Categories <ul>
 <li> Dress Up </li>
 <li> Animal </li>
 <li> Beauty Games </li>
@@ -185,7 +161,8 @@ Bullet </li>
 <li> Love Tester 3 </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Racing</p> Top Categories <ul>
 <li> BMX Games </li>
 <li> Truck Games </li>
 <li> Flight Games </li>
@@ -215,7 +192,8 @@ Bullet </li>
 <li> Derby Crash 2 </li>
 </ul>
 </li>
-<li> Top Categories <ul>
+<li>
+<p>Sports</p> Top Categories <ul>
 <li> Athletics </li>
 <li> Basketball </li>
 <li> Billiards </li>
@@ -245,16 +223,34 @@ Bullet </li>
 </ul>
 </li>
 <li>
+<p>More</p>
 <ul>
-<li> Multiplayer </li>
-<li> Action </li>
-<li> Adventure </li>
-<li> Puzzle </li>
-<li> Girls </li>
-<li> Racing </li>
-<li> Sports </li>
+<li>
+<p>Multiplayer</p>
+</li>
+<li>
+<p>Action</p>
+</li>
+<li>
+<p>Adventure</p>
+</li>
+<li>
+<p>Puzzle</p>
+</li>
+<li>
+<p>Girls</p>
+</li>
+<li>
+<p>Racing</p>
+</li>
+<li>
+<p>Sports</p>
+</li>
 </ul>
 </li>
+<li>
+<p>For you</p>
+<ul>
 <li> For you <ul>
 </ul> Recommended Games <ul>
 <li> Roblox </li>
@@ -267,6 +263,8 @@ Bullet </li>
 <li> Cookie Crush 3 </li>
 <li> Extreme Dental Emergency </li>
 </ul> FAVE GAMES <p>Are you an existing user? Then log in to see your favorited games here! Don't have an account yet? Be sure to sign up to use this feature.</p> Join for free </li>
+</ul>
+</li>
 </ul> privacy policy <ul>
 <li>Agame.com</li>
 <li>privacy policy</li>
