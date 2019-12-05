@@ -92,7 +92,7 @@ You further agree and acknowledge that an Agent Login cannot be shared or used b
 You and Your Agents are responsible for maintaining the confidentiality of all Agent Login information for Your Account.
 Absent a written license from Zendesk expressly stating otherwise, You agree and acknowledge that You may not use the Services, including but not limited to the API, to circumvent the requirement for an individual Agent Login for each individual who (a) leverages the Services to interact with End-Users.
 (b) Processes data related to interactions with End-Users.
-or (c) Processes data related to interactions originating from a Third Party Service that provides functionality similar to functionality provided by the Services and which would, pursuant to this Agreement, require an individual Agent Login if utilizing the Services for such interaction.
+or (c) Processes data related to interactions originating from a Non-Zendesk Service that provides functionality similar to functionality provided by the Services and which would, pursuant to this Agreement, require an individual Agent Login if utilizing the Services for such interaction.
 Should Zendesk discover that Your use of a Zendesk Service is not in compliance with this Agreement or the Service Plan features and limitations on Our Site, Zendesk reserves the right to charge You, and You hereby agree to pay for, said usage in addition to other remedies available to Us.</p>
 <p>
 <strong>2.2</strong> Compliance.
@@ -505,124 +505,75 @@ Termination of this Agreement shall not limit a Party’s liability for obligati
 DEFINITIONS</strong>
 </p>
 <p>When used in this Agreement with the initial letters capitalized, in addition to the terms defined elsewhere in this Agreement, the following terms have the following meanings:</p>
-<p>
-<strong>26.1 Account:</strong> means any accounts or instances created by or on behalf of Subscriber or its Agents within the Services.</p>
-<p>
-<strong>26.2 Additional Feature(s):</strong> means additional features or functionality (including, but not limited to, Built by Zendesk Marketplace Applications, Zendesk Labs apps, Early Access Programs, or Beta Services) that are available or enabled through the Service, but do not form part of the Service.
+<p>“Account” means any accounts or instances created by or on behalf of Subscriber or its Agents within the Services.</p>
+<p>“Additional Feature(s)” means additional features or functionality (including, but not limited to, Built by Zendesk Marketplace Applications, Zendesk Labs apps, Early Access Programs, or Beta Services) that are available or enabled through the Service, but do not form part of the Service.
 Additional Features are purchased or enabled separately and distinctly from Your Service Plan and Deployed Associated Services.</p>
-<p>
-<strong>26.3 Affiliate:</strong> means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party, whereby “control” (including, with correlative meaning, the terms “controlled by” and “under common control”) means the possession, directly or indirectly, of the power to direct, or cause the direction of the management and policies of such person, whether through the ownership of voting securities, by contract, or otherwise.</p>
-<p>
-<strong>26.4 Agent:</strong> means an individual (including those of Your Affiliates) authorized to use the Service(s) through Your Account as an agent and/or administrator, each as identified through an individual Agent Login.</p>
-<p>
-<strong>26.5 Agent Login:</strong> a unique username and password provisioned on an Agent-by-Agent basis.
+<p>“Affiliate” means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party, whereby “control” (including, with correlative meaning, the terms “controlled by” and “under common control”) means the possession, directly or indirectly, of the power to direct, or cause the direction of the management and policies of such person, whether through the ownership of voting securities, by contract, or otherwise.</p>
+<p>“Agent” means an individual (including those of Your Affiliates) authorized to use the Service(s) through Your Account as an agent and/or administrator, each as identified through an individual Agent Login.</p>
+<p>“Agent Login” a unique username and password provisioned on an Agent-by-Agent basis.
 </p>
-<p>
-<strong>26.6 Agreement:</strong> means the Master Subscription Agreement together with any and all Supplemental Terms, Order Forms, and other documents such as a SOW, BAA, CCPA Addendum and DPA (each, where applicable) along with the Zendesk Privacy Policy located on Zendesk’s Customers and Partners Website.</p>
-<p>
-<strong>26.7 API:</strong> means the application programming interfaces developed, made available and enabled by Zendesk that permit Subscribers to access certain functionality provided by the Services, including, without limitation, the REST API that enables the interaction with the Services automatically through HTTP requests and the application development API that enables the integration of the Services with other web applications.</p>
-<p>
-<strong>26.8 Applicable Data Protection Law:</strong> means the following data protection law(s): (a) the EU Regulation 2016/679 entitled “On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation or GDPR)” and any applicable national laws made under it.
+<p>“Agreement” means the Master Subscription Agreement together with any and all Supplemental Terms, Order Forms, and other documents such as a SOW, BAA, CCPA Addendum and DPA (each, where applicable) along with the Zendesk Privacy Policy located on Zendesk’s Customers and Partners Website.</p>
+<p>“API” means the application programming interfaces developed, made available and enabled by Zendesk that permit Subscribers to access certain functionality provided by the Services, including, without limitation, the REST API that enables the interaction with the Services automatically through HTTP requests and the application development API that enables the integration of the Services with other web applications.</p>
+<p>“Applicable Data Protection Law” means the following data protection law(s): (a) the EU Regulation 2016/679 entitled “On the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation or GDPR)” and any applicable national laws made under it.
 and (b) the Swiss Federal Act of 19 June 1992 on Data Protection (as may be amended or superseded).</p>
-<p>
-<strong>26.9 Associated Services:</strong> means products, services, features and functionality designed to be used in conjunction with the Services that are not included in the Service Plan to which You subscribe.
+<p>“Associated Services” means products, services, features and functionality designed to be used in conjunction with the Services that are not included in the Service Plan to which You subscribe.
 For avoidance of doubt, Additional Features that are expressly stated to be governed by separate Supplemental Terms shall not be deemed an Associated Service.</p>
-<p>
-<strong>26.10 Beta Services:</strong> means a product, service or functionality provided by Zendesk that may be made available to You to try at Your option at no additional charge which is clearly designated as beta, pilot, limited release, non-production, early access, evaluation or by a similar description.</p>
-<p>
-<strong>26.11 Built by Zendesk Marketplace Applications:</strong> means integrations and applications created or developed by Zendesk or its Affiliates and made available in the Zendesk Marketplace (available at https://www.zendesk.com/apps) which will be governed by this Agreement unless Zendesk otherwise communicates a different agreement to You at the time of Your deployment of or access to the integration or application.</p>
-<p>
-<strong>26.12 Confidential Business Information:</strong> means all Confidential Information that is not Service Data, including, without limitation, Your Agents’ Personal Data and Account information, which Zendesk may store in its systems separate from the Service and Our security policies and procedures.</p>
-<p>
-<strong>26.13 Confidential Information:</strong> means all information disclosed by one Party to the other Party which is in tangible form and designated as confidential or is information, regardless of form, which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure, including, but not limited to, the terms of this Agreement, Subscriber Service Data and Confidential Business Information, Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving Party at the time of disclosure by the disclosing Party.
+<p>“Beta Services” means a product, service or functionality provided by Zendesk that may be made available to You to try at Your option at no additional charge which is clearly designated as beta, pilot, limited release, non-production, early access, evaluation or by a similar description.</p>
+<p>“Built by Zendesk Marketplace Applications” means integrations and applications created or developed by Zendesk or its Affiliates and made available in the Zendesk Marketplace (available at https://www.zendesk.com/apps) which will be governed by this Agreement unless Zendesk otherwise communicates a different agreement to You at the time of Your deployment of or access to the integration or application.</p>
+<p>“Confidential Business Information” means all Confidential Information that is not Service Data, including, without limitation, Your Agents’ Personal Data and Account information, which Zendesk may store in its systems separate from the Service and Our security policies and procedures.</p>
+<p>“Confidential Information” means all information disclosed by one Party to the other Party which is in tangible form and designated as confidential or is information, regardless of form, which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure, including, but not limited to, the terms of this Agreement, Subscriber Service Data and Confidential Business Information, Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving Party at the time of disclosure by the disclosing Party.
 (b) was or is obtained by the receiving Party from a third party not known by the receiving Party to be under an obligation of confidentiality with respect to such information.
 (c) is or becomes generally available to the public other than by violation of this Agreement or another valid agreement between the Parties.
 or (d) was or is independently developed by the receiving Party without the use of the disclosing Party’s Confidential Information.</p>
-<p>
-<strong>26.14 Consulting Services:</strong> means consulting and professional services (including any training, success or implementation services) provided by Zendesk Personnel as indicated on an Order Form or other written document such as a SOW.</p>
-<p>
-<strong>26.15 Documentation:</strong> means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Services or describing Service Plans, as applicable, provided or made available by Zendesk to You in the applicable Zendesk help center(s), Site or Zendesk developer website (https://developer.zendesk.com/).
+<p>“Consulting Services” means consulting and professional services (including any training, success or implementation services) provided by Zendesk Personnel as indicated on an Order Form or other written document such as a SOW.</p>
+<p>“Documentation” means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Services or describing Service Plans, as applicable, provided or made available by Zendesk to You in the applicable Zendesk help center(s), Site or Zendesk developer website (https://developer.zendesk.com/).
 provided, however, that Documentation shall specifically exclude any “community moderated” forums as provided or accessible through such knowledge base(s).</p>
-<p>
-<strong>26.16 End-User:</strong> means any person or entity other than Subscriber or Agents with whom Subscriber, its Agents, or its End-Users interact while using a Service.</p>
-<p>
-<strong>26.17 Enterprise Services:</strong> means any Service not designated on Zendesk’s Innovation Services List available on Zendesk’s Customers and Partners Website.</p>
-<p>
-<strong>26.18 Force Majeure Event:</strong> means an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving Our employees), Internet service provider failure or delay, Non-Zendesk Services, or acts undertaken by third parties, including without limitation, denial of service attack.</p>
-<p>
-<strong>26.19 Innovation Services:</strong> means any Service described on Zendesk’s Innovation Services List available on Zendesk’s Customers and Partners Website.</p>
-<p>
-<strong>26.20 Intellectual Property Rights:</strong> means any and all respective patents, inventions, copyrights, trademarks, domain names, trade secrets, know-how and any other intellectual property and/or proprietary rights.</p>
-<p>
-<strong>26.21 Order Form: </strong> means Our generated service order form(s) executed or approved by You with respect to Your subscription to a Service, which may detail, among other things, the number of Agents authorized to use a Service under Your subscription and the Service Plan applicable to Your subscription.</p>
-<p>
-<strong>26.22 Payment Agent:</strong> means Zendesk, Inc.
+<p>“End-User” means any person or entity other than Subscriber or Agents with whom Subscriber, its Agents, or its End-Users interact while using a Service.</p>
+<p>“Enterprise Services” means any Service not designated on Zendesk’s Innovation Services List available on Zendesk’s Customers and Partners Website.</p>
+<p>“Force Majeure Event” means an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving Our employees), Internet service provider failure or delay, Non-Zendesk Services, or acts undertaken by third parties, including without limitation, denial of service attack.</p>
+<p>“Innovation Services” means any Service described on Zendesk’s Innovation Services List available on Zendesk’s Customers and Partners Website.</p>
+<p>“Intellectual Property Rights” means any and all respective patents, inventions, copyrights, trademarks, domain names, trade secrets, know-how and any other intellectual property and/or proprietary rights.</p>
+<p>“Order Form: means Our generated service order form(s) executed or approved by You with respect to Your subscription to a Service, which may detail, among other things, the number of Agents authorized to use a Service under Your subscription and the Service Plan applicable to Your subscription.</p>
+<p>“Payment Agent” means Zendesk, Inc.
 or a payment agent designated by Zendesk.
 For example, if You choose to pay for a Service with a credit card or certain other payment instruments in a currency other than the U.S.
 Dollar, Zendesk may designate the Payment Agent to be Zendesk International Limited, a corporation organized under the laws of Ireland, Registration No.
 519184.</p>
-<p>
-<strong>26.23 Personal Data:</strong> means any information relating to an identified or identifiable natural person (‘data subject’) where an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as name, an identification number, location data, an online identifier or to one or more factors specific to their physical, physiological, mental, economic, cultural or social identity of that natural person.</p>
-<p>
-<strong>26.24 Personnel:</strong> means employees and/or non-employee service providers and contractors of the Zendesk Group engaged by the Zendesk Group in connection with performance hereunder.</p>
-<p>
-<strong>26.25 Planned Downtime:</strong> means planned downtime for upgrades and maintenance to the Services scheduled in advance of such upgrades and maintenance.</p>
-<p>
-<strong>26.26 Processing/to Process/Processed:</strong> means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
-<p>
-<strong>26.27 Malicious Software:</strong> means any viruses, malware, Trojan horses, time bombs, or any other similar harmful software.</p>
-<p>
-<strong>26.28 Service(s):</strong> means the products and services that are ordered by You online through a link or via an Order Form referencing this Agreement, whether on a trial or paid basis, and whether Enterprise Services or Innovation Services, and made available online by Us, via the applicable subscriber login link and other web pages designated by Us, including, individually and collectively, the applicable Software, updates, API, Documentation, and all applicable Associated Services that You have purchased or deployed or to which You have subscribed (“Deployed Associated Services”) that are provided under this Agreement.
+<p>“Personal Data” means any information relating to an identified or identifiable natural person (‘data subject’) where an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as name, an identification number, location data, an online identifier or to one or more factors specific to their physical, physiological, mental, economic, cultural or social identity of that natural person.</p>
+<p>“Personnel” means employees and/or non-employee service providers and contractors of the Zendesk Group engaged by the Zendesk Group in connection with performance hereunder.</p>
+<p>“Planned Downtime” means planned downtime for upgrades and maintenance to the Services scheduled in advance of such upgrades and maintenance.</p>
+<p>“Processing/to Process/Processed” means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
+<p>“Malicious Software” means any viruses, malware, Trojan horses, time bombs, or any other similar harmful software.</p>
+<p>“Service(s)” means the products and services that are ordered by You online through a link or via an Order Form referencing this Agreement, whether on a trial or paid basis, and whether Enterprise Services or Innovation Services, and made available online by Us, via the applicable subscriber login link and other web pages designated by Us, including, individually and collectively, the applicable Software, updates, API, Documentation, and all applicable Associated Services that You have purchased or deployed or to which You have subscribed (“Deployed Associated Services”) that are provided under this Agreement.
 “Services” exclude (a) Non-Zendesk Services as that term is defined in this Agreement.
 and (b) any Additional Features or Associated Services that are not provided under this Agreement or Your Service Plan.
 From time to time the names and descriptions of the Services or any individual Service may be changed.
 To the extent Subscriber is given access to such Service as so described by virtue of a prior Order Form or other prior acceptance of this Agreement, this Agreement shall be deemed to apply to such Service as newly named or described.</p>
-<p>
-<strong>26.29 Service Data:</strong> means a subset of Confidential Information comprised of electronic data, text, messages, communications or other materials submitted to and stored within a Service by You, Agents and End-Users in connection with Your use of such Service, which may include, without limitation, Personal Data (but shall not include the Personal Data of Your Agents in the context of Account Information as described in the Privacy Policy).</p>
-<p>
-<strong>26.30 Service Data Breach:</strong> means an unauthorized access or improper disclosure that has been verified to have affected Your Service Data.</p>
-<p>
-<strong>26.31 Service Plan(s):</strong> means the packaged service plan(s) and the functionality and services associated therewith (as detailed on the Site applicable to the Service) for the Services.</p>
-<p>
-<strong>26.32 Site:</strong> means a website operated by the Zendesk Group, including www.zendesk.com, as well as all other websites that the Zendesk Group operates.</p>
-<p>
-<strong>26.33 Software:</strong> means software provided by Zendesk (either by download or access through the internet) that allows Agents or End-Users to use any functionality in connection with the applicable Service.</p>
-<p>
-<strong>26.34 Sub-Processor:</strong> means any third-party data processor engaged by Zendesk, including entities from the Zendesk Group, that receives Service Data from Zendesk for Processing on behalf of Subscriber and in accordance with Subscriber’s instructions (as communicated by Zendesk) and the terms of its written subcontract.</p>
-<p>
-<strong>26.35 Subscription Charges:</strong> means all charges associated with Your access to and use of an Account.</p>
-<p>
-<strong>26.36 Subscription Term:</strong> means the period during which You have agreed to subscribe to a Service with respect to any individual Agent.</p>
-<p>
-<strong>26.37 Supplemental Terms:</strong> means the additional terms and conditions that are (a) contained in Exhibit B to this Agreement entitled, “Supplemental Terms and Conditions”.
+<p>“Service Data” means a subset of Confidential Information comprised of electronic data, text, messages, communications or other materials submitted to and stored within a Service by You, Agents and End-Users in connection with Your use of such Service, which may include, without limitation, Personal Data (but shall not include the Personal Data of Your Agents in the context of Account Information as described in the Privacy Policy).</p>
+<p>“Service Data Breach” means an unauthorized access or improper disclosure that has been verified to have affected Your Service Data.</p>
+<p>“Service Plan(s)” means the packaged service plan(s) and the functionality and services associated therewith (as detailed on the Site applicable to the Service) for the Services.</p>
+<p>“Site” means a website operated by the Zendesk Group, including www.zendesk.com, as well as all other websites that the Zendesk Group operates.</p>
+<p>“Software” means software provided by Zendesk (either by download or access through the internet) that allows Agents or End-Users to use any functionality in connection with the applicable Service.</p>
+<p>“Sub-Processor” means any third-party data processor engaged by Zendesk, including entities from the Zendesk Group, that receives Service Data from Zendesk for Processing on behalf of Subscriber and in accordance with Subscriber’s instructions (as communicated by Zendesk) and the terms of its written subcontract.</p>
+<p>“Subscription Charges” means all charges associated with Your access to and use of an Account.</p>
+<p>“Subscription Term” means the period during which You have agreed to subscribe to a Service with respect to any individual Agent.</p>
+<p>“Supplemental Terms” means the additional terms and conditions that are (a) contained in Exhibit B to this Agreement entitled, “Supplemental Terms and Conditions”.
 (b) included or incorporated on an Order Form via hyperlink or other reference (e.g.
 when a Deployed Associated Service is purchased).
 (c) applicable to Consulting Services when purchased by You.
 and (d) applicable to Additional Features when activated by You.</p>
-<p>
-<strong>26.38 Taxes:</strong> means taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction.</p>
-<p>
-<strong>26.39 Non-Zendesk Services:</strong> means third party products, applications, services, software, networks, systems, directories, websites, databases and information which a Service links to, or which You may connect to or enable in conjunction with a Service, including, without limitation, Non-Zendesk Services which may be integrated directly into Your Account by You or at Your direction.</p>
-<p>
-<strong>26.40 Usage Charges:</strong> means additional Subscription Charges that are incurred by Subscriber relating to the use of certain features and functionality that Subscriber enables within the Service.</p>
-<p>
-<strong>26.41 Usage Data:</strong> means metrics and information regarding Your use of the Service, including evaluating how Agents and End-Users use the Service.</p>
-<p>
-<strong>26.42 “We,” “Us” or “Our”:</strong> means Zendesk as defined below.</p>
-<p>
-<strong>26.43 Zendesk:</strong> means Zendesk, Inc., a Delaware corporation, or any of its successors or assignees.</p>
-<p>
-<strong>26.44 Zendesk Group:</strong> means Zendesk, Inc., a Delaware Corporation together with all its Affiliates.</p>
-<p>
-<strong>26.45 Zendesk Marks:</strong> means any trademarks, service marks, service or trade names, logos or other designations of Zendesk, the Zendesk Group, or its or their Affiliates, whether registered or unregistered.</p>
-<p>
-<strong>26.46 Zendesk’s Customers and Partners Website:</strong> means the website located at: https://www.zendesk.com/company/customers-partners/</p>
-<p>
-<strong>26.47 Zendesk’s Intellectual Property Website:</strong> means the website located at: https://www.zendesk.com/company/trademark-property/</p>
-<p>
-<strong>26.48 Zendesk’s Policies and Procedures Website:</strong> means the website located at: https://www.zendesk.com/company/policies-procedures/</p>
-<p>
-<strong>26.49 Zendesk’s Privacy and Data Protection Website:</strong> means the website located at: https://www.zendesk.com/company/privacy-and-data-protection/</p>
+<p>“Taxes” means taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction.</p>
+<p>“Non-Zendesk Services” means third party products, applications, services, software, networks, systems, directories, websites, databases and information which a Service links to, or which You may connect to or enable in conjunction with a Service, including, without limitation, Non-Zendesk Services which may be integrated directly into Your Account by You or at Your direction.</p>
+<p>“Usage Charges” means additional Subscription Charges that are incurred by Subscriber relating to the use of certain features and functionality that Subscriber enables within the Service.</p>
+<p>“Usage Data” means metrics and information regarding Your use of the Service, including evaluating how Agents and End-Users use the Service.</p>
+<p>“We,” “Us” or “Our” means Zendesk as defined below.</p>
+<p>“Zendesk” means Zendesk, Inc., a Delaware corporation, or any of its successors or assignees.</p>
+<p>“Zendesk Group” means Zendesk, Inc., a Delaware Corporation together with all its Affiliates.</p>
+<p>“Zendesk Marks” means any trademarks, service marks, service or trade names, logos or other designations of Zendesk, the Zendesk Group, or its or their Affiliates, whether registered or unregistered.</p>
+<p>“Zendesk’s Customers and Partners Website” means the website located at: https://www.zendesk.com/company/customers-partners/</p>
+<p>“Zendesk’s Intellectual Property Website” means the website located at: https://www.zendesk.com/company/trademark-property/</p>
+<p>“Zendesk’s Policies and Procedures Website” means the website located at: https://www.zendesk.com/company/policies-procedures/</p>
+<p>“Zendesk’s Privacy and Data Protection Website” means the website located at: https://www.zendesk.com/company/privacy-and-data-protection/</p>
 <p>
 <strong>EXHIBIT A<br>
 SUPPLEMENTAL TERMS: SERVICE-SPECIFIC TERMS</strong>
@@ -635,7 +586,7 @@ This exhibit contains supplemental service-specific terms that are in addition t
 <p>If Your Service Plan allows You to use Zendesk Support or Zendesk Chat or You otherwise subscribe to or utilize Zendesk Support or Zendesk Chat as a Service, the following Supplemental Terms apply:</p>
 <p>If You are accessing and using Zendesk Support or Zendesk Chat in connection with an integration to a third party messaging platform (e.g.
 Facebook Messenger), You hereby acknowledge that such messaging platforms are Non-Zendesk Services and certify that You have agreed to the terms of service that such third party uses to govern the use of their platform.
-If You use such Third Party Service functionality, You hereby represent that You have provided notice to and received all necessary consents from Your End-Users to contact such End-Users using Zendesk Support and Zendesk Chat and/or the Non-Zendesk Services You enable within Your Account.
+If You use such Non-Zendesk Service functionality, You hereby represent that You have provided notice to and received all necessary consents from Your End-Users to contact such End-Users using Zendesk Support and Zendesk Chat and/or the Non-Zendesk Services You enable within Your Account.
 Further, You agree that Your Service Data may be transferred to and processed by the Non-Zendesk Services that You enable in Zendesk Support and Zendesk Chat as necessary to provide the Service.</p>
 <p>You agree not to use any functionality of Zendesk Support or Zendesk Chat that integrates with third party messaging platforms to (i) facilitate conversations between End-Users and healthcare providers.
 or (ii) send or collect any patient data obtained from healthcare providers.</p>
