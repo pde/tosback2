@@ -54,6 +54,7 @@ For more details, see <strong>Section 9</strong>.
 <p> If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction.
 In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you.
 This information may be used, for example, to locate a face within a frame.
+Facial landmarks are retained for 48 hours after a video editing session.
 We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
 </p> Other Information You May Submit <p> You may submit data to us for limited purposes such as requesting customer support.
 answering a questionnaire.
@@ -313,6 +314,7 @@ If we begin to do so, we will update this notice and provide a mechanism to opt 
 <li>
 <strong>Non-Discrimination.</strong> We won’t discriminate against you because you exercise any rights herein.
 </li>
+<br>
 <p>To exercise your rights to know and delete, we must be able to verify your identity as the owner of the Vimeo account you are inquiring about.
 We may not be able to fulfill your request until we can do so.
 In general, we verify identity by confirming that you are the owner of the email address associated with the account.
