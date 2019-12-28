@@ -1,5 +1,5 @@
 
-8fdb7131-61c7-4692-8245-b0756d09a6e3 <ul>
+44a68ce2-4e0e-4753-bc41-f0a9738b5678 <ul>
 <li>
 <p>
 </p>
@@ -29,7 +29,19 @@
 <li> Cable TV </li>
 <li> Home Phone </li>
 <li> Mobile </li>
-<li> Latino </li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="67969309-3793-4ffe-995a-b7d8fac592aa" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="67969309\u002D3793\u002D4ffe\u002D995a\u002Db7d8fac592aa"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
 <li> Business </li>
 </ul>
 </li>
@@ -47,8 +59,32 @@
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li> Mobile </li>
-<li> Latino </li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="481a5f75-2003-4e1a-9c1d-5f567bcf73fe" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="481a5f75\u002D2003\u002D4e1a\u002D9c1d\u002D5f567bcf73fe"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="f85aeddf-665c-4011-91da-fa1696c39f1e" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="f85aeddf\u002D665c\u002D4011\u002D91da\u002Dfa1696c39f1e"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
 <li> Business </li>
 </ul> Check Availability &amp.
 Offers * Street Address Error: Enter your street address Apartment * Zip Code Error: Enter your 5-digit ZIP code Go Why do I need to enter my exact address? <p>SHOP ONLINE NOW</p> *Street Address Error: Enter your street address Apt / Unit # *Zip Code Error: Enter your 5-digit ZIP code FIND BEST OFFERS <p>
@@ -71,8 +107,32 @@ Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Pri
 <li> Spectrum TV </li>
 <li> Spectrum Internet </li>
 <li> Spectrum Voice </li>
-<li> Mi Plan Latino </li>
-<li> Spectrum Mobile </li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="8ccd3844-264c-47a9-b133-8ab3458246c8" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="8ccd3844\u002D264c\u002D47a9\u002Db133\u002D8ab3458246c8"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="4325991a-a8ef-4eb7-8917-750e0aa245e9" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="4325991a\u002Da8ef\u002D4eb7\u002D8917\u002D750e0aa245e9"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
+</li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
 </ul> Explore Spectrum + <ul>
@@ -115,4 +175,4 @@ Pricing and actual speeds may vary.
 Internet speed based on wired connection.
 Restrictions apply.</p>
 <p>© 2019 Charter Communications.
-All rights reserved.</p> ✓Verify
+All rights reserved.</p> 
