@@ -17,16 +17,15 @@ By using our website you consent to all cookies in accordance with our Cookie po
 <li>ExtReact</li>
 <li>ExtWebComponents</li>
 <li>GXT</li>
-<li>Sencha Test</li>
-</ul>
-</li>
-<li>Special Editions <ul>
 <li>Community Edition</li>
+<li>IDE &amp.
+Editor Plugins</li>
 </ul>
 </li>
-<li>Development Tools <ul>
-<li>Sencha Cmd</li>
+<li>Dev Tools <ul>
+<li>Sencha Test</li>
 <li>Sencha Architect</li>
+<li>Sencha Cmd</li>
 <li>Sencha Inspector</li>
 </ul>
 </li>
@@ -34,15 +33,6 @@ By using our website you consent to all cookies in accordance with our Cookie po
 <li>Sencha Themer</li>
 <li>Sencha Stencils</li>
 </ul>
-</li>
-<li>Plugins <ul>
-<li>IDE and Code Editor Plugins</li>
-</ul>
-</li>
-<li>New! Ext JS Community Edition<br>
-<p>JavaScript framework that enables developers to build web apps for any modern device.
-<em>Learn more</em>
-</p>
 </li>
 </ul>
 </li>
@@ -58,19 +48,18 @@ By using our website you consent to all cookies in accordance with our Cookie po
 </li>
 <li>Solutions
 <ul>
-<li>Sencha Solutions for <ul>
-<li>Developer</li>
-<li>Managers</li>
-<li>Quality Assurance</li>
-<li>Ext JS for Open Source</li>
-<li>Ext JS for OEM</li>
-</ul>
-</li>
 <li>Why Develop with Sencha?<p>Sencha is a leader in the web application development space with over 400 man-years of expertise in modern web technologies including ES6, HTML5, JavaScript, and CSS.</p>
 <p>Our products enable enterprises to rapidly design, develop, and test web applications across any modern device.
 Our enterprise-class Java and JavaScript frameworks leverage progressive modern standards to deliver data-rich applications for desktops, smartphones, and tablets.
 They provide developers with 140+ professionally built and supported JavaScript components, including top-notch grids, delivering unmatched productivity.
 Our testing solutions seamlessly support these tool-sets to significantly accelerate multi-platform development lifecycles.</p>
+</li>
+<li>Sencha Solutions for <ul>
+<li> Developer</li>
+<li> Ext JS for Open Source</li>
+<li> Managers</li>
+<li> Ext JS for OEM</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -84,6 +73,7 @@ Our testing solutions seamlessly support these tool-sets to significantly accele
 </li>
 </ul>
 </li>
+<li>Quality Assurance</li>
 </ul>
 <ul>
 <li>日本語</li>
@@ -582,7 +572,7 @@ LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebec
 may share your information with its parent company, Idera, Inc., its affiliates globally and its partners.
 For further details on how your data is used and stored, please review our Sencha Privacy Policy.</small>
 </li>
-<li>EmailThis field is for validation purposes and should be left unchanged.</li>
+<li>PhoneThis field is for validation purposes and should be left unchanged.</li>
 </ul> This iframe contains the logic required to handle Ajax powered Gravity Forms.
 &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6P32Q9"
 height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
