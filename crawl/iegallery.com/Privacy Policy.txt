@@ -239,7 +239,8 @@ Many of our products provide controls to disable personalized features.</li>
 For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs which can shape the development of new products.</li>
 <li>
 <strong>Customer support.
-</strong>We use data to troubleshoot and diagnose product problems, repair customers’ devices, and provide other customer care and support services.</li>
+</strong>We use data to troubleshoot and diagnose product problems, repair customers’ devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents.
+Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents.</li>
 <li>
 <strong>Help secure and troubleshoot.
 </strong>We use data to help secure and troubleshoot our products.
@@ -450,8 +451,8 @@ For example:</p>
 You can control the data stored by cookies and withdraw consent to cookies by using the browser-based cookie controls described in the Cookies section of this privacy statement.
 </li>
 <li>
-<strong>Tracking protection</strong>.
-You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up).
+<strong>Tracking protections</strong>.
+You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up) and Microsoft Edge.
 This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
 </li>
 <li>
@@ -578,17 +579,16 @@ These companies use the data they process in accordance with their privacy polic
 <strong>How to control cookies</strong>
 </p>
 <p>Most web browsers automatically accept cookies but provide controls that allow you to block or delete them.
-For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy &amp.
-Security  </strong>&gt;<strong> Clear Browsing data</strong> &gt.
-<strong>Cookies and saved website data</strong>.
-For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge or Internet Explorer.
+For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy and services </strong>&gt;<strong> Clear Browsing data</strong> &gt.
+<strong>Cookies and other site data</strong>.
+For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer.
 If you use a different browser, refer to that browser’s instructions.
 .</p>
 <p>Certain features of Microsoft products depend on cookies.
 If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost.
 If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.
 </p>
-<p>Additional privacy controls that can impact cookies, including the Tracking Protection feature of Microsoft browsers, are described in the How to access and control your personal data section of this privacy statement.
+<p>Additional privacy controls that can impact cookies, including the tracking protections feature of Microsoft browsers, are described in the How to access and control your personal data section of this privacy statement.
 </p>
 <p>
 <strong>Our use of web beacons and analytics services</strong>
@@ -921,11 +921,17 @@ we use this data on behalf of our advertising customers to provide ads.
 <p>The ads that you see may be selected based on data we process about you, such as your interests and favorites, your location, your transactions, how you use our products, your search queries, or the content you view.
 For example, if you view content on MSN about automobiles, we may show advertisements about cars.
 if you search “pizza places in Seattle” on Bing, you may see advertisements in your search results for restaurants in Seattle.</p>
-<p>The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, as well as the sites and apps of our advertisers and partners.
-We refer to these ads as "interest-based advertising" in this statement.
+<p>The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners.
+We refer to these ads as "personalized advertising" in this statement.
 For example, if you view gaming content on xbox.com, you may see offers for games on MSN.
-To provide interest-based advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites.
-If you opt out of receiving interest-based advertising, data associated with these cookies will not be used.</p>
+To provide personalized advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites.
+If you opt out of receiving personalized advertising, data associated with these cookies will not be used.</p>
+<p>We may use information about you to serve you with personalized advertising when you use Microsoft services.
+If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see offers for products and services based on your online activity while using Microsoft Edge.
+To configure your privacy settings for Edge, go to Microsoft Edge &gt.
+Settings &gt.
+Privacy and Services.
+To configure your privacy and ad settings for your Microsoft account with respect to your online activity across browsers, including Microsoft Edge, or when visiting third-party websites or apps, go to your dashboard at privacy.microsoft.com.</p>
 <p>Further details regarding our advertising-related uses of data include:</p>
 <ul>
 <li>
@@ -934,19 +940,19 @@ Microsoft is a member of the Network Advertising Initiative (NAI) and adheres to
 We also adhere to the following self-regulatory programs: <ul>
 <li>In the US: Digital Advertising Alliance (DAA)</li>
 <li>In Europe: European Interactive Digital Advertising Alliance (EDAA)</li>
-<li>In Canada: Ad Choices: Digital Advertising Alliance of Canada (DAAC) / Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)</li>
+<li>In Canada: Ad Choices: Digital Advertising Alliance of Canada (DAAC)/ Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)</li>
 </ul>
 </li>
 <li>
 <strong>Health-related ad targeting</strong>.
-In the United States, we provide interest-based advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep, and vision / eye care.
-We will also target ads based on custom, non-sensitive health-related interest categories as requested by advertisers.</li>
+In the United States, we provide personalized advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep, and vision / eye care.
+We will also personalize ads based on custom, non-sensitive health-related interest categories as requested by advertisers.</li>
 <li>
 <strong>Children and advertising</strong>.
-We do not deliver interest-based advertising to children whose birthdate in their Microsoft account identifies them as under 16 years of age.</li>
+We do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 16 years of age.</li>
 <li>
 <strong>Data retention</strong>.
-For interest-based advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.</li>
+For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.</li>
 <li>
 <strong>Data sharing</strong>.
 In some cases, we share with advertisers reports about the data we have collected on their sites or ads.</li>
@@ -956,7 +962,7 @@ In some cases, we share with advertisers reports about the data we have collecte
 Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie.
 Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites.
 These third parties may place cookies on your computer and collect data about your online activities across websites or online services.
-These companies currently include, but are not limited to: A9, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Verizon Media, Rocket Fuel, and Yahoo!.
+These companies currently include, but are not limited to: AppNexus, Facebook, Media.net, Outbrain, Taboola and Verizon Media.
 Select any of the preceding links to find more information on each company's practices, including the choices it offers.
 Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.</p>Top of page<i>
 </i>Collection of data from childrenCollection of data from children<p> When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
@@ -1326,7 +1332,7 @@ If a user activates this feature, other call participants will not receive a not
 Microsoft uses this voice and text data to provide captioning of audio for users.
 </p>Top of page<i>
 </i>LinkedInLinkedIn<p>To learn about the data LinkedIn collects and how it is used and shared, please see LinkedIn’s Privacy Policy.</p>Top of page<i>
-</i>Search and artificial intelligenceSearch and artificial intelligence<p>Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.</p>Learn moreTop of page<i>
+</i>Search, Microsoft Edge, and artificial intelligenceSearch, Microsoft Edge, and artificial intelligence<p>Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.</p>Learn moreTop of page<i>
 </i>BingBing<p> Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps.
 Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images.
 Bing services are also included within other Microsoft services, such as MSN Apps, Office, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
@@ -1479,6 +1485,64 @@ For instance, when you ask Cortana to request you a ride, the ride provider will
 Third-party skills provide their own separate terms and privacy statements.
 Please review those carefully before allowing Cortana to send information to them.</li>
 </ul>Top of page<i>
+</i>Microsoft EdgeMicrosoft Edge<p>Whenever you use a web browser to access the internet, data about your device ("standard device data") is sent to the websites you visit and online services you use.
+Standard device data includes your device's IP address, browser type and language, access times, and referring website addresses.
+This data might be logged on those websites' or online services’ web servers.
+Which data is logged and how that data is used depends on the privacy practices of the websites you visit and web services you use.
+Additionally, Microsoft Edge sends a unique browser ID to certain websites to enable us to develop aggregate data used to improve browser features and services.</p>
+<p>
+<strong>Microsoft Edge for Windows and macOS</strong>.
+Microsoft Edge is the default web browser for Windows 10 and is also available on other supported versions of Windows and macOS.</p>
+Data about how you use your browser, such as your browsing history, web form data, temporary internet files, and cookies, is stored on your device.
+You can delete this data from <p>your device using Clear Browsing History.</p>
+<p>Microsoft Edge allows you to capture and save content on your device, such as: </p>
+<ul>
+<li>
+<strong>Settings and More</strong>.
+Allows you to manage your favorites, downloads, history, extensions, and collections.</li>
+<li>
+<strong>
+<strong>Collections</strong>
+</strong>.
+Allows you to collect text, images, videos, and other content in a note page in your browser.
+When you drag content into your collection, it is cached on your device and can be deleted through your collection.</li>
+<li>
+<strong>Website Pin to Taskbar:</strong> which allows you to pin your favorite websites to the Windows taskbar.
+Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.</li>
+</ul>
+<p>
+</p>
+<p>Microsoft collects data necessary to provide features you request in Microsoft Edge.
+For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account.
+You may choose which browser data to sync, including your favorites, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address, and phone number), passwords, payment information, and other data types.
+If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s).
+You can disable or configure syncing in the Microsoft Edge settings.</p>
+<p>Microsoft Edge’s <strong>Search and site suggestions</strong> uses your search queries and browsing history to provide you with faster browsing and more relevant search recommendations.
+Microsoft Edge sends the information you type into the browser address bar to the default search provider configured in the address bar to offer search recommendations as you type each character.
+You can turn off these features at any time in the browser settings.
+In order to provide search results, Microsoft Edge sends your search queries, standard device information, and location (if you have location enabled) to your default search provider.
+If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.</p>
+<p>To improve your web experience, you may choose to share your Microsoft Edge browsing history from your Microsoft account to allow us to personalize advertising, Bing search, Microsoft News and other Microsoft services.
+For more information about our <strong>advertising privacy policies</strong> see the Advertising section of the privacy statement.
+If you disable the <strong>See ads that interest you</strong> setting in the Microsoft privacy dashboard, you will continue to receive personalized search and news based on your browsing history if you enabled the <strong>Improve your web experience by allowing Microsoft to use your browsing history from this account for personalizing advertising, search, news and other Microsoft services</strong> setting in Microsoft Edge.
+You may disable this browser setting at any time to stop receiving personalized web experiences based on your browsing history.</p>
+<p>Microsoft Edge collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly.
+Required diagnostic data also helps us improve Microsoft Edge and Windows.</p>
+<p>You can choose to send optional diagnostic data about how you use Microsoft Edge and information about your browser activity, including browsing history and search terms to Microsoft to help us improve Microsoft Edge and other Microsoft products and services.
+For Microsoft Edge on Windows 10, this information is provided when you have enabled optional diagnostic data.
+For details, see the Windows Diagnostics section of the privacy statement.
+For Microsoft Edge on other operating systems, optional diagnostic information is provided when you enable <strong>Improve Microsoft products by sending data about how you use the browser</strong> or <strong>Make searches and Microsoft products better by sending info about websites you visit in Microsoft Edge</strong> in the browser settings.</p>
+<p>The diagnostic data collected by Microsoft Edge is transmitted to Microsoft and is stored with one or more unique identifiers that help us recognize an individual browser installation on a device and understand the browser's service issues and use patterns.</p>
+<p>Learn more about Microsoft Edge</p>
+<p>
+<strong>Microsoft Edge on iOS and Android.</strong> Microsoft Edge on iOS and Android devices collects data necessary to provide features you request in Microsoft Edge.</p>
+<p>Microsoft also collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly.
+Required diagnostic data also helps us improve Microsoft Edge.</p>
+<p>Additionally, you may share optional diagnostic data about how you use Microsoft Edge and information about websites you visit (browsing history) for personalized experiences on your browser, Windows 10, and other Microsoft products and services.
+This information also helps us improve Microsoft Edge and other Microsoft products and services.
+This optional diagnostic data is sent to us when you enable <strong>Share usage data for personalization</strong> or <strong>Share info about websites you visit</strong> in the browser settings.</p>
+<p>The diagnostic data collected by Microsoft Edge is transmitted to Microsoft and is stored with one or more unique identifiers that help us recognize an individual user on a device and understand the browser's service issues and use patterns.</p>
+<p>For information about the privacy practices of legacy versions Microsoft Edge (versions 44 and below), see the Web browsers—Microsoft Edge Legacy and Internet Explorer section of the privacy statement.</p>Top of page<i>
 </i>Microsoft TranslatorMicrosoft Translator<p>Microsoft Translator is a machine translation system designed to automatically translate text and speech between numerous supported languages.</p>
 <p>Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data.
 We use this data to provide Translator, personalize your experiences, and improve our products.
@@ -1618,10 +1682,10 @@ If you choose to do so, Microsoft will collect samples of the content you type o
 When Microsoft collects inking and typing diagnostic data, it is divided into small samples and processed to remove unique identifiers, sequencing information, and other data (such as email addresses and numeric values) which could be used to reconstruct the original content or associate the input to you.
 It also includes associated performance data, such as changes you manually make to text, as well as words you've added to the dictionary.
 Learn more about improving inking and typing in Windows 10.</p>
-<p> If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft products and services for your needs.
+<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft products and services for your needs.
 If you have selected Basic as your diagnostic data setting, personalization is based on information about your device, its settings and capabilities, and whether it is performing properly.
 If you have selected Full, personalization is also based on information about the websites you browse, how you use apps and features, plus additional information about the health of your device.
-However, we do not use the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.
+However, we do not use information about the websites you browse, the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.
 </p>
 <p> Tailored experiences include suggestions on how to customize and optimize Windows, as well as ads and recommendations for Microsoft and third-party products and services, features, apps, and hardware for your Windows experiences.
 For example, to help you get the most out of your device, we may tell you about features you may not know about or that are new.
@@ -1822,7 +1886,9 @@ Microsoft Update is a service that provides you with software updates for other 
 You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates.
 Apps available through the Microsoft Store are automatically updated through the Microsoft Store, as described in the Microsoft Store section of this privacy statement.
 </p>Top of page<i>
-</i>Web browsers—Microsoft Edge and Internet ExplorerWeb browsers—Microsoft Edge and Internet Explorer<p> Microsoft Edge is the default web browser for Windows.
+</i>Web browsers—Microsoft Edge Legacy and Internet ExplorerWeb browsers—Microsoft Edge Legacy and Internet Explorer<p>This section applies to legacy versions of Microsoft Edge (versions 44 and below).
+See the Microsoft Edge section of the Privacy Statement for information about non-legacy versions of Microsoft Edge.</p>
+<p> Microsoft Edge is the default web browser for Windows.
 Internet Explorer, the legacy browser from Microsoft, is also available in Windows.
 Whenever you use a web browser to access the internet, data about your device ("standard device data") is sent to the websites you visit and online services you use.
 Standard device data includes your device's IP address, browser type and language, access times, and referring website addresses.
@@ -2260,126 +2326,4 @@ In some cases, accessing DRM-protected content will require an update to Silverl
 When you attempt to play content that requires a DRM update, Silverlight will send a request to a Microsoft server containing basic data about your device, including information about the DRM components on your computer such as their revision and security levels, troubleshooting data, and a unique identifier for your device.
 The Microsoft server uses this identifier to return a unique DRM update for your device, which will then be installed by Silverlight.
 You can turn off or configure DRM component updates on the <strong>Playback</strong> tab in the Silverlight Configuration tool.</p>Top of page<i>
-</i>Microsoft Health servicesMicrosoft Health services<p> Microsoft Health services can help you understand and manage your health data.
-They include HealthVault, HealthVault Insights, Microsoft Band devices, other Microsoft Health applications and related products.
-The Band helps you keep track of data like heart rate and steps taken.
-The Band can also use Cortana to take notes and receive notifications from your phone.
-The Microsoft Health applications send data to Microsoft servers and allow you to view, manage and control the data.
-The applications may enable notifications to the Band and other devices.
-HealthVault services let you gather, edit, add to, and store health data online, and share your health data with family, caregivers, and health care professionals.
-</p>
-<p> Microsoft Health services collect and use your data to provide the services, which includes improving and personalizing your experiences.
-Health data you provide to Microsoft through Microsoft Health services is not combined with data from other Microsoft services, or used for other purposes without your explicit consent.
-For example, Microsoft does not use your health record data to market or advertise to you without your opt-in consent.
-</p>Learn moreTop of page<i>
-</i>Health servicesHealth services<p> Microsoft Health services can help you understand and manage your health data.
-The data collected depends on the services and features you use, and includes the following:
-</p>
-<ul>
-<li>
-<strong>Profile data</strong>.
-When you create a profile, you provide data, such as height, weight, and age that is used to calculate your activity results.
-Other profile data comes from your personal Microsoft account.
-</li>
-<li>
-<strong>Activity and fitness data</strong>.
-Microsoft Health services help you keep track of your activity and fitness by collecting data like your heart rate, steps, calories burned, and sleep.
-Examples of types of activities you can choose to track are runs, workouts, and sleep.
-</li>
-<li>
-<strong>Usage data</strong>.
-To provide you with the best service, we collect and automatically upload statistics about the performance and your use of the Microsoft Health services.
-</li>
-<li>
-<strong>Location</strong>.
-Microsoft Band has built-in Global Positioning System (GPS) capabilities, which let you map your activities like running or biking, without having to carry your phone with you.
-If you enable GPS for an activity, you can view the activity map in the Microsoft Health applications.
-Some modes on the Band, such as Golf and Explorer, automatically turn on GPS, and turn it off when you end the mode.  </li>
-</ul>
-<p>To learn more about the Band's sensors and the data they collect, see the Microsoft Band page on the Microsoft Support website.</p>
-<p>
-<strong>Access and control</strong>.
-You can view and manage your data in Microsoft Health services.
-For example, you can view and update your profile data, manage connected applications, and view past activities.
-You can delete specific activity details in the Microsoft Health services.
-When you delete a specific activity, the event is deleted from the Microsoft Health services.
-however, other data and the basic sensor data captured by the devices remain in the Microsoft Health services.
-You can cancel your Microsoft Health services account at any time by contacting Customer Support from the Microsoft Band website.
-</p>Top of page<i>
-</i>HealthVaultHealthVault<p> HealthVault is a personal health platform that lets you gather, edit, store, and share health data online.
-With HealthVault, you can control your own health records.
-You can also choose to share your health data with family, caregivers, health care professionals, mobile applications, health-related devices, and online tools.
-For more information about HealthVault, visit the HealthVault Help page.
-</p>
-<p>
-<strong>Signing in to HealthVault</strong>.
-To sign in to HealthVault, you can use Microsoft account or third-party authentication services.
-If you close your Microsoft account or lose your account credentials, you may not be able to access your data.
-You can use more than one credential with HealthVault to help ensure continued access.
-Before using a third-party authentication service with HealthVault, we recommend you review the security and privacy commitments offered by the issuer.
-</p>
-<p>
-<strong>HealthVault account and Health records</strong>.
-To create a new HealthVault account, you must provide personal data such as name, date of birth, e-mail address, postal code, and country/region.
-Depending on which features you use, you may be asked for additional information.
-A HealthVault account allows you to manage one or more health records, such as the ones you create for yourself and your family members.
-You can add or remove data to a health record you manage at any time.
-</p>
-<p> In the U.S., HealthVault assigns each health record a unique HealthVault email address.
-When a message is received at that email address, the message and attachments are automatically added to the HealthVault record, and a notification email is sent to the custodians of that record.
-The email service in HealthVault uses "Direct," a protocol designed specifically to communicate with health care providers.
-For that reason, HealthVault email can only be sent and received with providers that use a system that uses the Direct protocol.
-Custodians can add or disable record email addresses.
-</p>
-<p>
-<strong>Sharing health data</strong>.
-A key value of HealthVault is the ability you have to share your health data with people and services that can help you meet your health-related goals.
-By default, you are the custodian of any records you create.
-Custodians have the highest level of access to a health record.
-As a custodian, you can share data in a health record with another person by sending an e-mail invitation through HealthVault.
-You can specify what type of access they have (including custodian access), how long they have access, and whether they can modify the data in the record.
-When you grant someone access, that person can grant the same level of access to someone else (for example, someone with view-only access can grant another user view-only access).
-<strong>Because inappropriate granting of access could allow someone to violate your privacy or even revoke your access to your own records, you should be cautious about granting access to your records.</strong>
-</p>
-<p> You can choose to share specific data (or all of the data) in a health record with other services, including participating third-party services you authorize.
-No service has access to your data through HealthVault unless an authorized user grants it access through HealthVault.
-HealthVault allows you to control access by accepting or denying requests.
-For each service granted access, you choose what health information in a specific health record to share and what actions each service may perform on the health information.
-</p>
-<p> A service you authorize for a record will get the full name associated with your HealthVault account, the nickname of the authorized record(s), and your relationship to that record.
-The service will continue to have access through HealthVault until you revoke the permission.
-Microsoft can revoke a service's access to HealthVault if it does not meet its privacy commitments to Microsoft.
-However, except for applying the access permissions you have granted to third-party services, we do not control or monitor third-party services, and their privacy practices will vary.
-</p>
-<p>
-<strong>Reports to U.S.
-health care providers</strong>.
-In the United States, we enable participating health care providers to obtain reports about whether the information they send to a record in Microsoft Health services is used.
-This feature supports the "meaningful use" objective of the HITECH Act, which provides incentives for health care providers to send their patients copies of their medical information electronically.
-Providers that participate can get reports that include a number the provider uses to identify the patient within its system, and whether the user took one of the "qualifying actions" in HealthVault (but no information about which action).
-"Qualifying action" currently includes activities such as viewing, downloading, or transmitting health information via email.
-You can turn off reporting for your records.
-</p>
-<p>
-<strong>Access and controls</strong>.
-You can review, edit, or delete your HealthVault account data, or close your HealthVault account at any time.
-Only custodians can permanently delete an item.
-When you delete a heath record, it is deleted from all users who had access to it.
-</p>
-<p> When you close your HealthVault account, we delete all records for which you are the sole custodian.
-If you share custodian access for a record, you can decide whether to delete the record.
-Microsoft will wait a limited amount of time before permanently deleting your data in order to help avoid accidental or malicious removal of your health data.
-</p>
-<p> HealthVault maintains a full history of each access, change or deletion by users and services, which includes the date, action, and name of the person or service.
-Custodians of records can examine the history of those records.
-</p>
-<p>
-<strong>Email communications</strong>.
-We will use the email address you provide when you create your HealthVault account to send you an email requesting that you validate your email address, to include in sharing invitations you send through HealthVault, and to send you service notifications, such as email notifications that information is available to add to your HealthVault records.
-</p>
-<p> HealthVault periodically sends newsletters to help keep you informed of the latest improvements.
-HealthVault will also periodically send you an email summarizing recent account activity.
-Subject to your contact preferences, we also use your email addresses to send you promotional email.
-You can unsubscribe from these emails at any time.
-</p>Top of page<i>
 </i>
