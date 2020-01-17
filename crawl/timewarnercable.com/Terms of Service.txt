@@ -1,5 +1,5 @@
 
-b036e98b-84da-4490-9b1d-00b837336a09 <ul>
+c99e1770-1214-4f6b-a9cc-150895e2ae3b <ul>
 <li>
 <p>
 </p>
@@ -29,7 +29,18 @@ b036e98b-84da-4490-9b1d-00b837336a09 <ul>
 <li> Cable TV </li>
 <li> Home Phone </li>
 <li> Mobile </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="399298e4-2dbe-45fc-bf9c-50389bd0a2ad" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="hamburger_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="399298e4\u002D2dbe\u002D45fc\u002Dbf9c\u002D50389bd0a2ad"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul>
@@ -48,9 +59,31 @@ b036e98b-84da-4490-9b1d-00b837336a09 <ul>
 <li> Internet </li>
 <li> Cable TV </li>
 <li> Home Phone </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="1ee4d28c-7298-4562-9509-001cc1e0482b" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile.html" target="_parent" data-target="#" data-linkname="Mobile" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="1ee4d28c\u002D7298\u002D4562\u002D9509\u002D001cc1e0482b"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="1ba696ab-3e33-4780-a03e-d727d04ba298" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans.html" target="_self" data-target="#" data-linkname="Latino" data-linktype="global_nav"&gt.
+&lt;span class="linkLabel "&gt.
+Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="1ba696ab\u002D3e33\u002D4780\u002Da03e\u002Dd727d04ba298"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Business </li>
 </ul> Check Availability &amp.
@@ -74,9 +107,31 @@ Enter your 5-digit ZIP code Go Why do I need to enter my exact address? Your Pri
 <li> Spectrum TV </li>
 <li> Spectrum Internet </li>
 <li> Spectrum Voice </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="0de28d44-8f08-423d-a488-7a6cadd13f43" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/latino-plans" target="_self" data-target="#" data-linkname="Mi Plan Latino" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Mi Plan Latino &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="0de28d44\u002D8f08\u002D423d\u002Da488\u002D7a6cadd13f43"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
-<li>
+<li> &lt;div class="default linkComponent"&gt.
+&lt;div data-id="e11f518b-1b7f-4940-8a8e-abe6e1174bc0" class="text-left spectrum-icon-before "&gt.
+&lt;a href="/mobile" target="_self" data-target="#" data-linkname="Spectrum Mobile" data-linktype="global_footer"&gt.
+&lt;span class="linkLabel "&gt.
+Spectrum Mobile &lt;/span&gt.
+&lt;/a&gt.
+&lt;/div&gt.
+&lt;script&gt.
+jQuery(document).ready(function () { jQuery('.linkComponent [data-id="e11f518b\u002D1b7f\u002D4940\u002D8a8e\u002Dabe6e1174bc0"]').linkComponent().
+}).
+&lt;/script&gt.
+&lt;/div&gt.
 </li>
 <li> Spectrum Sports Networks </li>
 <li> Spectrum Premium Channels </li>
