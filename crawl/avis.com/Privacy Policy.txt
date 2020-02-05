@@ -8,73 +8,9 @@ Remember Me YES NO Log In <ul>
 </li>
 <li> Need an account? Create one now </li>
 </ul> Enable Location <p>
-<b>Enable Location Services on this browser to choose your rental and skip the counter</b>
-</p>
-<p>This is required in order for us to verify you are near the rental location and check on availability of vehicles.</p>
-<p>Instructions to enable Location Services on your browser:</p>
-<p>
-<b>Note:</b> If you have installed third party applications to block pop-ups (examples include the Google, MSN, and Yahoo! toolbars), be sure to consult the vendor documentation to allow pop-up windows for desired websites.</p> Safari (macOS) <p>Safari for macOS has no per-website control over blocking pop-up windows.
-Pop-ups are either blocked, or they are not.
-To allow pop-ups:</p>
-<p>1.     From the Safari menu, choose Preferences...
-and click the Security tab.</p>
-<p>2.     Ensure the Block pop-up windows option is not checked.
-Unchecking this option will allow pop-ups.</p>
-<p>3.     To block pop-ups once again, check the Block pop-up windows checkbox.</p>
-<p>Note: If you are concerned about allowing pop-ups globally for all websites that you browse, consider using another web browser that allows website exceptions such as Chrome or Firefox.</p> Chrome (Windows/macOS) <p>1.     Open Chrome, then go to the web page that you want to allow pop-ups.</p>
-<p>2.     In Chrome's URL window, highlight the entire web address of the current page, then choose the Copy command from the Edit menu or right-click and choose the Copy command.</p>
-<p>3.     Click the icon with three horizontal bars in the upper right side of the browser toolbar.</p>
-<p>4.     Click Settings.</p>
-<p>5.     Scroll to the bottom of the Settings section and click Show advanced settings...</p>
-<p>6.     In the Privacy section, click Content settings...
-.
-The Content settings window appears.</p>
-<p>7.     Scroll to the Pop-ups section, and then ensure the Do not allow any site to show pop-ups radio button is selected.</p>
-<p>8.     Click Manage exceptions...
-.</p>
-<p>9.     In the Hostname pattern field, choose the Paste command from the Edit menu or right-click and choose the Paste command, and ensure the Behavior dropdown menu is set to Allow.</p>
-<p>Notes: Pasting the web address of a page you wish to allow pop-ups is recommended, rather than typing the generic main web address.
-For example, you might visit www.example.com/requirepopup.html, but the page is actually hosted at popup.example.com/forms/popupform.html.
-In this example, you must allow popup.example.com, not www.example.com.
-Note also that entire websites must be allowed, not individual directories or pages, so in this example Chrome will automatically add the top level popup.example.com to its Allowed sites.</p>
-<p>10.  Click Done.</p>
-<p>11.  Close any remaining dialog boxes.</p> Firefox (Windows/macOS) <p>1.     Open Firefox, then go to the web page that you want to allow pop-ups.</p>
-<p>2.     In Firefox's URL window, highlight the entire web address of the current page, then choose the Copy command from the Edit menu or right-click and choose the Copy command.</p>
-<p>3.     Click the icon with three horizontal bars in the upper right side of the browser toolbar.</p>
-<p>4.     Select Options (Windows) or Preferences (macOS).</p>
-<p>5.     In the left sidebar, click on the Content icon to display the Content section.</p>
-<p>6.     In the Pop-ups section, ensure the Block pop-up windows checkbox is selected, then click the adjacent Exceptions...
-button.</p>
-<p>7.     In the Address of web site: field, choose the Paste command from the Edit menu or right-click and choose the Paste command, and then click Allow.</p>
-<p>Notes: Pasting the web address of a page you wish to allow pop-ups is recommended, rather than typing the generic main web address.
-For example, you might visit www.example.com/requirepopup.html, but the page is actually hosted at popup.example.com/forms/popupform.html.
-In this example, you must allow popup.example.com, not www.example.com.
-Note also that entire websites must be allowed, not individual directories or pages, so in this example Firefox will automatically add the top level popup.example.com to its Allowed sites.</p>
-<p>8.     Click Save Changes.</p>
-<p>9.     Close any remaining dialog boxes.</p> Internet Explorer (Windows) <p>When a website attempts to launch a new pop-up window, you may see dialog boxes alerting you of pop-up windows that have been blocked.
-Follow the instructions below to allow pop-up windows on a per-website basis.</p>
-<p>1.     Open Internet Explorer, then go to the web page that you want to allow pop-ups.</p>
-<p>2.     In Internet Explorer's Address field, highlight the entire web address of the current page, then right-click and choose the Copy command.</p>
-<p>3.     From the Tools menu (the gear icon on the far right), select Internet options.
-The Internet Options dialog box opens.</p>
-<p>4.     Click on the Privacy tab.</p>
-<p>5.     Under Pop-up Blocker ensure the Turn on Pop-up Blocker checkbox is checked, and then click Settings.
-The Pop-up Blocker Settings dialog box opens.</p>
-<p>6.     Right-click in the Address of website to allow: field, then choose the Paste command.</p>
-<p>Notes: Pasting the web address of a page you wish to allow pop-ups is recommended, rather than typing the generic main web address.
-For example, you might visit www.example.com/requirepopup.html, but the page is actually hosted at popup.example.com/forms/popupform.html.
-In this example, you must allow popup.example.com, not www.example.com.
-Note also that entire websites must be allowed, not individual directories or pages, so in this example Internet Explorer will automatically add the top level popup.example.com to its Allowed sites.</p>
-<p>For more information about pop-ups, see Learn more about Pop-up Blocker, located at the bottom of the dialog box.</p>
-<p>7.     Click Add.</p>
-<p>8.     Close any remaining dialog boxes.</p> Edge (Windows 10 only) <p>Microsoft Edge for Windows 10 has no per-website control over blocking pop-up windows.
-Pop-ups are either blocked, or they are not.
-To allow pop-ups:</p>
-<p>1.     Click the ellipsis icon (...) in the upper right corner of your web browser, and then click Settings.</p>
-<p>2.     In the Advanced settings section, click View advanced settings.</p>
-<p>3.     In the Block pop-ups section, click the switch to Off.
-Pop-ups are now allowed.</p>
-<p>4.     To block pop-ups once again, click the switch to On.</p> Toggle navigation Menu <ul>
+<b>Location services must be enabled to choose your car.
+Please check your browser's setting.</b>
+</p> Toggle navigation Menu <ul>
 <li>Avis Preferred</li>
 <li>Sign Up</li>
 <li>Log In</li>
@@ -416,6 +352,7 @@ Veterans </li>
 <li> Airline Points Partners </li>
 <li> Hotel Points Partners </li>
 <li> Moving Truck Rental </li>
+<li> Cargo Van Rental </li>
 </ul> Company Info <ul>
 <li> About Avis </li>
 <li> Best Price Pledge </li>
@@ -429,9 +366,9 @@ Privacy <ul>
 <li> Privacy Notice </li>
 <li> California – Do Not Sell My Personal Information </li>
 <li> Copyright Notices </li>
-</ul> United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português GET THE MOBILE APP &gt.
-<p>GET THE AVIS APP</p> © 2020 Avis Rent A Car System, LLC © 2020 Avis Rent A Car System, LLC GET THE MOBILE APP &gt.
-<p>GET THE AVIS APP</p>
+</ul> United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMongoliaMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction &gt.
+<p> GET THE AVIS APP</p> © 2020 Avis Rent A Car System, LLC © 2020 Avis Rent A Car System, LLC Get the #1 Ranked Rental Car Travel App in Customer Satisfaction &gt.
+<p> GET THE AVIS APP</p>
 <p>Connection Failed or Some Error occurred.</p> OK <p>
 <strong>Build #</strong>: </p>
 <p>
