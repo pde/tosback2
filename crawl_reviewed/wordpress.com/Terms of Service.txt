@@ -217,7 +217,7 @@ You can see which features are active, and activate and deactivate features, on 
 <strong>License.</strong> By using Jetpack, you grant us access to your website’s servers for the purpose of backing up and securing your Jetpack Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup).
 Jetpack may temporarily install extra software on your website to backup your website and scan it for security vulnerabilities.
 In order to address security vulnerabilities, we may push an upgrade to your website or access your website to remove malicious code.
-We may also manually access your site if there’s an emergency or to troubleshoot your support requests.</p>
+We may also manually access your site to troubleshoot your support requests or if there’s an emergency.</p>
 <p>You agree that we may scan your website, and compile aggregated/anonymized statistics for our internal use to optimize Jetpack’s performance.
 By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website.
 This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through Firehose, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.</p>
@@ -264,7 +264,8 @@ If you use WooCommerce, the WooCommerce Use Terms also apply.</p>
 <p>
 <strong>Prohibited Uses.</strong> You may not use Ecommerce Services for any unlawful purposes, or in furtherance of illegal activities.
 We may terminate your access to Ecommerce Services or force refunds to your subscribers without notice to you if we determine (in our sole discretion) that your use is in violation of these Terms.
-If you’re using Ecommerce Services on WordPress.com, you must not violate our User Guidelines or Store Guidelines.</p>
+If you’re using Ecommerce Services on WordPress.com, you must not violate our User Guidelines or Store Guidelines.
+If you’re using Ecommerce Services to sell CBD and other hemp-derived products, you must not violate the WooCommerce Guidelines for CBD and Other Hemp-Derived Products.</p>
 <p>
 <strong>Third Party Services.</strong> You may choose to set up and/or use third party services, such as Stripe or PayPal to collect payment, TaxJar to calculate Taxes, or EasyPost to manage shipping.
 If you do so, be aware that some of your — and your customers’ — data may be passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply.
