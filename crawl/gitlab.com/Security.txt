@@ -53,7 +53,7 @@ There are two exceptions to this policy: we have determined that there has been 
 Data Protection Officers
 <p>Oversight of Data Security is handled by GitLab's respective Data Protection Officers.
 Should you wish to make modifications, deletions or additions to any personal data you believe to be captured by GitLab, or if you have any general security concern, please contact the <strong>Data Protection Officer (DPO)</strong> for your respective territory at the following email address: security@gitlab.com</p>
-<p>For the Americas: Mel Farber</p>
+<p>For the Americas:</p>
 <p>For Europe and Middle East: Jan Urbanc</p>
 <p>For Asia Pacific: Robert Mitchell</p>
 <p>In the event you feel that you have not received proper attention to your data concern, or if you have any other legal/law enforcement concern - please contact GitLab's Legal Department at Legal@gitlab.com.</p>
@@ -416,84 +416,9 @@ GitLab will not grant approval to a third-party testing company.</p>
 <p>If you are a GitLab customer or prospective customer, please reach out to your GitLab Sales Account Representative and have them submit the request on your behalf.</p>
 <p>Again, explicit permission from GitLab's Security Team is required for all penetration tests.</p>
 Business Continuity Plan
-<p>GitLab, by it's remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters.
-Even so, threats considered in the context of business continuity are categorized by impact of the disruption.</p>
-<p>
-<strong>P1: Outage would have immediate impact on GitLab customer / user operations</strong>
-</p>
-<ol>
-<li>Disruption of service of Google Cloud Platform, specifically the region in which GitLab.com and dev.gitlab.org are hosted.
-<ul>
-<li>Effect: a loss of the Google Cloud Platform service means that GitLab.com is not available.
-This affects anyone who uses GitLab.com to host their repositories.
-GitLab.com is also the primary server where GitLab CE and EE source code and packages are hosted.</li>
-<li>Solution(s): There are many other servers across the globe where GitLab CE is readily available.</li>
-<li>Effect: Security releases are developed and staged on dev.gitlab.org before being brought to production on GitLab.com.
-these may be lost or unavailable for the duration of the disruption.</li>
-<li>Solution(s): Depending on the duration and nature of the disruption, the solution is to wait for service to be restored (minimal duration), or build a new staging server.
-Using VM snapshots, recovery from backup is relatively quick.</li>
-</ul>
-</li>
-<li>Unavailability of support staff in case of customer emergency.
-<ul>
-<li>Effect: emergency response times are greater than intended.</li>
-<li>Solution(s): The team is distributed geographically (except during team get-togethers).
-Customer emergencies are handled by <em>any</em> person who is in the on-call rotation.
-The on-call load is distributed at many levels, service engineers, production engineers, and even developers can be summoned when we have an outage or a customer incident.
-Emergencies also trigger automatic notifications on our internal chat system, alerting the entire company.
-There is also an ongoing effort to publish our runbooks, explaining how we manage our infrastructure and how we deal with outage cases.</li>
-</ul>
-</li>
-<li>Disruption of service of ZenDesk.
-<ul>
-<li>Effect: support workflows are disrupted.
-New tickets cannot be created, existing tickets cannot be responded to.</li>
-<li>Solution(s): For the duration of the outage (if more than e.g.
-4 hours) temporarily re-route incoming support requests to individual email accounts of members of the support team.
-Customers with premium support also have access to a direct chat channel.</li>
-</ul>
-</li>
-</ol>
-<p>
-<strong>P2: Outage would have immediate impact on GitLab ability to continue business</strong>
-</p>
-<ol>
-<li>Malicious Software (Viruses, Worms, Trojan horses) attack.
-<ul>
-<li>Effect: depends on attack.</li>
-<li>Solution(s): All the hosts in our fleet are running rkhunter every day to check for known rootkits.
-We get notifications whenever we detect a change in any of our hosted systems.
-Each case is handled manually for now.</li>
-</ul>
-</li>
-<li>Hacking or other Internet attacks.
-<ul>
-<li>Effect: depends on attack.</li>
-<li>Solution(s): We log and track any access that happens on any server in the fleet using logstash/kibana at log.gitlab.net.</li>
-</ul>
-</li>
-</ol>
-<p>
-<strong>P3: Outage greater than 72 hours would have impact on GitLab ability to continue to do business</strong>
-</p>
-<p>Disruption of service from Salesforce.com, Zuora</p>
-<ul>
-<li>No failover plan currently.</li>
-</ul>
-<p>
-<strong>P4: Outage greater than 10 business days would have impact on GitLab ability to continue business</strong>
-</p>
-<p>Disruption of service from TriNet, NetSuite, Google (gmail)</p>
-<ul>
-<li>No failover plan currently.</li>
-</ul>
-<p>
-<strong>P5: Non critical system</strong>
-</p>
-<p>Disruption of service from Egencia, or internal chat tool.</p>
-<ul>
-<li>No failover plan currently.</li>
-</ul>Data Breach Notification Policy
+<p>GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters.</p>
+<p>The detailed business continuity plan is documented in the BuinessOps section of this handbook.</p>
+Data Breach Notification Policy
 <p>This policy defines what qualifies as a breach of user data, what actions will be
 taken in the event of user data exposure or compromise, and the timeline for
 action.</p>
