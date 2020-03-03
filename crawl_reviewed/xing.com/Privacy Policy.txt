@@ -89,16 +89,16 @@ This information is essential for a functioning professional network.
 <li>Place: City and country</li>
 </ul>Period saved for <p>We delete this data when you delete your user account.
 </p> Legal basis <p>The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).</p> Optional information in the social network <p>As well as the mandatory information we require, you can also enter additional information to make it easier for users to get to know you better and, for example, identify and select you as a suitable business contact.
-</p> Category <ul>
-<li>e.g.
-Business e-mail address and phone number</li>
+</p> Category <p>e.g.</p>
+<ul>
+<li>Business e-mail address and phone number</li>
 <li>Private interests</li>
 <li>Private contact</li>
 <li>Educational background</li>
 <li>Photo</li>
 <li>Portfolio</li>
-</ul>Visibility <p>Your optional information is visible to all users in the social network after you enter it.
-In some cases, you can choose whether optional information should only be visible to certain users in the social network.</p>
+</ul>Visibility <p>Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity.
+Please refer to the respective application for more information.</p>
 <p>If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device).
 This feature can act as a substitute for exchanging conventional business cards.
 To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users.
@@ -109,9 +109,9 @@ We will erase the data in full when you delete your user account.
 </p> Legal basis <p>The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).</p> Mandatory information in other applications <p>In order to provide our services we require certain information from you.
 On our employer review platform we only need your e-mail address.
 On our events platform more detailed information is required in order to process and bill your participation in events.
-</p> Category <ul>
-<li>e.g.
-First name, last name</li>
+</p> Category <p>e.g.</p>
+<ul>
+<li>First name, last name</li>
 <li>E-mail address</li>
 <li>Company name</li>
 </ul>Visibility <p>Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity.
@@ -121,8 +121,8 @@ Please refer to the respective application for more information.</p> Period save
 <ul>
 <li>Employer reviews</li>
 <li>Photo</li>
-</ul>Visibility <p>Your optional information is visible to all users in the social network after you enter it.
-In some cases, you can choose whether optional information should only be visible to certain users in the social network.</p> Period saved for <p>If you delete the data, it will be removed from the respective application.
+</ul>Visibility <p>Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity.
+Please refer to the respective application for more information.</p> Period saved for <p>If you delete the data, it will be removed from the respective application.
 We will erase the data in full when you delete your user account.
 We may also save certain information (e.g.
 employer reviews) in an anonymous form beyond this point.
@@ -424,10 +424,7 @@ In such cases we process the respective data within the scope of fulfilment of o
 </p> Data from address book or list uploads <p>This includes data which can be extracted from an address book or list (e.g.
 smartphone address book, e-mail address book or CSV file), e.g.:</p>
 <ul>
-<li>This includes data which can be extracted from an address book or list, e.g.
-smartphone or e-mail address book, or CSV file.
-e.g.
-first and last name</li>
+<li>First and last name</li>
 <li>E-mail addresses</li>
 <li>Phone numbers</li>
 <li>Job title and company name</li>
