@@ -1,21 +1,102 @@
  Terms of use | Avis Rent a Car &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMF9MM" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt.
 Log into your Avis Account.
-For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts.
-Remember Me YES NO Log In <ul>
+Sign In to your Avis Account <p>Please enter your My Avis password to login</p> For full Avis and Amazon benefits, after logging in with Amazon you'll need to log in to Avis and link your accounts.
+<p>Login is not required to complete your reservation</p> Remember Me YES NO Log In Log In <ul>
 <li>Forgot username? </li>
 <li>Forgot password?</li>
+<li>Not You?</li>
 <li>
 </li>
 <li> Need an account? Create one now </li>
-</ul> Enable Location <p>
+<li> If you already have a 6 digit Wizard number, Go Here! </li>
+</ul> Cancel {{vm.customer.firstName | uppercase}} <p>Avis {{vm.customer.membershipStatus}}</p> {{vm.loyaltyDetails.points | number}} Available Points <p>Enjoy more benefits with an Avis Preferred Account.</p>
+<p>Your Rental is Ready!</p> {{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}} Enhance My Rental <p> {{rentalHistory.vehicle.makeModel}} </p>
+<p> Mileage {{features.value}} </p>
+<p>
+</p>
+<p> Your rental ends today </p>
+<p>Your rental ends in<br>{{rentalHistory.rentalEndsIn}} Days </p>
+<p>
+</p>
+<p>
+</p>
+<p> Your rental has ended </p>
+<p>Your rental ends in<br>{{rentalHistory.hoursInRental}} hour hours </p>
+<p>
+</p>
+<p> Starting Fuel {{features.value}} Gal {{features.value}} litres </p>
+<p> Current Fuel {{features.value}} Gal {{features.value}} litres </p> Enhance My Rental <p>{{rentalHistory.vehicle.makeModel}}</p>
+<p>
+</p>
+<p> Your rental ends today </p>
+<p>Your rental ends in {{rentalHistory.rentalEndsIn}} Days </p>
+<p>
+</p>
+<p>
+</p>
+<p> Your rental has ended </p>
+<p>Your rental ends in<br>{{rentalHistory.hoursInRental}} hour hours </p>
+<p>
+</p> Enhance My Rental <p>Confirmation: {{rentalHistory.confirmationNumber}}</p>
+<p>{{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}}</p>
+<p>
+</p> View Details <strong>Select Today's Rental</strong>
+<p>{{rentalHistory.pickLoc.name+', '+rentalHistory.pickLoc.locationCode}}</p>
+<p>
+</p> View Details Choose My Vehicle <p>
+</p>
+<p>No Upcoming Reservations.
+</p>
+<p>Please activate your profile to view upcoming reservations.</p>
+<br>
+<p>We are sorry, we are unable to retrieve your Upcoming Reservations currently.
+Please try again later or contact Customer Care for further assistance.</p> Upcoming Concur Trips <p> Click to add a car to your Trip.
+</p>
+<p> {{trips.fromCode}} - {{trips.toCode}}  </p> Please select a booking type I am booking this trip for Business Leisure My Rentals My Profile My Rentals Create My Profile My Profile My Profile <p>Link My Amazon and Avis Accounts</p> Connect Avis Account Log Out of Amazon Log Out Not You Enable Location <p>
 <b>Location services must be enabled to choose your car.
 Please check your browser's setting.</b>
-</p> Toggle navigation Menu <ul>
+</p>
+<p> Maintenance updates are in progress.
+Reservations are not affected, however, some functionality may not be available during this time.
+</p>
+<p> Maintenance updates are in progress.
+Reservations are not affected, however, some functionality may not be available during this time.
+</p> Toggle navigation Menu 1 <ul>
 <li>Avis Preferred</li>
 <li>Sign Up</li>
 <li>Log In</li>
-<li>Welcome, </li>
-<li>Welcome, </li>
+<li>
+<em>Update-close</em>
+<ul>
+<li>Please update your credit card information.Update <em>Update-close</em>
+</li>
+</ul>
+</li>
+<li> 1 <ul>
+<p> Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status.
+Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status.
+Almost done! Please update the terms and condition section to go to Avis Preferred status.
+</p>
+<ul>
+<li>
+</ul>
+<ul>
+<li>
+</ul>
+<p>Once you complete your profile you'll be able to skip the counter, earn points and more.</p> Complete your Profile </ul>
+</li>
+<li>Welcome, {{vm.customer.firstName | uppercase }} Welcome {{vm.customer.firstName | titleCase}} </li>
+<li>Welcome, {{vm.customer.firstName | uppercase}} Welcome {{vm.customer.firstName | titleCase}} </li>
+</ul>
+<p> Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status.
+Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status.
+Almost done! Please update the terms and condition section to go to Avis Preferred status.
+</p>
+<ul>
+<li>
+</ul>
+<ul>
+<li>
 </ul>
 <p>Once you complete your profile you'll be able to skip the counter, earn points and more.</p> Complete your Profile <ul>
 <li> Reservations <ul>
@@ -80,9 +161,27 @@ Mid-Sized Business </li>
 <li>
 <li>Avis Preferred</li>
 <li>Sign Up</li>
+<li> Log In</li>
+<li> {{vm.notificationSize}} <ul>
+<p> Only {{vm.customerData.profCompStep}} steps to go between you and Avis Preferred status.
+Only {{vm.customerData.profCompStep}} step to go between you and Avis Preferred status.
+Almost done! Please update the terms and condition section to go to Avis Preferred status.
+</p>
+<ul>
+<li>
+</ul>
+<ul>
+<li>
+</ul>
+<p>Once you complete your profile you'll be able to skip the counter, earn points and more.</p> Complete your Profile </ul>
+</li>
 <li>Log In</li>
-<li>Welcome, </li>
-<li>Welcome, </li>
+<li>Welcome, {{vm.customer.firstName| uppercase}} Welcome {{vm.customer.firstName| titleCase}} <p> Please update your credit card information.
+Update </p>
+</li>
+<li>Welcome, {{vm.customer.firstName | uppercase}} Welcome {{vm.customer.firstName | titleCase}} </li>
+<li>Log Out</li>
+<li>Not You</li>
 <li>Feedback</li>
 <li>
 </ul>
@@ -366,7 +465,7 @@ Privacy <ul>
 <li> Privacy Notice </li>
 <li> California – Do Not Sell My Personal Information </li>
 <li> Copyright Notices </li>
-</ul> United StatesCanadaAustraliaNew Zealand------------------------ArgentinaArmeniaAustriaBahamasBelgiumBosniaBrazilChinaBulgariaChileColombiaCroatiaDenmarkDominican RepublicEcuadorEl SalvadorFaroe IslandsFijiFinlandFranceGermanyGuadeloupeGuatemalaGuamHondurasHongkongHungaryIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaKuwaitLebanonMacedoniaMalaysiaMartiniqueMexicoMoroccoNetherlandNicaraguaNorwayPakistanPanamaPeruPhilippinesPolandPortugalPuerto RicoRomaniaRussiaSaudi ArabiaSingaporeSouth AfricaSpainSt Maarten/St MartinSurinameSwedenSwitzerlandTahitiTaiwanThailandTurkeyTurks and CaicosUkraineUnited Arab EmiratesUnited KingdomVanuatuVirgin IslandsYugoslavia English Français Español Português Get the #1 Ranked Rental Car Travel App in Customer Satisfaction &gt.
+</ul> {{lang.language}} Get the #1 Ranked Rental Car Travel App in Customer Satisfaction &gt.
 <p> GET THE AVIS APP</p> © 2020 Avis Rent A Car System, LLC © 2020 Avis Rent A Car System, LLC Get the #1 Ranked Rental Car Travel App in Customer Satisfaction &gt.
 <p> GET THE AVIS APP</p>
 <p>Connection Failed or Some Error occurred.</p> OK <p>
