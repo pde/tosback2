@@ -1,5 +1,5 @@
  <p>
-<em>Revision date: December 18, 2018</em>
+<em>Revision date: March 05, 2020</em>
 </p>
 <p>DeviantArt respects your privacy and is fully committed to protect your personal information and use it properly and in compliance with data privacy laws.</p>
 <p>This Privacy Policy applies to our web sites, including www.deviantart.com, shop.deviantart.com, sta.sh, and our DeviantArt mobile applications (collectively, the "<strong>DeviantArt Sites</strong>" or "<strong>Sites</strong>").
@@ -52,7 +52,7 @@ How do we collect such Information?
 <p>There are two main methods we use:</p>
 <ol>
 <li>We collect information through your use of the Site or Services.
-In other words, when you are visiting or using our Site or Services, including when you browse the Site or a User Account, edit your Account and upload information and content, and/or download and use any Site feature or services, we are aware of it and will usually gather, collect and record such uses, sessions and related information, either independently or with the help of third-party services as detailed herein, including through the use of "cookies" and other tracking technologies, as further detailed above.</li>
+In other words, when you are visiting or using our Site or Services, including when you browse the Site or a User Account, edit your Account and upload information and content, and/or download and use any Site feature or services, we are aware of it and will usually gather, collect and record such uses, sessions and related information, either independently or with the help of third-party services as detailed herein, including through the use of "cookies" and other tracking technologies, as further detailed below.</li>
 <li>We collect information which you provide us voluntarily.
 For example, we collect the PII you provide us when you register to our Services.
 when you sign-in to our Services via third party services.
@@ -177,7 +177,60 @@ Once there, you may modify information that is incorrect and delete certain info
 You can also change your permission settings for us to send you e-mail newsletters.</p>
 <p>To delete your PII, you must manually change your data fields to null values.
 Please note that some information associated with you cannot be deleted.
-Data related to transactions for products and services through the DeviantArt Print Shop is retained indefinitely and we may retain other PII associated with you in archived/backup copies for our records or as otherwise required by law.</p> Security
+Data related to transactions for products and services through the DeviantArt Print Shop is retained indefinitely and we may retain other PII associated with you in archived/backup copies for our records or as otherwise required by law.</p> Use of Cookies and Similar Technologies <p>A cookie is a
+small file of letters and numbers downloaded on to your computer when you
+access certain websites.
+In general, cookies allow a website to recognize a
+userâ€™s computer.
+The most important thing to know about cookies placed by
+DeviantArt is that they make our website a bit more user-friendly, for example,
+by remembering site preferences and language settings.<br>
+<br>
+Cookies should be divided in two types:</p>
+<ul>
+<li>"First-party cookies" - Cookies that are placed by DeviantArt</li>
+<li>"Third-party cookies" - Cookies that are placed and used by Third Party Services.</li>
+</ul>
+<p>It is important to note that DeviantArt cannot access Third-party cookies.
+nor can other Third-Party
+Services access the data in the First-party cookies we use on our website.</p>
+<p>We may also use other technologies with similar functionality to cookies, such as web beacons, pixels, mobile identifiers, and tracking URLs, to obtain Log Data (as described in the Privacy Policy).
+<br>
+<br>
+Duration: Depending on their function, Cookies may have different durations.
+There are session cookies and persistent cookies:<br>
+</p>
+<ul>
+<li>Session cookies only last for your online session.
+It means that the browser deletes these cookies once you close your browser.</li>
+<li>Persistent cookies stay on your device after the browser has been closed and last for the period of time specified in the cookie.</li>
+</ul>
+<p>Categories: The
+cookies used on our website fall into one of four categories: Essential,
+Performance, Functional and Marketing cookies.</p>
+<ul>
+<li>
+<i>Essential Cookies</i> enable core functionality such as security and network management, and accessibility.</li>
+<li>
+<i>Performance cookies</i> let us understand how you use our website (e.g.
+which pages you visit).
+These cookies
+are essential to us being able to enhance and maintain our platform.</li>
+<li>
+<i>Functional cookies</i> are cookies used to remember choices Users make to improve their experience.
+</li>
+<li>
+<i>Marketing cookies</i> are used to collect information about the impact of our marketing campaigns addressing personalized content, recomendations or optimized features</li>
+</ul>
+<p>Please check out the table below to receive more information about the type, categories, purpose and duration of cookies placed by DeviantArt and Third Party Services.<br>
+<br>
+</p>Type Name Purpose Duration Cookie auth Identify logged users 1 month Essential Cookie auth_secure Security never Essential Cookie userinfo Identify logged users 1 month Essential Cookie td image grid sizing for SSR (eclipse) session Essential Cookie tw image grid sizing for SSR (green site) 7 day Essential Cookie hubtoken websocket push messages session Essential Cookie tpc Oauth login for stash session Essential Cookie vd Used for Advertising 1 month Marketing Local Storage chatDB Allow chat feature persistent Essential Local Storage console_dapi_recent, console_recent Recently used endpoints list in API developer console persistent Performance Local Storage custombox.recent.colors Remembers colors used in custom boxes persistent Functional Local Storage FilmQuality Allow the use of player settings persistent Essential Local Storage statusUpdateSubmitCounter Number of status updates submitted via eclipse persistent Functional Local Storage intents, intents_other List of signup intents selected by user persistent Essential <p>Third Party Cookies:</p> Type Name Third party Purpose Duration Beacon and Cookie _pxhd PerimeterX<br> (https://www.perimeterx.com/legal/privacy/) Security 1 y Essential Beacon and Cookie _ga, _gat, _gid, _utm* Google Analytics<br> (https://policies.google.com/privacy?hl=en-US) Analytics 2y Performance Beacon and Cookie r/collect Google Doubleclick Ads (through Google Analytics)<br>https://policies.google.com/privacy?hl=en-US Analytics session Marketing Beacon and Cookie large number, varies Google Doubleclick Ads and other Ads networks<br>https://policies.google.com/privacy?hl=en-US Advertising varies Marketing Beacon and Cookie JSESSIONID New Relic<br> (https://newrelic.com/termsandconditions/privacy) System Monitoring session Essential Script and Cookie TS#, XSRF-TOKEN, Wix.com<br>https://www.wix.com/about/privacy Security session Essential Script and Cookie frog.wix.com Wix.com<br>https://www.wix.com/about/privacy Identify logged users persistent Essential Script and Cookie fed,fedops.logger.sessionId Wix.com<br>https://www.wix.com/about/privacy System monitoring persistent Essential Local Storage debug, debugpanel-height, debugpanel-tab, debugpanel-visible Wix.com<br>https://www.wix.com/about/privacy System Monitoring persistent Essential Local Storage firebase:host:wix-engage-visitors-prod-27.firebaseio.com Wix.com Allow the Chat feature persistent Essential <p>Your Choices<br> You can change your cookie settings by clicking in this link</p>
+<p>Alternatively, it is also possible to stop your browser from accepting cookies altogether by changing
+your browser's cookie settings.
+You can usually find these settings in the "options" or "preferences" menu of your browser.
+</p>
+<p>Please note that deleting our cookies or disabling future cookies or tracking technologies may
+prevent you from accessing certain areas or features of our Services, or may otherwise adversely affect your user experience.</p> Security
 <p>We have implemented security measures designed to protect the PII you share with us, including physical, electronic and procedural measures.
 Among other things, we offer HTTPS secure access to most areas on our Services.
 the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection.
