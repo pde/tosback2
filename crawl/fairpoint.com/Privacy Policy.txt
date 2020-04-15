@@ -332,7 +332,12 @@ College Relations </li>
 </li>
 </ul>
 <ul>
-<li>My Account    </li>
+<li>My Account <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
+<li>MyCCI.net</li>
+</ul>
+</li>
 <ul>
 <li> About Us <ul>
 <li> Locations </li>
@@ -622,7 +627,11 @@ Response <ul>
 </ul>
 </li>
 <li> Help at Home </li>
-<li> Help at Work </li>
+<li> Help at Work <ul>
+<li> Health Care Funding </li>
+<li> Small Business Funding </li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -749,10 +758,13 @@ Domain Support</li>
 <li>Business Support Portals</li>
 <li>Agent Support Center</li>
 </ul> Account Support <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
 <li>Help Understanding My Bill</li>
 <li>Check My Internet Speed Eligibility</li>
 <li>Seasonal Suspend &amp.
 Restore</li>
+<li>MyCCI.net Support</li>
 </ul> Phone Book <ul>
 <li>Phone Book Info</li>
 <li>Local Search</li>
