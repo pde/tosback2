@@ -1,4 +1,4 @@
- Vimeo Terms of Service Agreement <p>Last Updated: April 16, 2020</p>
+ Vimeo Terms of Service Agreement <p>Last Updated: May 21, 2020</p>
 <p>This <strong>Vimeo Terms of Service Agreement</strong> (the “<strong>Agreement</strong>” or “<strong>Terms of Service</strong>”) is made between Vimeo, Inc.
 (“<strong>Vimeo</strong>,” “<strong>we</strong>,” “<strong>us</strong>,” or “<strong>our</strong>”) and you, our customer (“<strong>you</strong>” or “<strong>your</strong>”).
 This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “<strong>Services</strong>”).
@@ -63,13 +63,20 @@ Purchases of Vimeo Stock footage and licenses are governed by our Vimeo Stock Li
 Your sales of videos are governed by our Seller Addendum.</p>
 <p>
 <strong>Downloadable Software:</strong> We may offer applications for devices (“<strong>Apps</strong>”) directly or through third-party stores.
-Apps are governed by our App Addendum.</p>
+Subject to your compliance with these Terms of Service, Vimeo grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps.
+We may update Apps from time to time to add new features and/or correct bugs.
+You shall ensure that you are using the most recent version of the App that is compatible with your device.
+We cannot guarantee that you will be able to use the most recent version of the App on your device.
+Apps offered through third-party stores are subject to our Third-Party Service Addendum.</p>
 <p>
 <strong>Developer Tools:</strong> We may offer application programming interfaces (“<strong>APIs</strong>”) that allow developers to build applications connected to our Services.
 Our APIs and related documentation are governed by our API License Addendum.</p>
 <p>
 <strong>Enterprise Services:</strong> We may offer Services pursuant to an individually-negotiated agreement.
-Enterprise services are governed by our Enterprise Terms.</p> 3.
+Enterprise services are governed by our Enterprise Terms.</p>
+<p>
+<strong>Third Parties:</strong> We may provide links to and integrations with websites or services operated by others.
+Your use of each such website or service is subject to its terms of service and our Third-Party Service Addendum.</p> 3.
 Accounts <p>
 <strong>Registration:</strong> You may create an account to use certain features we offer (e.g., uploading or live streaming videos).
 To do so, you must provide an email address.
@@ -166,6 +173,7 @@ We will, in appropriate circumstances, terminate the accounts of persons who rep
 <li>Depicts animal cruelty or extreme violence towards animals;</li>
 <li>Promotes fraudulent or dubious business schemes or proposes an unlawful transaction;</li>
 <li>Makes false or misleading claims about vaccination safety;</li>
+<li>Conveys false or misleading health-related information that has a serious potential to cause public harm;</li>
 <li>Claims that mass tragedies are hoaxes or false flag operations;</li>
 <li>Depicts or encourages self-harm.
 or</li>
@@ -315,15 +323,13 @@ In the event of a force majeure event, Vimeo shall be relieved from full perform
 neither party is an agent, partner, or joint venturer of the other.
 This Agreement binds the parties and their successors, personal representatives, and permitted assigns.
 You may not assign this Agreement to any person whose account has been terminated by Vimeo or who is prohibited from registering.
-any such assignment will be void.</p>
-<p>
-<strong>Third Parties:</strong> We may provide links to and integrations with websites operated by others.
-The website operator, not Vimeo, is solely responsible for the content thereof, and your use of each such website will be subject to its terms of service.
-We may disable integrations with any third party at any time, with or without notice.
+any such assignment will be void.
 Except as expressly stated herein, nothing in this Agreement confers any right on any third party.</p>
 <p>
 <strong>Entire Agreement:</strong> This Agreement constitutes the entire understanding of the parties and supersedes all prior understandings regarding the subject matter hereof and may not be modified except in accordance with <strong>Section 1</strong> or in a document executed by authorized representatives of Vimeo.
 If you have a signed agreement with Vimeo, any conflicting term of that agreement will prevail over the terms hereof, but only as to the subject matter of that agreement.</p>
+<p>The English version of this Agreement shall control.
+For convenience, we may provide translated versions of this Agreement.</p>
 <p>
 <strong>Addenda:</strong> This Agreement incorporates the following documents (and no others) by reference:</p>
 <ul>
@@ -331,7 +337,7 @@ If you have a signed agreement with Vimeo, any conflicting term of that agreemen
 <li>Cookie Policy</li>
 <li>Copyright Policy</li>
 <li>Government Entity Addendum</li>
-<li>App Addendum</li>
+<li>Third-Party Service Addendum</li>
 <li>Vimeo Create Addendum</li>
 <li>Vimeo On Demand Viewer Agreement</li>
 <li>Stock Footage License Agreement</li>
