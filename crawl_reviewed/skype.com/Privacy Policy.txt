@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: April 2020 What's new? <i>
+Microsoft Privacy StatementLast Updated: May 2020 What's new? <i>
 </i>Expand All<i>
 </i>Collapse AllPrint<p>Your privacy is important to us.
 This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.</p>
@@ -13,7 +13,7 @@ This statement applies to the interactions Microsoft has with you and the Micros
 </i>BingCortanaMicrosoft EdgeMicrosoft TranslatorSwiftKeyWindows<i>
 </i>ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge Legacy and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services<i>
 </i>Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &amp.
-TVSilverlightCookies<p>Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
+TVSilverlightWindows Mixed RealityCookies<p>Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
 We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations.
 For more information, see the Cookies and similar technologies section of this privacy statement.</p>EU-U.S.
 and Swiss-U.S.
@@ -1039,7 +1039,26 @@ Here are examples of the data we collect:</p>
 <p>Microsoft uses the data we collect from enterprise and developer software and enterprise appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.</p>
 <p> Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio).
 For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit the SQL Server privacy page.
-If you work in an organization, your administrator can set certain telemetry settings in SQL Server via Group Policy.</p>Top of page<i>
+If you work in an organization, your administrator can set certain telemetry settings in SQL Server via Group Policy.</p>
+<p>
+<strong>HoloLens</strong>.
+HoloLens headsets are self-contained Windows computers with Wi-Fi connectivity that enable a mixed reality experience for apps and solutions.
+Microsoft collects diagnostic data to solve problems and to keep Windows running on HoloLens up to date, secure, and operating properly.
+Diagnostic data also helps us improve HoloLens and related Microsoft products and services depending on the diagnostic data settings you’ve chosen for your device.
+Learn more about Windows diagnostic data.</p>
+<p>HoloLens also processes and collects data related to the HoloLens experience and device, which include cameras, microphones, and infrared sensors that enable motions and voice to navigate.</p>
+<ul>
+<li>If you choose, cameras can be used to sign you in automatically using your iris.
+To do this, HoloLens takes an image of your iris and measures distances between key points to create and store a numeric value that represents only you.
+This data stays on the HoloLens and is not shared with anyone, and you can choose to delete this data from your HoloLens at any time.</li>
+<li>HoloLens also detects hand gestures intended for system interactions (such as menu navigation, pan/zoom, and scroll).
+This data is processed on your HoloLens device and is not stored.</li>
+<li>HoloLens derives tracking points based on your environment which allows it to understand surfaces in space and allows you to place digital assets on them.
+There are no images associated with this environmental data and it is stored locally on the HoloLens device.
+You can choose to delete this data from your HoloLens at any time.</li>
+</ul>
+<p>The headset's microphones enable voice commands for navigation, controlling apps, or to enter search terms.
+Learn more about voice data collection.</p>Top of page<i>
 </i>Productivity and communications productsProductivity and communications products<p>Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.</p>Learn moreTop of page<i>
 </i>OfficeOffice<p>Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others.
 For more details about Outlook, see the Outlook section of this privacy statement.
@@ -1569,11 +1588,10 @@ If you choose to do so, Microsoft will collect samples of the content you type o
 When Microsoft collects inking and typing diagnostic data, it is divided into small samples and processed to remove unique identifiers, sequencing information, and other data (such as email addresses and numeric values) which could be used to reconstruct the original content or associate the input to you.
 It also includes associated performance data, such as changes you manually make to text, as well as words you've added to the dictionary.
 Learn more about improving inking and typing in Windows 10.</p>
-<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft products and services for your needs.
+<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft experiences.
 If you have selected Basic as your diagnostic data setting, personalization is based on information about your device, its settings and capabilities, and whether it is performing properly.
-If you have selected Full, personalization is also based on information about the websites you browse, how you use apps and features, plus additional information about the health of your device.
-However, we do not use information about the websites you browse, the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.
-</p>
+If you have selected Full, personalization is also based on information about how you use apps and features, plus additional information about the health of your device.
+However, we do not use information about the websites you browse, the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.</p>
 <p>Tailored experiences include suggestions on how to customize and optimize Windows, as well as ads and recommendations for Microsoft and third-party products and services, features, apps, and hardware for your Windows experiences.
 For example, to help you get the most out of your device, we may tell you about features you may not know about or that are new.
 If you are having a problem with your Windows device, you may be offered a solution.
@@ -1675,7 +1693,7 @@ Microsoft Defender SmartScreen can be turned on or off in Settings.</p>
 Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device.
 Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
 If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device.
-When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware.
+When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware or unknown files for further inspection.
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
 You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.</p>Top of page<i>
 </i>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and Typing<p>
@@ -1902,7 +1920,8 @@ Biometric verification data that's used when you sign in doesn't leave your devi
 You can delete your biometric verification data from within Settings.</p>Top of page<i>
 </i>Windows SearchWindows Search<p>Windows Search lets you search your stuff and the web from one place.
 If you choose to use Windows Search to search "your stuff," it will provide results for items on your personal OneDrive, your OneDrive for Business if so enabled, other cloud storage providers to the extent supported by those third-party providers, and on your device.
-If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.</p>Top of page<i>
+If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.
+Learn more about search in Windows 10</p>Top of page<i>
 </i>Your PhoneYour Phone<p>The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences.
 You can use Your Phone to see recent photos from your Android phone on your Windows device.
 make and receive calls from your Android phone on your Windows device.
@@ -2150,6 +2169,21 @@ In some cases, accessing DRM-protected content will require an update to Silverl
 When you attempt to play content that requires a DRM update, Silverlight will send a request to a Microsoft server containing basic data about your device, including information about the DRM components on your computer such as their revision and security levels, troubleshooting data, and a unique identifier for your device.
 The Microsoft server uses this identifier to return a unique DRM update for your device, which will then be installed by Silverlight.
 You can turn off or configure DRM component updates on the <strong>Playback</strong> tab in the Silverlight Configuration tool.</p>Top of page<i>
+</i>Windows Mixed RealityWindows Mixed Reality<p>Windows Mixed Reality allows you to enable a virtual reality experience that immerses you in apps and games.
+Mixed Reality uses a compatible headset’s camera, microphone, and infrared sensors to enable motions and voice to be used to control gameplay and to navigate apps and games.</p>
+<p>Microsoft collects diagnostic data to solve problems and to keep Mixed Reality running on Windows up to date, secure, and operating properly.
+Diagnostic data also helps us improve Mixed Reality and related Microsoft products and services depending on the diagnostic data settings you’ve chosen for your device.
+Learn more about Windows diagnostic data.</p>
+<p>Mixed Reality also processes and collects data specifically related to the Mixed Reality experiences, such as:</p>
+<ul>
+<li>Mixed Reality maps distances between your body's joints to create a stick figure representation of you.
+If you are connected to the Internet, we collect those numeric values to enable and improve your experience.</li>
+<li>Mixed Reality detects specific hand gestures intended to perform simple system interactions (such as menu navigation, pan/zoom, and scroll).
+This data is processed on your PC and is not stored.</li>
+<li>The headset's microphones enable voice commands to control games, apps, or to enter search terms.
+Learn more about voice data collection.</li>
+<li>Windows Mixed Reality can also be used for audio and video communications through services such as Skype.</li>
+</ul>Top of page<i>
 </i>
 <br>Personal data we collectPersonal data we collectmainpersonaldatawecollect Summary <p>Microsoft collects data from you, through our interactions with you and through our products.
 You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with our products.
@@ -3143,7 +3177,26 @@ Here are examples of the data we collect:</p>
 <p>Microsoft uses the data we collect from enterprise and developer software and enterprise appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.</p>
 <p> Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio).
 For detailed information about what data we collect, how we use it, and how to manage your privacy options, visit the SQL Server privacy page.
-If you work in an organization, your administrator can set certain telemetry settings in SQL Server via Group Policy.</p>Productivity and communications productsProductivity and communications productsmainprodcommproductsmoduleSummary<p>Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.</p>OfficeOfficemainofficeservicesmoduleSummary<p>Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others.
+If you work in an organization, your administrator can set certain telemetry settings in SQL Server via Group Policy.</p>
+<p>
+<strong>HoloLens</strong>.
+HoloLens headsets are self-contained Windows computers with Wi-Fi connectivity that enable a mixed reality experience for apps and solutions.
+Microsoft collects diagnostic data to solve problems and to keep Windows running on HoloLens up to date, secure, and operating properly.
+Diagnostic data also helps us improve HoloLens and related Microsoft products and services depending on the diagnostic data settings you’ve chosen for your device.
+Learn more about Windows diagnostic data.</p>
+<p>HoloLens also processes and collects data related to the HoloLens experience and device, which include cameras, microphones, and infrared sensors that enable motions and voice to navigate.</p>
+<ul>
+<li>If you choose, cameras can be used to sign you in automatically using your iris.
+To do this, HoloLens takes an image of your iris and measures distances between key points to create and store a numeric value that represents only you.
+This data stays on the HoloLens and is not shared with anyone, and you can choose to delete this data from your HoloLens at any time.</li>
+<li>HoloLens also detects hand gestures intended for system interactions (such as menu navigation, pan/zoom, and scroll).
+This data is processed on your HoloLens device and is not stored.</li>
+<li>HoloLens derives tracking points based on your environment which allows it to understand surfaces in space and allows you to place digital assets on them.
+There are no images associated with this environmental data and it is stored locally on the HoloLens device.
+You can choose to delete this data from your HoloLens at any time.</li>
+</ul>
+<p>The headset's microphones enable voice commands for navigation, controlling apps, or to enter search terms.
+Learn more about voice data collection.</p>Productivity and communications productsProductivity and communications productsmainprodcommproductsmoduleSummary<p>Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.</p>OfficeOfficemainofficeservicesmoduleSummary<p>Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others.
 For more details about Outlook, see the Outlook section of this privacy statement.
 Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences.
 Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products.
@@ -3656,11 +3709,10 @@ If you choose to do so, Microsoft will collect samples of the content you type o
 When Microsoft collects inking and typing diagnostic data, it is divided into small samples and processed to remove unique identifiers, sequencing information, and other data (such as email addresses and numeric values) which could be used to reconstruct the original content or associate the input to you.
 It also includes associated performance data, such as changes you manually make to text, as well as words you've added to the dictionary.
 Learn more about improving inking and typing in Windows 10.</p>
-<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft products and services for your needs.
+<p>If you choose to turn on <strong>Tailored experiences</strong>, we will use your Windows diagnostic data (Basic or Full as you have selected) to offer you personalized tips, ads, and recommendations to enhance Microsoft experiences.
 If you have selected Basic as your diagnostic data setting, personalization is based on information about your device, its settings and capabilities, and whether it is performing properly.
-If you have selected Full, personalization is also based on information about the websites you browse, how you use apps and features, plus additional information about the health of your device.
-However, we do not use information about the websites you browse, the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.
-</p>
+If you have selected Full, personalization is also based on information about how you use apps and features, plus additional information about the health of your device.
+However, we do not use information about the websites you browse, the content of crash dumps, speech, typing, or inking input data for personalization when we receive such data from customers who have selected Full.</p>
 <p>Tailored experiences include suggestions on how to customize and optimize Windows, as well as ads and recommendations for Microsoft and third-party products and services, features, apps, and hardware for your Windows experiences.
 For example, to help you get the most out of your device, we may tell you about features you may not know about or that are new.
 If you are having a problem with your Windows device, you may be offered a solution.
@@ -3759,7 +3811,7 @@ Microsoft Defender SmartScreen can be turned on or off in Settings.</p>
 Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device.
 Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device.
 If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device.
-When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware.
+When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware or unknown files for further inspection.
 If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent.
 You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.</p>Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and TypingmainspeechinkingtypingmoduleSummary<p>
 <strong>Speech</strong>.
@@ -3978,7 +4030,8 @@ If you turn it on, Windows Hello uses your face, fingerprint, or iris to identif
 Biometric verification data that's used when you sign in doesn't leave your device.
 You can delete your biometric verification data from within Settings.</p>Windows SearchWindows SearchmainwindowssearchmoduleSummary<p>Windows Search lets you search your stuff and the web from one place.
 If you choose to use Windows Search to search "your stuff," it will provide results for items on your personal OneDrive, your OneDrive for Business if so enabled, other cloud storage providers to the extent supported by those third-party providers, and on your device.
-If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.</p>Your PhoneYour PhonemainyourphonemoduleSummary<p>The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences.
+If you choose to use Windows Search to search the web, or get search suggestions with Windows Search, your search results will be powered by Bing and we will use your search query as described in the Bing section of this privacy statement.
+Learn more about search in Windows 10</p>Your PhoneYour PhonemainyourphonemoduleSummary<p>The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences.
 You can use Your Phone to see recent photos from your Android phone on your Windows device.
 make and receive calls from your Android phone on your Windows device.
 view and send text messages from your Windows device.
@@ -4217,7 +4270,21 @@ When requesting media usage rights, Silverlight will provide the rights server w
 In some cases, accessing DRM-protected content will require an update to Silverlight or to the DRM components on your device.
 When you attempt to play content that requires a DRM update, Silverlight will send a request to a Microsoft server containing basic data about your device, including information about the DRM components on your computer such as their revision and security levels, troubleshooting data, and a unique identifier for your device.
 The Microsoft server uses this identifier to return a unique DRM update for your device, which will then be installed by Silverlight.
-You can turn off or configure DRM component updates on the <strong>Playback</strong> tab in the Silverlight Configuration tool.</p> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerprivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainmsedgemodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule mainenterprisedeveloperproductsmoduleCookies<p>Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
+You can turn off or configure DRM component updates on the <strong>Playback</strong> tab in the Silverlight Configuration tool.</p>Windows Mixed RealityWindows Mixed RealitymainwindowsmixedrealitymoduleSummary<p>Windows Mixed Reality allows you to enable a virtual reality experience that immerses you in apps and games.
+Mixed Reality uses a compatible headset’s camera, microphone, and infrared sensors to enable motions and voice to be used to control gameplay and to navigate apps and games.</p>
+<p>Microsoft collects diagnostic data to solve problems and to keep Mixed Reality running on Windows up to date, secure, and operating properly.
+Diagnostic data also helps us improve Mixed Reality and related Microsoft products and services depending on the diagnostic data settings you’ve chosen for your device.
+Learn more about Windows diagnostic data.</p>
+<p>Mixed Reality also processes and collects data specifically related to the Mixed Reality experiences, such as:</p>
+<ul>
+<li>Mixed Reality maps distances between your body's joints to create a stick figure representation of you.
+If you are connected to the Internet, we collect those numeric values to enable and improve your experience.</li>
+<li>Mixed Reality detects specific hand gestures intended to perform simple system interactions (such as menu navigation, pan/zoom, and scroll).
+This data is processed on your PC and is not stored.</li>
+<li>The headset's microphones enable voice commands to control games, apps, or to enter search terms.
+Learn more about voice data collection.</li>
+<li>Windows Mixed Reality can also be used for audio and video communications through services such as Skype.</li>
+</ul> maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerprivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainmsedgemodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule,mainwindowsmixedrealitymodule mainenterprisedeveloperproductsmoduleCookies<p>Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later.
 We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations.
 For more information, see the Cookies and similar technologies section of this privacy statement.</p>EU-U.S.
 and Swiss-U.S.
