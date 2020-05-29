@@ -48,9 +48,15 @@
 <li>Postal Explorer</li>
 <li>Business Customer Gateway</li>
 </ul>Close submenu (Social responsibility)Social responsibility<ul>
-<li>Community activities</li>
+<li>Open submenu (Community activities)Community activities </li>
 <li>Securing the mail</li>
 <li>Sustainability</li>
+</ul>Close submenu (Community activities)Community activities<ul>
+<li>Semipostal stamps</li>
+<li>Diversity initiatives</li>
+<li>Dog bite awareness week</li>
+<li>NALC food drive</li>
+<li>Finding missing children</li>
 </ul>Close submenu (Performance)Performance<ul>
 <li>Household diary</li>
 <li>Service performance results</li>
@@ -139,7 +145,14 @@ inclusion</li>
 </li>
 <li>Government services</li>
 <li>Social responsibility <ul>
-<li>Community activities</li>
+<li>Community activities <ul>
+<li>Semipostal stamps</li>
+<li>Diversity initiatives</li>
+<li>Dog bite awareness week</li>
+<li>NALC food drive</li>
+<li>Finding missing children</li>
+</ul>
+</li>
 <li>Securing the mail</li>
 <li>Sustainability</li>
 </ul>
