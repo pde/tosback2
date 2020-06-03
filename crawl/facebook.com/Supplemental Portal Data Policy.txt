@@ -1,5 +1,5 @@
 Supplemental Portal Data Policy<p>Portal (and other Portal-branded products, together, “Portal”) is a platform that helps you connect with family and friends, share content and experiences with the people you care about, and discover photos, music, videos, and other content.
-Portal is a Facebook Product.
+Portal is a Facebook Product and is available to users who have an active and valid Facebook and/or WhatsApp account.
 The Facebook Data Policy (available at www.facebook.com/policy/) describes the information we process to support Facebook Products (as defined in the Facebook Data Policy and available here), including Portal and Facebook Products available on Portal, like Facebook Watch and Messenger.
 This Supplemental Portal Data Policy supplements the Facebook Data Policy by explaining the additional information we process on Portal and providing more detail about how we process your information.</p>What kinds of information do we collect?<ul>
 <li>
@@ -25,24 +25,31 @@ This information is sent to Facebook only as part of the automatic crash logs de
 <li>
 <p>
 <b>"Hey Portal” Voice Interactions</b> (where available).
-Unless Portal’s microphone is turned off, Portal listens for the Portal-specific wake word (e.g.,”Hey Portal”).
-If Portal detects a wake word, a visual indicator appears on the bottom of the screen and Portal transmits a recording and transcription of the voice interaction to Facebook’s servers.
+Unless you turn Portal’s microphone off, Portal listens for the Portal-specific wake word (e.g.,”Hey Portal”).
+If Portal detects a wake word, a visual indicator appears on the bottom of the screen.
+Portal transmits a recording and transcription of the voice interaction to Facebook’s servers unless the wake word is detected during a WhatsApp call.
 In addition to your voice command to “Hey Portal,” these recordings may include ambient noise or background conversation.
 In some instances, these recordings may also include voice interactions where Portal has mistakenly detected the “Hey Portal” wake word, even if you didn’t say it.
-You can view, hear, and delete your “Hey Portal” voice interactions, and can also choose to turn off storage of “Hey Portal” voice interactions.
+In most cases, you can view, hear, and delete your “Hey Portal” voice interactions, and can also choose to turn off storage of “Hey Portal” voice interactions.
+If your Portal is connected only to your WhatsApp account (and not to a Facebook account) or your voice interaction occurs during a WhatsApp call, your ”Hey Portal” voice interactions are not stored or accessible.
 Learn more about the information we collect for “Hey Portal” and how you can control your “Hey Portal” voice interactions by visiting the Voice Assistant FAQs.</p>
 </li>
 </ul>
 </li>
 <li>
 <p>
-<b>Environmental Data:</b> We use device sensors to collect environmental data from and about Portal, such as ambient light.</p>
+<b>Environmental Data:</b> We use device sensors to collect environmental data from and about Portal, such as ambient light, when the device is on.</p>
 </li>
 <li>
 <p>
-<b>Device Performance and Reliability:</b> We collect information about Portal's performance and device attributes, including crash reports, system logs and settings, and independent application, service or integration usage.
-Similar to other devices, when Portal experiences a crash, a log about the crash is sent to Facebook that may include small fragments of information from camera and microphone among other information (such as contact information) in use at the time of the crash.
+<b>Device Performance and Reliability:</b> We collect information about Portal's performance and device attributes, including crash reports, system logs and settings, and independent application, service or integration usage when the device is on.
+Similar to other devices, when Portal experiences a crash, a log about the crash is sent to Facebook that may include small fragments of information from the camera and microphone among other information (such as contact information) in use at the time of the crash.
 These crash logs are only retained and used to diagnose problems with Portal devices or other apps and services used on Portal.</p>
+</li>
+<li>
+<p>
+<b>Information and Content You Provide:</b> When using Portal to take pictures, videos, or create other similar content, we collect the content you create in order to provide these services.
+The information we collect is similar to what we collect when you provide the same content through other Facebook Products.</p>
 </li>
 <li>
 <p>
@@ -58,7 +65,7 @@ To learn about how independent apps, services, or integrations process your info
 <li>
 <p>
 <b>Detect engagement with Portal.</b> We use the information Portal collects to automatically detect your interactions with the device.
-This empowers Portal to do things like wake automatically when it detects movement by its camera.</p>
+This empowers Portal to do things like wake automatically when its camera detects movement.</p>
 </li>
 <li>
 <p>
@@ -67,8 +74,13 @@ For example, automatically controlling the device temperature and screen brightn
 </li>
 <li>
 <p>
+<b>Improve Performance and Reliability.</b> We use device performance and reliability data to help improve Facebook devices and products.
+By analyzing device performance and reliability, we can improve the hardware and software that powers your experiences with Facebook, including Portal.</p>
+</li>
+<li>
+<p>
 <b>Offer and improve voice services.</b> Portal automatically detects the “Hey Portal” wake word so that it can respond to voice commands.
-We also analyze and review “Hey Portal” voice interactions using human and machine processes to improve, troubleshoot, and train our speech recognition systems, to maintain the integrity of our Products, and to promote safety on and off Facebook.
+If your Portal is connected to a Facebook account, we also analyze and review “Hey Portal” voice interactions using human and machine processes to improve, troubleshoot, and train our speech recognition systems, to maintain the integrity of our Products, and to promote safety on and off Facebook.
 Learn more by visiting the Voice Assistant FAQs.</p>
 </li>
 </ul>How is this information shared?<p>In addition to the sharing of information described in the Facebook Data Policy under “How is this information shared?”, Portal shares the information we collect when you use Portal in the following additional ways:</p>
@@ -87,8 +99,8 @@ Also you should consider situations when people may be able to see the content t
 </li>
 <li>
 <p>
-<b>Third party access to voice interactions.</b> We share recordings and transcripts of your “Hey Portal” voice interactions with vendors and service providers who assist us in improving, troubleshooting, and training our speech recognition systems.
-Some independent apps, services, or integrations will respond to your “Hey Portal” voice commands, in which case Portal sends a transcript of your voice interaction so that the app, integration, or service can respond.
+<b>Third party access to voice interactions.</b> If your Portal is connected to a Facebook account, we share recordings and transcripts of your “Hey Portal” voice interactions with vendors and service providers who assist us in improving, troubleshooting, and training our speech recognition systems.
+Some independent apps, services, or integrations may respond to your “Hey Portal” voice commands, in which case Portal sends a transcript of your voice interaction so that the app, integration, or service can respond.
 We may also share voice interactions with third parties where we have a good faith belief that the law requires us to do so.</p>
 </li>
 <li>
@@ -101,4 +113,4 @@ The information collected by these independent apps, services, or integrations i
 </li>
 </ul>Privacy Notice for California Residents<p>If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.</p>Further information and how to contact Facebook<p>If you have any questions or complaints relating to the Facebook Data Policy, this Supplemental Portal Data Policy or otherwise, or wish to find out more about how to exercise your ability to access, rectify, port and erase the information collected through your Portal, you can refer to the “How to contact Facebook with questions” part of the Facebook Data Policy, your Facebook Settings, or here.
 </p>
-<p> Date of Last Revision: January 1, 2020 </p>
+<p>Date of Last Revision: June 2, 2020</p>
