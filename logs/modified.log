@@ -7,53 +7,108 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   ../crawl/123greetings.com/Privacy Policy.txt
+	modified:   ../crawl/acdelco.com/Privacy Policy.txt
 	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
 	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
+	modified:   ../crawl/avis.com/Privacy Policy.txt
+	modified:   ../crawl/bankofamerica.com/Privacy Policy.txt
+	modified:   ../crawl/bankrate.com/Privacy Policy.txt
+	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
 	modified:   ../crawl/bored.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
+	modified:   ../crawl/buick.com/Privacy Policy.txt
+	modified:   ../crawl/cableone.net/Acceptable Use Policy.txt
 	modified:   ../crawl/cableone.net/Terms and Conditions.txt
+	modified:   ../crawl/cadillac.com/Privacy Policy.txt
+	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 	modified:   ../crawl/careerpath.com/Privacy Policy.txt
 	modified:   ../crawl/chacha.com/Privacy Policy.txt
+	modified:   ../crawl/chevrolet.com/Privacy Policy.txt
+	modified:   ../crawl/daum.net/Privacy Policy.txt
+	modified:   ../crawl/debka.com/Privacy Policy.txt
+	modified:   ../crawl/dell.com/Privacy Policy.txt
+	modified:   ../crawl/economist.com/Privacy Policy.txt
+	modified:   ../crawl/facebook.com/Supplemental Portal Data Policy.txt
+	modified:   ../crawl/fandango.com/Privacy Policy.txt
+	modified:   ../crawl/fidelity.com/Privacy Policy.txt
+	modified:   ../crawl/fitbit.com/Privacy Policy.txt
+	modified:   ../crawl/freecode.com/Privacy Statement.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
-	modified:   ../crawl/godlikeproductions.com/Privacy Policy.txt
+	modified:   ../crawl/gitlab.com/Terms of Use.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
 	modified:   ../crawl/hickoryfarms.com/Privacy Policy.txt
 	modified:   ../crawl/home.mywebsearch.com/Privacy Policy.txt
 	modified:   ../crawl/hsbc.com/Privacy Policy.txt
-	modified:   ../crawl/ign.com/Privacy Policy.txt
+	modified:   ../crawl/hubpages.com/Privacy Policy.txt
+	modified:   ../crawl/indeed.com/Privacy Policy.txt
 	modified:   ../crawl/instructables.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/invizua.com/Privacy Policy.txt
 	modified:   ../crawl/jobgo.com/Privacy Policy.txt
+	modified:   ../crawl/landsend.com/Privacy Policy.txt
+	modified:   ../crawl/lexus.com/Privacy Policy.txt
 	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
+	modified:   ../crawl/mycertifiedservice.com/Privacy Policy.txt
+	modified:   ../crawl/netzero.net/Terms of Service.txt
+	modified:   ../crawl/nfl.com/Privacy Policy.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
+	modified:   ../crawl/oath.com/Media.txt
+	modified:   ../crawl/officemax.com/Privacy Policy.txt
+	modified:   ../crawl/okcupid.com/Privacy Policy.txt
+	modified:   ../crawl/orbitz.com/Privacy Policy.txt
 	modified:   ../crawl/otalliance.org/Privacy Policy.txt
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
 	modified:   ../crawl/pg.com/Privacy Policy.txt
 	modified:   ../crawl/pollen.com/Privacy Policy.txt
 	modified:   ../crawl/privacychoice.org/Privacy Policy.txt
-	modified:   ../crawl/privacyscore.com/Privacy Policy.txt
+	modified:   ../crawl/realclearpolitics.com/Privacy Policy.txt
+	modified:   ../crawl/realtor.com/Privacy Policy.txt
+	modified:   ../crawl/replacements.com/Privacy Policy.txt
+	modified:   ../crawl/reuters.com/Privacy Policy.txt
 	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
-	modified:   ../crawl/seekingalpha.com/Privacy Policy.txt
-	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
+	modified:   ../crawl/sourceforge.net/Privacy Policy.txt
 	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
+	modified:   ../crawl/superpages.com/Privacy Policy.txt
+	modified:   ../crawl/timeanddate.com/Privacy Policy.txt
+	modified:   ../crawl/toyota.com/Privacy Policy.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
+	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+	modified:   ../crawl/ulster.ac.uk/Privacy Policy.txt
+	modified:   ../crawl/ups.com/Privacy Policy.txt
 	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
-	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
+	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
+	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
+	modified:   ../crawl/vh1.com/Privacy Policy.txt
+	modified:   ../crawl/victoriassecret.com/Privacy Policy.txt
+	modified:   ../crawl/webmd.com/Privacy Policy.txt
+	modified:   ../crawl/webs.com/Privacy Policy.txt
+	modified:   ../crawl/wellsfargo.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
+	modified:   ../crawl/windstream.com/Term of Service.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
+	modified:   ../crawl/yellowpages.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/amazon.com/Kindle Store Terms of Use.txt
+	modified:   ../crawl_reviewed/apple.com/Game Center Terms and Conditions.txt
+	modified:   ../crawl_reviewed/apple.com/iChat Account Terms of Service.txt
+	modified:   ../crawl_reviewed/coursera.org/Terms of Use.txt
+	modified:   ../crawl_reviewed/discordapp.com/Terms.txt
+	modified:   ../crawl_reviewed/disqus.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/flattr.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/twitpic.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/twitpic.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/twitter.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/twitter.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/whatsapp.com/Terms of Service and Privacy.txt
+	modified:   ../crawl_reviewed/xing.com/Privacy Policy.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
 	modified:   ../logs/run.log
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	../cp.sh
+	modified:   main.rb
 
 no changes added to commit (use "git add" and/or "git commit -a")
