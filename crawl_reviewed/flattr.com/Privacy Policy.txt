@@ -13,7 +13,7 @@ What kind of personal data do we process?
 <li>
 <p>While using the Flattr Extension (automatically).
 All data is saved locally in the Extension in your browser (<strong>and will - without your prior consent - never be transferred to and/or accessed by us</strong>)</p>
-<ol>
+<ul>
 <li>
 <p>Information relating the Extension itself:</p>
 <ul>
@@ -44,11 +44,11 @@ All data is saved locally in the Extension in your browser (<strong>and will - w
 <li>Navigation data</li>
 </ul>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>While using our websites:</p>
-<ol>
+<ul>
 <li>
 <p>Automatically:</p>
 <ul>
@@ -73,7 +73,13 @@ All data is saved locally in the Extension in your browser (<strong>and will - w
 </li>
 </ul>
 </li>
-</ol>
+</ul>
+</li>
+<li>
+<p>On our social media pages</p>
+<ul>
+<li>Usage profiles</li>
+</ul>
 </li>
 </ol>How do we collect data?
 <p>List of techniques and tools we use for data collection:</p>
@@ -90,7 +96,13 @@ All data is saved locally in the Extension in your browser (<strong>and will - w
 <li>Newsletter sign-up form</li>
 </ul>
 </li>
-</ol>How and why do process your data?
+<li>Data you provide to us via social media</li>
+<li>In connection with our social media pages:
+<ul>
+<li>Cookies</li>
+</ul>
+</li>
+</ol>How and why do we process your data?
 <ul>
 <li>To provide our services to you</li>
 <li>To improve and to evaluate Flattr</li>
@@ -98,6 +110,7 @@ All data is saved locally in the Extension in your browser (<strong>and will - w
 <li>To improve our website</li>
 <li>To create custom ad audience and audience targeting, measure conversion rates and determine the effectiveness of marketing campaigns.</li>
 <li>To send you newsletters, if requested</li>
+<li>In connection with our social media pages, social networks use the data for market research and advertising purposes.</li>
 </ul>How long do we keep data?
 Extension data:
 <ul>
@@ -191,8 +204,9 @@ Definitions
 <p>“<strong>Processing</strong>” of personal data means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
 Collection and Processing on our Website
 Affiliate program (automatically)
-<p>When you enter via a link from one of our affiliate partners profile pages on Flattr.com, we also Collect the profile on Flattr.com from which you are visiting us (referrer profile).
-This referer profile will be only Processed for payouts to the respective affiliate under our affiliate program.</p>
+<p>When you enter via a link from one of our affiliate partners profile pages on<br>Flattr.com, we also Collect the profile on Flattr.com from which<br>
+you are visiting us (referrer profile).
+This referer profile will only be Processed for payouts to the respective affiliate under our affiliate program.</p>
 Your Flattr account (mandatory)
 <p>As the Extension’s main functionality is to contribute to the content that you love and for content creators or publishers to receive this money, to make use of all its advantages, independent from your role, you have to register by adding an email address and choosing a password.
 We may use your email address to verify it, to respond to your requests, send you reports, transfer subscription payments, etc.</p>
@@ -349,7 +363,32 @@ Cookies
 Cookies are small files that are stored on your computer with the help of your internet browser.
 If you do not want to enable cookies, you can opt against using them by selecting the appropriate settings on your internet browser.
 Please note that the efficiency and range of our services may be restricted as a result.</p>
-What is the purpose of data processing and what is the legal basis?
+Collection and Processing on our social media presence
+<p>In order to communicate with you, and to inform you about our activities and offers on social networks, we are active on Facebook, Instagram, Pinterest, Twitter and LinkedIn.
+In terms of Facebook, both Facebook and eyeo are jointly responsible for the processing of your personal data (“joint controller”, GDPR Art.
+26), even if it is stored exclusively by the respective social network.
+Therefore, we still inform you about the data processing processes in connection with our presence on the respective social network as follows.</p>
+<p>If you follow our respective online presence on one or more of the social networks used by us, please note that your data may be processed outside the European Union / the European Economic Area.
+However, all the networks we use have agreed to comply with EU data protection standards within the framework of the EU-U.S.
+Privacy Shield.</p>
+<p>The social networks we use also process your data regularly for market research and advertising purposes.
+Based on your usage behavior and interests, the networks may create usage profiles which are used, for example, to place advertisements corresponding to your potential interests within and outside of the networks.
+For these purposes, cookies, which store your usage behavior and interests, as well as possibly also the devices you use, are regularly stored on your computer.</p>
+<p>For a detailed overview of the respective processing operations and opt-out options, please visit the website of each social network, listed below.
+For the assertion of your rights and requests for information, we also refer you to the respective social networks, where you can exercise your rights most effectively.
+This is because the social networks have access to your data and can therefore directly take appropriate measures and provide you with the respective information:</p>
+<ul>
+<li>
+<strong>Facebook</strong> (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland), Facebook Fan Page based on a joint controller agreement – Privacy Policy: https://www.facebook.com/about/privacy/, Opt-Out: https://www.facebook.com and http://www.youronlinechoices.com, Privacy Shield: https://www.privacyshield.gov</li>
+<li>
+<strong>Instagram</strong> (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Privacy Policy / Opt-Out: http://instagram.com</li>
+<li>
+<strong>Pinterest</strong> (Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland) – Privacy Policy: https://policy.pinterest.com/de/privacy-policy, / Opt-Out: https://policy.pinterest.com/de/privacy-policy#section-your-options, Privacy-Shield for any data transfers to Pinterest’s US entity Pinterest, Inc.: https://www.privacyshield.gov</li>
+<li>
+<strong>Twitter</strong> (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) – Privacy Policy: https://twitter.com, Opt-Out: https://twitter.com/personalization, Privacy Shield: https://www.privacyshield.gov</li>
+<li>
+<strong>LinkedIn</strong> (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Ireland) – Privacy Policy: https://www.linkedin.com/legal/privacy-policy, Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out, Privacy Shield: https://www.privacyshield.gov</li>
+</ul>What is the purpose of data processing and what is the legal basis?
 <p>We process personal data in compliance with the European General Data Protection Regulation (Regulation (EU) 2016/679) (“<strong>GDPR</strong>”) and the applicable German and Swedish national data protection laws:</p>
 Processing is necessary for taking steps prior to enter into a contract (Art.
 6 (1) b GDPR)
@@ -418,6 +457,69 @@ How to exercise your rights
 Box 4111<br>
 20312 Malmö<br>
 Sweden<br>flattr.com/contact</p>
+California Privacy Notice
+<p>This section only applies to California residents.
+It explains how we collect and use Personal Information as well as the rights available to California residents under the California Consumer Protection Act (“CCPA”).
+The words in this section have the same meaning given to them in the CCPA.
+Please note that the words as described under the CCPA may be broader than their common meaning.</p>
+<p>“<strong>Personal Information,</strong>” for example, refers to information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, to you or your household.
+Personal Information does not include information that is aggregated or information that cannot be reasonably linked to you.</p>
+What Personal Information we collect and how we use it
+<p>In order to provide you with our products and services (“Products”), we must process certain Personal Information about you.
+We do not sell any of your Personal Information, and we never will.
+For a detailed explanation about the kinds of information that we collect and how we use it, please review the information provided above.
+Here is a summary of the CCPA categories of Personal Information that we may have collected about you over the past 12 months:</p>
+<ul>
+<li>Identifiers;</li>
+<li>Internet or other electronic network activity information, including information about your browser, extension, and operating system;</li>
+<li>Geolocation data;</li>
+<li>Financial information.
+and</li>
+<li>Inferences drawn from any of the information identified that reflect your preferences and attitudes.</li>
+</ul>
+<p>We may have collected these categories of Personal Information for the following business purposes:</p>
+<ul>
+<li>To personalize the Products we provide to you;</li>
+<li>To evaluate and improve our Products;</li>
+<li>To facilitate transactions in connection to your use of our Products;</li>
+<li>To provide limited analytic services;</li>
+<li>To communicate with you;</li>
+<li>To ensure security and functionality of our Products.
+and</li>
+<li>To perform other business purposes.</li>
+</ul>How we share Personal Information
+<p>Subject to the limitations in this Privacy Policy, we share your Personal Information with external vendors (“Service Providers”) that are contractually prohibited from retaining, using, or disclosing Personal Information for any purpose other than the specific business purposes described in the contract.
+These Service Providers include:</p>
+<ul>
+<li>Service providers that analyze your use of our website and test the accompanying data.
+and</li>
+<li>Service providers that facilitate hosting services in connection with your use of our Products.</li>
+</ul>Sources from which we collect Personal Information
+<p>We receive Personal Information from you, our websites, and our external service providers.
+The categories of sources from which we have collected or received Personal Information include:</p>
+<ul>
+<li>You/Your Flattr accounts and profile: We collect information to register and verify your accounts and profiles, including payment information, a copy of your passport, a postal address, and other information necessary to comply with applicable fraud, money laundering, and anti-terrorism regulations.
+We may also collect information about the content that you publish in connection with our Products and any information that you volunteer to improve our Products.</li>
+<li>Our Websites: We collect information about how you interact with and use our websites.
+We also collect information related to your Flattr account and profiles and any affiliate programs that you participate in.</li>
+<li>Your Social Media Profiles: We collect information about your social media subscriptions, if you choose to contribute to content in that manner.</li>
+<li>Service Providers: We engage vendors to perform business purposes on our behalf and share information with them to provide us with such business purposes including, analytics and hosting of Products.</li>
+</ul>What are your rights under the CCPA?
+<p>The CCPA provides you with the following rights:</p>
+<ul>
+<li>Right to Know: you have the right to request that we disclose to you the categories of Personal Information that we have collected, the categories of sources from which we have collected the Personal Information, the business purpose for collecting Personal Information, the categories of third parties with whom we have shared Personal Information, and the specific pieces of Personal Information about you that we have collected;</li>
+<li>Right to Request Deletion: you have the right to request that we delete any Personal Information about you that we have collected.
+and</li>
+<li>Right to Non-Discrimination: we will not discriminate against you for exercising any of these rights.</li>
+</ul>
+<p>Please note that we have a duty to verify your identity whenever you exercise your Right to Know and/or your Right to Request Deletion.
+In order to do so, we will request Personal Information from you to match against the Personal Information in our records.
+In some cases, we may also request additional documentation to verify your identity.</p>
+<p>Please also note that the CCPA allows you to exercise these rights yourself or to designate an authorized agent who will exercise these rights on your behalf.
+In the event that an authorized agent exercises rights on your behalf, we may request a written permission from you that establishes the individual as your authorized agent as well as other information necessary to verify the identity of the authorized agent.</p>
+<p>To exercise any of these rights, please submit a request to privacy@eyeo.com.</p>
+Contact for more information
+<p>If you have any questions about this section or how to exercise your rights under the CCPA, please contact us.</p>
 Changes to the Privacy Policy
 <p>As our Services evolve, we may change this Privacy Policy from time to time.
 The respective current version is available at flattr.com/privacy.
