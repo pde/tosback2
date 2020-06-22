@@ -9,7 +9,8 @@ require 'active_record'
 
 Dir["lib/*.rb"].each {|file| require "./#{file}" }
 # assumes we only need sql if running the full script in production
-ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash) if ARGV.length == 0
+# temporarily commented out due to https://github.com/tosdr/tosback2/issues/75:
+# ActiveRecord::Base.establish_connection(TOSBackSecrets.get_mysql_hash) if ARGV.length == 0
 
 $rules_path = "../rules/" # Directories should include trailing slash
 $results_path = "../crawl/"
