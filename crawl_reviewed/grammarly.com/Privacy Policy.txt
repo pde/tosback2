@@ -55,7 +55,7 @@ Privacy Shield</li>
 <li>For Nevada users</li>
 <li>For EDU users</li>
 <li>Contact us</li>
-</ul>Privacy PolicyEffective as of December 30, 2019<p>At Grammarly, we care about the privacy of your data and are committed to protecting it.
+</ul>Privacy PolicyEffective as of June 24, 2020<p>At Grammarly, we care about the privacy of your data and are committed to protecting it.
 This Privacy Policy explains what information we collect about you and why.
 We hope you will read it carefully.</p>Summary<p>We hope you read this entire Privacy Policy.
 However, if you’re in a hurry, here is a brief overview of the most important points:</p>
@@ -140,7 +140,8 @@ This is data from your computer or mobile device, such as the type of hardware
 <p>Cookies.
 Data obtained from cookies is described in the “Does Grammarly use cookies?” section and in our Cookie Policy.</p>
 </li>
-</ul>How does Grammarly use my Information?<p>We use, process, and store your Information as necessary to perform our contract with you and for our legitimate business interests, including:</p>
+</ul>Information collected from other sources<p>We may collect information about you from third parties, such as marketing partners and researchers, where they are legally allowed to share your Information with us.
+We may combine the Information we receive from other sources with Information we collect from you (or your device) and use it as described in this Privacy Policy.</p>How does Grammarly use my Information?<p>We use, process, and store your Information as necessary to perform our contract with you and for our legitimate business interests, including:</p>
 <ul>
 <li>
 <p>To help us provide and administer our Site, Software, and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services.</p>
@@ -208,8 +209,7 @@ When you use the Software on your computing device, User Content you save will 
 If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States.</p>How secure is my Information?<p>Grammarly is committed to protecting the security of your Information and takes reasonable precautions to protect it.
 However, internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure, and as a result, we cannot ensure the security of Information you transmit to us, including Personal Data and User Content.
 accordingly, you acknowledge that you do so at your own risk.</p>
-<p>We use industry-standard encryption to protect your data in transit.
-This is commonly referred to as transport layer security (“TLS”) or secure socket layer (“SSL”) technology.</p>
+<p>We use industry-standard encryption to protect your data in transit and at rest.</p>
 <p>Once we receive your data, we protect it on our servers using a combination of technical, physical, and logical security safeguards.
 The security of the data stored locally in any of our Software installed on your computing device requires that you make use of the security features of your device.
 We recommend that you take the appropriate steps to secure all computing devices that you use in connection with our Site, Software, and Services.</p>
@@ -268,7 +268,7 @@ If you’re based in the EEA and think that we haven’t complied with data prot
 VeraSafe can be contacted in matters related to the processing of Personal Data.
 To make such an inquiry, please contact VeraSafe using this contact form: https://www.verasafe.com/privacy-services/contact-article-27-representative.</p>
 <p>Alternatively, VeraSafe can be contacted at:<br>VeraSafe Ireland Ltd<br>Unit 3D North Point House<br>North Point Business Park<br>New Mallow Road<br>Cork T23AT2P<br>Ireland</p>For California usersSupplemental Privacy Notice for California residents<p>This Supplemental Privacy Notice supplements the information in our Privacy Policy above and applies to California residents only.</p>Summary of information we collect<p>If you’re a California resident, California law requires us to provide you with some additional information about how we collect, use, and disclose your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).</p>
-<p>Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, and how we share that information.
+<p>Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it.
 Under the CCPA, we’re also required to provide you with the “categories” of personal information we collect and disclose for business purposes (as defined by applicable law).
 Those categories are: identifiers (such as name, email address, or social network account and profile data).
 commercial information (such as transaction data for a paid account).
@@ -277,9 +277,11 @@ internet or other network or device activity (such as IP address and usage infor
 location information (e.g., the general location where you use your device when interacting with the Site, Software or Services).
 sensory information (such as audio recordings if you call our customer service).
 inference data about you.
-and other information that identifies or can be reasonably associated with you.</p>
+and other information that identifies or can be reasonably associated with you.
+We collect these categories of personal information from different sources, as described in the section titled, “What Information does Grammarly collect about me?” above.</p>
 <p>We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy.
-Please see the relevant section(s) above for more information.</p>
+Please see the section titled “How does Grammarly use my Information?” above for more information.
+We share this information with the categories of third parties described in the section titled, “Does Grammarly share my Information?”</p>
 <p>We may also use the categories of personal information for compliance with applicable laws and regulations, and we may aggregate the information we collect or de-identify the information to limit or prevent identification of any particular user or device.</p>Rights<p>If you’re a California resident, you may have certain rights.
 California law may permit you to request that we:</p>
 <ul>
@@ -327,11 +329,11 @@ You will still need to verify your identity directly with us.</p>
 Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months.
 We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our Cookie Policy.
 You can control these cookies through browser settings and other controls.
-for more information, see our Cookie Policy.</p>California Shine the Light<p>If you’re a California resident, you can ask for a list of third parties that have received your information for direct marketing purposes during the previous calendar year.
+for more information, see our Cookie Policy.</p>California Shine the Light<p>If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year.
 This list also contains the types of information shared.
 We provide this list at no cost.
 To make such a request, contact us at support@grammarly.com.</p>
-<p>Updated: December 30, 2019</p>For Nevada users<p>Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons.
+<p>Updated: June 24, 2020</p>For Nevada users<p>Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons.
 “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online.
 We do not engage in such activity.
 however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing support@grammarly.com.
