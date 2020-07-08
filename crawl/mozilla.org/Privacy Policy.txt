@@ -2,6 +2,7 @@
 <ul>
 <li>Windows 64-bit </li>
 <li>Windows 64-bit MSI </li>
+<li>Windows ARM64/AArch64 </li>
 <li>Windows 32-bit </li>
 <li>Windows 32-bit MSI </li>
 <li>macOS </li>
@@ -15,6 +16,7 @@
 <ul>
 <li>Windows 64-bit </li>
 <li>Windows 64-bit MSI </li>
+<li>Windows ARM64/AArch64 </li>
 <li>Windows 32-bit </li>
 <li>Windows 32-bit MSI </li>
 <li>macOS </li>
@@ -27,6 +29,9 @@
 <p>Your system doesn't meet the requirements to run Firefox.</p>
 <p>Please follow these instructions to install Firefox.</p>
 <ul>
+<li>
+<strong> Download Firefox </strong>
+</li>
 <li>
 <strong> Download Firefox </strong>
 </li>
