@@ -74,10 +74,10 @@ a.
 Automattic Fees
 <p>
 <strong>Fees for Paid Services.</strong> Some of our Services are offered for a fee, such as Happy Tools, Jetpack plans, WordPress.com plans, and some Ecommerce Services (collectively, “Paid Services”).
-By using a Paid Service, you agree to pay the specified fees (for example, Jetpack fees, VaultPress fees, WordPress.com fees, and fees associated with specific features, such as Recurring Payments, WooCommerce Payments, and domain name registration and renewal).
+By using a Paid Service, you agree to pay the specified fees (for example, Jetpack fees, VaultPress fees, WordPress.com fees, and fees associated with specific features, such as Payments, WooCommerce Payments, and domain name registration and renewal).
 Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees.
 For recurring fees, we’ll bill or charge you for in regular automatically-renewing intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team.
-For revenue-based fees — such as fees for Recurring Payments for your website’s subscriptions — you pay us a percentage of the revenue your website generates.
+For revenue-based fees — such as fees for Payments for your website’s subscriptions — you pay us a percentage of the revenue your website generates.
 Revenue-based fees are ongoing.</p>
 <p>
 <strong>Taxes.</strong> To the extent permitted by law, or unless explicitly stated otherwise, all fees are exclusive of applicable federal, provincial, state, local or other governmental sales, goods and services, harmonized or other taxes, fees, or charges now in force or enacted in the future (“Taxes”).
@@ -257,7 +257,7 @@ or</li>
 <li>License, sublicense, sell, resell, rent, lease, transfer, assign, distribute, or otherwise commercially exploit or make Happy Tools available to any third party, other than your authorized users.</li>
 </ul>e.
 Ecommerce Services
-<p>There are certain features offered via WooCommerce, WooCommerce Services, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, Simple Payments, and Recurring Payments (collectively, “Ecommerce Services”).
+<p>There are certain features offered via WooCommerce, WooCommerce Services, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”).
 If you use WooCommerce, the WooCommerce Use Terms also apply.</p>
 <p>If you use any Ecommerce Services, you represent and warrant that any information you provide about your business, products, and services is accurate, complete, and will be kept current.
 You agree to promptly notify us via email if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) relating to your transactions.</p>
@@ -274,8 +274,8 @@ If you’re using Ecommerce Services to sell CBD and other hemp-derived products
 <strong>Third Party Services.</strong> You may choose to set up and/or use third party services, such as Stripe or PayPal to collect payment, TaxJar to calculate Taxes, or EasyPost to manage shipping.
 Please note that WooCommerce Payments is powered by Stripe.
 If you use WooCommerce Payments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply.
-For example, if you use Recurring Payments, you must create or use an existing Stripe account to manage payments, and by using Stripe, you agree to their terms and policies.
-Please note that third party services may also charge you fees to use or access their services, for example, as Stripe does for Recurring Payments.</p>
+For example, if you use Payments, you must create or use an existing Stripe account to manage payments, and by using Stripe, you agree to their terms and policies.
+Please note that third party services may also charge you fees to use or access their services, for example, as Stripe does for Payments.</p>
 <p>We are not involved in these relationships, but may facilitate transactions or communication.
 For example, we may, on your behalf, receive notices or forms relating to your Stripe account.</p>
 <p>Please note that some of these third party services (like TaxJar if you use Store) may be enabled by default, but you may disable them before your store is set up.
@@ -291,7 +291,7 @@ If we use another third party to fulfill these services, you authorize us to sha
 Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.</p>
 <p>
 <strong>Fees.</strong> In some cases, you pay us fees relating to the Ecommerce Services you use.
-For example, for Recurring Payments, you pay us a percentage (which depends on your plan) of the revenue your website generates through Recurring Payments.
+For example, for the Payments feature, you pay us a percentage (which depends on your plan) of the revenue your website generates through Payments.
 you authorize Stripe to direct payment of that percentage to us.
 As another example, if you use WooCommerce Payments, there are transaction fees and dispute fees.
 Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.</p>
@@ -330,7 +330,7 @@ Among other things, this means that:</p>
 <li>You should use your best judgment.
 For example, you may not want to accept check payments if you’re not comfortable sharing your mailing address with customers.</li>
 <li>You must accurately communicate transactions, set expectations appropriately, and fulfill all promises, representations, or warranties you’ve made.
-For example, if you’d like to provide your visitors or subscribers with a new post each week for contributing to your site via Recurring Payments, but aren’t sure if you’ll be able to post that frequently, you should make it clear that it’s a goal and not a guarantee.</li>
+For example, if you’d like to provide your visitors or subscribers with a new post each week for contributing to your site via Payments, but aren’t sure if you’ll be able to post that frequently, you should make it clear that it’s a goal and not a guarantee.</li>
 <li>You are responsible for the nature and quality of the products or services you provide, and for delivery, support, refunds, returns, and any other ancillary services you provide to your customers.</li>
 <li>You are responsible for resolving all support questions, comments, and complaints, including chargebacks and pricing questions.
 You must provide contact information so that customers may contact you with questions or complaints.</li>
