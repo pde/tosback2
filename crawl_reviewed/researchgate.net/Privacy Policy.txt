@@ -41,7 +41,7 @@ If you continue to use our Service after having been provided with such notice y
 Information we process and how we process it<ol>
 <li>
 <strong>Basic data processed</strong>Certain data will be processed when you access the Service, to resolve the technical request of your device, display the site and maintain the safety and security of our systems.
-This data is stored in so-called logs and compromise the following:<ul>
+This data is stored in so-called logs and comprise the following:<ul>
 <li>IP addresses and your mobile device's Identifier for Advertising (IDFA);</li>
 <li>the type of computer or mobile device you are using including operating system and version;</li>
 <li>the types of browser you are using, the language, and your country;</li>
@@ -174,7 +174,7 @@ This enables us to display advertisements that best match your particular intere
 For further information about advertisements on the Service, please refer to section Advertisements on ResearchGate below.<ul>
 <li>Our legal basis for this processing is Art.
 6 (1)(f) GDPR.
-Advertising is a ubitquitous part of the Internet, but we believe that advertising, when done well, is a good thing.
+Advertising is a ubiquitous part of the Internet, but we believe that advertising, when done well, is a good thing.
 We aim to display the most relevant and most helpful advertisements to you.
 To be able to do this, we must take your interests, your journey, and some of your personal data into account.
 Without this processing, the advertisements we would be able to disseminate would not be different from random advertisements you can see everywhere in the Internet.
@@ -267,7 +267,7 @@ It is used by a rate limiting feature with network address translation support e
 Using this allows to control the rate of requests to our website.30 minutescf_clearanceCloudflareWhen a Cloudflare captcha or Javascript challenge is solved such as for a Firewall Rule or IP Access Rule, a cf_clearance cookie is set in the client browser.30 minutes__cf_bmCloudflareThis cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots.
 The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
 This encrypted file contains Cloudflare’s proprietary bot score and helps manage incoming traffic that matches specific criteria.30 minutesdidResearchGateThis is a random unique identifier.One yearplResearchGateThis is a random unique identifier.One yearptcResearchGatePermanent TrackingTwo yearssidResearchGate(Login) Session IDOne yearciiirResearchGateThis cookie classifies whether you are interested in recruiting.One yearciliResearchGateThis cookie marks the user as logged-in.
-It is created on every successful log in and refreshed on every subsequent successful log in.One yearcirguResearchGateThis cookie tells us, whether you are a ResearchGate User with an account at ResearchGate.One yearSKpbjs-id5id<br>SKpbjs-id5id_last<br>SKpbjs_unifiedid<br>SKpbjs-unifiedid_last<br>PrebidWhere applicable, these cookies enable the technology Prebid to work, to assign an identifier to you and to participate in so- called header bidding for disseminating advertisments.Three months_gadsGoogle Ad ManagerThis cookie is used to target advertising for users and publishers.Two years_gaGoogle AnalyticsUsed to distinguish users.Two years_gidGoogle AnalyticsUsed to distinguish users.One day_gat,<br>_gat_UAGoogle AnalyticsUsed to throttle request rate.One minute_cmpBlockedVendorshash,<br>_cmpNoniabvendorshash,<br>_cmprepromptoptions,<br>euconsent,<br>eupubconsent,<br>googlepersonalisation,<br>noniabvendorconsentQuantcast consent modalThese cookies will remember that you have maybe seen, interacted with, might have applied settings and store your consent for the purposes of the consent modal.One year and 25 days</li>
+It is created on every successful log in and refreshed on every subsequent successful log in.One yearcirguResearchGateThis cookie tells us, whether you are a ResearchGate User with an account at ResearchGate.One yearSKpbjs-id5id<br>SKpbjs-id5id_last<br>SKpbjs_unifiedid<br>SKpbjs-unifiedid_last<br>PrebidWhere applicable, these cookies enable the technology Prebid to work, to assign an identifier to you and to participate in so- called header bidding for disseminating advertisements.Three months_gadsGoogle Ad ManagerThis cookie is used to target advertising for users and publishers.Two years_gaGoogle AnalyticsUsed to distinguish users.Two years_gidGoogle AnalyticsUsed to distinguish users.One day_gat,<br>_gat_UAGoogle AnalyticsUsed to throttle request rate.One minute_cmpBlockedVendorshash,<br>_cmpNoniabvendorshash,<br>_cmprepromptoptions,<br>euconsent,<br>eupubconsent,<br>googlepersonalisation,<br>noniabvendorconsentQuantcast consent modalThese cookies will remember that you have maybe seen, interacted with, might have applied settings and store your consent for the purposes of the consent modal.One year and 25 days</li>
 <li>
 <strong>Other technology</strong>In addition to cookies, this website uses so-called pixels, web beacons, clear GIFs, and other similar mechanisms ("<strong>Pixels</strong>").
 A Pixel is an image file or link to an image file added to the website code but not sent to your end device.
