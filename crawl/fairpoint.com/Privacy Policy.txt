@@ -53,7 +53,6 @@ Enterprise <ul>
 <li> SD-WAN </li>
 <li> Cloud Peer Connect </li>
 <li> Managed Wireless LAN </li>
-<li> Remote VPN </li>
 <li> Network Failover </li>
 <li> Data Backup </li>
 <li> Private Line </li>
@@ -93,19 +92,10 @@ Email Management </li>
 <li> Cloud Services </li>
 </ul>
 </li>
+<li> Solutions <ul>
 <li> Industry Solutions <ul>
-<li> Government <ul>
-<li> Local/Municipal </li>
-<li> State </li>
-<li> Federal </li>
-<li> Public Safety </li>
-</ul>
-</li>
-<li> Education <ul>
-<li> K-12 </li>
-<li> Higher Education </li>
-</ul>
-</li>
+<li> Government </li>
+<li> Education </li>
 <li> Retail </li>
 <li> Real Estate </li>
 <li> Construction </li>
@@ -113,6 +103,17 @@ Email Management </li>
 <li> Healthcare </li>
 <li> Manufacturing </li>
 <li> Call Centers </li>
+</ul>
+</li>
+<li> Remote Workers </li>
+<li> Connectivity </li>
+<li> Collaboration </li>
+<li> Network Security </li>
+<li> Business Continuity </li>
+<li> Cloud Access </li>
+<li> Productivity </li>
+<li> Physical Security </li>
+<li> Online Marketing </li>
 </ul>
 </li>
 <li> Resources <ul>
@@ -277,6 +278,7 @@ Service Catalogs </li>
 Disaster Support </li>
 <li> Stay Safe Online </li>
 <li> Phishing Scams </li>
+<li> Robocalls </li>
 <li> Caller ID Spoofing </li>
 <li> Call Before You Dig </li>
 <li> Coronavirus Updates <ul>
@@ -410,16 +412,17 @@ IT Services </li>
 <li> Cloud Services </li>
 </ul>
 </li>
-<li> Industry Solutions <ul>
-<li> Government </li>
-<li> Education </li>
-<li> Retail </li>
-<li> Real Estate </li>
-<li> Construction </li>
-<li> Financial Services </li>
-<li> Healthcare </li>
-<li> Manufacturing </li>
-<li> Call Centers </li>
+<li> Solutions <ul>
+<li> Industry Solutions </li>
+<li> Remote Workers </li>
+<li> Connectivity </li>
+<li> Collaboration </li>
+<li> Network Security </li>
+<li> Business Continuity </li>
+<li> Cloud Access </li>
+<li> Productivity </li>
+<li> Physical Security </li>
+<li> Online Marketing </li>
 </ul>
 </li>
 <li> Resources <ul>
@@ -520,6 +523,7 @@ Service Catalogs </li>
 Disaster Support </li>
 <li> Stay Safe Online </li>
 <li> Phishing Scams </li>
+<li> Robocalls </li>
 <li> Caller ID Spoofing </li>
 <li> Call Before You Dig </li>
 <li> Coronavirus Updates </li>
@@ -624,6 +628,7 @@ Service Catalogs </li>
 Disaster Support </li>
 <li> Stay Safe Online </li>
 <li> Phishing Scams </li>
+<li> Robocalls </li>
 <li> Caller ID Spoofing </li>
 <li> Call Before You Dig </li>
 <li> Coronavirus Updates <ul>
