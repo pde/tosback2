@@ -5,7 +5,7 @@
     </url>
   </docname>
 
-  <docname name="Terms & Conditions">
+  <docname name="Terms &amp; Conditions">
     <url name="https://www.honeywellhome.com/terms-and-conditions" xpath="//*[@id='out_container']/div[2]/div/div/div[2]">
     <norecurse name="arbitrary"/>
     </url>

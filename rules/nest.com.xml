@@ -18,7 +18,7 @@
   </docname>
 
   <docname name="Download your data">
-    <url name="https://takeout.google.com/?utm_source=pp&pli=1" xpath="//*[@id='yDmH0d']/c-wiz/div/c-wiz/div/div[3]/c-wiz/div/div/div/div">
+    <url name="https://takeout.google.com/?utm_source=pp&amp;pli=1" xpath="//*[@id='yDmH0d']/c-wiz/div/c-wiz/div/div[3]/c-wiz/div/div/div/div">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
@@ -48,7 +48,7 @@
   </docname>
 
   <docname name="Sensors in Google Nest devices">
-    <url name="https://support.google.com/googlenest/answer/9330256?p=sensorglossary&hl=en&visit_id=637008037093522707-183071222&rd=1#topic=7029677" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section/div[2]">
+    <url name="https://support.google.com/googlenest/answer/9330256?p=sensorglossary&amp;hl=en&amp;visit_id=637008037093522707-183071222&amp;rd=1#topic=7029677" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section/div[2]">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
@@ -60,7 +60,7 @@
   </docname>
 
   <docname name="Google's Connected Home Devices and Services">
-    <url name="https://support.google.com/googlenest/answer/9327662?p=connected-devices&hl=en&visit_id=637008037093522707-183071222&rd=1" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section">
+    <url name="https://support.google.com/googlenest/answer/9327662?p=connected-devices&amp;hl=en&amp;visit_id=637008037093522707-183071222&amp;rd=1" xpath="/html/body/div[2]/div/section/div[1]/div[1]/article/section">
     <norecurse name="arbitrary"/>
     </url>
   </docname>

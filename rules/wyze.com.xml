@@ -11,7 +11,7 @@
     </url>
   </docname>
 
-  <docname name="Security & Privacy">
+  <docname name="Security &amp; Privacy">
     <url name="https://support.wyzecam.com/hc/en-us/articles/360009314072-Security-Privacy-" xpath="//*[@id='article-container']/article/section[1]/div/div[1]">
     <norecurse name="arbitrary"/>
     </url>

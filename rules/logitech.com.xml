@@ -1,5 +1,5 @@
 <sitename name="logitech.com">
-  <docname name="YOUR PRIVACY & SECURITY">
+  <docname name="YOUR PRIVACY &amp; SECURITY">
     <url name="https://www.logitech.com/en-us/legal/product-privacy-policy.html#circle_products" xpath="/html/body/div[1]/div[7]">
     <norecurse name="arbitrary"/>
     </url>
