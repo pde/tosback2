@@ -5,19 +5,19 @@
     </url>
   </docname>
 
-  <docname name="Terms &amp; Conditions">
+  <docname name="Terms and Conditions">
     <url name="https://www.honeywellhome.com/terms-and-conditions" xpath="//*[@id='out_container']/div[2]/div/div/div[2]">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
 
-  <docname name="Product Security">
+  <docname name="Security">
     <url name="https://www.honeywell.com/en-us/product-security" xpath="//*[@id='left-rail-tabs-content']">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
 
-  <docname name="Privacy Statement and Cookies">
+  <docname name="Cookies Policy">
     <url name="https://www.resideo.com/privacy/english" xpath="/html/body/div[2]/div/div/div/div[2]/div[2]">
     <norecurse name="arbitrary"/>
     </url>

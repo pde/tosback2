@@ -5,19 +5,19 @@
     </url>
   </docname>
 
-  <docname name="Terms &amp; Conditions">
+  <docname name="Terms and Conditions">
     <url name="https://canary.is/legal/system-terms/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
 
-  <docname name="End User License Agreement">
+  <docname name="EULA">
     <url name="https://canary.is/legal/eula/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
     <norecurse name="arbitrary"/>
     </url>
   </docname>
 
-  <docname name="Cookie &amp; Ad Policy">
+  <docname name="Cookie and Ad Policy">
     <url name="https://canary.is/legal/cookie-policy/" xpath="/html/body/div[1]/div/div[2]/section[1]/div/div[2]/article">
     <norecurse name="arbitrary"/>
     </url>

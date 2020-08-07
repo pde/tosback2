@@ -9,7 +9,7 @@
      <norecurse name="arbitrary"/>
    </url>
  </docname>
- <docname name="end-user-license-agreement">
+ <docname name="EULA">
    <url name="https://www.linksys.com/us/end-user-license-agreement/" xpath="/html/body/main/div[2]/div/div/div/div">
      <norecurse name="arbitrary"/>
    </url>
