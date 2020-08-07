@@ -1,5 +1,5 @@
 <sitename name="cnet.com">
- <docname name="Cbs Interactive Privacy Policy">
+ <docname name="Privacy Policy">
    <url name="https://www.cbsinteractive.com/legal/cbsi/privacy-policy" xpath="//section[@class='content']" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>

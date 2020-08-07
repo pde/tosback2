@@ -4,7 +4,7 @@
      <norecurse name="arbitrary" />
    </url>
  </docname>
- <docname name="Copyright and Your use of the British Library Website">
+ <docname name="Copyright">
    <url name="http://www.bl.uk/aboutus/terms/copyright/index.html" xpath="//div[@id=&apos;maincol&apos;]">
      <norecurse name="arbitrary" />
    </url>

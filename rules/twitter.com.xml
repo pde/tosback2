@@ -19,7 +19,7 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
-  <docname name="Geo guidelines">
+  <docname name="Geo Guidelines">
     <url name="https://developer.twitter.com/en/developer-terms/geo-guidelines" xpath="//body/div[@id='component-wrapper']">
       <norecurse name="arbitrary" />
     </url>
