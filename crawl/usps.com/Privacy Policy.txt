@@ -6,12 +6,14 @@
 <li>Open submenu (Resources)Resources </li>
 <li>Open submenu (Careers)Careers </li>
 </ul>Close submenu (Who we are)Who we are <ul>
-<li>Postal profile</li>
+<li>Open submenu (Postal profile)Postal profile </li>
 <li>Open submenu (Leadership)Leadership </li>
 <li>Government Relations</li>
 <li>Open submenu (Law Department)Law Department </li>
 <li>Open submenu (Judicial Officer)Judicial Officer </li>
 <li>Stamp committee</li>
+</ul>Close submenu (Postal profile)Postal profile<ul>
+<li>Our history</li>
 </ul>Close submenu (Leadership)Leadership<ul>
 <li>Board of Governors</li>
 <li>Executive Leadership Team</li>
@@ -22,24 +24,33 @@
 <li>FOIA</li>
 <li>No FEAR Act</li>
 <li>REDRESS</li>
+<li>USPS &amp.
+Section 508</li>
 </ul>Close submenu (Judicial Officer)Judicial Officer<ul>
 <li>Administrative decisions</li>
 <li>Board of Contract Appeals decisions</li>
 <li>Rules of practice</li>
 </ul>Close submenu (What we do)What we do <ul>
-<li>Our transformation</li>
+<li>Open submenu (Our transformation)Our transformation </li>
 <li>Open submenu (Business services)Business services </li>
-<li>Government services</li>
+<li>Open submenu (Government services)Government services </li>
 <li>Open submenu (Social responsibility)Social responsibility </li>
 <li>Open submenu (Performance)Performance </li>
 <li>Financials</li>
+</ul>Close submenu (Our transformation)Our transformation<ul>
+<li>Strategic planning</li>
 </ul>Close submenu (Business services)Business services<ul>
+<li>Licensing</li>
+<li>Rights and permissions</li>
+<li>Open submenu (Suppliers)Suppliers </li>
 <li>Open submenu (Information technology)Information technology </li>
 <li>Open submenu (Mailer resources)Mailer resources </li>
-<li>Rights and permissions</li>
-<li>Licensing</li>
-<li>Suppliers</li>
 <li>Auctions</li>
+</ul>Close submenu (Suppliers)Suppliers<ul>
+<li>Become a USPS supplier</li>
+<li>General information</li>
+<li>Diversity program</li>
+<li>FAQs</li>
 </ul>Close submenu (Information technology)Information technology<ul>
 <li>Public Key Infrastructure</li>
 </ul>Close submenu (Mailer resources)Mailer resources<ul>
@@ -47,9 +58,14 @@
 <li>PostalPro</li>
 <li>Postal Explorer</li>
 <li>Business Customer Gateway</li>
+</ul>Close submenu (Government services)Government services<ul>
+<li>Apply for a passport</li>
+<li>Election mail</li>
+<li>Election information for voters</li>
+<li>Political mail</li>
 </ul>Close submenu (Social responsibility)Social responsibility<ul>
 <li>Open submenu (Community activities)Community activities </li>
-<li>Securing the mail</li>
+<li>Open submenu (Securing the mail)Securing the mail </li>
 <li>Sustainability</li>
 </ul>Close submenu (Community activities)Community activities<ul>
 <li>Semipostal stamps</li>
@@ -57,13 +73,17 @@
 <li>Dog bite awareness week</li>
 <li>NALC food drive</li>
 <li>Finding missing children</li>
+</ul>Close submenu (Securing the mail)Securing the mail<ul>
+<li>Mail center security</li>
+<li>Avaition mail security &amp.
+hazardous materials</li>
 </ul>Close submenu (Performance)Performance<ul>
 <li>Household diary</li>
 <li>Service performance results</li>
 <li>Financials</li>
 </ul>Close submenu (Newsroom)Newsroom <ul>
 <li>Open submenu (News)News </li>
-<li>Service Alerts</li>
+<li>Open submenu (Service Alerts)Service Alerts </li>
 <li>Holidays &amp.
 events</li>
 <li>Digital Media</li>
@@ -73,6 +93,10 @@ events</li>
 <li>Statements</li>
 <li>Testimony &amp.
 speeches</li>
+</ul>Close submenu (Service Alerts)Service Alerts<ul>
+<li>Residential issues</li>
+<li>Business issues</li>
+<li>International issues</li>
 </ul>Close submenu (Resources)Resources <ul>
 <li>Find a form</li>
 <li>Publications</li>
@@ -98,7 +122,10 @@ benefits</li>
 inclusion</li>
 </ul> See how USPS is delivering for customers and employees Jump to page content <ul>
 <li>Who we are <ul>
-<li>Postal profile</li>
+<li>Postal profile <ul>
+<li>Our history</li>
+</ul>
+</li>
 <li>Leadership <ul>
 <li>Board of Governors</li>
 <li>Executive Leadership Team</li>
@@ -112,6 +139,8 @@ inclusion</li>
 <li>FOIA</li>
 <li>No FEAR Act</li>
 <li>REDRESS</li>
+<li>USPS &amp.
+Section 508</li>
 </ul>
 </li>
 <li>Judicial Officer <ul>
@@ -124,8 +153,20 @@ inclusion</li>
 </ul>
 </li>
 <li>What we do <ul>
-<li>Our transformation</li>
+<li>Our transformation <ul>
+<li>Strategic planning</li>
+</ul>
+</li>
 <li>Business services <ul>
+<li>Licensing</li>
+<li>Rights and permissions</li>
+<li>Suppliers <ul>
+<li>Become a USPS supplier</li>
+<li>General information</li>
+<li>Diversity program</li>
+<li>FAQs</li>
+</ul>
+</li>
 <li>Information technology <ul>
 <li>Public Key Infrastructure</li>
 </ul>
@@ -137,13 +178,16 @@ inclusion</li>
 <li>Business Customer Gateway</li>
 </ul>
 </li>
-<li>Rights and permissions</li>
-<li>Licensing</li>
-<li>Suppliers</li>
 <li>Auctions</li>
 </ul>
 </li>
-<li>Government services</li>
+<li>Government services <ul>
+<li>Apply for a passport</li>
+<li>Election mail</li>
+<li>Election information for voters</li>
+<li>Political mail</li>
+</ul>
+</li>
 <li>Social responsibility <ul>
 <li>Community activities <ul>
 <li>Semipostal stamps</li>
@@ -153,7 +197,12 @@ inclusion</li>
 <li>Finding missing children</li>
 </ul>
 </li>
-<li>Securing the mail</li>
+<li>Securing the mail <ul>
+<li>Mail center security</li>
+<li>Avaition mail security &amp.
+hazardous materials</li>
+</ul>
+</li>
 <li>Sustainability</li>
 </ul>
 </li>
@@ -176,7 +225,12 @@ inclusion</li>
 speeches</li>
 </ul>
 </li>
-<li>Service Alerts</li>
+<li>Service Alerts <ul>
+<li>Residential issues</li>
+<li>Business issues</li>
+<li>International issues</li>
+</ul>
+</li>
 <li>Holidays &amp.
 events</li>
 <li>Digital Media</li>
