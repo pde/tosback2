@@ -84,8 +84,8 @@ Revenue-based fees are ongoing.</p>
 You are responsible for payment of all applicable Taxes relating to your use of our Services, your payments, or your purchases.
 If we are obligated to pay or collect Taxes on the Fees you’ve paid or will pay, you are responsible for such Taxes, and we may collect payment for such Taxes.</p>
 <p>
-<strong>Payment.</strong> If your payment fails or if Paid Services are otherwise not paid for or paid for on time, we may immediately cancel or revoke your access to the Paid Services.
-If you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services, we may revoke your access to our Services in general.</p>
+<strong>Payment.</strong> If your payment fails, Paid Services are otherwise not paid for or paid for on time, or we suspect a payment is fraudulent, we may immediately cancel or revoke your access to Paid Services without notice to you.
+If you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services, we may revoke your access to our Services.</p>
 <p>
 <strong>Automatic Renewal.</strong> To ensure uninterrupted service, recurring Paid Services are automatically renewed.
 This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to invoice you or use any payment mechanism we have on record for you to collect the then-applicable subscription fee (as well as any Taxes).
@@ -290,11 +290,12 @@ If we use another third party to fulfill these services, you authorize us to sha
 <p>You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy.
 Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.</p>
 <p>
-<strong>Fees.</strong> In some cases, you pay us fees relating to the Ecommerce Services you use.
+<strong>Fees and Negative Balances.</strong> In some cases, you pay us fees relating to the Ecommerce Services you use.
 For example, for the Payments feature, you pay us a percentage (which depends on your plan) of the revenue your website generates through Payments.
 you authorize Stripe to direct payment of that percentage to us.
 As another example, if you use WooCommerce Payments, there are transaction fees and dispute fees.
 Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.</p>
+<p>If you have a negative account balance (for example because of fraud, chargebacks, or other operational issues) or we are obligated to pay or collect any fees relating to your ecommerce activities or your use of Ecommerce Services, you are responsible for those losses and fees, and we may collect payment for those losses and fees.</p>
 <p>
 <strong>Tax Calculations.</strong> You are responsible for payment of all applicable Taxes relating to your ecommerce activities and your use of Ecommerce Services.
 You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, inform your customers about any Taxes they may be required to pay and issue appropriate invoices.
@@ -304,7 +305,7 @@ Tax laws also differ from jurisdiction to jurisdiction and may be subject to dif
 We recommend that you consult with a tax professional for your specific tax situation when assessing the correct tax rates you should charge.</p>
 <p>If we are obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you are responsible for such Taxes, and we may collect payment for such Taxes.</p>
 <p>
-<strong>Shipping Services.</strong> Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as USPS and Canada Post.
+<strong>Shipping Services.</strong> Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, and Canada Post.
 We act only as an intermediary between you and these third parties.
 we are not involved in any way with your product or its shipment.
 We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.</p>
@@ -312,7 +313,8 @@ We also do not warrant that the results you obtain from the use of these service
 For example, if you use USPS postage, you will need to comply with their shipping restrictions and mailing standards, among others.</p>
 <p>In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments.
 If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.</p>
-<p>You authorize us to charge you for the fees associated with each shipping label you create.
+<p>Please note that in some cases, you may need to pay fees to the carrier directly, like if you use UPS shipping labels.
+In other cases, you authorize us to charge you for the fees associated with each shipping label you create.
 Each fee will be charged separately to the payment methods you have provided in your WordPress.com account, which you can view and manage as described on the Payments Methods support page.
 If you have multiple payment methods, you can select which should be used for the shipping label service.
 If we are unable to collect payment from you for these fees, you will be responsible for payment within 7 days.
