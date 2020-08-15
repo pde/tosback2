@@ -1,4 +1,4 @@
- Privacy Notice Last Updated: January 24, 2020 <p>This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).</p>
+ Privacy Notice Last Updated: August 14, 2020 <p>This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).</p>
 <p>This Privacy Notice does not apply to the “content” processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account.
 See the agreement governing your access to your AWS account and the AWS Data Privacy FAQ for more information about how we handle content and how our customers can control their content through AWS Offerings.
 This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.</p>
@@ -55,8 +55,8 @@ We may also use scoring methods to assess and manage credit risks.</li>
 <li>
 <b>Purposes for Which We Seek Your Consent:</b> We may also ask for your consent to use your personal information for a specific purpose that we communicate to you.<br>
 </li>
-</ul> Cookies <p>To enable our systems to recognize your browser or device and to provide AWS Offerings to you, we use cookies.
-For more information about cookies and how we use them, please read our Cookies Notice.<br>
+</ul> Cookies <p>To enable our systems to recognize your browser or device and to provide AWS Offerings, we use cookies.
+For more information about cookies and how we use them, please read our Cookie Notice.<br>
 </p> How We Share Personal Information <p>Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others.
 We share personal information only as described below and with Amazon.com, Inc.
 and the subsidiaries that Amazon.com, Inc.
@@ -122,13 +122,14 @@ If you do not want to receive in-app notifications from us, please adjust your n
 If you’re under 18, you may use AWS Offerings only with the involvement of a parent or guardian.<br>
 </p> Retention of Personal Information <p>We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you.
 How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.<br>
-</p> Contacts, Notices, and Revisions <p>If you have any concern about privacy at AWS or want to contact one of our data controllers, please contact us with a thorough description, and we will try to resolve it.
+</p> Contacts, Notices, and Revisions <p>If you have any concern about privacy at AWS or want to contact one of our data controllers, please contact us with a thorough description, and we will try to resolve the issue for you.
 You may also contact us at the addresses below:</p>
 <ul>
 <li>For any prospective or current customers of Amazon Web Services, Inc., our mailing address is: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal</li>
 <li>For any prospective or current customers of Amazon Web Services EMEA SARL, our mailing address is: Amazon Web Services EMEA SARL, 38 Avenue John F.
 Kennedy, L-1855, Luxembourg, ATTN: AWS EMEA Legal</li>
-<li>For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Ground Floor, Eros Corporate Towers, Nehru Place, New Delhi, 110 019, India, ATTN: AISPL Legal</li>
+<li>For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos.
+1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal</li>
 </ul>
 <p>If you interact with AWS Offerings on behalf of or through your organization, then your personal information may also be subject to your organization’s privacy practices, and you should direct privacy inquiries to your organization.</p>
 <p>Our business changes constantly, and our Privacy Notice may also change.
@@ -139,9 +140,46 @@ We stand behind the promises we make, however, and will never materially change 
 </p> EU-US and Swiss-US Privacy Shield <p>Amazon Web Services, Inc.
 participates in the EU-US and Swiss-US Privacy Shield frameworks.
 Click here to learn more.<br>
-</p> Additional Information for Certain Jurisdictions <p>We provide additional information about the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.<br>
-</p>
+</p> Additional Information for Certain Jurisdictions <p>We provide additional information about the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.</p>
 <ul>
+<li> Brazil <p>
+<b>Controller of Personal Information</b>.
+When Amazon AWS Serviços Brasil Ltda.
+is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A.
+Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering.</p>
+<p>
+<b>Processing</b>.
+We process your personal information on one or more of the following legal bases:</p>
+<ul>
+<li>as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide AWS Offerings, to respond to requests from you, or to provide customer support;</li>
+<li>where we have a legitimate interest, as described in this Privacy Notice (see How We Use Personal Information above);</li>
+<li>as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders.
+or</li>
+<li>with your consent.</li>
+</ul>
+<p>
+<b>Your Rights</b>.
+Subject to applicable law, you have the right to:</p>
+<ul>
+<li>ask whether we hold personal information about you and request copies of such personal information and information about how it is processed;</li>
+<li>request that inaccurate personal information is corrected;</li>
+<li>request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;</li>
+<li>request us to restrict the processing of personal information where the processing is inappropriate;</li>
+<li>object to the processing of personal information;</li>
+<li>request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
+and</li>
+<li>request information about the possibility of refusing consent and the consequences of doing so.</li>
+</ul>
+<p>If you wish to do any of these things and you are an AWS customer, please contact us.
+If you are not an AWS customer, please contact us at the address under Controller of Personal Information above.
+Further, the data protection officer for Amazon AWS Serviços Brasil Ltda.
+can be contacted at aws-brasil-privacy@amazon.com.
+You can also file a complaint with Brazil’s National Data Protection Authority (ANPD) through its official channels.</p>
+<p>When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.</p>
+<p>
+<b>Transfers outside of Brazil</b>.
+When we transfer your personal information outside Brazil, we do so in accordance with the terms of this Privacy Notice and applicable data protection law. </p>
+</li>
 <li> California <p>These additional disclosures are required by the California Consumer Privacy Act and are effective as of January 24, 2020:</p>
 <p>
 <b>Categories of personal information collected</b>.
@@ -205,22 +243,21 @@ Subject to applicable law, you have the right to:</p>
 and</li>
 <li>lodge a complaint with us regarding our practices related to your personal information.</li>
 </ul>
-<p>You can exercise your rights of access, rectification, erasure, restriction, or complaint by contacting us.
-If you wish to do any of these things and you are an AWS customer, please contact us.
+<p>If you wish to do any of these things and you are an AWS customer, please contact us.
 If you are not an AWS customer, please contact us at the address stated under Contacts, Notices, and Revisions above.</p>
 </li>
 <li> European Economic Area <p>
-<b>Controller of Personal Information.</b> Amazon Web Services EMEA SARL, 38 Avenue John F.
-Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through AWS Offerings.
-Amazon Web Services EMEA SARL, is the authorized representative of Amazon Web Services, Inc.
+<b>Controller of Personal Information.</b> When Amazon Web Services EMEA SARL is the provider of an AWS Offering, Amazon Web Services EMEA SARL, 38 Avenue John F.
+Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through the AWS Offering.
+Amazon Web Services EMEA SARL is also the authorized representative of Amazon Web Services, Inc.
 in the EEA.</p>
 <p>
 <b>Processing.</b> We process your personal information on one or more of the following legal bases:</p>
 <ul>
 <li>as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide AWS Offerings, to respond to requests from you, or to provide customer support;</li>
-<li>where we have a legitimate interest, as described in this Privacy Notice (see How We Use Personal Information above);<br> as necessary to comply with relevant law and legal obligations, including to</li>
-<li>respond to lawful requests and orders.
-or</li>
+<li>where we have a legitimate interest, as described in this Privacy Notice (see How We Use Personal Information above);</li>
+<li>as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders.
+or </li>
 <li>with your consent.</li>
 </ul>
 <p>
@@ -231,21 +268,18 @@ Subject to applicable law, you have the right to:</p>
 <li>request that inaccurate personal information is corrected;</li>
 <li>request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;</li>
 <li>request us to restrict the processing of personal information where the processing is inappropriate;</li>
-<li>object to the processing of personal data;</li>
-<li>request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
-and </li>
-<li>lodge a complaint with our principal supervisory authority, the Commission Nationale pour la Protection des Données in Luxembourg www.cnpd.lu, or with a local authority.</li>
+<li>object to the processing of personal information.
+and</li>
+<li>request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.</li>
 </ul>
-<p>You can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us.
-If you wish to do any of these things and you are an AWS customer, please contact us.
-If you are not an AWS customer, please contact us at the address under Contacts, Notices, and Revisions above.</p>
+<p>If you wish to do any of these things and you are an AWS customer, please contact us.
+If you are not an AWS customer, please contact us at the address under Contacts, Notices, and Revisions above. You can also lodge a complaint with our principal supervisory authority, the Commission Nationale pour la Protection des Données in Luxembourg, or with a local authority.</p>
 <p>When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.</p>
 <p>
 <b>Cookies.
-</b>Please refer to our Cookies Notice.</p>
+</b>Please refer to our Cookie Notice.</p>
 <p>
-<b>Transfers outside of the EEA.</b> When we transfer your personal information outside the EEA we do so in accordance with the terms of this Privacy Notice and applicable data protection law.
-This may include the transfer of data in accordance with the EU-US and Swiss-US Privacy Shield frameworks (for transfers to the US) or pursuant to data transfer agreements that incorporate the Standard Contractual Clauses approved by the EU Commission.<br>
+<b>Transfers outside of the EEA.</b> When we transfer your personal information outside the EEA we do so in accordance with the terms of this Privacy Notice and applicable data protection law.<br>
 </p>
 </li>
 <li> Japan <p>Any personal information provided to or gathered by Amazon Web Services Japan K.K.
@@ -270,15 +304,14 @@ We might create de-identified information using your email address, name, addres
 </p>
 <p>Marketo</p>
 <p>Customer communications</p>
-<p>Salesforce</p>
-<p>Customer relationship management</p>
 <p>PaymentTech</p>
 <p>Payment instrument processing</p>
+<p>Salesforce</p>
+<p>Customer relationship management</p>
 <p>When deleting personal information, AWS will take standard commercially reasonable measures to make the personal information practically irrecoverable or irreproducible.
 The specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us.
 Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable.
-Non-electronic documents or files containing personal information will be shredded, incinerated, or both.
-</p>
+Non-electronic documents or files containing personal information will be shredded, incinerated, or both.</p>
 <p>If you have any privacy questions or requests please contact:</p>
 <p>AWS Korea Privacy<br> Email: aws-korea-privacy@amazon.com</p>
 </li>
@@ -329,7 +362,7 @@ and</li>
 <li>the full Uniform Resource Locators (URL) clickstream to, through, and from our website (including date and time) and AWS Offerings, content you viewed or searched for, page response times, download errors, and page interaction information (such as scrolling, clicks, and mouse-overs);</li>
 <li>email addresses and phone numbers used to contact us.
 and</li>
-<li>identifiers and information contained in cookies (see our Cookies Notice).
+<li>identifiers and information contained in cookies (see our Cookie Notice).
  </li>
 </ul> Information from Other Sources <p>Examples of information we receive from other sources include:</p>
 <ul>
