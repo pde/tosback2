@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: July 2020 What's new? <i>
+Microsoft Privacy StatementLast Updated: September 2020 What's new? <i>
 </i>Expand All<i>
 </i>Collapse AllPrint<p>Your privacy is important to us.
 This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.</p>
@@ -19,7 +19,8 @@ For more information, see the Cookies and similar technologies section of this p
 and Swiss-U.S.
 Privacy Shield<p>Microsoft adheres to the principles of the EU-U.S.
 and Swiss-U.S.
-Privacy Shield frameworks.
+Privacy Shield frameworks, although Microsoft does not rely on the EU-U.S.
+Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18.
 To learn more, visit the U.S.
 Department of Commerce’s Privacy Shield website.</p>Contact us<p>If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form.
 For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement.</p>Personal data we collectPersonal data we collect<p>Microsoft collects data from you, through our interactions with you and through our products.
@@ -479,9 +480,10 @@ Microsoft apps use additional identifiers, such as the advertising ID in Windows
 <li>
 <strong>Storing your preferences and settings</strong>.
 We use cookies to store your preferences and settings on your device, and to enhance your experiences.
-For example, if you enter your city or postal code to get local news or weather information on a Microsoft website, depending on your settings, we store that data in a cookie so that you will see the relevant local information when you return to the site.
+For example, depending on your settings, if you enter your city or postal code to get local news or weather information on a Microsoft website, we store that data in a cookie so that you will see the relevant local information when you return to the site.
 Saving your preferences with cookies, such as your preferred language, prevents you from having to set your preferences repeatedly.
-If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.</li>
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie.</li>
 <li>
 <strong>Sign-in and authentication</strong>.
 We use cookies to authenticate you.
@@ -504,7 +506,8 @@ Microsoft uses cookies to enable you to provide feedback on a website.</li>
 <li>
 <strong>Interest-based advertising</strong>.
 Microsoft uses cookies to collect data about your online activity and identify your interests so that we can provide advertising that is most relevant to you.
-You can opt out of receiving interest-based advertising from Microsoft as described in the How to access and control your personal data section of this privacy statement.</li>
+You can opt out of receiving interest-based advertising from Microsoft as described in the How to access and control your personal data section of this privacy statement.
+Where required, we obtain your opt-in consent to use cookies for behavioral advertising.</li>
 <li>
 <strong>Showing advertising</strong>.
 Microsoft uses cookies to record how many visitors have clicked on an advertisement and to record which advertisements you have seen, for example, so you don’t see the same one repeatedly.</li>
@@ -522,6 +525,8 @@ this helps ensure that our websites remain up and running.</li>
 This list is not exhaustive, but it is intended to illustrate the primary purposes for which we typically set cookies.
 If you visit one of our websites, the site will set some or all of the following cookies:</p>
 <ul>
+<li>
+<strong>MSCC.</strong> Contains user choices for most Microsoft properties.</li>
 <li>
 <strong>MUID, MC1, and MSFPC.</strong> Identifies unique web browsers visiting Microsoft sites.
 These cookies are used for advertising, site analytics, and other operational purposes.</li>
@@ -549,24 +554,33 @@ This cookie identifies the advertiser, so the right ad is selected.</li>
 <li>
 <strong>x-ms-gateway-slice.</strong> Identifies a gateway for load balancing.</li>
 <li>
-<strong>TOptOut.</strong> Records your decision not to receive interest-based advertising delivered by Microsoft.</li>
+<strong>TOptOut.</strong> Records your decision not to receive interest-based advertising delivered by Microsoft.
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising.</li>
 </ul>
 <p>In addition to the cookies Microsoft sets when you visit our websites, third parties can also set cookies when you visit Microsoft sites.
 For example:</p>
 <ul>
-<li>Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.
-See opt-out links below.</li>
+<li>Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.</li>
 <li>Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own.
 These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.</li>
 </ul>
+<p>For a list of the third parties that set cookies on our websites, other than service providers acting on our behalf, please visit our third-party cookies page.
+On some of our websites, a list of third parties is available directly on the site.
+The third parties on these sites may not be included in the list on our third-party cookies page.</p>
 <p>
 <strong>How to control cookies</strong>
 </p>
 <p>Most web browsers automatically accept cookies but provide controls that allow you to block or delete them.
-For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy and services </strong>&gt;<strong> Clear Browsing data</strong> &gt.
+For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings</strong> &gt.
+<strong>Privacy and services</strong> &gt.
+<strong>Clear Browsing data</strong> &gt.
 <strong>Cookies and other site data</strong>.
 For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer.
 If you use a different browser, refer to that browser’s instructions.</p>
+<p>Where required, we obtain your consent before placing optional cookies that are not (i) strictly necessary to provide the website or (ii) for the purpose of facilitating a communication.
+We separate these optional cookies by purpose, such as for advertising and social media purposes.
+You may consent to certain categories of optional cookies and not others.
+You also may adjust your choices by clicking “Manage cookies” in the footer of the website or through the settings made available on the website.</p>
 <p>Certain features of Microsoft products depend on cookies.
 If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost.
 If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.</p>
@@ -579,10 +593,11 @@ We also include web beacons or similar technologies in our electronic communicat
 <p>In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.
 This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
 It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.</p>
-<p>Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
+<p> Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
 These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products.
 However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address).
-You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends or Optimizely.</p>
+You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends or Optimizely.
+</p>
 <p>
 <strong>Other similar technologies</strong>
 </p>
@@ -720,7 +735,8 @@ To learn more about the European Commission’s decisions on the adequacy of the
 <p>Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, although Microsoft does not rely on the EU-U.S.
+Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18.
 Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
 If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage.
 The controlled U.S.
@@ -930,9 +946,10 @@ Many of these companies are also members of the NAI or DAA, which each provide a
 </i>Collection of data from childrenCollection of data from children<p>When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
 We will not knowingly ask children under that age to provide more data than is required to provide for the product.</p>
 <p>Once parental consent or authorization is granted, the child's account is treated much like any other account.
-The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.</p>
-<p>Parents can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of children for whom they provided consent or authorization.
-For example, parents can access their personal Microsoft account and select <strong>Permissions</strong>.
+The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.
+Learn more about parental consent and Microsoft child accounts.</p>
+<p>Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the minors for whom they provided consent or authorization.
+As the organizer of a Microsoft family group, the parent or guardian can manage a minor’s information and settings on their Family Safety page and view and delete a minor’s data on their privacy dashboard.
 For users of Minecraft for PC/Java and other Mojang games, parents can visit the Mojang Account page.</p>Top of page<i>
 </i>Preview or free-of-charge releasesPreview or free-of-charge releases<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing Microsoft with data about your use of the product, including feedback and device and usage data.
 As a result, previews can automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products.
@@ -1505,26 +1522,30 @@ Microsoft has implemented business and technical measures designed to help de id
 For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.</p>
 <p>For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
 For the Translate feature in Office apps, see the Productivity and communications products section of this privacy statement.</p>Top of page<i>
-</i>SwiftKeySwiftKey<p>SwiftKey Keyboard and related products (collectively, the “SwiftKey Services”) process data about how you type and write, and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
-We also use this data to offer a range of other features, such as hashtag and emoji prediction.</p>
+</i>SwiftKeySwiftKey<p>The Microsoft Swiftkey keyboard and related cloud-based services (collectively, the “SwiftKey Services”) process data about words you use and how you type and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
+We also use this data to offer a range of other features, such as hashtag and emoji predictions.</p>
 <p>SwiftKey prediction technology learns from the way you use language to build a personalized language model.
 This model is an optimized view of the words and phrases that you use most often in context and reflects your unique writing style.
-The model itself contains the words you commonly type arranged in a way to enable SwiftKey’s algorithms to make predictions based on what you type.
+The model itself contains the words you commonly type arranged in a way that enables SwiftKey’s algorithms to make predictions, based on text you have already entered.
 The model draws from all scenarios in which you use your keyboard, including when you type while using apps or visiting websites.
-The SwiftKey keyboard and model attempts to avoid collecting sensitive data, such as fields flagged as containing password or payment data.
+The SwiftKey keyboard and model attempt to avoid collecting sensitive data, by not collecting data from certain fields such as those recognized as containing password or payment data.
 SwiftKey Services do not log, store, or learn from data you type, or the data contained in your model, unless you choose to share your data with us (as described further below).
 When you use SwiftKey Services, we also collect device and usage data.
 We use de-identified device and usage data to analyze service performance and help improve our products.</p>
 <p>The SwiftKey Services also include an optional cloud component called a SwiftKey Account.
-If you choose to create a SwiftKey Account, your language model will be synced with the SwiftKey Account cloud service, so you can benefit from that model on the different devices you use and access additional services such as personalization, prediction synchronization, and backup.
+If you choose to create a SwiftKey Account, your language model will be synced with the SwiftKey Account cloud service, so you can benefit from that model on the different devices you use and access additional services such as prediction synchronization and backup.
 When you create a SwiftKey Account, Microsoft will also collect your email address and basic demographic data.
 All data collected is transferred to our servers over encrypted channels.</p>
-<p>SwiftKey Account holders have the option to use the SwiftKey personalization service, which more quickly establishes and improves personalized predictions by allowing SwiftKey to access content on your device, including content you send through SMS, and certain apps such as Outlook.com, Gmail, Facebook and Twitter when you choose to connect them to the service.</p>
-<p>You may also opt in to send short snippets of what and how you type for product improvement.
-To preserve your privacy, SwiftKey Services de-identifies these snippets, so they are not linked to your account.
-You can withdraw your consent to share these snippets at any time in SwiftKey Settings.
-You can also withdraw your consent to allow SwiftKey Services to use and retain your personal data at any time in SwiftKey Settings.
-When you withdraw consent, personal data collected through your use of the SwiftKey Services will be deleted.</p>
+<p>You may also opt in to share your language and typing data for the purposes of improving Microsoft products.
+If you choose to do this, SwiftKey will sometimes send short snippets of data about what and how you type to our servers for processing.
+These snippets are used in various automated processes to validate that our prediction services are working correctly and to make product improvements.
+To preserve your privacy, SwiftKey Services de-identify these snippets, and even if you have a SwiftKey Account, these snippets will not be linked to it.</p>
+<p>If you sign into a SwiftKey Account and opt to share your language and typing data, Microsoft will process your language model in order to look for new patterns of language usage across our userbase.
+This allows us to improve our basic models for individual languages.
+Data used in this process is aggregated and any words or combinations of words that might be personal to individuals or small groups of users are filtered out.</p>
+<p>You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings.
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings.
+When you withdraw consent for SwiftKey to retain your personal data, all personal data collected through your use of the SwiftKey Services will be deleted.</p>
 <p>You may receive occasional notifications on your device alerting you to product updates and features that may be of interest to you.
 You can disable these notifications at any time in the SwiftKey Settings.</p>Top of page<i>
 </i>WindowsWindows<p>Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub.
@@ -2673,9 +2694,10 @@ Microsoft apps use additional identifiers, such as the advertising ID in Windows
 <li>
 <strong>Storing your preferences and settings</strong>.
 We use cookies to store your preferences and settings on your device, and to enhance your experiences.
-For example, if you enter your city or postal code to get local news or weather information on a Microsoft website, depending on your settings, we store that data in a cookie so that you will see the relevant local information when you return to the site.
+For example, depending on your settings, if you enter your city or postal code to get local news or weather information on a Microsoft website, we store that data in a cookie so that you will see the relevant local information when you return to the site.
 Saving your preferences with cookies, such as your preferred language, prevents you from having to set your preferences repeatedly.
-If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.</li>
+If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.
+Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie.</li>
 <li>
 <strong>Sign-in and authentication</strong>.
 We use cookies to authenticate you.
@@ -2698,7 +2720,8 @@ Microsoft uses cookies to enable you to provide feedback on a website.</li>
 <li>
 <strong>Interest-based advertising</strong>.
 Microsoft uses cookies to collect data about your online activity and identify your interests so that we can provide advertising that is most relevant to you.
-You can opt out of receiving interest-based advertising from Microsoft as described in the How to access and control your personal data section of this privacy statement.</li>
+You can opt out of receiving interest-based advertising from Microsoft as described in the How to access and control your personal data section of this privacy statement.
+Where required, we obtain your opt-in consent to use cookies for behavioral advertising.</li>
 <li>
 <strong>Showing advertising</strong>.
 Microsoft uses cookies to record how many visitors have clicked on an advertisement and to record which advertisements you have seen, for example, so you don’t see the same one repeatedly.</li>
@@ -2716,6 +2739,8 @@ this helps ensure that our websites remain up and running.</li>
 This list is not exhaustive, but it is intended to illustrate the primary purposes for which we typically set cookies.
 If you visit one of our websites, the site will set some or all of the following cookies:</p>
 <ul>
+<li>
+<strong>MSCC.</strong> Contains user choices for most Microsoft properties.</li>
 <li>
 <strong>MUID, MC1, and MSFPC.</strong> Identifies unique web browsers visiting Microsoft sites.
 These cookies are used for advertising, site analytics, and other operational purposes.</li>
@@ -2743,24 +2768,33 @@ This cookie identifies the advertiser, so the right ad is selected.</li>
 <li>
 <strong>x-ms-gateway-slice.</strong> Identifies a gateway for load balancing.</li>
 <li>
-<strong>TOptOut.</strong> Records your decision not to receive interest-based advertising delivered by Microsoft.</li>
+<strong>TOptOut.</strong> Records your decision not to receive interest-based advertising delivered by Microsoft.
+Where required, we place this cookie by default and remove it when you consent to interest-based advertising.</li>
 </ul>
 <p>In addition to the cookies Microsoft sets when you visit our websites, third parties can also set cookies when you visit Microsoft sites.
 For example:</p>
 <ul>
-<li>Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.
-See opt-out links below.</li>
+<li>Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.</li>
 <li>Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own.
 These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.</li>
 </ul>
+<p>For a list of the third parties that set cookies on our websites, other than service providers acting on our behalf, please visit our third-party cookies page.
+On some of our websites, a list of third parties is available directly on the site.
+The third parties on these sites may not be included in the list on our third-party cookies page.</p>
 <p>
 <strong>How to control cookies</strong>
 </p>
 <p>Most web browsers automatically accept cookies but provide controls that allow you to block or delete them.
-For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings </strong>&gt;<strong> Privacy and services </strong>&gt;<strong> Clear Browsing data</strong> &gt.
+For example, in Microsoft Edge, you can block or delete cookies by selecting <strong>Settings</strong> &gt.
+<strong>Privacy and services</strong> &gt.
+<strong>Clear Browsing data</strong> &gt.
 <strong>Cookies and other site data</strong>.
 For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer.
 If you use a different browser, refer to that browser’s instructions.</p>
+<p>Where required, we obtain your consent before placing optional cookies that are not (i) strictly necessary to provide the website or (ii) for the purpose of facilitating a communication.
+We separate these optional cookies by purpose, such as for advertising and social media purposes.
+You may consent to certain categories of optional cookies and not others.
+You also may adjust your choices by clicking “Manage cookies” in the footer of the website or through the settings made available on the website.</p>
 <p>Certain features of Microsoft products depend on cookies.
 If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost.
 If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.</p>
@@ -2773,10 +2807,11 @@ We also include web beacons or similar technologies in our electronic communicat
 <p>In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.
 This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website.
 It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.</p>
-<p>Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
+<p> Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations.
 These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products.
 However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address).
-You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends or Optimizely.</p>
+You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends or Optimizely.
+</p>
 <p>
 <strong>Other similar technologies</strong>
 </p>
@@ -2908,7 +2943,8 @@ To learn more about the European Commission’s decisions on the adequacy of the
 <p>Microsoft Corporation complies with the EU-U.S.
 Privacy Shield Framework and Swiss-U.S.
 Privacy Shield Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States.
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, although Microsoft does not rely on the EU-U.S.
+Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18.
 Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
 If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage.
 The controlled U.S.
@@ -3114,9 +3150,10 @@ Select any of the preceding links to find more information on each company's pra
 Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.</p>Collection of data from childrenCollection of data from childrenmaincollectionofdatafromchildrenmoduleSummary<p>When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
 We will not knowingly ask children under that age to provide more data than is required to provide for the product.</p>
 <p>Once parental consent or authorization is granted, the child's account is treated much like any other account.
-The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.</p>
-<p>Parents can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of children for whom they provided consent or authorization.
-For example, parents can access their personal Microsoft account and select <strong>Permissions</strong>.
+The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.
+Learn more about parental consent and Microsoft child accounts.</p>
+<p>Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the minors for whom they provided consent or authorization.
+As the organizer of a Microsoft family group, the parent or guardian can manage a minor’s information and settings on their Family Safety page and view and delete a minor’s data on their privacy dashboard.
 For users of Minecraft for PC/Java and other Mojang games, parents can visit the Mojang Account page.</p>Preview or free-of-charge releasesPreview or free-of-charge releasesmainpreviewreleasesmoduleSummary<p>Microsoft offers preview, insider, beta or other free-of-charge products and features ("previews") to enable you to evaluate them while providing Microsoft with data about your use of the product, including feedback and device and usage data.
 As a result, previews can automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products.
 If you participate in previews, we may contact you about your feedback or your interest in continuing to use the product after general release.</p>Changes to this privacy statementChanges to this privacy statementmainchangestothisprivacystatementmoduleSummary<p>We update this privacy statement when necessary to provide greater transparency or in response to:</p>
@@ -3670,26 +3707,30 @@ We use this data to provide Translator, personalize your experiences, and improv
 Microsoft has implemented business and technical measures designed to help de identify the data you submit to Translator.
 For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.</p>
 <p>For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement.
-For the Translate feature in Office apps, see the Productivity and communications products section of this privacy statement.</p>SwiftKeySwiftKeymainswiftkeymoduleSummary<p>SwiftKey Keyboard and related products (collectively, the “SwiftKey Services”) process data about how you type and write, and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
-We also use this data to offer a range of other features, such as hashtag and emoji prediction.</p>
+For the Translate feature in Office apps, see the Productivity and communications products section of this privacy statement.</p>SwiftKeySwiftKeymainswiftkeymoduleSummary<p>The Microsoft Swiftkey keyboard and related cloud-based services (collectively, the “SwiftKey Services”) process data about words you use and how you type and use this data to learn your writing style and provide personalized autocorrection and predictive text that adapts to you.
+We also use this data to offer a range of other features, such as hashtag and emoji predictions.</p>
 <p>SwiftKey prediction technology learns from the way you use language to build a personalized language model.
 This model is an optimized view of the words and phrases that you use most often in context and reflects your unique writing style.
-The model itself contains the words you commonly type arranged in a way to enable SwiftKey’s algorithms to make predictions based on what you type.
+The model itself contains the words you commonly type arranged in a way that enables SwiftKey’s algorithms to make predictions, based on text you have already entered.
 The model draws from all scenarios in which you use your keyboard, including when you type while using apps or visiting websites.
-The SwiftKey keyboard and model attempts to avoid collecting sensitive data, such as fields flagged as containing password or payment data.
+The SwiftKey keyboard and model attempt to avoid collecting sensitive data, by not collecting data from certain fields such as those recognized as containing password or payment data.
 SwiftKey Services do not log, store, or learn from data you type, or the data contained in your model, unless you choose to share your data with us (as described further below).
 When you use SwiftKey Services, we also collect device and usage data.
 We use de-identified device and usage data to analyze service performance and help improve our products.</p>
 <p>The SwiftKey Services also include an optional cloud component called a SwiftKey Account.
-If you choose to create a SwiftKey Account, your language model will be synced with the SwiftKey Account cloud service, so you can benefit from that model on the different devices you use and access additional services such as personalization, prediction synchronization, and backup.
+If you choose to create a SwiftKey Account, your language model will be synced with the SwiftKey Account cloud service, so you can benefit from that model on the different devices you use and access additional services such as prediction synchronization and backup.
 When you create a SwiftKey Account, Microsoft will also collect your email address and basic demographic data.
 All data collected is transferred to our servers over encrypted channels.</p>
-<p>SwiftKey Account holders have the option to use the SwiftKey personalization service, which more quickly establishes and improves personalized predictions by allowing SwiftKey to access content on your device, including content you send through SMS, and certain apps such as Outlook.com, Gmail, Facebook and Twitter when you choose to connect them to the service.</p>
-<p>You may also opt in to send short snippets of what and how you type for product improvement.
-To preserve your privacy, SwiftKey Services de-identifies these snippets, so they are not linked to your account.
-You can withdraw your consent to share these snippets at any time in SwiftKey Settings.
-You can also withdraw your consent to allow SwiftKey Services to use and retain your personal data at any time in SwiftKey Settings.
-When you withdraw consent, personal data collected through your use of the SwiftKey Services will be deleted.</p>
+<p>You may also opt in to share your language and typing data for the purposes of improving Microsoft products.
+If you choose to do this, SwiftKey will sometimes send short snippets of data about what and how you type to our servers for processing.
+These snippets are used in various automated processes to validate that our prediction services are working correctly and to make product improvements.
+To preserve your privacy, SwiftKey Services de-identify these snippets, and even if you have a SwiftKey Account, these snippets will not be linked to it.</p>
+<p>If you sign into a SwiftKey Account and opt to share your language and typing data, Microsoft will process your language model in order to look for new patterns of language usage across our userbase.
+This allows us to improve our basic models for individual languages.
+Data used in this process is aggregated and any words or combinations of words that might be personal to individuals or small groups of users are filtered out.</p>
+<p>You can withdraw your consent to share your language and typing data for product improvement at any time in SwiftKey Settings.
+You can also withdraw your consent for SwiftKey Services to retain your personal data in SwiftKey Settings.
+When you withdraw consent for SwiftKey to retain your personal data, all personal data collected through your use of the SwiftKey Services will be deleted.</p>
 <p>You may receive occasional notifications on your device alerting you to product updates and features that may be of interest to you.
 You can disable these notifications at any time in the SwiftKey Settings.</p>WindowsWindowsmainwindowsmoduleSummary<p>Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub.
 Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features.
@@ -4369,7 +4410,8 @@ For more information, see the Cookies and similar technologies section of this p
 and Swiss-U.S.
 Privacy Shield<p>Microsoft adheres to the principles of the EU-U.S.
 and Swiss-U.S.
-Privacy Shield frameworks.
+Privacy Shield frameworks, although Microsoft does not rely on the EU-U.S.
+Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18.
 To learn more, visit the U.S.
 Department of Commerce’s Privacy Shield website.</p>Contact us<p>If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form.
 For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement.</p>
