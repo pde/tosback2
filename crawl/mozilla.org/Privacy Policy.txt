@@ -182,15 +182,15 @@ Cookies </li>
 <li> Mozilla VPN </li>
 <li> Thunderbird </li>
 </ul> Websites, Communications &amp.
-Cookies Privacy Notice March 15, 2019 <p>We care about your privacy.
+Cookies Privacy Notice September 11, 2020 <p>We care about your privacy.
 When Mozilla (that's us) collects information about you, our Mozilla Privacy Policy describes how we handle that information.</p>
-<p>This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, and webmaker.org, among others.
-This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.</p> Things you should know
+<p>This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, and firefox.com, among others.
+This includes, for example, foundation.mozilla.org, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.</p> Things you should know
 <p>We may receive personal information from you based on your interaction with us on social media platforms.
-if you submit a job, intern or fellow application.
+if you submit a job, intern, grant, or fellow application.
 if you volunteer as a Mozilla community member.
 if you submit user feedback or a request to us.
-if you sign-up for an account.
+if you sign up for an account or for a subscription.
 or if you engage with a product or policy campaign.
 </p>
 <ul>
@@ -201,11 +201,10 @@ If you use these networks, their privacy policies apply, and you are encouraged 
 </li>
 <li>
 <p>
-<strong>Job, Intern &amp.
-Fellow Applicants</strong>: Applicants for employment, internship or fellowship opportunities with Mozilla are required to give us a name, street address, telephone number, email address, and resume.
+<strong>Job, Intern, Grant &amp.
+Fellow Applicants</strong>: Applicants for employment, internship, grant, or fellowship opportunities with Mozilla are required to give us a name, street address, telephone number, email address, and resume, and sometimes additional information as well.
 We use this information to process and evaluate applications and to communicate with applicants about opportunities.
-We use a third party vendor to assist us with employment applications.
-For more information on our data practices with third party vendors, see our Mozilla Privacy Policy.</p>
+We use Greenhouse to handle employment and intern applications, and Fluxx.io to handle fellowship and MOSS grant applications.</p>
 </li>
 <li>
 <p>
@@ -219,15 +218,17 @@ If possible, we try to minimize contact information that is publicly displayed.<
 </li>
 <li>
 <p>
-<strong>User Feedback</strong>: You can provide feedback to us on our products and services on webpages like input.mozilla.org, through an in-product experience, or through channels such as email, Bugzilla, IRC, a social media account, our Get Involved page, or through a group like Student Ambassadors.
+<strong>User Feedback</strong>: You can provide feedback to us on our products and services on webpages like input.mozilla.org, through an in-product experience, or through channels such as email, Bugzilla, Matrix, a social media account, our Get Involved page, or through a group like Student Ambassadors.
 Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.</p>
 </li>
 <li>
 <p>
-<strong>Accounts</strong>: Some websites, for example Marketplace, AMO, MDN, and Webmaker, require account creation to submit developer content.
-submit user reviews or comments.
-or install certain types of apps.
-You may periodically receive emails in connection with your account.
+<strong>Accounts &amp.
+Subscriptions</strong>: Some websites, for example AMO and MDN require account creation to submit developer content or submit user reviews or comments.
+For account management we use Firefox Accounts, Github, or custom systems.
+see here to manage account data.
+You may periodically receive emails in connection with your account or through subscriptions.
+Our email management vendors are SalesForce Marketing Cloud, Send in Blue, or Mailchimp, and you can unsubscribe using the link at the bottom of the email.
 </p>
 </li>
 <li>
@@ -235,43 +236,47 @@ You may periodically receive emails in connection with your account.
 <strong>Product &amp.
 Policy Campaigns</strong>: Some of our webpages host product or policy campaigns.
 For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues.
-We use third parties to manage these campaigns and handle any data that you choose to submit.<br>
+We may use third parties to manage these campaigns and handle any data that you choose to submit.
 </p>
 </li>
 </ul>
-<p>We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.</p>
+<p>We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
+</p>
 <ul>
 <li>
 <p>
 <strong>Functionality</strong>: We may use information such as cookies, device information, and IP addresses to enhance functionality of certain products, services, and communications.
 For example:</p>
 <ul>
-<li>We use cookies are used to remember information about your Firefox settings (such as language preference and Firefox add-ons), and so that we can recommend relevant features and Add-ons to you based on your Firefox settings.
-They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.</li>
+<li>We use cookies to remember information about your Firefox settings (such as language preference and Firefox add-ons), and so that we can recommend relevant features and Add-ons to you based on your Firefox settings.
+They also assist with user sign-in and authentication so you can bypass re-entering your passwords on certain Mozilla websites.</li>
 <li>We use IP addresses to customize communications by language and country.</li>
 <li>We use certain device information such as country, language, operator and OEM, to customize your experience.</li>
 </ul>
 </li>
 <li>
 <p>
-<strong>Metrics</strong>: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
+<strong>Metrics</strong>: We may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
 We use:</p>
 <ul>
 <li>Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.
-This helps us to improve site content.
-</li>
+This helps us to improve site content.</li>
 <li>Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content.
 This helps us offer better web experiences to users.</li>
 <li>DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.
 This helps us measure the effectiveness of our advertising campaigns.</li>
 <li>Yahoo Dot Pixel, which uses JavaScript on our download Firefox page.
-This helps us measure the effectiveness of our advertising campaigns.
-</li>
+This helps us measure the effectiveness of our advertising campaigns.</li>
 <li>HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page.
 This information helps us understand the effectiveness of our advertising campaigns and improve them.</li>
 <li>Other metrics tools from time to time, on an experimental basis.
 For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.</li>
 </ul>
+</li>
+<li>
+<p>
+<strong>Fraud Prevention</strong>: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background on some of our websites in order to identify fraudulent activity.
+Use of the Invisible reCAPTCHA is governed by the Google Privacy Policy and Terms of Use.</p>
 </li>
 </ul>
 <p>You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools.
@@ -280,7 +285,8 @@ For example, we may do this to help evaluate a new metrics tool, or test existin
 <li>
 <p>
 <strong>Cookie History</strong>: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section.
-Note that certain features of our products and services may not function properly without the aid of cookies.</p>
+Note that certain features of our products and services may not function properly without the aid of cookies.
+</p>
 </li>
 <li>
 <p>
@@ -289,21 +295,19 @@ If you have configured your browser to send a “Do Not Track” signal when acc
 </li>
 <li>
 <p>
-<strong>Email</strong>: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences.
-</p>
+<strong>Email</strong>: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your Mozilla email preferences.</p>
 </li>
 <li>
 <p>
 <strong>Analytics &amp.
 Optimization</strong>: Follow the instructions below to prevent data collection about your visits to Mozilla websites:</p>
 <ul>
-<li>Google: Install the Google Analytics Opt-out Browser Add-on, which keeps your visits anonymous and prohibits data transmission to Google Analytics.
+<li>Google: Install the Google Analytics Opt-out Browser Add-on, which prohibits data transmission to Google Analytics.
 Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns.
-you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).</li>
+you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account).</li>
 <li>Convert.com: Opt-out on www.mozilla.org.</li>
-<li>Yahoo: visit the Ad Interest Manager to opt-out.</li>
-<li>ShareProgress: You can turn on Do Not Track in your browser.
-</li>
+<li>Yahoo: Visit the Ad Interest Manager to opt-out.</li>
+<li>ShareProgress and Fathom.com: You can turn on Do Not Track in your browser.</li>
 </ul>
 </li>
 <li>
@@ -311,19 +315,25 @@ you can control personalized ads from DoubleClick in Google's ad settings (you w
 <strong>Social Media</strong>: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.</p>
 </li>
 </ul>
-<p>Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation.
-These transactions are processed by third parties, and not Mozilla.
+<p>Some Mozilla websites allow you to make purchases (such as apps or gear), contribute funds to specific Mozilla projects, or make donations in support of Mozilla public and charitable programs.
+These transactions are often handled by Mozilla’s third party vendors.
 </p>
 <ul>
 <li>
 <p>
-<strong>Payment Processing</strong>: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing.
-The name of the third party will be displayed at the time of the transaction.</p>
+<strong>Payment Processing</strong>: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe).</p>
 </li>
 <li>
 <p>
-<strong>Fraud Prevention</strong>: Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity.
-Use of the Invisible reCAPTCHA is governed by the Google Privacy Policy and Terms of Use.</p>
+<strong>Personal Data</strong>: We may also receive your name, mailing address, and/or email address.
+This data is used for fraud detection and record-keeping.
+We use SalesForce Marketing Cloud to email receipts and store records, which are retained for four years from the date of last donation.
+</p>
+</li>
+<li>
+<p>
+<strong>Third Party Data</strong>: We use WealthEngine to improve our fundraising efforts to keep the internet healthy, open, and accessible for all.
+Donors can opt-out of Mozilla’s use.</p>
 </li>
 </ul> Mozilla Company <ul>
 <li>About</li>
