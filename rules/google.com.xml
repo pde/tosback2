@@ -5,13 +5,6 @@
     </url>
   </docname>
   <docname name="Privacy Policy">
-    <!-- note: see also next one -->
-    <url name="https://policies.google.com/privacy" xpath="//div[@role='article']" reviewed="true">
-      <norecurse name="arbitrary"/>
-    </url>
-  </docname>
-   <docname name="GOOGLE PRIVACY POLICY">
-    <!-- note: see also previous one -->
     <url name="https://policies.google.com/privacy" xpath="//*[@id='yDmH0d']/c-wiz/div/div/div[2]/div[3]">
      <norecurse name="arbitrary"/>
     </url>

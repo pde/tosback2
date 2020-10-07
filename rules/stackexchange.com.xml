@@ -4,7 +4,7 @@
             <norecurse name="arbitrary"/>
         </url>
     </docname>
-    <docname name="APIs Terms of Use">
+    <docname name="API Terms of Use">
         <url name="https://stackexchange.com/legal/api-terms-of-use" xpath="//div[@class='contentWrapper']">
             <norecurse name="arbitrary"/>
         </url>

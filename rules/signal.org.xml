@@ -1,5 +1,5 @@
 <sitename name="signal.org">
- <docname name="Signal Terms &amp; Privacy Policy">
+ <docname name="Terms and Privacy Policy">
    <url name="https://signal.org/legal/" xpath="//*[@id='document']/div[@class='container']/div[@class='row']/div" reviewed="true">
      <norecurse name="arbitrary"/>
    </url>
