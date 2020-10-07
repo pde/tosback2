@@ -3,58 +3,1107 @@ These files were modified since the last commit:
 On branch master
 Your branch is up-to-date with 'origin/master'.
 Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
+  (use "git add/rm <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   ../crawl/123greetings.com/Privacy Policy.txt
+	deleted:    ../crawl/4shared.com/Privacy Policy.txt
+	deleted:    ../crawl/500px.com/Privacy Policy.txt
+	deleted:    ../crawl/500px.com/Terms of Service.txt
+	deleted:    ../crawl/6pm.com/Privacy Policy.txt
+	deleted:    ../crawl/aa.com/Privacy Policy.txt
+	deleted:    ../crawl/aarp.org/Terms of Service.txt
+	deleted:    ../crawl/abercrombie.com/Privacy Policy.txt
+	deleted:    ../crawl/about.com/Privacy Policy.txt
+	deleted:    ../crawl/accesshollywood.com/Privacy Policy.txt
+	deleted:    ../crawl/accuweather.com/Privacy Policy.txt
+	deleted:    ../crawl/acdelco.com/Privacy Policy.txt
+	deleted:    ../crawl/acrobat.com/Privacy Policy.txt
+	deleted:    ../crawl/adage.com/Privacy Policy.txt
+	deleted:    ../crawl/addictinggames.com/Privacy Policy.txt
+	deleted:    ../crawl/addthis.com/Terms of Service.txt
+	deleted:    ../crawl/adidas.com/Privacy Policy.txt
+	deleted:    ../crawl/adn.com/Privacy Policy.txt
+	deleted:    ../crawl/adobe.com/Privacy Policy.txt
+	deleted:    ../crawl/adotas.com/Privacy Policy.txt
+	deleted:    ../crawl/advanceautoparts.com/Privacy Policy.txt
+	deleted:    ../crawl/advanceautoparts.com/Terms and Conditions.txt
+	deleted:    ../crawl/adweek.com/Privacy Policy.txt
+	deleted:    ../crawl/aetv.com/Privacy Policy.txt
+	deleted:    ../crawl/af-medical.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
-	modified:   ../crawl/apple.com/Apple Transparency Report.txt
+	deleted:    ../crawl/agweb.com/Privacy Policy.txt
+	deleted:    ../crawl/agweb.com/Terms and Conditions.txt
+	deleted:    ../crawl/airbnb.com/Copyright Policy.txt
+	deleted:    ../crawl/airbnb.com/Guest Refund Policy Terms.txt
+	deleted:    ../crawl/airbnb.com/Host Guarantee Terms and Conditions.txt
+	deleted:    ../crawl/airbnb.com/Privacy Policy.txt
+	deleted:    ../crawl/airbnb.com/Terms of Service.txt
+	deleted:    ../crawl/albertsons.com/Privacy Policy.txt
+	deleted:    ../crawl/alexanderstreet.com/Terms of Service.txt
+	deleted:    ../crawl/allrecipes.com/Privacy Policy.txt
+	deleted:    ../crawl/allstate.com/Privacy Policy.txt
+	deleted:    ../crawl/allthingsd.com/Privacy Policy.txt
+	deleted:    ../crawl/alot.com/Privacy Policy.txt
+	deleted:    ../crawl/amazon.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/amazon.com/AMAZON SILK TERMS & CONDITIONS.txt
+	deleted:    ../crawl/amazon.com/Amazon App Suite Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Amazon Kindle Store Terms of Use.txt
+	deleted:    ../crawl/amazon.com/Amazon.com Privacy Notice.txt
+	deleted:    ../crawl/amazon.com/Conditions of Use.txt
+	deleted:    ../crawl/amazon.com/Interest-Based Ads.txt
+	deleted:    ../crawl/amazon.com/Kindle Cloud Reader Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Kindle for Android Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Kindle for Mac Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Kindle for PC Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Kindle for Windows 8 Legal Notices.txt
+	deleted:    ../crawl/amazon.com/Third Party Licenses.txt
+	deleted:    ../crawl/amazon.de/Privacy Policy.txt
+	deleted:    ../crawl/amazon.fr/Privacy Policy.txt
+	deleted:    ../crawl/amctheatres.com/Privacy Policy.txt
+	deleted:    ../crawl/amctheatres.com/Terms and Conditions.txt
+	deleted:    ../crawl/americanexpress.com/Privacy Policy.txt
+	deleted:    ../crawl/americangreetings.com/Privacy Policy.txt
+	deleted:    ../crawl/americanidol.com/Privacy Policy.txt
+	deleted:    ../crawl/americanidol.com/Terms and Conditions.txt
+	deleted:    ../crawl/americanmedical-id.com/Privacy Policy.txt
+	deleted:    ../crawl/amtrak.com/Privacy Policy.txt
+	deleted:    ../crawl/amtrak.com/Web Notices and Terms of Use.txt
+	deleted:    ../crawl/ancestry.com/Privacy Policy.txt
+	deleted:    ../crawl/android.com/Privacy Policy.txt
+	deleted:    ../crawl/answerbag.com/Privacy Policy.txt
+	deleted:    ../crawl/answers.com/Terms of Use and Privacy Policy.txt
+	deleted:    ../crawl/aol.com/Privacy Policy.txt
+	deleted:    ../crawl/aol.com/Terms of Service.txt
+	deleted:    ../crawl/app.net/Privacy Policy.txt
+	deleted:    ../crawl/app.net/Terms of Service.txt
+	deleted:    ../crawl/appchronicles.com/Privacy Policy.txt
+	deleted:    ../crawl/apple.com/Privacy Policy.txt
+	deleted:    ../crawl/apple.com/Website Terms of Service.txt
+	deleted:    ../crawl/apple.com/iCloud Terms of Service.txt
+	deleted:    ../crawl/apple.com/iTunes Terms of Service.txt
+	deleted:    ../crawl/argos.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/arstechnica.com/Privacy Policy.txt
+	deleted:    ../crawl/asia.real.com/Privacy Policy.txt
+	deleted:    ../crawl/ask.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/ask.com/Privacy Policy.txt
+	deleted:    ../crawl/ask.com/Terms of Service.txt
+	deleted:    ../crawl/asus.com/Terms of Use.txt
+	deleted:    ../crawl/att.com/AT&T Consumer Marketing.txt
+	deleted:    ../crawl/att.com/AT&T Privacy Policy FAQ.txt
+	deleted:    ../crawl/att.com/Acceptable Use Policy.txt
+	deleted:    ../crawl/att.com/Cookies and Other Technologies.txt
+	deleted:    ../crawl/att.com/Internet Terms of Service.txt
+	deleted:    ../crawl/att.com/Privacy Policy.txt
+	deleted:    ../crawl/att.com/Terms of Service.txt
+	deleted:    ../crawl/att.com/Wireless Plan Terms.txt
+	deleted:    ../crawl/att.com/Your Rights & Choices.txt
+	deleted:    ../crawl/aufeminin.com/Privacy Policy.txt
+	deleted:    ../crawl/autopartswarehouse.com/Privacy Policy.txt
+	deleted:    ../crawl/autotrader.com/Privacy Policy.txt
+	deleted:    ../crawl/autotrader.com/Visitor Agreement.txt
+	deleted:    ../crawl/autozone.com/Privacy Policy.txt
+	deleted:    ../crawl/avast.com/Privacy Policy.txt
+	deleted:    ../crawl/avg.com/Privacy Policy.txt
+	deleted:    ../crawl/avidaviator.com/Privacy Policy.txt
+	deleted:    ../crawl/babycenter.com/Privacy Policy.txt
+	deleted:    ../crawl/babycenter.com/Terms of Use.txt
+	deleted:    ../crawl/backpage.com/Privacy Policy.txt
+	deleted:    ../crawl/baidu.com/Copyright Notices and Counter-notices.txt
+	deleted:    ../crawl/baidu.com/Copyright.txt
+	deleted:    ../crawl/baidu.com/Disclaimer.txt
+	deleted:    ../crawl/baidu.com/Privacy Policy.txt
 	modified:   ../crawl/bankrate.com/Privacy Policy.txt
+	deleted:    ../crawl/barbie.com/Privacy Policy.txt
+	deleted:    ../crawl/barneys.com/Privacy Policy.txt
+	deleted:    ../crawl/basspro.com/Privacy Policy.txt
+	deleted:    ../crawl/bathandbodyworks.com/Privacy Policy.txt
+	deleted:    ../crawl/bathandbodyworks.com/Terms of Service.txt
+	deleted:    ../crawl/bbb.org/Privacy Policy.txt
+	deleted:    ../crawl/bbc.co.uk/Terms of Service.txt
+	deleted:    ../crawl/beadzgames.com/Privacy Policy.txt
+	deleted:    ../crawl/bedbathandbeyond.com/Privacy Policy.txt
+	deleted:    ../crawl/bestbuy.com/Privacy Policy.txt
+	deleted:    ../crawl/bettycrocker.com/Privacy Policy.txt
+	deleted:    ../crawl/bhg.com/Privacy Policy.txt
+	deleted:    ../crawl/biblegateway.com/Privacy Policy.txt
+	deleted:    ../crawl/bigfishgames.com/Privacy Policy.txt
+	deleted:    ../crawl/bigpoint.com/Privacy Policy.txt
+	deleted:    ../crawl/bikeexif.com/Privacy Policy.txt
+	deleted:    ../crawl/bild.de/Privacy Policy.txt
+	deleted:    ../crawl/billboard.com/Privacy Policy.txt
+	deleted:    ../crawl/bit.ly/Terms of Service.txt
+	deleted:    ../crawl/bitcasa.com/Acceptable Use Policy.txt
+	deleted:    ../crawl/bitcasa.com/Privacy Policy.txt
+	deleted:    ../crawl/bitcasa.com/Terms of Service.txt
+	deleted:    ../crawl/bizrate.com/Privacy Policy.txt
+	deleted:    ../crawl/bl.uk/Copyright and Your use of the British Library Website.txt
+	deleted:    ../crawl/bl.uk/Legal Disclaimer.txt
+	deleted:    ../crawl/bl.uk/Privacy Statement.txt
+	deleted:    ../crawl/blackboard.com/Privacy Policy.txt
+	deleted:    ../crawl/blackboard.com/Security.txt
+	deleted:    ../crawl/blackboard.com/Terms of Use.txt
+	deleted:    ../crawl/blair.com/Privacy Policy.txt
+	deleted:    ../crawl/bleacherreport.com/Privacy Policy.txt
+	deleted:    ../crawl/blockbuster.com/Privacy Policy.txt
+	deleted:    ../crawl/blogger.com/Privacy Policy.txt
+	deleted:    ../crawl/blogger.com/Terms Of Service.txt
+	deleted:    ../crawl/blogspot.com/Privacy Policy.txt
+	deleted:    ../crawl/blogspot.com/Terms Of Service.txt
+	deleted:    ../crawl/bloomberg.com/Privacy Policy.txt
+	deleted:    ../crawl/bloomberg.com/Terms of Service.txt
+	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
+	deleted:    ../crawl/bluefly.com/Privacy Policy.txt
+	deleted:    ../crawl/bmwusa.com/Privacy Policy.txt
+	deleted:    ../crawl/boardgamegeek.com/Privacy Policy.txt
+	deleted:    ../crawl/bodybuilding.com/Privacy Policy.txt
+	deleted:    ../crawl/booking.com/Privacy Policy.txt
 	modified:   ../crawl/bored.com/Privacy Policy.txt
+	deleted:    ../crawl/bostonglobe.com/Privacy Policy.txt
+	deleted:    ../crawl/bostonherald.com/Privacy Policy.txt
+	deleted:    ../crawl/brainyquote.com/Privacy Policy.txt
+	deleted:    ../crawl/brainyquote.com/Terms of Service.txt
+	deleted:    ../crawl/bravotv.com/Privacy Policy.txt
+	deleted:    ../crawl/break.com/Privacy Policy.txt
+	deleted:    ../crawl/brookstone.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
-	modified:   ../crawl/constantcontact.com/Privacy Policy.txt
+	deleted:    ../crawl/buick.com/Privacy Policy.txt
+	deleted:    ../crawl/businessinsider.com/Privacy Policy.txt
+	deleted:    ../crawl/buy.com/Privacy Policy.txt
+	deleted:    ../crawl/buycheapr.com/Privacy Policy.txt
+	deleted:    ../crawl/byliner.com/Privacy Policy.txt
+	deleted:    ../crawl/ca.gov/Privacy Policy.txt
+	deleted:    ../crawl/cabelas.com/Privacy Policy.txt
+	deleted:    ../crawl/cadillac.com/Privacy Policy.txt
+	deleted:    ../crawl/cafepress.com/Privacy Policy.txt
+	deleted:    ../crawl/capitalone.com/Privacy Policy.txt
+	deleted:    ../crawl/capitalone.com/Terms and Conditions.txt
+	deleted:    ../crawl/carbonite.com/Privacy Policy.txt
+	deleted:    ../crawl/carbonunity.com/Privacy Policy.txt
+	deleted:    ../crawl/careerbuilder.com/Privacy Policy.txt
+	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
+	deleted:    ../crawl/carfax.com/Privacy Policy.txt
+	deleted:    ../crawl/carmax.com/Privacy Policy.txt
+	deleted:    ../crawl/cars.com/Privacy Policy.txt
+	deleted:    ../crawl/cars.com/Terms of Service.txt
+	deleted:    ../crawl/cartoonnetwork.com/Privacy Policy.txt
+	deleted:    ../crawl/catalogchoice.org/Terms of Service.txt
+	deleted:    ../crawl/cbc.ca/Privacy.txt
+	deleted:    ../crawl/cbc.ca/Terms of Service.txt
+	deleted:    ../crawl/cbc.ca/Terms of Use.txt
+	deleted:    ../crawl/cbssports.com/Privacy Policy.txt
+	deleted:    ../crawl/cdiscount.com/Privacy Policy.txt
+	deleted:    ../crawl/centerforinquiry.net/Terms of Service.txt
+	deleted:    ../crawl/champssports.com/Privacy Policy.txt
+	deleted:    ../crawl/change.org/Privacy Policy.txt
+	deleted:    ../crawl/change.org/Terms of Service.txt
+	deleted:    ../crawl/charter.net/Acceptable Use Policy.txt
+	deleted:    ../crawl/charter.net/Privacy Policy.txt
+	deleted:    ../crawl/chase.com/Online Practices.txt
+	deleted:    ../crawl/chase.com/Privacy Policy.txt
+	deleted:    ../crawl/chase.com/Terms and Conditions.txt
+	deleted:    ../crawl/chase.com/US Consumer Privacy Notice.txt
+	deleted:    ../crawl/cheapflights.com/Privacy Policy.txt
+	deleted:    ../crawl/cheapoair.com/Privacy Policy.txt
+	deleted:    ../crawl/cheaptickets.com/Privacy Policy.txt
+	deleted:    ../crawl/chegg.com/Privacy Policy.txt
+	deleted:    ../crawl/chevrolet.com/Privacy Policy.txt
+	deleted:    ../crawl/chicagotribune.com/Privacy Policy.txt
+	deleted:    ../crawl/chip.de/Privacy Policy.txt
+	deleted:    ../crawl/chowhound.chow.com/Privacy Policy.txt
+	deleted:    ../crawl/christianpost.com/Privacy Policy.txt
+	deleted:    ../crawl/cio-today.com/Privacy Policy.txt
+	deleted:    ../crawl/citizensbank.com/Privacy Policy.txt
+	deleted:    ../crawl/classmates.com/Privacy Policy.txt
+	deleted:    ../crawl/cloudant.com/Privacy.txt
+	deleted:    ../crawl/cloudant.com/Terms of Service.txt
+	deleted:    ../crawl/clubpenguin.com/Privacy Policy.txt
+	deleted:    ../crawl/clubpenguin.com/Terms of Use.txt
+	deleted:    ../crawl/cnbc.com/Privacy Policy.txt
+	deleted:    ../crawl/cnet.com/Privacy Policy.txt
+	deleted:    ../crawl/cnn.com/Privacy Policy.txt
+	deleted:    ../crawl/coach.com/Privacy Policy.txt
+	deleted:    ../crawl/cocacola.com/Privacy Policy.txt
+	deleted:    ../crawl/collectionsetc.com/Privacy Policy.txt
+	deleted:    ../crawl/color.com/Privacy Policy.txt
+	deleted:    ../crawl/color.com/Terms of Service.txt
+	deleted:    ../crawl/comcast.com/Acceptable Use Policy for Xfinity Internet.txt
+	deleted:    ../crawl/comcast.com/Customer Privacy Policy.txt
+	deleted:    ../crawl/comcast.com/Privacy Policy.txt
+	deleted:    ../crawl/comcast.com/Privacy Statement.txt
+	deleted:    ../crawl/comcast.com/Residential Subscriber Agreement.txt
+	deleted:    ../crawl/comcast.net/Software License Agreement.txt
+	deleted:    ../crawl/comcast.net/Web Services Privacy Policy.txt
+	deleted:    ../crawl/comcast.net/Web Terms of Service.txt
+	deleted:    ../crawl/comedycentral.com/Privacy Policy.txt
+	deleted:    ../crawl/commentcamarche.net/Privacy Policy.txt
+	deleted:    ../crawl/conduit.com/Privacy Policy.txt
+	deleted:    ../crawl/consumerist.com/Privacy Policy.txt
+	deleted:    ../crawl/consumerist.com/Terms of Service.txt
+	deleted:    ../crawl/consumerreports.org/Privacy Policy.txt
+	deleted:    ../crawl/consumersearch.com/Privacy Policy.txt
+	deleted:    ../crawl/consumersenergy.com/Privacy Policy.txt
+	deleted:    ../crawl/continental.com/Privacy Policy.txt
+	deleted:    ../crawl/cooks.com/Third Party Advertising, Third Party Cookies, Affiliation, and Terms of Usage.txt
+	deleted:    ../crawl/costco.com/Privacy Policy.txt
+	deleted:    ../crawl/coupons.com/Privacy Policy.txt
+	deleted:    ../crawl/coursera.org/Terms of Use.txt
+	deleted:    ../crawl/cox.com/Acceptable Use Policy.txt
+	deleted:    ../crawl/cox.com/Privacy Policy.txt
+	deleted:    ../crawl/cracked.com/Privacy Policy.txt
+	deleted:    ../crawl/cracked.com/Terms and Conditions.txt
+	deleted:    ../crawl/crackle.com/Privacy Policy.txt
+	deleted:    ../crawl/craigslist.org/Privacy Policy.txt
+	deleted:    ../crawl/crateandbarrel.com/Privacy Policy.txt
+	deleted:    ../crawl/creditcheck.experiandirect.com/Terms of Service.txt
+	deleted:    ../crawl/cruise.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/cruise.co.uk/Terms and Conditions.txt
+	deleted:    ../crawl/cruises.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/csmonitor.com/Privacy Policy.txt
+	deleted:    ../crawl/csoboard.com/Privacy Policy.txt
+	deleted:    ../crawl/curves.com/Privacy Policy.txt
+	deleted:    ../crawl/cyberpresse.ca/Privacy Policy.txt
+	deleted:    ../crawl/dailycaller.com/Privacy Policy.txt
+	deleted:    ../crawl/dailymail.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/dailymotion.com/Privacy Policy.txt
+	deleted:    ../crawl/dashlane.com/Privacy Policy.txt
+	deleted:    ../crawl/dashlane.com/Terms of Service.txt
+	deleted:    ../crawl/data.gov/Data Policy.txt
+	deleted:    ../crawl/data.gov/Privacy Policy.txt
 	modified:   ../crawl/debka.com/Privacy Policy.txt
-	modified:   ../crawl/fandango.com/Privacy Policy.txt
+	deleted:    ../crawl/degreedriven.com/Privacy Policy.txt
+	deleted:    ../crawl/delicious.com/Privacy Policy.txt
+	deleted:    ../crawl/delicious.com/Terms of Service.txt
+	deleted:    ../crawl/dell.com/Consumer Terms of Sale.txt
+	deleted:    ../crawl/detroitmedia.com/Privacy Policy.txt
+	deleted:    ../crawl/dickssportinggoods.com/Privacy Policy.txt
+	deleted:    ../crawl/dictionary.com/Privacy Policy.txt
+	deleted:    ../crawl/digg.com/Privacy Policy.txt
+	deleted:    ../crawl/digg.com/Terms of Service.txt
+	deleted:    ../crawl/dillards.com/Policies and Notices.txt
+	deleted:    ../crawl/directv.com/Privacy Policy.txt
+	deleted:    ../crawl/dishnetwork.com/Privacy Policy.txt
+	deleted:    ../crawl/disqus.com/Privacy Policy.txt
+	deleted:    ../crawl/disqus.com/Terms of Service.txt
+	deleted:    ../crawl/diynetwork.com/Privacy Policy.txt
+	deleted:    ../crawl/docstoc.com/Privacy Policy.txt
+	deleted:    ../crawl/dowjones.com/Terms of Service.txt
+	deleted:    ../crawl/drjays.com/Privacy Policy.txt
+	deleted:    ../crawl/dropbox.com/Privacy Policy.txt
+	deleted:    ../crawl/drugs.com/Privacy Policy.txt
+	deleted:    ../crawl/drugstore.com/Privacy Policy.txt
+	deleted:    ../crawl/dsc.discovery.com/Privacy Policy.txt
+	deleted:    ../crawl/duckduckgo.com/Privacy Policy.txt
+	deleted:    ../crawl/earthlink.net/Acceptable Use Policy.txt
+	deleted:    ../crawl/earthlink.net/Cable Internet Terms of Use.txt
+	deleted:    ../crawl/earthlink.net/Internet Service Agreement.txt
+	deleted:    ../crawl/earthlink.net/Privacy Policy.txt
+	deleted:    ../crawl/earthlink.net/Terms of Use.txt
+	deleted:    ../crawl/eastbay.com/Privacy Policy.txt
+	deleted:    ../crawl/ebags.com/Privacy Policy.txt
+	deleted:    ../crawl/ebay.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/ebay.com/Privacy Policy.txt
+	deleted:    ../crawl/ebay.com/Terms of Service.txt
+	deleted:    ../crawl/ebay.de/Privacy Policy.txt
+	deleted:    ../crawl/eddiebauer.com/Privacy Policy.txt
+	deleted:    ../crawl/edmunds.com/Privacy Policy.txt
+	deleted:    ../crawl/eero.com/Privacy policy for eero Devices, Applications and Services.txt
+	deleted:    ../crawl/eero.com/Terms of Service.txt
+	deleted:    ../crawl/eharmony.com/Privacy Policy.txt
+	deleted:    ../crawl/ehow.com/Privacy Policy.txt
+	deleted:    ../crawl/ehow.com/Terms of Service.txt
+	deleted:    ../crawl/einsurance.com/Privacy Policy.txt
+	deleted:    ../crawl/elpasotimes.com/Privacy Policy.txt
+	deleted:    ../crawl/endless.com/Privacy Policy.txt
+	deleted:    ../crawl/eonline.com/Privacy Policy.txt
+	deleted:    ../crawl/ephotozine.com/Privacy Policy.txt
+	deleted:    ../crawl/epicurious.com/Privacy Policy.txt
+	deleted:    ../crawl/epinions.com/Privacy Policy.txt
+	deleted:    ../crawl/epinions.com/User Agreement.txt
+	deleted:    ../crawl/epulettar.hu/Privacy Policy.txt
+	deleted:    ../crawl/epulettar.hu/Terms of Use.txt
+	deleted:    ../crawl/equifax.com/Privacy Policy.txt
+	deleted:    ../crawl/equine.com/Privacy Policy.txt
+	deleted:    ../crawl/ereader.soc.io/Privacy Policy.txt
+	deleted:    ../crawl/etsy.com/Privacy Policy.txt
+	deleted:    ../crawl/everlane.com/Privacy Policy.txt
+	deleted:    ../crawl/everydayhealth.com/Privacy Policy.txt
+	deleted:    ../crawl/examiner.com/Privacy Policy.txt
+	deleted:    ../crawl/expedia.com/Privacy Policy.txt
+	deleted:    ../crawl/experiandirect.com/Terms of Service.txt
+	deleted:    ../crawl/express.com/Privacy Policy.txt
+	deleted:    ../crawl/facebook.com/Data Use Policy.txt
+	deleted:    ../crawl/facebook.com/Terms of Service.txt
+	deleted:    ../crawl/farmfutures.com/Privacy Policy.txt
+	modified:   ../crawl/farmprogress.com/Privacy Policy.txt
+	deleted:    ../crawl/fastcompany.com/Privacy Policy.txt
+	deleted:    ../crawl/figis.com/Privacy Policy.txt
+	deleted:    ../crawl/filestube.com/Privacy Policy.txt
+	deleted:    ../crawl/finance.yahoo.com/Privacy Policy.txt
+	deleted:    ../crawl/finishline.com/Privacy Policy.txt
 	modified:   ../crawl/flickr.com/Additional Terms of Service.txt
+	deleted:    ../crawl/flickr.com/Community Guidelines.txt
+	deleted:    ../crawl/flickr.com/Privacy Policy.txt
+	deleted:    ../crawl/flightstats.com/Terms of Service.txt
+	deleted:    ../crawl/food.com/Privacy Policy.txt
+	deleted:    ../crawl/food2.com/Privacy Policy.txt
+	deleted:    ../crawl/foodfunandfacts.com/Privacy Policy.txt
+	deleted:    ../crawl/foodnetwork.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/foodnetwork.com/Privacy Policy.txt
+	deleted:    ../crawl/ford.com/Privacy Policy.txt
+	deleted:    ../crawl/forever21.com/Privacy Policy.txt
+	deleted:    ../crawl/formspring.me/Privacy Policy.txt
+	deleted:    ../crawl/formspring.me/Terms of Service.txt
+	deleted:    ../crawl/fossil.com/Privacy Policy.txt
+	deleted:    ../crawl/foxnews.com/Privacy Policy.txt
+	deleted:    ../crawl/foxnews.com/Terms of Service.txt
+	deleted:    ../crawl/fragrancenet.com/Privacy Policy.txt
+	deleted:    ../crawl/freecode.com/Privacy Statement.txt
+	deleted:    ../crawl/freecode.com/Terms of Use.txt
+	deleted:    ../crawl/freecreditreport.com/Privacy Policy.txt
+	deleted:    ../crawl/freecreditscore.com/Privacy Policy.txt
+	deleted:    ../crawl/freefilefillableforms.com/Terms of Service.txt
+	deleted:    ../crawl/freeforums.org/Privacy Policy.txt
+	deleted:    ../crawl/freeonlinegames.com/Privacy Policy.txt
+	deleted:    ../crawl/freescottwalsh.info/Privacy Policy.txt
+	deleted:    ../crawl/frontdoor.com/Privacy Policy.txt
+	deleted:    ../crawl/frontdoor.com/Terms of Use.txt
+	deleted:    ../crawl/frontier.com/Terms of Service.txt
+	deleted:    ../crawl/gactv.com/Privacy Policy.txt
+	deleted:    ../crawl/gamefaqs.com/Privacy Policy.txt
+	deleted:    ../crawl/gamefly.com/Privacy Policy.txt
+	deleted:    ../crawl/gamefly.com/Terms of Use.txt
+	deleted:    ../crawl/gamehouse.com/Privacy Policy.txt
+	deleted:    ../crawl/gamespot.com/Privacy Policy.txt
+	deleted:    ../crawl/gamestop.com/Privacy Policy.txt
+	deleted:    ../crawl/gandermountain.com/Privacy Policy.txt
+	deleted:    ../crawl/gap.com/Privacy Policy.txt
+	deleted:    ../crawl/gap.com/Terms of Use.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
-	modified:   ../crawl/godlikeproductions.com/Privacy Policy.txt
-	modified:   ../crawl/hautelook.com/Privacy Policy.txt
+	deleted:    ../crawl/gateway.com/Privacy Policy.txt
+	deleted:    ../crawl/gather.com/Privacy Policy.txt
+	deleted:    ../crawl/gawker.com/Privacy Policy.txt
+	deleted:    ../crawl/gawker.com/Terms of Use.txt
+	deleted:    ../crawl/gci.com/Privacy Policy.txt
+	deleted:    ../crawl/geek.com/Privacy Policy.txt
+	deleted:    ../crawl/geek.net/Privacy Policy.txt
+	deleted:    ../crawl/geek.net/Terms of Use.txt
+	deleted:    ../crawl/getpocket.com/Privacy Policy.txt
+	deleted:    ../crawl/getpocket.com/Terms of Service.txt
+	deleted:    ../crawl/gifts.com/Privacy Policy.txt
+	deleted:    ../crawl/gilt.com/Privacy Policy.txt
+	deleted:    ../crawl/girlsgogames.com/Privacy Policy.txt
+	deleted:    ../crawl/github.com/Privacy Policy.txt
+	deleted:    ../crawl/github.com/Security.txt
+	deleted:    ../crawl/github.com/Terms of Service.txt
+	deleted:    ../crawl/gitlab.com/Security.txt
+	deleted:    ../crawl/gittip.com/Fraud.txt
+	deleted:    ../crawl/gittip.com/Privacy Policy.txt
+	deleted:    ../crawl/gittip.com/Security.txt
+	deleted:    ../crawl/gittip.com/Terms of Service.txt
+	deleted:    ../crawl/gizmodo.com/Privacy Policy.txt
+	deleted:    ../crawl/gizmodo.com/Terms of Use.txt
+	deleted:    ../crawl/glassdoor.com/Privacy Policy.txt
+	deleted:    ../crawl/globo.com/Privacy Policy.txt
+	deleted:    ../crawl/gm.com/Privacy Policy.txt
+	deleted:    ../crawl/gmx.com/Privacy Policy.txt
+	deleted:    ../crawl/gmx.net/Privacy Policy.txt
+	deleted:    ../crawl/go.com/Privacy Policy.txt
+	deleted:    ../crawl/go.com/Terms of Use.txt
+	deleted:    ../crawl/godaddy.com/Civil Subpoena Policy.txt
+	deleted:    ../crawl/godaddy.com/Domain Name Proxy Agreement.txt
+	deleted:    ../crawl/godaddy.com/Domain Name Registration Agreement.txt
+	deleted:    ../crawl/godaddy.com/Privacy Policy.txt
+	deleted:    ../crawl/godaddy.com/Trademark and Copyright Infringement Policy.txt
+	deleted:    ../crawl/godaddy.com/Uniform Domain Name Dispute Resolution Policy.txt
+	deleted:    ../crawl/godaddy.com/Universal Terms Of Service.txt
+	deleted:    ../crawl/godtube.com/Privacy Policy.txt
+	deleted:    ../crawl/golfchannel.com/Privacy Policy.txt
+	deleted:    ../crawl/goodreads.com/Privacy Policy.txt
+	deleted:    ../crawl/google.com/Google Analytics Terms of Service.txt
+	deleted:    ../crawl/google.com/Google Wifi and your privacy.txt
+	deleted:    ../crawl/google.com/Privacy Policy.txt
+	deleted:    ../crawl/google.com/Terms of Service.txt
+	deleted:    ../crawl/grainger.com/Privacy Policy.txt
+	deleted:    ../crawl/grammarly.com/Privacy Policy.txt
+	deleted:    ../crawl/grammarly.com/Terms of Service and License Agreement.txt
+	deleted:    ../crawl/gratipay.com/Privacy Policy.txt
+	deleted:    ../crawl/gratipay.com/Security.txt
+	deleted:    ../crawl/gratipay.com/Terms of Service.txt
+	deleted:    ../crawl/grooveshark.com/Privacy Policy.txt
+	deleted:    ../crawl/grooveshark.com/Terms of Service.txt
+	deleted:    ../crawl/groupon.com/Privacy Policy.txt
+	deleted:    ../crawl/gutefrage.net/Privacy Policy.txt
+	deleted:    ../crawl/habbo.com/Terms of Service.txt
+	deleted:    ../crawl/hallmark.com/Privacy Policy.txt
+	deleted:    ../crawl/harborfreight.com/Privacy Policy.txt
+	deleted:    ../crawl/harryanddavid.com/Privacy Policy.txt
+	deleted:    ../crawl/haven.com/Privacy Policy.txt
+	deleted:    ../crawl/healthline.com/Privacy Policy.txt
+	deleted:    ../crawl/healthline.com/Terms of Use.txt
+	deleted:    ../crawl/help.twcable.com/Residential Services Subscriber Agreement.txt
+	deleted:    ../crawl/heroku.com/Terms of Service.txt
+	deleted:    ../crawl/hgtv.com/Privacy Policy.txt
+	deleted:    ../crawl/hgtvremodels.com/Privacy Policy.txt
+	deleted:    ../crawl/hollisterco.com/Privacy Policy.txt
 	modified:   ../crawl/home.mywebsearch.com/Privacy Policy.txt
-	modified:   ../crawl/homestead.com/Privacy Policy.txt
+	deleted:    ../crawl/homedecorators.com/Privacy Policy.txt
+	deleted:    ../crawl/homedepot.com/Privacy Policy.txt
+	deleted:    ../crawl/homes.com/Privacy Policy.txt
+	deleted:    ../crawl/honda.com/Privacy Policy.txt
+	deleted:    ../crawl/hootsuite.com/Privacy Policy.txt
+	deleted:    ../crawl/hotels.com/Privacy Policy.txt
+	deleted:    ../crawl/hottopic.com/Privacy Policy.txt
+	deleted:    ../crawl/hottopic.com/Terms of Use.txt
 	modified:   ../crawl/howstuffworks.com/Privacy Policy.txt
+	deleted:    ../crawl/hp.com/Privacy Policy.txt
 	modified:   ../crawl/hsbc.com/Privacy Policy.txt
+	deleted:    ../crawl/hsn.com/Privacy Policy.txt
+	deleted:    ../crawl/huffingtonpost.com/Privacy Policy.txt
+	deleted:    ../crawl/huffingtonpost.com/Terms and Conditions.txt
+	deleted:    ../crawl/hulu.com/Privacy Policy.txt
+	deleted:    ../crawl/hyundaiusa.com/Privacy Policy.txt
+	deleted:    ../crawl/ideeli.com/Privacy Policy.txt
 	modified:   ../crawl/ign.com/Privacy Policy.txt
+	deleted:    ../crawl/ikea.com/Privacy Policy.txt
+	deleted:    ../crawl/imageshack.us/Privacy Policy.txt
+	deleted:    ../crawl/imageshack.us/Terms of Service.txt
+	deleted:    ../crawl/imdb.com/Terms of Service.txt
+	deleted:    ../crawl/imesh.com/Privacy Policy.txt
+	deleted:    ../crawl/imgur.com/Privacy Policy.txt
+	deleted:    ../crawl/imgur.com/Terms of Service.txt
+	modified:   ../crawl/indeed.com/Privacy Policy.txt
+	deleted:    ../crawl/infospace.com/Privacy Policy.txt
+	deleted:    ../crawl/instagr.am/Privacy Policy.txt
+	deleted:    ../crawl/instagram.com/Privacy Policy.txt
+	deleted:    ../crawl/instagram.com/Terms of Service.txt
+	modified:   ../crawl/instructables.com/Privacy Policy.txt
+	deleted:    ../crawl/intel.com/Privacy Policy.txt
+	deleted:    ../crawl/intellicast.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/invizua.com/Privacy Policy.txt
+	deleted:    ../crawl/irs.gov/Privacy Policy.txt
+	deleted:    ../crawl/ivillage.com/Privacy Policy.txt
+	deleted:    ../crawl/ixquick.com/Privacy Policy.txt
+	deleted:    ../crawl/jcpenney.com/Privacy Policy.txt
+	deleted:    ../crawl/jetblue.com/Privacy Policy.txt
+	deleted:    ../crawl/jetsetter.com/Privacy Policy.txt
+	deleted:    ../crawl/jny.com/Privacy Policy.txt
+	deleted:    ../crawl/joann.com/Privacy Policy.txt
+	deleted:    ../crawl/jobs.net/Privacy Policy.txt
+	deleted:    ../crawl/josbank.com/Privacy Policy.txt
+	deleted:    ../crawl/journeys.com/Privacy Policy.txt
+	deleted:    ../crawl/jpost.com/Privacy Policy.txt
+	deleted:    ../crawl/justanswer.com/Privacy Policy.txt
+	deleted:    ../crawl/kaboodle.com/Privacy Policy.txt
+	deleted:    ../crawl/kansascity.com/Privacy Policy.txt
+	deleted:    ../crawl/karoo.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/kay.com/Privacy Policy.txt
+	deleted:    ../crawl/kayak.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/kayak.com/Privacy Policy.txt
+	deleted:    ../crawl/kbb.com/Privacy Policy.txt
+	deleted:    ../crawl/kbb.com/Terms of Service.txt
+	deleted:    ../crawl/khanacademy.org/Privacy Policy.txt
+	deleted:    ../crawl/kineticglue.com/Privacy Policy.txt
+	deleted:    ../crawl/kmart.com/Privacy Policy.txt
+	deleted:    ../crawl/kodakgallery.com/Privacy Policy.txt
+	deleted:    ../crawl/kohls.com/Privacy Policy.txt
+	deleted:    ../crawl/komando.com/Privacy Policy.txt
+	deleted:    ../crawl/kongrenate.com/Privacy Policy.txt
+	deleted:    ../crawl/kraftfoods.com/Privacy Policy.txt
+	deleted:    ../crawl/kruxdigital.com/Privacy Policy.txt
+	deleted:    ../crawl/lakeside.com/Privacy Policy.txt
+	deleted:    ../crawl/lampsplus.com/Privacy Policy.txt
 	modified:   ../crawl/landsend.com/Privacy Policy.txt
+	deleted:    ../crawl/laredoute.fr/Privacy Policy.txt
+	deleted:    ../crawl/last.fm/Privacy Policy.txt
+	deleted:    ../crawl/latimes.com/Privacy Policy.txt
+	deleted:    ../crawl/latimes.com/Terms of Service.txt
+	deleted:    ../crawl/lausd.net/Privacy Policy.txt
+	deleted:    ../crawl/legacy.com/Privacy Policy.txt
+	deleted:    ../crawl/lego.com/Privacy Policy.txt
+	deleted:    ../crawl/lehigh.edu/Privacy Policy.txt
+	deleted:    ../crawl/lifehacker.com/Privacy Policy.txt
+	deleted:    ../crawl/lifehacker.com/Terms of Use.txt
+	deleted:    ../crawl/linkedin.com/Privacy Policy.txt
+	deleted:    ../crawl/linkedin.com/Terms of Service.txt
+	deleted:    ../crawl/linksys.com/Linksys Shield Privacy Notice.txt
+	deleted:    ../crawl/linksys.com/Linksys Shield Terms of Service.txt
+	deleted:    ../crawl/linksys.com/Privacy Policy.txt
+	deleted:    ../crawl/linksys.com/Terms of Use.txt
+	deleted:    ../crawl/linkwithin.com/Privacy Policy.txt
+	deleted:    ../crawl/live.com/Microsoft Services Agreement.txt
+	deleted:    ../crawl/live.com/Privacy Policy.txt
+	deleted:    ../crawl/livejournal.com/Privacy Policy.txt
+	deleted:    ../crawl/livejournal.com/Terms of Service.txt
+	deleted:    ../crawl/liveleak.com/Privacy Policy.txt
+	deleted:    ../crawl/livestrong.com/Privacy Policy.txt
+	deleted:    ../crawl/livingsocial.com/Privacy Policy.txt
+	deleted:    ../crawl/local.com/Privacy Policy.txt
+	deleted:    ../crawl/locatetv.com/Privacy Policy.txt
+	deleted:    ../crawl/lockerz.com/Terms of Service.txt
+	deleted:    ../crawl/lowes.com/Privacy Policy.txt
+	deleted:    ../crawl/macys.com/Privacy Policy.txt
+	deleted:    ../crawl/mail.google.com/Privacy Policy.txt
+	deleted:    ../crawl/mailgun.com/Privacy Policy.txt
+	deleted:    ../crawl/mainstreet.com/Privacy Policy.txt
+	deleted:    ../crawl/mall.soc.io/Privacy Policy.txt
+	deleted:    ../crawl/manta.com/Privacy Policy.txt
+	deleted:    ../crawl/mapstone.net/Privacy Policy.txt
+	deleted:    ../crawl/marketwatch.com/Privacy Policy.txt
+	deleted:    ../crawl/markosweb.com/Privacy Policy.txt
+	deleted:    ../crawl/marqueemedia.com/Privacy Policy.txt
+	deleted:    ../crawl/marriott.com/Privacy Policy.txt
+	deleted:    ../crawl/marthastewart.com/Privacy Policy.txt
+	deleted:    ../crawl/mashable.com/Privacy Policy.txt
+	deleted:    ../crawl/match.com/Privacy Policy.txt
+	deleted:    ../crawl/mattel.com/Privacy Policy.txt
+	deleted:    ../crawl/mattressfirm.com/Privacy Policy.txt
+	deleted:    ../crawl/mbusa.com/Privacy Policy.txt
+	deleted:    ../crawl/mcafee.com/Privacy Policy.txt
+	deleted:    ../crawl/medicinenet.com/Privacy Policy.txt
+	deleted:    ../crawl/medium.com/Privacy Policy.txt
+	deleted:    ../crawl/medium.com/Terms of Service.txt
+	deleted:    ../crawl/meebo.com/Privacy Policy.txt
+	deleted:    ../crawl/meetup.com/Terms of Service.txt
+	deleted:    ../crawl/mega.co.nz/Notice of Alleged Infringement.txt
+	deleted:    ../crawl/megavideo.com/Privacy Policy.txt
+	deleted:    ../crawl/mendeley.com/Privacy Policy.txt
+	deleted:    ../crawl/merriam-webster.com/Privacy Policy.txt
+	deleted:    ../crawl/metacafe.com/Privacy Policy.txt
+	deleted:    ../crawl/metrolyrics.com/Privacy Policy.txt
+	deleted:    ../crawl/michaels.com/Privacy Policy.txt
+	deleted:    ../crawl/microsoft.com/Privacy Policy.txt
+	deleted:    ../crawl/microsoft.com/Terms of Service.txt
+	deleted:    ../crawl/minecraft.net/Terms and Conditions.txt
+	deleted:    ../crawl/miniclip.com/Privacy Policy.txt
+	deleted:    ../crawl/mint.com/Legal Information (Intuit).txt
+	deleted:    ../crawl/mint.com/Privacy Policy.txt
+	deleted:    ../crawl/mint.com/Terms of Use.txt
+	deleted:    ../crawl/mittromney.com/Privacy Policy.txt
 	modified:   ../crawl/mlb.mlb.com/Privacy Policy.txt
+	deleted:    ../crawl/mobilytrip.com/Privacy Policy.txt
+	deleted:    ../crawl/mobilytrip.com/Terms of Use.txt
+	deleted:    ../crawl/modcloth.com/Privacy Policy.txt
+	deleted:    ../crawl/modnique.com/Privacy Policy.txt
+	deleted:    ../crawl/modnique.com/Terms and Conditions.txt
+	deleted:    ../crawl/motorola.com/Privacy Policy.txt
+	deleted:    ../crawl/msn.ca/Privacy Policy.txt
+	deleted:    ../crawl/msn.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/msn.com.br/Privacy Policy.txt
+	deleted:    ../crawl/msn.com/Privacy Policy.txt
+	deleted:    ../crawl/msn.com/Terms of Service.txt
+	deleted:    ../crawl/msn.de/Privacy Policy.txt
+	deleted:    ../crawl/msn.foxsports.com/Privacy Policy.txt
+	deleted:    ../crawl/msn.fr/Privacy Policy.txt
+	deleted:    ../crawl/msn.nl/Privacy Policy.txt
+	deleted:    ../crawl/msnbc.msn.com/Privacy Policy.txt
+	deleted:    ../crawl/msnlatino.telemundo.com/Privacy Policy.txt
+	deleted:    ../crawl/mtv.com/Privacy Policy.txt
+	deleted:    ../crawl/mtv.com/Terms of Use.txt
+	deleted:    ../crawl/mun2.tv/Privacy Policy.txt
+	deleted:    ../crawl/mycertifiedservice.com/Privacy Policy.txt
+	deleted:    ../crawl/mylifetime.com/Privacy Policy.txt
+	deleted:    ../crawl/myoffers.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/mypoints.com/Privacy Policy.txt
+	deleted:    ../crawl/myspace.com/Privacy Policy.txt
+	deleted:    ../crawl/myspace.com/Terms of Service.txt
+	deleted:    ../crawl/nadaguides.com/Privacy Policy.txt
+	deleted:    ../crawl/naplesnews.com/Privacy Policy.txt
+	deleted:    ../crawl/nationalgeographic.com/Privacy Policy.txt
+	deleted:    ../crawl/nationalgeographic.com/Terms of Service.txt
+	deleted:    ../crawl/nbc.com/Privacy Policy.txt
+	deleted:    ../crawl/nbc.com/Terms of Service 1.txt
+	deleted:    ../crawl/nbc.com/Terms of Service 2.txt
+	deleted:    ../crawl/nbc.com/Terms of Service 3.txt
+	deleted:    ../crawl/nbcsports.msnbc.com/Privacy Policy.txt
+	deleted:    ../crawl/nbcuni.com/Terms of Service.txt
+	deleted:    ../crawl/netflix.com/Privacy Policy.txt
+	deleted:    ../crawl/netflix.com/Terms of Use.txt
+	deleted:    ../crawl/netgear.com/Privacy Policy.txt
+	deleted:    ../crawl/netgear.com/Terms and Conditions.txt
+	deleted:    ../crawl/networkworld.com/Privacy Policy.txt
+	deleted:    ../crawl/newegg.com/Privacy Policy.txt
+	deleted:    ../crawl/newgrounds.com/Privacy Policy.txt
+	deleted:    ../crawl/nextag.com/Privacy Policy.txt
+	deleted:    ../crawl/nick.com/Privacy Policy.txt
+	deleted:    ../crawl/nih.gov/Privacy Policy.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
-	modified:   ../crawl/noaa.gov/Privacy Policy.txt
-	modified:   ../crawl/oath.com/OATH ENTERPRISE ACCOUNT PRIVACY POLICY.txt
+	deleted:    ../crawl/ning.com/Privacy Policy.txt
+	deleted:    ../crawl/ning.com/Terms of Service.txt
+	deleted:    ../crawl/nordstrom.com/Customer Privacy Policy.txt
+	deleted:    ../crawl/nordstrom.com/Privacy Policy.txt
+	deleted:    ../crawl/northerntool.com/Privacy Policy.txt
+	deleted:    ../crawl/nwf.org/Privacy Policy.txt
+	deleted:    ../crawl/nwf.org/Terms of Use.txt
+	deleted:    ../crawl/nyandcompany.com/Privacy Policy.txt
+	deleted:    ../crawl/nydailynews.com/Privacy Policy.txt
+	deleted:    ../crawl/nypost.com/Privacy Policy.txt
+	deleted:    ../crawl/o2.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/officedepot.com/Privacy Policy.txt
+	deleted:    ../crawl/officedepot.com/Terms of Use.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
+	deleted:    ../crawl/oficedepot.com/Privacy Policy.txt
+	deleted:    ../crawl/olx.com/Terms of Use.txt
+	deleted:    ../crawl/onestopplus.com/Privacy Policy.txt
+	deleted:    ../crawl/onlineshoes.com/Privacy Policy.txt
+	deleted:    ../crawl/onstar.com/Terms of Service.txt
+	deleted:    ../crawl/opencongress.org/Terms of Service.txt
+	deleted:    ../crawl/opendns.com/Privacy Policy.txt
+	deleted:    ../crawl/oprah.com/Privacy Policy.txt
+	modified:   ../crawl/orbitz.com/Privacy Policy.txt
+	modified:   ../crawl/oreilly.com/Privacy Policy.txt
+	deleted:    ../crawl/orientaltrading.com/Privacy Policy.txt
+	deleted:    ../crawl/ourtoolbar.com/Privacy Policy.txt
+	deleted:    ../crawl/outbrain.com/Privacy Policy.txt
+	deleted:    ../crawl/over-blog.com/Privacy Policy.txt
+	deleted:    ../crawl/overstock.com/Privacy Policy.txt
+	deleted:    ../crawl/owncube.com/Privacy.txt
+	deleted:    ../crawl/owncube.com/Terms of Use.txt
+	deleted:    ../crawl/oxygen.com/Privacy Policy.txt
+	deleted:    ../crawl/paidcontent.org/Privacy Policy.txt
+	deleted:    ../crawl/paidcontent.org/Terms of Service.txt
+	deleted:    ../crawl/pandora.com/Privacy Policy.txt
+	deleted:    ../crawl/partycity.com/Privacy Policy.txt
+	deleted:    ../crawl/paypal.com/Privacy Policy.txt
+	deleted:    ../crawl/pbs.org/Privacy Policy.txt
+	deleted:    ../crawl/pbs.org/Terms of Use.txt
+	deleted:    ../crawl/pcmag.com/Privacy Policy.txt
+	deleted:    ../crawl/pcworld.com/Privacy Policy.txt
+	deleted:    ../crawl/pcworld.com/Terms of Service.txt
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
-	modified:   ../crawl/pollen.com/Privacy Policy.txt
-	modified:   ../crawl/reuters.com/Privacy Policy.txt
+	deleted:    ../crawl/pepsico.com/Privacy Policy.txt
+	deleted:    ../crawl/personalcreations.com/Privacy Policy.txt
+	deleted:    ../crawl/personalizationmall.com/Privacy Policy.txt
+	deleted:    ../crawl/personified.com/Privacy Policy.txt
+	deleted:    ../crawl/petco.com/Privacy Policy.txt
+	deleted:    ../crawl/petsathome.com/Privacy Policy.txt
+	deleted:    ../crawl/petsmart.com/Privacy Policy.txt
+	modified:   ../crawl/pg.com/Privacy Policy.txt
+	deleted:    ../crawl/philanthropy.com/Privacy Policy.txt
+	deleted:    ../crawl/phoenix.edu/Privacy Policy.txt
+	deleted:    ../crawl/phoenix.edu/Terms and Conditions.txt
+	deleted:    ../crawl/phonedeck.com/Privacy Policy.txt
+	deleted:    ../crawl/photobucket.com/Privacy Policy.txt
+	deleted:    ../crawl/photobucket.com/Terms of Use.txt
+	deleted:    ../crawl/piazza.com/Terms of Service.txt
+	deleted:    ../crawl/pier1.com/Privacy Policy.txt
+	deleted:    ../crawl/pillsbury.com/Privacy Policy.txt
+	deleted:    ../crawl/pinterest.com/Privacy Policy.txt
+	deleted:    ../crawl/pinterest.com/Terms of Service.txt
+	deleted:    ../crawl/pipl.com/Privacy Policy.txt
+	deleted:    ../crawl/pjmedia.com/Privacy Policy.txt
+	deleted:    ../crawl/playfirst.com/Privacy Policy.txt
+	deleted:    ../crawl/plus.google.com/Privacy Policy.txt
+	deleted:    ../crawl/pocruises.com/Privacy Policy.txt
+	deleted:    ../crawl/pof.com/Terms of Use.txt
+	deleted:    ../crawl/politico.com/Privacy Policy.txt
+	deleted:    ../crawl/potterybarn.com/Privacy Policy.txt
+	deleted:    ../crawl/pricegrabber.com/Privacy Policy.txt
+	deleted:    ../crawl/priceline.com/Privacy Policy.txt
+	deleted:    ../crawl/primarygames.com/Privacy Policy.txt
+	deleted:    ../crawl/primecb.com/Privacy Policy.txt
+	deleted:    ../crawl/privacychoice.org/Privacy Policy.txt
+	deleted:    ../crawl/privacyscore.com/Privacy Policy.txt
+	deleted:    ../crawl/progress.audiusa.com/Privacy Policy.txt
+	deleted:    ../crawl/pronto.com/Privacy Policy.txt
+	deleted:    ../crawl/putlocker.com/Privacy Policy.txt
+	deleted:    ../crawl/pwc.com/Privacy Policy.txt
+	deleted:    ../crawl/quakelive.com/EULA.txt
+	deleted:    ../crawl/quakelive.com/Legal Notices.txt
+	deleted:    ../crawl/quakelive.com/Privacy Policy.txt
+	deleted:    ../crawl/quakelive.com/Terms of Use.txt
+	deleted:    ../crawl/quisma.com/Privacy Policy.txt
+	deleted:    ../crawl/quora.com/Privacy Policy.txt
+	deleted:    ../crawl/qvc.com/Privacy Policy.txt
+	deleted:    ../crawl/rachaelray.com/Privacy Policy.txt
+	deleted:    ../crawl/rackspace.com/Beleid voor Acceptabel Gebruik.txt
+	deleted:    ../crawl/rackspace.com/Global Acceptable Use Policy.txt
+	deleted:    ../crawl/rackspace.com/Nutzungsbedingungen.txt
+	deleted:    "../crawl/rackspace.com/Pol\303\255tica de Uso Aceit\303\241vel.txt"
+	deleted:    "../crawl/rackspace.com/Pol\303\255tica de uso aceptable.txt"
+	deleted:    ../crawl/rackspace.com/Privacy Statement.txt
+	deleted:    ../crawl/rackspace.com/US Acceptable Use Policy.txt
+	deleted:    "../crawl/rackspace.com/\345\217\257\346\216\245\345\217\227\344\275\277\347\224\250\346\224\277\347\255\226.txt"
+	deleted:    ../crawl/radioshack.com/Privacy Policy.txt
+	deleted:    ../crawl/ralphlauren.com/Privacy Policy.txt
+	deleted:    ../crawl/readwrite.com/Privacy Policy.txt
+	deleted:    ../crawl/redbox.com/Privacy Policy.txt
+	deleted:    ../crawl/redding.com/Privacy Policy.txt
+	deleted:    ../crawl/reddit.com/Privacy Policy.txt
+	deleted:    ../crawl/reddit.com/Terms of Service.txt
+	deleted:    ../crawl/redenvelope.com/Privacy Policy.txt
+	deleted:    ../crawl/reference.com/Privacy Policy.txt
+	deleted:    ../crawl/rei.com/Privacy Policy.txt
+	deleted:    ../crawl/reputation.com/Privacy Policy.txt
+	deleted:    ../crawl/reputation.com/Terms of Use.txt
+	deleted:    ../crawl/researchgate.net/Privacy Policy.txt
+	deleted:    ../crawl/researchgate.net/Terms of Service.txt
+	deleted:    ../crawl/retailmenot.com/Privacy Policy.txt
+	deleted:    ../crawl/rollingstone.com/Privacy Policy.txt
+	deleted:    ../crawl/rotoworld.com/Privacy Policy.txt
+	deleted:    ../crawl/rr.com/Privacy Policy.txt
+	deleted:    ../crawl/rxlist.com/Privacy Policy.txt
+	deleted:    ../crawl/safeway.com/Privacy Policy.txt
+	deleted:    ../crawl/saksfifthavenue.com/Privacy Policy.txt
+	deleted:    ../crawl/salesforce.com/Privacy Policy.txt
+	deleted:    ../crawl/salon.com/Privacy Policy.txt
+	deleted:    ../crawl/samsclub.com/Privacy Policy.txt
+	deleted:    ../crawl/samsclub.com/Terms and Conditions.txt
+	deleted:    ../crawl/samsung.com/Privacy Policy.txt
+	deleted:    ../crawl/savemore.com/Privacy Policy.txt
+	deleted:    ../crawl/sbnation.com/Privacy Policy.txt
+	deleted:    ../crawl/sbnation.com/Terms of Use.txt
+	deleted:    ../crawl/scienceblogs.com/Terms of Service.txt
 	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
+	deleted:    ../crawl/scottrade.com/Privacy Policy.txt
+	deleted:    ../crawl/scout.com/Privacy Policy.txt
+	deleted:    ../crawl/scribd.com/Privacy Policy.txt
+	deleted:    ../crawl/scrippsnetworksinteractive.com/Privacy Policy.txt
+	deleted:    ../crawl/scrippsnetworksinteractive.com/Terms of Use.txt
+	deleted:    ../crawl/sdge.com/Terms of Service.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
+	deleted:    ../crawl/sears.com/Privacy Policy.txt
+	deleted:    ../crawl/secondlife.com/Terms of Service.txt
+	deleted:    ../crawl/sfbc.com/Privacy Policy.txt
+	deleted:    ../crawl/sfgate.com/Privacy Policy.txt
+	deleted:    ../crawl/sheplers.com/Privacy Policy.txt
+	deleted:    ../crawl/shoebuy.com/Privacy Policy.txt
+	deleted:    ../crawl/shoes.com/Privacy Policy.txt
 	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
+	deleted:    ../crawl/shop.pacsun.com/Privacy Policy.txt
+	deleted:    ../crawl/shopathome.com/Privacy Policy.txt
+	deleted:    ../crawl/shopjustice.com/Privacy Policy.txt
+	deleted:    ../crawl/shoplocal.com/Privacy Policy.txt
+	deleted:    ../crawl/shoplocal.com/Terms of Use and Privacy Policy.txt
+	deleted:    ../crawl/shopping.com/Network User Agreement.txt
+	deleted:    ../crawl/shopping.com/Privacy Policy.txt
 	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+	deleted:    ../crawl/shopzilla.com/Privacy Policy.txt
+	deleted:    ../crawl/shutterfly.com/Privacy Policy.txt
+	deleted:    ../crawl/shutterfly.com/Terms and Conditions.txt
+	deleted:    ../crawl/sierratradingpost.com/Privacy Policy.txt
+	deleted:    ../crawl/simplyhired.com/Privacy Policy.txt
+	deleted:    ../crawl/sixdegreesrecords.com/Privacy Policy.txt
+	deleted:    ../crawl/skype.com/Business End User License Agreement (US).txt
+	deleted:    ../crawl/skype.com/Business End User License Agreement.txt
+	deleted:    ../crawl/skype.com/Cookies Policy.txt
+	deleted:    ../crawl/skype.com/Etiquette.txt
+	deleted:    ../crawl/skype.com/Fair Usage Policy for Subscriptions.txt
+	deleted:    ../crawl/skype.com/Fair Usage Policy for US Minute Bundles.txt
+	deleted:    ../crawl/skype.com/Group Video Calling Fair Usage Policy.txt
+	deleted:    ../crawl/skype.com/Privacy Policies.txt
+	deleted:    ../crawl/skype.com/Privacy Policy English (International).txt
+	deleted:    ../crawl/skype.com/Skype Emergency Calling.txt
+	deleted:    ../crawl/skype.com/Terms and Policies.txt
+	deleted:    ../crawl/skype.com/Terms of Service - Business (US).txt
+	deleted:    ../crawl/skype.com/Terms of Service - Business.txt
+	deleted:    ../crawl/skype.com/Terms of Use.txt
+	deleted:    ../crawl/skype.com/Trademark Guidelines.txt
+	deleted:    ../crawl/slashdot.org/Privacy Policy.txt
+	deleted:    ../crawl/slate.com/Privacy Policy.txt
+	deleted:    ../crawl/slate.com/Terms of Service.txt
+	deleted:    ../crawl/smugmug.com/Privacy Policy.txt
+	deleted:    ../crawl/snapfish.com/Privacy Policy.txt
+	deleted:    ../crawl/softpedia.com/Privacy Policy.txt
+	deleted:    ../crawl/sonic.net/All Policies.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
+	deleted:    ../crawl/sonypictures.com/Terms of Service.txt
+	deleted:    ../crawl/soundcloud.com/Community Guidelines.txt
+	deleted:    ../crawl/soundcloud.com/Privacy Policy.txt
+	deleted:    ../crawl/soundcloud.com/Terms of Service.txt
+	deleted:    ../crawl/sourceforge.net/Privacy Policy.txt
+	deleted:    ../crawl/sourceforge.net/Terms of Service.txt
+	deleted:    ../crawl/speeddate.com/Privacy Policy.txt
+	deleted:    ../crawl/spencersonline.com/Privacy Policy.txt
+	deleted:    ../crawl/spiceworks.com/Privacy Policy.txt
+	deleted:    ../crawl/spiceworks.com/Terms and Conditions.txt
+	deleted:    ../crawl/spokeo.com/Privacy Policy.txt
+	deleted:    ../crawl/spokeo.com/Terms of Use (Consumer).txt
+	deleted:    ../crawl/spokeo.com/Terms of Use (Enterprise).txt
+	deleted:    ../crawl/sportsmansguide.com/Privacy Policy.txt
+	deleted:    ../crawl/spotify.com/Privacy Policy.txt
+	deleted:    ../crawl/spotify.com/Terms and Conditions (Mobile).txt
+	deleted:    ../crawl/spotify.com/Terms and Conditions (Premium).txt
+	deleted:    ../crawl/spotify.com/Terms and Conditions (Unlimited).txt
+	deleted:    ../crawl/spotify.com/Terms and Conditions of Use.txt
+	deleted:    ../crawl/springfieldnewssun.com/Privacy Policy.txt
+	deleted:    ../crawl/sprint.com/Privacy Policy.txt
+	deleted:    ../crawl/sprintpcs.com/Terms and Conditions.txt
+	deleted:    ../crawl/squidoo.com/Privacy Policy.txt
+	deleted:    ../crawl/stackexchange.com/APIs Terms of Use.txt
+	deleted:    ../crawl/stackexchange.com/Content Policy.txt
+	deleted:    ../crawl/stackexchange.com/Privacy Policy.txt
+	deleted:    ../crawl/stackexchange.com/Terms of Service.txt
+	deleted:    ../crawl/stackexchange.com/Trademark Guidance.txt
+	deleted:    ../crawl/staples.com/Privacy Policy.txt
 	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
+	deleted:    ../crawl/statefarm.com/Privacy Policy.txt
+	deleted:    ../crawl/statefarm.com/Terms of Service.txt
+	deleted:    ../crawl/steampowered.com/Privacy Policy Agreement.txt
+	deleted:    ../crawl/steampowered.com/Steam Subscriber Agreement.txt
+	deleted:    ../crawl/stubhub.com/Privacy Policy.txt
+	deleted:    ../crawl/suddenlink.com/Terms of Service.txt
+	deleted:    ../crawl/sugarsync.com/Privacy Policy.txt
+	deleted:    ../crawl/suntimes.com/Privacy Policy.txt
+	modified:   ../crawl/superpages.com/Privacy Policy.txt
+	deleted:    ../crawl/swisscolony.com/Privacy Policy.txt
+	deleted:    ../crawl/syfy.com/Privacy Policy.txt
+	deleted:    ../crawl/symantec.com/Privacy Policy.txt
+	deleted:    ../crawl/synology.com/End User Agreement.txt
+	deleted:    ../crawl/synology.com/Privacy Statement.txt
+	deleted:    ../crawl/synology.com/Website Terms of Use.txt
+	deleted:    ../crawl/synology.com/Your Privacy Matters.txt
+	deleted:    ../crawl/t-mobile.com/Privacy Policy.txt
+	deleted:    ../crawl/t-mobile.com/Terms and Conditions.txt
+	deleted:    ../crawl/t-online.de/Privacy Policy.txt
+	deleted:    ../crawl/target.com/Privacy Policy.txt
+	deleted:    ../crawl/tbs.com/Privacy Policy.txt
+	deleted:    ../crawl/techradar.com/Privacy Policy.txt
+	deleted:    ../crawl/techrepublic.com/Privacy Policy.txt
+	deleted:    ../crawl/telegraph.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/telekom.de/Privacy Policy.txt
+	deleted:    ../crawl/theapprovedcard.com/Privacy Policy.txt
+	deleted:    ../crawl/theatlantic.com/Privacy Policy.txt
+	deleted:    ../crawl/theblaze.com/Privacy Policy.txt
+	deleted:    ../crawl/thedailybeast.com/Privacy Policy.txt
+	deleted:    ../crawl/thefreedictionary.com/Privacy Policy.txt
+	deleted:    ../crawl/thehill.com/Privacy Policy.txt
+	deleted:    ../crawl/thenorthface.com/Privacy Policy.txt
+	deleted:    ../crawl/thepiratebay.org/Terms of Service.txt
+	deleted:    ../crawl/thepostgame.com/Privacy Policy.txt
+	deleted:    ../crawl/thestreet.com/Privacy Policy.txt
+	deleted:    ../crawl/thestreet.com/Terms of Use.txt
+	deleted:    ../crawl/thingsremembered.com/Privacy Policy.txt
+	deleted:    ../crawl/thinkgeek.com/Legal Information.txt
+	deleted:    ../crawl/thinkgeek.com/Privacy Policy.txt
+	deleted:    ../crawl/thinkgeek.com/Terms of Use.txt
+	deleted:    ../crawl/thomasnet.com/Privacy Policy.txt
+	deleted:    ../crawl/ticketmaster.com/Privacy Policy.txt
+	deleted:    ../crawl/ticketmaster.com/Terms of Use.txt
+	deleted:    ../crawl/tiffany.com/Privacy Policy.txt
+	deleted:    ../crawl/tigerdirect.com/Privacy Policy.txt
+	deleted:    ../crawl/timewarnercable.com/Privacy Policy.txt
+	deleted:    ../crawl/timewarnercable.com/Residential Services Subscriber Agreement.txt
+	deleted:    ../crawl/timewarnercable.com/Terms of Service and AUP.txt
+	deleted:    ../crawl/timewarnercable.com/Terms of Service.txt
+	deleted:    ../crawl/tinypic.com/Privacy Policy.txt
+	deleted:    ../crawl/tinyurl.com/Terms of Service.txt
+	deleted:    ../crawl/tmz.com/Privacy Policy.txt
+	deleted:    ../crawl/today.msnbc.msn.com/Privacy Policy.txt
+	deleted:    ../crawl/topix.com/Privacy Policy.txt
+	deleted:    ../crawl/topspin.net/Terms of Service.txt
+	deleted:    ../crawl/townandcountrymag.com/Privacy Policy.txt
+	deleted:    ../crawl/toysrus.com/Privacy Policy.txt
+	deleted:    ../crawl/tp-link.com/Privacy Policy.txt
+	deleted:    ../crawl/tp-link.com/Privacy and Terms of Use.txt
+	deleted:    ../crawl/travelchannel.com/Privacy Policy.txt
+	deleted:    ../crawl/travelocity.com/Privacy Policy.txt
+	deleted:    ../crawl/travelzoo.com/Privacy Policy.txt
+	deleted:    ../crawl/tribalfusion.com/Privacy Policy.txt
+	deleted:    ../crawl/tripadvisor.com/Privacy Policy.txt
+	deleted:    ../crawl/trulia.com/Privacy Policy.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
-	modified:   ../crawl/ulster.ac.uk/Privacy Policy.txt
+	deleted:    ../crawl/tumblr.com/Privacy Policy.txt
+	deleted:    ../crawl/tumblr.com/Terms of Service.txt
+	deleted:    ../crawl/turnitin.com/Terms of Service.txt
+	deleted:    ../crawl/tv.com/Privacy Policy.txt
+	deleted:    ../crawl/tvguide.com/Privacy Policy.txt
+	deleted:    ../crawl/twitpic.com/Privacy Policy.txt
+	deleted:    ../crawl/twitpic.com/Terms of Service.txt
+	deleted:    ../crawl/twitter.com/Ads API Agreement.txt
+	deleted:    ../crawl/twitter.com/Developer Agreement.txt
+	deleted:    ../crawl/twitter.com/Developer Policy.txt
+	deleted:    ../crawl/twitter.com/Display requirements: Replies.txt
+	deleted:    ../crawl/twitter.com/Display requirements: Tweets.txt
+	deleted:    ../crawl/twitter.com/Geo guidelines.txt
+	deleted:    ../crawl/twitter.com/More about restricted uses of the Twitter APIs.txt
+	deleted:    ../crawl/twitter.com/Privacy Policy.txt
+	deleted:    ../crawl/twitter.com/Terms of Service.txt
+	deleted:    ../crawl/twitter.com/Twitter Kit Agreement.txt
+	deleted:    ../crawl/twowaylove.com/Privacy Policy.txt
+	deleted:    ../crawl/typepad.com/Privacy Policy.txt
+	deleted:    ../crawl/typepad.com/Terms of Service.txt
+	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+	deleted:    ../crawl/uggaustralia.com/Privacy Policy.txt
+	deleted:    ../crawl/ui.com/Terms of Service.txt
+	deleted:    ../crawl/ui.com/Ubiquiti Beta Store Terms of Service.txt
+	deleted:    ../crawl/ui.com/Ubiquiti Networks Privacy Policy.txt
+	deleted:    ../crawl/ui.com/Ubiquiti Store Terms and Conditions.txt
+	deleted:    ../crawl/ui.com/UniFi Controller Terms of Service.txt
+	deleted:    ../crawl/ui.com/Unifi Elite Terms and Conditions.txt
+	deleted:    ../crawl/uk.yahoo.com/Privacy Policy.txt
+	deleted:    ../crawl/uncommongoods.com/Privacy Policy.txt
+	deleted:    ../crawl/underarmour.com/Privacy Policy.txt
+	deleted:    ../crawl/united.com/Privacy Policy.txt
 	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
+	deleted:    ../crawl/urbanoutfitters.com/Privacy Policy.txt
+	deleted:    ../crawl/urbanspoon.com/Privacy Policy.txt
+	deleted:    ../crawl/urbanspoon.com/Terms of Service.txt
 	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
+	deleted:    ../crawl/usa.gov/Privacy Policy.txt
+	modified:   ../crawl/usanetwork.com/Privacy Policy.txt
+	deleted:    ../crawl/usatoday.com/Privacy Policy.txt
+	deleted:    ../crawl/usatoday.com/Terms of Service.txt
+	deleted:    ../crawl/usmagazine.com/Privacy Policy.txt
+	deleted:    ../crawl/vanguard.com/Privacy Policy.txt
+	deleted:    ../crawl/vcstar.com/Privacy Policy.txt
 	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
+	deleted:    ../crawl/verizon.com/Frequently Asked Questions about Copyrights and Verizon's Anti-Piracy Cooperation Program.txt
+	deleted:    ../crawl/verizon.com/MapQuest Privacy Policy.txt
+	deleted:    ../crawl/verizon.com/Privacy Policy.txt
+	deleted:    ../crawl/verizon.com/Terms of Service.txt
+	deleted:    ../crawl/verizon.com/Verizon Home Privacy Policy.txt
+	deleted:    ../crawl/verizonwireless.com/Privacy Policy.txt
+	deleted:    ../crawl/videobash.com/Privacy Policy.txt
+	deleted:    ../crawl/vistaprint.com/Privacy Policy.txt
+	deleted:    ../crawl/voanews.com/Privacy Policy.txt
+	deleted:    ../crawl/walgreens.com/Privacy Policy.txt
+	deleted:    ../crawl/walmart.com/Privacy Policy.txt
+	deleted:    ../crawl/warnerbros.com/Privacy Policy.txt
+	deleted:    ../crawl/washingtonpost.com/Privacy Policy.txt
+	deleted:    ../crawl/wave.ac/Privacy Policy.txt
+	deleted:    ../crawl/wave.ac/Terms and Conditions of Use.txt
+	deleted:    ../crawl/wayfair.com/Privacy Policy.txt
+	deleted:    ../crawl/weather.com/Privacy Policy.txt
+	deleted:    ../crawl/web.de/Privacy Policy.txt
+	deleted:    ../crawl/web.de/Terms and Conditions.txt
 	modified:   ../crawl/webmd.com/Privacy Policy.txt
 	modified:   ../crawl/webs.com/Privacy Policy.txt
+	deleted:    ../crawl/webshots.com/Privacy Policy.txt
+	deleted:    ../crawl/weebly.com/Privacy Policy.txt
+	deleted:    ../crawl/weebly.com/Terms of Service.txt
+	deleted:    ../crawl/weightwatchers.com/Privacy Policy.txt
+	modified:   ../crawl/wellsfargo.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
+	deleted:    ../crawl/wikia.com/Privacy Policy.txt
+	deleted:    ../crawl/wikihow.com/Privacy Policy.txt
+	deleted:    ../crawl/wikimediafoundation.org/Privacy Policy.txt
+	deleted:    ../crawl/wikimediafoundation.org/Terms of Use.txt
+	deleted:    ../crawl/wikipedia.org/Privacy Policy.txt
+	deleted:    ../crawl/wikipedia.org/Terms of Use.txt
+	deleted:    ../crawl/williams-sonoma.com/Privacy Policy.txt
+	deleted:    ../crawl/williams-sonoma.com/Terms and Conditions and Privacy Policy.txt
 	modified:   ../crawl/windstream.com/Term of Service.txt
-	modified:   ../crawl/wix.com/Privacy Policy.txt
+	deleted:    ../crawl/wired.com/Privacy Policy.txt
+	deleted:    ../crawl/wordpress.com/Privacy Policy.txt
+	deleted:    ../crawl/wordpress.com/Terms Of Service.txt
+	deleted:    ../crawl/wordpress.com/WordPress.com Terms Of Service.txt
+	deleted:    ../crawl/worldofwarcraft.com/World Of Warcraft Terms Of Use Agreement.txt
+	deleted:    ../crawl/worldstarhiphop.com/Privacy Policy.txt
+	deleted:    ../crawl/wsj.com/Privacy Policy.txt
+	deleted:    ../crawl/wunderground.com/Privacy Policy.txt
+	deleted:    ../crawl/www.blogger.com/Blogger Terms Of Service.txt
+	deleted:    ../crawl/www.facebook.com/Privacy Policy.txt
+	deleted:    ../crawl/www.facebook.com/Terms of Use.txt
+	deleted:    ../crawl/www.sprintpcs.com/PCS Terms & Conditions.txt
+	deleted:    ../crawl/www.whitehouse.gov/Privacy Policy.txt
+	deleted:    ../crawl/www.worldofwarcraft.com/World Of Warcraft Terms Of Use Agreement.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
+	deleted:    ../crawl/xbox.com/Privacy Policy.txt
+	deleted:    ../crawl/xfinity.com/Xfinity Mobile Customer Privacy Policy.txt
+	deleted:    ../crawl/xfinity.comcast.net/Privacy Policy.txt
+	deleted:    ../crawl/xhamster.com/Privacy Policy.txt
+	deleted:    ../crawl/xing.com/Privacy Policy.txt
+	deleted:    ../crawl/xing.com/Terms and Conditions.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl_reviewed/amazon.com/Amazon Device Terms of Use.txt
+	deleted:    ../crawl/yahoo.com/Privacy Policy.txt
+	deleted:    ../crawl/yahoo.com/Terms of Service.txt
+	deleted:    ../crawl/yahoo.de/Privacy Policy.txt
+	deleted:    ../crawl/yammer.com/Privacy Policy.txt
+	deleted:    ../crawl/yardbarker.com/Privacy Policy.txt
+	deleted:    ../crawl/yelp.com/Privacy Policy.txt
+	deleted:    ../crawl/yelp.com/Terms of Service.txt
+	deleted:    ../crawl/youtube.com/Community Guidelines.txt
+	deleted:    ../crawl/youtube.com/Privacy Policy.txt
+	deleted:    ../crawl/zales.com/Privacy Policy.txt
+	deleted:    ../crawl/zap2it.com/Privacy Policy.txt
+	deleted:    ../crawl/zappos.com/Privacy Policy.txt
+	deleted:    ../crawl/zazzle.com/Privacy Policy.txt
+	deleted:    ../crawl/zdnet.com/Privacy Policy.txt
+	deleted:    ../crawl/zedo.com/Privacy Policy.txt
+	deleted:    ../crawl/zimbio.com/Privacy Policy.txt
+	deleted:    ../crawl/zoopla.co.uk/Privacy Policy.txt
+	deleted:    ../crawl/zoosk.com/Privacy Policy.txt
+	deleted:    ../crawl/zynga.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/500px.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/500px.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/allrecipes.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/amazon.com/Amazon App Suite Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Amazon Kindle Store Terms of Use.txt
+	deleted:    ../crawl_reviewed/amazon.com/Amazon.com Privacy Notice.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle Cloud Reader Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle Unlimited Terms of Use.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle for Android Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle for Mac Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle for PC Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Kindle for Windows 8 Legal Notices.txt
+	deleted:    ../crawl_reviewed/amazon.com/Third Party Licenses.txt
+	deleted:    ../crawl_reviewed/app.net/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/app.net/Terms of Service.txt
+	deleted:    ../crawl_reviewed/apple.com/Application-Based Services Terms of Use.txt
+	deleted:    ../crawl_reviewed/att.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/bearshare.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/bearshare.com/Terms and Conditions.txt
+	deleted:    ../crawl_reviewed/bit.ly/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/bit.ly/Terms of Service.txt
+	deleted:    ../crawl_reviewed/cnet.com/Cbs Interactive Privacy Policy.txt
+	deleted:    ../crawl_reviewed/del.icio.us/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/del.icio.us/Terms of Service.txt
+	deleted:    ../crawl_reviewed/dropbox.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/ebuddy.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/ebuddy.com/Terms of Use.txt
+	deleted:    ../crawl_reviewed/envato.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/flattr.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/flattr.com/Terms of Use.txt
 	modified:   ../crawl_reviewed/flickr.com/Community Guidelines.txt
+	deleted:    ../crawl_reviewed/forums.informe.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/foursquare.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/freeforums.org/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/github.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/github.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/gravatar.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/hypster.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/hypster.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/identi.ca/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/identi.ca/Terms of Service.txt
+	deleted:    ../crawl_reviewed/ifttt.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/instagr.am/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/instagram.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/microsoft.com/Microsoft Services Agreement.txt
+	deleted:    ../crawl_reviewed/minecraft.net/Terms and Conditions.txt
+	deleted:    ../crawl_reviewed/myspace.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/myspace.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/olx.com/Terms of Use.txt
+	deleted:    ../crawl_reviewed/owncube.com/Privacy.txt
+	deleted:    ../crawl_reviewed/owncube.com/Terms of Use.txt
+	deleted:    ../crawl_reviewed/rapidshare.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/rapidshare.com/Terms of Use.txt
+	deleted:    ../crawl_reviewed/researchgate.net/Intellectual Property Policy.txt
+	deleted:    ../crawl_reviewed/researchgate.net/Terms of Service.txt
+	deleted:    ../crawl_reviewed/signal.org/Signal Terms & Privacy Policy.txt
+	deleted:    ../crawl_reviewed/skype.com/Business Terms of Use (USA).txt
+	deleted:    ../crawl_reviewed/skype.com/Business Terms of Use.txt
+	deleted:    ../crawl_reviewed/skype.com/Etiquette.txt
+	deleted:    ../crawl_reviewed/skype.com/Skype Emergency Calling.txt
+	deleted:    ../crawl_reviewed/skype.com/Trademark Guidelines.txt
+	deleted:    ../crawl_reviewed/soundcloud.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/soundcloud.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/spideroak.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/spideroak.com/Terms of Use.txt
+	deleted:    ../crawl_reviewed/spotify.com/Terms and Conditions (Mobile).txt
+	deleted:    ../crawl_reviewed/spotify.com/Terms and Conditions (Premium).txt
+	deleted:    ../crawl_reviewed/spotify.com/Terms and Conditions (Unlimited).txt
+	deleted:    ../crawl_reviewed/trello.com/DMCA.txt
+	deleted:    ../crawl_reviewed/trello.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/trello.com/Terms of Service.txt
+	deleted:    ../crawl_reviewed/verizon.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/videobb.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/videobb.com/Terms and Conditions.txt
+	deleted:    ../crawl_reviewed/wordpress.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/xfinity.com/Web Services Privacy Policy.txt
+	deleted:    ../crawl_reviewed/xfire.com/Privacy Policy.txt
+	deleted:    ../crawl_reviewed/xfire.com/Terms of Use.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
