@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sitename name="rackspace.com">
-  <docname name="US Acceptable Use Policy">
+  <docname name="Acceptable Use Policy">
     <url name="http://www.rackspace.com/information/legal/aup" xpath="//div[@id='content-main']" lang="EN">
       <norecurse name="arbitrary"/>
     </url>

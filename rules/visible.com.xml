@@ -1,5 +1,5 @@
 <sitename name="visible.com">
-  <docname name="Visible Service Terms &amp; Conditions">
+  <docname name="Terms and Conditions">
     <url name="https://www.visible.com/legal/terms-and-conditions" xpath="//div[contains(@class, 'legal')]">
       <norecurse name="arbitrary"/>
     </url>

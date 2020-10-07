@@ -5,7 +5,7 @@
       <norecurse name="arbitrary" />
     </url>
   </docname>
-  <docname name="Cable Internet Terms of Use">
+  <docname name="Terms of Use">
     <url name="http://www.earthlink.net/about/policies/cable.faces" xpath="//div[@class='prod']">
       <norecurse name="arbitrary" />
     </url>

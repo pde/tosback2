@@ -2,7 +2,7 @@
   <docname name="Privacy Policy">
     <url name="https://privacy.microsoft.com/en-us/privacystatement" xpath="//div[@style='background-color:white']/div" reviewed="true">
       <norecurse name="arbitrary" />
-   </url>
+    </url>
   </docname>
   <docname name="Microsoft Terms of Use">
     <url name="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" xpath="//section[@id='primaryArea']">
@@ -12,17 +12,17 @@
   <docname name="Microsoft Services Agreement">
     <url name="https://www.microsoft.com/en-us/servicesagreement" xpath="//div[@class='CSPvNext']">
       <norecurse name="arbitrary" />
-   <url>
+    </url>
   </docname>
   <docname name="Law Enforcement Requests Report">
     <url name="https://www.microsoft.com/en-us/corporate-responsibility/lerr/" xpath="//div[@id='primaryR3']">
       <norecurse name="arbitrary" />
-   <url>
+    </url>
   </docname>
   <docname name="Microsoft data categories and definitions">
     <url name="https://www.microsoft.com/en-us/trustcenter/privacy/data-management/customer-data-definitions" xpath="//section[@class='cust-data-def']">
       <norecurse name="arbitrary" />
-   </url>
+    </url>
   </docname>
   <docname name="Windows 10 location service and privacy">
     <url name="https://support.microsoft.com/en-us/help/4468240/windows-10-location-service-and-privacy-microsoft-privacy" xpath="//div[@class='article-container']">
