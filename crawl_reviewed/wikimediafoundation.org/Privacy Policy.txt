@@ -135,7 +135,8 @@ Think of it as the user-friendly interface to our Privacy Policy.
 </p>
 <ul>
 <li>Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available.</li>
-<li>If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username.</li>
+<li>If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently archived in the public interest.
+your content or change will be attributed to the IP address used at the time rather than a username.</li>
 <li>Our community of volunteer editors and contributors is a self-policing body.
 Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies.</li>
 <li>This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the Wikimedia Shop) or sites or services run by third parties (like third-party developer projects on Wikimedia Cloud Services).</li>
@@ -283,13 +284,12 @@ excluding, however, sites and services listed in the "What This Privacy Policy D
 "you" / "your" / "me" You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using the Wikimedia Sites or our services on behalf of yourself or someone else.
 "this Policy" / "this Privacy Policy" This document, entitled the "Wikimedia Foundation Privacy Policy".
 "contributions" Content you add or changes you make to any Wikimedia Sites.
-"personal information" Information you provide us or information we collect from you that could be used to personally identify you.
-To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be “personal information” if it is otherwise nonpublic and can be used to identify you:
+"personal information" Information you provide us or information we collect from you in the context of your use of the Wikimedia Sites that could be used to personally identify you.
+To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be Personal Information if it can be used to identify you:
 <dl>
-<dd>(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, credit card number;</dd>
-<dd>(b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion.
-and</dd>
-<dd>(c) any of the items in subsections (a) or (b) when associated with your user account.</dd>
+<dd>(a) name, address, phone number, email address, username, password, identification number on government-issued ID, IP addresses, user-agent information, and credit card number.
+and;</dd>
+<dd>(b) when associated with an identifiable person, any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, genetic and biometric data, medical conditions or disabilities, political affiliation, and religion.</dd>
 </dl>"third party" / "third parties" Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation.
 This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as Wikimedia chapters, thematic organizations, and user groups as well as volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
 <p>
@@ -603,9 +603,11 @@ Others."
 Back to top <p>
 </p> Sharing <p>
 </p>
-When May We Share Your Information? <p>
+When May We Share Your Information? <p>We may share your information when you give us specific permission to do so, for legal reasons, and in the other circumstances described below.
 </p>
-With Your Permission <p>We may share your information when you give us specific permission to do so, for legal reasons, and in the other circumstances described below.
+<p>
+</p>
+With Your Permission <p>We share your information when you give us specific permission to do so.
 </p>
 <p>We share your information for a particular purpose, if you agree.
 You can find more information in the list of examples in our FAQ.
@@ -819,4 +821,4 @@ Privacy policy
 <b>·</b> Access to nonpublic information <b>·</b> Data retention guidelines
 <b>·</b>
 Donor policy
-<b>·</b> Requests for user information </p> Retrieved from "https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&amp;oldid=118373"
+<b>·</b> Requests for user information </p> Retrieved from "https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&amp;oldid=123545"
