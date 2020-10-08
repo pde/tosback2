@@ -1,0 +1,42 @@
+Data protection.<p>Securing video and data is our top priority.
+We built the Canary system to be
+simple to use without sacrificing any of the safeguards that customers expect when
+streaming and storing video.
+All parts of our system—from the device to the
+cloud to the app—employ extensive security measures to protect private data,
+such as AES 256-bit symmetric-key encryption, Virtual Private Cloud (VPC), secure
+HTTP access (HTTPS) using TLS/SSL, and more.</p>Encryption and secure streaming.<p>When a customer streams video through the Canary app, all video and
+data is securely encrypted between the device, the cloud, and the smartphone.
+If a customer uses an open or insecure Wi-Fi network (or in the event their home
+network is ever compromised), they can feel comfortable knowing their video and
+data connection to the Canary Cloud is securely encrypted.</p>Storage in the Canary Cloud.<p>Canary offers free video storage on the Canary Cloud of events recorded
+within the past 24 hours.
+For those who want even more storage, we providethe ability to securely save up to 30 days of video through Canary Premium Service.</p>
+<p>The Canary Cloud is strengthened by the power and security of Amazon Web Services
+(AWS).
+AWS data centers utilize state-of-the-art security measures and multi-factor
+access control systems to ensure complete customer privacy.</p>
+<p>For more information about Amazon’s security and infrastructure,please visit the AWS Security Center.</p>Privacy and security auditing for Canary devices.<p>We have strict internal policies and barriers in place to ensure that all
+personal customer data remains private and secure within the Canary Cloud
+at all times.
+Only select Canary employees have access keys to systems that
+contain sensitive customer information.
+Authorized access to the Canary
+Cloud is granted on a least-privilege basis.</p>
+<p>Third-party security consultants audit our systems regularly.
+We constantly
+monitor the security landscape for new threats and potential risks, and improve
+our system accordingly using proven technologies.
+As improvements are made, the
+Canary Cloud, Canary app, and embedded Canary firmware will be updated regularly
+to provide users with our most recent security advancements.</p>Transparency and user accounts.<p>Our system balances personal privacy with principles of mutual trust and
+transparency.
+Individual users have unique passwords and login credentials
+which are stored using a salted one-way hash function.
+Users can also easily
+customize settings to disable the camera and microphone.
+Additionally, the
+Canary app promotes information-sharing and visibility between members of
+the same household.
+the in-app timeline provides a shared view of what’s
+actually happening at home, including mode changes, events, and activity.</p>Report Security Issues<p>If you have questions about our security practices or want to report a vulnerability, email security@canary.is.</p>

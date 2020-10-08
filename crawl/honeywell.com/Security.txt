@@ -1,0 +1,263 @@
+ Policies
+<p>We take security concerns seriously and work to quickly evaluate and address them.
+Once reported, we commit the appropriate resources to analyze, validate and provide corrective actions to address the issue.</p>
+<p>The goal of our Product Security Incident Response Team (PSIRT) is to minimize customers’ risk associated with security vulnerabilities by providing timely information, guidance and remediation of vulnerabilities in our products, including software and applications, hardware and devices, services and solutions.
+This team manages the receipt, investigation, internal coordination, remediation and disclosure of security vulnerability information related to Honeywell products.</p>
+<p>PSIRT coordinates the response and disclosure of all externally identified product vulnerabilities.</p>
+Reporting a Potential Security Vulnerability
+<p>We welcome reports from independent researchers, industry organizations, vendors and customers concerned with product security.
+To find out more information on how to report a potential vulnerability, please visit the Vulnerability Reporting web page.</p>
+Coordinated Vulnerability Disclosure
+<p>We strive to follow Coordinated Vulnerability Disclosure (CVD).
+This process allows independent reporters who discover a vulnerability contact Honeywell directly and allow us the opportunity to investigate and remediate the vulnerability before the reporter discloses the information to the public.</p>
+<p>The PSIRT will coordinate with the reporter throughout the vulnerability investigation and will provide them with updates on progress as appropriate.
+With their agreement, the PSIRT may recognize the reporter on our acknowledgments for finding a valid product vulnerability and privately reporting the issue.
+After an update or mitigation information is publicly released by Honeywell, the reporter is welcome to discuss the vulnerability publicly.</p>
+<p>Following the CVD allows us to protect our customers and at the same time, coordinate public disclosures and appropriately acknowledge the reporter for their finding.
+If a reported vulnerability involves a vendor product, the PSIRT will notify the vendor directly, coordinate with the reporter, or engage a third-party coordination center.</p>
+Vulnerability Management Process
+<p>
+</p>
+Assessing Security Risk Using Common Vulnerability Scoring System (CVSS)
+<p>We use the Common Vulnerability Scoring System version 3.0 (CVSS v3.0) to evaluate the severity level of identified vulnerabilities.
+This enables a common scoring method and a common language to communicate the characteristics and impacts of vulnerabilities and attempts to establish a measurement of how much concern a vulnerability warrants.
+The model uses three distinct measurements or scores that include base, temporal and environmental calculations, each consisting of a set of metrics.
+The full standard, which is maintained by the Forum of Incident Response and Security Teams (FIRST).</p>
+<p>We follow CVSS v3.0 Specification Document Qualitative Severity Rating Scale to define Severity Ratings as shown in the table below:</p>
+<p>Security Impact Rating</p>
+<p>CVSS Score</p>
+<p>Critical</p>
+<p>9.0 – 10.0</p>
+<p>High</p>
+<p>7.0 – 8.9</p>
+<p>Medium</p>
+<p>4.0 – 6.9</p>
+<p>Low</p>
+<p>1.0 – 3.9</p>
+<p>We reserve the right to deviate from these guidelines in specific cases if additional factors are not properly captured in the CVSS score.</p>
+<p>When and where applicable, Honeywell Security Bulletins will provide the CVSS v3.0 Base Score.
+We focus on the base metric group only because it brings the most value to our customers and represents the intrinsic characteristics of a vulnerability.
+Risk assessment is based on an average of risk across a diverse set of installed systems and may not represent the true risk of your local installation.</p>
+<p>We recommend consulting a security or IT professional to evaluate the risk of your specific configuration and encourages you to compute the environmental score based on your network parameters and that all customers take into account the base score and any temporal and environmental scores that may be relevant to their environment to assess their overall risk.
+This overall score represents a moment in time and is tailored to your specific environment.
+You should use a security or IT professional’s assessment of the issue and this final score to prioritize responses in your own environment.</p>
+Vulnerability Communication Policy
+<p>Honeywell uses the following guidelines for non-third-party software vulnerabilities to determine the appropriate communication plan:</p>
+<p>Security Impact Rating</p>
+<p>CVSS Score</p>
+<p>Communication Plan</p>
+<p>Critical</p>
+<p>9.0–10.0</p>
+<p>Security Bulletin</p>
+<p>High</p>
+<p>7.0–8.9</p>
+<p>Medium</p>
+<p>4.0–6.9</p>
+<p>Product Release Note</p>
+<p>Low</p>
+<p>3.9 or below</p>
+<p>If there is a security issue with a third-party software component that is used in a Honeywell product, we may publish a Security Bulletin.
+If a Security Bulletin is published for a third-party software component vulnerability, then we typically use the CVSS score provided by the component creator.
+In some cases, the CVSS score may be adjusted to reflect the impact to the product.</p>
+<p>We reserve the right to deviate from these guidelines in specific cases if additional factors are not properly captured in the CVSS score.</p>
+Notifying Customers of Vulnerability
+<p>In most cases, we intend to notify customers when there is an identified practical workaround or fix for a security vulnerability.
+The notification is through either targeted communications or by posting a security bulletin on the specific product web page.
+This will be posted after the PSIRT has completed the vulnerability response process and determined that sufficient software patches or workarounds exist to address the vulnerability or subsequent public disclosure of code fixes is planned to address the vulnerabilities.</p>
+<p>Security bulletins attempt to balance the right amount of information by providing sufficient details to enable customers to make informed decisions to protect themselves, but not verbose details that would allow malicious users to take advantage of the information.
+They will typically include the following information:</p>
+<ol>
+<li>Products and versions affected.</li>
+<li>Common Vulnerability Enumeration (CVE) identifier for the vulnerability.</li>
+<li>Brief description of the vulnerability and potential impact if exploited.</li>
+<li>The Common Vulnerability Scoring System (CVSS) severity rating for the vulnerability.</li>
+<li>Mitigation details such as an upgrade, fix, mitigation or other customer action.</li>
+<li>Credit to the reporter of the identified vulnerability and acknowledgment for coordinating with Honeywell.</li>
+</ol>
+<p>We will not provide additional information about the specifics of vulnerabilities beyond what is provided in the security bulletin or other documentation such as release notes, knowledge base articles, FAQs, etc.
+We do not distribute exploit or proof of concept code for identified vulnerabilities.</p>
+<p>In accordance with industry practices, we do not share the findings from internal security testing or other types of security activities with external entities.
+It is important to note that any scan of our services and production systems will be considered an attack.
+If you are an OEM partner, please coordinate your needs with your Honeywell program manager.</p>
+Security Notice
+<p>We may release a special communication to respond quickly and appropriately to public disclosures where the vulnerability may have received significant public attention, or is expected to be actively exploited.
+In such an event, we may expedite the communication and may or may not include a complete set of patches or workarounds.</p>
+Vulnerability Remediation
+<p>We take security concerns seriously and works to evaluate and address them in a timely manner.
+Response timelines will depend on many factors, including: the severity, the product affected, the current development cycle, QA cycles, and whether the issue can only be updated in a major release.</p>
+<p>Remediation may take one or more of the following forms:</p>
+<ol>
+<li>A new release</li>
+<li>A Honeywell-provided patch</li>
+<li>Instructions to download and install an update or patch from a third-party</li>
+<li>A workaround to mitigate the vulnerability</li>
+</ol>
+<p>Notwithstanding the foregoing, we do not guarantee a specific resolution for issues and not all issues identified may be fixed.</p> Report a Vulnerability Issue
+<p>We encourage coordinated disclosure of security vulnerabilities.
+Security researchers, industry groups, government organizations and vendors can report potential security vulnerabilities to Honeywell by choosing one of the two vulnerability types in the form below or by emailing us with below details mentioned.</p>
+<p>If the vulnerability affects a product, service or solution, email us at PSIRT@Honeywell.com, with the following instructions/details:</p>
+<ul>
+<li>Please encrypt using Honeywell’s public PGP key (see PGP Key page) and include the following:<ul>
+<li>Product and version</li>
+<li>Description of the potential vulnerability</li>
+<li>Any special configuration required to reproduce the issue</li>
+<li>Step by step instructions to reproduce the issue</li>
+<li>Proof of concept or exploit code, if available</li>
+<li>Potential Impact</li>
+</ul>
+</li>
+</ul>
+<p>For all other security issues, email us at Security@honeywell.com with the following instructions. </p>
+<ul>
+<li>Please encrypt using Honeywell’s public PGP key (see PGP Key page) and include the following:<ul>
+<li>Website URL or location</li>
+<li>Type of vulnerability (XSS, Injection, etc.)</li>
+<li>Instructions to reproduce the vulnerability</li>
+<li>Proof of concept or exploit code, including how an attacker could exploit the vulnerability</li>
+<li>Potential impact</li>
+</ul>
+</li>
+</ul> PGP Key
+<p>-----BEGIN PGP PUBLIC KEY BLOCK-----</p>
+<p>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 =dpgO</p>
+<p>-----END PGP PUBLIC KEY BLOCK-----</p>
+<p> </p> Acknowledgments 
+<p>We would like to acknowledge all individuals who have reported a vulnerability in our environment.
+We are grateful for these security researchers who help keep us secure. </p>
+<b>REPORTERS NAME</b>
+<b>ASSOCIATION LINK</b>
+Aagam Shah
+https://twitter.com/neutrinoguy
+Abdul Haq Khokhar
+@abdulhaqkhokhar
+Abdul Rehman Qureshi
+ 
+Abhineeti Singh
+https://my.linkedin.com/in/abhineeti-singh-739628a4
+Abhishek Misal
+http://www.linkedin.com/in/abhishek-misal
+Abhishek Tiwari
+https://www.linkedin.com/in/rootabhi
+Alexander Sidukov (Positive Technologies)
+@cyberopus
+Angkan Chanda
+ 
+Ari Apridana
+https://www.linkedin.com/in/ariapridana/
+Ashish Kunwar
+@D0rkerDevil
+Athul Jayaram
+https://www.linkedin.com/in/athuljayaram
+B Dhiyaneshwaran
+https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/
+Badal Sardhara
+https://www.linkedin.com/in/badal-sardhara-9b43a41a5
+Bill Ben Haim<br>
+https://www.linkedin.com/in/bill-ben-haim-b6775a48/
+Boik Su
+https://twitter.com/boik_su
+Dominique van
+https://bureauvandorsselaer.nl
+Elias Mourany
+https://www.linkedin.com/in/eliasmourany/
+Gayatri Rachakonda
+https://www.linkedin.com/in/gayatri-r-8368a3110
+Gjoko Krstic
+https://www.linkedin.com/in/gjokokrstic
+GwanYeong Kim
+@sec_karas
+Harshal S.
+Sharma https://www.linkedin.com/in/harshalss-war10ck/ 
+Jan Kopriva https://www.linkedin.com/in/jan-kopriva/
+Javad Dadgar
+https://twitter.com/javadmacros
+Jayesh Patel
+https://www.breachlock.com
+Joachim Kerschbaumer 
+https://twitter.com/joachimk
+Jorian Van Den Hout
+ 
+Jose Carlos Exposito Bueno
+ 
+Kapil Kulkarni*<br>
+https://www.linkedin.com/in/kapil-kulkarni-oscp-ceh-chfi-5a333763/
+Khaled Sakr
+https://www.linkedin.com/in/khaled-sakr-61821698
+Lutfu Mert Ceylan
+https://linkedin.com/in/lutfumertceylan/
+Mahad Ahmed
+https://octadev.com.pk Maxim Rupp
+http://rupp.it/
+Mikael Vingaard
+Vingaard.dk
+Mindset Technologies
+https://mindsetechnologies.com/certificates
+Mohammad Reza Zamiri
+https://twitter.com/d3c0der
+Mohammed Adam
+https://www.linkedin.com/in/mohammedadam24/
+Mohammed Faiz Quadri
+https://my.linkedin.com/in/mfaquadri
+Mohamed Hamed
+https://www.linkedin.com/in/mohamed-hamed-239378163/
+Mostafa Anas
+https://www.linkedin.com/in/mostafaanashelal
+MrMustacheMan
+ 
+Nick Jensen
+https://www.linkedin.com/in/nickmarcjensen/
+Nitish Shah
+https://twitter.com/iamNitishShah
+Omur UGUR
+https://www.linkedin.com/in/omurugur-siberg%C3%BCvenlik/
+Paul Seekamp
+https://www.linkedin.com/in/paulseekamp/
+Pethuraj M
+https://www.pethuraj.in/
+Pranav Bhandari
+https://www.linkedin.com/in/pranav-bhandari-8bb644158/
+Pratik Khalane
+https://www.linkedin.com/in/pratik-khalane/
+Rahul Gamit
+https://www.linkedin.com/in/rahul-gamit-54a93a188/
+Ramkumar Ganesan
+https://www.linkedin.com/in/ram-kumar94
+Reza Dorosti
+https://twitter.com/DorostiRe
+Ronak Nahar
+https://www.linkedin.com/in/naharronak/
+Satyendra Shrivastava
+https://www.linkedin.com/in/satyendra-shrivastava/
+Serge Lacroute
+https://www.linkedin.com/in/serge-lacroute-677a3b134/
+Srikar V
+https://linkedin.com/in/exp1o1t9r
+Steven Hampton
+@keritzy
+Sumit Grover
+@sumgr0 
+Tansel ÇETİN
+@tansbey
+Udhaya Prakash C*
+ @Udhaya_ISRO
+Umesh Jore*
+https://www.linkedin.com/in/umesh-jore-55015194
+Uri Katz of Claroty 
+ 
+Utkarsh Agrawal 
+<br>https://twitter.com/agrawalsmart7  Vasim Shaikh
+<br>https://www.linkedin.com/in/vasim-shaikh-094507110 Venkatesh Sivakumar
+@PranavVenkats 
+Victor Curalea
+https://twitter.com/VictorCuralea
+Vijiln
+<br>@vijiln  Vishwa Ratna
+https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile
+Wai Yan Aung
+@waiyanaun9 
+Yunus Aydin
+https://www.linkedin.com/in/aydinnyunus/
+Zach Edwards
+https://twitter.com/thezedwards
+12103-Psychonaut
+  <p>* Indicates multiple submissions</p> 

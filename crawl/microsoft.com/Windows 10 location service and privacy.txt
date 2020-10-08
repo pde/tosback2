@@ -1,0 +1,156 @@
+ Windows 10 location service and privacy <p>Content provided by Microsoft</p> Applies to: PrivacyWindows 10 Select Product Version <br> All Products <p>Some apps need to know when you’re in a specific location to work correctly.
+For instance, if you’ve asked an app to remind you to buy bread when you’re in the grocery store, the app will need to know when you’re in the store.
+To give you maps to get you where you’re going, or to show you lists of shops or restaurants near you, many apps and services request location information from your device.
+That’s what the Windows 10 location service does: tells your apps and services where you are or where you’ve been, so that you can get info more relevant to you.</p>
+<p>When we collect data, we want to make sure it’s the right choice for you.
+That’s why we provide info about the location service and settings described here.
+To learn more about location and your privacy, see the location sections of the Microsoft Privacy Statement.</p> How the location settings work <p>The device location setting enables certain Windows features such as auto-setting the time zone or Find my device to function properly.
+When the device location setting is enabled, the Microsoft location service will use a combination of global positioning service (GPS), nearby wireless access points, cell towers, and your IP address to determine your device’s location.
+Depending on the capabilities of your device, your device’s location can be determined with varying degrees of accuracy and may in some cases be determined precisely.</p>
+<p>If you have enabled the device location setting, your device sends de-identified location information (including wireless access point information, cellular tower information, and precise GPS location if available) to Microsoft after removing all personally identifiable information at the device.
+This de-identified copy of location information is used to improve Microsoft location services and, in some instances, shared with our location service provider partners, currently HERE, to improve the location services of the provider.</p>
+<p>Additionally, you can allow apps to use your device’s location and location history to deliver location-aware services as precisely as your device supports.
+If you grant a specific app access to your device’s location on the settings page, that app will have access to precise location information.
+Otherwise the location information provided to the app has lower accuracy.
+When your location is used by a location-aware app or Windows service or feature, your location information and recent location history are stored on your device.</p>
+<p>If you are signed in with your Microsoft account and location history has been enabled, your last known location information is also saved to the cloud, where it is available across your devices to other apps or services that use your Microsoft account.
+If you are signed in with your Microsoft account and your device cannot reliably determine your current location on its own (such as when you are in a building or basement), apps or services can use your last known location from your location history that is stored in the cloud if it is available.</p>
+<p>There are some exceptions to how your device’s location can be determined that are not directly managed by the location settings.</p>
+<p>Desktop apps are a specific type of app that won’t ask for separate permission to discover your device location information and won’t appear in the list that allows you to choose apps that can use your location.
+What are desktop apps? They’re usually downloaded from the internet or installed with some type of media (such as a CD, DVD, or USB storage device).
+They’re launched using an .EXE or .DLL file, and they typically run on your device, unlike web-based apps (which run in the cloud).</p>
+<p>Even when you’ve turned off the device location setting, some third-party apps and services could use other technologies (such as Bluetooth, Wi-Fi, cellular modem, etc.) to determine your device’s location with varying degrees of accuracy.
+Microsoft requires third-party software developers that develop apps for our Microsoft Store or develop apps using Microsoft tools to respect the Windows location settings unless you’ve provided any legally required consent to have the third-party developer determine your location.
+However, to further reduce the risk that an app or service can determine your location when the Windows device location setting is off, you should only install apps and services from trusted sources.
+For more comprehensive protection of your location, you could consider disabling radio-based components of your device such as Wi-Fi, Bluetooth, cellular modem, and GPS components, which might be used by an app to determine your precise location.
+However, doing so will also impair other experiences such as calling (including emergency calling), messaging, internet connectivity, and connecting to peripheral devices like your headphones.
+Please read the privacy policies of the apps and services you’ve installed to learn more about how they use your device’s location.</p>
+<p>To facilitate getting help in an emergency, whenever you make an emergency call, Windows will attempt to determine and share your precise location, regardless of your location settings.
+In addition, your mobile operator will have access to your device’s location if your device has a SIM card or is otherwise using a cellular service.</p> Location history <p>Some Windows apps and services that use location info also use your location history.
+When the location setting is on, locations looked up by apps or services will be stored on the device for a limited time (24 hours in Windows 10), then deleted.
+Apps that have access to this info will be labeled <strong>Uses location history</strong> on the Location settings page.</p> Default location <p>You can set a default location for your device that Windows, apps, and services can then use when a more exact location can’t be detected using GPS or other methods.</p> Geofencing <p>Some apps use geofencing, which can turn on or off particular services or show you information that might be useful when you’re in an area defined (or “fenced”) by the app.
+An app can only use geofencing if location has been turned on for that app.
+If any of your Windows apps are using geofencing, you’ll see <strong>One or more of your apps are currently using geofencing</strong> on the Location settings page.</p> Cortana <p>Cortana works best when she has access to your device location and location history, which she uses to help you—for example, by giving you traffic alerts before you need to leave or reminders based on location like “You’re near the grocery store, where you wanted to buy milk.” Cortana collects your location periodically even if you’re not interacting with her, like when you connect to Wi-Fi or disconnect from Bluetooth.
+When Cortana is turned on, the Search app also has access to your device location information and will automatically send it to Bing when Cortana suggests web search terms and results for Bing to use as described in the Privacy Statement.
+If you don’t want Cortana to have access to your device location, follow these steps:</p>
+<ol>
+<li>Go to <strong>Start</strong>  &gt.
+<strong>Settings</strong> &gt.
+<strong>Cortana</strong>.</li>
+<li>Select <strong>Permissions </strong>or <strong>Permissions &amp.
+History</strong>.</li>
+<li>Select <strong>Manage the information Cortana can access from this device.</strong>
+</li>
+<li>Turn the <strong>Location</strong> setting to <strong>Off</strong>.</li>
+</ol>Microsoft Edge <p>When location is turned on for Microsoft Edge, you still have control over which websites can access your device location.
+Microsoft Edge will ask for your permission the first time you visit a website that requests your location information.
+You can turn off location permission for a website in Microsoft Edge settings.</p>
+<p>There are two versions of Microsoft Edge that can be installed on Windows 10.
+The new Microsoft Edge is downloadable and considered a desktop app.
+Follow these steps to turn on location for the new Microsoft Edge:</p>
+<ol>
+<li>Go to <strong>Start  </strong>&gt;<strong> Settings </strong> &gt;<strong> Privacy  </strong>&gt;<strong> Location</strong>.</li>
+<li>Turn on <strong>Allow access to location on this device</strong>.</li>
+<li>Turn on <strong>Allow apps to access your location</strong>.</li>
+<li>Turn on <strong>Allow desktop apps to access your location</strong> if present.</li>
+</ol>
+<p>The legacy version of Microsoft Edge is the HTML-based browser that was released with Windows 10 in July 2015.  Follow these steps to turn on location for the legacy version of Microsoft Edge:</p>
+<ol>
+<li>Go to <strong>Start  </strong>&gt;<strong> Settings </strong> &gt;<strong> Privacy  </strong>&gt;<strong> Location</strong>.</li>
+<li>Turn on <strong>Allow access to location on this device</strong>.</li>
+<li>Turn on <strong>Allow apps to access your location</strong>.</li>
+<li>Under <strong>Choose which apps can access your precise location</strong>, switch the <strong>Microsoft Edge</strong> setting to <strong>On</strong>.</li>
+</ol>
+<p>Learn more about location and privacy in the new Microsoft Edge</p> How we build the location services database <p>To help us provide location services, Microsoft records the location of mobile cell towers and Wi-Fi access points.
+Our database might include the MAC addresses of your wireless router or other Wi-Fi network devices.
+We don’t associate MAC addresses with you personally or with the devices connected to your network.</p>
+<p>To prevent Microsoft from using the MAC addresses of your Wi-Fi access points in our location services database, go to Opt out of location services.</p> How we help keep you informed: the location icon <p>When one or more apps are currently using your device location through the Windows location service, you’ll see the location icon in the notification area of your taskbar (on Windows 10 PCs) or in the status bar at the top of your screen (on Windows 10 Mobile devices).
+The icon won’t be shown for geofencing.</p> To show or hide the location icon: <p>On Windows 10 PCs:</p>
+<ol>
+<li>Go to <strong>Start</strong>  &gt.
+<strong>Settings</strong> &gt.
+<strong>Personalization</strong>  &gt.
+<strong>Taskbar</strong>.</li>
+<li>Under <strong>Notification area</strong>, select <strong>Select which icons show on the taskbar</strong>.</li>
+<li>Turn the <strong>Location Notification </strong>setting <strong>On </strong>or <strong>Off</strong>.</li>
+</ol>
+<p>On Windows 10 Mobile:</p>
+<ol>
+<li>Go to <strong>Settings</strong> .</li>
+<li>Select <strong>Privacy</strong> &gt.
+<strong>Location</strong>.</li>
+<li>Turn <strong>Show location icon</strong> on or off.</li>
+</ol>
+<p>If you’re using a device assigned to you by your workplace, or if you’re using a personal device at your workplace, you might not be able to change the location settings.
+If that’s the case, <strong>Some settings are managed by your organization</strong> will appear at the top of the Location settings page.</p> How to control location settings <p>Windows location settings give you control over whether Windows features can access your device’s location and which Windows apps can use your device’s location and location history information.
+To check your location settings, go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>Privacy </strong> &gt.
+<strong>Location</strong>.</p>
+<p>To clear location history, either restart your device, or go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>Privacy </strong> &gt.
+<strong>Location</strong>, and under <strong>Location history</strong>, select <strong>Clear</strong>.
+Clearing the location history only clears the history on the device.
+Apps that accessed the history before it was cleared may have stored it elsewhere.
+Refer to your apps’ privacy policies for more info.</p>
+<p>To clear location history that’s been stored in the cloud and is associated with your Microsoft account, go to account.microsoft.com, and make sure you’re signed in to your account.
+Select <strong>Clear location activity</strong>, and then select <strong>Clear</strong>.</p> To turn the Windows location settings on or off: <p>On your PC:</p>
+<ol>
+<li>Go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>Privacy </strong> &gt.
+<strong>Location</strong>.</li>
+<li>Do one of the following: <ul>
+<li>To control location for the whole device if you’re an administrator on the device, select <strong>Change</strong>, and then in the <strong>Location for this device</strong> message, switch the setting to <strong>On</strong> or <strong>Off</strong>.</li>
+<li>To control location for just your user account, switch the <strong>Allow apps to access your location</strong> setting to <strong>On</strong> or <strong>Off</strong>.
+If <strong>Location for this device is off</strong> appears on the settings page, you won’t be able to turn on the <strong>Allow apps to access your location</strong> setting for an individual user account.
+(Note that in previous versions of Windows, this setting was called <strong>Location service</strong>.)</li>
+</ul>
+</li>
+</ol>
+<p>On Windows 10 PCs, you can add or remove the Location tile from the notification area at the far right of the taskbar.
+Here's how:</p>
+<ol>
+<li>Go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>System</strong>  &gt.
+<strong>Notifications &amp.
+actions</strong>.</li>
+<li>Under <strong>Quick actions</strong>, select <strong>Edit your quick actions</strong>.</li>
+<li>Add, remove, or move the Location tile.</li>
+</ol>
+<p>On your mobile device:</p>
+<ol>
+<li>Go to <strong>Settings</strong> &gt.
+<strong>Privacy</strong> &gt.
+<strong>Location</strong>.</li>
+<li>Select <strong>Location</strong> to turn it on or off.</li>
+</ol>
+<p>To change whether an individual app can have access to your precise location:</p>
+<ol>
+<li>Go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>Privacy </strong> &gt.
+<strong>Location</strong>.</li>
+<li>Turn each app on or off where it appears under <strong>Choose which apps can access your precise location</strong>.
+On a device, each person can do the same for their own accounts.
+If <strong>Allow apps to access your location</strong> is turned <strong>Off</strong> for your user account, the on/off switches can’t be turned on until <strong>Allow apps to access your location</strong> is turned <strong>On</strong>.</li>
+</ol>
+<p>To change the default location for your PC, which Windows, apps, and services can use when a more exact location can’t be detected:</p>
+<ol>
+<li>Go to <strong>Start</strong>   &gt;<strong> Settings</strong> &gt.
+<strong>Privacy </strong> &gt.
+<strong>Location</strong>.</li>
+<li>Under <strong>Default location</strong>, select <strong>Set default</strong>.</li>
+<li>The Windows Maps app will open.
+Follow the instructions to change your default location.</li>
+</ol> Last Updated: Jan 15, 2020 Need more help? Search <ul>
+</ul>
+<ul>
+<li> No results </li>
+</ul>
+<p>Join the discussion</p> Ask the community <p>Get support</p> Contact Us <ul>
+<li> Email this article </li>
+<li> Print </li>
+<li> Subscribe RSS Feeds Copy URL into your reader Copied <p>
+</p>
+<p>
+</p>
+</li>
+</ul> 

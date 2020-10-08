@@ -1,0 +1,964 @@
+ All Category <ul>
+</ul> ASUS Product Security Advisory
+<p>We take every care to ensure that ASUS products are secure in order to protect the privacy of our valued customers.
+We constantly strive to improve our safeguards for security and personal information in accordance with all applicable laws and regulations, and we welcome all reports from our customers about product-related security or privacy issues.
+Any information you supply to ASUS will only be used to help resolve the security vulnerabilities or issues you have reported.
+This process may include contacting you for further relevant information.</p>
+How to report a security vulnerability or issue to ASUS
+<p>We welcome all reports about security-related issues incidents and privacy concerns, and we invite you to contact us about such matters via our dedicated website at https://www.asus.com/securityadvisory/.
+In order for us to deal swiftly with your concerns, please make sure filling in the following information to the website.</p>
+<ol>
+<li>Your full name, and a means of contacting you.
+This can be an email address, a phone number or any other preferred way we can use to get in touch with you.
+If you provide a phone number, please include the full country code, area code and extension number (if applicable).</li>
+<li>Full and detailed information about the issue you wish to report.
+This should include the following information, as applicable:</li>
+<ol>
+<li>The name of the ASUS service(s) or system(s) that your concern relates to.</li>
+<li>The product type, product name and model number of the affected hardware products.</li>
+<li>The name, description and version number of any affected ASUS software products.</li>
+<li>A full and detailed description of the problem or issue, along with any background information that you believe is relevant, and any other pertinent information that may help us reproduce and/or resolve the issue.</li>
+</ol>
+</ol>
+<br>Responsible reporting guidelines
+<p>
+ASUS appreciates all contributions from customers and the wider ASUS community that help to improve the security of our products and services.
+However, we kindly request that you act responsibly and bear in mind the following when investigating or reporting any issues:</p>
+<ol>
+<li>Do not attempt to access or modify any ASUS services, systems, products or software without authorization.</li>
+<li>Do not disclose, or modify, destroy or misuse any data you may discover.</li>
+<li>All information given to or received from any party relating to the reported issues must remain completely confidential.</li>
+</ol>
+<br>What happens next?
+<p>Once we have resolved the reported issue(s), we will provide a suitable solution to all affected customers.
+We will treat this with the utmost priority and make the solution available as soon as it practical to do so.<br>
+<br>
+ASUS will also maintain a list of the latest software updates, along with descriptions of the issues that have been fixed.
+Although we will notify customers wherever possible, we also recommend that customers visit this page regularly to make sure they are aware of the latest updates.</p>
+Latest security updates 07/10/2020 <strong>ASUS ScreenPad 2 Upgrade Tool Security Update (CVE-2020-15009) for ASUS PCs with ScreenPad 1.0 (UX450FDX, UX550GDX and UX550GEX)</strong> ∇ <p>
+Vulnerability: CVE-2020-15009
+</p>
+<p>
+AsusScreenXpertServicec.exe and ScreenXpertUpgradeServiceManager.exe in ScreenPad2_Upgrade_Tool.msi V1.0.3 for ASUS PCs with ScreenPad 1.0 (UX450FDX, UX550GDX and UX550GEX) could lead to unsigned code execution with no additional restrictions when a user puts an application at a particular path with a particular file name.</p>
+<p>
+ASUS has released a new version (1.0.4) of the ScreenPad2 Upgrade Tool that includes important security updates.
+ASUS recommends that users with ASUS PCs with ScreenPad 1.0 (UX450FDX, UX550GDX and UX550GEX) running the ScreenPad2 Upgrade Tool version 1.0.3 or earlier update to the latest version.</p>
+<p>
+To check the installed version of the ScreenPad 2 Upgrade Tool and to download the latest version, visit https://www.asus.com/support/FAQ/1043674</p>
+<p>
+ASUS would like to thank Michael van Griensven for assistance with this security update.</p> 04/14/2020 <strong>ASUS Update Regarding Mitigation for Known Intel CPU Vulnerabilities</strong> ∇ <p>
+ASUS is aware of recent security research disclosing potential security vulnerabilities in Intel® CSME, Intel® SPS, Intel® TXE, Intel® AMT, Intel® PTT and/or Intel® DAL chipsets.
+These vulnerabilities may result in:
+</p>
+<ul>
+<li> Improper privilege changes;</li>
+<li> Denial of service;</li>
+<li> Disclosure of information.</li>
+</ul>
+<br>
+ASUS is working closely with platform owners to provide firmware and software updates for all affected devices, to mitigate potential risks associated with the vulnerabilities that have been identified.
+<p>
+</p>
+<p>
+<strong>Symptom Description and ASUS Solutions<br>
+Please refers to Attachment <br>Intel-CSME-security-Symptom-Description-and-Solution.pdf </strong>
+</p>
+<p>
+<strong>Important Notice: ASUS BIOS Update FAQ</strong>
+</p>
+<ul>
+<li>How do I determine the model name and number of my device?<br>https://www.asus.com/support/FAQ/1030673 </li>
+<li>How do I use Winflash to update the BIOS version in my Windows system?<br>https://www.asus.com/support/FAQ/1008276<br> In order to successfully install the latest BIOS update, please keep your computer plugged in and do not turn off your computer during the BIOS update process.
+</li>
+<li>Further questions? Contact us at https://www.asus.com/support/</li>
+</ul>
+<p>
+</p>
+<p>
+PLEASE FREQUENTLY CHECK FOR INFORMATION ABOUT THE LATEST UPDATES AND ADVISORIES FROM ASUS REGARDING YOUR EQUIPMENT AND SOFTWARE.
+THE INFORMATION PROVIDED IN THIS ADVISORY IS PROVIDED ON AN “AS IS” BASIS WITHOUT ANY WARRANTY OR GUARANTEE OF ANY KIND.
+ASUS RESERVES THE RIGHT TO CHANGE OR UPDATE THIS ADVISORY AT ANY TIME WITHOUT NOTICE.
+</p> 04/09/2020 <strong>ASUS Device Activation Security Update (CVE-2020-10649) for ASUS Notebook PCs</strong> ∇ <p>
+Vulnerability: CVE-2020-10649<br>
+<br>
+ASUS has released a new version (1.0.7.0) of ASUS Device Activation for Win 10 notebook PCs that includes important security updates.
+This latest application update contains fixes for the CVE-2020-10649 vulnerability.<br>
+<br>
+ASUS recommends that users with Win 10 notebook PCs running ASUS Device Activation version 1.0.6.0 and all prior versions to update to the latest version.
+To check the installed version of ASUS Device Activation and to download the latest version, visit https://www.asus.com/support/FAQ/1042640 .<br>
+<br>
+ASUS would like to thank Anas Khan for the assistance with this security update.
+</p> 03/18/2020 <strong>Security Advisory for CVE-2019-15126 (Kr00k)</strong> ∇ <p>
+A new firmware update is now available for selected ASUS routers.
+This latest firmware update contains fixes for the CVE-2019-15126 (Kr00k) vulnerability, which allows unauthorized decryption of some WPA2-encrypted traffic in devices using some Broadcom and Cypress WiFi chips.
+This includes some ASUS routers.<br>
+<br>
+We strongly encourage you to periodically audit both your networking equipment and your network security procedures.<br>
+<br>
+We strongly recommend that you update your router to the latest firmware as soon as the new firmware is released.
+You will find the latest firmware available for download from the ASUS support page https://www.asus.com/support/, or on each model’s official product page.
+You will find links to the new firmware for selected ASUS routers at the end of this notice.
+Please note that updated firmware for some models is still undergoing testing, and will be made available as soon as possible.<br>
+<br>
+If you have already installed the latest firmware version, please disregard this notice.<br>
+<br>
+Should you have any questions or concerns, please contact ASUS via our Security Advisory reporting system: https://www.asus.com/securityadvisory/<br>
+<br>
+For further help with router setup and an introduction to network security, please visit<br>
+<br>https://www.asus.com/support/FAQ/1008000<br>
+<br>https://www.asus.com/support/FAQ/1039292<br>
+<br>
+</p>
+Model name Support site path Firmware version Ready time GT-AC5300 https://www.asus.com/us/Networking/ROG-Rapture-GT-AC5300/HelpDesk_BIOS/ 384_81686 Now RT-AC5300 https://www.asus.com/us/Networking/RT-AC5300/HelpDesk_BIOS/ 384_81624 3/19 RT-AC86U https://www.asus.com/us/Networking/RT-AC86U/HelpDesk_BIOS/ 384_81352 Now RT-AC2900 https://www.asus.com/Networking/RT-AC2900/HelpDesk_BIOS/ 384_81352 Now RT-AC3200 https://www.asus.com/Networking/RTAC3200/HelpDesk_BIOS/ 382_51940 3/17 RT-AC1750_B1 https://www.asus.com/supportonly/RT-AC1750_B1/HelpDesk_BIOS/ 385_20253 Now RT-AC1900 https://www.asus.com/Networking/RT-AC1900/HelpDesk_BIOS/ 385_20253 Now RT-AC1900P https://www.asus.com/Networking/RT-AC1900P/HelpDesk_BIOS/ 385_20253 Now RT-AC1900U https://www.asus.com/Networking/RT-AC1900U/HelpDesk_BIOS/ 385_20253 Now RT-AC66U B1 https://www.asus.com/Networking/RT-AC66U-B1/HelpDesk_BIOS/ 385_20253 Now RT-AC68P https://www.asus.com/Networking/RTAC68P/HelpDesk_BIOS/ 385_20253 Now RT-AC68R https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20253 Now RT-AC68RF https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20253 Now RT-AC68RW https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20253 Now RT-AC68U https://www.asus.com/Networking/RTAC68U/HelpDesk_BIOS/ 385_20253 Now RT-AC68U_WHITE https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 385_20253 Now RT-AC68W https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 385_20253 Now ZenWiFi XT8 https://www.asus.com/Networking/ZenWiFi-AX-XT8/HelpDesk_BIOS/ 386_25217 Now RT-AX88U https://www.asus.com/Networking/RT-AX88U/HelpDesk_BIOS/ 3.0.0.4.384.7997 Now RT-AX92U https://www.asus.com/Networking/RT-AX92U/HelpDesk_BIOS/ 3.0.0.4.384.8681 Now GT-AX11000 https://www.asus.com/us/Networking/ROG-Rapture-GT-AX11000/HelpDesk_BIOS/ 3.0.0.4.384.7997 Now RT-AX58U https://www.asus.com/Networking/RT-AX58U/HelpDesk_BIOS/ 3.0.0.4.384.8563 Now RT-AC88U https://www.asus.com/us/Networking/RT-AC88U/HelpDesk_BIOS/ 3.0.0.4.384.81790 Now RT-AC3100 https://www.asus.com/Networking/RT-AC3100/HelpDesk_BIOS/ 3.0.0.4.385.20457 Now RT-AC1200G https://www.asus.com/Networking/RT-AC1200G/HelpDesk_BIOS/ 3.0.0.4.382.51612 Now RT-AC1200G https://www.asus.com/Networking/RT-AC1200G-plus/HelpDesk_BIOS/ 3.0.0.4.382.51612 Now RT-N12 D1 https://www.asus.com/Networking/RTN12_D1/HelpDesk_BIOS/ 3.0.0.4.380.8292 Now <br>
+<br> 03/09/2020 <strong>Security Notice for CVE-2018-18287</strong> ∇ <p>
+Since 2018, ASUS has offered a firmware patch for affected routers to address the CVE-2018-18287 vulnerability, among other important security updates.
+All later firmware is unaffected.
+<br>
+<br>
+ASUS recommends all users to always update their routers with the latest firmware.
+If a router’s firmware is not updated then ASUS strongly recommends to disable remote access from WAN or AiCloud, as well as resetting the router to its default settings.
+These steps will maximize security.
+<br>
+<br>
+Users who have already installed the latest firmware version may disregard this notice.
+<br>
+<br>
+For any questions or concerns, please contact ASUS via our Security Advisory reporting system: https://www.asus.com/securityadvisory/
+<br>
+<br>
+For further help with router setup and an introduction to network security, please visit:<br>https://www.asus.com/support/FAQ/1008000<br>https://www.asus.com/support/FAQ/1039292
+</p>
+Model name Support site path Firmware version Ready time RT-AC58U https://www.asus.com/Networking/RT-AC58U/HelpDesk_Download/ 382_51939 now RT-ACRH13 https://www.asus.com/us/Networking/RT-ACRH13/HelpDesk_Download/ 382_51939 now RT-AC1750_B1 https://www.asus.com/supportonly/RT-AC1750_B1/HelpDesk_BIOS/ 385_20252 now RT-AC1900 https://www.asus.com/Networking/RT-AC1900/HelpDesk_BIOS/ 385_20252 now RT-AC1900P https://www.asus.com/Networking/RT-AC1900P/HelpDesk_BIOS/ 385_20252 now RT-AC1900U https://www.asus.com/Networking/RT-AC1900U/HelpDesk_BIOS/ 385_20252 now RT-AC3200 https://www.asus.com/Networking/RTAC3200/HelpDesk_BIOS/ 382_51939 now RT-AC51U https://www.asus.com/Networking/RTAC51U/HelpDesk_BIOS/ 380_8497 now RT-AC51U+ https://www.asus.com/Networking/RT-AC51U-plus/HelpDesk_BIOS/ 380_10875 now RT-AC52U B1 https://www.asus.com/Networking/RT-AC52U-B1/HelpDesk_Download/ 380_10875 now RT-AC66U https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51641 now RT-AC66U B1 https://www.asus.com/Networking/RT-AC66U-B1/HelpDesk_BIOS/ 385_20252 now RT-AC66U_WHITE https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51641 now RT-AC68P https://www.asus.com/Networking/RTAC68P/HelpDesk_BIOS/ 385_20252 now RT-AC68R https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20252 now RT-AC68RF https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20252 now RT-AC58U https://www.asus.com/Networking/RT-AC58U/HelpDesk_Download/ 382_51939 now RT-ACRH13 https://www.asus.com/us/Networking/RT-ACRH13/HelpDesk_Download/ 382_51939 now RT-AC1750_B1 https://www.asus.com/supportonly/RT-AC1750_B1/HelpDesk_BIOS/ 385_20252 now RT-AC1900 https://www.asus.com/Networking/RT-AC1900/HelpDesk_BIOS/ 385_20252 now RT-AC1900P https://www.asus.com/Networking/RT-AC1900P/HelpDesk_BIOS/ 385_20252 now RT-AC1900U https://www.asus.com/Networking/RT-AC1900U/HelpDesk_BIOS/ 385_20252 now RT-AC3200 https://www.asus.com/Networking/RTAC3200/HelpDesk_BIOS/ 382_51939 now RT-AC51U https://www.asus.com/Networking/RTAC51U/HelpDesk_BIOS/ 380_8497 now RT-AC51U+ https://www.asus.com/Networking/RT-AC51U-plus/HelpDesk_BIOS/ 380_10875 now RT-AC52U B1 https://www.asus.com/Networking/RT-AC52U-B1/HelpDesk_Download/ 380_10875 now RT-AC66U https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51641 now RT-AC66U B1 https://www.asus.com/Networking/RT-AC66U-B1/HelpDesk_BIOS/ 385_20252 now RT-AC66U_WHITE https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51641 now RT-AC68P https://www.asus.com/Networking/RTAC68P/HelpDesk_BIOS/ 385_20252 now RT-AC68R https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20252 now RT-AC68RF https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 385_20252 now <br>
+<br> 02/14/2020 <strong>ROG Gaming Center Package Security Update</strong> ∇ <p>
+ASUS update the ROG Gaming Center Package that includes important security updates.<br>
+ASUS would like to thank Eli Paz from CyberArk Labs for the assistance with this security update.
+</p> 11/29/2019 <strong> New BIOS for ASUS X299 Motherboards Will Be Released Shortly in Response to Intel’s Microcode Update</strong> 11/26/2019 <strong>New firmware update for wireless router RT-AC1750_B1/RT-AC1900/RT-AC1900P/RT-AC1900U/RT-AC86U/RT-AC2900/RT-AC3100/RT-AC3200/RT-AC51U/RT-AC51U+/RT-AC52U B1/RT-AC66U/RT-AC66U B1/RT-AC66U_WHITE/RT-AC67U/RT-AC68P/RT-AC68R/RT-AC68RF/RT-AC68RW/RT-AC68U/RT-AC68U 2 Pack/RT-AC68U_WHITE/RT-AC68W/RT-AC750/RT-AC87R/RT-AC87U/RT-AC87W/RT-N66U/RT-N66U_C1/RT-N14U</strong> ∇ <p>
+ASUS is releasing a firmware update for selected routers.
+Our most recent firmware update contains enhanced security protections against unauthorized access, alteration, disclosure of data, malware, phishing and DDoS attacks.
+<br>
+<br>
+We strongly encourage you to periodically audit both your equipment and your security procedures, as this will ensure that you will be better protected against unwanted intrusion.
+As a user of an ASUS router, we advise taking the following actions:
+</p>
+<ol>
+<li>Update your router to the latest firmware.
+We strongly recommend that you do so as soon as new firmware is released.
+You will find the latest firmware available for download from the ASUS support page at https://www.asus.com/support/ or the appropriate product page at https://www.asus.com/Networking/.
+ASUS has provided a link to new firmware for selected routers at the end of this notice.</li>
+<li>Set up separate passwords for your wireless network and router-administration page.
+Use passwords with a length of at least eight characters, including a mix of capital letters, numbers and symbols.
+Do not use the same password for multiple devices or services.</li>
+<li>Enable ASUS AiProtection, if your router supports this feature.
+Instructions on how to do this can be found in your router’s manual, or on the relevant ASUS support page, at https://www.asus.com/Networking/.</li>
+</ol>
+<br>
+<br>
+<p>
+Please note that if you choose not to install this new firmware version then, to avoid any potential unwanted intrusion, we strongly recommend that you disable remote access from WAN or AiCloud, and reset your router to its default settings.
+<br>
+<br>
+If you have already installed the latest firmware version, please disregard this notice.
+<br>
+<br>
+Should you have any question or concerns, please contact ASUS via our Security Advisory reporting system: https://www.asus.com/securityadvisory/
+<br>
+<br>
+For further help with router setup and an introduction to network security, please visit<br>https://www.asus.com/support/FAQ/1008000<br>https://www.asus.com/support/FAQ/1039292<br>
+</p>
+Model name Support site path Firmware version Ready time RT-AC1750_B1 https://www.asus.com/supportonly/RT-AC1750_B1/HelpDesk_BIOS/ 384_81351 now RT-AC1900 https://www.asus.com/Networking/RT-AC1900/HelpDesk_BIOS/ 384_81351 now RT-AC1900P https://www.asus.com/Networking/RT-AC1900P/HelpDesk_BIOS/ 384_81351 now RT-AC1900U https://www.asus.com/Networking/RT-AC1900U/HelpDesk_BIOS/ 384_81351 now RT-AC86U https://www.asus.com/Networking/RT-AC86U/HelpDesk_BIOS/ 384_81351 now RT-AC2900 https://www.asus.com/Networking/RT-AC2900/HelpDesk_BIOS/ 384_81351 now RT-AC3200 https://www.asus.com/Networking/RTAC3200/HelpDesk_BIOS/ 382_51641 now RT-AC51U https://www.asus.com/Networking/RTAC51U/HelpDesk_BIOS/ 380_8497 now RT-AC51U+ https://www.asus.com/Networking/RT-AC51U-plus/HelpDesk_BIOS/ 380_10875 now RT-AC52U B1 https://www.asus.com/Networking/RT-AC52U-B1/HelpDesk_Download/ 380_10875 now RT-AC66U https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51634 now RT-AC66U B1 https://www.asus.com/Networking/RT-AC66U-B1/HelpDesk_BIOS/ 384_81351 now RT-AC66U_WHITE https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 384_81351 now RT-AC67U https://www.asus.com/Networking/AiMesh-AC1900-WiFi-System-RT-AC67U-2-Pack/HelpDesk_BIOS/ 384_81351 now RT-AC68P https://www.asus.com/Networking/RTAC68P/HelpDesk_BIOS/ 384_81351 now RT-AC68R https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_81351 now RT-AC68RF https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_81351 now RT-AC68RW https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_81351 now RT-AC68U https://www.asus.com/Networking/RTAC68U/HelpDesk_BIOS/ 384_81351 now RT-AC68U 2 Pack https://www.asus.com/Networking/AiMesh-AC1900-WiFi-System-RT-AC68U-2-Pack/HelpDesk_BIOS/ 384_81351 now RT-AC68U_WHITE https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 384_81351 now RT-AC68W https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 384_81351 now RT-AC750 https://www.asus.com/supportonly/RT-AC750/HelpDesk_BIOS/ 380_8497 now RT-AC87R https://www.asus.com/us/supportonly/RT-AC87R/HelpDesk_BIOS/ 382_51641 now RT-AC87U https://www.asus.com/Networking/RTAC87U/HelpDesk_BIOS/ 382_51641 now RT-AC87W https://www.asus.com/Networking/RTAC87U/HelpDesk_BIOS/ 382_51641 now RT-N66U https://www.asus.com/Networking/RTN66U/HelpDesk_BIOS/ 382_51641 now RT-N66U_C1 https://www.asus.com/Networking/RT-N66U-C1/HelpDesk_BIOS/ 384_81351 now RT-N14U https://www.asus.com/Networking/RTN14U/HelpDesk_BIOS/ 380_8497 now <br>
+<br> 11/15/2019 <strong>Important information about ASUSWRT security:</strong> ∇ <ol>
+<li>ASUSWRT is the name of the router’s firmware and web interface.
+It does not refer to any iOS, iPadOS or Android app.</li>
+<li>ASUS engineers performed internal tests on ASUSWRT using simulated data and there wasn’t any real user data involved in the process.
+The test is now over and the server has been taken offline since.</li>
+<li>Any reports alleging the application of real user data during the ASUSWRT test are inaccurate and misleading.</li>
+</ol>
+<p>
+If there are any questions or concerns, please contact ASUS via our Security Advisory reporting system: https://www.asus.com/securityadvisory/<br>
+<br>
+For further help with router setup and an introduction to network security, please visit https://www.asus.com/support/FAQ/1039292
+</p> 10/21/2019 <strong>ATK Package Security Update (CVE-2019-19235) for ASUS Notebook PCs</strong> ∇ <p>Vulnerability:CVE-2019-19235</p>
+<p>AsLdrSrv.exe in ASUS ATK Package before V1.0.0061 (for Windows 10 notebook PCs) could lead to unsigned code execution with no additional execution.
+The user must put an application at a particular path, with a particular file name.</p>
+<p>ASUS has released a new version (1.0.0061) of ATK Package for Win 10 notebook PCs that includes important security updates.
+ASUS recommends that users with Win 10 notebook PCs running ATK Package version 1.0.0060 and all prior versions update to the latest version.
+To check the installed version of ATK Package and to download the latest version, visit https://www.asus.com/support/faq/1041545.
+<br>
+<br>
+ASUS would like to thank Peleg Hadar from SafeBreach Labs for the assistance with this security update.
+</p> 06/14/2019 <strong>BIOS Update Announcement for ASUS Notebook PCs</strong> ∇ <p>ASUS has released a BIOS update for notebook PCs to ensure a more secure and convenient computing experience.
+This update only affects users who currently have a password for their BIOS or hard drive.
+Concerned users with a password should install the new BIOS update via Windows Update or refer to the instruction from https://www.asus.com/support/FAQ/1040162.
+<br>
+*ASUS would like to thank Frédéric Vachon from ESET for helping find out this issue.
+</p> 05/16/2019 <strong>New firmware update for wireless router RT-AC1750_B1/RT-AC1900/RT-AC1900P/RT-AC1900U/RT-AC2900/RT-AC3100/RT-AC3200/RT-AC51U/RT-AC5300/RT-AC56S/RT-AC56U/RT-AC66U/RT-AC66U B1/RT-AC66U_WHITE/RT-AC67U/RT-AC68P/RT-AC68R/RT-AC68RF/RT-AC68RW/RT-AC68U/RT-AC68U 2 Pack/RT-AC68U_WHITE/RT-AC68W/RT-AC750/RT-AC86U/RT-AC87R/RT-AC87U/RT-AC87W/RT-AC88U/RT-N18U/RT-N66U/RT-N66U_C1</strong> ∇ <p>
+ASUS is releasing a firmware update for selected routers.
+Our most recent firmware update contains enhanced security protections against unauthorized access, alteration, disclosure of data, malware, phishing and DDoS attacks.
+<br>
+<br>
+We strongly encourage you to periodically audit both your equipment and your security procedures, as this will ensure that you will be better protected against unwanted intrusion.
+As a user of an ASUS router, we advise taking the following actions:
+</p>
+<ol>
+<li>Update your router to the latest firmware.
+We strongly recommend that you do so as soon as new firmware is released.
+You will find the latest firmware available for download from the ASUS support page at https://www.asus.com/support/ or the appropriate product page at https://www.asus.com/Networking/.
+ASUS has provided a link to new firmware for selected routers at the end of this notice.</li>
+<li>Set up separate passwords for your wireless network and router-administration page.
+Use passwords with a length of at least eight characters, including a mix of capital letters, numbers and symbols.
+Do not use the same password for multiple devices or services.</li>
+<li>Enable ASUS AiProtection, if your router supports this feature.
+Instructions on how to do this can be found in your router’s manual, or on the relevant ASUS support page, at https://www.asus.com/Networking/.</li>
+</ol>
+<br>
+<br>
+<p>
+Please note that if you choose not to install this new firmware version then, to avoid any potential unwanted intrusion, we strongly recommend that you disable remote access from WAN or AiCloud, and reset your router to its default settings.
+<br>
+<br>
+If you have already installed the latest firmware version, please disregard this notice.
+<br>
+<br>
+Should you have any question or concerns, please contact ASUS via our Security Advisory reporting system: https://www.asus.com/securityadvisory/
+<br>
+<br>
+For further help with router setup and an introduction to network security, please visit<br>https://www.asus.com/support/FAQ/1008000<br>https://www.asus.com/support/FAQ/1039292<br>
+</p>
+Model name Support site path Firmware version Ready time RT-AC1750_B1 https://www.asus.com/supportonly/RT-AC1750_B1/HelpDesk_BIOS/ 384_45717 now RT-AC1900 https://www.asus.com/Networking/RT-AC1900/HelpDesk_BIOS/ 384_45717 now RT-AC1900P https://www.asus.com/Networking/RT-AC1900P/HelpDesk_BIOS/ 384_45717 now RT-AC1900U https://www.asus.com/Networking/RT-AC1900U/HelpDesk_BIOS/ 384_45717 now RT-AC2900 https://www.asus.com/Networking/RT-AC2900/HelpDesk_BIOS/ 384_45717 now RT-AC3100 https://www.asus.com/Networking/RT-AC3100/HelpDesk_BIOS/ 384_45717 now RT-AC3200 https://www.asus.com/Networking/RTAC3200/HelpDesk_BIOS/ 382_51634 now RT-AC51U https://www.asus.com/Networking/RTAC51U/HelpDesk_BIOS/ 380_8496 now RT-AC5300 https://www.asus.com/Networking/RT-AC5300/HelpDesk_BIOS/ 384_45717 now RT-AC56S https://www.asus.com/Networking/RTAC56S/HelpDesk_BIOS/ 382_51634 now RT-AC56U https://www.asus.com/Networking/RTAC56U/HelpDesk_BIOS/ 382_51634 now RT-AC66U https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51634 now RT-AC66U B1 https://www.asus.com/Networking/RT-AC66U-B1/HelpDesk_BIOS/ 384_45717 now RT-AC66U_WHITE https://www.asus.com/Networking/RTAC66U/HelpDesk_BIOS/ 382_51634 now RT-AC67U https://www.asus.com/Networking/AiMesh-AC1900-WiFi-System-RT-AC67U-2-Pack/HelpDesk_BIOS/ 384_45717 now RT-AC68P https://www.asus.com/Networking/RTAC68P/HelpDesk_BIOS/ 384_45717 now RT-AC68R https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_45717 now RT-AC68RF https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_45717 now RT-AC68RW https://www.asus.com/supportonly/RT-AC68R/HelpDesk_BIOS/ 384_45717 now RT-AC68U https://www.asus.com/Networking/RTAC68U/HelpDesk_BIOS/ 384_45717 now RT-AC68U 2 Pack https://www.asus.com/Networking/AiMesh-AC1900-WiFi-System-RT-AC68U-2-Pack/HelpDesk_BIOS/ 384_45717 now RT-AC68U_WHITE https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 384_45717 now RT-AC68W https://www.asus.com/us/Networking/RTAC68W/HelpDesk_BIOS/ 384_45717 now RT-AC750 https://www.asus.com/supportonly/RT-AC750/HelpDesk_BIOS/ 380_8496 now RT-AC86U https://www.asus.com/Networking/RT-AC86U/HelpDesk_BIOS/ 384_45717 now RT-AC87R https://www.asus.com/us/supportonly/RT-AC87R/HelpDesk_BIOS/ 382_51634 now RT-AC87U https://www.asus.com/Networking/RTAC87U/HelpDesk_BIOS/ 382_51634 now RT-AC87W https://www.asus.com/Networking/RTAC87U/HelpDesk_BIOS/ 382_51634 now RT-AC88U https://www.asus.com/Networking/RT-AC88U/HelpDesk_BIOS/ 384_45717 now RT-N18U https://www.asus.com/supportonly/RT-N18U/HelpDesk_BIOS/ 382_51634 now RT-N66U https://www.asus.com/Networking/RTN66U/HelpDesk_BIOS/ 382_51636 now RT-N66U_C1 https://www.asus.com/Networking/RT-N66U-C1/HelpDesk_BIOS/ 384_45717 now <br>
+<br> 05/02/2019 <strong>Latest software announcement for ZenFone devices</strong> ∇ <p>ASUS is aware of the vulnerability listed below.
+We take your security seriously and are working diligently to provide a software update for the affected ZenFone models.
+Please update your ZenFone to the latest software version as soon as it becomes available.
+In the meantime, we highly recommended using ASUS Mobile Manager or installing another reliable third-party security app to further secure your devices.<br>
+<br>
+Possible vulnerability:<br>
+ASUS Contact
+</p>
+<ul>
+<li>Private contacts’ user profiles (name, call log, settings) are liable to be accessed, added or deleted.</li>
+<li>Information of blacklist (blocked phone numbers) is liable to be accessed, added or deleted.</li>
+</ul>
+<br>
+ASUS Message
+<ul>
+<li>Private message may be leaked.</li>
+<li>Any apps can send voice messages without user’s permission.</li>
+</ul>
+<br>
+ASUS Launcher
+<ul>
+<li>No permissions required to unlock app</li>
+</ul>
+<p>
+The following are some security precautions recommended for all users:<br>
+(1) Ensure your operating system and software up to date with the latest version, which you can find on the ASUS website (www.asus.com).
+Using the search tool located on the top right hand of the ASUS website, search for your device model, and then follow this path: <strong>Support &gt.
+Driver &amp.
+Utility &gt.
+Driver &amp.
+Tools &gt.
+BIOS &amp.
+Firmware.</strong> Here you can double check if the latest version is the same on your device or you can choose to download it in the event your device did not automatically update.<br>
+(2) Do not download any apps outside of Google Play.<br>
+(3) Uninstall all apps previously downloaded from non-Google Play sources.<br>
+(4) Install ASUS Mobile Manager or a reliable third-party security app to strengthen the security of your devices and applications.
+</p>
+<br> 04/13/2019 <strong> ASUS Certificate Maintenance Advisory – Motherboards, Graphics Cards, Mini PCs, Workstations and Servers</strong> 03/26/2019 <strong>ASUS response to the recent media reports regarding ASUS Live Update tool attack by Advanced Persistent Threat (APT) groups</strong> 08/14/2018 <strong>Security advisory for OpenVPN server</strong> ∇ <p>Vulnerability: OpenVPN users are able to log in to the web UI with their password<br>
+<br>
+Solution: <br>
+<strong>Please immediately update ASUS router's firmware</strong>
+<br>
+If a firmware update cannot be made the mitigations listed below should be applied, however it’s strongly advised the user updates the firmware at the earliest opportunity:<br>
+• Disable VPN (available on limited models)<br>
+• Change login ID &amp.
+password again.
+The password should be at least 8 characters using a mix of letters, numbers and special symbols.<br>
+<br>
+Affected Products<br>
+Model Firmware(Minimum Recommended Version)<br>
+BRT-AC828 3.0.0.4.380.7526<br>
+GT-AC5300 3.0.0.4.384.21045<br>
+RT-AC5300 3.0.0.4.384.20942<br>
+RT-AC88U 3.0.0.4.384.20942<br>
+RT-AC3200 3.0.0.4.382.50470<br>
+RT-AC3100 3.0.0.4.384.20942<br>
+RT-AC88U 3.0.0.4.382.50702<br>
+RT-AC88R 3.0.0.4.382.50702<br>
+RT-AC86U 3.0.0.4.384.21045<br>
+RT-AC2900 3.0.0.4.384.21045<br>
+RT-AC68U 3.0.0.4.384.20942<br>
+RT-AC68R 3.0.0.4.384.20942<br>
+RT-AC68P 3.0.0.4.384.20942<br>
+RT-AC68W 3.0.0.4.384.20942<br>
+RT-AC68UF 3.0.0.4.384.20942<br>
+RT-AC1900U 3.0.0.4.384.20942<br>
+RT-AC1900 3.0.0.4.384.20942<br>
+RT-AC56U 3.0.0.4.382.50624<br>
+RT-AC56S 3.0.0.4.382.50624<br>
+RT-AC66U_B1 3.0.0.4.384.20942<br>
+RT-AC1750_B1 3.0.0.4.384.20942<br>
+RT-AC66U 3.0.0.4.382.50470<br>
+RT-AC66R 3.0.0.4.382.50470<br>
+RT-AC66W 3.0.0.4.382.50470<br>
+RT-AC55UHP 3.0.0.4.382.50470<br>
+RT-AC55U 3.0.0.4.382.50470<br>
+RT-AC1200G 3.0.0.4.382.50624<br>
+RT-AC1200G+ 3.0.0.4.382.50624<br>
+RT-N800HP 3.0.0.4.382.50470<br>
+RT-N66U_C1 3.0.0.4.384.20942<br>
+RT-N66U 3.0.0.4.382.50470<br>
+RT-N18U 3.0.0.4.382.50470<br>
+Lyra 3.0.0.4.382.11600<br>
+Lyra mini 3.0.0.4.382.11600<br>
+Lyra Trio 3.0.0.4.382.20208<br>
+BlueCave 3.0.1.4.383.19267<br>
+</p>
+<br> 08/07/2018 <strong>Latest software announcement for ZenFone/ZenPad devices</strong> ∇ <p>ASUS is aware of the vulnerability listed below.
+We take your security seriously and are working diligently to provide a software update for the affected ZenFone/ZenPad models.
+Please update your ZenFone/ZenPad to the latest software version as soon as it becomes available.
+In the meantime, we highly recommended using ASUS Mobile Manager or installing another reliable third-party security app to further secure your devices.<br>
+<br>
+Possible vulnerability:<br>
+• A malicious app can get a bug report.<br>
+• A malicious app can take a screenshot (with a screenshot animation).<br>
+• Arbitrary apps can be installed remotely over the internet and can also be uninstalled after being run.<br>
+• Commands can be executed as the system user.<br>
+<br>
+The following are some security precautions recommended for all users:<br>
+(1) Ensure your operating system and software up to date with the latest version, which you can find on the ASUS website (www.asus.com).
+Using the search tool located on the top right hand of the ASUS website, search for your device model, and then follow this path: <strong>Support &gt.
+Driver &amp.
+Utility &gt.
+Driver &amp.
+Tools &gt.
+BIOS &amp.
+Firmware</strong>.
+Here you can double check if the latest version is the same on your device or you can choose to download it in the event your device did not automatically update.
+<br>
+(2) Do not download any apps outside of Google Play.<br>
+(3) Uninstall all apps previously downloaded from non-Google Play sources.<br>
+(4) Install ASUS Mobile Manager or a reliable third-party security app to strengthen the security of your devices and applications.<br>
+</p> 06/08/2018 <strong>Security advisory for VPNFilter malware</strong> ∇ <p>Talos Intelligence recently discovered that VPNFilter is targeting more makes and models than initial release, and the following ASUS routers may be potential targets:<br>
+RT-AC66U<br>
+RT-N10 (EOL)<br>
+RT-N10E (EOL)<br>
+RT-N10U (EOL)<br>
+RT-N56U (EOL)<br>
+RT-N66U<br>
+<br>
+To help owners of these routers take necessary precautions, we compiled a security checklist:<br>
+(1) Reset the device to factory default: Hold the Reset button in the rear for at least five seconds until the power LED starts blinking.<br>
+(2) Update all devices to the latest firmware.<br>
+(3) Ensure default admin password had been changed to a more secure one.
+<br>
+(4) Disable Remote Management (disabled by default, can only be enabled via Advanced Settings).<br>
+(5) Enable the URL filter in the Advanced Settings -&gt.
+Firewall.
+Set the Filter table type as Black List.
+Add the "photobucket" and "toknowall" in the URL filter list.
+<br>
+<br>
+For any users with the EOL models listed above, we strongly advise upgrading to a router with AiProtection.
+A wide selection of ASUS and ROG routers offer AiProtection powered by Trend Micro™.
+Anytime a threat is detected, the connection between your device and the malicious server is blocked before any personal data is compromised.
+The list of malicious servers is constantly updated by syncing with the Trend Micro cloud database automatically, to ensure your network environment is secure around the clock.
+</p> 04/03/2018 <strong>Security Vulnerability Notice (CVE-2018-5999, CVE-2018-6000) for ASUS routers</strong> ∇ <p>
+Vulnerability: CVE-2018-5999, CVE-2018-6000<br>
+<br>
+ASUS and ROG router products affected are shown in a list below.<br>
+<br>
+This vulnerability bypasses any user/password changes made by the owner.<br>
+Possible changes to router settings:</p>
+<ul>
+<li>Port number changes</li>
+<li>VPN account &amp.
+password changes</li>
+<li>DDNS changes</li>
+<li>The UI language has changed</li>
+</ul>
+<br>
+<p>
+Solution: <br>
+<strong>Please immediately update your ASUS and ROG router to the latest firmware available.</strong>
+<br>
+If a firmware update cannot be made the mitigations listed below should be applied, however it’s strongly advised the user updates the firmware at the earliest opportunity:
+</p>
+<ul>
+<li>Disable SSH / Telnet</li>
+<li>Disable VPN (available on limited models)</li>
+<li>Enable AiProtection (available on limited models)</li>
+<li>Change login ID &amp.
+password again.
+The password should be at least 8 characters using a mix of letters, numbers and special symbols.</li>
+</ul>
+<br>Affected Products:
+Model Firmware (Minimum Recommended Version) BRT-AC828 3.0.0.4.380.7432 GT-AC5300 3.0.0.4.384.20287 RT-AC5300 3.0.0.4.384.20287 RT-AC88U 3.0.0.4.384.10007 RT-AC3100 3.0.0.4.384.10007 RT-AC86U 3.0.0.4.384.10007 RT-AC2900 3.0.0.4.384.10007 RT-AC68 series 3.0.0.4.384.10007 RT-AC1900 series 3.0.0.4.384.10007 RT-AC66U_B1 3.0.0.4.384.10007 RT-AC1750_B1 3.0.0.4.384.10007 RT-AC87 series 3.0.0.4.382.50010 RT-AC3200 3.0.0.4.382.50010 RT-AC56U 3.0.0.4.382.50010 RT-AC55U 3.0.0.4.382.50018 RT-AC1200 3.0.0.4.380.10446 RT-N18U 3.0.0.4.382.39935 RT-AC51U+ 3.0.0.4.380.10446 RT-AC52U_B1 3.0.0.4.380.10446 Lyra 3.0.0.4.382.11572 Lyra mini 3.0.0.4.382.11572 RT-AC66U 3.0.0.4.380.8228 RT-N66U 3.0.0.4.380.8228 RT-N600 3.0.0.4.380.10446 RT-AC1200GU 3.0.0.4.380.10446 RT-AC1200G 3.0.0.4.382.50276 RT-AC1200G+ 3.0.0.4.382.50276 RT-AC53 3.0.0.4382.10446 RT-AC750GF 3.0.0.4382.10446 RT-AC53U 3.0.0.4.380.8228 RT-N12_D1 3.0.0.4.380.8228 RT-N12HP_B1 3.0.0.4.380.8228 RT-AC56S 3.0.0.4.382.50624 RT-N14U 3.0.0.4.380.8285 RT-N14UHP 3.0.0.4.380.8287 RT-AC54U 3.0.0.4.380.8228 RT-ACRH17 3.0.0.4.382.50243 RT-AC55UHP 3.0.0.4.382.50276 RT-N300 3.0.0.4.380.8228 RT-AC1200HP 3.0.0.4.380.8228 RT-AC51U 3.0.0.4.380.8228 RT-AC750 3.0.0.4.380.8228 RT-AC52U 3.0.0.4.380.8241 RT-AC58U 3.0.0.4.380.8228 RT-ACRH13 3.0.0.4.380.8228 RT-AC1300UHP 3.0.0.4.380.8228 RT-N11P_B1 3.0.0.4.380.10410 RT-N300_B1 3.0.0.4.380.10410 RT-N12 VP_B1 3.0.0.4.380.10410 RT-N12+ B1 3.0.0.4.380.10410 RT-N12+ PRO 3.0.0.4.380.10410 RT-N12E C1 3.0.0.4.380.10410 <br>
+<br> 01/05/2018 <strong>ASUS Motherboards Microcode Update for Speculative Execution and Indirect Branch Prediction Side Channel Analysis Method</strong> 12/30/2017 New firmware available for
+Wireless Router GT-AC5300/
+RT-AC5300/
+RT-AC88U/
+RT-AC3100/
+RT-AC87U/
+RT-AC87R/
+RT-AC3200/
+RT-AC86U/
+RT-AC68 series/
+RT-AC55U/
+RT-N18U/
+<br>
+12/01/2017 <strong>Motherboards Update on Intel ME/TXE Advisory</strong> 10/31/2017 <strong>Update on security advisory for the vulnerability of WPA2 protocol</strong> ∇ <p>
+ASUS is working closely with chipset suppliers to resolve the vulnerability in the WPA2 security protocol, which affects some but not all ASUS products (check the list below).
+KRACK can exploit the vulnerability only under certain conditions highlighted in the previous update.
+Your network configuration is more secure when under these conditions:<br>
+<br>
+(1) Routers and gateways working in their default mode (Router Mode) and AP Mode.<br>
+(2) Range extenders working in AP Mode.
+<br>
+(3) When Powerline adapters and switch products are used.
+<br>
+<br>
+ASUS is working actively towards a solution, and will continue to post software updates.
+Find out more: https://www.asus.com/support/ <br>
+<br>
+Full list of routers unaffected by KRACK while in default mode: <br>
+GT-AC5300<br>
+RT-AC1200<br>
+RT-AC1200G<br>
+RT-AC1200G Plus<br>
+RT-AC1200HP<br>
+RT-AC1300HP<br>
+RT-AC1900<br>
+RT-AC1900P<br>
+RT-AC3100<br>
+RT-AC3200<br>
+RT-AC51U<br>
+RT-AC52U<br>
+RT-AC53<br>
+RT-AC5300<br>
+RT-AC53U<br>
+RT-AC54U<br>
+RT-AC55U<br>
+RT-AC55UHP<br>
+RT-AC56S<br>
+RT-AC56U<br>
+RT-AC58U<br>
+RT-AC66U<br>
+RT-AC66U B1<br>
+RT-AC66W<br>
+RT-AC68P<br>
+RT-AC68UF<br>
+RT-AC68W<br>
+RT-AC86U<br>
+RT-AC87U<br>
+RT-AC88U<br>
+RT-ACRH17<br>
+RT-ACRH13<br>
+RT-N10P V3<br>
+RT-N11P B1<br>
+RT-N12 D1<br>
+RT-N12 VP B1<br>
+RT-N12+<br>
+RT-N12+ B1<br>
+RT-N12E C1<br>
+RT-N12E_B1<br>
+RT-N12HP B1<br>
+RT-N14U<br>
+RT-N14UHP<br>
+RT-N16<br>
+RT-N18U<br>
+RT-N300 B1<br>
+RT-N56U<br>
+RT-N56U B1<br>
+RT-N65U<br>
+RT-N66U<br>
+RT-N66W<br>
+BRT-AC828<br>
+DSL-AC87VG<br>
+DSL-AC52U<br>
+DSL-AC55U<br>
+DSL-AC56U<br>
+DSL-AC68R<br>
+DSL-AC68U<br>
+DSL-N10_C1<br>
+DSL-N12E_C1<br>
+DSL-N12HP<br>
+DSL-N12U<br>
+DSL-N12U B1<br>
+DSL-N12U D1<br>
+DSL-N12U_C1<br>
+DSL-N14U<br>
+DSL-N14U B1<br>
+DSL-N16<br>
+DSL-N16U<br>
+DSL-N17U<br>
+DSL-N55U D1<br>
+DSL-N55U_C1<br>
+4G-AC68U<br>
+RT-AC65U<br>
+RT-AC85U
+</p> 10/18/2017 <strong>Security advisory for the vulnerabilities of WPA2 protocol</strong> ∇ <p>
+ASUS is aware of the recent WPA2 vulnerability issue.
+We take your security and privacy seriously and are currently working towards a full solution as quickly as possible.
+In the meantime, we want to help clarify the severity of the potential threat, and let our valued customers know the appropriate steps to take in order to avoid or lessen the threat of being compromised.
+<br>
+<br>
+Your devices are only vulnerable if an attacker is in physical proximity to your wireless network and is able to gain access to it.
+This exploit cannot steal your banking information, passwords, or other data on a secured connection that utilizes proper end-to-end encryption.
+However, an attacker could capture and read this information on an unsecured connection via an exploited WiFi network.
+Depending on the network configuration, it is also possible for the attacker to redirect network traffic, send invalid data to devices or even inject malware into the network.
+<br>
+<br>
+We are feverishly working with chipset suppliers to resolve this vulnerability and will release patched firmware for affected routers in the near future.
+Before this patched firmware is released, here are a few cautions all users should take:
+<br>
+<br>
+(1) Avoid public Wi-Fi and Hotspots until the routers and your devices are updated.
+Use cellular network connections if possible.
+<br>
+(2) Only connect to secured services that you trust or have been verified.
+Web pages that use HTTPS or another secure connection will include HTTPS in the URL.
+If the connection is secured using TLS 1.2 your activities with that service is safe for now.
+<br>
+(3) Keep your operating system and antivirus software up-to-date.
+Microsoft recently updated Windows to fix this exploit on their latest operating systems.
+Google and Apple are following suit shortly.
+<br>
+(4) When in doubt, be safe and use your cellular network or a wired connection (Ethernet) to access the internet.
+This exploit only affects 802.11 traffic between a Wi-Fi router and a connected device on an exploited WiFi connection.
+</p> 04/26/2017 New firmware available for
+Wireless Router RT-AC88U/
+Wireless Router RT-AC66U B1
+<br>
+04/24/2017 New firmware available for
+Wireless Router RT-AC5300/
+Wireless Router RT-AC3100
+<br>
+04/14/2017 New firmware available for
+Wireless Router RT-AC53
+<br>
+03/31/2017 New firmware available for
+Wireless Router RT-AC87U/
+RT-AC87R/
+RT-AC3200/
+RT-AC68U/
+RT-AC68R/
+RT-AC68W/
+RT-AC68P/
+RT-AC1900P/
+RT-AC66U/
+RT-AC66R/
+RT-AC1750/
+RT-AC56U/
+RT-AC56R/
+RT-N66U/
+RT-N66R/
+RT-N66W/
+RT-AC53U/
+RT-AC51U/
+RT-AC750/
+RT-N300/
+RT-N11P/
+RT-N12+/
+RT-N12+ Pro/
+RT-N12E B1/
+<br>
+03/24/2017 New software available for
+Wireless Adapter PCE-AC56
+<br>
+12/23/2016 New firmware available for
+Wireless Router RT-AC5300 /
+RT-AC88U /
+RT-AC3100 /
+RT-AC3200 /
+RT-AC87U /
+RT-AC87R /
+RT-AC66U /
+RT-AC66W /
+RT-AC1750 /
+RT-AC55UHP /
+RT-AC55U /
+RT-AC52U /
+RT-N56U /
+RT-N12 D1
+<br>
+12/13/2016 New firmware available for
+Wireless Router RT-AC68U /
+RT-AC68R /
+RT-AC68W /
+RT-AC68UF /
+RT-AC68P /
+RT-AC1900P /
+RT-AC1900 /
+RT-AC66U_B1
+<br>
+10/29/2016 New firmware available for
+Repeater RP-N12 /
+RP-N14 /
+RP-N53 /
+RP-AC52/
+RP-AC56/
+Media Bridge EA-N66/
+EA-N66R <br>
+<p>10/17/2016 New ATK driver available for
+Notebook K53SV <br>
+09/10/2016 New firmware available for Wireless Router RT-AC66U /
+RT-AC66R /
+RT-AC66W /
+RT-AC1750
+</p>
+Hall of fame
+<p>We would like to thank the following people have made responsible disclosures to us.
+They were very first reporters to notified qualifying vulnerabilities which consented to be fixed by ASUSTek Computer Inc.
+Thank you and congratulations for demonstrating your technical skill, security knowledge, and responsible behavior.<br>
+</p>
+<strong>2020 ∇</strong>
+<strong>September 2020:</strong>
+<ul>
+<li>Siwong kim (@SNTWORKS)</li>
+<li>Santosh Kumar</li>
+<li>Matt Moran</li>
+<li>Marc Ruef</li>
+<li>Jai Kumar B</li>
+<li>Gal Nagli (@naglinagli)</li>
+<li>Vedant Tekale (@_justynot)</li>
+</ul>
+<strong>August 2020:</strong>
+<ul>
+<li>Prince Prafull</li>
+<li>Gal Nagli</li>
+<li>Ahmad A Abdulla</li>
+<li>Robert Chen</li>
+<li>tejas.pingulkar</li>
+</ul>
+<strong>July 2020:</strong>
+<ul>
+<li>Mritunjay Kumar</li>
+<li>Matt Moran</li>
+<li>Rhitik Wadhvana</li>
+<li>Robert Foggia</li>
+</ul>
+<strong>June 2020:</strong>
+<ul>
+<li>Ahmet Said Göksu</li>
+<li>Amr Al Hallak</li>
+<li>Mehmet Can GÜNEŞ</li>
+<li>Niels Teusink</li>
+<li>Michael van Griensven</li>
+</ul>
+<strong>May 2020:</strong>
+<ul>
+<li>Agrah Jain</li>
+<li> Mehedi Hasan Remon (@mehedi1194)</li>
+<li> Naveen Kumawat (nvk)</li>
+<li> Salonee Jaiswal</li>
+<li>Shankar R</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>April 2020:</strong>
+<ul>
+<li>Jinwei Chen (Bangcle Security)</li>
+<li> SecurityMate (@securitymate)</li>
+<li> Steffin Stanly</li>
+<li> Wai Yan Aung</li>
+</ul>
+<strong>March 2020:</strong>
+<ul>
+<li>Hein HtetAung </li>
+<li>Lütfü Mert Ceylan</li>
+<li>Wai Yan Aung</li>
+<li> Yusuf Kocadaş</li>
+</ul>
+<strong>February 2020:</strong>
+<ul>
+<li>Ishan Anand</li>
+<li> João Varelas</li>
+<li> مصطفى محمود </li>
+<li>Romon Wafa </li>
+<li> Wai Yan Aung</li>
+</ul>
+<strong>January 2020:</strong>
+<ul>
+<li>Joby Y Daniel</li>
+<li>Pritam Mukherjee</li>
+<li>Raphael Karger</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>2019 ∇</strong>
+<strong>December 2019:</strong>
+<ul>
+<li>Sonam Kumar</li>
+<li>pr0v3rbs of KAIST SysSec</li>
+<li>Martin Rakhmanov</li>
+</ul>
+<strong>November 2019:</strong>
+<ul>
+<li>Mustafa Diaa (@c0braBaghdad1)</li>
+<li>Hasnain Shaukat</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>October 2019:</strong>
+<ul>
+<li>Matt Langlois</li>
+<li>Pankaj Kumar Thakur (NEPAL)</li>
+<li>Rafid Hasan Khan</li>
+<li>S Naveen Kumar, Ernst &amp.
+Young (Chennai), Security Analyst</li>
+<li>Satish Khadka</li>
+<li>Sourajeet Majumder</li>
+<li>Wai Yan Aung</li>
+<li>Peleg Hadar from SafeBreach Labs</li>
+</ul>
+<strong>September 2019:</strong>
+<ul>
+<li>Ahmad Halabi</li>
+<li>Moaied Nagi Hassan(moonlight)</li>
+<li>Mustafa Diaa (@c0braBaghdad1 )</li>
+<li>Sourajeet Majumder</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>August 2019:</strong>
+<ul>
+<li>Pankaj Kumar Thakur (Nepal)</li>
+<li>Mustafa Diaa (@c0braBaghdad1 )</li>
+<li>Wai Yan Aung</li>
+<li>Athanasios Tserpelis of Telspace Systems</li>
+</ul>
+<strong>July 2019:</strong>
+<ul>
+<li>Mohammed Ahmad</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>June 2019:</strong>
+<ul>
+<li>Naufal Septiadi</li>
+<li>Sattar Jabbar</li>
+<li>S1mba Lu</li>
+</ul>
+<strong>May 2019:</strong>
+<ul>
+<li>Leron Gray </li>
+<li>Mark Wemhöner</li>
+<li>Matt Cundari</li>
+<li>Abdualrhman Muzamil ( RespondTeam.com )</li>
+<li>Harsh Joshi</li>
+<li>Khun Myat</li>
+<li>Mustafa Diaa (@c0braBaghdad1 )</li>
+<li>Nyi Htet Aung</li>
+<li>Tao SAUVAGE</li>
+<li>Zika Ds</li>
+</ul>
+<strong>April 2019:</strong>
+<ul>
+<li>Aamir Usman Khan </li>
+<li>Khun Myat </li>
+<li>Ko Ko Naing </li>
+<li>Mustafa Diaa ( @c0braBaghdad1 ) </li>
+<li>Nyi Htet Aung </li>
+<li>Pranshu Tiwari </li>
+<li>Tarun Mahour </li>
+<li>Wai Yan Aung </li>
+<li>Tao Sauvage, IOActive, Senior Security Consultant </li>
+</ul>
+<strong>March 2019:</strong>
+<ul>
+<li>Priyanshu Gupta</li>
+<li>Wai Yan Aung</li>
+<li>Talib Osmani</li>
+<li>Javier Aguinaga</li>
+<li>Chaoyi Lu</li>
+<li>Resecurity International</li>
+</ul>
+<strong>February 2019:</strong>
+<ul>
+<li>Salman Sajid Khan</li>
+<li>Tijo Davis</li>
+<li>Roy Solberg</li>
+<li>CodeBreaker of STARLabs</li>
+<li>Ronnie</li>
+</ul>
+<strong>January 2019:</strong>
+<ul>
+<li>Mustafa Kemal Can</li>
+<li>Jesus Arturo Espinoza Soto</li>
+<li>Wai Yan Aung</li>
+<li>JAIMEivanM mendoza ribera</li>
+<li>Suraj Gourkar</li>
+<li>Sabeer Bijapur</li>
+</ul>
+<strong>2018 ∇</strong>
+<strong>December 2018:</strong>
+<ul>
+<li>Hamza Mandil</li>
+<li>bharat</li>
+<li>Mustafa Khan</li>
+<li>AbdelRhman Adel</li>
+<li>Mohammed Adam</li>
+<li>Thejus Krishnan</li>
+</ul>
+<strong>November 2018:</strong>
+<ul>
+<li>Numan ÖZDEMİR</li>
+<li>Hazem Osama</li>
+<li>Pyae Phyoe Thu</li>
+<li>Hein Thant Zin</li>
+<li>Ram Makwana</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>October 2018:</strong>
+<ul>
+<li>Himanshu Rahi</li>
+<li>Ashik S N</li>
+<li>Dhiyaneshwaran</li>
+<li>Wai Yan Aung</li>
+<li>Pratik Raut</li>
+<li>CYBERNETIV DIGITAL</li>
+<li>Duda, Przemyslaw</li>
+</ul>
+<strong>September 2018:</strong>
+<ul>
+<li>Ruikai Liu</li>
+<li>Fakhri Zulkifli</li>
+<li>Matthew Cundari</li>
+<li>Deepanshu Tyagi</li>
+<li>Mayank</li>
+<li>Baiqing Lyu (吕柏庆)</li>
+</ul>
+<strong>August 2018:</strong>
+<ul>
+<li>El-Staifi</li>
+<li>Wai Yan Aung</li>
+<li>Bill Ben Haim</li>
+<li>Sumit Sahoo</li>
+<li>Lakshay Gupta</li>
+<li>tty0</li>
+</ul>
+<strong>July 2018:</strong>
+<ul>
+<li>Rick Ramgattie</li>
+<li>Nishant Saurav</li>
+<li>Mohammed Adel</li>
+<li>Wai Yan Aung</li>
+<li>Pethuraj M</li>
+</ul>
+<strong>June 2018:</strong>
+<ul>
+<li>Lawrence Amer</li>
+<li>Alban Cenaj</li>
+<li>Wai Yan Aung</li>
+</ul>
+<strong>May 2018:</strong>
+<ul>
+<li>Yeasir Arafat</li>
+<li>Anil Tom</li>
+<li>Sara Badran</li>
+</ul>
+<strong>April 2018:</strong>
+<ul>
+<li>Yonghui Han of Fortinet's FortiGuard Labs</li>
+<li>Dmitriy Alekseev</li>
+<li>Fish Getachew</li>
+<li>Nathu Nandwani</li>
+<li>Nicodemo Gawronski &amp.
+Ana Maria Popescu @amiutza</li>
+<li>Diego Juarez from Core Security Technologies for Elevation of Privilege vulnerability in Asus Aura Sync.</li>
+<li>Mohamed A.
+Baset of Seekurity.com SAS de C.V.</li>
+</ul>
+<strong>March 2018:</strong>
+<ul>
+<li>Emad Abou Shanab</li>
+<li>Konduru Jashwanth</li>
+<li>Nikhil Srivastava</li>
+<li>Dan Nino I.
+Fabro.</li>
+<li>Kunal Bahl</li>
+</ul>
+<strong>February 2018:</strong>
+<ul>
+<li>HaoTian Xiang</li>
+<li>Niv Levi</li>
+<li>Chris Wood</li>
+<li>Vasim Shaikh (India)</li>
+<li>Wen Bin Kong</li>
+<li>Florian Kunushevci</li>
+<li>Pritesh Mistry</li>
+<li>Ismail Tasdelen</li>
+</ul>
+<strong>January 2018:</strong>
+<ul>
+<li>Dipak Prajapati</li>
+<li>Vasim Shaikh (India)</li>
+<li>Akaash M.
+Sharma</li>
+<li>Kushal Sharma</li>
+<li>Adesh Nandkishor Kolte</li>
+<li>Chirag Gupta</li>
+<li>Osanda Malith Jayathissa (@OsandaMalith)</li>
+<li>Chacko K Abraham</li>
+<li>Suvadip Kar</li>
+<li>Ankit Singh Nikhil Sahoo and Ipsita Subhadarshan Sahoo</li>
+<li>Yassine Nafiai</li>
+<li>Guy Arazi</li>
+</ul>
+<strong>2017 ∇</strong>
+<strong>December 2017:</strong>
+<ul>
+<li>Blazej Adamczyk</li>
+<li>Joaquim Espinhara</li>
+<li>Beyond Security’s SecuriTeam Secure Disclosure program</li>
+<li>David Maciejak of Fortinet's FortiGuard Labs</li>
+</ul>
+<strong>November 2017:</strong>
+<ul>
+<li>Ketankumar Godhani</li>
+<li>Ankit Singh</li>
+<li>Junaid Farhan</li>
+</ul>
+<strong>October 2017:</strong>
+<ul>
+<li>Daniel Diez</li>
+<li>Sankalpa Nirmana</li>
+<li>Vyshnav Vizz</li>
+</ul>
+<strong>September 2017:</strong>
+<ul>
+<li>Samet Şahin</li>
+<li>Ranjeet Jaiswal</li>
+</ul>
+<strong>August 2017:</strong>
+<ul>
+<li>Yoko</li>
+<li>Sreedeep Ck Alavil</li>
+</ul>
+<strong>April 2017:</strong>
+<ul>
+<li>Cool Alfaiz</li>
+<li>Manav Infosec</li>
+<li>Mohammad Abdullah</li>
+</ul>
+<strong>March 2017:</strong>
+<ul>
+<li>Cool Alfaiz</li>
+</ul>
+<strong>January 2017:</strong>
+<ul>
+<li>CDL</li>
+</ul>
+<strong>2016 ∇</strong>
+<strong>December 2016:</strong>
+<ul>
+<li>Kishan Kumar</li>
+</ul>
+<strong>October 2016:</strong>
+<ul>
+<li>Yunus Yildirim</li>
+<li>Muhammad Hammad</li>
+<li>Chris</li>
+</ul>
+<strong>September 2016:</strong>
+<ul>
+<li>Steave Afters</li>
+<li>Jhack</li>
+</ul>
+Contacting Us
+<p>If you have any inquiries, questions, comments or complaints about the security advisory page, Please feel free to contact security@asus.com.<br>
+</p> 
