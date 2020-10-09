@@ -99,24 +99,25 @@ You have a number of options to control or limit how we, our partners, and other
 </p>
 <ul>
 <li>To control whether Twitter stores information about other websites where you’ve seen Twitter content, adjust the <b>Track where you see Twitter content across the web</b> setting in your <b>Personalization and data </b>settings.
-If you have this setting disabled or are in the European Union or EFTA States, Twitter will not store or use such web page visits to improve your experience in the future.
+If you have this setting turned off or are in the European Union or EFTA States, Twitter will not store or use such web page visits to improve your experience in the future.
 If we’ve previously stored your web browsing history, your experience may continue to be personalized based on information already inferred from that history.</li>
-<li>If you do not want Twitter to show you interest-based ads on and off of Twitter, there are several ways to turn off this feature:<br>
+<li>If you do not want Twitter to show you interest-based ads on and off of Twitter, there are several ways to disable this feature:<br>
 <ul>
 <li>Using your Twitter settings, visit the <b>Personalization and data</b> settings and adjust the setting <b>Personalize ads</b>.</li>
 <li>If you are on the web, you can visit the Digital Advertising Alliance’s consumer choice tool at optout.aboutads.info to opt out of seeing interest-based advertising from Twitter in your current browser.</li>
-<li>On iOS 13 and earlier only, if you do not want Twitter to show you interest-based ads in Twitter for iOS on your current mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings. </li>
-<li>If you do not want Twitter to show you interest-based ads in Twitter for Android on your current mobile device, enable “Opt out of Ads Personalization” in your Android phone’s settings.</li>
+<li>On iOS version 13 and earlier only, if you do not want Twitter to show you interest-based ads in Twitter for iOS on your current mobile device, enable the <b>Limit Ad Tracking</b> setting in your iOS phone’s settings (precise directions may be different on different iOS versions). </li>
+<li>On Android, if you do not want Twitter to show you interest-based ads in Twitter for Android on your current mobile device, enable <b>Opt out of Ads Personalization</b> in your Android phone’s settings (precise directions and name of the setting may be different on different Android versions and OEM Android variants).</li>
 </ul>
 </li>
+<li>On iOS version 14 and later only, if you do not want Twitter to access your iOS Identifier for Advertising, disable the <b>Allow Apps to Request to Track</b> setting in your iOS settings (precise directions may be different on different iOS versions). </li>
 <li>To control personalization across devices on Twitter, visit your<b> Personalization and data</b> settings and adjust the <b>Personalize across all your devices</b> setting.
 This will control whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you’re logged out, whether we link the browser or device you’re currently using to any other browsers or devices).<br>
 </li>
 <li>To control interest-based advertising from certain third-party advertising partners, you can learn more about opting out of receiving interest-based ads at optout.aboutads.info and www.networkadvertising.org/choices.
 If you are on the web, you can also opt out of Google Analytics by installing Google’s opt-out browser add-on, and opt out of interest-based Google ads using Google’s Ads Settings.</li>
 <li>To control cookies, you can modify your settings in most web browsers to accept or deny cookies or to request your permission each time a site attempts to set a cookie.
-Although cookies are not required for some parts of our services, Twitter and Periscope may not work properly if you disable cookies entirely.
-For example, you cannot log into twitter.com or pscp.tv if you've disabled all cookie use.<br>
+Although cookies are not required for some parts of our services, Twitter and Periscope may not work properly if you disablecookies entirely.
+For example, you cannot log into twitter.com or pscp.tv if you've turned off all cookie use.<br>
 </li>
 </ul>
 <p>Note: Please confirm that you are logged in if you want to view or change the web settings for your Twitter account.

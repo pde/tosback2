@@ -1,55 +1,58 @@
 These files were modified since the last commit:
 
 On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
-  (use "git push" to publish your local commits)
+Your branch is up-to-date with 'origin/master'.
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   ../crawl/123greetings.com/Privacy Policy.txt
+	modified:   ../crawl/academia.edu/Privacy Policy.txt
+	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
 	modified:   ../crawl/bankrate.com/Privacy Policy.txt
-	modified:   ../crawl/bloomingdales.com/Privacy Policy.txt
 	modified:   ../crawl/bored.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
+	modified:   ../crawl/care2.com/Privacy Policy.txt
+	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
+	modified:   ../crawl/chrysler.com/Privacy Policy.txt
+	modified:   ../crawl/debka.com/Privacy Policy.txt
 	modified:   ../crawl/elearners.com/Privacy Policy.txt
 	modified:   ../crawl/fandango.com/Privacy Policy.txt
-	modified:   ../crawl/fisher-price.com/Privacy Policy.txt
-	modified:   ../crawl/flickr.com/Additional Terms of Service.txt
-	modified:   ../crawl/gartner.com/Privacy Policy.txt
+	modified:   ../crawl/fitbit.com/Privacy Policy.txt
+	modified:   ../crawl/geico.com/Privacy Policy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
 	modified:   ../crawl/home.mywebsearch.com/Privacy Policy.txt
 	modified:   ../crawl/hsbc.com/Privacy Policy.txt
 	modified:   ../crawl/instructables.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/jobgo.com/Privacy Policy.txt
-	modified:   ../crawl/landsend.com/Privacy Policy.txt
 	modified:   ../crawl/lexus.com/Privacy Policy.txt
-	modified:   ../crawl/mediaplex.com/Privacy Policy.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
-	modified:   ../crawl/pg.com/Privacy Policy.txt
 	modified:   ../crawl/pollen.com/Privacy Policy.txt
 	modified:   ../crawl/scmagazine.com/Privacy Policy.txt
 	modified:   ../crawl/search-results.com/Privacy Policy.txt
 	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
-	modified:   ../crawl/shopstyle.com/Terms of Service.txt
+	modified:   ../crawl/sony.com/Privacy Policy.txt
 	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
-	modified:   ../crawl/superpages.com/Privacy Policy.txt
-	modified:   ../crawl/toyota.com/Privacy Policy.txt
+	modified:   ../crawl/subaru.com/Privacy Policy.txt
+	modified:   ../crawl/tp-link.com/Security Advisory.txt
+	modified:   ../crawl/trendmicro.com/Router Compatibility List.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
+	modified:   ../crawl/twitter.com/Our use of cookies and similar technologies.txt
 	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+	modified:   ../crawl/ups.com/Privacy Policy.txt
+	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
+	modified:   ../crawl/usa.autodesk.com/Privacy Policy.txt
 	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
 	modified:   ../crawl/webs.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
-	modified:   ../crawl_reviewed/coursera.org/Terms of Use.txt
-	modified:   ../crawl_reviewed/flickr.com/Community Guidelines.txt
-	modified:   ../crawl_reviewed/wikimediafoundation.org/Privacy Policy.txt
 	modified:   ../crawl_reviewed/wikipedia.org/Privacy Policy.txt
+	modified:   ../crawl_reviewed/xfinity.com/Residential Subscriber Agreement.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
@@ -58,34 +61,8 @@ Changes not staged for commit:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	../crawl/allthingsd.com/
-	../crawl/ampedwireless.com/Privacy Policy.txt
-	../crawl/ampedwireless.com/Terms of Service.txt
-	../crawl/arlo.com/
-	../crawl/asus.com/Hackerone Profile.txt
-	../crawl/asus.com/Security Advisory.txt
-	../crawl/asus.com/Terms of Use.txt
-	../crawl/canary.is/
-	../crawl/chegg.com/
-	../crawl/dlink.com/
-	../crawl/eero.com/
-	../crawl/google.com/Privacy Policy.txt
-	../crawl/honeywell.com/
-	../crawl/jobs.net/
-	../crawl/linksys.com/
-	../crawl/logitech.com/
-	../crawl/microsoft.com/Law Enforcement Requests Report.txt
-	../crawl/microsoft.com/Windows 10 location service and privacy.txt
-	../crawl/nest.com/
-	../crawl/netgear.com/
-	../crawl/samsung.com/
-	../crawl/snapfish.com/
-	../crawl/synology.com/
-	../crawl/tp-link.com/
-	../crawl/trendmicro.com/
-	../crawl/ui.com/
-	../crawl/visible.com/Terms and Conditions.txt
-	../crawl/windstream.com/Terms of Service.txt
-	../crawl/www.craigslist.org/Terms of Use.txt
+	../crawl/eero.com/Vulnerability Disclosure Program.txt
+	../crawl/privacyscore.com/
+	../crawl/syfy.com/
 
 no changes added to commit (use "git add" and/or "git commit -a")
