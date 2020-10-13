@@ -121,7 +121,7 @@ Security researchers, industry groups, government organizations and vendors can 
 <p>-----BEGIN PGP PUBLIC KEY BLOCK-----</p>
 <p>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 =dpgO</p>
 <p>-----END PGP PUBLIC KEY BLOCK-----</p>
-<p> </p> Acknowledgments 
+<p> </p> Acknowledgments
 <p>We would like to acknowledge all individuals who have reported a vulnerability in our environment.
 We are grateful for these security researchers who help keep us secure. </p>
 <b>REPORTERS NAME</b>
@@ -148,6 +148,8 @@ Ashish Kunwar
 @D0rkerDevil
 Athul Jayaram
 https://www.linkedin.com/in/athuljayaram
+Ayush Pandey
+https://www.linkedin.com/in/ayush-pandey-148797175
 B Dhiyaneshwaran
 https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/
 Badal Sardhara
