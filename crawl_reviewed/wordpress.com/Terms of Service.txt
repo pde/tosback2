@@ -257,12 +257,14 @@ or</li>
 <li>License, sublicense, sell, resell, rent, lease, transfer, assign, distribute, or otherwise commercially exploit or make Happy Tools available to any third party, other than your authorized users.</li>
 </ul>e.
 Ecommerce Services
-<p>There are certain features offered via WooCommerce, WooCommerce Services, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”).
+<p>There are certain features offered via WooCommerce, WooCommerce Shipping &amp.
+Tax, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”).
 If you use WooCommerce, the WooCommerce Use Terms also apply.</p>
 <p>If you use any Ecommerce Services, you represent and warrant that any information you provide about your business, products, and services is accurate, complete, and will be kept current.
 You agree to promptly notify us via email if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) relating to your transactions.</p>
 <p>
-<strong>Usage of Information.</strong> WooCommerce Services may require Automattic’s servers, a connection to our partners, and/or data from your website, to work, as described on our “What Data Does Jetpack Sync?” support page.</p>
+<strong>Usage of Information.</strong> WooCommerce Shipping &amp.
+Tax may require Automattic’s servers, a connection to our partners, and/or data from your website, to work, as described on our “What Data Does Jetpack Sync?” support page.</p>
 <p>
 <strong>Prohibited Uses.
 </strong>You may not use Ecommerce Services for any unlawful purposes, in furtherance of illegal activities, or in a manner that is unfair, deceptive, exposes us or customers to unreasonable risks, or does not disclose important terms of a transaction in advance.</p>
@@ -305,12 +307,16 @@ Tax laws also differ from jurisdiction to jurisdiction and may be subject to dif
 We recommend that you consult with a tax professional for your specific tax situation when assessing the correct tax rates you should charge.</p>
 <p>If we are obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you are responsible for such Taxes, and we may collect payment for such Taxes.</p>
 <p>
-<strong>Shipping Services.</strong> Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, and Canada Post.
+<strong>Shipping Services.</strong> Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, DHL, and Canada Post.
 We act only as an intermediary between you and these third parties.
 we are not involved in any way with your product or its shipment.
 We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.</p>
 <p>You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service.
-For example, if you use USPS postage, you will need to comply with their shipping restrictions and mailing standards, among others.</p>
+For example:</p>
+<ul>
+<li>If you use USPS postage, you need to comply with their shipping restrictions and mailing standards, among others.</li>
+<li>When using DHL’s services, you are responsible for compliance with all applicable DHL rules and terms, such as the DHL Express Terms and Conditions of Carriage.</li>
+</ul>
 <p>In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments.
 If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.</p>
 <p>Please note that in some cases, you may need to pay fees to the carrier directly, like if you use UPS shipping labels.
