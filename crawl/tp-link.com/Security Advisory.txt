@@ -35,14 +35,8 @@ Support <ol>
 <li>
 </li>
 <li> Setup Videos </li>
-</ul> Whole Home <em>WiFi</em>
-<p>Wi-Fi for the whole home</p>
-<ul>
-<li>Deco</li>
-</ul> Routers <p>Create a fast and reliable Wi-Fi</p>
-<ul>
-<li>WiFi Routers</li>
-</ul> Network Expansion <p>Easy ways to expand and enhance your network</p>
+</ul> Deco Mesh <em>WiFi</em>
+<p>Wi-Fi for the whole home</p> WiFi Routers <p>Create a fast and reliable Wi-Fi</p> Network Expansion <p>Easy ways to expand and enhance your network</p>
 <ul>
 <li>Range Extenders</li>
 <li>Powerline</li>
@@ -71,10 +65,7 @@ Gateways <p>Your doorway to the internet</p>
 <li> Smart Home <ul>
 <li>
 <i> </i> Kasa Smart Home </li>
-<li>
-</li>
-<li> Tapo Smart </li>
-</ul> Security Cameras <p>Keeping an eye on what matters</p> Smart Plugs <p>Smarten up your home devices</p> Smart Lighting <p>Light for every occasion</p> Smart Switches <p>More than just on and off</p> Smart Home Router <p>Connect all devices including the smart ones</p> Accessories <p>Extensions of the smart home</p>
+</ul> Security Cameras <p>Keeping an eye on what matters</p> Smart Plugs <p>Smarten up your home devices</p> Smart Lighting <p>Light for every occasion</p> Smart Switches <p>More than just on and off</p> Accessories <p>Extensions of the smart home</p>
 </li>
 <li> Business <ul>
 <li>
@@ -90,7 +81,6 @@ Gateways <p>Your doorway to the internet</p>
 <li> Case studies </li>
 </ul> Omada SDN <p>The easy managing smart business network solution</p>
 <ul>
-<li>What is Omada SDN?</li>
 <li>Controllers</li>
 <li>Access Points</li>
 <li>Switches</li>
@@ -121,6 +111,9 @@ Gateways <p>Your doorway to the internet</p>
 <li>
 </li>
 <li> Agile Config Tools </li>
+<li>
+</li>
+<li> Service Provider </li>
 </ul>
 </li>
 </ul>
@@ -137,25 +130,11 @@ Gateways <p>Your doorway to the internet</p>
 <p>Back</p>
 <ul>
 <li>
-<i>
-</i>
-<p>Whole Home <em>WiFi</em>
+<p>Deco Mesh <em>WiFi</em>
 </p>
-<ul>
-<li>
-<p>Deco</p>
 </li>
-</ul>
-</li>
-<li>
-<i>
-</i>
-<p>Routers</p>
-<ul>
 <li>
 <p>WiFi Routers</p>
-</li>
-</ul>
 </li>
 <li>
 <i>
@@ -269,9 +248,6 @@ Gateways</p>
 <p>Smart Switches</p>
 </li>
 <li>
-<p>Smart Home Router</p>
-</li>
-<li>
 <p>Accessories</p>
 </li>
 </ul>
@@ -279,9 +255,6 @@ Gateways</p>
 <li>
 <i> </i>
 <p>Kasa Smart Home</p>
-</li>
-<li>
-<p>Tapo Smart</p>
 </li>
 </ul>
 </li>
@@ -298,9 +271,6 @@ Gateways</p>
 </i>
 <p>Omada SDN</p>
 <ul>
-<li>
-<p>What is Omada SDN?</p>
-</li>
 <li>
 <p>Controllers</p>
 </li>
@@ -405,6 +375,9 @@ Gateways</p>
 </li>
 <li>
 <p>Agile Config Tools</p>
+</li>
+<li>
+<p>Service Provider</p>
 </li>
 </ul>
 </li>

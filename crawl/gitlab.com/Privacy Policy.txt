@@ -7,8 +7,11 @@ By accessing or using any part of the Websites or self-managed installations, yo
 This means that many portions of our Websites, including information you voluntarily provide, will be public-facing for the open sharing of innovative developments, ideas, and information that makes our collaborative community so great.
 While we are committed to open sharing, we strive to respect the privacy of individual community members and will minimize the information we collect and share.
 If you do not want to share your information, including personally identifiable information, with other community members and the public, please be thoughtful as to how you interact with our Websites and what information you provide through the Websites (for example, through creating a public profile, project contributions, comments, and blog posts).</p> Data Protection
-<p>Oversight of Data Security is handled by GitLab's respective Data Protection Officers.
-Should you wish to make modifications, deletions, or additions to any personal data you believe to be captured by GitLab, or if you have any general security concerns, please contact the Data Protection Office (DPO) for your respective territory at [dpo@gitlab.com](mailto:dpo@gitlab.com).</p>
+<p>
+Oversight of Data Security is handled by GitLab's respective Data Protection Officers.
+Should you wish to make modifications, deletions, or additions to any personal data you believe to be captured by GitLab, or if you have any general security concerns, please contact the Data Protection Office (DPO) for your respective territory at
+dpo@gitlab.com.
+</p>
 What Information GitLab Collects and Why
 Information from Website Visitors
 <p>Like most website operators, GitLab collects basic non-personally-identifying information from Website visitors of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
@@ -28,11 +31,11 @@ Here you can also opt-out of the usage ping.</p>
 Personally-Identifying Information
 <p>Users of the Websites may choose to interact with GitLab in ways that provide us with their personally-identifying information.
 In some instances, a User ID is generated for form and url tracking, page views, page pings and usage counts in order to ascertain product performance and development.
-The amount and type of information that GitLab gathers depends on the nature of your interaction with us, as well as the amount of information you choose to share.
+The amount and type of information that GitLab gathers depend on the nature of your interaction with us, as well as the amount of information you choose to share.
 For example, we ask visitors who use our blog forums to provide a username and email address to identify them on the Website.
 We will also collect the information you provide with us in connection with creating an account on the Website.
 Profile information is shared publicly, as well as activity under your profile and the date your profile was created.
-If you report a security vulnerability to GitLab and request public acknowledgement, then we may publicly disclose the personal information you provided to us in connection with the report, including your name to fulfill your request for acknowledgement.
+If you report a security vulnerability to GitLab and request public acknowledgment, then we may publicly disclose the personal information you provided to us in connection with the report, including your name to fulfill your request for acknowledgment.
 In each case, GitLab collects such personally-identifiable information only insofar as is necessary or appropriate to fulfill the purpose of the user’s interaction with or request of GitLab.
 We will not disclose personally-identifying information other than as described in this Privacy Policy.</p>
 <p>Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent you from engaging in certain Website-related activities or being able to access and use certain features and services.</p>
