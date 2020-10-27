@@ -32,11 +32,15 @@ Support <ol>
 <li>
 </li>
 <li> OneMesh </li>
-<li>
-</li>
-<li> Setup Videos </li>
-</ul> Deco Mesh <em>WiFi</em>
-<p>Wi-Fi for the whole home</p> WiFi Routers <p>Create a fast and reliable Wi-Fi</p> Network Expansion <p>Easy ways to expand and enhance your network</p>
+</ul> Mesh WiFi <p>Wi-Fi for the whole home</p>
+<ul>
+<li>Deco</li>
+</ul> WiFi Routers <p>Create a fast and reliable Wi-Fi</p>
+<ul>
+<li>WiFi Routers</li>
+<li>WiFi 6 Routers</li>
+<li>WiFi 5 Routers</li>
+</ul> Network Expansion <p>Easy ways to expand and enhance your network</p>
 <ul>
 <li>Range Extenders</li>
 <li>Powerline</li>
@@ -62,10 +66,7 @@ Gateways <p>Your doorway to the internet</p>
 <li>USB Adapters</li>
 </ul>
 </li>
-<li> Smart Home <ul>
-<li>
-<i> </i> Kasa Smart Home </li>
-</ul> Security Cameras <p>Keeping an eye on what matters</p> Smart Plugs <p>Smarten up your home devices</p> Smart Lighting <p>Light for every occasion</p> Smart Switches <p>More than just on and off</p> Accessories <p>Extensions of the smart home</p>
+<li> Smart Home Security Cameras <p>Keeping an eye on what matters</p> Smart Plugs <p>Smarten up your home devices</p> Smart Lighting <p>Light for every occasion</p> Smart Switches <p>More than just on and off</p> Accessories <p>Extensions of the smart home</p>
 </li>
 <li> Business <ul>
 <li>
@@ -130,11 +131,30 @@ Gateways <p>Your doorway to the internet</p>
 <p>Back</p>
 <ul>
 <li>
-<p>Deco Mesh <em>WiFi</em>
-</p>
+<i>
+</i>
+<p>Mesh WiFi</p>
+<ul>
+<li>
+<p>Deco</p>
+</li>
+</ul>
 </li>
 <li>
+<i>
+</i>
 <p>WiFi Routers</p>
+<ul>
+<li>
+<p>WiFi Routers</p>
+</li>
+<li>
+<p>WiFi 6 Routers</p>
+</li>
+<li>
+<p>WiFi 5 Routers</p>
+</li>
+</ul>
 </li>
 <li>
 <i>
@@ -222,9 +242,6 @@ Gateways</p>
 <li>
 <p>OneMesh</p>
 </li>
-<li>
-<p>Setup Videos</p>
-</li>
 </ul>
 </li>
 <li>
@@ -249,12 +266,6 @@ Gateways</p>
 </li>
 <li>
 <p>Accessories</p>
-</li>
-</ul>
-<ul>
-<li>
-<i> </i>
-<p>Kasa Smart Home</p>
 </li>
 </ul>
 </li>
@@ -545,7 +556,6 @@ Certifications </li>
 <ul>
 <li> tp-link </li>
 <li> kasa </li>
-<li> tapo </li>
 </ul> United States / English Copyright © 2020 TP-Link Corporation Limited.
 All rights reserved.
 &lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=560379577839261&amp;amp;ev=PageView&amp;amp;noscript=1"&gt.
