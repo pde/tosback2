@@ -101,8 +101,8 @@ title, first name and last name</li>
 <li>Educational background</li>
 <li>Photo</li>
 <li>Portfolio</li>
-</ul>Visibility <p>Your optional information is visible to all users in the social network after you enter it.
-In some cases, you can choose whether optional information should only be visible to certain users in the social network.</p>
+</ul>Visibility <p>Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity.
+Please refer to the respective application for more information.</p>
 <p>If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device).
 This feature can act as a substitute for exchanging conventional business cards.
 To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users.
@@ -125,8 +125,8 @@ Please refer to the respective application for more information.</p> Period save
 <ul>
 <li>Employer reviews</li>
 <li>Photo</li>
-</ul>Visibility <p>Your optional information is visible to all users in the social network after you enter it.
-In some cases, you can choose whether optional information should only be visible to certain users in the social network.</p> Period saved for <p>If you delete the data, it will be removed from the respective application.
+</ul>Visibility <p>Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity.
+Please refer to the respective application for more information.</p> Period saved for <p>If you delete the data, it will be removed from the respective application.
 We will erase the data in full when you delete your user account.
 We may also save certain information (e.g.
 employer reviews) in an anonymous form beyond this point.
@@ -252,7 +252,7 @@ If you are not logged in as a user, tracking is pseudonymous, i.e.
 we are not able to directly deduce information regarding your identity from information we obtain from tracking.
 The cookies used for the web analysis contain an ID which allows us to identify your end device’s browser.
 We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection and personal data is processed within the European Union.</p>
-<p>You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: https://www.adobe.com/de/privacy/opt-out.html <br>
+<p>You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: https://nats.xing.com/optout.html?popup=1 <br>
 <br> Please note that this opt-out option installs a cookie on the end device you’re using when you click on the link.
 You therefore might not be excluded from tracking if you then delete the cookie in question.
 When using mobile apps, you need to opt out in the respective app settings.</p> Google Analytics <p>We use the web analysis tool Google Analytics, developed by Google Inc.
