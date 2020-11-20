@@ -1075,7 +1075,19 @@ Response <ul>
 </li>
 </ul>
 </li>
-<li>My Account </li>
+<li>My Account <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
+<li> Account Services Portal <ul>
+<li>Residential &amp.
+Small Business</li>
+<li>Medium &amp.
+Enterprise Business</li>
+<li>Wholesale</li>
+</ul>
+</li>
+</ul>
+</li>
 <li> About Us <ul>
 <li> Investor Relations </li>
 <li> News </li>
@@ -1106,7 +1118,19 @@ Inclusion </li>
 <li> Contact Us </li>
 </ul>
 <ul>
-<li>My Account </li>
+<li> My Account <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
+<li> Account Services Portal <ul>
+<li>Residential &amp.
+Small Business</li>
+<li>Medium &amp.
+Enterprise Business</li>
+<li>Wholesale</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>About Us</li>
 <li>Contact Us</li>
 <li> Search </li>
@@ -1351,6 +1375,7 @@ Email Support</li>
 <li>Refer a Friend</li>
 <li>Lifeline &amp.
 Assistance Programs</li>
+<li>MyCCI.net Support</li>
 </ul> Business Support <i>
 </i>
 <ul>
@@ -1364,6 +1389,8 @@ Domain Support</li>
 </ul> Account Support <i>
 </i>
 <ul>
+<li>Check Email</li>
+<li>View or Pay My Bill</li>
 <li>Help Understanding My Bill</li>
 <li>Check My Internet Speed Eligibility</li>
 <li>Seasonal Suspend &amp.
