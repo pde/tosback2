@@ -1,5 +1,5 @@
-Last updated: July 7, 2020.
-Privacy PolicyContents<ul>
+Last updated: November 22, 2020.
+You can find an overview of recent changes here.Privacy PolicyContents<ul>
 <li>1.
 Introduction</li>
 <li>2.
@@ -321,22 +321,27 @@ These parts of our Service are also free for everyone.
 As a result, logged-out Visitors will find advertisements there.Primarily, ResearchGate enables third-party networks and platforms with which we have a business relationship to disseminate advertisements on the Service.For each of those third parties, their technology, data processing and purposes, we may ask you for your explicit consent.
 We do so with the help of our consent modal.
 Here’s how to navigate it:<ul>
-<li>Under "More options" – "Third party vendors" you will find a list of purposes and respective descriptions.
-Each party we allow to display advertisements on the Service is listed in all categories that their data processing falls under.
-Clicking on "View Companies" will open the respective list of companies.</li>
-<li>Under "More options" – "Other" you will find the description of Google’s services currently used by ResearchGate.
-Google is also working with technology and business partners that can be found when you click on "View companies".</li>
-<li>"Features" and their respective descriptions cover such data uses or data sourcing that overlap across multiple purposes.
-Information about a specific vendor will provide you with information about whether that vendor applies those features.</li>
-<li>You can inspect every vendor in an extensive list in more detail, by clicking on "All vendors".
-That’s where you can find the purposes, features, related information, and a link to that vendor’s privacy policy.</li>
-<li>Most important for you: unless you granted consent to those third-party technologies, purposes and features by clicking "Accept" in our consent modal, "Third party vendors", Google and their partners ("Other"), will only be able to process very limited personal data and only if they can claim legitimate interest to do so.
-You can check if a third party claims legitimate interest by visiting the vendor-specific details within the consent modal.</li>
-<li>The default choice is that all vendors are disabled.</li>
-<li>Besides the options "I accept", "Accept all", and "Reject all", you can also choose to only opt in for certain purposes or certain vendors.</li>
+<li>Under "More options", you will find a list of data processing purpose-stacks.
+By clicking on these, you can find out what each stack specifically consists of, according legal descriptions and a corresponding list of partners that process data under this purpose stack.
+You can choose to allow the stack or just parts of the stack.
+If you prefer to not allow a stack or specific purposes, you don't have to do anything.</li>
+<li>Clicking "Agree" has the effect of explaining consent for all data processing and according partners.</li>
+<li>Any settings you made will be stored when you click "Save and exit".</li>
+<li>If you don't want to explain any consent, you just have to click "Save &amp.
+exit", since data processing that requires prior consent is default “OFF”.</li>
+<li>"Additional links" will refer you to this Privacy Policy.</li>
+<li>Under "More options" – "Partners" you will find a list of partners, their purposes and respective descriptions, as well as links pointing to the respective partners privacy policies.
+Here you can make specific choices regarding each partner.
+Some personal data is processed without your prior consent, but you have the right to object.</li>
+<li>Under "More options" – "Legitimate interest" you will find a list of "Legitimate interest purposes" and "Legitimate interest vendors".
+When you unfold the legitimate interest purposes, the legal description and the partner relying on legitimate interest for this purpose is provided.
+When you unfold the description of a specific partner, you can also find out for which purposes, the specific partner relies on Legitimate interest.
+Where processing of personal data is being executed without your prior approval but with the legal basis "Legitimate Interest", you have the right to object.
+Under "More options" – "Legitimate interest", you can explain your objection for each purpose and each partner, but you can also click "Object all".</li>
+<li>Most important for you: unless you granted consent by clicking "Agree" in our consent modal, our partners will only be able to process very limited personal data and only if they can claim legitimate interest to do so.</li>
 <li>At any time, you can withdraw any consent given or modify your consent.
 You can do so by re-prompting the consent modal by clicking here.</li>
-<li>Please note: even if you have not provided your consent to any of the listed third-party vendors, you will still be presented with advertisements, but such advertisements will not be tailored to you.</li>
+<li>Please note: even if you have not provided your consent, you will still be presented with advertisements, but such advertisements will not be tailored to you.</li>
 </ul>
 </li>
 </ol>7.
@@ -354,7 +359,7 @@ The data is deleted after 26 months.
 By activating IP anonymization on our website, your IP address is truncated before it is forwarded within the member states of the European Union or other states party to the Agreement on the European Economic Area.
 Only in exceptional cases will your full IP address be forwarded to a Google server in Ireland and possibly the USA and shortened there.
 Google will not combine your IP address collected via Google Analytics with other data that Google holds.
-Google has subjected itself to the US Privacy Shield.To opt out from Google Analytics, please click here.
+To opt out from Google Analytics, please click here.
 If you delete your cookies, you have to click this link again.<br>Our use of Google Analytics is also administered by the consent modal as described at Advertisements on ResearchGate.In addition, each of the following services is provided by Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland.You can opt out from the following Google services using this link:<ul>
 <li>Google Tag Manager is a solution that allows us to manage website tags through one interface.
 The Tag Manager itself is a cookie-less domain and does not collect personal data.
@@ -374,7 +379,6 @@ Google Ad Manager also uses cookies for this purpose.</li>
 <strong>Lotame</strong>We also use the services of Lotame Solutions Inc, 8850 Stanford Blvd., Suite 4000, Columbia, MD 21045, USA.
 Their service provides us with the capability of creating user segments which can subsequently be used to tailor delivery of advertisements and content to those user segments.
 Lotame is capable of doing this because it is processing cookie IDs, IP addresses, Non-precise Geo Location Data, and browsing information.
-Lotame is participating in the EU-US Privacy Shield, effectively safeguarding the European privacy standards also for a US company.<br>
 <br>You can opt out from Lotame’s services by visiting this website.</li>
 <li>
 <strong>Cloudflare</strong>We also use the services of Cloudflare, Inc.
@@ -386,7 +390,6 @@ Cloudflare also provides an "I am under attack"- mode that requests Users to sol
 Through Cloudflare, our Service is more powerful and less vulnerable.
 For these purposes Cloudflare uses cookies (see <strong>Cookie table for ResearchGate</strong>) and processes data of which your IP address could be considered personal.
 Cloudflare might store this data in the US.
-Cloudflare is participating under the EU-US Privacy Shield.
 More information about Cloudflare can be found here.</li>
 </ol>8.
 Recipients and safeguards<ol>
@@ -401,7 +404,8 @@ Your name, email address, and other directly identifying data will only be share
 These service providers receive personal data solely for the performance of their services for us on our behalf.
 They are contractually obliged not to use personal data for other purposes.</li>
 <li>
-<strong>Safeguards </strong>Some of the third parties with whom your personal data will be shared are located outside of the European Economic Area, in countries whose data protection laws may not be as extensive as those which apply to us.If we transfer your personal data to countries outside of the European Economic Area or which do not offer adequate and similar protection, we will ensure that we do this in accordance with applicable data protection regulations (for example, by putting in place an appropriate data transfer instrument such as the European Standard Contractual Clauses, or, for EU-US data transfers only, in case the respective company is a participant of the EU-US Privacy Shield).<br>We will do this with a view to ensuring that the level of protection applied to the processing of your personal data in these countries is similar to that applied within the European Economic Area.</li>
+<strong>Safeguards </strong>Some of the third parties with whom your personal data will be shared are located outside of the European Economic Area, in countries whose data protection laws may not be as extensive as those which apply to us.If we transfer your personal data to countries outside of the European Economic Area or which do not offer adequate and similar protection, we will ensure that we do this in accordance with applicable data protection regulations (for example, by putting in place an appropriate data transfer instrument such as the European Standard Contractual Clauses).<br>
+<br>We will do this with a view to ensuring that the level of protection applied to the processing of your personal data in these countries is similar to that applied within the European Economic Area.</li>
 </ol>9.
 Closing your account and retention of personal dataFor Members, we generally store their personal data as long as their account is active.If you have created an account, you can close it yourself in your ‘Account Settings’.
 If you request that we close your account for you, we might ask for proof of identity before doing so.We may also close inactive accounts or accounts that are used in violation of our Terms of Service or any applicable law.Immediately after closing an account, it will not be accessible/visible anymore.
@@ -417,14 +421,14 @@ In particular, you can obtain information about the purposes of processing, cate
 <li>Right to correct inaccurate personal data or complete incomplete data according to Art.
 16 GDPR.</li>
 <li>Right to obtain deletion of your personal data stored with us in accordance with Art.
-17 DSVGO, subject to legal or contractual retention periods or other legal obligations or rights which must be observed.</li>
+17 GDPR, subject to legal or contractual retention periods or other legal obligations or rights which must be observed.</li>
 <li>Right to restrict the processing of your personal data in accordance with Art.
-18 DSVGO in the event that: you contest the accuracy of the data.
+18 GDPR in the event that: you contest the accuracy of the data.
 the processing is unlawful but you oppose its deletion.
 we no longer need the personal data for the purposes of the processing but you need it for your assertion.
 it may be relevant to the exercise or defense of legal claims.
 or you have lodged an objection to the processing in accordance with Art.
-21 DSVGO.</li>
+21 GDPR.</li>
 <li>Right to data portability in accordance with Art.
 20 GDPR, to receive the stored personal data concerning you in a structured, commonly used, and machine-readable format or request the transfer of this data to another responsible party.</li>
 <li>Right to lodge a complaint with your competent supervisory authority.
@@ -436,4 +440,5 @@ Your competent authority is the authority at your usual place of residence or th
 To the extent we process your personal data pursuant to Art.
 6(1)(f) GDPR for direct marketing purposes, you can object to such processing at any time without giving a particular reason.</strong>You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding data processing by contacting us here.12.
 Contact informationIf you have any questions or concerns about this Privacy Policy, please email our Data Protection Officer at privacy@researchgate.net, contact us here, or send a letter to:Data Protection OfficerResearchGate GmbHChausseestr.
-2010115 Berlin, GermanyIn the event you still have requests or complaints, please contact the Berlin Commissioner for Data Protection and Freedom.https://www.datenschutz-berlin.de/<br>Tel.: +49 30 13889-0<br>Fax: +49 30 2155050<br>E-Mail: mailbox@datenschutz-berlin.de<br>You can find additional information about security and privacy in our Help Center here.
+2010115 Berlin, GermanyYou can find additional information about security and privacy in our Help Center here.<br>
+<br>In the event you still have requests or complaints, please contact the Berlin Commissioner for Data Protection and Freedom.https://www.datenschutz-berlin.de/<br>Tel.: +49 30 13889-0<br>Fax: +49 30 2155050<br>E-Mail: mailbox@datenschutz-berlin.de<br>
