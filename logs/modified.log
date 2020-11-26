@@ -8,29 +8,29 @@ Changes not staged for commit:
 
 	modified:   ../crawl/aeropostale.com/Privacy Policy.txt
 	modified:   ../crawl/agame.com/Privacy Policy.txt
-	modified:   ../crawl/alibaba.com/Privacy Policy.txt
+	modified:   ../crawl/asmallworld.net/Privacy Policy.txt
 	modified:   ../crawl/bankrate.com/Privacy Policy.txt
 	modified:   ../crawl/bikeindex.org/Vendor Terms of Service.txt
 	modified:   ../crawl/bored.com/Privacy Policy.txt
 	modified:   ../crawl/buckle.com/Privacy Policy.txt
+	modified:   ../crawl/careerbuilderinstitute.com/Privacy Policy.txt
 	modified:   ../crawl/chrysler.com/Privacy Policy.txt
-	modified:   ../crawl/daum.net/Privacy Policy.txt
+	modified:   ../crawl/debka.com/Privacy Policy.txt
+	modified:   ../crawl/elearners.com/Privacy Policy.txt
+	modified:   ../crawl/fairpoint.com/Privacy Policy.txt
 	modified:   ../crawl/fandango.com/Privacy Policy.txt
 	modified:   ../crawl/gartner.com/Privacy Policy.txt
 	modified:   ../crawl/godlikeproductions.com/Privacy Policy.txt
 	modified:   ../crawl/hautelook.com/Privacy Policy.txt
 	modified:   ../crawl/home.mywebsearch.com/Privacy Policy.txt
+	modified:   ../crawl/homedecorators.com/Privacy Policy.txt
 	modified:   ../crawl/honeywell.com/Security.txt
-	modified:   ../crawl/hsbc.com/Privacy Policy.txt
-	modified:   ../crawl/hubpages.com/Privacy Policy.txt
-	modified:   ../crawl/instructables.com/Privacy Policy.txt
 	modified:   ../crawl/intuit.com/Privacy Policy.txt
 	modified:   ../crawl/jobgo.com/Privacy Policy.txt
-	modified:   ../crawl/landsend.com/Privacy Policy.txt
-	modified:   ../crawl/lexus.com/Privacy Policy.txt
+	modified:   ../crawl/microsoft.com/Microsoft Services Agreement.txt
+	modified:   ../crawl/monkeybrains.net/All Policies.txt
 	modified:   ../crawl/nike.com/Privacy Policy.txt
 	modified:   ../crawl/officemax.com/Privacy Policy.txt
-	modified:   ../crawl/otalliance.org/Privacy Policy.txt
 	modified:   ../crawl/peekyou.com/Privacy Policy.txt
 	modified:   ../crawl/pollen.com/Privacy Policy.txt
 	modified:   ../crawl/replacements.com/Privacy Policy.txt
@@ -40,14 +40,18 @@ Changes not staged for commit:
 	modified:   ../crawl/shop.lenovo.com/Privacy Policy.txt
 	modified:   ../crawl/sony.com/Privacy Policy.txt
 	modified:   ../crawl/starwoodhotels.com/Privacy Policy.txt
-	modified:   ../crawl/synology.com/LIMITED PRODUCT WARRANTY.txt
 	modified:   ../crawl/tube8.com/Privacy Policy.txt
 	modified:   ../crawl/ubuntu.com/Terms of Service.txt
+	modified:   ../crawl/ulster.ac.uk/Privacy Policy.txt
 	modified:   ../crawl/urbandictionary.com/Privacy Policy.txt
 	modified:   ../crawl/veracitypayments.com/Privacy Policy.txt
 	modified:   ../crawl/whitepages.com/Privacy Policy.txt
 	modified:   ../crawl/xanga.com/Privacy Policy.txt
 	modified:   ../crawl/y8.com/Privacy Policy.txt
+	modified:   ../crawl_reviewed/live.com/Microsoft Services Agreement.txt
+	modified:   ../crawl_reviewed/msn.com/Terms of Service.txt
+	modified:   ../crawl_reviewed/skype.com/Fair Usage Policy for Subscriptions.txt
+	modified:   ../crawl_reviewed/skype.com/Terms of Use.txt
 	modified:   ../logs/empty.log
 	modified:   ../logs/errors.log
 	modified:   ../logs/modified.log
